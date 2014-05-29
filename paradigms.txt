@@ -1,0 +1,760 @@
+﻿-paradigm: connect_verbs-II
+ -flex: .<.>
+  gramm:
+ paradigm: Infinitive-II
+ paradigm: Verb-pres-II-positive
+ paradigm: Verb-past-II-positive
+ paradigm: Verb-future-II-positive
+ paradigm: Verb-pres-II-negative
+ paradigm: Verb-past-II-negative
+ paradigm: Verb-future-II-negative
+ paradigm: Verb-subj-II
+ paradigm: Aspect-II
+ paradigm: Converbs-II
+ paradigm: Evidentiality-II
+ paradigm: Converbs-II
+ paradigm: Participles-II
+ paradigm: Participles-neg-II
+ paradigm: Verb-imp-II
+
+-paradigm: connect_adjectives
+ -flex: .<.>
+  gram:
+ paradigm: Adjectives_Pl
+ paradigm: Adjectives_Pl_intens
+ paradigm: Comparative
+
+-paradigm: connect_adverbs
+ -flex: .<.>
+  gram:
+ paradigm: Comparative
+ paradigm: Empty
+
+
+
+
+-paradigm: Noun-num
+ -flex: .<.>
+  gramm: sg
+ -flex: .ъёс<.>//.ос<.>//.ёс<.>//.ьёс<.>
+  gramm: pl
+ paradigm: Noun-case
+ paradigm: Noun-case-poss-1,sg
+ paradigm: Noun-case-poss-2,sg
+ paradigm: Noun-case-poss-3,sg
+ paradigm: Noun-case-poss-1,pl
+ paradigm: Noun-case-poss-2,pl
+ paradigm: Noun-case-poss-3,pl
+   
+-paradigm: Noun-case
+ -flex: .
+  gramm: nom
+ -flex: .ез//.эз//.ты//.ыз
+  gramm: acc
+ -flex: .лэн
+  gramm: gen
+ -flex: .лэсь
+  gramm: abl
+ -flex: .лы
+  gramm: dat
+ -flex: .ен//.эн//.ын
+  gramm: ins
+ -flex: .тэк
+  gramm: car
+ -flex: .я//.ъя
+  gramm: adv
+ -flex: .ын
+  gramm: ine
+ -flex: .э//.е//.ы
+  gramm: ill
+ -flex: .ысь
+  gramm: el
+ -flex: .ысен
+  gramm: egr
+ -flex: .озь//.ёзь
+  gramm: term
+ -flex: .этӥ//.етӥ//.ытӥ//.тӥ
+  gramm: prol
+ -flex: .лань
+  gramm: app
+  
+-paradigm: Noun-case-poss-1,sg
+ -flex: .э//.е//.ы
+  gramm: nom,1sg
+ -flex: .ме
+  gramm: acc,1sg
+ -flex: .элэн//.елэн//.ылэн
+  gramm: gen,1sg
+ -flex: .элэсь//.елэсь//.ылэсь
+  gramm: abl,1sg
+ -flex: .элы//.елы//.ылы
+  gramm: dat,1sg
+ -flex: .этэк//.етэк//.ытэк
+  gramm: car,1sg
+ -flex: .эя//.ея//.ыя
+  gramm: adv,1sg
+ -flex: .элань//.елань//.ылэнь
+  gramm: app,1sg
+ -flex: .еным//.эным//.ыным
+  gramm: ins,1sg
+ -flex: .ам
+  gramm: ine,1sg
+ -flex: .ам
+  gramm: ill,1sg
+ -flex: .ысьтым
+  gramm: el,1sg
+ -flex: .ысеным
+  gramm: egr,1sg
+ -flex: .озям
+  gramm: term,1sg
+ -flex: .этӥм//.етӥм//.ытӥм
+  gramm: prol,1sg
+
+-paradigm: Noun-case-poss-2,sg
+ -flex: .эд//.ед
+  gramm: nom,2sg
+ -flex: .эдлэн//.едлэн//.ылэн
+  gramm: gen,2sg
+ -flex: .эдлэсь//.едлэсь//.ыдлэсь
+  gramm: abl,2sg
+ -flex: .эдлы//.едлы//.ыдлы
+  gramm: dat,2sg
+ -flex: .эдтэк//.едтэк//.ыдтэк
+  gramm: car,2sg
+ -flex: .эдъя//едъя//.ыдъя
+  gramm: adv,2sg
+ -flex: .эдлань//.едлань//.ыдлань
+  gramm: app,2sg
+ -flex: .дэ//.тэ
+  gramm: acc,2sg
+ -flex: .еныд//.эныд//.ыныд
+  gramm: ins,2sg
+ -flex: .ад
+  gramm: ine,2sg
+ -flex: .ад
+  gramm: ill,2sg
+ -flex: .ысьтыд
+  gramm: el,2sg
+ -flex: .ысеныд
+  gramm: egr,2sg
+ -flex: .озяд
+  gramm: term,2sg
+ -flex: .этӥд//.етӥд//.ытӥд
+  gramm: prol,2sg
+
+
+  
+-paradigm: Noun-case-poss-3,sg
+ -flex: .эз//.ез//.ыз
+  gramm: nom,3sg
+ -flex: .эзлэн//.езлэн//.ызлэн
+  gramm: gen,3sg
+ -flex: .эзлэсь//.езлэсь//.ызлэсь
+  gramm: abl,3sg
+ -flex: .эзлы//.езлы//.ызлы
+  gramm: dat,3sg
+ -flex: .эзтэк//.езтэк//.ызтэк
+  gramm: car,3sg
+ -flex: .эзъя//.езъя//.ызъя
+  gramm: adv,3sg
+ -flex: .эзлань//.езлань//.ызлань
+  gramm: app,3sg
+ -flex: .зэ//.сэ
+  gramm: acc,3sg
+ -flex: .еныз//.эныз//.ыныз
+  gramm: ins,3sg
+ -flex: .аз
+  gramm: ine,3sg
+ -flex: .аз
+  gramm: ill,3sg
+ -flex: .ысьтыз
+  gramm: el,3sg
+ -flex: .ысеныз
+  gramm: egr,3sg
+ -flex: .озяз
+  gramm: term,3sg
+ -flex: .этӥз//.етӥз//.ытӥз
+  gramm: prol,3sg
+
+
+-paradigm: Noun-case-poss-1,pl
+ -flex: .мы
+  gramm: nom,1pl
+ -flex: .мылэн
+  gramm: gen,1pl
+ -flex: .мылэсь
+  gramm: abl,1pl
+ -flex: .мылы
+  gramm: dat,1pl
+ -flex: .мытэк
+  gramm: car,1pl
+ -flex: .мыя
+  gramm: adv,1pl
+ -flex: .мылань
+  gramm: app,1pl
+ -flex: .мес
+  gramm: acc,1pl
+ -flex: .ынымы
+  gramm: ins,1pl
+ -flex: .амы
+  gramm: ine,1pl
+ -flex: .амы
+  gramm: ill,1pl
+ -flex: .ысьтымы
+  gramm: el,1pl
+ -flex: .ысенымы
+  gramm: egr,1pl
+ -flex: .озямы
+  gramm: term,1pl
+ -flex: .ытӥмы
+  gramm: prol,1pl
+
+
+-paradigm: Noun-case-poss-2,pl
+ -flex: .ты
+  gramm: nom,2pl
+ -flex: .тылэн
+  gramm: gen,2pl
+ -flex: .тылэсь
+  gramm: abl,2pl
+ -flex: .тылы
+  gramm: dat,2pl
+ -flex: .тытэк
+  gramm: car,2pl
+ -flex: .тыя
+  gramm: adv,2pl
+ -flex: .тылань
+  gramm: app,2pl
+ -flex: .тэс
+  gramm: acc,2pl
+ -flex: .ыныды
+  gramm: ins,2pl
+ -flex: .ады
+  gramm: ine,2pl
+ -flex: .ады
+  gramm: ill,2pl
+ -flex: .ысьтыды
+  gramm: el,2pl
+ -flex: .ысеныды
+  gramm: egr,2pl
+ -flex: .озяды
+  gramm: term,2pl
+ -flex: .ытӥды
+  gramm: prol,2pl
+
+  
+-paradigm: Noun-case-poss-3,pl
+ -flex: .сы
+  gramm: nom,3pl
+ -flex: .сылэн
+  gramm: gen,3pl
+ -flex: .сылэсь
+  gramm: abl,3pl
+ -flex: .сылы
+  gramm: dat,3pl
+ -flex: .сытэк
+  gramm: car,3pl
+ -flex: .сыя
+  gramm: adv,3pl
+ -flex: .сылань
+  gramm: app,3pl
+ -flex: .сэс
+  gramm: acc,3pl
+ -flex: .ынызы
+  gramm: ins,3pl
+ -flex: .азы
+  gramm: ine,3pl
+ -flex: .азы
+  gramm: ill,3pl
+ -flex: .ысьтызы
+  gramm: el,3pl
+ -flex: .ысенызы
+  gramm: egr,3pl
+ -flex: .озязы
+  gramm: term,3pl
+ -flex: .ытӥзы
+  gramm: prol,3pl
+
+
+
+
+
+-paradigm: Participles-I
+ -flex: .ӥсь<.>//.сь<.>//.ись<.>//.ысь<.>
+  gramm: ptcp,pres,act
+ -flex: .эм<.>//.ем<.>
+  gramm: ptcp,perf,pass
+ -flex: .но<.>//.оно<.>//.ёно<.>//.мон<.>//.ымон<.>
+  gramm: ptcp,pres,pass
+ -flex: .мын<.>//.эмын<.>//.емын<.>
+  gramm: ptcp,past
+ paradigm: Noun-num
+
+-paradigm: Participles-II
+ -flex: .ась<.>//.ясь<.>
+  gramm: ptcp,pres,act
+ -flex: .ам<.>//.ям<.>
+  gramm: ptcp,perf,pass
+ -flex: .ано<.>//.яно<.>//.амон<.>//.ямон<.>
+  gramm: ptcp,pres,pass
+ -flex: .амын<.>//.ямын<.>
+  gramm: ptcp,past
+ paradigm: Noun-num
+
+-paradigm: Participles-neg-I
+ -flex: .тэм<.>
+  gramm: ptcp,pres,act,neg
+ -flex: .мтэ<.>
+  gramm: ptcp,pass,neg
+ paradigm: Noun-num
+
+-paradigm: Participles-neg-II
+ -flex: .тэм<.>//.атэм<.>//.ятэм<.>
+  gramm: ptcp,pres,act,neg
+ -flex: .мтэ<.>//.амтэ<.>//.ямтэ<.>
+  gramm: ptcp,pass,neg
+ paradigm: Noun-num
+
+
+-paradigm: Empty
+ -flex: .
+  gramm:
+
+
+
+-paradigm: Adjectives_Pl
+ -flex: .есь<.>//.ъёс<.>//.ёс<.>//.ьёс
+  gramm: pl
+ paradigm: Adjectives_Pl
+ paradigm: Adjectives_Pl_intens
+ paradigm: Comparative
+
+
+-paradigm: Adjectives_Pl_intens
+ -flex: .<.>
+  gramm:
+ -flex:  .ыз<.>
+  gramm: nom,intensifier
+ -flex:  .сэ<.>
+  gramm: acc,intensifier
+ -flex:  .ызлэн<.>
+  gramm: gen,intensifier
+ -flex:  .ызлэсь<.>
+  gramm: abl,intensifier
+ -flex:  .ызлы<.>
+  gramm: dat,intensifier
+ -flex:  .ызтэк<.>
+  gramm: car,intensifier
+ -flex:  .ызъя<.>
+  gramm: adv,intensifier
+ -flex:  .ыныз
+  gramm: ins,intensifier
+ -flex:  .аз
+  gramm: ine,intensifier
+ -flex:  .аз
+  gramm: ill,intensifier
+ -flex:  .ысьтыз<.>
+  gramm: el,intensifier
+ -flex:  .ысеныз<.>
+  gramm: egr,intensifier
+ -flex:  .тӥз
+  gramm: prol,intensifier
+ -flex:  .озяз
+  gramm: term,intensifier
+ -flex:  .ызлань
+  gramm: app,intensifier
+
+-paradigm: Adjectives_Sg_intens
+ -flex: .<.>
+  gramm:
+ -flex:  .ез<.>
+  gramm: nom,intensifier
+ -flex:  .зэ<.>//.ьзэ<.>
+  gramm: acc,intensifier
+ -flex:  .езлэн<.>
+  gramm: gen,intensifier
+ -flex:  .езлэсь<.>
+  gramm: abl,intensifier
+ -flex:  .езлы<.>
+  gramm: dat,intensifier
+ -flex:  .езтэк<.>
+  gramm: car,intensifier
+ -flex:  .езъя<.>
+  gramm: adv,intensifier
+ -flex:  .еныз
+  gramm: ins,intensifier
+ -flex:  .яз
+  gramm: ine,intensifier
+ -flex:  .яз
+  gramm: ill,intensifier
+ -flex:  .ысьтыз<.>//.ьысьтыз<.>
+  gramm: el,intensifier
+ -flex:  .ысеныз<.>//.ьысеныз<.>
+  gramm: egr,intensifier
+ -flex:  .етӥз
+  gramm: prol,intensifier
+ -flex:  .ёзяз
+  gramm: term,intensifier
+ -flex: .езлань
+  gramm: app,intensifier
+
+
+-paradigm: Comparative
+ -flex: .гес//.гем
+  gramm: comp
+
+
+
+
+
+-paradigm: Converbs-I
+ -flex: .ca//.ыса//.ьыса
+  gramm: cnv,preced
+ -flex: .тэк//.ытэк//.ьытэк
+  gramm: cnv,neg
+ -flex: .ку//.ыку//.ьыку
+  gramm: cnv,simult
+ -flex: .тозь//.ытозь//.ьытозь
+  gramm: cnv,dur
+ -flex: .мон//.ымон//.ьымон
+  gramm: cnv,result
+
+-paradigm: Converbs-II
+ -flex: .аса//.яса
+  gramm: cnv,preced
+ -flex: .атэк//.ятэк
+  gramm: cnv,neg
+ -flex: .яку//.аку
+  gramm: cnv,simult
+ -flex: .атозь//.ятозь
+  gramm: cnv,dur
+ -flex: .амон//.ямон
+  gramm: cnv,result
+
+
+
+-paradigm: Verb-pres-I-positive
+ -flex: .ӥсько//.исько
+  gramm: 1,sg,pres,I
+ -flex: .ӥськод//.иськод
+  gramm: 2,sg,pres,I
+ -flex: .э//.е
+  gramm: 3,sg,pres,I
+ -flex: .ӥськом//.ӥськомы//.иськом//.иськомы
+  gramm: 1,pl,pres,I
+ -flex: .ӥскоды//.искоды
+  gramm: 2,pl,pres,I
+ -flex: .о//.ё
+  gramm: 3,pl,pres,I
+
+-paradigm: Verb-past-I-positive
+ -flex: .ӥ//.и
+  gramm: 1,sg,past,I
+ -flex: .ӥд//.ид
+  gramm: 2,sg,past,I
+ -flex: .ӥз//.из
+  gramm: 3,sg,pres,I
+ -flex: .ӥм//.ӥмы//.им//.имы
+  gramm: 1,pl,pres,I
+ -flex: .ӥды//.иды
+  gramm: 2,pl,pres,I
+ -flex: .ӥзы//.изы
+  gramm: 3,pl,pres,I
+
+
+-paradigm: Verb-future-I-positive
+ -flex: .о//.ё
+  gramm: 1,sg,fut,I
+ -flex: .од//.ёд
+  gramm: 2,sg,fut,I
+ -flex: .оз//.ёз
+  gramm: 3,sg,pres,I
+ -flex: .ом//.омы//.ём//.ёмы
+  gramm: 1,pl,fut,I
+ -flex: .оды//.ёды
+  gramm: 2,pl,fut,I
+ -flex: .озы//.ёзы
+  gramm: 3,pl,fut,I
+
+
+
+
+
+-paradigm: Verb-pres-I-negative
+ -flex: .ӥськы//.иськы
+  gramm: 1,sg,pres,I,neg
+ -flex: .ӥськы//.иськы
+  gramm: 2,sg,pres,I,neg
+ -flex: .//.ы//.ь//.ьы
+  gramm: 3,sg,pres,I,neg
+ -flex: .ӥське//.иське
+  gramm: 1,pl,pres,I,neg
+ -flex: .ӥське//.иське
+  gramm: 2,pl,pres,I,neg
+ -flex: .о//.ё
+
+
+
+-paradigm: Verb-past-I-negative
+ -flex: .//.ы//.ь//.ьы
+  gramm: sg,past,I,neg
+ -flex: .э//.е
+  gramm: pl,past,I,neg
+
+-paradigm: Verb-future-I-negative
+ -flex: .//.ы//.ь//.ьы
+  gramm: sg,fut,I,neg
+ -flex: .э//.е
+  gramm: pl,fut,I,neg
+
+-paradigm: Verb-subj-I
+ -flex: .ысал//.ьысал
+  gramm: 1,sg,subj,I
+ -flex: .ысал//.ысалыд//.ьысал//.ьысалыд
+  gramm: 2,sg,subj,I
+ -flex: .ысал//.ысалыз//.ьысал//.ьысалыз
+  gramm: 3,sg,subj,I
+ -flex: .ысалмы//.ьысалмы
+  gramm: 1,pl,subj,I
+ -flex: .ысалды//.ьысалды
+  gramm: 2,pl,subj,I
+ -flex: .ысалзы//.ьысалзы
+  gramm: 3,pl,subj,I
+
+-paradigm: Verb-imp-I
+ -flex: .//.ы//.ь//.ьы
+  gramm: sg,subj,I
+ -flex: .э//.е
+  gramm: pl,subj,I
+
+
+-paradigm: Verb-pres-II-positive
+ -flex: .асько//.ясько
+  gramm: 1,sg,pres,II
+ -flex: .аськод//.яськод
+  gramm: 2,sg,pres,II
+ -flex: .а//.я
+  gramm: 3,sg,pres,II
+ -flex: .аськом//.аськомы//.яськом//.яськомы
+  gramm: 1,pl,pres,II
+ -flex: .аскоды//яскоды
+  gramm: 2,pl,pres,II
+ -flex: .ало//.яло
+  gramm: 3,pl,pres,II
+
+-paradigm: Verb-past-II-positive
+ -flex: .ай//.яй
+  gramm: 1,sg,past,II
+ -flex: .ад//.яд
+  gramm: 2,sg,past,II
+ -flex: .аз//.яз
+  gramm: 3,sg,pres,II
+ -flex: .ам//.амы//.ям//.ямы
+  gramm: 1,pl,pres,II
+ -flex: .ады//.яды
+  gramm: 2,pl,pres,II
+ -flex: .азы//.язы
+  gramm: 3,pl,pres,II
+
+-paradigm: Verb-future-II-positive
+ -flex: .ало//.яло
+  gramm: 1,sg,fut,II
+ -flex: .алод//.ялод
+  gramm: 2,sg,fut,II
+ -flex: .алоз//.ялоз
+  gramm: 3,sg,pres,II
+ -flex: .алом//.аломы//.ялом//.яломы
+  gramm: 1,pl,fut,II
+ -flex: .алоды//.ялоды
+  gramm: 2,pl,fut,II
+ -flex: .алозы//.ялозы
+  gramm: 3,pl,fut,II
+
+
+
+
+
+-paradigm: Verb-pres-II-negative
+ -flex: .аськы//.яськы
+  gramm: 1,sg,pres,II,neg
+ -flex: .аськы//.яськы
+  gramm: 2,sg,pres,II,neg
+ -flex: .а//.я
+  gramm: 3,sg,pres,II,neg
+ -flex: .аське//.яське
+  gramm: 1,pl,pres,II,neg
+ -flex: .аське//.яське
+  gramm: 2,pl,pres,II,neg
+ -flex: .ало/.яло
+  gramm: 3,pl,pres,II,neg
+
+-paradigm: Verb-past-II-negative
+ -flex: .а//.я
+  gramm: sg,past,II,neg
+ -flex: .алэ//.ялэ
+  gramm: pl,past,II,neg
+
+-paradigm: Verb-future-II-negative
+ -flex: .//.а//.я
+  gramm: sg,fut,II,neg
+ -flex: .алэ//.ялэ
+  gramm: pl,fut,II,neg
+
+-paradigm: Verb-subj-II
+ -flex: .асал//.ясал
+  gramm: 1,sg,subj,II
+ -flex: .асал//.асалыд//.ясал//.ясалыд
+  gramm: 2,sg,subj,II
+ -flex: .асал//.асалыз//.ясал//.ясалыз
+  gramm: 3,sg,subj,II
+ -flex: .асалмы//.ясалмы
+  gramm: 1,pl,subj,II
+ -flex: .асалды//.ясалды
+  gramm: 2,pl,subj,II
+ -flex: .асалзы//.ясалзы
+  gramm: 3,pl,subj,II
+
+-paradigm: Verb-imp-II
+ -flex: .а//.я
+  gramm: sg,subj,II
+ -flex: .алэ//.ялэ
+  gramm: pl,subj,II
+
+
+-paradigm: connect_verbs-I
+ -flex: .ськ<.>//.ск<.>//.иськ<.>//.ӥськ<.>//.ыськ<.>//.ычк<.>//.ыцк<.>
+  gramm: pass
+ -flex: .л<.>//.ыл<.>//.ьыл<.>
+  gramm: freq
+ -flex: .эмъяськ<.>//.мъяськ<.>//.емъяськ<.>
+  gramm: fict
+ -flex: .ыт<.>//.ьыт<.>//.т<.>
+  gramm: caus
+ -flex: .ськыл<.>//.скыл<.>//.иськыл<.>//.ӥськыл<.>//.ыськыл<.>//.ычкыл<.>//.ыцкыл<.>
+  gramm: pass,freq
+ -flex: .лӥськ<.>//.ылӥськ<.>//.лыськ<.>//.ылыськ<.>
+  gramm: freq,pass
+ -flex: .лэмъяськ<.>//.ылэмъяськ<.>
+  gramm: freq,fict
+ -flex: .ытэмъяськ<.>//.тэмъяськ<.>
+  gramm: caus,fict
+ -flex: .эмъяськыт<.>//.мъяськыт<.>//.емъяськыт<.>
+  gramm: fict,caus
+ -flex: .ськэмъяськ<.>//.скэмъяськ<.>//.иськэмъяськ<.>//.ӥськэмъяськ<.>//.ыськэмъяськ<.>//.ычкэмъяськ<.>//.ыцкэмъяськ<.>
+  gramm: pass,fict
+ -flex: .эмъяськиськ<.>//.мъяськиськ<.>//.емъяськиськ<.>//.эмъяськыськ<.>//.мъяськыськ<.>//.емъяськыськ<.>
+  gramm: fict,pass
+ -flex: .ськыт<.>//.скыт<.>//.иськыт<.>//.ӥськыт<.>//.ыськыт<.>//.ычкыт<.>//.ыцкыт<.>
+  gramm: pass,caus
+ -flex: .ытск<.>//.тск<.>//.ытӥськ<.>//.тӥськ<.>//.ытыськ<.>//.тыськ<.>
+  gramm: caus,pass
+ -flex: .лыт<.>//.ылыт<.>//.лт<.>//.ылт<.>
+  gramm: freq,caus
+ -flex: .ытыл<.>//.тыл<.>
+  gramm: caus,freq
+ -flex: .ытылӥськ<.>//.тылӥськ<.>//.ытылыськ<.>//.тылыськ<.>
+  gramm: caus,freq,pass
+ -flex: .<.>
+  gramm:
+ paradigm: Infinitive-I
+ paradigm: Verb-pres-I-positive
+ paradigm: Verb-past-I-positive
+ paradigm: Verb-future-I-positive
+ paradigm: Verb-pres-I-negative
+ paradigm: Verb-past-I-negative
+ paradigm: Verb-future-I-negative
+ paradigm: Verb-subj-I
+ paradigm: Converbs-I
+ paradigm: Evidentiality-I
+ paradigm: Participles-I
+ paradigm: Participles-neg-I
+ paradigm: Verb-imp-I
+
+-paradigm: Aspect-II
+ -flex: .аськ<.>//.яськ<.>//.аск<.>//.яск<.>//.ачк<.>//.ячк<.>//.ацк<.>//.яцк<.>
+  gramm: pass
+ -flex: .алля<.>//.ялля<.>
+  gramm: freq
+ -flex: .амъяськ<.>//.ямъяськ<.>
+  gramm: fict
+ -flex: .ат<.>//.ят<.>
+  gramm: caus
+ -flex: .аськыл<.>//.яськыл<.>//.аскыл<.>//.яскыл<.>//.ачкыл<.>//.ячкыл<.>//.ацкыл<.>//.яцкыл<.>
+  gramm: pass,freq
+ -flex: .алляськ<.>//.ялляськ<.>
+  gramm: freq,pass
+ -flex: .аллямъяськ<.>//.яллямъяськ<.>
+  gramm: freq,fict
+ -flex: .атэмъяськ<.>//.ятэмъяськ<.>
+  gramm: caus,fict
+ -flex: .амъяськыт<.>//.ямъяськыт<.>
+  gramm: fict,caus
+ -flex: .аськэмъяськ<.>//.яськэмъяськ<.>//.аскэмъяськ<.>//.яскэмъяськ<.>//.ачкэмъяськ<.>//.ячкэмъяськ<.>//.ацкэмъяськ<.>//.яцкэмъяськ<.>
+  gramm: pass,fict
+ -flex: .амъяськиськ<.>//.ямъяськиськ<.>//.амъяськыськ<.>//.ямъяськыськ<.>
+  gramm: fict,pass
+ -flex: .аськыт<.>//.яськыт<.>//.аскыт<.>//.яскыт<.>//.ачкыт<.>//.ячкыт<.>//.ацкыт<.>//.яцкыт<.>
+  gramm: pass,caus
+ -flex: .атск<.>//.ятск<.>//.атӥськ<.>//.ятӥськ<.>//.атыськ<.>//.ятыськ<.>
+  gramm: caus,pass
+ -flex: .аллят<.>//.яллят<.>
+  gramm: freq,caus
+ -flex: .атыл<.>//.ятыл<.>
+  gramm: caus,freq
+ -flex: .атылӥськ<.>//.ятылӥськ<.>//.атылыськ<.>//.ятылыськ<.>
+  gramm: caus,freq,pass
+ paradigm: Infinitive-I
+ paradigm: Verb-pres-I-positive
+ paradigm: Verb-past-I-positive
+ paradigm: Verb-future-I-positive
+ paradigm: Verb-pres-I-negative
+ paradigm: Verb-past-I-negative
+ paradigm: Verb-future-I-negative
+ paradigm: Verb-subj-I
+ paradigm: Converbs-I
+ paradigm: Evidentiality-I
+ paradigm: Participles-I
+ paradigm: Participles-neg-I
+ paradigm: Verb-imp-I
+
+
+
+-paradigm: Evidentiality-I
+ -flex: .ӥськем//.иськем
+  gramm: evid,1,sg
+ -flex: .ем//.эм//.емед//.эмед
+  gramm: evid,2,sg
+ -flex: .ем//.эм//.емез//.эмез
+  gramm: evid,3,sg
+ -flex: .ӥськеммы//.иськеммы
+  gramm: evid,1,pl
+ -flex: .ӥллям//.иллям//.ӥллямды//.иллямды
+  gramm: evid,2,pl
+ -flex: .ӥллям//.иллям//.ӥллямзы//.иллямзы
+  gramm: evid,3,pl
+
+
+-paradigm: Evidentiality-II
+ -flex: .аськем//.яськем
+  gramm: evid,1,sg
+ -flex: .ам//.ям//.амед//.ямед
+  gramm: evid,2,sg
+ -flex: .ам//.ям//.амез//.ямез
+  gramm: evid,3,sg
+ -flex: .аськеммы//.яськеммы
+  gramm: evid,1,pl
+ -flex: .аллям//.яллям//.аллямды//.яллямды
+  gramm: evid,2,pl
+ -flex: .аллям//.яллям//.аллямзы//.яллямзы
+  gramm: evid,3,pl
+
+
+-paradigm: Infinitive-I
+ -flex: .ыны//.ьыны
+  gramm: inf
+
+-paradigm: Infinitive-II
+ -flex: .аны//.яны
+  gramm: inf
+
+
