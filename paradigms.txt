@@ -50,6 +50,7 @@
  paradigm: Participles-neg-II
  paradigm: Verb-imp-II
 
+
 -paradigm: connect_adjectives
  -flex: .<.>
   gram:
@@ -1032,23 +1033,22 @@
 
 
 -paradigm: Participles-II
- -flex: .ас<.>//.яс<.>
+ -flex: .с<.>
   gramm: ptcp,pres,act
   paradigm: Noun-num-soft
- -flex: .ам<.>//.ям<.>
+ -flex: .м<.>
   gramm: ptcp,perf,pass
   paradigm: Noun-num-consonant
- -flex: .ано<.>//.яно<.>
+ -flex: .но<.>
   gramm: ptcp,pres,pass
-  paradigm: Noun-num-vowel
   paradigm: connect_adjectives
- -flex: .амон<.>//.ямон<.>
+ -flex: .мон<.>
   gramm: ptcp,pres,pass
-  paradigm: Noun-num-consonant
   paradigm: connect_adjectives
- -flex: .амын<.>//.ямын<.>
+ -flex: .мын<.>
   gramm: ptcp,past
   paradigm: Noun-num-consonant
+
 
 -paradigm: Participles-neg-I
  -flex: .тэм<.>
@@ -1067,12 +1067,13 @@
   paradigm: Noun-num-vowel
 
 -paradigm: Participles-neg-II
- -flex: .атэм<.>//.ятэм<.>
+ -flex: .тэм<.>
   gramm: ptcp,pres,act,neg
   paradigm: Noun-num-consonant
- -flex: .амтэ<.>//.ямтэ<.>
+ -flex: .мтэ<.>
   gramm: ptcp,pass,neg
   paradigm: Noun-num-vowel
+
 
 
 -paradigm: Empty
@@ -1191,16 +1192,17 @@
   gramm: cnv,result
 
 -paradigm: Converbs-II
- -flex: .аса//.яса
+ -flex: .са
   gramm: cnv,preced
- -flex: .атэк//.ятэк
+ -flex: .тэк
   gramm: cnv,neg
- -flex: .яку//.аку
+ -flex: .ку
   gramm: cnv,simult
- -flex: .атозь//.ятозь
+ -flex: .тозь
   gramm: cnv,dur
- -flex: .амон//.ямон
+ -flex: .мон
   gramm: cnv,result
+
 
 
 
@@ -1424,85 +1426,87 @@
 
 
 -paradigm: Verb-pres-II-positive
- -flex: .асько//.ясько
+ -flex: .сько
   gramm: 1,sg,pres
- -flex: .аськод//.яськод
+ -flex: .ськод
   gramm: 2,sg,pres
- -flex: .а//.я
+ -flex: .
   gramm: 3,sg,pres
- -flex: .аськом//.аськомы//.яськом//.яськомы
+ -flex: .ськом//.ськомы
   gramm: 1,pl,pres
- -flex: .аскоды//яскоды
+ -flex: .ськоды
   gramm: 2,pl,pres
- -flex: .ало//.яло
+ -flex: .ло
   gramm: 3,pl,pres
 
+
 -paradigm: Verb-past-II-positive
- -flex: .ай//.яй
+ -flex: .й
   gramm: 1,sg,past
- -flex: .ад//.яд
+ -flex: .д
   gramm: 2,sg,past
- -flex: .аз//.яз
+ -flex: .з
   gramm: 3,sg,pres
- -flex: .ам//.амы//.ям//.ямы
+ -flex: .м//.мы
   gramm: 1,pl,pres
- -flex: .ады//.яды
+ -flex: .ды
   gramm: 2,pl,pres
- -flex: .азы//.язы
+ -flex: .зы
   gramm: 3,pl,pres
 
 -paradigm: Verb-future-II-positive
- -flex: .ало//.яло
+ -flex: .ло
   gramm: 1,sg,fut
- -flex: .алод//.ялод
+ -flex: .лод
   gramm: 2,sg,fut
- -flex: .алоз//.ялоз
+ -flex: .лоз
   gramm: 3,sg,pres
- -flex: .алом//.аломы//.ялом//.яломы
+ -flex: .лом//.ломы
   gramm: 1,pl,fut
- -flex: .алоды//.ялоды
+ -flex: .лоды
   gramm: 2,pl,fut
- -flex: .алозы//.ялозы
+ -flex: .лозы
   gramm: 3,pl,fut
 
+
 -paradigm: Verb-pres-II-negative
- -flex: .аськы//.яськы
+ -flex: .ськы
   gramm: 1,sg,pres,neg
- -flex: .аськы//.яськы
+ -flex: .ськы
   gramm: 2,sg,pres,neg
- -flex: .а//.я
+ -flex: .
   gramm: 3,sg,pres,neg
- -flex: .аське//.яське
+ -flex: .ське
   gramm: 1,pl,pres,neg
- -flex: .аське//.яське
+ -flex: .ське
   gramm: 2,pl,pres,neg
- -flex: .ало/.яло
+ -flex: .ло
   gramm: 3,pl,pres,neg
 
 -paradigm: Verb-II-negative
- -flex: .а//.я
+ -flex: .
   gramm: sg,fut,neg
- -flex: .алэ//.ялэ
+ -flex: .лэ
   gramm: pl,fut,neg
 
 -paradigm: Verb-subj-II
- -flex: .асал//.ясал
+ -flex: .сал
   gramm: 1,sg,subj
- -flex: .асал//.асалыд//.ясал//.ясалыд
+ -flex: .сал//.салыд
   gramm: 2,sg,subj
- -flex: .асал//.асалыз//.ясал//.ясалыз
+ -flex: .сал//.салыз
   gramm: 3,sg,subj
- -flex: .асалмы//.ясалмы
+ -flex: .салмы
   gramm: 1,pl,subj
- -flex: .асалды//.ясалды
+ -flex: .салды
   gramm: 2,pl,subj
- -flex: .асалзы//.ясалзы
+ -flex: .салзы
   gramm: 3,pl,subj
 
 -paradigm: Verb-imp-II
- -flex: .а//.я
+ -flex: .
   gramm: imper,sg,subj
- -flex: .алэ//.ялэ
+ -flex: .лэ
   gramm: imper,pl,subj
 
 
@@ -1566,8 +1570,6 @@
   gramm: caus,freq
  -flex: .ытылӥськ<.>//.тылӥськ<.>
   gramm: caus,freq,pass
- -flex: .<.>
-  gramm:
  paradigm: Infinitive-I
  paradigm: Verb-pres-I-positive
  paradigm: Verb-past-I-positive
@@ -1628,37 +1630,37 @@
  paradigm: Verb-imp-I
 
 -paradigm: Aspect-II
- -flex: .аськ<.>//.яськ<.>//.аск<.>//.яск<.>
+ -flex: .ськ<.>//.ск<.>
   gramm: pass
- -flex: .алля<.>//.ялля<.>
+ -flex: .лля<.>
   gramm: freq
- -flex: .амъяськ<.>//.ямъяськ<.>
+ -flex: .мъяськ<.>
   gramm: fict
- -flex: .ат<.>//.ят<.>
+ -flex: .т<.>
   gramm: caus
- -flex: .аськыл<.>//.яськыл<.>//.аскыл<.>//.яскыл<.>
+ -flex: .ськыл<.>//.скыл<.>
   gramm: pass,freq
- -flex: .алляськ<.>//.ялляськ<.>
+ -flex: .лляськ<.>
   gramm: freq,pass
- -flex: .аллямъяськ<.>//.яллямъяськ<.>
+ -flex: .ллямъяськ<.>
   gramm: freq,fict
- -flex: .атэмъяськ<.>//.ятэмъяськ<.>
+ -flex: .тэмъяськ<.>
   gramm: caus,fict
- -flex: .амъяськыт<.>//.ямъяськыт<.>
+ -flex: .мъяськыт<.>
   gramm: fict,caus
- -flex: .аськэмъяськ<.>//.яськэмъяськ<.>//.аскэмъяськ<.>//.яскэмъяськ<.>
+ -flex: .ськемъяськ<.>//.скемъяськ<.>
   gramm: pass,fict
- -flex: .амъяськиськ<.>//.ямъяськиськ<.>//.амъяськыськ<.>//.ямъяськыськ<.>
+ -flex: .мъяськиськ<.>
   gramm: fict,pass
- -flex: .аськыт<.>//.яськыт<.>//.аскыт<.>//.яскыт<.>
+ -flex: .ськыт<.>//.скыт<.>
   gramm: pass,caus
- -flex: .атск<.>//.ятск<.>//.атӥськ<.>//.ятӥськ<.>//.атыськ<.>//.ятыськ<.>
+ -flex: .тск<.>//.тӥськ<.>
   gramm: caus,pass
- -flex: .аллят<.>//.яллят<.>
+ -flex: .ллят<.>
   gramm: freq,caus
- -flex: .атыл<.>//.ятыл<.>
+ -flex: .тыл<.>
   gramm: caus,freq
- -flex: .атылӥськ<.>//.ятылӥськ<.>//.атылыськ<.>//.ятылыськ<.>
+ -flex: .тылӥськ<.>
   gramm: caus,freq,pass
  paradigm: Infinitive-I
  paradigm: Verb-pres-I-positive
@@ -1672,7 +1674,6 @@
  paradigm: Participles-I
  paradigm: Participles-neg-I
  paradigm: Verb-imp-I
-
 
 
 -paradigm: Evidentiality-I
@@ -1723,17 +1724,17 @@
 
 
 -paradigm: Evidentiality-II
- -flex: .аськем//.яськем
+ -flex: .ськем
   gramm: evid,1,sg
- -flex: .ам//.ям//.амед//.ямед
+ -flex: .м//.мед
   gramm: evid,2,sg
- -flex: .ам//.ям//.амез//.ямез
+ -flex: .м//.мез
   gramm: evid,3,sg
- -flex: .аськеммы//.яськеммы
+ -flex: .ськеммы
   gramm: evid,1,pl
- -flex: .аллям//.яллям//.аллямды//.яллямды
+ -flex: .ллям//.ллямды
   gramm: evid,2,pl
- -flex: .аллям//.яллям//.аллямзы//.яллямзы
+ -flex: .ллям//.ллямзы
   gramm: evid,3,pl
 
 
@@ -1746,7 +1747,8 @@
   gramm: inf
 
 -paradigm: Infinitive-II
- -flex: .аны//.яны
+ -flex: .ны
   gramm: inf
+
 
 
