@@ -1,5 +1,12 @@
 ﻿
 -lexeme
+ lex: ӧжыт
+ stem: ӧжыт.
+ gramm: ADV
+ paradigm: Empty
+ trans_ru: мало, немного, незначительно
+
+-lexeme
  lex: вӧзын
  stem: вӧзын.
  gramm: POST
@@ -929,13 +936,6 @@
  gramm: PART
  paradigm: Empty
  trans_ru: до какого места
-
--lexeme
- lex: ум
- stem: ум.
- gramm: PART
- paradigm: Empty
- trans_ru: гл. отр. не, нет
 
 -lexeme
  lex: медось
