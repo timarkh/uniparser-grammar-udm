@@ -7637,13 +7637,6 @@
  trans_ru: 1. становиться грязным, неряшливым 2. становиться дурным
 
 -lexeme
- lex: кыны
- stem: к.
- gramm: V,I
- paradigm: connect_verbs-I
- trans_ru: 1. хариус 2. форель 3. диал язь
-
--lexeme
  lex: зынӟыны
  stem: зынӟ.
  gramm: V,I
@@ -25552,28 +25545,28 @@
  stem: ӟезьыл.
  gramm: V,I
  paradigm: connect_verbs-I
- trans_ru: 1.вспарывать, отпарывать 2. стегать, пороть 3. перен. давать взбучку
+ trans_ru: вспарывать, отпарывать, пороть
 
 -lexeme
  lex: пӧсяны
  stem: пӧся.
  gramm: V,II
  paradigm: connect_verbs-II
- trans_ru: 1. вспотеть, киос пӧсязы руки вспотели 2. разогреться, подогреться, согреться, чай пӧсяз чай разогрелся 3. преть, гореть
+ trans_ru: вспотеть, согреться, преть, гореть
 
 -lexeme
  lex: пӧраны
  stem: пӧра.
  gramm: V,II
  paradigm: connect_verbs-II
- trans_ru: 1. приготовить пищу, состряпать, стряпать 2. перен. сочинить, сочинять
+ trans_ru: готовить, сочинять
 
 -lexeme
  lex: чагыртыны
  stem: чагырт.
  gramm: V,I
  paradigm: connect_verbs-I
- trans_ru: 1. вытаращить,синэз ~ вытаращить глаза 2. сделать голубым
+ trans_ru: 1. вытаращить 2. сделать голубым
 
 -lexeme
  lex: жичомытылыны
@@ -36776,21 +36769,28 @@
  stem: шу.
  gramm: V,I
  paradigm: connect_verbs-I
- trans_ru: вянуть, увядать, завянуть, сяськаос ӝытозь шуялозы до вечера цветы завянут
+ trans_ru: вянуть
+
+-lexeme
+ lex: шуыны
+ stem: шу.
+ gramm: V,I
+ paradigm: connect_verbs-I
+ trans_ru: сказать
 
 -lexeme
  lex: шуаны
  stem: шуа.
  gramm: V,II
  paradigm: connect_verbs-II
- trans_ru: вянуть, увядать, завянуть, сяськаос ӝытозь шуялозы до вечера цветы завянут
+ trans_ru: вянуть
 
 -lexeme
  lex: шуяны
  stem: шуя.
  gramm: V,II
  paradigm: connect_verbs-II
- trans_ru: вянуть, увядать, завянуть, сяськаос ӝытозь шуялозы до вечера цветы завянут
+ trans_ru: вянуть
 
 -lexeme
  lex: пунэмалляськыны

@@ -189,6 +189,20 @@
  trans_ru: по
 
 -lexeme
+ lex: понна
+ stem: понна.
+ gramm: POST
+ paradigm: Empty
+ trans_ru: для, ради, из-за
+
+-lexeme
+ lex: сярысь
+ stem: сярысь.
+ gramm: POST
+ paradigm: Empty
+ trans_ru: об
+
+-lexeme
  lex: палозь
  stem: палозь.
  gramm: POST
@@ -784,6 +798,20 @@
  trans_ru: так, таким образом
 
 -lexeme
+ lex: озь
+ stem: озь.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: так, таким образом
+
+-lexeme
+ lex: тазь
+ stem: тазь.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: так, эдак
+
+-lexeme
  lex: ик
  stem: ик.
  gramm: PART
@@ -817,6 +845,13 @@
  gramm: PART
  paradigm: Empty
  trans_ru: пусть, так и надо, поделом
+
+-lexeme
+ lex: кулэ
+ stem: кулэ.
+ gramm: V
+ paradigm: Empty
+ trans_ru: надо
 
 -lexeme
  lex: тото
@@ -956,21 +991,35 @@
  stem: о.
  gramm: PART
  paradigm: Empty
- trans_ru: утверд. и усил. так ведь, а, же, о веть 1) так ведь 2) наверно, так, кин-о отын улэ? а кто там живет?, мар-о со? 1) что же он? 2) что же это?, кытчы-о пыриз? куда же [он] девался?
+ trans_ru: ведь, а, же
 
 -lexeme
  lex: ини
  stem: ини.
- gramm: PART
+ gramm: ADV
  paradigm: Empty
  trans_ru: уже, значит
 
 -lexeme
  lex: на
  stem: на.
- gramm: PART
+ gramm: ADV
  paradigm: Empty
  trans_ru: ещё
+
+-lexeme
+ lex: пе
+ stem: пе.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: показатель цитирования
+
+-lexeme
+ lex: пӧй
+ stem: пӧй.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: показатель самоцитирования
 
 -lexeme
  lex: медам
@@ -1003,16 +1052,16 @@
 -lexeme
  lex: ни
  stem: ни.
- gramm: PART
+ gramm: ADV
  paradigm: Empty
  trans_ru: уже
 
 -lexeme
- lex: нош
- stem: нош.
- gramm: PART
+ lex: эшшо
+ stem: эшшо.
+ gramm: ADV
  paradigm: Empty
- trans_ru: вопр. а
+ trans_ru: ещё
 
 -lexeme
  lex: гинэ
@@ -1033,7 +1082,7 @@
  stem: яралоз.
  gramm: PART
  paradigm: Empty
- trans_ru: утверд. хорошо, ладно , туннэ вазьгес султы! – Яралоз, султо сегодня встань пораньше! – Хорошо, встану 2. положит. ф. 3-го л. ед. ч. буд. вр. гл. яраны
+ trans_ru: хорошо, ладно
 
 -lexeme
  lex: ведь
@@ -1132,6 +1181,13 @@
  gramm: PART
  paradigm: Empty
  trans_ru: усил. ведь, же, даже
+
+-lexeme
+ lex: толон
+ stem: толон.
+ gramm: ADV
+ paradigm: Empty
+ trans_ru: вчера
 
 -lexeme
  lex: азьпаласен
@@ -5457,7 +5513,14 @@
  stem: кызьы.
  gramm: ADV
  paradigm: connect_adverbs
- trans_ru: нар. как, каким образом
+ trans_ru: как, каким образом
+
+-lexeme
+ lex: кадь
+ stem: кадь.
+ gramm: PART
+ paradigm: connect_adverbs
+ trans_ru: как будто, похожий
 
 -lexeme
  lex: тузӥ
@@ -6472,21 +6535,14 @@
  stem: раз.
  gramm: CNJ
  paradigm: Empty
- trans_ru: усл. раз , если
+ trans_ru: раз, если
 
 -lexeme
  lex: яке
  stem: яке.
  gramm: CNJ
  paradigm: Empty
- trans_ru: разд. или, либо, то, яке... яке или... или, либо... либо, то ли... то ли 2. в знач. модального сл. может
-
--lexeme
- lex: а
- stem: а.
- gramm: CNJ
- paradigm: Empty
- trans_ru: 1. против. а, но, мынэсьтым ӧз юалэ, а мон ваньзэ верасал меня не спросили, а я бы всё рассказал, мон сое утчасько, а со ми дорын вылэм я его ищу, а он, оказывается, у нас был 2. сопост. а, толон бертэм со со толон бертэм, а ми туннэ гинэ возьмаськом вал он приехал вчера, а мы ждали его только сегодня 3. присоед. а, пияш адӟе нюлэсэз, а паллянысьгес – пичи гуртэзюноша видит лес, а левее – маленькую деревушку
+ trans_ru: или
 
 -lexeme
  lex: сокутэк
@@ -6500,7 +6556,7 @@
  stem: бере.
  gramm: CNJ
  paradigm: Empty
- trans_ru: усл.-причин. раз, если, поскольку
+ trans_ru: раз, если, поскольку
 
 -lexeme
  lex: алай
@@ -6521,28 +6577,28 @@
  stem: нош.
  gramm: CNJ
  paradigm: Empty
- trans_ru: против., присоед. а
+ trans_ru: а
 
 -lexeme
- lex: то:
- stem: то:.
+ lex: то
+ stem: то.
  gramm: CNJ
  paradigm: Empty
- trans_ru: то... союз разд. то..., то..., то пӧсь, то кезьыт то жарко, то холодно
+ trans_ru: то
 
 -lexeme
  lex: но
  stem: но.
  gramm: CNJ
  paradigm: Empty
- trans_ru: 1. соед., одиночный и повторяющийся и, и... и, шунды пуксиз но, куазь пеймыт луиз солнце село, и стало темно, со тылэ но, вуэ но пырыны дась погов. он готов лезть в огонь и в воду 2. против. а, да, но, кема возьмаз, но со ӧз лыкты долго ждал, а он не пришёл
+ trans_ru: но
 
 -lexeme
  lex: гинэ
  stem: гинэ.
  gramm: CNJ
  paradigm: Empty
- trans_ru: но,только что, как только, только что... как
+ trans_ru: только
 
 -lexeme
  lex: ке

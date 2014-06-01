@@ -10433,7 +10433,7 @@
  stem: бадӟым.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: большой, крупный, огромный
+ trans_ru: большой
 
 -lexeme
  lex: аляк
@@ -10447,14 +10447,14 @@
  stem: котькуд.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: каждый, всякий, любой
+ trans_ru: каждый, любой
 
 -lexeme
  lex: котькин
  stem: котькин.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: всякий, каждый, кто угодно
+ trans_ru: каждый, кто угодно
 
 -lexeme
  lex: кролик
@@ -11568,7 +11568,14 @@
  stem: пичи.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: маленький, меньший, младший, пичигес поменьше, помоложе, помладше
+ trans_ru: маленький
+
+-lexeme
+ lex: егит
+ stem: егит.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: молодой
 
 -lexeme
  lex: японь
@@ -29692,4 +29699,18 @@
  gramm: ADJ
  paradigm: connect_adjectives
  trans_ru: мелкий, неглубокий
+
+-lexeme
+ lex: федерал
+ stem: федерал.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: федеральный
+
+-lexeme
+ lex: муниципал
+ stem: муниципал.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: муниципальный
 

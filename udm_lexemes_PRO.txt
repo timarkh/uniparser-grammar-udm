@@ -440,3 +440,61 @@
  trans_ru: ты
 
 
+
+-lexeme
+ lex: кыӵе
+ stem: кыӵе.
+ gramm: PRO
+ paradigm: Empty
+ trans_ru: какой
+
+-lexeme
+ lex: сыӵе
+ stem: сыӵе.
+ gramm: PRO
+ paradigm: Empty
+ trans_ru: такой
+
+-lexeme
+ lex: тыӵе
+ stem: тыӵе.
+ gramm: PRO
+ paradigm: Empty
+ trans_ru: такой
+
+-lexeme
+ lex: кин
+ stem: кин.
+ gramm: PRO
+ paradigm: Noun-num-consonant
+ trans_ru: кто
+
+-lexeme
+ lex: мар
+ stem: мар.
+ gramm: PRO
+ paradigm: Noun-num-consonant
+ trans_ru: что
+
+-lexeme
+ lex: кӧня
+ stem: кӧня.
+ gramm: PRO
+ paradigm: Empty
+ trans_ru: сколько
+
+-lexeme
+ lex: малы
+ stem: малы.
+ gramm: PRO
+ paradigm: Empty
+ trans_ru: зачем
+
+-lexeme
+ lex: соку
+ stem: соку.
+ gramm: PRO
+ paradigm: Empty
+ trans_ru: тогда
+
+

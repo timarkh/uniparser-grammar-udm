@@ -5096,6 +5096,13 @@
  trans_ru: тайга
 
 -lexeme
+ lex: толэзь
+ stem: толэз.
+ gramm: N
+ paradigm: Noun-num-soft
+ trans_ru: месяц
+
+-lexeme
  lex: гожтолэзь
  stem: гожтолэз.
  gramm: N
@@ -5107,7 +5114,7 @@
  stem: возён-сылытонни.
  gramm: N
  paradigm: Noun-num-vowel
- trans_ru: автостоянка, нош машинаосты кырын возён-сылытонниысь-тызы табышсы трос уг люкаськы, угось Вдовин но пунэмам коньдонзэ банклы берыктыны кулэ
+ trans_ru: автостоянка
 
 -lexeme
  lex: буревестник
@@ -13045,7 +13052,7 @@
  stem: ёрос.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: 1. округа, окрестность, район, область, область, участок
+ trans_ru: район, область, участок
 
 -lexeme
  lex: комок
@@ -17043,7 +17050,7 @@
  stem: порода.
  gramm: N
  paradigm: Noun-num-vowel
- trans_ru: порода, гурезь породаос горные породы, толэзьысь породаос лунные породы, пуны породаос порода собак
+ trans_ru: порода
 
 -lexeme
  lex: пӧсьтон
@@ -31887,6 +31894,13 @@
  trans_ru: подснежник
 
 -lexeme
+ lex: кыны
+ stem: кыны.
+ gramm: N
+ paradigm: Noun-num-vowel
+ trans_ru: хариус; форел; диал. язь
+
+-lexeme
  lex: йыруж
  stem: йыруж.
  gramm: N
@@ -39200,7 +39214,7 @@
  stem: ар.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: ар
+ trans_ru: год
 
 -lexeme
  lex: ӵабтылон
@@ -43513,6 +43527,13 @@
  gramm: N
  paradigm: Noun-num-vowel
  trans_ru: молодой кузнечик
+
+-lexeme
+ lex: ӟуч
+ stem: ӟуч.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: русский
 
 -lexeme
  lex: партия
@@ -53896,13 +53917,6 @@
  trans_ru: куль
 
 -lexeme
- lex: кулэ
- stem: кулэ.
- gramm: N
- paradigm: Noun-num-vowel
- trans_ru: надо, необходимо, нужно, следует
-
--lexeme
  lex: лякон
  stem: лякон.
  gramm: N
@@ -59851,3 +59865,248 @@
  gramm: N
  paradigm: Noun-num-vowel
  trans_ru: десятина
+
+-lexeme
+ lex: республика
+ stem: республика.
+ gramm: N
+ paradigm: Noun-num-vowel
+ trans_ru: республика
+
+-lexeme
+ lex: правительство
+ stem: правительство.
+ gramm: N
+ paradigm: Noun-num-vowel
+ trans_ru: правительство
+
+-lexeme
+ lex: политика
+ stem: политика.
+ gramm: N
+ paradigm: Noun-num-vowel
+ trans_ru: политика
+
+-lexeme
+ lex: наука
+ stem: наука.
+ gramm: N
+ paradigm: Noun-num-vowel
+ trans_ru: наука
+
+-lexeme
+ lex: хозяйство
+ stem: хозяйство.
+ gramm: N
+ paradigm: Noun-num-vowel
+ trans_ru: хозяйство
+
+-lexeme
+ lex: армия
+ stem: арми.
+ gramm: N
+ paradigm: Noun-num-ija
+ trans_ru: армия
+
+-lexeme
+ lex: пенсия
+ stem: пенси.
+ gramm: N
+ paradigm: Noun-num-ija
+ trans_ru: пенсия
+
+-lexeme
+ lex: интернет
+ stem: интернет.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: интернет
+
+-lexeme
+ lex: десятина
+ stem: десятина.
+ gramm: N
+ paradigm: Noun-num-vowel
+ trans_ru: десятина
+
+-lexeme
+ lex: сюрс
+ stem: сюрс.
+ gramm: NUM
+ paradigm: Noun-num-consonant
+ trans_ru: тысяча
+
+-lexeme
+ lex: Александр
+ stem: александр.
+ gramm: N,persn
+ paradigm: Noun-num-consonant
+ trans_ru: Александр
+
+-lexeme
+ lex: Владимир
+ stem: владимир.
+ gramm: N,persn
+ paradigm: Noun-num-consonant
+ trans_ru: Владимир
+
+-lexeme
+ lex: Николай
+ stem: никола.
+ gramm: N,persn
+ paradigm: Noun-num-j
+ trans_ru: Николай
+
+-lexeme
+ lex: Сергей
+ stem: серге.
+ gramm: N,persn
+ paradigm: Noun-num-j
+ trans_ru: Сергей
+
+-lexeme
+ lex: Елена
+ stem: елена.
+ gramm: N,persn
+ paradigm: Noun-num-vowel
+ trans_ru: Елена
+
+-lexeme
+ lex: Татьяна
+ stem: татьяна.
+ gramm: N,persn
+ paradigm: Noun-num-vowel
+ trans_ru: Татьяна
+
+-lexeme
+ lex: Михаил
+ stem: михаил.
+ gramm: N,persn
+ paradigm: Noun-num-consonant
+ trans_ru: Михаил
+
+-lexeme
+ lex: Алексей
+ stem: алексе.
+ gramm: N,persn
+ paradigm: Noun-num-j
+ trans_ru: Алексей
+
+-lexeme
+ lex: Надежда
+ stem: надежда.
+ gramm: N,persn
+ paradigm: Noun-num-vowel
+ trans_ru: Надежда
+
+-lexeme
+ lex: Иван
+ stem: иван.
+ gramm: N,persn
+ paradigm: Noun-num-consonant
+ trans_ru: Иван
+
+-lexeme
+ lex: Ольга
+ stem: ольга.
+ gramm: N,persn
+ paradigm: Noun-num-vowel
+ trans_ru: Ольга
+
+-lexeme
+ lex: Галина
+ stem: галина.
+ gramm: N,persn
+ paradigm: Noun-num-vowel
+ trans_ru: Галина
+
+-lexeme
+ lex: Волков
+ stem: волков.
+ gramm: N,famn
+ paradigm: Noun-num-consonant
+ trans_ru: Волков
+
+-lexeme
+ lex: Путин
+ stem: путин.
+ gramm: N,famn
+ paradigm: Noun-num-consonant
+ trans_ru: Путин
+
+-lexeme
+ lex: Ленин
+ stem: ленин.
+ gramm: N,famn
+ paradigm: Noun-num-consonant
+ trans_ru: Ленин
+
+-lexeme
+ lex: Кузнецов
+ stem: кузнецов.
+ gramm: N,famn
+ paradigm: Noun-num-consonant
+ trans_ru: Кузнецов
+
+-lexeme
+ lex: Россия
+ stem: росси.
+ gramm: N,topn
+ paradigm: Noun-num-ija
+ trans_ru: Россия
+
+-lexeme
+ lex: Удмуртия
+ stem: удмурти.
+ gramm: N,topn
+ paradigm: Noun-num-ija
+ trans_ru: Удмуртия
+
+-lexeme
+ lex: Иж
+ stem: иж.
+ gramm: N,topn
+ paradigm: Noun-num-consonant
+ trans_ru: Ижевск
+
+-lexeme
+ lex: Ижкар
+ stem: ижкар.
+ gramm: N,topn
+ paradigm: Noun-num-consonant
+ trans_ru: Ижевск
+
+-lexeme
+ lex: Ижевск
+ stem: ижевск.
+ gramm: N,topn
+ paradigm: Noun-num-consonant
+ trans_ru: Ижевск
+
+-lexeme
+ lex: Можга
+ stem: можга.
+ gramm: N,topn
+ paradigm: Noun-num-vowel
+ trans_ru: Можга
+
+-lexeme
+ lex: Москва
+ stem: москва.
+ gramm: N,topn
+ paradigm: Noun-num-vowel
+ trans_ru: Москва
+
+-lexeme
+ lex: Глазкар
+ stem: глазкар.
+ gramm: N,topn
+ paradigm: Noun-num-consonant
+ trans_ru: Глазов
+
+-lexeme
+ lex: Глазов
+ stem: глазов.
+ gramm: N,topn
+ paradigm: Noun-num-consonant
+ trans_ru: Глазов
