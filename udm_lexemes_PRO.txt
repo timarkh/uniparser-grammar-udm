@@ -469,7 +469,12 @@
  paradigm: Empty
  trans_ru: такой
 
-ваньмыз
+-lexeme
+ lex: кин
+ stem: кин.
+ gramm: PRO
+ paradigm: Noun-num-consonant
+ trans_ru: кто
 
 -lexeme
  lex: мар
