@@ -5510,13 +5510,6 @@
  trans_ru: тихо, мирно, спокойно, тихий, мирный, спокойный
 
 -lexeme
- lex: корка
- stem: корка.
- gramm: N
- paradigm: Noun-num-vowel
- trans_ru: изба, дом
-
--lexeme
  lex: нокытӥ
  stem: нокытӥ.
  gramm: N
@@ -10173,21 +10166,21 @@
  stem: орден.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: орден, Ленин ~ орден Ленина, Октябрьской Революция ~ орден Октябрьской Революции
+ trans_ru: орден
 
 -lexeme
  lex: мупуктос
  stem: мупуктос.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: нанос Мупуктос – шур нюжалъёсы бызись вуэн ваем пуктосъёс
+ trans_ru: нанос
 
 -lexeme
  lex: мангылы
  stem: мангылы.
  gramm: N
  paradigm: Noun-num-vowel
- trans_ru: навеки, навечно, навсегда, вовек, вовеки, никогда
+ trans_ru: навеки, навсегда
 
 -lexeme
  lex: ниж-няж
@@ -10768,7 +10761,7 @@
  stem: няньпыжонни.
  gramm: N
  paradigm: Noun-num-vowel
- trans_ru: няньпыжонтӥ пекарня
+ trans_ru: пекарня
 
 -lexeme
  lex: метатеза

@@ -426,6 +426,13 @@
  trans_ru: они
 
 -lexeme
+ lex: со
+ stem: соиз.
+ gramm: PRO,3sg
+ paradigm: Noun-case
+ trans_ru: он/она/оно
+
+-lexeme
  lex: мон
  stem: монэным.
  gramm: PRO,ins,sg
@@ -506,6 +513,13 @@
  stem: та.
  gramm: PRO
  paradigm: Noun-num-vowel
+ trans_ru: тот
+
+-lexeme
+ lex: та
+ stem: таин.
+ gramm: PRO,sg,ins
+ paradigm: Empty
  trans_ru: тот
 
 -lexeme
