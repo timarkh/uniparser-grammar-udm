@@ -39151,7 +39151,7 @@
  stem: кислотност.
  gramm: N
  paradigm: Noun-num-soft
- trans_ru: кислотность, кислотностез мултэс высокая кислотность
+ trans_ru: кислотность
 
 -lexeme
  lex: мандат
@@ -60075,3 +60075,18 @@
  gramm: N,topn
  paradigm: Noun-num-consonant
  trans_ru: Глазов
+
+-lexeme
+ lex: сатдунне
+ stem: сатдунне.
+ gramm: N
+ paradigm: Noun-num-vowel
+ trans_ru: духовный, вечный мир
+
+-lexeme
+ lex: азьгарай
+ stem: азьгарай.
+ gramm: N
+ paradigm: Noun-num-j
+ trans_ru: анат. большой палец
+
