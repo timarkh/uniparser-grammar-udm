@@ -756,8 +756,8 @@
  trans_ru: указ, вот, вон
 
 -lexeme
- lex: -тэ
- stem: -тэ.
+ lex: тэ
+ stem: тэ.
  gramm: PART
  paradigm: Empty
  trans_ru: вопр. ли
@@ -838,6 +838,13 @@
  gramm: PART
  paradigm: Empty
  trans_ru: утверд. да, ага
+
+-lexeme
+ lex: кылсярысь
+ stem: кылсярысь.
+ gramm: PARENTH
+ paradigm: Empty
+ trans_ru: например
 
 -lexeme
  lex: кемыз
@@ -929,6 +936,13 @@
  gramm: PART
  paradigm: Empty
  trans_ru: ведь, же
+
+-lexeme
+ lex: угось
+ stem: угось.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: ведь
 
 -lexeme
  lex: да
@@ -1328,6 +1342,13 @@
  gramm: ADV
  paradigm: connect_adverbs
  trans_ru: с той стороны
+
+-lexeme
+ lex: ласянь
+ stem: ласянь.
+ gramm: POST
+ paradigm: Empty
+ trans_ru: по направлению к
 
 -lexeme
  lex: пож
@@ -2954,6 +2975,13 @@
  trans_ru: грязно
 
 -lexeme
+ lex: уката
+ stem: уката.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: особенно, ещё
+
+-lexeme
  lex: тотобыля
  stem: тотобыля.
  gramm: ADV
@@ -3498,6 +3526,13 @@
  gramm: ADV
  paradigm: connect_adverbs
  trans_ru: давно
+
+-lexeme
+ lex: кема
+ stem: кема.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: долго
 
 -lexeme
  lex: эльмуӵ
@@ -4393,7 +4428,7 @@
  stem: огымысь.
  gramm: ADV
  paradigm: connect_adverbs
- trans_ru: единогласно, дружно, в один голос Соин ӵош, огымысь кадь, но ӧжытак шыпытэнгес …, мынӥсьес кырӟаны кутскизы
+ trans_ru: единогласно, дружно
 
 -lexeme
  lex: укмыснады
@@ -4407,7 +4442,7 @@
  stem: апать-тупать.
  gramm: ADV
  paradigm: connect_adverbs
- trans_ru: кое-как, тяп-ляп ,с грехом пополам
+ trans_ru: кое-как, тяп-ляп, с грехом пополам
 
 -lexeme
  lex: ӝожон
@@ -4848,7 +4883,14 @@
  stem: олокин.
  gramm: ADV
  paradigm: connect_adverbs
- trans_ru: кто
+ trans_ru: кто-то
+
+-lexeme
+ lex: оло
+ stem: оло.
+ gramm: CNJ
+ paradigm: Empty
+ trans_ru: или; вероятно
 
 -lexeme
  lex: ӵошкыт
@@ -5240,7 +5282,7 @@
  stem: юнме.
  gramm: ADV
  paradigm: connect_adverbs
- trans_ru: напрасно, понапрасну, зря, бесцельно, попусту, впустую
+ trans_ru: напрасно, зря
 
 -lexeme
  lex: иназ
@@ -5261,7 +5303,7 @@
  stem: котькӧня.
  gramm: ADV
  paradigm: connect_adverbs
- trans_ru: сколько угодно, сколько не... ? кионэз ~ сюд, со ялан нюлэскы учке посл. сколько волка не корми, всё в лес смотрит
+ trans_ru: сколько угодно
 
 -lexeme
  lex: батырлыко
@@ -6515,6 +6557,13 @@
  gramm: ADV
  paradigm: connect_adverbs
  trans_ru: мелко, неглубоко
+
+-lexeme
+ lex: уго
+ stem: уго.
+ gramm: CNJ
+ paradigm: Empty
+ trans_ru: потому что
 
 -lexeme
  lex: айкась

@@ -1452,8 +1452,8 @@
 -lexeme
  lex: процентъем
  stem: процентъем.
- gramm: N
- paradigm: Noun-num-consonant
+ gramm: ADJ
+ paradigm: connect_adjectives
  trans_ru: процентный
 
 -lexeme
@@ -4373,7 +4373,7 @@
  stem: кулон-бырон.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: погибель Адямилэн сьӧлыкамез но со понна
+ trans_ru: погибель
 
 -lexeme
  lex: кыкъямыстон
@@ -6159,7 +6159,7 @@
  stem: нио-версо.
  gramm: N
  paradigm: Noun-num-vowel
- trans_ru: ни то, ни сё, недовведенное до конца, ужмы нио-версо быриз работа не совсем закончена
+ trans_ru: ни то, ни сё, не доведённое до конца
 
 -lexeme
  lex: акушёр
@@ -10880,7 +10880,7 @@
  stem: кунгыри.
  gramm: N
  paradigm: Noun-num-vowel
- trans_ru: крючокa одӥг ~ кунгыртыны зачерпнуть один раз
+ trans_ru: крючок
 
 -lexeme
  lex: дӥнё
@@ -18295,7 +18295,7 @@
  stem: музъемош.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: мамонт Пӧйшурасьёс погыртыны выризы кык метр ӝужда музъемошез
+ trans_ru: мамонт
 
 -lexeme
  lex: шырича
@@ -20556,7 +20556,7 @@
  stem: музъеммульы.
  gramm: N
  paradigm: Noun-num-vowel
- trans_ru: арахис 2006:7
+ trans_ru: арахис
 
 -lexeme
  lex: наводка
@@ -21019,13 +21019,6 @@
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: силач, борец
-
--lexeme
- lex: куинь
- stem: куин.
- gramm: N
- paradigm: Noun-num-soft
- trans_ru: три, трёх-
 
 -lexeme
  lex: кӧсвозён
@@ -23161,7 +23154,7 @@
  stem: музъемвӧ.
  gramm: N
  paradigm: Noun-num-j
- trans_ru: музъемвӧйгуби гриб 1. сморчок 2. веселка
+ trans_ru: нефть
 
 -lexeme
  lex: жадьылытэк

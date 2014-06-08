@@ -462,12 +462,7 @@
  paradigm: Empty
  trans_ru: такой
 
--lexeme
- lex: кин
- stem: кин.
- gramm: PRO
- paradigm: Noun-num-consonant
- trans_ru: кто
+ваньмыз
 
 -lexeme
  lex: мар
@@ -497,4 +492,53 @@
  paradigm: Empty
  trans_ru: тогда
 
+-lexeme
+ lex: котьку
+ stem: котьку.
+ gramm: PRO
+ paradigm: Empty
+ trans_ru: когда угодно
 
+
+
+-lexeme
+ lex: та
+ stem: та.
+ gramm: PRO
+ paradigm: Noun-num-vowel
+ trans_ru: тот
+
+-lexeme
+ lex: та
+ stem: таиз.
+ gramm: PRO,3sg
+ paradigm: Noun-case
+ trans_ru: тот
+
+-lexeme
+ lex: ас
+ stem: ас.
+ gramm: PRO
+ paradigm: Empty
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ваньмыз
+ stem: ваньмыз.
+ gramm: PRO
+ paradigm: Noun-num-consonant
+ trans_ru: все, всё
+
+-lexeme
+ lex: отчы
+ stem: отчы.
+ gramm: PRO
+ paradigm: Empty
+ trans_ru: туда
+
+-lexeme
+ lex: татчы
+ stem: татчы.
+ gramm: PRO
+ paradigm: Empty
+ trans_ru: сюда
