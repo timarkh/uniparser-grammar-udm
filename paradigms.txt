@@ -343,6 +343,12 @@
   gramm: ine,1sg
  -flex: .ам
   gramm: ill,1sg
+ -flex: .ям
+  regex-prev: ^.*[бвгжӝйкпрфхцчӵаеёиӥоӧуыэюя][<>.]*$
+  gramm: ine,1sg
+ -flex: .ям
+  regex-prev: ^.*[бвгжӝйкпрфхцчӵаеёиӥоӧуыэюя][<>.]*$
+  gramm: ill,1sg
  -flex: .ысьтым
   gramm: el,1sg
  -flex: .ысеным
@@ -401,6 +407,12 @@
  -flex: .ад
   gramm: ine,2sg
  -flex: .ад
+  gramm: ill,2sg
+ -flex: .яд
+  regex-prev: ^.*[бвгжӝйкпрфхцчӵаеёиӥоӧуыэюя][<>.]*$
+  gramm: ine,2sg
+ -flex: .яд
+  regex-prev: ^.*[бвгжӝйкпрфхцчӵаеёиӥоӧуыэюя][<>.]*$
   gramm: ill,2sg
  -flex: .ысьтыд
   gramm: el,2sg
@@ -463,6 +475,12 @@
   gramm: ine,3sg
  -flex: .аз
   gramm: ill,3sg
+ -flex: .яз
+  regex-prev: ^.*[бвгжӝйкпрфхцчӵаеёиӥоӧуыэюя][<>.]*$
+  gramm: ine,3sg
+ -flex: .яз
+  regex-prev: ^.*[бвгжӝйкпрфхцчӵаеёиӥоӧуыэюя][<>.]*$
+  gramm: ill,3sg
  -flex: .ысьтыз
   gramm: el,3sg
  -flex: .ысеныз
@@ -499,6 +517,12 @@
   gramm: ine,1pl
  -flex: .амы
   gramm: ill,1pl
+ -flex: .ямы
+  regex-prev: ^.*[бвгжӝйкпрфхцчӵаеёиӥоӧуыэюя][<>.]*$
+  gramm: ine,1pl
+ -flex: .ямы
+  regex-prev: ^.*[бвгжӝйкпрфхцчӵаеёиӥоӧуыэюя][<>.]*$
+  gramm: ill,1pl
  -flex: .ысьтымы
   gramm: el,1pl
  -flex: .ысенымы
@@ -532,6 +556,12 @@
   gramm: ine,2pl
  -flex: .ады
   gramm: ill,2pl
+ -flex: .яды
+  regex-prev: ^.*[бвгжӝйкпрфхцчӵаеёиӥоӧуыэюя][<>.]*$
+  gramm: ine,2pl
+ -flex: .яды
+  regex-prev: ^.*[бвгжӝйкпрфхцчӵаеёиӥоӧуыэюя][<>.]*$
+  gramm: ill,2pl
  -flex: .ысьтыды
   gramm: el,2pl
  -flex: .ысеныды
@@ -564,6 +594,12 @@
  -flex: .азы
   gramm: ine,3pl
  -flex: .азы
+  gramm: ill,3pl
+ -flex: .язы
+  regex-prev: ^.*[бвгжӝйкпрфхцчӵаеёиӥоӧуыэюя][<>.]*$
+  gramm: ine,3pl
+ -flex: .язы
+  regex-prev: ^.*[бвгжӝйкпрфхцчӵаеёиӥоӧуыэюя][<>.]*$
   gramm: ill,3pl
  -flex: .ысьтызы
   gramm: el,3pl
