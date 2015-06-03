@@ -3228,11 +3228,11 @@
  trans_ru: средняя величина, среднее количество, средняя цифра, шорлыдын
 
 -lexeme
- lex: начармон1.обеднение
- stem: начармон1.обеднение.
+ lex: начармон
+ stem: начармон
  gramm: N
- paradigm: Noun-num-vowel
- trans_ru: разорение(напр. хозяйства) 2. истощение,ухудшение
+ paradigm: Noun-num-consonant
+ trans_ru: обеднение, разорение, истощение
 
 -lexeme
  lex: вакытаз
@@ -12123,10 +12123,10 @@
 
 -lexeme
  lex: предание
- stem: предание.
+ stem: предани.
  gramm: N
- paradigm: Noun-num-vowel
- trans_ru: фольк. предание
+ paradigm: Noun-num-ije
+ trans_ru: предание
 
 -lexeme
  lex: обстоятельство
@@ -16510,14 +16510,7 @@
  stem: чучы.
  gramm: N
  paradigm: Noun-num-vowel
- trans_ru: 1. гнойничок, прыщ) 2. короста ӵуӵы пузырьколишай, сыпь
-
--lexeme
- lex: даурлы
- stem: даурлы.
- gramm: N
- paradigm: Noun-num-vowel
- trans_ru: навеки, быдэс даурлы тырмоз хватит на весь век
+ trans_ru: гнойничок, прыщ, короста
 
 -lexeme
  lex: ӟукыртон
@@ -16538,7 +16531,7 @@
  stem: одеял.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: одеяло одеяло
+ trans_ru: одеяло
 
 -lexeme
  lex: укыр-бекыр
@@ -16580,7 +16573,7 @@
  stem: дышетсконни.
  gramm: N
  paradigm: Noun-num-vowel
- trans_ru: дышетсконтӥ место учёбы, учебное заведение, школа
+ trans_ru: учебное заведение
 
 -lexeme
  lex: кушага
@@ -16783,7 +16776,7 @@
  stem: синпӧйкынар.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: синпӧяськынар, пӧйкынар иллюзорная энергия, майа
+ trans_ru: иллюзорная энергия, майа
 
 -lexeme
  lex: нуон-ваён
@@ -17147,7 +17140,7 @@
  stem: кольыр.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: кольыр-кольыр: кӧт ~ шуэ в животе урчит
+ trans_ru: в животе урчит
 
 -lexeme
  lex: сезон
@@ -17525,7 +17518,7 @@
  stem: кӧйсюсьтыл.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: кӧйтыл стеариновая свеча
+ trans_ru: теариновая свеча
 
 -lexeme
  lex: пужы
@@ -17924,7 +17917,7 @@
  stem: ӟоз.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: ӟозы кузнечик
+ trans_ru: кузнечик
 
 -lexeme
  lex: выжул
@@ -18050,7 +18043,7 @@
  stem: тэйӟем.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: тэйӟылыны
+ trans_ru: 
 
 -lexeme
  lex: черык
@@ -18099,7 +18092,7 @@
  stem: посно.
  gramm: N
  paradigm: Noun-num-j
- trans_ru: кӧсдыр визян визь пост
+ trans_ru: постный
 
 -lexeme
  lex: гурдэс
@@ -18470,7 +18463,7 @@
  stem: низ.
  gramm: N
  paradigm: Noun-num-soft
- trans_ru: низьӧг соболь
+ trans_ru: соболь
 
 -lexeme
  lex: сюрокеч
@@ -18502,10 +18495,10 @@
 
 -lexeme
  lex: подразделение
- stem: подразделение.
+ stem: подразделени.
  gramm: N
- paradigm: Noun-num-vowel
- trans_ru: воен. подразделение
+ paradigm: Noun-num-ije
+ trans_ru: подразделение
 
 -lexeme
  lex: тётёро
@@ -18554,7 +18547,7 @@
  stem: мынонни.
  gramm: N
  paradigm: Noun-num-vowel
- trans_ru: мынонтӥ прикильм.путь следования, маршрут
+ trans_ru: прикильм. путь следования, маршрут
 
 -lexeme
  lex: вӧзам
@@ -18694,7 +18687,7 @@
  stem: гыжы.
  gramm: N
  paradigm: Noun-num-vowel
- trans_ru: гыӝ мельчайшая песчинка
+ trans_ru: мельчайшая песчинка
 
 -lexeme
  lex: макиня
@@ -19359,7 +19352,7 @@
  stem: огӝыт.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: огӝытэ, огӝытскын за один вечер, в один из вечеров
+ trans_ru: за один вечер, в один из вечеров
 
 -lexeme
  lex: кабала
@@ -19457,7 +19450,7 @@
  stem: эктонни.
  gramm: N
  paradigm: Noun-num-vowel
- trans_ru: эктонтӥ место, где пляшут и танцуют, танцевальная площадка
+ trans_ru: место, где пляшут и танцуют, танцевальная площадка
 
 -lexeme
  lex: гизегъяськын(ы
@@ -19660,7 +19653,7 @@
  stem: нигыли.
  gramm: N
  paradigm: Noun-num-vowel
- trans_ru: низили, ниӟили вотские макароны, лапша
+ trans_ru: вотские макароны, лапша
 
 -lexeme
  lex: возьытскон
@@ -19758,7 +19751,7 @@
  stem: сётъёс.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: данные ӵыжы-выжы калыкъёслэн сётъёссы
+ trans_ru: данные
 
 -lexeme
  lex: Инсьӧрбугор
@@ -19905,7 +19898,7 @@
  stem: ясник.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: кӧжы  чечевица
+ trans_ru: чечевица
 
 -lexeme
  lex: нымыляк
@@ -20010,7 +20003,7 @@
  stem: педлопотанни.
  gramm: N
  paradigm: Noun-num-vowel
- trans_ru: педлопотантӥ уборная, туалет
+ trans_ru: уборная, туалет
 
 -lexeme
  lex: чильтыр-чильтыр
@@ -20192,7 +20185,7 @@
  stem: выдонни.
  gramm: N
  paradigm: Noun-num-vowel
- trans_ru: выдонтӥ место для лежания, лежанка, постель
+ trans_ru: место для лежания, лежанка, постель
 
 -lexeme
  lex: городки
@@ -20563,7 +20556,7 @@
  stem: лулву.
  gramm: N
  paradigm: Noun-num-vowel
- trans_ru: ӧӧ, 564
+ trans_ru: 
 
 -lexeme
  lex: чиндыр-чандыр
@@ -20654,7 +20647,7 @@
  stem: ӟарпотон.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: заря, рассвет, ӟарпотонэз возьманы ждать рассвета
+ trans_ru: заря, рассвет
 
 -lexeme
  lex: вуриськылон
@@ -20955,7 +20948,7 @@
  stem: ӟигарсыз.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: ӟигартэк оставшийся без силы, ослабевший
+ trans_ru: оставшийся без силы, ослабевший
 
 -lexeme
  lex: кудлань
@@ -20963,13 +20956,6 @@
  gramm: N
  paradigm: Noun-num-soft
  trans_ru: в какую сторону, в каком направлении, куда
-
--lexeme
- lex: шӧмыз-ческытэз
- stem: шӧмыз-ческытэз.
- gramm: N
- paradigm: Noun-num-consonant
- trans_ru: шӧмыз-юмыз: шӧмзэ-ческытсэ веръяны пробовать на вкус
 
 -lexeme
  lex: мылазь
@@ -20983,7 +20969,7 @@
  stem: ӧбӧ.
  gramm: N
  paradigm: Noun-num-vowel
- trans_ru: ӧбӧб бобо
+ trans_ru:
 
 -lexeme
  lex: партизан
@@ -21018,7 +21004,7 @@
  stem: кӧсвозён.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: кӧсутён
+ trans_ru: 
 
 -lexeme
  lex: ӟиай-инай
@@ -21074,7 +21060,7 @@
  stem: ыбылӥськонни.
  gramm: N
  paradigm: Noun-num-vowel
- trans_ru: ыбылӥськонтӥ стрельбище, тир
+ trans_ru: стрельбище, тир
 
 -lexeme
  lex: быгыльма
@@ -21228,14 +21214,14 @@
  stem: йӧкурам.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: наледь, йӧкурамо с наледью, покрытый льдом
+ trans_ru: наледь
 
 -lexeme
  lex: тулэм
  stem: тулэм.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: бобег хвойного дерева, поросший летом
+ trans_ru: побег хвойного дерева, поросший летом
 
 -lexeme
  lex: дӥнкат
@@ -21333,7 +21319,7 @@
  stem: кӧсвозьыны.
  gramm: N
  paradigm: Noun-num-vowel
- trans_ru: кӧсутьыны
+ trans_ru: 
 
 -lexeme
  lex: пишмаган
@@ -21347,7 +21333,7 @@
  stem: вер.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: верет: веник ~ связанная пара веников
+ trans_ru: веник ~ связанная пара веников
 
 -lexeme
  lex: вес
@@ -21389,14 +21375,14 @@
  stem: тӥялтэс.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: тӥялтэт кусок, ломоть
+ trans_ru: кусок, ломоть
 
 -lexeme
  lex: ӟуски
  stem: ӟуски.
  gramm: N
  paradigm: Noun-num-vowel
- trans_ru: 1. гроздь ,палэзь ~ гроздь рябины 2. гребешок, бородка, гребень 3. гребень
+ trans_ru: гроздь; гребень
 
 -lexeme
  lex: курок
@@ -21424,7 +21410,7 @@
  stem: вӧсясконни.
  gramm: N
  paradigm: Noun-num-vowel
- trans_ru: вӧсяськонтӥ место, где молятся, молельня, нч. мольбище
+ trans_ru: место, где молятся, молельня
 
 -lexeme
  lex: ялкарон
@@ -21438,7 +21424,7 @@
  stem: дэ.
  gramm: N
  paradigm: Noun-num-j
- trans_ru: 1. грыжа 2. парша 3. картофельная ягода 4. кила) 5. яд, отрава
+ trans_ru: 1. грыжа 2. парша 3. картофельная ягода 4. кила 5. яд, отрава
 
 -lexeme
  lex: юргась
@@ -22041,7 +22027,7 @@
  stem: лемичкӧжы.
  gramm: N
  paradigm: Noun-num-vowel
- trans_ru: лемыськӧжы  бобы
+ trans_ru: бобы
 
 -lexeme
  lex: оператор
@@ -22055,7 +22041,7 @@
  stem: лыдӟонни.
  gramm: N
  paradigm: Noun-num-vowel
- trans_ru: лыдӟон корка изба-читальня
+ trans_ru: изба-читальня
 
 -lexeme
  lex: клетчатка
@@ -22069,14 +22055,14 @@
  stem: ви.
  gramm: N
  paradigm: Noun-num-vowel
- trans_ru: 1. время, момент, визэ шедьтыны 1) найти подходящий момент 2) не упустить время
+ trans_ru: время, момент
 
 -lexeme
  lex: буйгатонтэм
  stem: буйгатонтэм.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: не поддающийся успокоению, неспокойный, беспокойный
+ trans_ru: беспокойный
 
 -lexeme
  lex: рана
@@ -22188,7 +22174,7 @@
  stem: ӝоз.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: ӝозтурын марена
+ trans_ru: марена
 
 -lexeme
  lex: кӧсму
@@ -22279,14 +22265,14 @@
  stem: тырыллясьёс.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: син. выжыятӥсьёс Тани мар
+ trans_ru: 
 
 -lexeme
  lex: течение
- stem: течение.
+ stem: течени.
  gramm: N
- paradigm: Noun-num-vowel
- trans_ru:  течение
+ paradigm: Noun-num-ije
+ trans_ru: течение
 
 -lexeme
  lex: павильон
@@ -22643,7 +22629,7 @@
  stem: ӟаныка.
  gramm: N
  paradigm: Noun-num-j
- trans_ru: ӟаным фольк. милая, милый, дорогая, дорогой, любимая, любимый
+ trans_ru: фольк. милая, милый, дорогая, дорогой, любимая, любимый
 
 -lexeme
  lex: штора
@@ -22762,7 +22748,7 @@
  stem: ӟирк.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: ӟиркак
+ trans_ru: 
 
 -lexeme
  lex: кечкузьым
@@ -22951,7 +22937,7 @@
  stem: пышчелтонни.
  gramm: N
  paradigm: Noun-num-vowel
- trans_ru: пышты пыӵы место, где мочат коноплю
+ trans_ru: место, где мочат коноплю
 
 -lexeme
  lex: ньылёй
@@ -22979,7 +22965,7 @@
  stem: куаӵам.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: куаӵись дрозд-рябинник
+ trans_ru: дрозд-рябинник
 
 -lexeme
  lex: питыр-котыр
@@ -23018,10 +23004,10 @@
 
 -lexeme
  lex: напряжение
- stem: напряжение.
+ stem: напряжени.
  gramm: N
- paradigm: Noun-num-vowel
- trans_ru: эл. напряжение
+ paradigm: Noun-num-ije
+ trans_ru: напряжение
 
 -lexeme
  lex: колоша
@@ -25206,7 +25192,7 @@
  stem: Иднакар.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: [И прописное] Иднакар
+ trans_ru: Иднакар
 
 -lexeme
  lex: сорича

@@ -29,8 +29,8 @@
 -lexeme
  lex: погрузчик
  stem: погрузчик.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N
+ paradigm: Noun-num-consonant
  trans_ru: погрузчик
 
 -lexeme
@@ -521,7 +521,7 @@
  stem: кынвӧй.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: ӵыштосвӧй зумыт топлёное сало
+ trans_ru: топлёное сало
 
 -lexeme
  lex: провокация
@@ -976,7 +976,7 @@
  stem: пикисы.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: сущ. внутренний карман Пальмалэсь пельсьӧрзэ вешаз пикисыысьтыз поттэм бур киыныз
+ trans_ru: внутренний карман
 
 -lexeme
  lex: правка
