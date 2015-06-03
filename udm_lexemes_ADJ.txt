@@ -2467,7 +2467,7 @@
  stem: кесиськись.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: вопиющий кыр дунненын кесиськисьлэн куараез: «Кузё-Инмарлы сюрес дасялэ, шонертэлэ Солы сюресэз»
+ trans_ru: вопиющий
 
 -lexeme
  lex: нора
@@ -2974,6 +2974,13 @@
  trans_ru: светловолосый, белокурый, светло-русый
 
 -lexeme
+ lex: тӧдьы
+ stem: тӧдьы.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: белый
+
+-lexeme
  lex: ӝакыйыр
  stem: ӝакыйыр.
  gramm: ADJ
@@ -3419,7 +3426,7 @@
  stem: бабанайгуби.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: белый гриб, см. тӧдьы
+ trans_ru: белый гриб
 
 -lexeme
  lex: эриктэм
@@ -4546,14 +4553,7 @@
  stem: нярга.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: слабый, нярга куараё со слабым голосом
-
--lexeme
- lex: герой
- stem: герой.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: герой, Советской Союзлэн Героез Герой Советского Союза
+ trans_ru: слабый
 
 -lexeme
  lex: умойтэм
@@ -5682,6 +5682,13 @@
  gramm: ADJ
  paradigm: connect_adjectives
  trans_ru: молодой
+
+-lexeme
+ lex: улэп
+ stem: улэп.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: живой
 
 -lexeme
  lex: витьтонэтӥ
@@ -7165,7 +7172,7 @@
  stem: оскиськымон.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: надежный, верный Ной нимо одӥг адями гинэ аслаз кылдытӥсезлы оскиськымон улӥз, Солэсь эриксэ быдэсъяса улӥз
+ trans_ru: надежный, верный
 
 -lexeme
  lex: лампочка
@@ -8117,7 +8124,7 @@
  stem: тӧдьыпыр.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: тӧдьыпыръем светловатый, светло-, беловатый, белёсый
+ trans_ru: светловатый, белёсый
 
 -lexeme
  lex: кыюсыз
@@ -8985,9 +8992,7 @@
  stem: быдэс.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: участок пахотной земли длиной 100 саженей, шириной 10 саженей
-
--lexeme
+ trans_ru: полный, весь-lexeme
  lex: кепырась
  stem: кепырась.
  gramm: ADJ
@@ -14585,3 +14590,67 @@
  stem: муниципал.
  gramm: ADJ
  paradigm: connect_adjectives
+ trans_ru: муниципальный
+
+-lexeme
+ lex: нимо
+ stem: нимо.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: имени
+
+-lexeme
+ lex: нимо-дано
+ stem: нимо-дано.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: известный, прославленный, знаменитый
+
+-lexeme
+ lex: аресъем
+ stem: аресъем.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: возраста стольких-то лет (употребляется с числительными)
+
+-lexeme
+ lex: шонер
+ stem: шонер.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: прямой
+
+-lexeme
+ lex: векчи
+ stem: векчи.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: тонкий
+
+-lexeme
+ lex: ӟеч
+ stem: ӟеч.
+ gramm: N
+ paradigm: connect_adjectives
+ trans_ru: хороший
+
+-lexeme
+ lex: кузь
+ stem: кузь.
+ gramm: N
+ paradigm: connect_adjectives
+ trans_ru: длинный
+
+-lexeme
+ lex: таза
+ stem: таза.
+ gramm: N
+ paradigm: connect_adjectives
+ trans_ru: здоровый
+
+-lexeme
+ lex: нырысетӥ
+ stem: нырысетӥ.
+ gramm: NUM
+ paradigm: connect_adjectives
+ trans_ru: первый

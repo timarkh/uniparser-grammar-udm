@@ -42,6 +42,20 @@
  trans_ru: цивилизация сердца
 
 -lexeme
+ lex: сатдунне
+ stem: сатдунне.
+ gramm: N
+ paradigm: Noun-num-vowel
+ trans_ru: духовный, вечный мир
+
+-lexeme
+ lex: азьгарай
+ stem: азьгарай.
+ gramm: N
+ paradigm: Noun-num-j
+ trans_ru: большой палец
+
+-lexeme
  lex: сутка
  stem: сутка.
  gramm: N
@@ -1435,6 +1449,13 @@
  trans_ru: шесть
 
 -lexeme
+ lex: сӥзем
+ stem: сӥзем.
+ gramm: NUM
+ paradigm: Noun-num-consonant
+ trans_ru: семь
+
+-lexeme
  lex: майонез
  stem: майонез.
  gramm: N
@@ -2058,13 +2079,6 @@
  trans_ru: саботажник
 
 -lexeme
- lex: вылэм
- stem: вылэм.
- gramm: N
- paradigm: Noun-num-consonant
- trans_ru: быль
-
--lexeme
  lex: аэросани
  stem: аэросани.
  gramm: N
@@ -2189,6 +2203,27 @@
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: качание, колыхание
+
+-lexeme
+ lex: вераськон
+ stem: вераськон.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: разговор
+
+-lexeme
+ lex: чот
+ stem: чот.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: счёт; счёты
+
+-lexeme
+ lex: спортсмен
+ stem: спортсмен.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: спортсмен
 
 -lexeme
  lex: юмалтон
@@ -4512,7 +4547,14 @@
  stem: пинал.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: пинял (Бор) ребёнок, дитя
+ trans_ru: ребёнок, дитя
+
+-lexeme
+ lex: пинял
+ stem: пинял.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: ребёнок, дитя
 
 -lexeme
  lex: актэмъяськон
@@ -7245,6 +7287,13 @@
  trans_ru: кинофестиваль
 
 -lexeme
+ lex: фестиваль
+ stem: фестивал.
+ gramm: N
+ paradigm: Noun-num-soft
+ trans_ru: фестиваль
+
+-lexeme
  lex: фейерверк
  stem: фейерверк.
  gramm: N
@@ -7544,6 +7593,13 @@
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: удивление, изумление, восхищение
+
+-lexeme
+ lex: люкет
+ stem: люкет.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: часть
 
 -lexeme
  lex: ёзлюкет
@@ -9044,6 +9100,13 @@
  trans_ru: тракторист
 
 -lexeme
+ lex: трактор
+ stem: трактор.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: трактор
+
+-lexeme
  lex: апельсин
  stem: апельсин.
  gramm: N
@@ -10108,6 +10171,13 @@
  trans_ru: анекдот
 
 -lexeme
+ lex: кар
+ stem: кар.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: город
+
+-lexeme
  lex: карболка
  stem: карболка.
  gramm: N
@@ -10848,13 +10918,6 @@
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: флюгер
-
--lexeme
- lex: ӵап
- stem: ӵап.
- gramm: N
- paradigm: Noun-num-consonant
- trans_ru: как раз
 
 -lexeme
  lex: шузимон
@@ -11603,7 +11666,7 @@
  stem: уятсыз.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: бесстыдный, бесстыжий, бессовестный, беззастенчивый, нахальный, наглый, циничный
+ trans_ru: бесстыдный, наглый, циничный
 
 -lexeme
  lex: саюл
@@ -12325,13 +12388,6 @@
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: Конституция
-
--lexeme
- lex: трос
- stem: трос.
- gramm: N
- paradigm: Noun-num-consonant
- trans_ru: много
 
 -lexeme
  lex: сизьыммос
@@ -13415,7 +13471,7 @@
  lex: музъем
  stem: музъем.
  gramm: N
- paradigm: Noun-num-soft
+ paradigm: Noun-num-consonant
  trans_ru: земля
 
 -lexeme
@@ -13466,13 +13522,6 @@
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: вроде, наподобие
-
--lexeme
- lex: татысь
- stem: татыс.
- gramm: N
- paradigm: Noun-num-soft
- trans_ru: отсюда, с места
 
 -lexeme
  lex: шактай
@@ -14154,6 +14203,13 @@
  trans_ru: июль
 
 -lexeme
+ lex: май
+ stem: ма.
+ gramm: N
+ paradigm: Noun-num-j
+ trans_ru: май
+
+-lexeme
  lex: туркменка
  stem: туркменка.
  gramm: N
@@ -14551,6 +14607,34 @@
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: строгание, обработка стругом
+
+-lexeme
+ lex: кыл
+ stem: кыл.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: язык; слово
+
+-lexeme
+ lex: ныл
+ stem: ныл.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: девушка; дочь
+
+-lexeme
+ lex: нылмурт
+ stem: нылмурт.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: женщина
+
+-lexeme
+ lex: нылаш
+ stem: нылаш.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: девушка
 
 -lexeme
  lex: кылвозно
@@ -19462,6 +19546,13 @@
  trans_ru: картошка
 
 -lexeme
+ lex: картошка
+ stem: картошка.
+ gramm: N
+ paradigm: Noun-num-vowel
+ trans_ru: картошка
+
+-lexeme
  lex: салдат
  stem: салдат.
  gramm: N
@@ -19488,13 +19579,6 @@
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: полностью, целиком, в целости, в сохранности
-
--lexeme
- lex: татысен
- stem: татысен.
- gramm: N
- paradigm: Noun-num-consonant
- trans_ru: отсюда, [начиная] с этого места
 
 -lexeme
  lex: черспыри
@@ -20195,6 +20279,13 @@
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: оплывина
+
+-lexeme
+ lex: комиссия
+ stem: комисси.
+ gramm: N
+ paradigm: Noun-num-ija
+ trans_ru: комиссия
 
 -lexeme
  lex: подкомиссия
@@ -21408,11 +21499,32 @@
  trans_ru: гантель, гантели
 
 -lexeme
+ lex: спектакль
+ stem: спектакл.
+ gramm: N
+ paradigm: Noun-num-soft
+ trans_ru: спектакль
+
+-lexeme
+ lex: водитель
+ stem: водител.
+ gramm: N
+ paradigm: Noun-num-soft
+ trans_ru: водитель
+
+-lexeme
  lex: антракт
  stem: антракт.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: антракт
+
+-lexeme
+ lex: герой
+ stem: геро.
+ gramm: N
+ paradigm: N-num-j
+ trans_ru: герой
 
 -lexeme
  lex: мӧшка
@@ -23597,6 +23709,13 @@
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: 1. изголовье 2. подушка
+
+-lexeme
+ lex: йыр
+ stem: йыр.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: голова
 
 -lexeme
  lex: жеребей
@@ -26742,13 +26861,6 @@
  trans_ru: затылочная ямка
 
 -lexeme
- lex: ӟеч
- stem: ӟеч.
- gramm: N
- paradigm: Noun-num-consonant
- trans_ru: добродетельный(Жуйк.
-
--lexeme
  lex: сыръезь
  stem: сыръез.
  gramm: N
@@ -28825,7 +28937,7 @@
  stem: йырпы.
  gramm: N
  paradigm: Noun-num-vowel
- trans_ru: ловушкадля птиц
+ trans_ru: ловушка для птиц
 
 -lexeme
  lex: могатон
@@ -28987,13 +29099,6 @@
  gramm: N
  paradigm: Noun-num-vowel
  trans_ru: роса
-
--lexeme
- lex: татын
- stem: татын.
- gramm: N
- paradigm: Noun-num-consonant
- trans_ru: здесь, на этом месте, тут
 
 -lexeme
  lex: азьворттӥсь
@@ -29463,6 +29568,13 @@
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: мединститут
+
+-lexeme
+ lex: институт
+ stem: институт.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: институт
 
 -lexeme
  lex: жылан
@@ -31999,6 +32111,13 @@
  trans_ru: с
 
 -lexeme
+ lex: радио
+ stem: радио.
+ gramm: N
+ paradigm: Noun-num-vowel
+ trans_ru: радио
+
+-lexeme
  lex: радиола
  stem: радиола.
  gramm: N
@@ -34180,7 +34299,7 @@
  stem: кайпалтон.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: 1. отстранение, устранение, отчуждение 2. присвоение
+ trans_ru: отстранение, отчуждение; присвоение
 
 -lexeme
  lex: гондыртамак
@@ -35324,7 +35443,7 @@
  trans_ru: крепость
 
 -lexeme
- lex: администраци
+ lex: администрация
  stem: администраци.
  gramm: N
  paradigm: Noun-num-vowel
@@ -35937,7 +36056,7 @@
  stem: мылкыд.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: 1. настроение 2. воля, желание, усердие 3. эмоция,4. чувство 
+ trans_ru: настроение; воля, желание 
 
 -lexeme
  lex: вӧлмет
@@ -36407,6 +36526,13 @@
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: контингент
+
+-lexeme
+ lex: артист
+ stem: артист.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: артист
 
 -lexeme
  lex: артистка
@@ -38678,11 +38804,11 @@
  trans_ru: крупинка
 
 -lexeme
- lex: акаяшка
+ lex: Акаяшка
  stem: акаяшка.
  gramm: N
  paradigm: Noun-num-vowel
- trans_ru: пасха
+ trans_ru: Пасха
 
 -lexeme
  lex: бронза
@@ -38690,6 +38816,20 @@
  gramm: N
  paradigm: Noun-num-vowel
  trans_ru: бронза
+
+-lexeme
+ lex: дума
+ stem: дума.
+ gramm: N
+ paradigm: Noun-num-vowel
+ trans_ru: дума
+
+-lexeme
+ lex: госдума
+ stem: госдума.
+ gramm: N
+ paradigm: Noun-num-vowel
+ trans_ru: госдума
 
 -lexeme
  lex: малпатэк
@@ -38895,7 +39035,7 @@
  trans_ru: с
 
 -lexeme
- lex: федераци
+ lex: федерация
  stem: федераци.
  gramm: N
  paradigm: Noun-num-vowel
@@ -40351,11 +40491,11 @@
  trans_ru: парашют
 
 -lexeme
- lex: выжыос
- stem: выжыос.
+ lex: выжы
+ stem: выжы.
  gramm: N
- paradigm: Noun-num-consonant
- trans_ru: родственники, пирдан вайыкузы
+ paradigm: Noun-num-vowel
+ trans_ru: корень; род; мн. родственники
 
 -lexeme
  lex: мынектон
@@ -41042,13 +41182,6 @@
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: 1. чина весенняя, сочевичник весенний 2. мать-и-мачеха
-
--lexeme
- lex: ӟечкыланыпоприветствовать
- stem: ӟечкыланыпоприветствоват.
- gramm: N
- paradigm: Noun-num-soft
- trans_ru: приветствовать, поздравить, поздравлять
 
 -lexeme
  lex: какыт
@@ -44082,6 +44215,20 @@
  trans_ru: премия
 
 -lexeme
+ lex: коньдон
+ stem: коньдон.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: деньги; копейка
+
+-lexeme
+ lex: мурт
+ stem: мурт.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: человек, личность
+
+-lexeme
  lex: эскимоска
  stem: эскимоска.
  gramm: N
@@ -44206,6 +44353,13 @@
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: бетон
+
+-lexeme
+ lex: предприятие
+ stem: предприяти.
+ gramm: N
+ paradigm: Noun-num-ije
+ trans_ru: предприятие
 
 -lexeme
  lex: торфопредприятие
@@ -55730,11 +55884,11 @@
  trans_ru: каменистая почва
 
 -lexeme
- lex: дыраз
- stem: дыраз.
+ lex: дыр
+ stem: дыр.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: своевременно, вовремя, кстати, раз
+ trans_ru: время
 
 -lexeme
  lex: аталгы
@@ -56014,7 +56168,7 @@
  stem: пумитанни.
  gramm: N
  paradigm: Noun-num-vowel
- trans_ru: приёмная (ТОК
+ trans_ru: приёмная
 
 -lexeme
  lex: рисунок
@@ -56126,7 +56280,7 @@
  stem: вирсӥньыс.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: анат. капиллярный сосуд, капилляр
+ trans_ru: капиллярный сосуд
 
 -lexeme
  lex: чопо
@@ -56299,7 +56453,14 @@
 -lexeme
  lex: корка
  stem: коркан.
- gramm: N,sg,ine
+ gramm: N,sg,loc
+ paradigm: Empty
+ trans_ru: изба, дом
+
+-lexeme
+ lex: корка
+ stem: коркась.
+ gramm: N,sg,el
  paradigm: Empty
  trans_ru: изба, дом
 
@@ -56337,6 +56498,13 @@
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: пульт
+
+-lexeme
+ lex: экзамен
+ stem: экзамен.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: экзамен
 
 -lexeme
  lex: быдэнак
@@ -56764,6 +56932,13 @@
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: начальник, князь, вельможа
+
+-lexeme
+ lex: кузё
+ stem: кузё.
+ gramm: N
+ paradigm: Noun-num-vowel
+ trans_ru: начальник
 
 -lexeme
  lex: наданлык
@@ -60168,11 +60343,109 @@
  trans_ru: Виктор
 
 -lexeme
+ lex: Павел
+ stem: павел.
+ gramm: N,persn
+ paradigm: Noun-num-consonant
+ trans_ru: Павел
+
+-lexeme
+ lex: Олег
+ stem: олег.
+ gramm: N,persn
+ paradigm: Noun-num-consonant
+ trans_ru: Олег
+
+-lexeme
+ lex: Леонид
+ stem: леонид.
+ gramm: N,persn
+ paradigm: Noun-num-consonant
+ trans_ru: Леонид
+
+-lexeme
+ lex: Семён
+ stem: семён.
+ gramm: N,persn
+ paradigm: Noun-num-consonant
+ trans_ru: Семён
+
+-lexeme
+ lex: Максим
+ stem: максим.
+ gramm: N,persn
+ paradigm: Noun-num-consonant
+ trans_ru: Максим
+
+-lexeme
+ lex: Валентин
+ stem: валентин.
+ gramm: N,persn
+ paradigm: Noun-num-consonant
+ trans_ru: Валентин
+
+-lexeme
+ lex: Вячеслав
+ stem: вячеслав.
+ gramm: N,persn
+ paradigm: Noun-num-consonant
+ trans_ru: Вячеслав
+
+-lexeme
+ lex: Игорь
+ stem: игор.
+ gramm: N,persn
+ paradigm: Noun-num-soft
+ trans_ru: Игорь
+
+-lexeme
  lex: Дмитрий
  stem: дмитри.
  gramm: N,persn
  paradigm: Noun-num-j
  trans_ru: Дмитрий
+
+-lexeme
+ lex: Юрий
+ stem: юри.
+ gramm: N,persn
+ paradigm: Noun-num-j
+ trans_ru: Юрий
+
+-lexeme
+ lex: Геннадий
+ stem: геннади.
+ gramm: N,persn
+ paradigm: Noun-num-j
+ trans_ru: Геннадий
+
+-lexeme
+ lex: Валерий
+ stem: валери.
+ gramm: N,persn
+ paradigm: Noun-num-j
+ trans_ru: Валерий
+
+-lexeme
+ lex: Евгений
+ stem: евгени.
+ gramm: N,persn
+ paradigm: Noun-num-j
+ trans_ru: Евгений
+
+-lexeme
+ lex: Григорий
+ stem: григори.
+ gramm: N,persn
+ paradigm: Noun-num-j
+ trans_ru: Григорий
+
+-lexeme
+ lex: Кузебай
+ stem: кузеба.
+ gramm: N,persn
+ paradigm: Noun-num-j
+ trans_ru: Кузебай
 
 -lexeme
  lex: Анна
@@ -60182,11 +60455,109 @@
  trans_ru: Анна
 
 -lexeme
+ lex: Ирина
+ stem: ирина.
+ gramm: N,persn
+ paradigm: Noun-num-vowel
+ trans_ru: Ирина
+
+-lexeme
+ lex: Марина
+ stem: марина.
+ gramm: N,persn
+ paradigm: Noun-num-vowel
+ trans_ru: Марина
+
+-lexeme
+ lex: Екатерина
+ stem: екатерина.
+ gramm: N,persn
+ paradigm: Noun-num-vowel
+ trans_ru: Екатерина
+
+-lexeme
+ lex: Лариса
+ stem: лариса.
+ gramm: N,persn
+ paradigm: Noun-num-vowel
+ trans_ru: Лариса
+
+-lexeme
+ lex: Зоя
+ stem: зоя.
+ gramm: N,persn
+ paradigm: Noun-num-vowel
+ trans_ru: Зоя
+
+-lexeme
  lex: Наталья
  stem: наталья.
  gramm: N,persn
  paradigm: Noun-num-vowel
  trans_ru: Наталья
+
+-lexeme
+ lex: Юлия
+ stem: юлия.
+ gramm: N,persn
+ paradigm: Noun-num-vowel
+ trans_ru: Юлия
+
+-lexeme
+ lex: Оля
+ stem: оля.
+ gramm: N,persn
+ paradigm: Noun-num-vowel
+ trans_ru: Оля
+
+-lexeme
+ lex: Катя
+ stem: катя.
+ gramm: N,persn
+ paradigm: Noun-num-vowel
+ trans_ru: Катя
+
+-lexeme
+ lex: Маша
+ stem: маша.
+ gramm: N,persn
+ paradigm: Noun-num-vowel
+ trans_ru: Маша
+
+-lexeme
+ lex: Лена
+ stem: лена.
+ gramm: N,persn
+ paradigm: Noun-num-vowel
+ trans_ru: Лена
+
+-lexeme
+ lex: Зинаида
+ stem: зинаида.
+ gramm: N,persn
+ paradigm: Noun-num-vowel
+ trans_ru: Зинаида
+
+-lexeme
+ lex: Тамара
+ stem: тамара.
+ gramm: N,persn
+ paradigm: Noun-num-vowel
+ trans_ru: Тамара
+
+-lexeme
+ lex: Раиса
+ stem: раиса.
+ gramm: N,persn
+ paradigm: Noun-num-vowel
+ trans_ru: Раиса
+
+-lexeme
+ lex: Алевтина
+ stem: алевтина.
+ gramm: N,persn
+ paradigm: Noun-num-vowel
+ trans_ru: Алевтина
 
 -lexeme
  lex: Волков
@@ -60250,6 +60621,34 @@
  gramm: N,famn
  paradigm: Noun-num-consonant
  trans_ru: Калашников
+
+-lexeme
+ lex: Иванов
+ stem: иванов.
+ gramm: N,famn
+ paradigm: Noun-num-consonant
+ trans_ru: Иванов
+
+-lexeme
+ lex: Иванова
+ stem: иванова.
+ gramm: N,famn
+ paradigm: Noun-num-consonant
+ trans_ru: Иванова
+
+-lexeme
+ lex: Никитин
+ stem: никитин.
+ gramm: N,famn
+ paradigm: Noun-num-consonant
+ trans_ru: Никитин
+
+-lexeme
+ lex: Никитина
+ stem: никитина.
+ gramm: N,famn
+ paradigm: Noun-num-consonant
+ trans_ru: Никитина
 
 -lexeme
  lex: Иисус
@@ -60318,7 +60717,7 @@
  lex: Польша
  stem: польша.
  gramm: N,topn
- paradigm: Noun-num-ija
+ paradigm: Noun-num-vowel
  trans_ru: Польша
 
 -lexeme
@@ -60336,6 +60735,27 @@
  trans_ru: Татарстан
 
 -lexeme
+ lex: Европа
+ stem: европа.
+ gramm: N,topn
+ paradigm: Noun-num-vowel
+ trans_ru: Европа
+
+-lexeme
+ lex: Америка
+ stem: америка.
+ gramm: N,topn
+ paradigm: Noun-num-vowel
+ trans_ru: Америка
+
+-lexeme
+ lex: Африка
+ stem: африка.
+ gramm: N,topn
+ paradigm: Noun-num-vowel
+ trans_ru: Африка
+
+-lexeme
  lex: Татарстан
  stem: татарстан.
  gramm: N,topn
@@ -60343,11 +60763,32 @@
  trans_ru: Татарстан
 
 -lexeme
+ lex: Башкортостан
+ stem: башкортостан.
+ gramm: N,topn
+ paradigm: Noun-num-consonant
+ trans_ru: Башкортостан
+
+-lexeme
  lex: Сочи
  stem: сочи.
  gramm: N,topn
  paradigm: Noun-num-vowel
  trans_ru: Сочи
+
+-lexeme
+ lex: Петербург
+ stem: петербург.
+ gramm: N,topn
+ paradigm: Noun-num-consonant
+ trans_ru: Петербург
+
+-lexeme
+ lex: Санкт-Петербург
+ stem: санкт-петербург.
+ gramm: N,topn
+ paradigm: Noun-num-consonant
+ trans_ru: Санкт-Петербург
 
 -lexeme
  lex: Иж
@@ -60446,6 +60887,13 @@
  gramm: N,topn
  paradigm: Noun-num-consonant
  trans_ru: Приволжск
+
+-lexeme
+ lex: Красногорск
+ stem: красногорск.
+ gramm: N,topn
+ paradigm: Noun-num-consonant
+ trans_ru: Красногорск
 
 -lexeme
  lex: Яр
@@ -60589,9 +61037,9 @@
 
 -lexeme
  lex: Казань
- stem: казань.
+ stem: казан.
  gramm: N,topn
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-soft
  trans_ru: Казань
 
 -lexeme
@@ -60603,9 +61051,9 @@
 
 -lexeme
  lex: Пермь
- stem: пермь.
+ stem: перм.
  gramm: N,topn
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-soft
  trans_ru: Пермь
 
 -lexeme
@@ -60615,17 +61063,5 @@
  paradigm: Noun-num-consonant
  trans_ru: Уфа
 
--lexeme
- lex: сатдунне
- stem: сатдунне.
- gramm: N
- paradigm: Noun-num-vowel
- trans_ru: духовный, вечный мир
 
--lexeme
- lex: азьгарай
- stem: азьгарай.
- gramm: N
- paradigm: Noun-num-j
- trans_ru: анат. большой палец
 

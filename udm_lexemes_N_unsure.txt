@@ -1265,7 +1265,7 @@
  stem: тачыр.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: заукоподр. треску при горении
+ trans_ru: звукоподр. треску при горении
 
 -lexeme
  lex: староста
@@ -1273,13 +1273,6 @@
  gramm: N
  paradigm: Noun-num-vowel
  trans_ru: староста
-
--lexeme
- lex: нимо-дано
- stem: нимо-дано.
- gramm: N
- paradigm: Noun-num-vowel
- trans_ru: пользующийся известностью, известный, прославленный, знаменитый
 
 -lexeme
  lex: лулӟиськон
@@ -3527,13 +3520,6 @@
  gramm: N
  paradigm: Noun-num-vowel
  trans_ru: 1. место входа 2. прихожая
-
--lexeme
- lex: коньдон
- stem: коньдон.
- gramm: N
- paradigm: Noun-num-consonant
- trans_ru: 1. деньги 2. [одна] копейка 3. мелочь, мёлкие дёньги a
 
 -lexeme
  lex: совнарком
@@ -7024,13 +7010,6 @@
  trans_ru: бука, пугало, страшилище
 
 -lexeme
- lex: табере
- stem: табере.
- gramm: N
- paradigm: Noun-num-vowel
- trans_ru: табрэ, сокр. таре после того, потом, теперь, сейчас
-
--lexeme
  lex: пешкели
  stem: пешкели.
  gramm: N
@@ -8671,13 +8650,6 @@
  trans_ru: вера, вероисповедание, религия
 
 -lexeme
- lex: отын
- stem: отын.
- gramm: N
- paradigm: Noun-num-consonant
- trans_ru: там, тут
-
--lexeme
  lex: кӧй-вӧй
  stem: кӧй-вӧ.
  gramm: N
@@ -10306,7 +10278,14 @@
  stem: бакчаашана.
  gramm: N
  paradigm: Noun-num-j
- trans_ru: бакчакузё пугало
+ trans_ru: пугало
+
+-lexeme
+ lex: бакчакузё
+ stem: бакчакузё.
+ gramm: N
+ paradigm: Noun-num-vowel
+ trans_ru: пугало
 
 -lexeme
  lex: сюсь
@@ -11527,11 +11506,11 @@
  trans_ru: 1. бересклет 2. перен. дотошный человек
 
 -lexeme
- lex: тодослюкетдисциплина
- stem: тодослюкетдисциплина.
+ lex: тодослюкет
+ stem: тодослюкет.
  gramm: N
- paradigm: Noun-num-vowel
- trans_ru: предмет, отрасль науки, см. тодонудыс
+ paradigm: Noun-num-consonant
+ trans_ru: дисциплина
 
 -lexeme
  lex: гарасингумы
@@ -12530,13 +12509,6 @@
  trans_ru: нарта, нарты
 
 -lexeme
- lex: дыр
- stem: дыр.
- gramm: N
- paradigm: Noun-num-consonant
- trans_ru: модальное сл. наверно, вероятно, по-видимому, может быть, должно быть
-
--lexeme
  lex: кӧснунал
  stem: кӧснунал.
  gramm: N
@@ -13024,7 +12996,7 @@
  stem: минут.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: минута, минутысь минута 1) с минуты на минуту 2) минута в минуту, минутэн кыкен минутами
+ trans_ru: минута
 
 -lexeme
  lex: аккорд
@@ -16548,13 +16520,6 @@
  trans_ru: икона, образ
 
 -lexeme
- lex: котькызьы
- stem: котькызьы.
- gramm: N
- paradigm: Noun-num-vowel
- trans_ru: как угодно, по-всякому, так и этак
-
--lexeme
  lex: луэмезъя
  stem: луэмезъя.
  gramm: N
@@ -17539,7 +17504,7 @@
  stem: гидкузё.
  gramm: N
  paradigm: Noun-num-vowel
- trans_ru: гидутись домовая горихвостка
+ trans_ru: домовая горихвостка
 
 -lexeme
  lex: старшина
@@ -19065,7 +19030,7 @@
  stem: ярму.
  gramm: N
  paradigm: Noun-num-vowel
- trans_ru: континент Азьло Финляндиын куазь ярмуын кадь вылэм
+ trans_ru: континент
 
 -lexeme
  lex: кыдёкысен
@@ -19731,13 +19696,6 @@
  gramm: N
  paradigm: Noun-num-vowel
  trans_ru: с подбородком
-
--lexeme
- lex: отын-татын
- stem: отын-татын.
- gramm: N
- paradigm: Noun-num-consonant
- trans_ru: кое-где, там и сям
 
 -lexeme
  lex: суркубат
@@ -20990,7 +20948,7 @@
  stem: бакатыр.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: богатырь, туж кемалась вылэм ини со
+ trans_ru: богатырь
 
 -lexeme
  lex: силач
@@ -22100,13 +22058,6 @@
  trans_ru: как раз
 
 -lexeme
- lex: олокызьы
- stem: олокызьы.
- gramm: N
- paradigm: Noun-num-vowel
- trans_ru: как-то, каким-то образом, неизвестно как, не знаю как
-
--lexeme
  lex: янак
  stem: янак.
  gramm: N
@@ -22196,13 +22147,6 @@
  gramm: N
  paradigm: Noun-num-vowel
  trans_ru: тех. шпонка
-
--lexeme
- lex: таре
- stem: таре.
- gramm: N
- paradigm: Noun-num-vowel
- trans_ru: тарезэ см. табере
 
 -lexeme
  lex: подус
@@ -23547,13 +23491,6 @@
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: жар
-
--lexeme
- lex: мурт
- stem: мурт.
- gramm: N
- paradigm: Noun-num-consonant
- trans_ru: 1. человек, личность 2. чужой
 
 -lexeme
  lex: сарым
@@ -25276,7 +25213,7 @@
  stem: черод.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: очередь, табере тынад черодэд теперь твоя очередь
+ trans_ru: очередь
 
 -lexeme
  lex: чакоткатурын

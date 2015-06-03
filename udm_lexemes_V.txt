@@ -6,9 +6,37 @@
  trans_ru: был, было
 
 -lexeme
+ lex: вал
+ stem: валгес.
+ gramm: V,past,comp
+ paradigm: Empty
+ trans_ru: был, было
+
+-lexeme
+ lex: вылэм
+ stem: вылэм.
+ gramm: V,perf
+ paradigm: Empty
+ trans_ru: был, было
+
+-lexeme
+ lex: вылэм
+ stem: вылэмгес.
+ gramm: V,perf,comp
+ paradigm: Empty
+ trans_ru: был, было
+
+-lexeme
  lex: вань
  stem: вань.
  gramm: V,pres
+ paradigm: Empty
+ trans_ru: есть
+
+-lexeme
+ lex: вань
+ stem: ваньгес.
+ gramm: V,pres,comp
  paradigm: Empty
  trans_ru: есть
 
@@ -69,6 +97,62 @@
  trans_ru: не (1 л. мн. ч. прош. вр.)
 
 -lexeme
+ lex: уг
+ stem: уггес.
+ gramm: V,comp
+ paradigm: Empty
+ trans_ru: не
+
+-lexeme
+ lex: уз
+ stem: узгес.
+ gramm: V,fut,3,comp
+ paradigm: Empty
+ trans_ru: не
+
+-lexeme
+ lex: уд
+ stem: удгес.
+ gramm: V,2,comp
+ paradigm: Empty
+ trans_ru: не
+
+-lexeme
+ lex: ум
+ stem: умгес.
+ gramm: V,1,pl,comp
+ paradigm: Empty
+ trans_ru: не
+
+-lexeme
+ lex: ӧй
+ stem: ӧйгес.
+ gramm: V,past,1,sg,comp
+ paradigm: Empty
+ trans_ru: не (1 л. ед. ч. прош. вр.)
+
+-lexeme
+ lex: ӧд
+ stem: ӧдгес.
+ gramm: V,past,2,comp
+ paradigm: Empty
+ trans_ru: не (2 л. прош. вр.)
+
+-lexeme
+ lex: ӧз
+ stem: ӧзгес.
+ gramm: V,past,3,comp
+ paradigm: Empty
+ trans_ru: не (3 л. прош. вр.)
+
+-lexeme
+ lex: ӧм
+ stem: ӧмгес.
+ gramm: V,past,1,pl,comp
+ paradigm: Empty
+ trans_ru: не (1 л. мн. ч. прош. вр.)
+
+-lexeme
  lex: эн
  stem: эн.
  gramm: V,2
@@ -79,6 +163,13 @@
  lex: ӧвӧл
  stem: ӧвӧл.
  gramm: V
+ paradigm: Empty
+ trans_ru: не, нет
+
+-lexeme
+ lex: ӧвӧл
+ stem: ӧвӧлгес.
+ gramm: V,comp
  paradigm: Empty
  trans_ru: не, нет
 
@@ -333,7 +424,7 @@
  stem: пӧрм.
  gramm: V,I
  paradigm: connect_verbs-I
- trans_ru: 1. удаться, получиться 2. превратиться, стать
+ trans_ru: получиться; стать
 
 -lexeme
  lex: дунъяны
@@ -3261,21 +3352,21 @@
  stem: кыл.
  gramm: V,I
  paradigm: connect_verbs-I
- trans_ru: 1. расшататься, рассохнуться 2. перен. испортиться,расстроиться
+ trans_ru: расшататься, рассохнуться
 
 -lexeme
  lex: кыланы
  stem: кыла.
  gramm: V,II
  paradigm: connect_verbs-II
- trans_ru: 1. расшататься, рассохнуться 2. перен. испортиться,расстроиться
+ trans_ru: расшататься, рассохнуться
 
 -lexeme
  lex: кыляны
  stem: кыля.
  gramm: V,II
  paradigm: connect_verbs-II
- trans_ru: 1. расшататься, рассохнуться 2. перен. испортиться,расстроиться
+ trans_ru: расшататься, рассохнуться
 
 -lexeme
  lex: кыдыны
@@ -4277,7 +4368,7 @@
  stem: юртт.
  gramm: V,I
  paradigm: connect_verbs-I
- trans_ru: 1. помочь, помогать 2. способствовать, посодействовать 3. послужить
+ trans_ru: помочь
 
 -lexeme
  lex: ӵоксаськыны
@@ -4285,6 +4376,7 @@
  gramm: V,I
  paradigm: connect_verbs-I
  trans_ru: 1. закрываться, закупориться 2. закрыться, заслониться 3. запрудиться
+
 -lexeme
  lex: юртъяны
  stem: юртъя.
@@ -4297,14 +4389,14 @@
  stem: вур.
  gramm: V,I
  paradigm: connect_verbs-I
- trans_ru: шить, сшить, зашить, подшить
+ trans_ru: шить
 
 -lexeme
  lex: вураны
  stem: вура.
  gramm: V,II
  paradigm: connect_verbs-II
- trans_ru: шить, сшить, зашить, подшить
+ trans_ru: шить
 
 -lexeme
  lex: узвесяны
@@ -4318,7 +4410,7 @@
  stem: могъя.
  gramm: V,II
  paradigm: connect_verbs-II
- trans_ru: втыкать, вонзать, всаживать
+ trans_ru: втыкать
 
 -lexeme
  lex: кулэяськыны
@@ -9141,7 +9233,7 @@
  stem: мед.
  gramm: V,I
  paradigm: connect_verbs-I
- trans_ru: 1. желать, хотеть 2. медлить, долго собираться
+ trans_ru: желать, хотеть
 
 -lexeme
  lex: сантэмалляны
@@ -9959,7 +10051,7 @@
  stem: вера.
  gramm: V,II
  paradigm: connect_verbs-II
- trans_ru: 1. связать и развесить парами 2. закрепить, закреплять на скорую руку
+ trans_ru: говорить
 
 -lexeme
  lex: айындырыны
@@ -10491,14 +10583,21 @@
  stem: дунтэма.
  gramm: V,II
  paradigm: connect_verbs-II
- trans_ru: подешеветь, дешеветь, понизиться, понижаться – о ценах
+ trans_ru: дешеветь
 
 -lexeme
  lex: куйыны
  stem: куй.
  gramm: V,I
  paradigm: connect_verbs-I
- trans_ru: копать 2. сердиться, грозить
+ trans_ru: копать; сердиться, грозить
+
+-lexeme
+ lex: бырыны
+ stem: быр.
+ gramm: V,I
+ paradigm: connect_verbs-I
+ trans_ru: кончиться; погибнуть
 
 -lexeme
  lex: кулыны
@@ -13636,14 +13735,14 @@
  stem: пыр.
  gramm: V,I
  paradigm: connect_verbs-I
- trans_ru: 1. зайти, заходить 2. вступить, вступать 3. попасть 
+ trans_ru: зайти; попасть 
 
 -lexeme
  lex: пыраны
  stem: пыра.
  gramm: V,II
  paradigm: connect_verbs-II
- trans_ru: 1. зайти, заходить 2. вступить, вступать 3. попасть
+ trans_ru: заходить; попасть
 
 -lexeme
  lex: кезьытскыны
@@ -20924,13 +21023,6 @@
  trans_ru: дать посмотреть
 
 -lexeme
- lex: адӟытылыны
- stem: адӟытыл.
- gramm: V,I
- paradigm: connect_verbs-I
- trans_ru: 1. показывать, выставлять напоказ 2. заставлять многокрпоказывать
-
--lexeme
  lex: жильккетыны
  stem: жильккет.
  gramm: V,I
@@ -21784,7 +21876,7 @@
  stem: лу.
  gramm: V,I
  paradigm: connect_verbs-I
- trans_ru: быть, стать, становиться
+ trans_ru: быть, стать
 
 -lexeme
  lex: кожъяськыны
@@ -23910,7 +24002,7 @@
  stem: ужа.
  gramm: V,II
  paradigm: connect_verbs-II
- trans_ru: 1. поработать, работать 2. возделать, возделывать
+ trans_ru: работать
 
 -lexeme
  lex: удыны
@@ -24163,14 +24255,14 @@
  stem: чурка.
  gramm: V,II
  paradigm: connect_verbs-II
- trans_ru: чуртнаны, донгыны доныны сунуть, совать
+ trans_ru: сунуть, совать
 
 -lexeme
  lex: кивалтыны
  stem: кивалт.
  gramm: V,I
  paradigm: connect_verbs-I
- trans_ru: 1. руководить 2. главенствовать
+ trans_ru: руководить
 
 -lexeme
  lex: пиньтэммыны
@@ -26487,13 +26579,6 @@
  trans_ru: захиреть, хиреть, обеднеть, одряхлеть расшатываться
 
 -lexeme
- lex: адӟытыны
- stem: адӟыт.
- gramm: V,I
- paradigm: connect_verbs-I
- trans_ru: 1. показать, продемонстрировать 2. заставить показать 3. проявлять
-
--lexeme
  lex: пельскыны
  stem: пельск.
  gramm: V,I
@@ -28529,14 +28614,14 @@
  stem: донг.
  gramm: V,I
  paradigm: connect_verbs-I
- trans_ru: 1. толкнуть, подтолкнуть 2. заткнуть, воткнуть 3. двинуть
+ trans_ru: толкнуть
 
 -lexeme
  lex: донганы
  stem: донга.
  gramm: V,II
  paradigm: connect_verbs-II
- trans_ru: 1. толкнуть, подтолкнуть 2. заткнуть, воткнуть 3. двинуть
+ trans_ru: толкать
 
 -lexeme
  lex: суренъяны
@@ -35173,11 +35258,11 @@
  trans_ru: отказаться, отпереться, прикрывать, укрывать
 
 -lexeme
- lex: кышкатыны
- stem: кышкат.
- gramm: V,I
- paradigm: connect_verbs-I
- trans_ru: спугнуть, пугнуть, напугать, пугать
+ lex: кышканы
+ stem: кышка.
+ gramm: V,II
+ paradigm: connect_verbs-II
+ trans_ru: бояться, испугаться
 
 -lexeme
  lex: югӟаны
@@ -41274,11 +41359,11 @@
  trans_ru: 1. выполнять, завершать 2. исполнять, осуществлять
 
 -lexeme
- lex: икыны
- stem: ик.
- gramm: V,I
+ lex: ӟечкыланы
+ stem: ӟечкыланы.
+ gramm: V
  paradigm: connect_verbs-I
- trans_ru: икнуть, икать
+ trans_ru: приветствовать, поздравлять
 
 -lexeme
  lex: ӝеганы
@@ -41652,7 +41737,7 @@
  stem: вит.
  gramm: V,I
  paradigm: connect_verbs-I-soft
- trans_ru: 1. подождать, ждать 2. процедить, цедить 3. икнуть
+ trans_ru: ждать; цедить; икнуть
 
 -lexeme
  lex: кугӟатылыны
@@ -45309,14 +45394,14 @@
  stem: пот.
  gramm: V,I
  paradigm: connect_verbs-I
- trans_ru: 1. выйти, выходить 2. вырасти, расти 3. идти
+ trans_ru: выйти; вырасти
 
 -lexeme
  lex: потаны
  stem: пота.
  gramm: V,II
  paradigm: connect_verbs-II
- trans_ru: 1. выйти, выходить 2. вырасти, расти 3. идти
+ trans_ru: выходить; расти
 
 -lexeme
  lex: шиляятыны
@@ -48661,13 +48746,6 @@
  gramm: V,I
  paradigm: connect_verbs-I
  trans_ru: заквасить, закваситься
-
--lexeme
- lex: курадӟытыны
- stem: курадӟыт.
- gramm: V,I
- paradigm: connect_verbs-I
- trans_ru: замучить, мучить, причинить муки
 
 -lexeme
  lex: ӧвӧлмытыны

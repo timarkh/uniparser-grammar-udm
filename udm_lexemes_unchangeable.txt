@@ -973,6 +973,27 @@
  trans_ru: а
 
 -lexeme
+ lex: и
+ stem: и.
+ gramm: CNJ
+ paradigm: Empty
+ trans_ru: и
+
+-lexeme
+ lex: ӵап
+ stem: ӵап.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: как раз
+
+-lexeme
+ lex: ӵапак
+ stem: ӵапак.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: как раз
+
+-lexeme
  lex: яра
  stem: яра.
  gramm: PART
@@ -1040,7 +1061,7 @@
  stem: медам.
  gramm: PART
  paradigm: Empty
- trans_ru: образует повел. накл. пусть не 2. в знач. усил. частицы же
+ trans_ru: показатель прохибитива (пусть не); в знач. усил. частицы же
 
 -lexeme
  lex: но
@@ -1054,7 +1075,7 @@
  stem: медаз.
  gramm: PART
  paradigm: Empty
- trans_ru: отриц. пусть не
+ trans_ru: показатель прохибитива (пусть не)
 
 -lexeme
  lex: я
@@ -1110,7 +1131,7 @@
  stem: э-э.
  gramm: PART
  paradigm: Empty
- trans_ru: утверд. да, а-а, э-э, озьы вылэм да, это было так
+ trans_ru: утверд. да, а-а, э-э
 
 -lexeme
  lex: как
@@ -1124,7 +1145,7 @@
  stem: эсьма.
  gramm: PART
  paradigm: Empty
- trans_ru: усил., экспресс.-эмоц. даже, и даже, даже и, ведь, да ещё, да так, хоть, хоть бы 2. в знач. сочинительного союза зато, но зато 3. в знач. сочинительного союза с сопоставительным и сравнительно-сопоставительным отношениями по крайней мере, пусть бы, лучше
+ trans_ru: даже, ведь; зато
 
 -lexeme
  lex: абага
@@ -5551,16 +5572,16 @@
  trans_ru: община, общество
 
 -lexeme
- lex: кызьы
- stem: кызьы.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: как, каким образом
-
--lexeme
  lex: кадь
  stem: кадь.
  gramm: PART
+ paradigm: connect_adverbs
+ trans_ru: как будто, похожий
+
+-lexeme
+ lex: кадь
+ stem: кадесь.
+ gramm: PART,pl
  paradigm: connect_adverbs
  trans_ru: как будто, похожий
 
@@ -6171,7 +6192,7 @@
  stem: собере.
  gramm: ADV
  paradigm: connect_adverbs
- trans_ru: в знач. нар. затем, потом, после, впоследствии
+ trans_ru: затем, потом
 
 -lexeme
  lex: эриктэм
@@ -7609,13 +7630,6 @@
  trans_ru: треску сухих предметов с треском
 
 -lexeme
- lex: кар
- stem: кар.
- gramm: IMIT
- paradigm: Empty
- trans_ru: крику вороны кар! кар! куака кесяське кар! кар! ворона кричит
-
--lexeme
  lex: чап-чап
  stem: чап-чап.
  gramm: IMIT
@@ -7893,7 +7907,7 @@
  stem: дынгыр-дангыр.
  gramm: IMIT
  paradigm: Empty
- trans_ru: грохоту, стуку при езде по неровному месту, мёрзлой земле громыхая, стуча, с грохотом, со стуком
+ trans_ru: грохот, стук при езде по неровному месту, мёрзлой земле
 
 -lexeme
  lex: жин
@@ -8068,7 +8082,7 @@
  stem: ай.
  gramm: INTRJ
  paradigm: Empty
- trans_ru: ай, ах, ой, ай, кыӵе вӧсь кариз! ах ой, как больно сделал!, ай, кыӵе вылэм со! ах ох, какой он, оказывается!, ай, макем кышкай! ай, как [я] испугался!
+ trans_ru: ай, ах, ой
 
 -lexeme
  lex: тьӧбӧ
@@ -8371,4 +8385,44 @@
  paradigm: Empty
  trans_ru: ох, ах, ох, кыӵе секыт вылэм! ох, какая тяжесть!
 
+-lexeme
+ lex: трос
+ stem: трос.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: много
 
+-lexeme
+ lex: ма
+ stem: ма.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: разве, ведь
+
+-lexeme
+ lex: дыр
+ stem: дыр.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: наверно, по-видимому, может быть
+
+-lexeme
+ lex: дыраз
+ stem: дыраз.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: своевременно, вовремя, кстати, раз
+
+-lexeme
+ lex: таре
+ stem: таре.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: потом
+
+-lexeme
+ lex: табере
+ stem: табере.
+ gramm: N
+ paradigm: Noun-num-vowel
+ trans_ru: после того, потом

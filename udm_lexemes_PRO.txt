@@ -452,21 +452,35 @@
  lex: кыӵе
  stem: кыӵе.
  gramm: PRO
- paradigm: Empty
+ paradigm: connect_adjectives
  trans_ru: какой
+
+-lexeme
+ lex: нокыӵе
+ stem: нокыӵе.
+ gramm: PRO
+ paradigm: connect_adjectives
+ trans_ru: никакой
+
+-lexeme
+ lex: котькыӵе
+ stem: котькыӵе.
+ gramm: PRO
+ paradigm: connect_adjectives
+ trans_ru: какой угодно
 
 -lexeme
  lex: сыӵе
  stem: сыӵе.
  gramm: PRO
- paradigm: Empty
+ paradigm: connect_adjectives
  trans_ru: такой
 
 -lexeme
- lex: тыӵе
- stem: тыӵе.
+ lex: таӵе
+ stem: таӵе.
  gramm: PRO
- paradigm: Empty
+ paradigm: connect_adjectives
  trans_ru: такой
 
 -lexeme
@@ -477,10 +491,45 @@
  trans_ru: кто
 
 -lexeme
+ lex: нокин
+ stem: нокин.
+ gramm: PRO
+ paradigm: Noun-num-consonant
+ trans_ru: никто
+
+-lexeme
+ lex: котькин
+ stem: котькин.
+ gramm: PRO
+ paradigm: Noun-num-consonant
+ trans_ru: кто угодно
+
+-lexeme
  lex: мар
  stem: мар.
  gramm: PRO
  paradigm: Noun-num-consonant
+ trans_ru: что
+
+-lexeme
+ lex: номар
+ stem: номар.
+ gramm: PRO
+ paradigm: Noun-num-consonant
+ trans_ru: ничто
+
+-lexeme
+ lex: котьмар
+ stem: котьмар.
+ gramm: PRO
+ paradigm: Noun-num-consonant
+ trans_ru: что угодно
+
+-lexeme
+ lex: ма
+ stem: ма.
+ gramm: PRO
+ paradigm: Empty
  trans_ru: что
 
 -lexeme
@@ -489,6 +538,13 @@
  gramm: PRO
  paradigm: Empty
  trans_ru: сколько
+
+-lexeme
+ lex: котькӧня
+ stem: котькӧня.
+ gramm: PRO
+ paradigm: Empty
+ trans_ru: сколько угодно
 
 -lexeme
  lex: малы
@@ -511,6 +567,62 @@
  paradigm: Empty
  trans_ru: когда угодно
 
+-lexeme
+ lex: котькуд
+ stem: котькуд.
+ gramm: PRO
+ paradigm: Noun-num-consonant
+ trans_ru: какой угодно
+
+-lexeme
+ lex: котькуд
+ stem: котькудӥз.
+ gramm: PRO,sg,3sg
+ paradigm: Noun-case
+ trans_ru: какой угодно
+
+-lexeme
+ lex: куд
+ stem: куд.
+ gramm: PRO
+ paradigm: Noun-num-consonant
+ trans_ru: который
+
+-lexeme
+ lex: куд
+ stem: кудӥз.
+ gramm: PRO,sg,3sg
+ paradigm: Noun-case
+ trans_ru: который
+
+-lexeme
+ lex: кызьы
+ stem: кызьы.
+ gramm: PRO
+ paradigm: Empty
+ trans_ru: как
+
+-lexeme
+ lex: нокызьы
+ stem: нокызьы.
+ gramm: PRO
+ paradigm: Empty
+ trans_ru: никак
+
+-lexeme
+ lex: олокызьы
+ stem: олокызьы.
+ gramm: PRO
+ paradigm: Empty
+ trans_ru: как-то
+
+-lexeme
+ lex: котькызьы
+ stem: котькызьы.
+ gramm: PRO
+ paradigm: Empty
+ trans_ru: как угодно
+
 
 
 -lexeme
@@ -530,7 +642,7 @@
 -lexeme
  lex: та
  stem: таиз.
- gramm: PRO,3sg
+ gramm: PRO,sg,3sg
  paradigm: Noun-case
  trans_ru: тот
 
@@ -551,13 +663,70 @@
 -lexeme
  lex: отчы
  stem: отчы.
- gramm: PRO
+ gramm: PRO,ill
  paradigm: Empty
  trans_ru: туда
 
 -lexeme
  lex: татчы
  stem: татчы.
- gramm: PRO
+ gramm: PRO,ill
  paradigm: Empty
  trans_ru: сюда
+
+
+-lexeme
+ lex: отын
+ stem: отын.
+ gramm: PRO,loc
+ paradigm: Empty
+ trans_ru: там, тут
+
+-lexeme
+ lex: татын
+ stem: татын.
+ gramm: PRO,loc
+ paradigm: Empty
+ trans_ru: здесь
+
+-lexeme
+ lex: отысь
+ stem: отысь.
+ gramm: PRO,el
+ paradigm: Empty
+ trans_ru: оттуда
+
+-lexeme
+ lex: татысь
+ stem: татысь.
+ gramm: PRO,el
+ paradigm: Empty
+ trans_ru: отсюда
+
+-lexeme
+ lex: отысен
+ stem: отысен.
+ gramm: PRO,egr
+ paradigm: Empty
+ trans_ru: оттуда
+
+-lexeme
+ lex: татысен
+ stem: татысен.
+ gramm: PRO,egr
+ paradigm: Empty
+ trans_ru: отсюда
+
+-lexeme
+ lex: отчыозь
+ stem: отчыозь.
+ gramm: PRO,egr
+ paradigm: Empty
+ trans_ru: дотуда
+
+-lexeme
+ lex: татчыозь
+ stem: татчыозь.
+ gramm: PRO,egr
+ paradigm: Empty
+ trans_ru: досюда
