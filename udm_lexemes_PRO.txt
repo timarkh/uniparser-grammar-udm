@@ -56,7 +56,7 @@
 
 -lexeme
  lex: мон
- stem: молань.
+ stem: монлань.
  gramm: PRO,app,sg
  paradigm: Empty
  trans_ru: я
@@ -526,6 +526,13 @@
  trans_ru: что угодно
 
 -lexeme
+ lex: оломар
+ stem: оломар.
+ gramm: PRO
+ paradigm: Noun-num-consonant
+ trans_ru: что-то
+
+-lexeme
  lex: ма
  stem: ма.
  gramm: PRO
@@ -653,13 +660,6 @@
  trans_ru: тот
 
 -lexeme
- lex: ас
- stem: ас.
- gramm: PRO
- paradigm: Empty
- trans_ru: сам, свой
-
--lexeme
  lex: ваньмыз
  stem: ваньмыз.
  gramm: PRO
@@ -736,3 +736,307 @@
  gramm: PRO,egr
  paradigm: Empty
  trans_ru: досюда
+
+
+
+-lexeme
+ lex: ас
+ stem: ас.
+ gramm: PRO,nom,sg
+ paradigm: Empty
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: ачиз.
+ gramm: PRO,3sg,nom
+ paradigm: Empty
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: ачим.
+ gramm: PRO,1sg,nom
+ paradigm: Empty
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: ачид.
+ gramm: PRO,2sg,nom
+ paradigm: Empty
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: аслаз.
+ gramm: PRO,3sg,gen
+ paradigm: Empty
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: аслам.
+ gramm: PRO,1sg,gen
+ paradigm: Empty
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: аслад.
+ gramm: PRO,2sg,gen
+ paradigm: Empty
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: аслэсьтыз.
+ gramm: PRO,3sg,abl
+ paradigm: Empty
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: аслэсьтым.
+ gramm: PRO,1sg,abl
+ paradigm: Empty
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: аслэсьтыд.
+ gramm: PRO,2sg,abl
+ paradigm: Empty
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: аслыз.
+ gramm: PRO,3sg,dat
+ paradigm: Empty
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: аслым.
+ gramm: PRO,1sg,dat
+ paradigm: Empty
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: аслыд.
+ gramm: PRO,2sg,dat
+ paradigm: Empty
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: асэныз.
+ gramm: PRO,3sg,ins
+ paradigm: Empty
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: асэным.
+ gramm: PRO,1sg,ins
+ paradigm: Empty
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: асэныд.
+ gramm: PRO,2sg,ins
+ paradigm: Empty
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: ачизъя.
+ gramm: PRO,3sg,adv
+ paradigm: Empty
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: ачимъя.
+ gramm: PRO,1sg,adv
+ paradigm: Empty
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: ачидъя.
+ gramm: PRO,2sg,adv
+ paradigm: Empty
+ trans_ru: сам, свой
+
+
+-lexeme
+ lex: ас
+ stem: ассэ.
+ gramm: PRO,3sg,acc,nom
+ paradigm: Empty
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: асме.
+ gramm: PRO,1sg,acc,nom
+ paradigm: Empty
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: астэ.
+ gramm: PRO,2sg,acc,nom
+ paradigm: Empty
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: ассэс.
+ gramm: PRO,3pl,acc
+ paradigm: Empty
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: асмес.
+ gramm: PRO,1pl,acc
+ paradigm: Empty
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: астэс.
+ gramm: PRO,2pl,acc
+ paradigm: Empty
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: асьсэс.
+ gramm: PRO,3pl,acc
+ paradigm: Empty
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: асьмес.
+ gramm: PRO,1pl,acc
+ paradigm: Empty
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: асьтэс.
+ gramm: PRO,2pl,acc
+ paradigm: Empty
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: асьсэ.
+ gramm: PRO,3pl,nom
+ paradigm: Noun-num-vowel
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: асьме.
+ gramm: PRO,1pl,nom
+ paradigm: Empty
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: асьтэ.
+ gramm: PRO,2pl,nom
+ paradigm: Empty
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: асьсэос.
+ gramm: PRO,3pl,nom
+ paradigm: Noun-num-vowel
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: асьмеос.
+ gramm: PRO,1pl,nom
+ paradigm: Empty
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: асьтэос.
+ gramm: PRO,2pl,nom
+ paradigm: Empty
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: асьсэлэн.
+ gramm: PRO,3pl,gen
+ paradigm: Noun-num-vowel
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: асьмелэн.
+ gramm: PRO,1pl,gen
+ paradigm: Empty
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: асьтэлэн.
+ gramm: PRO,2pl,gen
+ paradigm: Empty
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: асьсэлэсь.
+ gramm: PRO,3pl,abl
+ paradigm: Noun-num-vowel
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: асьмелэсь.
+ gramm: PRO,1pl,abl
+ paradigm: Empty
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: асьтэлэсь.
+ gramm: PRO,2pl,abl
+ paradigm: Empty
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: асьсэлы.
+ gramm: PRO,3pl,dat
+ paradigm: Noun-num-vowel
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: асьмелы.
+ gramm: PRO,1pl,dat
+ paradigm: Empty
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: асьтэлы.
+ gramm: PRO,2pl,dat
+ paradigm: Empty
+ trans_ru: сам, свой

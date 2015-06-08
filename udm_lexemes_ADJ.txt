@@ -4332,13 +4332,6 @@
  trans_ru: худой, худощавый
 
 -lexeme
- lex: национализм
- stem: национализм.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: национализм
-
--lexeme
  lex: пештырес
  stem: пештырес.
  gramm: ADJ
@@ -9261,6 +9254,48 @@
  trans_ru: медлительный, нерасторопный
 
 -lexeme
+ lex: самой
+ stem: самой.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: самый
+
+-lexeme
+ lex: национальной
+ stem: национальной.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: национальный
+
+-lexeme
+ lex: уголовной
+ stem: уголовной.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: уголовный
+
+-lexeme
+ lex: военной
+ stem: военной.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: военный
+
+-lexeme
+ lex: социальной
+ stem: социальной.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: социальный
+
+-lexeme
+ lex: серем
+ stem: серем.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: смешной
+
+-lexeme
  lex: киулмурт
  stem: киулмурт.
  gramm: ADJ
@@ -9881,7 +9916,14 @@
  stem: пӧрой.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: чебер красивый
+ trans_ru: красивый
+
+-lexeme
+ lex: чебер
+ stem: чебер.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: красивый
 
 -lexeme
  lex: кизьыё

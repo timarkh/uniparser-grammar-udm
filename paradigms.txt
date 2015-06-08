@@ -336,7 +336,7 @@
   gramm: app
 
 -paradigm: Noun-case-ija
- -flex: .я<.>
+ -flex: .я<.>//.<.>
   gramm: nom
  -flex: .ез<.>//.ыз<.>
   gramm: acc
@@ -1241,7 +1241,7 @@
 
 
 -paradigm: Adjectives_Pl
- -flex: .есь<.>//.ъёс<.>//.ёс<.>//.ьёс
+ -flex: .есь<.>//.ъёс<.>//.ёс<.>//.ьёс<.>
   gramm: pl
  paradigm: Adjectives_Pl
  paradigm: Adjectives_Pl_intens
@@ -1699,20 +1699,10 @@
   gramm: freq,fict
  -flex: .ытэмъяськ<.>//.тэмъяськ<.>
   gramm: caus,fict
- -flex: .эмъяськыт<.>
-  gramm: fict,caus
- -flex: .емъяськыт<.>
-  gramm: fict,caus
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
  -flex: .скэмъяськ<.>//.ӥськэмъяськ<.>
   gramm: pass,fict
  -flex: .иськэмъяськ<.>
   gramm: pass,fict
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
- -flex: .эмъяськиськ<.>
-  gramm: fict,pass
- -flex: .емъяськиськ<.>
-  gramm: fict,pass
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
  -flex: .скыт<.>//.ӥськыт<.>
   gramm: pass,caus
@@ -1760,12 +1750,8 @@
   gramm: freq,fict
  -flex: .ьытэмъяськ<.>//.ьтэмъяськ<.>
   gramm: caus,fict
- -flex: .еъяськыт<.>
-  gramm: fict,caus
  -flex: .ьскэмъяськ<.>//.иськэмъяськ<.>
   gramm: pass,fict
- -flex: .емъяськиськ<.>
-  gramm: fict,pass
  -flex: .ьскыт<.>//.иськыт<.>
   gramm: pass,caus
  -flex: .ьытск<.>//.ьтск<.>//.етск<.>//.ьытӥськ<.>//.ьтӥськ<.>//.етӥськ<.>
@@ -1806,12 +1792,8 @@
   gramm: freq,fict
  -flex: .тэмъяськ<.>
   gramm: caus,fict
- -flex: .мъяськыт<.>
-  gramm: fict,caus
  -flex: .ськемъяськ<.>//.скемъяськ<.>
   gramm: pass,fict
- -flex: .мъяськиськ<.>
-  gramm: fict,pass
  -flex: .ськыт<.>//.скыт<.>
   gramm: pass,caus
  -flex: .тск<.>//.тӥськ<.>

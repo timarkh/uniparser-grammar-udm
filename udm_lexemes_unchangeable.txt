@@ -7515,7 +7515,7 @@
  stem: э.
  gramm: INTRJ
  paradigm: Empty
- trans_ru: выражающее различные эмоции, напр. восхищение, удивление, сожаление э, а-а, эх, ах, ох, о, да, э, тон вылэмед а-а, это ты, оказывается, э, кыӵе чебер кышетэд! ах, какой красивый твой платок!, э, кыӵе шулдыр куазед! ах, какая чудесная погода!
+ trans_ru: э, а-а, эх, ах, ох
 
 -lexeme
  lex: лир-люр
@@ -7606,7 +7606,7 @@
  stem: эх.
  gramm: INTRJ
  paradigm: Empty
- trans_ru: 1. восхищение: ах, эх, кыӵе шулдыр та гужем куазь! ах, как прекрасна эта летняя пора!, эх, кыӵе мусо! ах, как она мила! 2. сожаление: эх, ах, э-эх, эхма
+ trans_ru: ах, эх
 
 -lexeme
  lex: эгей
@@ -7915,3 +7915,52 @@
  gramm: POST
  paradigm: Empty
  trans_ru: с
+
+-lexeme
+ lex: дыръя
+ stem: дыръя.
+ gramm: POST
+ paradigm: Empty
+ trans_ru: во время
+
+-lexeme
+ lex: дыръя
+ stem: дыръяз.
+ gramm: POST,3sg
+ paradigm: Empty
+ trans_ru: во время
+
+-lexeme
+ lex: дыръя
+ stem: дыръям.
+ gramm: POST,1sg
+ paradigm: Empty
+ trans_ru: во время
+
+-lexeme
+ lex: дыръя
+ stem: дыръяд.
+ gramm: POST,2sg
+ paradigm: Empty
+ trans_ru: во время
+
+-lexeme
+ lex: пумаз-йылаз
+ stem: пумаз-йылаз.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: до конца
+
+-lexeme
+ lex: йылаз-пумаз
+ stem: йылаз-пумаз.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: до конца
+
+-lexeme
+ lex: вачеберин
+ stem: вачеберин.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: 1. друг к другу спиной 2. друг против друга дворами
