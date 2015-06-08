@@ -4,49 +4,21 @@
  stem: ӧжыт.
  gramm: ADV
  paradigm: connect_adverbs
- trans_ru: мало, немного, незначительно
+ trans_ru: мало, немного
 
 -lexeme
- lex: вӧзын
- stem: вӧзын.
- gramm: POST
- paradigm: Empty
- trans_ru: возле, около, рядом
+ lex: ӧжытак
+ stem: ӧжытак.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: немножко
 
 -lexeme
- lex: сьӧры
- stem: сьӧры.
+ lex: вамен
+ stem: вамен.
  gramm: POST
  paradigm: Empty
- trans_ru: за
-
--lexeme
- lex: вӧзысь
- stem: вӧзысь.
- gramm: POST
- paradigm: Empty
- trans_ru: с, от...
-
--lexeme
- lex: беры
- stem: беры.
- gramm: POST
- paradigm: Empty
- trans_ru: за
-
--lexeme
- lex: сьӧрысен
- stem: сьӧрысен.
- gramm: POST
- paradigm: Empty
- trans_ru: из-за
-
--lexeme
- lex: вӧзы
- stem: вӧзы.
- gramm: POST
- paradigm: Empty
- trans_ru: возле, около, рядом
+ trans_ru: поперёк
 
 -lexeme
  lex: куре
@@ -56,74 +28,11 @@
  trans_ru: по, смотря по обстоятельствам, сообразно
 
 -lexeme
- lex: азьысь
- stem: азьысь.
- gramm: POST
- paradigm: Empty
- trans_ru: от, из
-
--lexeme
- lex: бордозь
- stem: бордозь.
- gramm: POST
- paradigm: Empty
- trans_ru: до
-
--lexeme
- lex: шорын
- stem: шорын.
- gramm: POST
- paradigm: Empty
- trans_ru: на, средь, посредине, на середине
-
--lexeme
- lex: вискын
- stem: вискын.
- gramm: POST
- paradigm: Empty
- trans_ru: между
-
--lexeme
- lex: урдсын
- stem: урдсын.
- gramm: POST
- paradigm: Empty
- trans_ru: на, на обочине: в стороне от, на боковой стороне
-
--lexeme
- lex: берысен
- stem: берысен.
- gramm: POST
- paradigm: Empty
- trans_ru: за, из-за
-
--lexeme
- lex: вадескы
- stem: вадескы.
- gramm: POST
- paradigm: Empty
- trans_ru: против, напротив, к
-
--lexeme
  lex: ёрсытӥ
  stem: ёрсытӥ.
  gramm: POST
  paradigm: Empty
- trans_ru: )около, возле, мимо
-
--lexeme
- lex: сьӧрын
- stem: сьӧрын.
- gramm: POST
- paradigm: Empty
- trans_ru: за
-
--lexeme
- lex: вӧзозь
- stem: вӧзозь.
- gramm: POST
- paradigm: Empty
- trans_ru: до
+ trans_ru: около, возле, мимо
 
 -lexeme
  lex: ӝужда
@@ -140,25 +49,11 @@
  trans_ru: за, в течение, в продолжение
 
 -lexeme
- lex: урдсытӥ
- stem: урдсытӥ.
- gramm: POST
+ lex: ӵоже
+ stem: ӵожелы.
+ gramm: POST,dat
  paradigm: Empty
- trans_ru: по, возле, по обочине, стороной
-
--lexeme
- lex: бӧрсьы
- stem: бӧрсьы.
- gramm: POST
- paradigm: Empty
- trans_ru: за, позади, сзади, вслед
-
--lexeme
- lex: котырозь
- stem: котырозь.
- gramm: POST
- paradigm: Empty
- trans_ru: до, приблизительно до
+ trans_ru: за, в течение, в продолжение
 
 -lexeme
  lex: луытозь
@@ -168,16 +63,23 @@
  trans_ru: до
 
 -lexeme
- lex: улсозь
- stem: улсозь.
- gramm: POST
+ lex: луытозь
+ stem: луытозям.
+ gramm: POST,1sg
  paradigm: Empty
  trans_ru: до
 
 -lexeme
- lex: урдсозь
- stem: урдсозь.
- gramm: POST
+ lex: луытозь
+ stem: луытозяд.
+ gramm: POST,2sg
+ paradigm: Empty
+ trans_ru: до
+
+-lexeme
+ lex: луытозь
+ stem: луытозяз.
+ gramm: POST,3sg
  paradigm: Empty
  trans_ru: до
 
@@ -210,27 +112,6 @@
  trans_ru: приблизительно, примерно
 
 -lexeme
- lex: бӧрсьытӥ
- stem: бӧрсьытӥ.
- gramm: POST
- paradigm: Empty
- trans_ru: позади, после
-
--lexeme
- lex: йылын
- stem: йылын.
- gramm: POST
- paradigm: Empty
- trans_ru: на, на вершине, наверху
-
--lexeme
- lex: вадескозь
- stem: вадескозь.
- gramm: POST
- paradigm: Empty
- trans_ru: [примерно, приблизительно] до
-
--lexeme
  lex: пӧрат
  stem: пӧрат.
  gramm: POST
@@ -245,60 +126,11 @@
  trans_ru: на, до
 
 -lexeme
- lex: йылтӥ
- stem: йылтӥ.
- gramm: POST
- paradigm: Empty
- trans_ru: поверх, по, над
-
--lexeme
- lex: дуре
- stem: дуре.
- gramm: POST
- paradigm: Empty
- trans_ru: к, на, по, за
-
--lexeme
- lex: берозь
- stem: берозь.
- gramm: POST
- paradigm: Empty
- trans_ru: до, за
-
--lexeme
- lex: котырысен
- stem: котырысен.
- gramm: POST
- paradigm: Empty
- trans_ru: с, приблизительно с, около
-
--lexeme
- lex: сьӧртӥ
- stem: сьӧртӥ.
- gramm: POST
- paradigm: Empty
- trans_ru: позади, за
-
--lexeme
- lex: азьысен
- stem: азьысен.
- gramm: POST
- paradigm: Empty
- trans_ru: начиная от, у
-
--lexeme
  lex: башка
  stem: башка.
  gramm: POST
  paradigm: Empty
  trans_ru: без, кроме, помимо
-
--lexeme
- lex: пӧлын
- stem: пӧлын.
- gramm: POST
- paradigm: Empty
- trans_ru: среди, в
 
 -lexeme
  lex: ёрсы
@@ -315,60 +147,11 @@
  trans_ru: по
 
 -lexeme
- lex: пушкын
- stem: пушкын.
- gramm: POST
- paradigm: Empty
- trans_ru: внутри, в, во, среди
-
--lexeme
- lex: вадескытӥ
- stem: вадескытӥ.
- gramm: POST
- paradigm: Empty
- trans_ru: около, возле, мимо
-
--lexeme
- lex: улсытӥ
- stem: улсытӥ.
- gramm: POST
- paradigm: Empty
- trans_ru: под
-
--lexeme
- lex: вадескын
- stem: вадескын.
- gramm: POST
- paradigm: Empty
- trans_ru: против, напротив, около
-
--lexeme
- lex: куспозь
- stem: куспозь.
- gramm: POST
- paradigm: Empty
- trans_ru: пока, до
-
--lexeme
  lex: пыр
  stem: пыр.
  gramm: POST
  paradigm: Empty
  trans_ru: сквозь, через, по
-
--lexeme
- lex: вӧзтӥ
- stem: вӧзтӥ.
- gramm: POST
- paradigm: Empty
- trans_ru: возле, мимо
-
--lexeme
- lex: дурысь
- stem: дурысь.
- gramm: POST
- paradigm: Empty
- trans_ru: с, от
 
 -lexeme
  lex: аркаын
@@ -378,25 +161,11 @@
  trans_ru: благодаря
 
 -lexeme
- lex: бордтӥ
- stem: бордтӥ.
- gramm: POST
- paradigm: Empty
- trans_ru: по, возле, мимо
-
--lexeme
  lex: ӵожозь
  stem: ӵожозь.
  gramm: POST
  paradigm: Empty
  trans_ru: по
-
--lexeme
- lex: вискытӥ
- stem: вискытӥ.
- gramm: POST
- paradigm: Empty
- trans_ru: между
 
 -lexeme
  lex: зӧкта
@@ -406,25 +175,11 @@
  trans_ru: толщиной с…, толщина с…
 
 -lexeme
- lex: котырын
- stem: котырын.
- gramm: POST
- paradigm: Empty
- trans_ru: близ, недалеко от
-
--lexeme
  lex: лэсяна
  stem: лэсяна.
  gramm: POST
  paradigm: Empty
- trans_ru: кроме, помимо, исключая, за исключением, без
-
--lexeme
- lex: улсын
- stem: улсын.
- gramm: POST
- paradigm: Empty
- trans_ru: 1. под 2. под видом, под предлогом 3. около
+ trans_ru: кроме
 
 -lexeme
  lex: ӵож
@@ -434,32 +189,11 @@
  trans_ru: по
 
 -lexeme
- lex: пулсын
- stem: пулсын.
- gramm: POST
- paradigm: Empty
- trans_ru: между, за
-
--lexeme
- lex: куспетӥ
- stem: куспетӥ.
- gramm: POST
- paradigm: Empty
- trans_ru: через
-
--lexeme
  lex: мында
  stem: мында.
  gramm: POST
  paradigm: Empty
  trans_ru: около, примерно, приблизительно, с...
-
--lexeme
- lex: пушкытӥ
- stem: пушкытӥ.
- gramm: POST
- paradigm: Empty
- trans_ru: по
 
 -lexeme
  lex: ёрсын
@@ -473,14 +207,7 @@
  stem: нялтэ.
  gramm: POST
  paradigm: Empty
- trans_ru: попутно, вераськон нялтэ попутно сказать, адскон нялтэ попутно повидаться
-
--lexeme
- lex: куспын
- stem: куспын.
- gramm: POST
- paradigm: Empty
- trans_ru: между, в
+ trans_ru: попутно
 
 -lexeme
  lex: быдэ
@@ -488,83 +215,6 @@
  gramm: POST
  paradigm: Empty
  trans_ru: на, по, еже-, каждый
-
--lexeme
- lex: котырысь
- stem: котырысь.
- gramm: POST
- paradigm: Empty
- trans_ru: около, вокруг, возле
-
--lexeme
- lex: берысь
- stem: берысь.
- gramm: POST
- paradigm: Empty
- trans_ru: из-за
-
--lexeme
- lex: куспы
- stem: куспы.
- gramm: POST
- paradigm: Empty
- trans_ru: между, в
-
--lexeme
- lex: бӧрсьын
- stem: бӧрсьын.
- gramm: POST
- paradigm: Empty
- trans_ru: за, позади, сзади подряд, друг за другом
-
--lexeme
- lex: сьӧрозь
- stem: сьӧрозь.
- gramm: POST
- paradigm: Empty
- trans_ru: до, за
-
--lexeme
- lex: шортӥ
- stem: шортӥ.
- gramm: POST
- paradigm: Empty
- trans_ru: посредине, посреди
-
--lexeme
- lex: дуртӥ
- stem: дуртӥ.
- gramm: POST
- paradigm: Empty
- trans_ru: ) по
-
--lexeme
- lex: урдсы
- stem: урдсы.
- gramm: POST
- paradigm: Empty
- trans_ru: на, на обочину, на боковую сторону, в сторону от, вбок
-
--lexeme
- lex: дырысь
- stem: дырысь.
- gramm: POST
- paradigm: Empty
- trans_ru: с, со, от
-
--lexeme
- lex: дурозь
- stem: дурозь.
- gramm: POST
- paradigm: Empty
- trans_ru: до
-
--lexeme
- lex: пӧлысь
- stem: пӧлысь.
- gramm: POST
- paradigm: Empty
- trans_ru: из, среди
 
 -lexeme
  lex: ана
@@ -581,39 +231,11 @@
  trans_ru: кроме
 
 -lexeme
- lex: вылозь
- stem: вылозь.
- gramm: POST
- paradigm: Empty
- trans_ru: до
-
--lexeme
- lex: бордын
- stem: бордын.
- gramm: POST
- paradigm: Empty
- trans_ru: на, возле, при, вблизи, около, с, у
-
--lexeme
- lex: пулсытӥ
- stem: пулсытӥ.
- gramm: POST
- paradigm: Empty
- trans_ru: между, меж
-
--lexeme
  lex: палан
  stem: палан.
  gramm: POST
  paradigm: Empty
  trans_ru: около, близ, на
-
--lexeme
- lex: шоры
- stem: шоры.
- gramm: POST
- paradigm: Empty
- trans_ru: на, о, об
 
 -lexeme
  lex: сэрен
@@ -623,25 +245,11 @@
  trans_ru: из-за, в силу, вследствие
 
 -lexeme
- lex: азьтӥ
- stem: азьтӥ.
- gramm: POST
- paradigm: Empty
- trans_ru: перед, мимо, возле
-
--lexeme
  lex: палтӥ
  stem: палтӥ.
  gramm: POST
  paradigm: Empty
  trans_ru: близ, около, по... стороне
-
--lexeme
- lex: дырозь
- stem: дырозь.
- gramm: POST
- paradigm: Empty
- trans_ru: до
 
 -lexeme
  lex: вияла
@@ -658,95 +266,11 @@
  trans_ru: до
 
 -lexeme
- lex: дурын
- stem: дурын.
- gramm: POST
- paradigm: Empty
- trans_ru: )у, на
-
--lexeme
- lex: берын
- stem: берын.
- gramm: POST
- paradigm: Empty
- trans_ru: за, позади
-
--lexeme
- lex: пулсы
- stem: пулсы.
- gramm: POST
- paradigm: Empty
- trans_ru: за, между
-
--lexeme
- lex: йылысен
- stem: йылысен.
- gramm: POST
- paradigm: Empty
- trans_ru: сверхушки, с вершины, сверху
-
--lexeme
- lex: ёрсозь
- stem: ёрсозь.
- gramm: POST
- paradigm: Empty
- trans_ru: примерно до
-
--lexeme
- lex: котыртӥ
- stem: котыртӥ.
- gramm: POST
- paradigm: Empty
- trans_ru: вокруг, около, возле
-
--lexeme
- lex: пӧлтӥ
- stem: пӧлтӥ.
- gramm: POST
- paradigm: Empty
- trans_ru: между, среди
-
--lexeme
  lex: пыртӥ
  stem: пыртӥ.
  gramm: POST
  paradigm: Empty
  trans_ru: сквозь, через
-
--lexeme
- lex: вискы
- stem: вискы.
- gramm: POST
- paradigm: Empty
- trans_ru: между
-
--lexeme
- lex: улсысен
- stem: улсысен.
- gramm: POST
- paradigm: Empty
- trans_ru: с низа, с
-
--lexeme
- lex: борды
- stem: борды.
- gramm: POST
- paradigm: Empty
- trans_ru: за, к, о, об
-
--lexeme
- lex: пулсысь
- stem: пулсысь.
- gramm: POST
- paradigm: Empty
- trans_ru: из-за, между
-
--lexeme
- lex: куспысен
- stem: куспысен.
- gramm: POST
- paradigm: Empty
- trans_ru: между, с, на, от
 
 -lexeme
  lex: тӥни
@@ -1225,13 +749,6 @@
  trans_ru: вчера
 
 -lexeme
- lex: азьпаласен
- stem: азьпаласен.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: спереди, [начиная] с передней стороны
-
--lexeme
  lex: пияла
  stem: пияла.
  gramm: ADV
@@ -1267,13 +784,6 @@
  trans_ru: свободно, пусто
 
 -lexeme
- lex: вылтӥз
- stem: вылтӥз.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: поверху, через верх
-
--lexeme
  lex: юзмыт
  stem: юзмыт.
  gramm: ADV
@@ -1292,7 +802,7 @@
  stem: ултӥямпыр.
  gramm: ADV
  paradigm: connect_adverbs
- trans_ru: с издевкой Марисов ултӥямпыр егитъёс вылтӥ ортчиз.
+ trans_ru: с издевкой
 
 -lexeme
  lex: огпалдуро
@@ -1356,13 +866,6 @@
  gramm: ADV
  paradigm: connect_adverbs
  trans_ru: полезно, выгодно, прибыльно
-
--lexeme
- lex: соласянь
- stem: соласянь.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: с той стороны
 
 -lexeme
  lex: ласянь
@@ -1456,13 +959,6 @@
  trans_ru: бесследно, без вести
 
 -lexeme
- lex: вылэтӥ
- stem: вылэтӥ.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: поверху, высоко
-
--lexeme
  lex: точно
  stem: точно.
  gramm: ADV
@@ -1538,13 +1034,6 @@
  gramm: ADV
  paradigm: connect_adverbs
  trans_ru: порядочно, изрядно, достаточно
-
--lexeme
- lex: огпалласянь
- stem: огпалласянь.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: односторонне, однобоко
 
 -lexeme
  lex: толэн-гужемен
@@ -1720,13 +1209,6 @@
  gramm: ADV
  paradigm: connect_adverbs
  trans_ru: правдиво, истинно, достоверно
-
--lexeme
- lex: сьӧрлань
- stem: сьӧрлань.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: в [обратную] сторону, назад
 
 -lexeme
  lex: тӧлъя
@@ -2212,13 +1694,6 @@
  trans_ru: грязно
 
 -lexeme
- lex: уллапалтӥ
- stem: уллапалтӥ.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: 1. понизу, по нижней стороне 2. по низовьям, по низовью
-
--lexeme
  lex: зугрес
  stem: зугрес.
  gramm: ADV
@@ -2273,13 +1748,6 @@
  gramm: ADV
  paradigm: connect_adverbs
  trans_ru: противно, мерзко
-
--lexeme
- lex: берекето
- stem: берекето.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: экономно
 
 -lexeme
  lex: шукырес
@@ -2415,20 +1883,6 @@
  trans_ru: ослепительно
 
 -lexeme
- lex: берлань
- stem: берлань.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: назад, обратно
-
--lexeme
- lex: уллапалозь
- stem: уллапалозь.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: 1. донизу 2. до низовьев, до низовья
-
--lexeme
  lex: капчи
  stem: капчи.
  gramm: ADV
@@ -2471,13 +1925,6 @@
  trans_ru: вверху, наверху, повыше, гурт вылланьын в верхней стороне деревни
 
 -lexeme
- lex: вылын
- stem: вылын.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: высоко, наверху, вверху
-
--lexeme
  lex: кабыло
  stem: кабыло.
  gramm: ADV
@@ -2511,13 +1958,6 @@
  gramm: ADV
  paradigm: connect_adverbs
  trans_ru: смирно
-
--lexeme
- lex: уллапалан
- stem: уллапалан.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: 1. внизу, в нижней стороне 2. в низовьях, в низовье
 
 -lexeme
  lex: мусо
@@ -2856,13 +2296,6 @@
  trans_ru: логично, толком, ладэн вераны сказать толком
 
 -lexeme
- lex: улын
- stem: улын.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: 1. внизу, низко 2. послелог под
-
--lexeme
  lex: ведра
  stem: ведра.
  gramm: ADV
@@ -2919,11 +2352,11 @@
  trans_ru: сколько, как много!
 
 -lexeme
- lex: азьын
- stem: азьын.
+ lex: берекето
+ stem: берекето.
  gramm: ADV
  paradigm: connect_adverbs
- trans_ru: впереди
+ trans_ru: экономно; споро
 
 -lexeme
  lex: зэмос
@@ -2966,13 +2399,6 @@
  gramm: ADV
  paradigm: connect_adverbs
  trans_ru: бодро
-
--lexeme
- lex: одӥг
- stem: одӥг.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: однообразно
 
 -lexeme
  lex: дӥсьтытэк
@@ -3273,7 +2699,7 @@
  stem: али.
  gramm: ADV
  paradigm: connect_adverbs
- trans_ru: сейчас, теперь, в настоящее нынче
+ trans_ru: сейчас
 
 -lexeme
  lex: дурчак
@@ -3287,14 +2713,7 @@
  stem: кыдёкын.
  gramm: ADV
  paradigm: connect_adverbs
- trans_ru: далеко, вдалеке, вдали, кыдёкынгес подальше
-
--lexeme
- lex: сур
- stem: сур.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: пиво
+ trans_ru: далеко
 
 -lexeme
  lex: чукатэк
@@ -3661,13 +3080,6 @@
  trans_ru: гордо, горделиво
 
 -lexeme
- lex: йӧл
- stem: йӧл.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: молоко
-
--lexeme
  lex: малпатэк
  stem: малпатэк.
  gramm: ADV
@@ -3675,25 +3087,11 @@
  trans_ru: необдуманно
 
 -lexeme
- lex: улысен
- stem: улысен.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: 1. снизу 2. послелог с
-
--lexeme
- lex: алигес
- stem: алигес.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: недавно, алигес гинэ только сейчас, только что, не так давно, на днях
-
--lexeme
  lex: куась
  stem: куась.
  gramm: ADV
  paradigm: connect_adverbs
- trans_ru: мелко, мелкий, неглубокий мелкий, мелководный
+ trans_ru: мелко, мелкий, неглубокий
 
 -lexeme
  lex: шырыт
@@ -3750,13 +3148,6 @@
  gramm: ADV
  paradigm: connect_adverbs
  trans_ru: неразборчиво, непонятно
-
--lexeme
- lex: уллапала
- stem: уллапала.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: 1. книзу, вниз, в нижнюю сторону 2. к низовью
 
 -lexeme
  lex: тупатэк
@@ -3871,13 +3262,6 @@
  trans_ru: до низовья, до низовьев
 
 -lexeme
- lex: бер
- stem: бер.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: поздно
-
--lexeme
  lex: азьпалан
  stem: азьпалан.
  gramm: ADV
@@ -3918,13 +3302,6 @@
  gramm: ADV
  paradigm: connect_adverbs
  trans_ru: вдвойне, в два раза, дважды
-
--lexeme
- lex: уллапалласянь
- stem: уллапалласянь.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: 1. снизу, с нижней стороны 2. с низовьев, с низовья
 
 -lexeme
  lex: луонтэм
@@ -3994,7 +3371,7 @@
  stem: котырак.
  gramm: ADV
  paradigm: connect_adverbs
- trans_ru: кругом, вокруг, везде, всю­ду, повсюду, отовсюду
+ trans_ru: кругом, вокруг
 
 -lexeme
  lex: азинлыко
@@ -4030,13 +3407,6 @@
  gramm: ADV
  paradigm: connect_adverbs
  trans_ru: пчеловодством, пчеловодство
-
--lexeme
- lex: азьпалтӥ
- stem: азьпалтӥ.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: впереди, спереди, вперёд, азьпалтӥмы ик кион выжиз впереди нас пробежал волк
 
 -lexeme
  lex: лэчыт
@@ -4165,25 +3535,11 @@
  trans_ru: прохладно
 
 -lexeme
- lex: улэ
- stem: улэ.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: ниже, вниз
-
--lexeme
  lex: тяпайтыса
  stem: тяпайтыса.
  gramm: ADV
  paradigm: connect_adverbs
  trans_ru: медлительно, нерасторопно
-
--lexeme
- lex: азьлань-берлань
- stem: азьлань-берлань.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: 1. взад и вперёд, туда-сюда 2. несуразно, нескладно, путано
 
 -lexeme
  lex: дурыныз
@@ -4743,7 +4099,7 @@
  stem: матэтӥ.
  gramm: ADV
  paradigm: connect_adverbs
- trans_ru: близко, поблизости, на близком расстоянии
+ trans_ru: близко
 
 -lexeme
  lex: салкым
@@ -4757,7 +4113,7 @@
  stem: кунока.
  gramm: ADV
  paradigm: connect_adverbs
- trans_ru: дом, куда приехали гости с ночлегом на одну или на две ночи, квартира, гостиница постоялый двор, ночлег, кров, дом для приезжающих, дом хозяина, у которого в гостях быть, владелец дома, домохозяин, домохозяйка, хозяин, хозяйка дома, хозяин, хозяин, у которого находишься в гостях
+ trans_ru: дом, куда приехали гости с ночлегом на одну или на две ночи
 
 -lexeme
  lex: люко
@@ -4771,14 +4127,7 @@
  stem: пичильтык.
  gramm: ADV
  paradigm: connect_adverbs
- trans_ru: немножечко, немножко, чуть-чуть
-
--lexeme
- lex: обком
- stem: обком.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: обком, партилэн обкомез обком партии
+ trans_ru: немножко, чуть-чуть
 
 -lexeme
  lex: кужмо
@@ -4848,7 +4197,7 @@
  stem: сьӧрла.
  gramm: ADV
  paradigm: connect_adverbs
- trans_ru: назад, задом наперёд, обратно, в обратную сторону, вспять, в обратном порядке, на другую сторону
+ trans_ru: назад, задом наперёд, обратно
 
 -lexeme
  lex: тупыт
@@ -4939,7 +4288,7 @@
  stem: сьӧрлон.
  gramm: ADV
  paradigm: connect_adverbs
- trans_ru: вдали, вдалеке, в чужой стороне, на чужбине, в дальней стороне
+ trans_ru: вдали, на чужбине
 
 -lexeme
  lex: данак
@@ -5339,13 +4688,6 @@
  gramm: ADV
  paradigm: connect_adverbs
  trans_ru: так долго
-
--lexeme
- lex: азьпала
- stem: азьпала.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: вперёд
 
 -lexeme
  lex: пыр-поч
@@ -5887,13 +5229,6 @@
  trans_ru: смешно, потешно
 
 -lexeme
- lex: вылысен
- stem: вылысен.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: 1. сверху 2. послелог с, со
-
--lexeme
  lex: йырвизьмо
  stem: йырвизьмо.
  gramm: ADV
@@ -5962,13 +5297,6 @@
  gramm: ADV
  paradigm: connect_adverbs
  trans_ru: аккуратно, стройно
-
--lexeme
- lex: уллань
- stem: уллань.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: 1. вниз, книзу 2. послелог под, вниз по...
 
 -lexeme
  lex: тульк
@@ -6349,13 +5677,6 @@
  trans_ru: решительно
 
 -lexeme
- lex: улэтӥ
- stem: улэтӥ.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: низко, низом, понизу
-
--lexeme
  lex: нижырес
  stem: нижырес.
  gramm: ADV
@@ -6466,13 +5787,6 @@
  gramm: ADV
  paradigm: connect_adverbs
  trans_ru: угарно
-
--lexeme
- lex: ваменскем
- stem: ваменскем.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: упрямство
 
 -lexeme
  lex: мыр-мыр
@@ -7417,7 +6731,7 @@
  stem: жильтырак.
  gramm: IMIT
  paradigm: Empty
- trans_ru: однократному звону цени или металлических предметов
+ trans_ru: звук однократного звона цепи или металлических предметов
 
 -lexeme
  lex: шурк-шарк
@@ -7543,7 +6857,7 @@
  stem: тӥчи-тачи.
  gramm: IMIT
  paradigm: Empty
- trans_ru: точению: кусозэ ~ шере со звоном точит косу
+ trans_ru: точению
 
 -lexeme
  lex: торк
@@ -7959,6 +7273,13 @@
  trans_ru: подр. звукам, производимым утками, гусями при отыскивании пищи в воде
 
 -lexeme
+ lex: сябась
+ stem: сябас.
+ gramm: INTRJ
+ paradigm: Empty
+ trans_ru: за здоровье!
+
+-lexeme
  lex: браво
  stem: браво.
  gramm: INTRJ
@@ -7984,7 +7305,7 @@
  stem: оп.
  gramm: INTRJ
  paradigm: Empty
- trans_ru: выражающее поощрение при прыжке, скачке хоп, гоп, оп карыны прыгать, оп луыны упасть
+ trans_ru: выражающее поощрение при прыжке, скачке хоп, гоп
 
 -lexeme
  lex: уй-уй-уй
@@ -7998,7 +7319,7 @@
  stem: ӧ-ӧ.
  gramm: INTRJ
  paradigm: Empty
- trans_ru: употр. при укачивании и баюкании ребёнка а-а-а, бай-бай, баю-бай,2
+ trans_ru: баю-бай
 
 -lexeme
  lex: ох-ох-ох
@@ -8040,7 +7361,7 @@
  stem: эй.
  gramm: INTRJ
  paradigm: Empty
- trans_ru: выражающее волеизъявление, призыв, побуждение к действию и т. п. эй, эй, тӥ ӝоггес эй, вы, побыстрее!, эй, кин со отын? эй, кто это там?
+ trans_ru: эй
 
 -lexeme
  lex: а-а-а
@@ -8054,7 +7375,7 @@
  stem: эк.
  gramm: INTRJ
  paradigm: Empty
- trans_ru: выражающее различные чувства и эмоции эх, эк, пие! эх, сынок!, эк, кыӵе жаль! эх, как жалко!
+ trans_ru: эх
 
 -lexeme
  lex: апчи
@@ -8423,6 +7744,174 @@
 -lexeme
  lex: табере
  stem: табере.
- gramm: N
- paradigm: Noun-num-vowel
+ gramm: ADV
+ paradigm: connect_adverbs
  trans_ru: после того, потом
+
+-lexeme
+ lex: одно
+ stem: одно.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: обязательно
+
+-lexeme
+ lex: воксё
+ stem: воксё.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: совсем
+
+-lexeme
+ lex: воксёлы
+ stem: воксёлы.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: насовсем, навсегда
+
+-lexeme
+ lex: азьло
+ stem: азьло.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: раньше
+
+-lexeme
+ lex: берло
+ stem: берло.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: потом, после, впоследствии, затем
+
+-lexeme
+ lex: котыра
+ stem: котыра.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: вокруг, кругом
+
+-lexeme
+ lex: пушласянь
+ stem: пушласянь.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: изнутри
+
+-lexeme
+ lex: кыкнапалласянь
+ stem: кыкнапалласянь.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: с обеих сторон
+
+-lexeme
+ lex: педласянь
+ stem: педласянь.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: извне, снаружи
+
+-lexeme
+ lex: нокудлалась
+ stem: нокудлалась.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: ни с той, ни с другой стороны
+
+-lexeme
+ lex: нокудпалласянь
+ stem: нокудпалласянь.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: ни с той, ни с другой стороны
+
+-lexeme
+ lex: нокудпаласен
+ stem: нокудпаласен.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: ни с той, ни с другой стороны
+
+-lexeme
+ lex: педпалласянь
+ stem: педпалласянь.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: извне, снаружи
+
+-lexeme
+ lex: кыкналасянь
+ stem: кыкналасянь.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: с обеих сторон, с двух сторон
+
+-lexeme
+ lex: огпалласянь
+ stem: огпалласянь.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: с одной стороны, с бока
+
+-lexeme
+ lex: соласянь
+ stem: соласянь.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: с той стороны
+
+-lexeme
+ lex: вылласянь
+ stem: вылласянь.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: с верхней стороны, сверху
+
+-lexeme
+ lex: выллапалласянь
+ stem: выллапалласянь.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: с верхней стороны, сверху
+
+-lexeme
+ lex: улласянь
+ stem: улласянь.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: снизу, с нижней стороны
+
+-lexeme
+ lex: уллапалласянь
+ stem: уллапалласянь.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: снизу, с нижней стороны
+
+-lexeme
+ lex: огласянь
+ stem: огласянь.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: с одной стороны, частично, отчасти
+
+-lexeme
+ lex: мышласянь
+ stem: мышласянь.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: сзади
+
+-lexeme
+ lex: валысен
+ stem: валысен.
+ gramm: POST
+ paradigm: Empty
+ trans_ru: с
+
+-lexeme
+ lex: валысь
+ stem: валысь.
+ gramm: POST
+ paradigm: Empty
+ trans_ru: с

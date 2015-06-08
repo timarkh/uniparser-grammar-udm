@@ -601,13 +601,6 @@
  trans_ru: декоративный
 
 -lexeme
- lex: выллапалозь
- stem: выллапалозь.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: до верхней стороны, доверху
-
--lexeme
  lex: секционной
  stem: секционной.
  gramm: ADJ
@@ -1182,11 +1175,11 @@
  trans_ru: клетчатый
 
 -lexeme
- lex: одӥг
- stem: одӥг.
+ lex: вашкала
+ stem: вашкала.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: однообразный
+ trans_ru: древний, старинный
 
 -lexeme
  lex: парадной
@@ -1217,18 +1210,11 @@
  trans_ru: косоглазый, кривой
 
 -lexeme
- lex: вылласянь
- stem: вылласянь.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: с верхней стороны, сверху
-
--lexeme
  lex: санэт
  stem: санэт.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: знатный, благородный, велико-светский, избранный, фешенебельный, почетный, изысканный
+ trans_ru: знатный, благородный
 
 -lexeme
  lex: канализационной
@@ -1236,13 +1222,6 @@
  gramm: ADJ
  paradigm: connect_adjectives
  trans_ru: канализационный
-
--lexeme
- lex: адӟись
- stem: адӟись.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: 1. видящий, зрячий 2. свидетель, очевидец,? сьӧд нюлэс пеймыт – адӟисез уз луы погов. букв. лес тёмный – свидетеля не будет
 
 -lexeme
  lex: лыйыр
@@ -1320,13 +1299,6 @@
  gramm: ADJ
  paradigm: connect_adjectives
  trans_ru: непоследовательный, беспорядочный
-
--lexeme
- lex: мукетыз
- stem: мукетыз.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: другой, иной, не тот
 
 -lexeme
  lex: кайырчи
@@ -2022,13 +1994,6 @@
  trans_ru: проворный, умеющий, мастер на все руки
 
 -lexeme
- lex: огласянь
- stem: огласянь.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: с одной стороны, частично, отчасти
-
--lexeme
  lex: жогыль
  stem: жогыль.
  gramm: ADJ
@@ -2335,13 +2300,6 @@
  gramm: ADJ
  paradigm: connect_adjectives
  trans_ru: алчный
-
--lexeme
- lex: мышление
- stem: мышление.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: мышление
 
 -lexeme
  lex: терапевтической
@@ -7385,13 +7343,6 @@
  trans_ru: 1. пёстрый, разноцветный 2. белая отметина, звёздочка
 
 -lexeme
- lex: висись
- stem: висись.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: больной, нездоровый, заболевший
-
--lexeme
  lex: шӧйӟектэм
  stem: шӧйӟектэм.
  gramm: ADJ
@@ -8111,13 +8062,6 @@
  gramm: ADJ
  paradigm: connect_adjectives
  trans_ru: конгылес кривой, согнутый, извилистый
-
--lexeme
- lex: выллапалласянь
- stem: выллапалласянь.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: с верхней стороны, сверху
 
 -lexeme
  lex: тӧдьыпыр
@@ -8992,19 +8936,14 @@
  stem: быдэс.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: полный, весь-lexeme
+ trans_ru: полный, весь
+
+-lexeme
  lex: кепырась
  stem: кепырась.
  gramm: ADJ
  paradigm: connect_adjectives
  trans_ru: стеснительный, застенчивый, стыдливый
-
--lexeme
- lex: коллегия
- stem: коллегия.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: коллегия, Верховной судлэн Коллегиез Коллегия Верховного суда
 
 -lexeme
  lex: ӧкырзян
@@ -11615,14 +11554,7 @@
  stem: мукет.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: другой, иной
-
--lexeme
- lex: берлань
- stem: берлань.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: обратный
+ trans_ru: другой
 
 -lexeme
  lex: капчи
@@ -11861,13 +11793,6 @@
  gramm: ADJ
  paradigm: connect_adjectives
  trans_ru: механический
-
--lexeme
- lex: выллапалан
- stem: выллапалан.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: на верхней стороне, наверху, вверху
 
 -lexeme
  lex: травопольной
@@ -12113,13 +12038,6 @@
  gramm: ADJ
  paradigm: connect_adjectives
  trans_ru: беспрерывный, систематический, регулярный
-
--lexeme
- lex: выллапалтӥ
- stem: выллапалтӥ.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: по верхней стороне, поверху
 
 -lexeme
  lex: шӧлгес
@@ -12666,13 +12584,6 @@
  gramm: ADJ
  paradigm: connect_adjectives
  trans_ru: раздетый-разутый
-
--lexeme
- lex: бер
- stem: бер.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: задний
 
 -lexeme
  lex: тусбуйтэм

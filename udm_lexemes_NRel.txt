@@ -1,0 +1,251 @@
+-lexeme
+ lex: вӧз
+ stem: вӧз.
+ gramm: N,rel_n
+ paradigm: Noun-num-consonant
+ trans_ru: около
+
+-lexeme
+ lex: сьӧр
+ stem: сьӧр.
+ gramm: N,rel_n
+ paradigm: Noun-num-consonant
+ trans_ru: за, сзади (у задней части ориентира)
+
+-lexeme
+ lex: сьӧр
+ stem: сьӧрк.
+ gramm: N,rel_n
+ paradigm: Noun-num-consonant
+ trans_ru: за, сзади (у задней части ориентира)
+
+-lexeme
+ lex: бер
+ stem: бер.
+ gramm: N,rel_n
+ paradigm: Noun-num-consonant
+ trans_ru: за, сзади (ориентир находится между объектом и говорящим)
+
+-lexeme
+ lex: берпал
+ stem: берпал.
+ gramm: N,rel_n
+ paradigm: Noun-num-pal
+ trans_ru: зад
+
+-lexeme
+ lex: азь
+ stem: аз.
+ gramm: N,rel_n
+ paradigm: Noun-num-soft
+ trans_ru: перед
+
+-lexeme
+ lex: азьпал
+ stem: азьпал.
+ gramm: N,rel_n
+ paradigm: Noun-num-pal
+ trans_ru: перед
+
+-lexeme
+ lex: борд
+ stem: борд.
+ gramm: N,rel_n
+ paradigm: Noun-num-consonant
+ trans_ru: около
+
+-lexeme
+ lex: шор
+ stem: шор.
+ gramm: N,rel_n
+ paradigm: Noun-num-consonant
+ trans_ru: середина
+
+-lexeme
+ lex: вис
+ stem: вис.
+ gramm: N,rel_n
+ paradigm: Noun-num-consonant
+ trans_ru: промежуток; между
+
+-lexeme
+ lex: вис
+ stem: виск.
+ gramm: N,rel_n
+ paradigm: Noun-num-consonant
+ trans_ru: промежуток; между
+
+-lexeme
+ lex: урдэс
+ stem: урдэс.
+ gramm: N,rel_n
+ paradigm: Noun-num-consonant
+ trans_ru: бок, сторона; сбоку
+
+-lexeme
+ lex: урдэс
+ stem: урдэск.
+ gramm: N,rel_n
+ paradigm: Noun-num-consonant
+ trans_ru: бок, сторона; сбоку
+
+-lexeme
+ lex: урдэс
+ stem: урдс.
+ gramm: N,rel_n
+ paradigm: Noun-num-consonant
+ trans_ru: бок, сторона; сбоку
+
+-lexeme
+ lex: вадес
+ stem: вадес.
+ gramm: N,rel_n
+ paradigm: Noun-num-consonant
+ trans_ru: напротив
+
+-lexeme
+ lex: вадес
+ stem: вадьс.
+ gramm: N,rel_n
+ paradigm: Noun-num-consonant
+ trans_ru: напротив
+
+-lexeme
+ lex: вадес
+ stem: вадеск.
+ gramm: N,rel_n
+ paradigm: Noun-num-consonant
+ trans_ru: напротив
+
+-lexeme
+ lex: бӧрсь
+ stem: бӧрс.
+ gramm: N,rel_n
+ paradigm: Noun-num-soft
+ trans_ru: следом за
+
+-lexeme
+ lex: котыр
+ stem: котыр.
+ gramm: N,rel_n
+ paradigm: Noun-num-consonant
+ trans_ru: окрестность; вокруг
+
+-lexeme
+ lex: улс
+ stem: улс.
+ gramm: N,rel_n
+ paradigm: Noun-num-consonant
+ trans_ru: расстояние; под
+
+-lexeme
+ lex: йыл
+ stem: йыл.
+ gramm: N,rel_n
+ paradigm: Noun-num-consonant
+ trans_ru: вершина, верхушка
+
+-lexeme
+ lex: пӧл
+ stem: пӧл.
+ gramm: N,rel_n
+ paradigm: Noun-num-consonant
+ trans_ru: среди
+
+-lexeme
+ lex: пуш
+ stem: пуш.
+ gramm: N,rel_n
+ paradigm: Noun-num-consonant
+ trans_ru: внутренность; внутри
+
+-lexeme
+ lex: пуш
+ stem: пушк.
+ gramm: N,rel_n
+ paradigm: Noun-num-consonant
+ trans_ru: внутренность; внутри
+
+-lexeme
+ lex: кусып
+ stem: кусып.
+ gramm: N,rel_n
+ paradigm: Noun-num-consonant
+ trans_ru: промежуток; между
+
+-lexeme
+ lex: кусып
+ stem: кусп.
+ gramm: N,rel_n
+ paradigm: Noun-num-consonant
+ trans_ru: промежуток; между
+
+-lexeme
+ lex: пулс
+ stem: пулс.
+ gramm: N,rel_n
+ paradigm: Noun-num-consonant
+ trans_ru: промежуток; между
+
+-lexeme
+ lex: выл
+ stem: выл.
+ gramm: N,rel_n
+ paradigm: Noun-num-consonant
+ trans_ru: верх, поверхность; сверху
+
+-lexeme
+ lex: выллапал
+ stem: выллапал.
+ gramm: N,rel_n
+ paradigm: Noun-num-pal
+ trans_ru: верхняя сторона
+
+-lexeme
+ lex: ул
+ stem: ул.
+ gramm: N,rel_n
+ paradigm: Noun-num-consonant
+ trans_ru: низ; снизу
+
+-lexeme
+ lex: уллапал
+ stem: уллапал.
+ gramm: N,rel_n
+ paradigm: Noun-num-pal
+ trans_ru: нижняя сторона
+
+-lexeme
+ lex: дор
+ stem: дор.
+ gramm: N,rel_n
+ paradigm: Noun-num-consonant
+ trans_ru: около
+
+-lexeme
+ lex: места
+ stem: места.
+ gramm: N,rel_n
+ paradigm: Noun-num-vowel
+ trans_ru: место; вместо
+
+-lexeme
+ lex: пумит
+ stem: пумит.
+ gramm: N,rel_n
+ paradigm: Noun-num-consonant
+ trans_ru: напротив
+
+-lexeme
+ lex: мыш
+ stem: мыш.
+ gramm: N,rel_n
+ paradigm: Noun-num-consonant
+ trans_ru: зад, тыл; сзади
+
+-lexeme
+ lex: мыш
+ stem: мышк.
+ gramm: N,rel_n
+ paradigm: Noun-num-consonant
+ trans_ru: зад, тыл; сзади

@@ -910,13 +910,6 @@
  trans_ru: гожтӥсь автор
 
 -lexeme
- lex: дорозь
- stem: дороз.
- gramm: N
- paradigm: Noun-num-soft
- trans_ru: 1. послелог надо 2. до дома
-
--lexeme
  lex: чигы
  stem: чигы.
  gramm: N
@@ -1387,13 +1380,6 @@
  trans_ru: негде
 
 -lexeme
- lex: вадескысен
- stem: вадескысен.
- gramm: N
- paradigm: Noun-num-consonant
- trans_ru: вадескысь послелог с, приблизительно с
-
--lexeme
  lex: огинэт
  stem: огинэт.
  gramm: N
@@ -1490,13 +1476,6 @@
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: анафора
-
--lexeme
- lex: котыра
- stem: котыра.
- gramm: N
- paradigm: Noun-num-vowel
- trans_ru: вокруг, кругом
 
 -lexeme
  lex: кыдэсь
@@ -2220,13 +2199,6 @@
  trans_ru: концы брёвен
 
 -lexeme
- lex: куспады
- stem: куспады.
- gramm: N
- paradigm: Noun-num-vowel
- trans_ru: [вы] между собой
-
--lexeme
  lex: шал
  stem: шал.
  gramm: N
@@ -2283,13 +2255,6 @@
  trans_ru: наречно-изобр. сл., выражающее съежившееся, сгорбившееся состояние предмета согнутый
 
 -lexeme
- lex: азьын
- stem: азьын.
- gramm: N
- paradigm: Noun-num-consonant
- trans_ru: 2. послелог перед, передо, при, у, за
-
--lexeme
  lex: чилекъян
  stem: чилекъян.
  gramm: N
@@ -2301,7 +2266,7 @@
  stem: пыд.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: 1. нога, ножка 2. копыто 3. лапа, лапка 4. коготь, коготок
+ trans_ru: нога, лапа; коготь
 
 -lexeme
  lex: вазен
@@ -2393,13 +2358,6 @@
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: один период вдоха-выдоха
-
--lexeme
- lex: дорысь
- stem: дорыс.
- gramm: N
- paradigm: Noun-num-soft
- trans_ru: 1. послелог от 2. из дома
 
 -lexeme
  lex: кыжкыл
@@ -3043,7 +3001,7 @@
  stem: шорткут.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: шортпуд мотовило
+ trans_ru: мотовило
 
 -lexeme
  lex: суд
@@ -3480,13 +3438,6 @@
  trans_ru: подойти, быть впору
 
 -lexeme
- lex: вылэ
- stem: вылэ.
- gramm: N
- paradigm: Noun-num-vowel
- trans_ru: вверх, наверх, кверху, ввысь
-
--lexeme
  lex: изба-читальня
  stem: изба-читальня.
  gramm: N
@@ -3743,21 +3694,7 @@
  stem: кункрез.
  gramm: N
  paradigm: Noun-num-soft
- trans_ru: гимн, Кун ~ государственный гимн 1998
-
--lexeme
- lex: берганыкружиться
- stem: берганыкружиться.
- gramm: N
- paradigm: Noun-num-vowel
- trans_ru: крутиться, вертеться, вращаться
-
--lexeme
- lex: шоккетын(ы
- stem: шоккетын(ы.
- gramm: N
- paradigm: Noun-num-vowel
- trans_ru: хвастать, многословить
+ trans_ru: гимн
 
 -lexeme
  lex: погашоу
@@ -3800,13 +3737,6 @@
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: [младший] брат
-
--lexeme
- lex: кыкнапалласянь
- stem: кыкнапалласян.
- gramm: N
- paradigm: Noun-num-soft
- trans_ru: с обеих сторон
 
 -lexeme
  lex: ошмесдӥнь
@@ -4317,7 +4247,7 @@
  stem: мыӟат.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: азьланьзэ кайта на будущий год, следующий раз
+ trans_ru: на будущий год, следующий раз
 
 -lexeme
  lex: ветлон-гур
@@ -4703,13 +4633,6 @@
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: второпях, наскоро, на скорую руку, кое-как
-
--lexeme
- lex: литературатодосчилитературовед
- stem: литературатодосчилитературовед.
- gramm: N
- paradigm: Noun-num-consonant
- trans_ru: мукет сямен
 
 -lexeme
  lex: вукырем
@@ -6056,20 +5979,6 @@
  trans_ru: ширица
 
 -lexeme
- lex: борд
- stem: борд.
- gramm: N
- paradigm: Noun-num-consonant
- trans_ru: текст. длина вытканной ткани, длина основы
-
--lexeme
- lex: кусып
- stem: кусып.
- gramm: N
- paradigm: Noun-num-consonant
- trans_ru: 1. промежуток, расстояние, дистанция, интервал, кусыпсэ мертаны измерить расстояние 
-
--lexeme
  lex: часкын
  stem: часкын.
  gramm: N
@@ -6672,13 +6581,6 @@
  gramm: N
  paradigm: Noun-num-j
  trans_ru: сокол, ястреб
-
--lexeme
- lex: шорысен
- stem: шорысен.
- gramm: N
- paradigm: Noun-num-consonant
- trans_ru: шорысь послелог с, со, с середины
 
 -lexeme
  lex: ӵыштыртэм
@@ -8339,7 +8241,7 @@
  stem: дорога.
  gramm: N
  paradigm: Noun-num-vowel
- trans_ru: дорогли жаворонок
+ trans_ru: жаворонок
 
 -lexeme
  lex: извалон
@@ -9791,13 +9693,6 @@
  trans_ru: кул. наливные шаньги, мучник
 
 -lexeme
- lex: мыш
- stem: мыш.
- gramm: N
- paradigm: Noun-num-consonant
- trans_ru: зад, обратная сторона, тыл, спина
-
--lexeme
  lex: манер
  stem: манер.
  gramm: N
@@ -9882,18 +9777,11 @@
  trans_ru: горное ущелье
 
 -lexeme
- lex: вискын-вискын
- stem: вискын-вискын.
- gramm: N
- paradigm: Noun-num-consonant
- trans_ru: по временам, временами, время от времени, периодами
-
--lexeme
  lex: писяй
  stem: пися.
  gramm: N
  paradigm: Noun-num-j
- trans_ru: сч.кошка, кот
+ trans_ru: кошка, кот
 
 -lexeme
  lex: бабай
@@ -9960,17 +9848,10 @@
 
 -lexeme
  lex: ЭВМ
- stem: ЭВМ.
+ stem: эвм.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: ЭВМ, ЭВМ-ен ужаны работать на ЭВМ
-
--lexeme
- lex: мышкысен
- stem: мышкысен.
- gramm: N
- paradigm: Noun-num-consonant
- trans_ru: мышкысь сзади, с тыла
+ trans_ru: ЭВМ
 
 -lexeme
  lex: тыпыртэм
@@ -10062,13 +9943,6 @@
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: физ. колебание
-
--lexeme
- lex: куспазы
- stem: куспазы.
- gramm: N
- paradigm: Noun-num-vowel
- trans_ru: [они] между собой
 
 -lexeme
  lex: вор
@@ -10447,13 +10321,6 @@
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: обрыв, уступ, эскарп
-
--lexeme
- lex: педласянь
- stem: педласян.
- gramm: N
- paradigm: Noun-num-soft
- trans_ru: извне, снаружи, с наружной стороны
 
 -lexeme
  lex: пилотаж
@@ -11609,13 +11476,6 @@
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: вет. сап
-
--lexeme
- lex: пушкысен
- stem: пушкысен.
- gramm: N
- paradigm: Noun-num-consonant
- trans_ru: пушкысь послелог из, изнутри
 
 -lexeme
  lex: сан
@@ -14679,13 +14539,6 @@
  trans_ru: говорить, поговаривать
 
 -lexeme
- lex: нокудпаласен
- stem: нокудпаласен.
- gramm: N
- paradigm: Noun-num-consonant
- trans_ru: нокудлалась, нокудпалласянь ни с какой стороны, ни с той, ни с другой стороны
-
--lexeme
  lex: атау
  stem: атау.
  gramm: N
@@ -14887,13 +14740,6 @@
  gramm: N
  paradigm: Noun-num-soft
  trans_ru: подр. звону колокольчика динь-динь-динь
-
--lexeme
- lex: выллань
- stem: выллан.
- gramm: N
- paradigm: Noun-num-soft
- trans_ru: вверх, наверх, кверху
 
 -lexeme
  lex: пыдсэт
@@ -15435,20 +15281,6 @@
  trans_ru: паспорт
 
 -lexeme
- lex: бераз
- stem: бераз.
- gramm: N
- paradigm: Noun-num-consonant
- trans_ru: 1. позади него, сзади него, за ним 2. послелог в притяж. ф. за [его]
-
--lexeme
- lex: берад
- stem: берад.
- gramm: N
- paradigm: Noun-num-consonant
- trans_ru: 1. позади тебя, сзади тебя, за тобой 2. послелог в притяж. ф. за [твоим]
-
--lexeme
  lex: ӝамдэ
  stem: ӝамдэ.
  gramm: N
@@ -15468,13 +15300,6 @@
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: 1. подол 2. оборка
-
--lexeme
- lex: берам
- stem: берам.
- gramm: N
- paradigm: Noun-num-consonant
- trans_ru: 1. позади меня, сзади меня, за мной 2. послелоге притяж. ф. за [моим]
 
 -lexeme
  lex: ю-нянь
@@ -15636,13 +15461,6 @@
  gramm: N
  paradigm: Noun-num-vowel
  trans_ru: туда-сюда, взад-вперёд
-
--lexeme
- lex: педпалласянь
- stem: педпалласян.
- gramm: N
- paradigm: Noun-num-soft
- trans_ru: извне, снаружи, с наружной стороны
 
 -lexeme
  lex: пупыд
@@ -15876,13 +15694,6 @@
  trans_ru: толэзьемыш овощи
 
 -lexeme
- lex: пушласянь
- stem: пушласян.
- gramm: N
- paradigm: Noun-num-soft
- trans_ru: внутри, изнутри, с внутренней стороны
-
--lexeme
  lex: салязка
  stem: салязка.
  gramm: N
@@ -16002,13 +15813,6 @@
  trans_ru: глубины
 
 -lexeme
- lex: дортӥпослелог
- stem: дортӥпослелог.
- gramm: N
- paradigm: Noun-num-consonant
- trans_ru: возле, около, поблизости
-
--lexeme
  lex: куйсыз
  stem: куйсыз.
  gramm: N
@@ -16042,13 +15846,6 @@
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: мор. бакен
-
--lexeme
- lex: выллапала
- stem: выллапала.
- gramm: N
- paradigm: Noun-num-vowel
- trans_ru: на верхнюю сторону, наверх, кверху
 
 -lexeme
  lex: кана
@@ -17661,13 +17458,6 @@
  trans_ru: с.-х. зигзаг
 
 -lexeme
- lex: дорысен
- stem: дорысен.
- gramm: N
- paradigm: Noun-num-consonant
- trans_ru: 1. послелог) от, с, у 2. из дома
-
--lexeme
  lex: лодӥга
  stem: лодӥга.
  gramm: N
@@ -17689,13 +17479,6 @@
  trans_ru: 1. стрельба, обстрел 2. расстрел
 
 -lexeme
- lex: урдсысен
- stem: урдсысен.
- gramm: N
- paradigm: Noun-num-consonant
- trans_ru: урдсысь послелог с, с обочины, со стороны, с боковой стороны, сбоку
-
--lexeme
  lex: тым-тым
  stem: тым-тым.
  gramm: N
@@ -17715,13 +17498,6 @@
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: воен. полк
-
--lexeme
- lex: пулыс
- stem: пулыс.
- gramm: N
- paradigm: Noun-num-consonant
- trans_ru: полыс пулсан пулсан боды весло
 
 -lexeme
  lex: ыштон
@@ -17941,13 +17717,6 @@
  trans_ru: психол. эго, ложное эго
 
 -lexeme
- lex: вылаз-вылаз
- stem: вылаз-вылаз.
- gramm: N
- paradigm: Noun-num-consonant
- trans_ru: 1. друг на друга, кучей 2. часто, подряд
-
--lexeme
  lex: курчак
  stem: курчак.
  gramm: N
@@ -17995,13 +17764,6 @@
  gramm: N
  paradigm: Noun-num-vowel
  trans_ru: табаньгуби  масленок зернистый
-
--lexeme
- lex: берпаласен
- stem: берпаласен.
- gramm: N
- paradigm: Noun-num-consonant
- trans_ru: [начиная] сзади
 
 -lexeme
  lex: тэйӟем
@@ -18480,60 +18242,11 @@
  trans_ru: треск, трещина
 
 -lexeme
- lex: сябась
- stem: сябас.
- gramm: N
- paradigm: Noun-num-soft
- trans_ru: за здоровье!
-
--lexeme
- lex: вӧзад
- stem: вӧзад.
- gramm: N
- paradigm: Noun-num-consonant
- trans_ru: возле [тебя], рядом [с тобой]
-
--lexeme
- lex: вӧзаз
- stem: вӧзаз.
- gramm: N
- paradigm: Noun-num-consonant
- trans_ru: возле [себя], рядом [с ним]
-
--lexeme
- lex: ижъёс
- stem: ижъёс.
- gramm: N
- paradigm: Noun-num-consonant
- trans_ru: ижевцы, ижевчане
-
--lexeme
  lex: мынонни
  stem: мынонни.
  gramm: N
  paradigm: Noun-num-vowel
  trans_ru: прикильм. путь следования, маршрут
-
--lexeme
- lex: вӧзам
- stem: вӧзам.
- gramm: N
- paradigm: Noun-num-consonant
- trans_ru: возле [меня], рядом [со мной]
-
--lexeme
- lex: валысен
- stem: валысен.
- gramm: N
- paradigm: Noun-num-consonant
- trans_ru: валысь послелог с
-
--lexeme
- lex: буёланы
- stem: буёланы.
- gramm: N
- paradigm: Noun-num-vowel
- trans_ru: красить, покрасить, подкрасить, окрасить 2. краситься, красить
 
 -lexeme
  lex: туд-вад
@@ -19936,13 +19649,6 @@
  trans_ru: 1. кисель 2. пюре
 
 -lexeme
- lex: пумит
- stem: пумит.
- gramm: N
- paradigm: Noun-num-consonant
- trans_ru: против, навстречу
-
--lexeme
  lex: гизьырак
  stem: гизьырак.
  gramm: N
@@ -20375,13 +20081,6 @@
  gramm: N
  paradigm: Noun-num-vowel
  trans_ru: так, таким образом
-
--lexeme
- lex: дорын
- stem: дорын.
- gramm: N
- paradigm: Noun-num-consonant
- trans_ru: 1. послелог) у, около 2. в знач. нар. дома
 
 -lexeme
  lex: куинен-куинен
@@ -21448,13 +21147,6 @@
  trans_ru: за день, в течение дня
 
 -lexeme
- lex: выллапал
- stem: выллапал.
- gramm: N
- paradigm: Noun-num-consonant
- trans_ru: верхняя сторона, верх
-
--lexeme
  lex: даснады
  stem: даснады.
  gramm: N
@@ -22366,13 +22058,6 @@
  trans_ru: с боку на бок
 
 -lexeme
- lex: выл
- stem: выл.
- gramm: N
- paradigm: Noun-num-consonant
- trans_ru: 1. верхняя часть, поверхность 2. полигр. обложка 3. верхний, внешний
-
--lexeme
  lex: уйвӧтан
  stem: уйвӧтан.
  gramm: N
@@ -22539,13 +22224,6 @@
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: лапоть, лапти
-
--lexeme
- lex: берлань-азьлань
- stem: берлань-азьлан.
- gramm: N
- paradigm: Noun-num-soft
- trans_ru: взад-вперёд, взад и вперёд
 
 -lexeme
  lex: куш
@@ -23045,13 +22723,6 @@
  trans_ru: писыр-писыр: сюлэм ~ луэ сердце щемит
 
 -lexeme
- lex: кыкналасянь
- stem: кыкналасян.
- gramm: N
- paradigm: Noun-num-soft
- trans_ru: с обеих сторон, с двух сторон
-
--lexeme
  lex: немыр
  stem: немыр.
  gramm: N
@@ -23535,13 +23206,6 @@
  trans_ru: калым
 
 -lexeme
- lex: куспамы
- stem: куспамы.
- gramm: N
- paradigm: Noun-num-vowel
- trans_ru: [мы] между собой
-
--lexeme
  lex: узыпу
  stem: узыпу.
  gramm: N
@@ -23561,13 +23225,6 @@
  gramm: N
  paradigm: Noun-num-vowel
  trans_ru: проблема
-
--lexeme
- lex: бӧрсе
- stem: бӧрсе.
- gramm: N
- paradigm: Noun-num-vowel
- trans_ru: подряд, друг за другом, один за другим, вереницей, гуськом
 
 -lexeme
  lex: поминка
@@ -24677,13 +24334,6 @@
  trans_ru: гриб воронка
 
 -lexeme
- lex: вылтӥ
- stem: вылтӥ.
- gramm: N
- paradigm: Noun-num-vowel
- trans_ru: 1. поверх, поверху 2. сверх 3. послелог по, за, в
-
--lexeme
  lex: тырмыт
  stem: тырмыт.
  gramm: N
@@ -24845,13 +24495,6 @@
  trans_ru: магазин, магазея обл.
 
 -lexeme
- lex: воксёлы
- stem: воксёлы.
- gramm: N
- paradigm: Noun-num-vowel
- trans_ru: совсем, навсегда
-
--lexeme
  lex: ӟардон
  stem: ӟардон.
  gramm: N
@@ -24885,13 +24528,6 @@
  gramm: N
  paradigm: Noun-num-vowel
  trans_ru: пуклёк чурбан, обрубок
-
--lexeme
- lex: улад
- stem: улад.
- gramm: N
- paradigm: Noun-num-consonant
- trans_ru: улаз, улам под себя
 
 -lexeme
  lex: лып-лап
@@ -25304,7 +24940,7 @@
  stem: вадес.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: 1. время, пора, момент, период 2. место, участок
+ trans_ru: время, период; место
 
 -lexeme
  lex: пычей

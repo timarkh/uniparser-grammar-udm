@@ -172,6 +172,19 @@
   paradigm: Noun-case-poss-1,pl
   paradigm: Noun-case-poss-2,pl
   paradigm: Noun-case-poss-3,pl
+
+-paradigm: Noun-num-pal
+ -flex: .<.>
+  gramm: sg
+ -flex: .ъёс<.>
+  gramm: pl
+ paradigm: Noun-case-pal
+ paradigm: Noun-case-poss-1,sg
+ paradigm: Noun-case-poss-2,sg
+ paradigm: Noun-case-poss-3,sg
+ paradigm: Noun-case-poss-1,pl
+ paradigm: Noun-case-poss-2,pl
+ paradigm: Noun-case-poss-3,pl
    
 -paradigm: Noun-case
  -flex: .<.>
@@ -217,6 +230,42 @@
  -flex: .етӥ<.>
   gramm: prol
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+ -flex: .лань<.>
+  gramm: app
+ paradigm: Comparative
+
+-paradigm: Noun-case-pal
+ -flex: .<.>
+  gramm: nom
+ -flex: .эз<.>//.ыз<.>
+  gramm: acc
+ -flex: .ты<.>
+  gramm: acc
+  regex-gramm: ^.*pl.*$
+ -flex: .лэн<.>
+  gramm: gen
+ -flex: .лэсь<.>
+  gramm: abl
+ -flex: .лы<.>
+  gramm: dat
+ -flex: .эн<.>//.ын<.>
+  gramm: ins
+ -flex: .тэк<.>
+  gramm: car
+ -flex: .я<.>//.ъя<.>
+  gramm: adv
+ -flex: .ан<.>
+  gramm: loc
+ -flex: .а<.>
+  gramm: ill
+ -flex: .ась<.>
+  gramm: el
+ -flex: .асен<.>
+  gramm: egr
+ -flex: .озь<.>
+  gramm: term
+ -flex: .этӥ<.>//.ытӥ<.>//.тӥ<.>
+  gramm: prol
  -flex: .лань<.>
   gramm: app
  paradigm: Comparative
@@ -1522,18 +1571,18 @@
 
 -paradigm: Verb-imp-I
  -flex: .//.ы
-  gramm: imper,sg,subj
+  gramm: imper,sg
  -flex: .э
-  gramm: imper,pl,subj
+  gramm: imper,pl
  -flex: .е
-  gramm: imper,pl,subj
+  gramm: imper,pl
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
 
 -paradigm: Verb-imp-I-soft
  -flex: .ь//.ьы
-  gramm: imper,sg,subj
+  gramm: imper,sg
  -flex: .е
-  gramm: imper,pl,subj
+  gramm: imper,pl
 
 
 -paradigm: Verb-pres-II-positive
@@ -1616,9 +1665,9 @@
 
 -paradigm: Verb-imp-II
  -flex: .
-  gramm: imper,sg,subj
+  gramm: imper,sg
  -flex: .лэ
-  gramm: imper,pl,subj
+  gramm: imper,pl
 
 
 -paradigm: Aspect-I
