@@ -1,2 +1,10 @@
 uniparser-grammar-udm
 =====================
+
+This is a formalized description of literary Udmurt morphology. The description is carried out in the UniParser format and involves a description of the inflection (paradigms.txt) and a grammatical dictionary (udm_lexemes_XXX.txt files). The latter contains descriptions of individual lexemes, each of which is accompanied by information about its stem, its part-of-speech tag, its inflection type (paradigm), and Russian translation.
+
+As the dictionary was built automatically on the basis of an Udmurt-Russian bilingual dictionary that contained no grammatical information, and only a part of it was checked or added manually, sometimes there are mistakes in the POS tags. Those items whose labeling is especially doubtful are placed in the udm_lexemes_N_unsure.txt file. The paradigms sometimes allow for overgeneration to keep the description simple; as far as I know, this does not have much influence on the quality of the analysis.
+
+The description may be used together with a set of scripts called UniParser for morphological analysis of texts. Although UniParser has been successfully employed in the course of development of a number of corpora available at http://web-corpora.net, it is still lacking some details and not available for public release. However, for Udmurt you can use the precompiled grammar files together with the dumb_udmurt_parser.py script to analyze texts (all can be found in the Analyzer directory). Python 3 is required to run the script. The functions in the analyzer have an ignoreDiacritics parameter which should be set to True if the texts being analyzed do not have all necessary Udmurt diacritics (i. e. were written using plain Russian keyboard).
+
+The Wordlists directory contains a frequency list built from the Udmurt corpus (http://web-corpora.net/UdmurtCorpus/search/ , only the texts with diacritics were used) and the output of the analyzer for this list, with several manual corrections in the top of the frequency list.
