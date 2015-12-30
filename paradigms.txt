@@ -1334,8 +1334,32 @@
   gramm: cnv,neg
  -flex: .ыку
   gramm: cnv,simult
+ -flex: .ыкум
+  gramm: cnv,simult,1,sg
+ -flex: .ыкумы
+  gramm: cnv,simult,1,pl
+ -flex: .ыкуд
+  gramm: cnv,simult,2,sg
+ -flex: .ыкуды
+  gramm: cnv,simult,2,pl
+ -flex: .ыкуз
+  gramm: cnv,simult,3,sg
+ -flex: .ыкузы
+  gramm: cnv,simult,3,pl
  -flex: .ытозь
   gramm: cnv,dur
+ -flex: .ытозям
+  gramm: cnv,dur,1,sg
+ -flex: .ытозямы
+  gramm: cnv,dur,1,pl
+ -flex: .ытозяд
+  gramm: cnv,dur,2,sg
+ -flex: .ытозяды
+  gramm: cnv,dur,2,pl
+ -flex: .ытозяз
+  gramm: cnv,dur,3,sg
+ -flex: .ытозязы
+  gramm: cnv,dur,3,pl
  -flex: .ымон
   gramm: cnv,result
 
@@ -1346,8 +1370,32 @@
   gramm: cnv,neg
  -flex: .ьыку
   gramm: cnv,simult
+ -flex: .ьыкум
+  gramm: cnv,simult,1,sg
+ -flex: .ьыкумы
+  gramm: cnv,simult,1,pl
+ -flex: .ьыкуд
+  gramm: cnv,simult,2,sg
+ -flex: .ьыкуды
+  gramm: cnv,simult,2,pl
+ -flex: .ьыкуз
+  gramm: cnv,simult,3,sg
+ -flex: .ьыкузы
+  gramm: cnv,simult,3,pl
  -flex: .ьытозь
   gramm: cnv,dur
+ -flex: .ьытозям
+  gramm: cnv,dur,1,sg
+ -flex: .ьытозямы
+  gramm: cnv,dur,1,pl
+ -flex: .ьытозяд
+  gramm: cnv,dur,2,sg
+ -flex: .ьытозяды
+  gramm: cnv,dur,2,pl
+ -flex: .ьытозяз
+  gramm: cnv,dur,3,sg
+ -flex: .ьытозязы
+  gramm: cnv,dur,3,pl
  -flex: .ьымон
   gramm: cnv,result
 
@@ -1358,8 +1406,32 @@
   gramm: cnv,neg
  -flex: .ку
   gramm: cnv,simult
+ -flex: .кум
+  gramm: cnv,simult,1,sg
+ -flex: .кумы
+  gramm: cnv,simult,1,pl
+ -flex: .куд
+  gramm: cnv,simult,2,sg
+ -flex: .куды
+  gramm: cnv,simult,2,pl
+ -flex: .куз
+  gramm: cnv,simult,3,sg
+ -flex: .кузы
+  gramm: cnv,simult,3,pl
  -flex: .тозь
   gramm: cnv,dur
+ -flex: .тозям
+  gramm: cnv,dur,1,sg
+ -flex: .тозямы
+  gramm: cnv,dur,1,pl
+ -flex: .тозяд
+  gramm: cnv,dur,2,sg
+ -flex: .тозяды
+  gramm: cnv,dur,2,pl
+ -flex: .тозяз
+  gramm: cnv,dur,3,sg
+ -flex: .тозязы
+  gramm: cnv,dur,3,pl
  -flex: .мон
   gramm: cnv,result
 
