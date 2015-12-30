@@ -70,28 +70,51 @@
 -paradigm: Noun-num-vowel
  -flex: .<.>
   gramm: sg
+  paradigm: Noun-case
+  paradigm: Noun-case-poss-1,sg
+  paradigm: Noun-case-poss-2,sg
+  paradigm: Noun-case-poss-3,sg
+  paradigm: Noun-case-poss-1,pl
+  paradigm: Noun-case-poss-2,pl
+  paradigm: Noun-case-poss-3,pl
  -flex: .ос<.>
   gramm: pl
- paradigm: Noun-case
- paradigm: Noun-case-poss-1,sg
- paradigm: Noun-case-poss-2,sg
- paradigm: Noun-case-poss-3,sg
- paradigm: Noun-case-poss-1,pl
- paradigm: Noun-case-poss-2,pl
- paradigm: Noun-case-poss-3,pl
+  paradigm: Noun-case
+  paradigm: Noun-case-poss-1,sg
+  paradigm: Noun-case-poss-2,sg
+  paradigm: Noun-case-poss-3,sg
+  paradigm: Noun-case-poss-1,pl
+  paradigm: Noun-case-poss-2,pl
+  paradigm: Noun-case-poss-3,pl
+ -flex: .ё<.>
+  gramm: attr
+  paradigm: connect_adjectives
 
 -paradigm: Noun-num-consonant
  -flex: .<.>
   gramm: sg
+  paradigm: Noun-case
+  paradigm: Noun-case-poss-1,sg
+  paradigm: Noun-case-poss-2,sg
+  paradigm: Noun-case-poss-3,sg
+  paradigm: Noun-case-poss-1,pl
+  paradigm: Noun-case-poss-2,pl
+  paradigm: Noun-case-poss-3,pl
  -flex: .ъёс<.>
   gramm: pl
- paradigm: Noun-case
- paradigm: Noun-case-poss-1,sg
- paradigm: Noun-case-poss-2,sg
- paradigm: Noun-case-poss-3,sg
- paradigm: Noun-case-poss-1,pl
- paradigm: Noun-case-poss-2,pl
- paradigm: Noun-case-poss-3,pl
+  paradigm: Noun-case
+  paradigm: Noun-case-poss-1,sg
+  paradigm: Noun-case-poss-2,sg
+  paradigm: Noun-case-poss-3,sg
+  paradigm: Noun-case-poss-1,pl
+  paradigm: Noun-case-poss-2,pl
+  paradigm: Noun-case-poss-3,pl
+ -flex: .о<.>
+  gramm: attr
+  # do not confuse it with the debitive
+  regex-stem: ^.*([^<>.н]|[^<>.аяоё][^<>.]|фон)[<>.]*$
+  regex-gramm: ^(.(?!rel_n))*$
+  paradigm: connect_adjectives
 
 -paradigm: Noun-num-soft
  -flex: .<.>
@@ -112,6 +135,10 @@
   paradigm: Noun-case-poss-1,pl
   paradigm: Noun-case-poss-2,pl
   paradigm: Noun-case-poss-3,pl
+ -flex: .ё<.>
+  gramm: attr
+  regex-gramm: ^(.(?!rel_n))*$
+  paradigm: connect_adjectives
 
 -paradigm: Noun-num-j
  -flex: .<.>
@@ -132,6 +159,10 @@
   paradigm: Noun-case-poss-1,pl
   paradigm: Noun-case-poss-2,pl
   paradigm: Noun-case-poss-3,pl
+ -flex: .йо<.>//.ё<.>
+  gramm: attr
+  regex-gramm: ^(.(?!rel_n))*$
+  paradigm: connect_adjectives
 
 -paradigm: Noun-num-ija
  -flex: .<.>
@@ -152,6 +183,9 @@
   paradigm: Noun-case-poss-1,pl
   paradigm: Noun-case-poss-2,pl
   paradigm: Noun-case-poss-3,pl
+ -flex: .ё<.>//.яо<.>
+  gramm: attr
+  paradigm: connect_adjectives
 
 -paradigm: Noun-num-ije
  -flex: .<.>
@@ -172,6 +206,9 @@
   paradigm: Noun-case-poss-1,pl
   paradigm: Noun-case-poss-2,pl
   paradigm: Noun-case-poss-3,pl
+ -flex: .ё<.>//.ео<.>
+  gramm: attr
+  paradigm: connect_adjectives
 
 -paradigm: Noun-num-pal
  -flex: .<.>
@@ -208,7 +245,7 @@
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
  -flex: .тэк<.>
   gramm: case_comp,car
-  regex-prev: ^.*[^<>.ы][<>.]*$
+  regex-prev: ^.*[^<>.ыя][<>.]*$
  -flex: .я<.>
   regex-prev: ^.*[йаеёиӥоӧуыэюя][<>.]*$
   gramm: case_comp,adv
@@ -234,7 +271,7 @@
  -flex: .этӥ<.>//.ытӥ<.>
   gramm: case_comp,prol
  -flex: .тӥ<.>
-  regex-prev: ^.*[^<>.эе][<>.]*$
+  regex-prev: ^.*[^<>.ыэе][<>.]*$
   gramm: case_comp,prol
  -flex: .етӥ<.>
   gramm: case_comp,prol
@@ -301,7 +338,10 @@
   gramm: case_comp,poss_comp,egr
  -flex: .озяз<.>
   gramm: case_comp,poss_comp,term
- -flex: .этӥз<.>//.ытӥз<.>//.тӥз<.>
+ -flex: .этӥз<.>//.ытӥз<.>
+  gramm: case_comp,poss_comp,prol
+ -flex: .тӥз<.>
+  regex-prev: ^.*[^<>.ыэе][<>.]*$
   gramm: case_comp,poss_comp,prol
  -flex: .етӥз<.>
   gramm: case_comp,poss_comp,prol
@@ -355,7 +395,7 @@
  -flex: .ьзэ<.>//.ьсэ<.>
   gramm: case_comp,poss_comp,acc
  -flex: .еныз<.>
-  regex-prev: ^.*([^<>.с]|[^<>.ы][^<>.])[<>.]*$
+  regex-prev: ^.*([^<>.с]|[^<>.ыа][^<>.])[<>.]*$
   gramm: case_comp,poss_comp,ins
  -flex: .яз<.>
   regex-prev: ^.*[^<>.з][<>.]*$
@@ -410,17 +450,17 @@
   paradigm: Noun-case-compounding
  -flex: .я<.>//.ъя<.>
   gramm: adv
-  paradigm: Noun-case-compounding
+  paradigm: Comparative
  -flex: .ын<.>
   gramm: loc
-  paradigm: Comparative
+  paradigm: Noun-case-compounding
  -flex: .э<.>//.ы<.>
   gramm: ill
-  paradigm: Noun-case-compounding
+  paradigm: Comparative
  -flex: .е<.>
   gramm: ill
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
-  paradigm: Noun-case-compounding
+  paradigm: Comparative
  -flex: .ыс<.>
   gramm: el
   paradigm: Noun-case-compounding-soft
@@ -430,7 +470,11 @@
  -flex: .оз<.>
   gramm: term
   paradigm: Noun-case-compounding-soft
- -flex: .этӥ<.>//.ытӥ<.>//.тӥ<.>
+ -flex: .этӥ<.>
+  gramm: prol
+  regex-gramm: ^([^N]|N(?!UM)).*$
+  paradigm: Noun-case-compounding
+ -flex: .ытӥ<.>//.тӥ<.>
   gramm: prol
   paradigm: Noun-case-compounding
  -flex: .етӥ<.>
@@ -440,147 +484,207 @@
   paradigm: Noun-case-compounding
  -flex: .лан<.>
   gramm: app
-  paradigm: Noun-case-compounding
+  paradigm: Noun-case-compounding-soft
 
 -paradigm: Noun-case-pal
  -flex: .<.>
   gramm: nom
+  paradigm: Comparative
  -flex: .эз<.>//.ыз<.>
   gramm: acc
+  paradigm: Comparative
  -flex: .ты<.>
   gramm: acc
   regex-gramm: ^.*pl.*$
+  paradigm: Comparative
  -flex: .лэн<.>
   gramm: gen
- -flex: .лэсь<.>
+  paradigm: Noun-case-compounding
+ -flex: .лэс<.>
   gramm: abl
+  paradigm: Noun-case-compounding-soft
  -flex: .лы<.>
   gramm: dat
+  paradigm: Noun-case-compounding
  -flex: .эн<.>//.ын<.>
   gramm: ins
+  paradigm: Noun-case-compounding
  -flex: .тэк<.>
   gramm: car
+  paradigm: Noun-case-compounding
  -flex: .я<.>//.ъя<.>
   gramm: adv
+  paradigm: Comparative
  -flex: .ан<.>
   gramm: loc
+  paradigm: Noun-case-compounding
  -flex: .а<.>
   gramm: ill
- -flex: .ась<.>
+  paradigm: Comparative
+ -flex: .ас<.>
   gramm: el
+  paradigm: Noun-case-compounding-soft
  -flex: .асен<.>
   gramm: egr
- -flex: .озь<.>
+  paradigm: Noun-case-compounding
+ -flex: .оз<.>
   gramm: term
+  paradigm: Noun-case-compounding-soft
  -flex: .этӥ<.>//.ытӥ<.>//.тӥ<.>
   gramm: prol
- -flex: .лань<.>
+  paradigm: Noun-case-compounding
+ -flex: .лан<.>
   gramm: app
- paradigm: Comparative
+  paradigm: Noun-case-compounding-soft
 
 -paradigm: Noun-case-soft
  -flex: .ь<.>
   gramm: nom
+  paradigm: Comparative
  -flex: .ез<.>//.ьыз<.>
   gramm: acc
+  paradigm: Comparative
  -flex: .ьлэн<.>
   gramm: gen
- -flex: .ьлэсь<.>
+  paradigm: Noun-case-compounding
+ -flex: .ьлэс<.>
   gramm: abl
+  paradigm: Noun-case-compounding-soft
  -flex: .ьлы<.>
   gramm: dat
+  paradigm: Noun-case-compounding
  -flex: .ен<.>//.ьын<.>
   gramm: ins
+  paradigm: Noun-case-compounding
  -flex: .ьтэк<.>
   gramm: car
+  paradigm: Noun-case-compounding
  -flex: .ья<.>
   gramm: adv
+  paradigm: Comparative
  -flex: .ьын<.>
   gramm: loc
+  paradigm: Noun-case-compounding
  -flex: .е<.>//.ьы<.>
   gramm: ill
- -flex: .ьысь<.>
+  paradigm: Comparative
+ -flex: .ьыс<.>
   gramm: el
+  paradigm: Noun-case-compounding-soft
  -flex: .ьысен<.>
   gramm: egr
- -flex: .ёзь<.>
+  paradigm: Noun-case-compounding
+ -flex: .ёз<.>
   gramm: term
+  paradigm: Noun-case-compounding-soft
  -flex: .етӥ<.>//.ьытӥ<.>//.ьтӥ<.>
   gramm: prol
- -flex: .ьлань<.>
+  paradigm: Noun-case-compounding
+ -flex: .ьлан<.>
   gramm: app
- paradigm: Comparative
+  paradigm: Noun-case-compounding-soft
 
 -paradigm: Noun-case-j
  -flex: .й<.>
   gramm: nom
+  paradigm: Comparative
  -flex: .ез<.>//.йез<.>//.йыз<.>
   gramm: acc
+  paradigm: Comparative
  -flex: .йлэн<.>
   gramm: gen
- -flex: .йлэсь<.>
+  paradigm: Noun-case-compounding
+ -flex: .йлэс<.>
   gramm: abl
+  paradigm: Noun-case-compounding-soft
  -flex: .йлы<.>
   gramm: dat
+  paradigm: Noun-case-compounding
  -flex: .ен<.>//.йен<.>
   gramm: ins
+  paradigm: Noun-case-compounding
  -flex: .йтэк<.>
   gramm: car
+  paradigm: Noun-case-compounding
  -flex: .я<.>//.йя<.>
   gramm: adv
+  paradigm: Comparative
  -flex: .йын<.>
   gramm: loc
+  paradigm: Noun-case-compounding
  -flex: .е<.>//.йе<.>//.йы<.>
   gramm: ill
- -flex: .йысь<.>
+  paradigm: Comparative
+ -flex: .йыс<.>
   gramm: el
+  paradigm: Noun-case-compounding-soft
  -flex: .йысен<.>
   gramm: egr
- -flex: .ёзь<.>//.йёзь<.>
+  paradigm: Noun-case-compounding
+ -flex: .ёз<.>//.йёз<.>//.йоз<.>
   gramm: term
+  paradigm: Noun-case-compounding-soft
  -flex: .етӥ<.>//.йетӥ<.>//.йытӥ<.>//.йтӥ<.>
   gramm: prol
- -flex: .йлань<.>
+  paradigm: Noun-case-compounding
+ -flex: .йлан<.>
   gramm: app
+  paradigm: Noun-case-compounding-soft
 
 -paradigm: Noun-case-ija
  -flex: .я<.>//.<.>
   gramm: nom
- -flex: .ез<.>//.ыз<.>
+  paradigm: Comparative
+ -flex: .ез<.>
   gramm: acc
+  paradigm: Comparative
  -flex: .лэн<.>
   gramm: gen
- -flex: .лэсь<.>
+  paradigm: Noun-case-compounding
+ -flex: .лэс<.>
   gramm: abl
+  paradigm: Noun-case-compounding-soft
  -flex: .лы<.>
   gramm: dat
+  paradigm: Noun-case-compounding
  -flex: .ен<.>
   gramm: ins
+  paradigm: Noun-case-compounding
  -flex: .тэк<.>
   gramm: car
+  paradigm: Noun-case-compounding
  -flex: .яя<.>
   gramm: adv
+  paradigm: Comparative
  -flex: .ын<.>
   gramm: loc
- -flex: .е<.>//.ы<.>
+  paradigm: Noun-case-compounding
+ -flex: .е<.>
   gramm: ill
- -flex: .ысь<.>
+  paradigm: Comparative
+ -flex: .ыс<.>
   gramm: el
+  paradigm: Noun-case-compounding-soft
  -flex: .ысен<.>
   gramm: egr
- -flex: .ёзь<.>
+  paradigm: Noun-case-compounding
+ -flex: .ёз<.>
   gramm: term
+  paradigm: Noun-case-compounding-soft
  -flex: .етӥ<.>//.ытӥ<.>//.тӥ<.>
   gramm: prol
- -flex: .лань<.>
+  paradigm: Noun-case-compounding
+ -flex: .лан<.>
   gramm: app
- paradigm: Comparative
+  paradigm: Noun-case-compounding-soft
 
 -paradigm: Noun-case-ije
  -flex: .е<.>
   gramm: nom
- -flex: .ез<.>//.ыз<.>
+  paradigm: Comparative
+ -flex: .ез<.>
   gramm: acc
+  paradigm: Comparative
  -flex: .лэн<.>
   gramm: gen
  -flex: .лэсь<.>
@@ -591,12 +695,14 @@
   gramm: ins
  -flex: .тэк<.>
   gramm: car
- -flex: .яя<.>
+ -flex: .ея<.>//.я<.>
   gramm: adv
+  paradigm: Comparative
  -flex: .ын<.>
   gramm: loc
  -flex: .е<.>
   gramm: ill
+  paradigm: Comparative
  -flex: .ысь<.>
   gramm: el
  -flex: .ысен<.>
