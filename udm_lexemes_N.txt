@@ -46594,13 +46594,6 @@
  trans_ru: фракция
 
 -lexeme
- lex: мукетъёсыз
- stem: мукетъёсыз.
- gramm: N
- paradigm: Noun-num-consonant
- trans_ru: другие, иные, и другие
-
--lexeme
  lex: медработник
  stem: медработник.
  gramm: N
