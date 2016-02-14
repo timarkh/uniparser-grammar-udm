@@ -21544,7 +21544,7 @@
  lex: герой
  stem: геро.
  gramm: N
- paradigm: N-num-j
+ paradigm: Noun-num-j
  trans_ru: герой
 
 -lexeme
@@ -61082,5 +61082,4 @@
  gramm: N,topn
  paradigm: Noun-num-consonant
  trans_ru: Иднакар
-
 

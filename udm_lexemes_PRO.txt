@@ -508,28 +508,35 @@
  lex: мар
  stem: мар.
  gramm: PRO
- paradigm: Noun-num-consonant
+ paradigm: Noun-mar
  trans_ru: что
 
 -lexeme
- lex: номар
- stem: номар.
+ lex: номыре
+ stem: номыр.
  gramm: PRO
- paradigm: Noun-num-consonant
+ paradigm: Noun-mar
  trans_ru: ничто
 
 -lexeme
  lex: котьмар
  stem: котьмар.
  gramm: PRO
- paradigm: Noun-num-consonant
+ paradigm: Noun-mar
+ trans_ru: что угодно
+
+-lexeme
+ lex: котьма
+ stem: котьма.
+ gramm: PRO
+ paradigm: Noun-mar
  trans_ru: что угодно
 
 -lexeme
  lex: оломар
  stem: оломар.
  gramm: PRO
- paradigm: Noun-num-consonant
+ paradigm: Noun-mar
  trans_ru: что-то
 
 -lexeme
