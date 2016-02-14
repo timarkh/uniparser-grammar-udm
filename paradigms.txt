@@ -58,6 +58,15 @@
  paradigm: Adjectives_Sg_intens
  paradigm: Comparative
 
+-paradigm: connect_adjectives-soft
+ -flex: .ь<.>
+  gramm:
+  paradigm: Comparative
+ -flex: .<.>
+  gramm:
+  paradigm: Adjectives_Pl-soft
+  paradigm: Adjectives_Sg_intens-soft
+
 -paradigm: connect_adverbs
  -flex: .<.>
   gram:
@@ -1717,10 +1726,40 @@
 
 
 -paradigm: Adjectives_Pl
- -flex: .есь<.>//.ъёс<.>//.ёс<.>//.ьёс<.>
+ -flex: .эсь<.>
   gramm: pl
- paradigm: Adjectives_Pl_intens
- paradigm: Comparative
+  paradigm: Comparative
+ -flex: .есь<.>
+  gramm: pl
+  paradigm: Comparative
+ -flex: .ос<.>
+  gramm: pl
+  regex-prev: ^.*[аеёиӥоӧуыэюя][.<>]*$
+  paradigm: Adjectives_Pl_intens
+  paradigm: Comparative
+ -flex: .ъёс<.>
+  gramm: pl
+  regex-prev: ^.*[^аеёиӥоӧуыэюяйьъ.<>][.<>]*$
+  paradigm: Adjectives_Pl_intens
+  paradigm: Comparative
+ -flex: .ёс<.>
+  gramm: pl
+  regex-prev: ^.*[йьъ][.<>]*$
+  paradigm: Adjectives_Pl_intens
+  paradigm: Comparative
+ -flex: .ъёс<.>//.ёс<.>
+  gramm: pl
+  paradigm: Adjectives_Pl_intens
+  paradigm: Comparative
+
+-paradigm: Adjectives_Pl-soft
+ -flex: .есь<.>
+  gramm: pl
+  paradigm: Comparative
+ -flex: .ьёс<.>
+  gramm: pl
+  paradigm: Adjectives_Pl_intens
+  paradigm: Comparative
 
 
 -paradigm: Adjectives_Pl_intens
@@ -1758,12 +1797,10 @@
   gramm: app,intensifier
 
 -paradigm: Adjectives_Sg_intens
- -flex: .<.>
-  gramm:
  -flex: .ез<.>
   gramm: nom,intensifier
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
- -flex: .зэ<.>//.ьзэ<.>//.сэ<.>//.ьсэ<.>
+ -flex: .зэ<.>//.сэ<.>
   gramm: acc,intensifier
  -flex: .езлэн<.>
   gramm: gen,intensifier
@@ -1783,20 +1820,20 @@
  -flex: .еныз<.>
   gramm: ins,intensifier
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
- -flex: .аз<.>//.яз<.>
+ -flex: .аз<.>
   gramm: loc,intensifier
- -flex: .аз<.>//.яз<.>
+ -flex: .аз<.>
   gramm: ill,intensifier
- -flex: .ысьтыз<.>//.ьысьтыз<.>
+ -flex: .ысьтыз<.>
   gramm: el,intensifier
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
- -flex: .ысеныз<.>//.ьысеныз<.>
+ -flex: .ысеныз<.>
   gramm: egr,intensifier
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
  -flex: .етӥз<.>
   gramm: prol,intensifier
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
- -flex: .озяз<.>//.ёзяз<.>
+ -flex: .озяз<.>
   gramm: term,intensifier
  -flex: .езлань<.>
   gramm: app,intensifier
@@ -1820,6 +1857,40 @@
  -flex: .эзлань<.>
   gramm: app,intensifier
  paradigm: Comparative
+
+-paradigm: Adjectives_Sg_intens-soft
+ -flex: .ез<.>
+  gramm: nom,intensifier
+ -flex: .ьзэ<.>//.ьсэ<.>
+  gramm: acc,intensifier
+ -flex: .езлэн<.>
+  gramm: gen,intensifier
+ -flex: .езлэсь<.>
+  gramm: abl,intensifier
+ -flex: .езлы<.>
+  gramm: dat,intensifier
+ -flex: .езтэк<.>
+  gramm: car,intensifier
+ -flex: .езъя<.>
+  gramm: adv,intensifier
+ -flex: .еныз<.>
+  gramm: ins,intensifier
+ -flex: .яз<.>
+  gramm: loc,intensifier
+ -flex: .яз<.>
+  gramm: ill,intensifier
+ -flex: .ьысьтыз<.>
+  gramm: el,intensifier
+ -flex: .ьысеныз<.>
+  gramm: egr,intensifier
+ -flex: .етӥз<.>
+  gramm: prol,intensifier
+ -flex: .ёзяз<.>
+  gramm: term,intensifier
+ -flex: .езлань<.>
+  gramm: app,intensifier
+ paradigm: Comparative
+
 
 -paradigm: Comparative
  -flex: .гес//.гем

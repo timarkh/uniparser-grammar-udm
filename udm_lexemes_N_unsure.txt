@@ -12063,7 +12063,14 @@
  stem: ожлуд.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: ожбусы поле битвы, сражения
+ trans_ru: поле битвы, сражения
+
+-lexeme
+ lex: ожбусы
+ stem: ожбусы.
+ gramm: N
+ paradigm: Noun-num-vowel
+ trans_ru: поле битвы, сражения
 
 -lexeme
  lex: лӧж-лӧж
@@ -24702,7 +24709,7 @@
  stem: шыд-нян.
  gramm: N
  paradigm: Noun-num-soft
- trans_ru: собир. еда, хлеб-соль, шыд-нянен пумитаны встретить с хлебом-солью
+ trans_ru: собир. еда, хлеб-соль
 
 -lexeme
  lex: лулмугор

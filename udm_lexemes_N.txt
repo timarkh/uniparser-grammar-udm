@@ -4274,7 +4274,7 @@
  stem: чебера.
  gramm: N
  paradigm: Noun-num-vowel
- trans_ru: красавица? Чебераез кылзыса
+ trans_ru: красавица
 
 -lexeme
  lex: авар
@@ -10756,14 +10756,14 @@
  stem: мес.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: самка, ош-а, мес-а? бычок или самка?
+ trans_ru: самка
 
 -lexeme
  lex: гырлы
  stem: гырлы.
  gramm: N
  paradigm: Noun-num-vowel
- trans_ru: колокол, колокольчик, кутас, обл.
+ trans_ru: колокол, колокольчик
 
 -lexeme
  lex: закуска
@@ -18318,7 +18318,7 @@
  stem: мелоч.
  gramm: N
  paradigm: Noun-num-soft
- trans_ru: мелкие деньги, мелочь, мелочьты вань-а? есть ли [у вас] мелочь?
+ trans_ru: мелкие деньги, мелочь
 
 -lexeme
  lex: деликатес
@@ -23694,7 +23694,7 @@
  stem: векчибыж.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: копчик ???
+ trans_ru: копчик
 
 -lexeme
  lex: инженер
@@ -23708,7 +23708,7 @@
  stem: асаран.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: ребенок?
+ trans_ru: ребенок
 
 -lexeme
  lex: электромеханика
@@ -24555,7 +24555,7 @@
  stem: инӟарекъян.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: зарница? Сайказ, лэся
+ trans_ru: зарница
 
 -lexeme
  lex: киросапай
@@ -27509,14 +27509,14 @@
  stem: ӟоскытлык.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: теснота, необходимость, нищета, нужда, узость?
+ trans_ru: теснота, нищета, нужда
 
 -lexeme
  lex: зӥбытлык
  stem: зӥбытлык.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: сдержанность, скромность, кротость, спокойствие
+ trans_ru: скромность
 
 -lexeme
  lex: кӧтгогы
@@ -32192,7 +32192,7 @@
  stem: дуннебытмон.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: конец мира ?
+ trans_ru: конец мира
 
 -lexeme
  lex: лагырчи
@@ -35475,7 +35475,7 @@
  stem: чуслык.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: тишина кытчы мыном, кытысь шедьтом чуслык?
+ trans_ru: тишина
 
 -lexeme
  lex: кулачество
@@ -40004,7 +40004,7 @@
  stem: инмаркариськон.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: обожествление, богоподобность?
+ trans_ru: обожествление
 
 -lexeme
  lex: кылыськыл
@@ -47032,7 +47032,7 @@
  stem: шордунне.
  gramm: N
  paradigm: Noun-num-vowel
- trans_ru: 1. средние планеты, ? 2. средний мир
+ trans_ru: 1. средние планеты 2. средний мир
 
 -lexeme
  lex: шарака
@@ -48733,7 +48733,7 @@
  stem: нимазлык.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: отдельность, суверенитет?
+ trans_ru: отдельность, суверенитет
 
 -lexeme
  lex: чуваш
@@ -51393,7 +51393,7 @@
  stem: зоргур.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: мелодия дождя?, мажор
+ trans_ru: мелодия дождя, мажор
 
 -lexeme
  lex: дуст
@@ -53437,7 +53437,7 @@
  stem: возьытлык.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: скромность, стеснительность ?
+ trans_ru: скромность, стеснительность
 
 -lexeme
  lex: графит
@@ -53955,7 +53955,7 @@
  stem: визьнодас.
  gramm: N
  paradigm: Noun-num-soft
- trans_ru: наставник?
+ trans_ru: наставник
 
 -lexeme
  lex: обой
@@ -54819,11 +54819,11 @@
  trans_ru: кафетерий
 
 -lexeme
- lex: ?кылтус
- stem: ?кылтус.
+ lex: кылтус
+ stem: кылтус.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: определение см. тодметъёз, тодмоскыл
+ trans_ru: определение
 
 -lexeme
  lex: азьмынӥсь
@@ -56699,7 +56699,7 @@
  stem: дуннетӧро.
  gramm: N
  paradigm: Noun-num-vowel
- trans_ru: владыкамира?
+ trans_ru: владыка мира
 
 -lexeme
  lex: бодыбикрангы
@@ -57168,7 +57168,7 @@
  stem: серемпыр.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: анекдот?
+ trans_ru: анекдот
 
 -lexeme
  lex: лошъян
@@ -61082,4 +61082,389 @@
  gramm: N,topn
  paradigm: Noun-num-consonant
  trans_ru: Иднакар
+
+-lexeme
+ lex: сбор
+ stem: сбор.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: сбор
+
+-lexeme
+ lex: кавалерия
+ stem: кавалери.
+ gramm: N
+ paradigm: Noun-num-ija
+ trans_ru: кавалерия
+
+-lexeme
+ lex: кынвӧй
+ stem: кынвӧ.
+ gramm: N
+ paradigm: Noun-num-j
+ trans_ru: топлёное сало
+
+-lexeme
+ lex: провокация
+ stem: провокаци.
+ gramm: N
+ paradigm: Noun-num-ija
+ trans_ru: провокация
+
+-lexeme
+ lex: йыринмар
+ stem: йыринмар.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: верховный бог
+
+-lexeme
+ lex: лаборатория
+ stem: лаборатори.
+ gramm: N
+ paradigm: Noun-num-ija
+ trans_ru: лаборатория
+
+-lexeme
+ lex: паспорт
+ stem: паспорт.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: паспорт
+
+-lexeme
+ lex: произведение
+ stem: произведени.
+ gramm: N
+ paradigm: Noun-num-ije
+ trans_ru: произведение
+
+-lexeme
+ lex: плантация
+ stem: плантаци.
+ gramm: N
+ paradigm: Noun-num-ija
+ trans_ru: плантация
+
+-lexeme
+ lex: авиация
+ stem: авиаци.
+ gramm: N
+ paradigm: Noun-num-ija
+ trans_ru: авиация
+
+-lexeme
+ lex: семинария
+ stem: семинари.
+ gramm: N
+ paradigm: Noun-num-ija
+ trans_ru: семинария
+
+-lexeme
+ lex: реакция
+ stem: реакци.
+ gramm: N
+ paradigm: Noun-num-ija
+ trans_ru: реакция
+
+-lexeme
+ lex: вачыл
+ stem: вачыл.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: рой
+
+-lexeme
+ lex: сессия
+ stem: сесси.
+ gramm: N
+ paradigm: Noun-num-ija
+ trans_ru: сессия
+
+-lexeme
+ lex: мифология
+ stem: мифологи.
+ gramm: N
+ paradigm: Noun-num-ija
+ trans_ru: мифология
+
+-lexeme
+ lex: комиссия
+ stem: комисси.
+ gramm: N
+ paradigm: Noun-num-ija
+ trans_ru: комиссия
+
+-lexeme
+ lex: подъёмник
+ stem: подъёмник.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: подъёмник
+
+-lexeme
+ lex: надстройка
+ stem: надстройка.
+ gramm: N
+ paradigm: Noun-num-vowel
+ trans_ru: надстройка
+
+-lexeme
+ lex: колодник
+ stem: колодник.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: пленный, заключенный, арестант
+
+-lexeme
+ lex: конференция
+ stem: конференци.
+ gramm: N
+ paradigm: Noun-num-ija
+ trans_ru: конференция
+
+-lexeme
+ lex: цивилизация
+ stem: цивилизаци.
+ gramm: N
+ paradigm: Noun-num-ija
+ trans_ru: цивилизация
+
+-lexeme
+ lex: национализация
+ stem: национализаци.
+ gramm: N
+ paradigm: Noun-num-ija
+ trans_ru: национализация
+
+-lexeme
+ lex: люктанни
+ stem: люктанни.
+ gramm: N
+ paradigm: Noun-num-vowel
+ trans_ru: водопой
+
+-lexeme
+ lex: революция
+ stem: революци.
+ gramm: N
+ paradigm: Noun-num-ija
+ trans_ru: революция
+
+-lexeme
+ lex: ожотурын
+ stem: ожотурын.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: горец птичий
+
+-lexeme
+ lex: кооперация
+ stem: коопераци.
+ gramm: N
+ paradigm: Noun-num-ija
+ trans_ru: кооперация
+
+-lexeme
+ lex: металлургия
+ stem: металлурги.
+ gramm: N
+ paradigm: Noun-num-ija
+ trans_ru: металлургия
+
+-lexeme
+ lex: формация
+ stem: формаци.
+ gramm: N
+ paradigm: Noun-num-ija
+ trans_ru: формация
+
+-lexeme
+ lex: бечей
+ stem: бече.
+ gramm: N
+ paradigm: Noun-num-j
+ trans_ru: 1. старший брат 2. дядя 3. дедушка
+
+-lexeme
+ lex: обсерватория
+ stem: обсерватори.
+ gramm: N
+ paradigm: Noun-num-ija
+ trans_ru: обсерватория
+
+-lexeme
+ lex: накопление
+ stem: накоплени.
+ gramm: N
+ paradigm: Noun-num-ije
+ trans_ru: накопление
+
+-lexeme
+ lex: правосудие
+ stem: правосуди.
+ gramm: N
+ paradigm: Noun-num-ije
+ trans_ru: правосудие
+
+-lexeme
+ lex: воспитание
+ stem: воспитани.
+ gramm: N
+ paradigm: Noun-num-ije
+ trans_ru: воспитание
+
+-lexeme
+ lex: обследование
+ stem: обследовани.
+ gramm: N
+ paradigm: Noun-num-ije
+ trans_ru: обследование
+
+-lexeme
+ lex: тӧдьыгырлы
+ stem: тӧдьыгырлы.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: ландыш майский
+
+-lexeme
+ lex: заведение
+ stem: заведени.
+ gramm: N
+ paradigm: Noun-num-ije
+ trans_ru: заведение
+
+-lexeme
+ lex: образование
+ stem: образовани.
+ gramm: N
+ paradigm: Noun-num-ije
+ trans_ru: образование
+
+-lexeme
+ lex: наследие
+ stem: наследи.
+ gramm: N
+ paradigm: Noun-num-ije
+ trans_ru: наследие
+
+-lexeme
+ lex: могдос
+ stem: могдос.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: выдумка людей, не имеющая реальной основы
+
+-lexeme
+ lex: рекорд
+ stem: рекорд.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: рекорд
+
+-lexeme
+ lex: нюнюзы
+ stem: нюнюзы.
+ gramm: N
+ paradigm: Noun-num-vowel
+ trans_ru: старший деверь
+
+-lexeme
+ lex: нюнязы
+ stem: нюнязы.
+ gramm: N
+ paradigm: Noun-num-vowel
+ trans_ru: старший деверь
+
+-lexeme
+ lex: понятие
+ stem: поняти.
+ gramm: N
+ paradigm: Noun-num-ije
+ trans_ru: понятие
+
+-lexeme
+ lex: ополчение
+ stem: ополчени.
+ gramm: N
+ paradigm: Noun-num-ije
+ trans_ru: ополчение
+
+-lexeme
+ lex: взыскание
+ stem: взыскани.
+ gramm: N
+ paradigm: Noun-num-ije
+ trans_ru: взыскание
+
+-lexeme
+ lex: обеспечение
+ stem: обеспечени.
+ gramm: N
+ paradigm: Noun-num-ije
+ trans_ru: обеспечение
+
+-lexeme
+ lex: икем
+ stem: икем.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: сушильный сарай, сноповязальная сушилка, овин
+
+-lexeme
+ lex: власть
+ stem: власт.
+ gramm: N
+ paradigm: Noun-num-soft
+ trans_ru: власть
+
+-lexeme
+ lex: питание
+ stem: питани.
+ gramm: N
+ paradigm: Noun-num-ije
+ trans_ru: питание
+
+-lexeme
+ lex: предприятие
+ stem: предприяти.
+ gramm: N
+ paradigm: Noun-num-ije
+ trans_ru: предприятие
+
+-lexeme
+ lex: поощрение
+ stem: поощрени.
+ gramm: N
+ paradigm: Noun-num-ije
+ trans_ru: поощрение
+
+-lexeme
+ lex: открытие
+ stem: открыти.
+ gramm: N
+ paradigm: Noun-num-ije
+ trans_ru: открытие
+
+-lexeme
+ lex: основание
+ stem: основани.
+ gramm: N
+ paradigm: Noun-num-ije
+ trans_ru: основание
+
+-lexeme
+ lex: обслуживание
+ stem: обслуживани.
+ gramm: N
+ paradigm: Noun-num-ije
+ trans_ru: обслуживание
+
+-lexeme
+ lex: пеӵкезь
+ stem: пеӵкез.
+ gramm: N
+ paradigm: Noun-num-soft
+ trans_ru: густой лес, состоящий из молодых невысоких деревьев разных пород
 
