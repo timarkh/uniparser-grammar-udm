@@ -7991,7 +7991,7 @@
  stem: люкаськис.
  gramm: ADJ
  paradigm: connect_adjectives-soft
- trans_ru: накопительный егитъёслы луонлык кылдэ пенсизылэсь люкаськись люкетсэ йылэтыны, пенсие потыны дасяськисьёс ыштонъёс уз адзе пенсизылэн быдзалаезъя, нош ужась пенсионеръёслэн пенсизы будоз
+ trans_ru: накопительный
 
 -lexeme
  lex: станок
@@ -14185,7 +14185,7 @@
  lex: кузь
  stem: куз.
  gramm: ADJ
- paradigm: connect_adjectives
+ paradigm: connect_adjectives-soft
  trans_ru: длинный
 
 -lexeme

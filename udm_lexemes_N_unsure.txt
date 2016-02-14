@@ -125,13 +125,6 @@
  trans_ru: 1. свербига восточная, 2. багульник болотный
 
 -lexeme
- lex: гудӟыныкопнуть
- stem: гудӟыныкопнуть.
- gramm: 
- paradigm: Noun-num-consonant
- trans_ru: вырыть, рыть
-
--lexeme
  lex: конус
  stem: конус.
  gramm: N
@@ -3246,7 +3239,7 @@
  stem: пиштос.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: светило Дырпус – дырлэсь кузь вакытъёссэ лыдъян-чотан сӧзнэт
+ trans_ru: светило
 
 -lexeme
  lex: кырськур

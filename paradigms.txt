@@ -67,6 +67,53 @@
   paradigm: Adjectives_Pl-soft
   paradigm: Adjectives_Sg_intens-soft
 
+-paradigm: connect_num
+ -flex: .<.>
+  gramm:
+  paradigm: Noun-case
+  paradigm: Adjectives_Sg_intens
+  paradigm: Comparative
+ -flex: .етӥ<.>
+  gramm: ord
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  paradigm: Adjectives_Sg_intens
+  paradigm: Comparative
+ -flex: .этӥ<.>
+  gramm: ord
+  paradigm: Adjectives_Sg_intens
+  paradigm: Comparative
+ -flex: .на<.>
+  gramm: coll
+  paradigm: Noun-case-poss-1,sg
+  paradigm: Noun-case-poss-2,sg
+  paradigm: Noun-case-poss-3,sg
+  paradigm: Noun-case-poss-1,pl
+  paradigm: Noun-case-poss-2,pl
+  paradigm: Noun-case-poss-3,pl
+  paradigm: Comparative
+
+-paradigm: connect_num-soft
+ -flex: .<.>
+  gramm:
+  paradigm: Noun-case-soft
+  paradigm: Adjectives_Sg_intens-soft
+ -flex: .ь<.>
+  gramm:
+  paradigm: Comparative
+ -flex: .етӥ<.>
+  gramm: ord
+  paradigm: Adjectives_Sg_intens
+  paradigm: Comparative
+ -flex: .ьна<.>
+  gramm: coll
+  paradigm: Noun-case-poss-1,sg
+  paradigm: Noun-case-poss-2,sg
+  paradigm: Noun-case-poss-3,sg
+  paradigm: Noun-case-poss-1,pl
+  paradigm: Noun-case-poss-2,pl
+  paradigm: Noun-case-poss-3,pl
+  paradigm: Comparative
+
 -paradigm: connect_adverbs
  -flex: .<.>
   gram:
@@ -446,6 +493,7 @@
 -paradigm: Noun-case
  -flex: .<.>
   gramm: nom
+  regex-gramm: ^((?<!NUM).)*$
   paradigm: Comparative
  -flex: .эз<.>//.ыз<.>
   gramm: acc
@@ -608,6 +656,7 @@
 -paradigm: Noun-case-soft
  -flex: .ь<.>
   gramm: nom
+  regex-gramm: ^((?<!NUM).)*$
   paradigm: Comparative
  -flex: .ез<.>//.ьыз<.>
   gramm: acc

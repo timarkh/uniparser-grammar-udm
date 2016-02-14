@@ -561,6 +561,13 @@
  trans_ru: сколько угодно
 
 -lexeme
+ lex: сомында
+ stem: сомында.
+ gramm: PRO
+ paradigm: Empty
+ trans_ru: столько
+
+-lexeme
  lex: малы
  stem: малы.
  gramm: PRO
@@ -686,6 +693,27 @@
  gramm: PRO,ill
  paradigm: Empty
  trans_ru: сюда
+
+-lexeme
+ lex: кытчы
+ stem: кытчы.
+ gramm: PRO,ill
+ paradigm: Empty
+ trans_ru: куда
+
+-lexeme
+ lex: котькытчы
+ stem: котькытчы.
+ gramm: PRO,ill
+ paradigm: Empty
+ trans_ru: куда угодно
+
+-lexeme
+ lex: олокытчы
+ stem: олокытчы.
+ gramm: PRO,ill
+ paradigm: Empty
+ trans_ru: куда-то
 
 
 -lexeme
