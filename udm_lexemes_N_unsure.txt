@@ -9350,13 +9350,6 @@
  trans_ru: 1. помощь, поддержка, выручка 2. вклад, содействие 3. обслуживание
 
 -lexeme
- lex: ог-огмы
- stem: ог-огмы.
- gramm: N
- paradigm: Noun-num-vowel
- trans_ru: 1. [мы] друг друга 2. некоторые из нас
-
--lexeme
  lex: пукыли
  stem: пукыли.
  gramm: N
@@ -14266,13 +14259,6 @@
  trans_ru: шум, гул
 
 -lexeme
- lex: кия
- stem: ки.
- gramm: N
- paradigm: Noun-num-ija
- trans_ru: по душе
-
--lexeme
  lex: кунпус
  stem: кунпус.
  gramm: N
@@ -14312,7 +14298,14 @@
  stem: ӧчорос.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: очорос нижненыл. теплое вино
+ trans_ru: нижненыл. теплое вино
+
+-lexeme
+ lex: очорос
+ stem: очорос.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: нижненыл. теплое вино
 
 -lexeme
  lex: палдон
@@ -14326,7 +14319,14 @@
  stem: ӟук.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: ӟуг пю., обоз
+ trans_ru: пю. обоз
+
+-lexeme
+ lex: ӟуг
+ stem: ӟуг.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: пю. обоз
 
 -lexeme
  lex: тесьма
@@ -14354,7 +14354,14 @@
  stem: жобвисён.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: уродвисён  сифилис
+ trans_ru: сифилис
+
+-lexeme
+ lex: уродвисён
+ stem: уродвисён.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: сифилис
 
 -lexeme
  lex: серекъян
@@ -14368,7 +14375,14 @@
  stem: кылгожтон.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: кылсётон интервью
+ trans_ru: интервью
+
+-lexeme
+ lex: кылсётон
+ stem: кылсётон.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: интервью
 
 -lexeme
  lex: продразвёрстка
@@ -14396,7 +14410,14 @@
  stem: кыркеч.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: кеч луд кеч заяц
+ trans_ru: заяц
+
+-lexeme
+ lex: кеч
+ stem: кеч.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: коза; заяц (луд кеч)
 
 -lexeme
  lex: лем
@@ -14452,7 +14473,14 @@
  stem: нимгур.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: дангур гимн
+ trans_ru: гимн
+
+-lexeme
+ lex: дангур
+ stem: дангур.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: гимн
 
 -lexeme
  lex: чибык
@@ -14502,20 +14530,6 @@
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: группа
-
--lexeme
- lex: незнай
- stem: незна.
- gramm: N
- paradigm: Noun-num-j
- trans_ru: не знаю, неизвестно как
-
--lexeme
- lex: гетын(ы
- stem: гетын(ы.
- gramm: N
- paradigm: Noun-num-vowel
- trans_ru: говорить, поговаривать
 
 -lexeme
  lex: атау
@@ -14984,7 +14998,7 @@
  stem: кивалтэт.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru:  правительство, исполком, Удмурт Элькунысь Кивалтэт Правительство Удмуртской Республики
+ trans_ru: правительство, исполком
 
 -lexeme
  lex: шалькка
@@ -15013,13 +15027,6 @@
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: 1. звукоподр. глухому стуку, топоту ног, цоканью копыт топ-топ 2. наречно-изобр. сл.
-
--lexeme
- lex: мыскылляныиздеваться
- stem: мыскылляныиздеваться.
- gramm: N
- paradigm: Noun-num-vowel
- trans_ru: насмехаться, оскорблять, унижать, надругаться 2. насиловать, изнасиловать
 
 -lexeme
  lex: жюри
@@ -15106,8 +15113,8 @@
  trans_ru: 1. пятно, пятнышко, крапинка
 
 -lexeme
- lex: чумор!
- stem: чумор!.
+ lex: чумор
+ stem: чумор.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: чумор-чумор! призывание, принуждение коня выпить воду
@@ -15201,14 +15208,7 @@
  stem: ӵукмунчо.
  gramm: N
  paradigm: Noun-num-vowel
- trans_ru: устар. религ. канун страстного четверга
-
--lexeme
- lex: огнамы
- stem: огнамы.
- gramm: N
- paradigm: Noun-num-vowel
- trans_ru: [мы] одни
+ trans_ru: канун страстного четверга
 
 -lexeme
  lex: жон
@@ -15286,13 +15286,6 @@
  gramm: N
  paradigm: Noun-num-soft
  trans_ru: 1, хлеба
-
--lexeme
- lex: ог-огды
- stem: ог-огды.
- gramm: N
- paradigm: Noun-num-vowel
- trans_ru: 1. [вы] друг друга 2. некоторые из вас, ог-огдэс чаклалэ берегите друг друга
 
 -lexeme
  lex: чортэм
@@ -24157,13 +24150,6 @@
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: [за] один год
-
--lexeme
- lex: ог-огзы
- stem: ог-огзы.
- gramm: N
- paradigm: Noun-num-vowel
- trans_ru: 1. друг друга 
 
 -lexeme
  lex: кортдэрем

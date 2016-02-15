@@ -16,14 +16,14 @@
  lex: мон
  stem: мынам.
  gramm: PRO,gen,sg
- paradigm: Empty
+ paradigm: Noun-case-compounding
  trans_ru: я
 
 -lexeme
  lex: мон
  stem: мынэсьтым.
  gramm: PRO,abl,sg
- paradigm: Empty
+ paradigm: Noun-case-compounding
  trans_ru: я
 
 -lexeme
@@ -86,14 +86,14 @@
  lex: ми
  stem: милям.
  gramm: PRO,gen,pl
- paradigm: Empty
+ paradigm: Noun-case-compounding
  trans_ru: мы
 
 -lexeme
  lex: ми
  stem: милесьтым.
  gramm: PRO,abl,pl
- paradigm: Empty
+ paradigm: Noun-case-compounding
  trans_ru: мы
 
 -lexeme
@@ -163,14 +163,14 @@
  lex: тон
  stem: тынад.
  gramm: PRO,gen,sg
- paradigm: Empty
+ paradigm: Noun-case-compounding
  trans_ru: ты
 
 -lexeme
  lex: тон
  stem: тынэсьтыд.
  gramm: PRO,abl,sg
- paradigm: Empty
+ paradigm: Noun-case-compounding
  trans_ru: ты
 
 -lexeme
@@ -203,7 +203,7 @@
 
 -lexeme
  lex: тон
- stem: толань.
+ stem: тонлань.
  gramm: PRO,app,sg
  paradigm: Empty
  trans_ru: ты
@@ -233,14 +233,14 @@
  lex: тӥ
  stem: тӥляд.
  gramm: PRO,gen,pl
- paradigm: Empty
+ paradigm: Noun-case-compounding
  trans_ru: вы
 
 -lexeme
  lex: тӥ
  stem: тӥлесьтыд.
  gramm: PRO,abl,pl
- paradigm: Empty
+ paradigm: Noun-case-compounding
  trans_ru: вы
 
 -lexeme
@@ -295,141 +295,8 @@
 -lexeme
  lex: со
  stem: со.
- gramm: PRO,nom,sg
- paradigm: Empty
- trans_ru: он/она/оно
-
--lexeme
- lex: со
- stem: сое.
- gramm: PRO,acc,sg
- paradigm: Empty
- trans_ru: он/она/оно
-
--lexeme
- lex: со
- stem: солэн.
- gramm: PRO,gen,sg
- paradigm: Empty
- trans_ru: он/она/оно
-
--lexeme
- lex: со
- stem: солэсь.
- gramm: PRO,abl,sg
- paradigm: Empty
- trans_ru: он/она/оно
-
--lexeme
- lex: со
- stem: солы.
- gramm: PRO,dat,sg
- paradigm: Empty
- trans_ru: он/она/оно
-
--lexeme
- lex: со
- stem: сотэк.
- gramm: PRO,car,sg
- paradigm: Empty
- trans_ru: он/она/оно
-
--lexeme
- lex: со
- stem: соя.
- gramm: PRO,adv,sg
- paradigm: Empty
- trans_ru: он/она/оно
-
--lexeme
- lex: со
- stem: соин.
- gramm: PRO,ins,sg
- paradigm: Empty
- trans_ru: он/она/оно
-
--lexeme
- lex: со
- stem: солань.
- gramm: PRO,app,sg
- paradigm: Empty
- trans_ru: он/она/оно
-
--lexeme
- lex: со
- stem: соос.
- gramm: PRO,nom,pl
- paradigm: Empty
- trans_ru: они
-
--lexeme
- lex: со
- stem: соосыз.
- gramm: PRO,acc,pl
- paradigm: Empty
- trans_ru: они
-
--lexeme
- lex: со
- stem: соосты.
- gramm: PRO,acc,pl
- paradigm: Empty
- trans_ru: они
-
--lexeme
- lex: со
- stem: соослэн.
- gramm: PRO,gen,pl
- paradigm: Empty
- trans_ru: они
-
--lexeme
- lex: со
- stem: соослэсь.
- gramm: PRO,abl,pl
- paradigm: Empty
- trans_ru: они
-
--lexeme
- lex: со
- stem: соослы.
- gramm: PRO,dat,pl
- paradigm: Empty
- trans_ru: они
-
--lexeme
- lex: со
- stem: соостэк.
- gramm: PRO,car,pl
- paradigm: Empty
- trans_ru: они
-
--lexeme
- lex: со
- stem: соосъя.
- gramm: PRO,adv,pl
- paradigm: Empty
- trans_ru: они
-
--lexeme
- lex: со
- stem: соосын.
- gramm: PRO,ins,pl
- paradigm: Empty
- trans_ru: они
-
--lexeme
- lex: со
- stem: соослань.
- gramm: PRO,app,pl
- paradigm: Empty
- trans_ru: они
-
--lexeme
- lex: со
- stem: соиз.
- gramm: PRO,3sg
- paradigm: Noun-case
+ gramm: PRO
+ paradigm: Noun-mar
  trans_ru: он/она/оно
 
 -lexeme
@@ -714,7 +581,6 @@
  gramm: PRO,ill
  paradigm: Empty
  trans_ru: куда-то
-
 
 -lexeme
  lex: отын
@@ -1075,3 +941,10 @@
  gramm: PRO,2pl,dat
  paradigm: Empty
  trans_ru: сам, свой
+
+-lexeme
+ lex: ог-огзы
+ stem: ог-ог.
+ gramm: PRO
+ paradigm: Noun-num-consonant
+ trans_ru: друг друга

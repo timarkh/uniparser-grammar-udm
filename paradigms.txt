@@ -82,6 +82,26 @@
   gramm: ord
   paradigm: Adjectives_Sg_intens
   paradigm: Comparative
+ -flex: .ос<.>
+  regex-prev: ^.*[аеёиӥоӧуыэюя][<>.]*$
+  gramm: pl
+  paradigm: Noun-case
+  paradigm: Noun-case-poss-1,sg
+  paradigm: Noun-case-poss-2,sg
+  paradigm: Noun-case-poss-3,sg
+  paradigm: Noun-case-poss-1,pl
+  paradigm: Noun-case-poss-2,pl
+  paradigm: Noun-case-poss-3,pl
+ -flex: .ъёс<.>
+  regex-prev: ^.*[^аеёиӥоӧуыэюя<>.][<>.]*$
+  gramm: pl
+  paradigm: Noun-case
+  paradigm: Noun-case-poss-1,sg
+  paradigm: Noun-case-poss-2,sg
+  paradigm: Noun-case-poss-3,sg
+  paradigm: Noun-case-poss-1,pl
+  paradigm: Noun-case-poss-2,pl
+  paradigm: Noun-case-poss-3,pl
  -flex: .на<.>
   gramm: coll
   paradigm: Noun-case-poss-1,sg
@@ -104,6 +124,15 @@
   gramm: ord
   paradigm: Adjectives_Sg_intens
   paradigm: Comparative
+ -flex: .ьёс<.>
+  gramm: pl
+  paradigm: Noun-case
+  paradigm: Noun-case-poss-1,sg
+  paradigm: Noun-case-poss-2,sg
+  paradigm: Noun-case-poss-3,sg
+  paradigm: Noun-case-poss-1,pl
+  paradigm: Noun-case-poss-2,pl
+  paradigm: Noun-case-poss-3,pl
  -flex: .ьна<.>
   gramm: coll
   paradigm: Noun-case-poss-1,sg
@@ -184,6 +213,17 @@
   paradigm: Noun-case-poss-3,pl
  -flex: .ъёс<.>
   gramm: pl
+  regex-prev: ^.*[^аеёиӥоӧуыэюя<>.][<>.]*$
+  paradigm: Noun-case
+  paradigm: Noun-case-poss-1,sg
+  paradigm: Noun-case-poss-2,sg
+  paradigm: Noun-case-poss-3,sg
+  paradigm: Noun-case-poss-1,pl
+  paradigm: Noun-case-poss-2,pl
+  paradigm: Noun-case-poss-3,pl
+ -flex: .ос<.>
+  gramm: pl
+  regex-prev: ^.*[аеёиӥоӧуыэюя][<>.]*$
   paradigm: Noun-case
   paradigm: Noun-case-poss-1,sg
   paradigm: Noun-case-poss-2,sg

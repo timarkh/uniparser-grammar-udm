@@ -7964,3 +7964,17 @@
  gramm: ADV
  paradigm: connect_adverbs
  trans_ru: 1. друг к другу спиной 2. друг против друга дворами
+
+-lexeme
+ lex: кия
+ stem: кия.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: по душе
+
+-lexeme
+ lex: незнай
+ stem: незнай.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: не знаю, неизвестно как
