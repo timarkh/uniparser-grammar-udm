@@ -583,6 +583,13 @@
  trans_ru: куда-то
 
 -lexeme
+ lex: нокытчы
+ stem: нокытчы.
+ gramm: PRO,ill
+ paradigm: Empty
+ trans_ru: никуда
+
+-lexeme
  lex: отын
  stem: отын.
  gramm: PRO,loc
@@ -595,6 +602,34 @@
  gramm: PRO,loc
  paradigm: Empty
  trans_ru: здесь
+
+-lexeme
+ lex: кытын
+ stem: кытын.
+ gramm: PRO,loc
+ paradigm: Empty
+ trans_ru: куда
+
+-lexeme
+ lex: олокытын
+ stem: олокытын.
+ gramm: PRO,loc
+ paradigm: Empty
+ trans_ru: куда-то
+
+-lexeme
+ lex: котькытын
+ stem: котькытын.
+ gramm: PRO,loc
+ paradigm: Empty
+ trans_ru: куда угодно
+
+-lexeme
+ lex: нокытын
+ stem: нокытын.
+ gramm: PRO,loc
+ paradigm: Empty
+ trans_ru: нигде
 
 -lexeme
  lex: отысь
@@ -611,6 +646,34 @@
  trans_ru: отсюда
 
 -lexeme
+ lex: кытысь
+ stem: кытысь.
+ gramm: PRO,el
+ paradigm: Empty
+ trans_ru: откуда
+
+-lexeme
+ lex: олокытысь
+ stem: олокытысь.
+ gramm: PRO,el
+ paradigm: Empty
+ trans_ru: откуда-то
+
+-lexeme
+ lex: котькытысь
+ stem: котькытысь.
+ gramm: PRO,el
+ paradigm: Empty
+ trans_ru: откуда угодно
+
+-lexeme
+ lex: нокытысь
+ stem: нокытысь.
+ gramm: PRO,el
+ paradigm: Empty
+ trans_ru: ниоткуда
+
+-lexeme
  lex: отысен
  stem: отысен.
  gramm: PRO,egr
@@ -623,6 +686,41 @@
  gramm: PRO,egr
  paradigm: Empty
  trans_ru: отсюда
+
+-lexeme
+ lex: кытысен
+ stem: кытысен.
+ gramm: PRO,egr
+ paradigm: Empty
+ trans_ru: откуда
+
+-lexeme
+ lex: олокытысен
+ stem: олокытысен.
+ gramm: PRO,egr
+ paradigm: Empty
+ trans_ru: откуда-то
+
+-lexeme
+ lex: котькытысен
+ stem: котькытысен.
+ gramm: PRO,egr
+ paradigm: Empty
+ trans_ru: откуда угодно
+
+-lexeme
+ lex: нокытысен
+ stem: нокытысен.
+ gramm: PRO,egr
+ paradigm: Empty
+ trans_ru: ниоткуда
+
+-lexeme
+ lex: сотӥсен
+ stem: сотӥсен.
+ gramm: PRO
+ paradigm: Empty
+ trans_ru: с тех пор
 
 -lexeme
  lex: отчыозь
@@ -638,7 +736,61 @@
  paradigm: Empty
  trans_ru: досюда
 
+-lexeme
+ lex: кытчыозь
+ stem: кытчыозь.
+ gramm: PRO,egr
+ paradigm: Empty
+ trans_ru: докуда
 
+-lexeme
+ lex: олокытчыозь
+ stem: олокытчыозь.
+ gramm: PRO,egr
+ paradigm: Empty
+ trans_ru: докуда-то
+
+-lexeme
+ lex: котькытчыозь
+ stem: котькытчыозь.
+ gramm: PRO,egr
+ paradigm: Empty
+ trans_ru: докуда угодно
+
+-lexeme
+ lex: нокытчыозь
+ stem: нокытчыозь.
+ gramm: PRO,egr
+ paradigm: Empty
+ trans_ru: нидокуда
+
+-lexeme
+ lex: кытӥ
+ stem: кытӥ.
+ gramm: PRO,prol
+ paradigm: Noun-num-vowel
+ trans_ru: где
+
+-lexeme
+ lex: котькытӥ
+ stem: котькытӥ.
+ gramm: PRO,prol
+ paradigm: Noun-num-vowel
+ trans_ru: где угодно
+
+-lexeme
+ lex: олокытӥ
+ stem: олокытӥ.
+ gramm: PRO,prol
+ paradigm: Noun-num-vowel
+ trans_ru: где-то
+
+-lexeme
+ lex: нокытӥ
+ stem: нокытӥ.
+ gramm: PRO,prol
+ paradigm: Noun-num-vowel
+ trans_ru: нигде; негде
 
 -lexeme
  lex: ас

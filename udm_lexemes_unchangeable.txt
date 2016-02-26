@@ -147,6 +147,13 @@
  trans_ru: по
 
 -lexeme
+ lex: сяин
+ stem: сяин.
+ gramm: POST
+ paradigm: Noun-num-consonant
+ trans_ru: по
+
+-lexeme
  lex: пыр
  stem: пыр.
  gramm: POST
@@ -327,6 +334,13 @@
  gramm: PART
  paradigm: Empty
  trans_ru: так, таким образом
+
+-lexeme
+ lex: тазьы
+ stem: тазьы.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: так, эдак
 
 -lexeme
  lex: тазь
@@ -7712,6 +7726,13 @@
  gramm: ADV
  paradigm: connect_adverbs
  trans_ru: много
+
+-lexeme
+ lex: трос
+ stem: трос.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: многое
 
 -lexeme
  lex: ма

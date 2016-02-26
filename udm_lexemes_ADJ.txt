@@ -14183,9 +14183,9 @@
 
 -lexeme
  lex: кузь
- stem: куз.
+ stem: кузь.
  gramm: ADJ
- paradigm: connect_adjectives-soft
+ paradigm: connect_adjectives
  trans_ru: длинный
 
 -lexeme
@@ -14201,3 +14201,10 @@
  gramm: NUM,ord
  paradigm: connect_adjectives
  trans_ru: первый
+
+-lexeme
+ lex: секыт
+ stem: секыт.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: тяжёлый

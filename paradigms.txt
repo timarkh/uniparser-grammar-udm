@@ -111,6 +111,10 @@
   paradigm: Noun-case-poss-2,pl
   paradigm: Noun-case-poss-3,pl
   paradigm: Comparative
+ -flex: .ой<.>//.ойскын<.>
+  gramm: period
+  paradigm: Comparative
+
 
 -paradigm: connect_num-soft
  -flex: .<.>
@@ -142,6 +146,9 @@
   paradigm: Noun-case-poss-2,pl
   paradigm: Noun-case-poss-3,pl
   paradigm: Comparative
+ -flex: .ёй<.>//.ёйскын<.>
+  gramm: period
+  paradigm: Comparative
 
 -paradigm: connect_adverbs
  -flex: .<.>
@@ -172,8 +179,14 @@
   paradigm: Noun-case-poss-2,pl
   paradigm: Noun-case-poss-3,pl
  -flex: .ё<.>
-  gramm: attr
+  gramm: attr,attr_o
   paradigm: connect_adjectives
+ -flex: .ем<.>
+  gramm: attr,attr_em
+  paradigm: connect_adjectives
+ -flex: .скын<.>
+  gramm: period
+  paradigm: Comparative
 
 -paradigm: Noun-num-consonant
  -flex: .<.>
@@ -195,11 +208,17 @@
   paradigm: Noun-case-poss-2,pl
   paradigm: Noun-case-poss-3,pl
  -flex: .о<.>
-  gramm: attr
+  gramm: attr,attr_o
   # do not confuse it with the debitive
   regex-stem: ^.*([^<>.н]|[^<>.аяоё][^<>.]|фон)[<>.]*$
   regex-gramm: ^(.(?!rel_n))*$
   paradigm: connect_adjectives
+ -flex: .ъем<.>
+  gramm: attr,attr_em
+  paradigm: connect_adjectives
+ -flex: .скын<.>
+  gramm: period
+  paradigm: Comparative
 
 -paradigm: Noun-mar
  -flex: .<.>
@@ -252,9 +271,15 @@
   paradigm: Noun-case-poss-2,pl
   paradigm: Noun-case-poss-3,pl
  -flex: .ё<.>
-  gramm: attr
+  gramm: attr,attr_o
   regex-gramm: ^(.(?!rel_n))*$
   paradigm: connect_adjectives
+ -flex: .ьем<.>
+  gramm: attr,attr_em
+  paradigm: connect_adjectives
+ -flex: .ьскын<.>
+  gramm: period
+  paradigm: Comparative
 
 -paradigm: Noun-num-j
  -flex: .<.>
@@ -276,9 +301,15 @@
   paradigm: Noun-case-poss-2,pl
   paradigm: Noun-case-poss-3,pl
  -flex: .йо<.>//.ё<.>
-  gramm: attr
+  gramm: attr,attr_o
   regex-gramm: ^(.(?!rel_n))*$
   paradigm: connect_adjectives
+ -flex: .йем<.>
+  gramm: attr,attr_em
+  paradigm: connect_adjectives
+ -flex: .йскын<.>
+  gramm: period
+  paradigm: Comparative
 
 -paradigm: Noun-num-ija
  -flex: .<.>
@@ -300,7 +331,10 @@
   paradigm: Noun-case-poss-2,pl
   paradigm: Noun-case-poss-3,pl
  -flex: .ё<.>//.яо<.>
-  gramm: attr
+  gramm: attr,attr_o
+  paradigm: connect_adjectives
+ -flex: .ем<.>//.яем<.>
+  gramm: attr,attr_em
   paradigm: connect_adjectives
 
 -paradigm: Noun-num-ije
@@ -323,7 +357,10 @@
   paradigm: Noun-case-poss-2,pl
   paradigm: Noun-case-poss-3,pl
  -flex: .ё<.>//.ео<.>
-  gramm: attr
+  gramm: attr,attr_o
+  paradigm: connect_adjectives
+ -flex: .ем<.>//.еем<.>
+  gramm: attr,attr_em
   paradigm: connect_adjectives
 
 -paradigm: Noun-num-pal
@@ -544,7 +581,7 @@
   paradigm: Comparative
  -flex: .ты<.>
   gramm: acc
-  regex-gramm: ^.*pl.*$
+  regex-prev-gramm: ^.*pl.*$
   paradigm: Comparative
  -flex: .лэн<.>
   gramm: gen
