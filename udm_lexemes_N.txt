@@ -8281,13 +8281,6 @@
  trans_ru: приближение, сближение, подход на близкое расстояние
 
 -lexeme
- lex: дып-дып
- stem: дып-дып.
- gramm: N
- paradigm: Noun-num-consonant
- trans_ru: звукоподражание тупому грохоту
-
--lexeme
  lex: курмем
  stem: курмем.
  gramm: N
@@ -9147,13 +9140,6 @@
  gramm: N
  paradigm: Noun-num-vowel
  trans_ru: пипетка
-
--lexeme
- lex: жингыр-жингыр
- stem: жингыр-жингыр.
- gramm: N
- paradigm: Noun-num-consonant
- trans_ru: звукоподр. звону стеклянных и металлических предметов звоном
 
 -lexeme
  lex: вуриськон
@@ -11207,13 +11193,6 @@
  trans_ru: ножовка
 
 -lexeme
- lex: чылк-чылк
- stem: чылк-чылк.
- gramm: N
- paradigm: Noun-num-consonant
- trans_ru: чисто, очень
-
--lexeme
  lex: свитер
  stem: свитер.
  gramm: N
@@ -11347,13 +11326,6 @@
  trans_ru: передовик
 
 -lexeme
- lex: резь-куаж
- stem: резь-куаж.
- gramm: N
- paradigm: Noun-num-consonant
- trans_ru: звукоподр. с шумом, гамом
-
--lexeme
  lex: рудник
  stem: рудник.
  gramm: N
@@ -11457,13 +11429,6 @@
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: подслащивание мёдом
-
--lexeme
- lex: дымбыль-дымбыль
- stem: дымбыль-дымбыл.
- gramm: N
- paradigm: Noun-num-soft
- trans_ru: неуклюже
 
 -lexeme
  lex: йыггетылон
@@ -27820,13 +27785,6 @@
  trans_ru: издание
 
 -lexeme
- lex: чиляк-долак
- stem: чиляк-долак.
- gramm: N
- paradigm: Noun-num-consonant
- trans_ru: сверкая, поблёскивая
-
--lexeme
  lex: атыкай
  stem: атыка.
  gramm: N
@@ -32153,13 +32111,6 @@
  trans_ru: радиола
 
 -lexeme
- lex: чыш-паш
- stem: чыш-паш.
- gramm: N
- paradigm: Noun-num-consonant
- trans_ru: 1. звукоподражание горению сырых дров, 2. разговаривать шепотом, секретничать
-
--lexeme
  lex: лесовоз
  stem: лесовоз.
  gramm: N
@@ -32529,13 +32480,6 @@
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: пословица, поговорка
-
--lexeme
- lex: бурсак
- stem: бурсак.
- gramm: N
- paradigm: Noun-num-consonant
- trans_ru: бурсак-бурсак наречно-изобр. сл. густыми, густыми клубами
 
 -lexeme
  lex: шыркун
@@ -33665,25 +33609,11 @@
  trans_ru: натрий
 
 -lexeme
- lex: губиё
- stem: губиё.
- gramm: N
- paradigm: Noun-num-vowel
- trans_ru: грибами
-
--lexeme
  lex: биофизика
  stem: биофизика.
  gramm: N
  paradigm: Noun-num-vowel
  trans_ru: биофизика
-
--lexeme
- lex: чырк-чарк
- stem: чырк-чарк.
- gramm: N
- paradigm: Noun-num-consonant
- trans_ru: тряпье, остатки тряпья, мелочь
 
 -lexeme
  lex: лэзян
@@ -35352,13 +35282,6 @@
  trans_ru: 1. содержание 2. хранение
 
 -lexeme
- lex: чылыш-чалыш
- stem: чылыш-чалыш.
- gramm: N
- paradigm: Noun-num-consonant
- trans_ru: криво, косо, вкривь
-
--lexeme
  lex: ситовина
  stem: ситовина.
  gramm: N
@@ -36421,13 +36344,6 @@
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: сеновал, сарай для сена, сенник
-
--lexeme
- lex: читыр-котыр
- stem: читыр-котыр.
- gramm: N
- paradigm: Noun-num-consonant
- trans_ru: извилистый, с извилинами, зигзагами
 
 -lexeme
  lex: скамейка
@@ -41421,13 +41337,6 @@
  trans_ru: шпиль
 
 -lexeme
- lex: изи-гази
- stem: изи-гази.
- gramm: N
- paradigm: Noun-num-vowel
- trans_ru: чувстводосады
-
--lexeme
  lex: причёска
  stem: причёска.
  gramm: N
@@ -41761,7 +41670,7 @@
  stem: кӧсӝу.
  gramm: N
  paradigm: Noun-num-j
- trans_ru: лишайник 2006:4
+ trans_ru: лишайник
 
 -lexeme
  lex: химикат
@@ -45313,13 +45222,6 @@
  trans_ru: милица милиционер
 
 -lexeme
- lex: читыр-читыр
- stem: читыр-читыр.
- gramm: N
- paradigm: Noun-num-consonant
- trans_ru: читыр-чутыр извилистый, с извилинами, зигзагами
-
--lexeme
  lex: бензобак
  stem: бензобак.
  gramm: N
@@ -45521,13 +45423,6 @@
  gramm: N
  paradigm: Noun-num-vowel
  trans_ru: букашка, жучок, саранча
-
--lexeme
- lex: чильыр-вальыр
- stem: чильыр-вальыр.
- gramm: N
- paradigm: Noun-num-consonant
- trans_ru: поблёскивая, переливаясь, с переливами
 
 -lexeme
  lex: вермут
@@ -51214,13 +51109,6 @@
  trans_ru: высокие козлы, селюга обл.
 
 -lexeme
- lex: тальк-тальк
- stem: тальк-тальк.
- gramm: N
- paradigm: Noun-num-consonant
- trans_ru: сырой, вязкий, слежавшийся
-
--lexeme
  lex: каучук
  stem: каучук.
  gramm: N
@@ -52990,13 +52878,6 @@
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: шлюз
-
--lexeme
- lex: нод-нод
- stem: нод-нод.
- gramm: N
- paradigm: Noun-num-consonant
- trans_ru: толком
 
 -lexeme
  lex: пудо
