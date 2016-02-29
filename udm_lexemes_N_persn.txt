@@ -1,5 +1,12 @@
 
 -lexeme
+ lex: Идна
+ stem: идна.
+ gramm: N,persn
+ paradigm: Noun-num-vowel
+ trans_ru: Идна
+
+-lexeme
  lex: Александр
  stem: александр.
  gramm: N,persn
@@ -376,6 +383,13 @@
  gramm: N,persn
  paradigm: Noun-num-vowel
  trans_ru: Лариса
+
+-lexeme
+ lex: Алла
+ stem: алла.
+ gramm: N,persn
+ paradigm: Noun-num-vowel
+ trans_ru: Алла
 
 -lexeme
  lex: Зоя
@@ -4282,6 +4296,13 @@
  gramm: N,persn
  paradigm: Noun-num-consonant
  trans_ru: Христос
+
+-lexeme
+ lex: Аллах
+ stem: аллах.
+ gramm: N,persn
+ paradigm: Noun-num-consonant
+ trans_ru: Аллах
 
 -lexeme
  lex: Россия

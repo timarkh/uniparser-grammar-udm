@@ -1335,3 +1335,51 @@
  paradigm: Empty
  trans_ru: толком
 
+-lexeme
+ lex: бульыр
+ stem: бульыр.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: булькая
+
+-lexeme
+ lex: бульыр-бульыр
+ stem: бульыр-бульыр.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: булькая
+
+-lexeme
+ lex: кольк
+ stem: кольк.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: буль-буль
+
+-lexeme
+ lex: кольк-кольк
+ stem: кольк-кольк.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: буль-буль
+
+-lexeme
+ lex: кыш
+ stem: кыш.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: возглас, которым отгоняют птиц
+
+-lexeme
+ lex: кыш-кыш
+ stem: кыш-кыш.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: возглас, которым отгоняют птиц
+
+-lexeme
+ lex: шырак
+ stem: шырак.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: вдруг натянуть, потянуть

@@ -14355,3 +14355,38 @@
  gramm: ADJ
  paradigm: connect_adjectives
  trans_ru: о студенеобразных кушаньях: водянисты
+
+-lexeme
+ lex: паллян
+ stem: паллян.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: левый
+
+-lexeme
+ lex: бур
+ stem: бур.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: правый
+
+-lexeme
+ lex: нио-версо
+ stem: нио-версо.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: ни то, ни сё, не доведённое до конца
+
+-lexeme
+ lex: тросполэс
+ stem: тросполэс.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: 1. многократно, 2. многослойный
+
+-lexeme
+ lex: томъем
+ stem: томъем.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: томный

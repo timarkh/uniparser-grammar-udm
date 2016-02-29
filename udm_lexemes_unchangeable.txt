@@ -1,5 +1,33 @@
 ﻿
 -lexeme
+ lex: вае
+ stem: вае.
+ gramm: PART,pl
+ paradigm: Empty
+ trans_ru: давайте
+
+-lexeme
+ lex: ваелэ
+ stem: ваелэ.
+ gramm: PART,pl
+ paradigm: Empty
+ trans_ru: давайте
+
+-lexeme
+ lex: вай
+ stem: ва.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: давай, давай-ка
+
+-lexeme
+ lex: ӧйтӧд
+ stem: ӧйтӧд.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: не знаю
+
+-lexeme
  lex: ӧжыт
  stem: ӧжыт.
  gramm: ADV
@@ -26,6 +54,13 @@
  gramm: ADV,dat
  paradigm: connect_adverbs
  trans_ru: всё время, целиком, до конца
+
+-lexeme
+ lex: луэмен
+ stem: луэмен.
+ gramm: POST
+ paradigm: Empty
+ trans_ru: из-за, вследствие; благодаря
 
 -lexeme
  lex: весяком
@@ -301,6 +336,20 @@
  trans_ru: сквозь, через
 
 -lexeme
+ lex: кемысен
+ stem: кемысен.
+ gramm: POST,egr
+ paradigm: Empty
+ trans_ru: послелог [с расстояния], приблизительно с
+
+-lexeme
+ lex: кемысь
+ stem: кемысь.
+ gramm: POST,el
+ paradigm: Empty
+ trans_ru: послелог [с расстояния], приблизительно с
+
+-lexeme
  lex: тӥни
  stem: тӥни.
  gramm: PART
@@ -369,6 +418,13 @@
  gramm: PART
  paradigm: Empty
  trans_ru: так, эдак
+
+-lexeme
+ lex: озьыен
+ stem: озьыен.
+ gramm: PART,ins
+ paradigm: Noun-num-consonant
+ trans_ru: итак, значит, стало быть
 
 -lexeme
  lex: ик
@@ -8531,3 +8587,86 @@
  paradigm: connect_adverbs
  trans_ru: кое-где, местами, иногда
 
+-lexeme
+ lex: огпала
+ stem: огпала.
+ gramm: ADV,ill
+ paradigm: connect_adverbs
+ trans_ru: в одну сторону
+
+-lexeme
+ lex: токма
+ stem: токма.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: зря, напрасно
+
+-lexeme
+ lex: ӟык
+ stem: ӟык.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: совсем, полностью
+
+-lexeme
+ lex: турак
+ stem: турак.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: вдруг
+
+-lexeme
+ lex: огдырлы
+ stem: огдырлы.
+ gramm: ADV,dat
+ paradigm: connect_adverbs
+ trans_ru: на время, ненадолго, временно
+
+-lexeme
+ lex: олокудня
+ stem: олокудня.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: очень долго, неизвестно сколько
+
+-lexeme
+ lex: олокудняла
+ stem: олокудняла.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: очень долго, неизвестно сколько
+
+-lexeme
+ lex: кругом
+ stem: кругом.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: везде
+
+-lexeme
+ lex: быдтыр
+ stem: быдтыр.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: совсем
+
+-lexeme
+ lex: ӟечесь-буресь
+ stem: ӟечесь-буресь.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: здравствуйте
+
+-lexeme
+ lex: огпумнала
+ stem: огпумнала.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: постоянно одно и то же
+
+-lexeme
+ lex: могак
+ stem: могак.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: вдруг, неожиданно
