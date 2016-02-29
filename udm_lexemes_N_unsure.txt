@@ -41,13 +41,6 @@
  trans_ru: ист. народничество
 
 -lexeme
- lex: уйдалъяськыны
- stem: уйдалъяськ.
- gramm: V,I
- paradigm: connect_verbs-I
- trans_ru: насмехаться
-
--lexeme
  lex: осконлык
  stem: осконлык.
  gramm: N
@@ -174,13 +167,6 @@
  trans_ru: пара
 
 -lexeme
- lex: вити-вити
- stem: вити-вити.
- gramm: IMIT
- paradigm: Empty
- trans_ru: возглас
-
--lexeme
  lex: поп
  stem: поп.
  gramm: N
@@ -200,13 +186,6 @@
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: удар кулаком
-
--lexeme
- lex: тэтьыканы
- stem: тэтьыка.
- gramm: V,II
- paradigm: connect_verbs-II
- trans_ru: мазать, помазать, смазать дёгтем
 
 -lexeme
  lex: чигылэм
@@ -244,13 +223,6 @@
  trans_ru: 1. скребок для зерна; 2. клюка
 
 -lexeme
- lex: аштыр-мыштыр
- stem: аштыр-мыштыр.
- gramm: IMIT
- paradigm: Empty
- trans_ru: кое-как, еле-еле
-
--lexeme
  lex: камали
  stem: камали.
  gramm: N
@@ -270,20 +242,6 @@
  gramm: N
  paradigm: Noun-num-vowel
  trans_ru: языческое божество древних вотяков
-
--lexeme
- lex: шучыр-шучыр
- stem: шучыр-шучыр.
- gramm: IMIT
- paradigm: Empty
- trans_ru: о брызгах, грязи
-
--lexeme
- lex: суйтэм-пыдтэм
- stem: суйтэм-пыдтэм.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: без рук
 
 -lexeme
  lex: юртӵӧж
@@ -307,39 +265,11 @@
  trans_ru: автосервис
 
 -lexeme
- lex: табыдча
- stem: табыдча.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: та быдӟа столь величиной, столько
-
--lexeme
- lex: быдӟияськыны
- stem: быдӟияськ.
- gramm: V,I
- paradigm: connect_verbs-I
- trans_ru: обижаться, высказывать недовольство из-за непрзнания его заслуг
-
--lexeme
  lex: эмеспи
  stem: эмеспи.
  gramm: N
  paradigm: Noun-num-vowel
  trans_ru: зять, жених
-
--lexeme
- lex: буйынча
- stem: буйынча.
- gramm: POST
- paradigm: Noun-num-vowel
- trans_ru: по, в соответствии с, в зависимости от
-
--lexeme
- lex: буяськыны
- stem: буяськ.
- gramm: V,I
- paradigm: connect_verbs-I
- trans_ru: краситься; пачкаться
 
 -lexeme
  lex: чосонка
@@ -375,13 +305,6 @@
  gramm: N
  paradigm: Noun-num-soft
  trans_ru: лит. дактиль
-
--lexeme
- lex: кеменыз
- stem: кеменыз.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: самое меньшее, по меньшей мере
 
 -lexeme
  lex: сайландык
@@ -445,20 +368,6 @@
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: рус. пряник
-
--lexeme
- lex: сумен
- stem: сумен.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: много, помногу, оптом
-
--lexeme
- lex: суменак
- stem: суменак.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: много, помногу, оптом
 
 -lexeme
  lex: коплок
@@ -615,13 +524,6 @@
  trans_ru: 1. курослеп, калужница обл. 2. бадӟым ~ белокопытник лекарственный) 
 
 -lexeme
- lex: шуак-дуак
- stem: шуак-дуак.
- gramm: IMIT
- paradigm: Empty
- trans_ru: 1. вдруг, внезапно 2. второпях
-
--lexeme
  lex: аша
  stem: аша.
  gramm: N
@@ -636,32 +538,11 @@
  trans_ru: ледостав
 
 -lexeme
- lex: тӥни-тани
- stem: тӥни-тани.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: вот-вот, вот скоро
-
--lexeme
- lex: казырда
- stem: казырда.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: сейчас же, вмиг, немедленно
-
--lexeme
  lex: кылдонни
  stem: кылдонни.
  gramm: N
  paradigm: Noun-num-vowel
  trans_ru: геогр.. месторождение, залежи
-
--lexeme
- lex: чикын
- stem: чикын.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: раньше, когда-то
 
 -lexeme
  lex: чемпион
@@ -671,20 +552,6 @@
  trans_ru: чемпион
 
 -lexeme
- lex: таман
- stem: таман.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: как раз, ровно столько; постоянно
-
--lexeme
- lex: тамам
- stem: тамам.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: как раз, впору
-
--lexeme
  lex: бӧльмы
  stem: бӧльмы.
  gramm: N
@@ -692,46 +559,11 @@
  trans_ru: притвор
 
 -lexeme
- lex: лёгаськытыны
- stem: лёгаськыт.
- gramm: V
- paradigm: connect_verbs-II
- trans_ru: ходить, передвигаться
-
--lexeme
- lex: луловалскын
- stem: луловалскын.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: живьём, заживо
-
--lexeme
- lex: лулоскын
- stem: лулоскын.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: живьём, заживо
-
--lexeme
  lex: биту
  stem: биту.
  gramm: N
  paradigm: Noun-num-vowel
  trans_ru: амулет, талисман
-
--lexeme
- lex: огкуспетӥ
- stem: огкуспетӥ.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: быстро, наспех, на скорую руку
-
--lexeme
- lex: огкуспын
- stem: огкуспын.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: быстро, наспех, на скорую руку
 
 -lexeme
  lex: избур
@@ -860,13 +692,6 @@
  trans_ru: с мужем и женой, муж с женой
 
 -lexeme
- lex: жин-жин
- stem: жин-жин.
- gramm: IMIT
- paradigm: Empty
- trans_ru: о звоне колокольчика; динь-динь
-
--lexeme
  lex: зин
  stem: зин.
  gramm: N
@@ -916,13 +741,6 @@
  trans_ru: пила
 
 -lexeme
- lex: шыльтыр-шальтыр
- stem: шыльтыр-шальтыр.
- gramm: IMIT
- paradigm: Empty
- trans_ru: стук-бряк; расхлябанный
-
--lexeme
  lex: мереткыл
  stem: мереткыл.
  gramm: N
@@ -965,20 +783,6 @@
  trans_ru: удобоисполнимое (о деле)
 
 -lexeme
- lex: изьыны-пелляны
- stem: изьыны-пелля.
- gramm: V,II
- paradigm: connect_verbs-I
- trans_ru: гипнотизировать
-
--lexeme
- lex: изьыны-пелляны
- stem: изьыны-ведна.
- gramm: V,II
- paradigm: connect_verbs-I
- trans_ru: гипнотизировать
-
--lexeme
  lex: сирес
  stem: сирес.
  gramm: N
@@ -993,13 +797,6 @@
  trans_ru: гипноз, гипнотизирование
 
 -lexeme
- lex: кайта-кайта
- stem: кайта-кайта.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: больше, в другой раз
-
--lexeme
  lex: кӧтвеськестэмъяськон
  stem: кӧтвеськестэмъяськон.
  gramm: N
@@ -1007,25 +804,11 @@
  trans_ru: отвратительное поведение
 
 -lexeme
- lex: тыро-пыдо
- stem: тыро-пыдо.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: как следует, по-настоящему
-
--lexeme
  lex: вужйысь
  stem: вужйыс.
  gramm: N
  paradigm: Noun-num-soft
  trans_ru: тех. шатун
-
--lexeme
- lex: возьматыны
- stem: возьмат.
- gramm: V
- paradigm: connect_verbs-I
- trans_ru: выразить, отобразить, изобразить, продемонстрировать
 
 -lexeme
  lex: шиля
@@ -1061,13 +844,6 @@
  gramm: N
  paradigm: Noun-num-vowel
  trans_ru: мясо, кусок мяса
-
--lexeme
- lex: палэнысен
- stem: палэнысен.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: со стороны, извне
 
 -lexeme
  lex: емыш
@@ -1273,13 +1049,6 @@
  trans_ru: запятая
 
 -lexeme
- lex: тачыр
- stem: тачыр.
- gramm: IMIT
- paradigm: Empty
- trans_ru: о треске при горении
-
--lexeme
  lex: староста
  stem: староста.
  gramm: N
@@ -1348,13 +1117,6 @@
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: бугор, холм, вершина
-
--lexeme
- lex: удалтэм
- stem: удалтэм.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: хорошо уродившийся, урожайный
 
 -lexeme
  lex: кисло-кусло
@@ -1446,13 +1208,6 @@
  gramm: N
  paradigm: Noun-num-j
  trans_ru: мама, мать
-
--lexeme
- lex: процентъем
- stem: процентъем.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: процентный
 
 -lexeme
  lex: портэм
@@ -1623,13 +1378,6 @@
  trans_ru: карт. восьмёрка
 
 -lexeme
- lex: шулдырскыны
- stem: шулдырск.
- gramm: V,I
- paradigm: connect_verbs-I
- trans_ru: повеселиться, веселиться
-
--lexeme
  lex: кионвись
  stem: кионвис.
  gramm: N
@@ -1651,13 +1399,6 @@
  trans_ru: космос
 
 -lexeme
- lex: ужен
- stem: ужен.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: по делу
-
--lexeme
  lex: партитура
  stem: партитура.
  gramm: N
@@ -1665,32 +1406,11 @@
  trans_ru: муз. партитура
 
 -lexeme
- lex: ӝоген
- stem: ӝоген.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: 1. вскоре, скоро 2. быстро
-
--lexeme
  lex: ваёс
  stem: ваёс.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: вклад
-
--lexeme
- lex: огӵукна
- stem: огӵукна.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: однажды утром, в одно утро
-
--lexeme
- lex: изёно-изёнтэм
- stem: изёно-изёнтэм.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: в полусонном состоянии
 
 -lexeme
  lex: эльгазак
@@ -1735,20 +1455,6 @@
  trans_ru: тех. насос
 
 -lexeme
- lex: шурк
- stem: шурк.
- gramm: IMIT
- paradigm: Empty
- trans_ru: мгновенно, вдруг, неожиданно
-
--lexeme
- lex: огтолэзьскын
- stem: огтолэзьскын.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: за [один] месяц
-
--lexeme
  lex: вӧсьчорыг
  stem: вӧсьчорыг.
  gramm: N
@@ -1777,13 +1483,6 @@
  trans_ru: биол. кистепёрые
 
 -lexeme
- lex: жамдӥсяса
- stem: жамдӥсяса.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: скоропостижно
-
--lexeme
  lex: сиктан-пежъян
  stem: сиктан-пежъян.
  gramm: N
@@ -1810,13 +1509,6 @@
  gramm: N
  paradigm: Noun-num-soft
  trans_ru: турухтан, щегол
-
--lexeme
- lex: пыдлось
- stem: пыдлос.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: из глубины
 
 -lexeme
  lex: сьӧлыко
@@ -1987,20 +1679,6 @@
  trans_ru: жабры рыбы
 
 -lexeme
- lex: пыш-пыш
- stem: пыш-пыш.
- gramm: IMIT
- paradigm: Empty
- trans_ru: о разговоре шёпотом
-
--lexeme
- lex: пышы-пышы
- stem: пышы-пышы.
- gramm: IMIT
- paradigm: Empty
- trans_ru: о разговоре шёпотом
-
--lexeme
  lex: ром
  stem: ром.
  gramm: N
@@ -2085,13 +1763,6 @@
  trans_ru: мошкара, вредные насекомые, паразит
 
 -lexeme
- lex: чурт-парт
- stem: чурт-парт.
- gramm: IMIT
- paradigm: Empty
- trans_ru: второпях, торопливо
-
--lexeme
  lex: тӥр-пурт
  stem: тӥр-пурт.
  gramm: N
@@ -2099,25 +1770,11 @@
  trans_ru: 1. собир. топор и нож
 
 -lexeme
- lex: дуак
- stem: дуак.
- gramm: IMIT
- paradigm: Empty
- trans_ru: вдруг, неожиданно; порывисто
-
--lexeme
  lex: баба-яга
  stem: баба-яга.
  gramm: N
  paradigm: Noun-num-vowel
  trans_ru: фольк. баба-яга
-
--lexeme
- lex: зря
- stem: зря.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: зря
 
 -lexeme
  lex: пролетариат
@@ -2153,13 +1810,6 @@
  gramm: N
  paradigm: Noun-num-soft
  trans_ru: 1. заболонь, оболонь обл., болона 2. годичный слой дерева 3. горбыль
-
--lexeme
- lex: веттаны
- stem: ветта.
- gramm: V
- paradigm: connect_verbs-II
- trans_ru: качать, колыхать
 
 -lexeme
  lex: шарпанагуби
@@ -2239,20 +1889,6 @@
  trans_ru: концы брёвен
 
 -lexeme
- lex: шал
- stem: шал.
- gramm: IMIT
- paradigm: Empty
- trans_ru: сплошь, весь
-
--lexeme
- lex: ӵогак
- stem: ӵогак.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: прямо, напрямик
-
--lexeme
  lex: шай
  stem: ша.
  gramm: N
@@ -2265,13 +1901,6 @@
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: беременная, в положении
-
--lexeme
- lex: сётаки
- stem: сётаки.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: всё-таки
 
 -lexeme
  lex: мылкыдъюан
@@ -2288,13 +1917,6 @@
  trans_ru: шаг
 
 -lexeme
- lex: шымыр-купыр
- stem: шымыр-купыр.
- gramm: IMIT
- paradigm: Empty
- trans_ru: о съёжившемся, сгорбившемся предмете
-
--lexeme
  lex: чилекъян
  stem: чилекъян.
  gramm: N
@@ -2309,25 +1931,11 @@
  trans_ru: нога, лапа; коготь
 
 -lexeme
- lex: вазен
- stem: вазен.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: раньше, прежде, в старину
-
--lexeme
  lex: чынвина
  stem: чынвина.
  gramm: N
  paradigm: Noun-num-vowel
  trans_ru: первач, первак
-
--lexeme
- lex: чапрак
- stem: чапрак.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: вдруг, сразу
 
 -lexeme
  lex: тэкшерон
@@ -2372,13 +1980,6 @@
  trans_ru: сила, энергия, мощь, могущество
 
 -lexeme
- lex: кырыжак
- stem: кырыжак.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: искоса, вкривь
-
--lexeme
  lex: ужъюг
  stem: ужъюг.
  gramm: N
@@ -2412,20 +2013,6 @@
  gramm: N
  paradigm: Noun-num-soft
  trans_ru: слесарь
-
--lexeme
- lex: каплиен-каплиен
- stem: каплиен-каплиен.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: по капельке, каплями, капля за каплей
-
--lexeme
- lex: китэм-пыдтэм
- stem: китэм-пыдтэм.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: без рук
 
 -lexeme
  lex: омыртулкым
@@ -2482,13 +2069,6 @@
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: 1. подобранные вещи 2. перен. незаконнорождённый
-
--lexeme
- lex: ладтэк
- stem: ладтэк.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: 1. без толку 2. непоследовательно, беспорядочно
 
 -lexeme
  lex: мукыли
@@ -2575,27 +2155,6 @@
  trans_ru: раб
 
 -lexeme
- lex: шупыль-шапыль
- stem: шупыль-шапыл.
- gramm: IMIT
- paradigm: Empty
- trans_ru: о шлёпании по грязи, по воде
-
--lexeme
- lex: шупыль-шапыль
- stem: шупыль-шопыл.
- gramm: IMIT
- paradigm: Empty
- trans_ru: о шлёпании по грязи, по воде
-
--lexeme
- lex: ракмат
- stem: ракмат.
- gramm: PART
- paradigm: Empty
- trans_ru: бавл. спасибо, благодарю, см. тау
-
--lexeme
  lex: рад
  stem: рад.
  gramm: N
@@ -2680,13 +2239,6 @@
  trans_ru: 1. пациент, пациентка, находящийся на лечении 2. лекарь, знахарь
 
 -lexeme
- lex: кырыж-мерыж
- stem: кырыж-мерыж.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: 1. криво-косо, вкривь и вкось 2. перен. искажённо, неправильно
-
--lexeme
  lex: мяч
  stem: мяч.
  gramm: N
@@ -2757,13 +2309,6 @@
  trans_ru: декабрист
 
 -lexeme
- lex: итэмо-пуктэмо
- stem: итэмо-пуктэмо.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: с заплатами, с наставками
-
--lexeme
  lex: куакасин
  stem: куакасин.
  gramm: N
@@ -2776,27 +2321,6 @@
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: кадр, кинокадр
-
--lexeme
- lex: сонгро
- stem: сонгро.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: глухой
-
--lexeme
- lex: сонгорол
- stem: сонгорол.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: глухой
-
--lexeme
- lex: сонгрол
- stem: сонгрол.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: глухой
 
 -lexeme
  lex: полустанок
@@ -2820,20 +2344,6 @@
  trans_ru: 1. анат. корень языка 2. 1) корень слова
 
 -lexeme
- lex: кемалы
- stem: кемалы.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: надолго
-
--lexeme
- lex: ӟипык-лапык
- stem: ӟипык-лапык.
- gramm: IMIT
- paradigm: Empty
- trans_ru: скок-поскок, прыг-скок
-
--lexeme
  lex: террор
  stem: террор.
  gramm: N
@@ -2853,13 +2363,6 @@
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: рот, пасть
-
--lexeme
- lex: чар
- stem: чар.
- gramm: IMIT
- paradigm: Empty
- trans_ru: о треске разрываемой материи
 
 -lexeme
  lex: аргамак
@@ -2930,13 +2433,6 @@
  gramm: N
  paradigm: Noun-num-vowel
  trans_ru: узор
-
--lexeme
- lex: тулляны
- stem: тулля.
- gramm: V,II
- paradigm: connect_verbs-I
- trans_ru: 
 
 -lexeme
  lex: скафандр
@@ -3051,20 +2547,6 @@
  trans_ru: тех. букса
 
 -lexeme
- lex: чурт-чурт
- stem: чурт-чурт.
- gramm: IMIT
- paradigm: Empty
- trans_ru: твёрдо, уверенно
-
--lexeme
- lex: мани
- stem: мани.
- gramm: IMIT
- paradigm: Empty
- trans_ru: возглас, которым подзывают кошек и овец 
-
--lexeme
  lex: корма
  stem: корма.
  gramm: N
@@ -3142,13 +2624,6 @@
  trans_ru: обух
 
 -lexeme
- lex: путкарйаны
- stem: путкарйа.
- gramm: V,II
- paradigm: connect_verbs-I
- trans_ru: колоть, расколоть
-
--lexeme
  lex: ӝопы
  stem: ӝопы.
  gramm: N
@@ -3175,13 +2650,6 @@
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: устав
-
--lexeme
- lex: висо-вожо
- stem: висо-вожо.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: местами, вперемежку
 
 -lexeme
  lex: омезь
@@ -3275,13 +2743,6 @@
  trans_ru: 1. бурелом, валежник, вывороченное с корнем дерево 2. перен. помеха
 
 -lexeme
- lex: керек
- stem: керек.
- gramm: CNJ
- paradigm: Noun-num-consonant
- trans_ru: cоюз, пю., хоть, то-то, либо-либо
-
--lexeme
  lex: ӝомо-югдо
  stem: ӝомо-югдо.
  gramm: N
@@ -3310,20 +2771,6 @@
  trans_ru: обеднение, разорение, истощение
 
 -lexeme
- lex: вакытаз
- stem: вакытаз.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: в своё время, вовремя, своевременно, кстати
-
--lexeme
- lex: ӧрсь-ӧрсь
- stem: ӧрсь-ӧрс.
- gramm: IMIT
- paradigm: Empty
- trans_ru: возглас
-
--lexeme
  lex: вемечи
  stem: вемечи.
  gramm: N
@@ -3336,13 +2783,6 @@
  gramm: N
  paradigm: Noun-num-ija
  trans_ru: полигамия
-
--lexeme
- lex: кӧтшуганы
- stem: кӧтшуга.
- gramm: V,II
- paradigm: connect_verbs-I
- trans_ru: беспокоиться
 
 -lexeme
  lex: тупантэмлык
@@ -3422,20 +2862,6 @@
  trans_ru: рученька, ручка, ручонка, ручки
 
 -lexeme
- lex: чукыр-бекыр
- stem: чукыр-бекыр.
- gramm: IMIT
- paradigm: Empty
- trans_ru: вразвалку, шатаясь
-
--lexeme
- lex: супыль-сапыль
- stem: супыль-сапыл.
- gramm: IMIT
- paradigm: Empty
- trans_ru: 
-
--lexeme
  lex: шылан
  stem: шылан.
  gramm: N
@@ -3513,13 +2939,6 @@
  trans_ru: 1. предметы, деньги 2. монета 3.пожертвование
 
 -lexeme
- lex: дьылк-дялк
- stem: дьылк-дялк.
- gramm: IMIT
- paradigm: Empty
- trans_ru: ~ карыны - сверкать, блестеть
-
--lexeme
  lex: малпаськон
  stem: малпаськон.
  gramm: N
@@ -3546,27 +2965,6 @@
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: кусты черемухи
-
--lexeme
- lex: ракатланыны
- stem: ракатлан.
- gramm: V,I
- paradigm: connect_verbs-I
- trans_ru: наслаждаться; делать что-либо для собственного удовольствия
-
--lexeme
- lex: чульк
- stem: чульк.
- gramm: IMIT
- paradigm: Empty
- trans_ru: вдруг, моментально
-
--lexeme
- lex: кеманы
- stem: кема.
- gramm: V,II
- paradigm: connect_verbs-I
- trans_ru: подойти, быть впору
 
 -lexeme
  lex: изба-читальня
@@ -3618,25 +3016,11 @@
  trans_ru: жук-дровосек, стрекоза
 
 -lexeme
- lex: шуак
- stem: шуак.
- gramm: IMIT
- paradigm: Empty
- trans_ru: быстро; неожиданность
-
--lexeme
  lex: ӝыбы
  stem: ӝыбы.
  gramm: N
  paradigm: Noun-num-vowel
  trans_ru: паз
-
--lexeme
- lex: марысь-мар
- stem: марысь-мар.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: если что, на всякий случай
 
 -lexeme
  lex: тапалкуазь
@@ -3667,20 +3051,6 @@
  trans_ru: цивилизация чувств
 
 -lexeme
- lex: ыштыре
- stem: ыштыре.
- gramm: IMIT
- paradigm: Empty
- trans_ru: возглас при отгоне овец
-
--lexeme
- lex: педло
- stem: педло.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: во двор, на улицу, наружу
-
--lexeme
  lex: каньылтэм
  stem: каньылтэм.
  gramm: N
@@ -3709,20 +3079,6 @@
  trans_ru: д., Кизнер. кочерга
 
 -lexeme
- lex: менё
- stem: менё.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: со снохами
-
--lexeme
- lex: кено-менё
- stem: кено-менё.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: со снохами
-
--lexeme
  lex: меню
  stem: меню.
  gramm: N
@@ -3735,13 +3091,6 @@
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: логарифм
-
--lexeme
- lex: таляк
- stem: таляк.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: полным-полно, битком; плотно
 
 -lexeme
  lex: деталь
@@ -3805,13 +3154,6 @@
  gramm: N
  paradigm: Noun-num-vowel
  trans_ru: недотёпа, неумёха
-
--lexeme
- lex: ваяк
- stem: ваяк.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: 1. настежь 2. пополам, на части
 
 -lexeme
  lex: варан
@@ -3975,13 +3317,6 @@
  trans_ru: божья коровка
 
 -lexeme
- lex: радын-радын
- stem: радын-радын.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: временами, иногда
-
--lexeme
  lex: пыдкӧслывыл
  stem: пыдкӧслывыл.
  gramm: N
@@ -4059,25 +3394,11 @@
  trans_ru: 1. эпидемия 2. детские инфекционные болезни
 
 -lexeme
- lex: лань-лань
- stem: лань-лан.
- gramm: IMIT
- paradigm: Empty
- trans_ru: 
-
--lexeme
  lex: сюлы
  stem: сюлы.
  gramm: N
  paradigm: Noun-num-vowel
  trans_ru: кряква
-
--lexeme
- lex: ӵуштыр-ӵаштыр
- stem: ӵуштыр-ӵаштыр.
- gramm: IMIT
- paradigm: Empty
- trans_ru: с шелестом, с шуршанием, с шорохом
 
 -lexeme
  lex: интыпус
@@ -4092,13 +3413,6 @@
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: чердак, подволока обл.
-
--lexeme
- lex: гужембыт
- stem: гужембыт.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: всё лето, в течение всего лета
 
 -lexeme
  lex: лим
@@ -4147,7 +3461,14 @@
  stem: гыронни.
  gramm: N
  paradigm: Noun-num-vowel
- trans_ru: гыронтӥ пашня
+ trans_ru: пашня
+
+-lexeme
+ lex: гыронтӥ
+ stem: гыронтӥ.
+ gramm: N
+ paradigm: Noun-num-vowel
+ trans_ru: пашня
 
 -lexeme
  lex: чӧкыч
@@ -4192,13 +3513,6 @@
  trans_ru: уклейка
 
 -lexeme
- lex: сӥзьылбыт
- stem: сӥзьылбыт.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: всю осень, за осень, в течение осени
-
--lexeme
  lex: призывник
  stem: призывник.
  gramm: N
@@ -4227,13 +3541,6 @@
  trans_ru: муз. дуэт
 
 -lexeme
- lex: топ-топ
- stem: топ-топ.
- gramm: IMIT
- paradigm: Empty
- trans_ru: о глухом звуке при хлопанье ладошами и при топанье ногами
-
--lexeme
  lex: кӧсмувыр
  stem: кӧсмувыр.
  gramm: N
@@ -4245,7 +3552,7 @@
  stem: пиньвыжы.
  gramm: N
  paradigm: Noun-num-vowel
- trans_ru: 1. анат. корень зуба 2. десна
+ trans_ru: корень зуба; десна
 
 -lexeme
  lex: пиӝыжы
@@ -4259,7 +3566,7 @@
  stem: кислэс.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: кислэс палэзь, кислэс сюкась
+ trans_ru: кряж, чурбан
 
 -lexeme
  lex: параллелепипед
@@ -4273,14 +3580,7 @@
  stem: музьы.
  gramm: N
  paradigm: Noun-num-vowel
- trans_ru: 1. подруга 2. любовница
-
--lexeme
- lex: лымыесь
- stem: лымыес.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: в снегу, снежный
+ trans_ru: подруга; любовница
 
 -lexeme
  lex: пагар
@@ -4304,25 +3604,11 @@
  trans_ru: смотр
 
 -lexeme
- lex: быз
- stem: быз.
- gramm: IMIT
- paradigm: Empty
- trans_ru: о жужжании
-
--lexeme
  lex: сайгак
  stem: сайгак.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: стр. перекладина, балка, перевод
-
--lexeme
- lex: вай-ка
- stem: вай-ка.
- gramm: PART
- paradigm: Empty
- trans_ru: дай-ка
 
 -lexeme
  lex: мускан
@@ -4374,32 +3660,11 @@
  trans_ru: пирог
 
 -lexeme
- lex: жульк
- stem: жульк.
- gramm: IMIT
- paradigm: Empty
- trans_ru: о всплеске воды
-
--lexeme
- lex: жулькак
- stem: жулькак.
- gramm: IMIT
- paradigm: Empty
- trans_ru: о всплеске воды
-
--lexeme
  lex: вылтӥяськон
  stem: вылтӥяськон.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: гонор, высокомерие, заносчивость, кичливость
-
--lexeme
- lex: чупляк
- stem: чупляк.
- gramm: IMIT
- paradigm: Empty
- trans_ru: совсем
 
 -lexeme
  lex: юм
@@ -4421,20 +3686,6 @@
  gramm: N
  paradigm: Noun-num-soft
  trans_ru: память, сознание
-
--lexeme
- lex: бӧмыр
- stem: бӧмыр.
- gramm: IMIT
- paradigm: Empty
- trans_ru: о кучке сена
-
--lexeme
- lex: мыӟат
- stem: мыӟат.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: на будущий год, следующий раз
 
 -lexeme
  lex: ветлон-гур
@@ -4493,13 +3744,6 @@
  trans_ru: прицел
 
 -lexeme
- lex: одӥген-кыкен
- stem: одӥген-кыкен.
- gramm: N
- paradigm: Noun-num-consonant
- trans_ru: по одному, по двое
-
--lexeme
  lex: онкология
  stem: онкологи.
  gramm: N
@@ -4519,13 +3763,6 @@
  gramm: N
  paradigm: Noun-num-vowel
  trans_ru: искра огня, соли
-
--lexeme
- lex: бӧбӧ
- stem: бӧбӧ.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: больно, бобо
 
 -lexeme
  lex: секунд
@@ -4563,25 +3800,11 @@
  trans_ru: вет. мыт
 
 -lexeme
- lex: чылкак
- stem: чылкак.
- gramm: IMIT
- paradigm: Empty
- trans_ru: совсем, абсолютно
-
--lexeme
  lex: куашетон
  stem: куашетон.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: 1. шум, галдёж, гомон 2. скандал 3. бурление, шум 4. шелест
-
--lexeme
- lex: нюж
- stem: нюж.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: волоком
 
 -lexeme
  lex: исповедь
@@ -4603,13 +3826,6 @@
  gramm: N
  paradigm: Noun-num-vowel
  trans_ru: 1. хорёк, хорь 2. суслик
-
--lexeme
- lex: гижытэм
- stem: гижытэм.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: без ногтя
 
 -lexeme
  lex: безмен
@@ -4652,13 +3868,6 @@
  gramm: N
  paradigm: Noun-num-j
  trans_ru: железная лопата
-
--lexeme
- lex: мурватэм
- stem: мурватэм.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: скрытые, спрятанные
 
 -lexeme
  lex: вашкалалык
@@ -4717,13 +3926,6 @@
  trans_ru: парша
 
 -lexeme
- lex: оглом
- stem: оглом.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: вообще, в целом
-
--lexeme
  lex: кунокуа
  stem: кунокуа.
  gramm: N
@@ -4745,25 +3947,11 @@
  trans_ru: 1. канюк 2. сарыч ястребиный 3. коршун
 
 -lexeme
- lex: какмалда
- stem: какмалда.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: 1. вдруг, неожиданно, внезапно 2. как-нибудь, кое-как
-
--lexeme
  lex: курегпыд
  stem: курегпыд.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: амарант, щирица
-
--lexeme
- lex: кыкнапалан
- stem: кыкнапалан.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: в обеих сторонах
 
 -lexeme
  lex: чатча
@@ -4787,13 +3975,6 @@
  trans_ru: мелисса, лимонная мята
 
 -lexeme
- lex: шук-шак
- stem: шук-шак.
- gramm: IMIT
- paradigm: Empty
- trans_ru: второпях, наскоро
-
--lexeme
  lex: вукырем
  stem: вукырем.
  gramm: N
@@ -4801,53 +3982,11 @@
  trans_ru: овраг, балка, промоина
 
 -lexeme
- lex: огкеме
- stem: огкеме.
- gramm: ADV,ill
- paradigm: Empty
- trans_ru: на одинаковое расстояние
-
--lexeme
- lex: огкемын
- stem: огкемын.
- gramm: ADV,loc
- paradigm: Empty
- trans_ru: на одинаковом расстоянии
-
--lexeme
- lex: огкемысен
- stem: огкемысен.
- gramm: ADV,egr
- paradigm: Empty
- trans_ru: с одинакового расстояния
-
--lexeme
- lex: огдышем
- stem: огдышем.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: заодно, по привычке
-
--lexeme
- lex: огдышемен
- stem: огдышемен.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: заодно, по привычке
-
--lexeme
  lex: вылтыр
  stem: вылтыр.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: тело, туловище
-
--lexeme
- lex: шиё
- stem: шиё.
- gramm: N
- paradigm: Noun-num-vowel
- trans_ru: с жалом, с иглами, с колючками, иглистый, колючий
 
 -lexeme
  lex: вожчаг
@@ -4899,13 +4038,6 @@
  trans_ru: эпиграф
 
 -lexeme
- lex: нярак
- stem: нярак.
- gramm: IMIT
- paradigm: Empty
- trans_ru: совсем, целиком
-
--lexeme
  lex: беркыт
  stem: беркыт.
  gramm: N
@@ -4918,20 +4050,6 @@
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: 1. амарант, 2. гусиная лапка
-
--lexeme
- lex: нюжжы
- stem: нюжжы.
- gramm: IMIT
- paradigm: Empty
- trans_ru: еле-еле, кое-как
-
--lexeme
- lex: нюж-кал
- stem: нюж-кал.
- gramm: IMIT
- paradigm: Empty
- trans_ru: еле-еле, кое-как
 
 -lexeme
  lex: бобрпи
@@ -4952,7 +4070,7 @@
  stem: вакыт.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: 1. время, пора, момент, период 2. время года, срок
+ trans_ru: время, срок
 
 -lexeme
  lex: слог
@@ -4990,13 +4108,6 @@
  trans_ru: 1. орган, учреждение, отдел 2. печатный орган
 
 -lexeme
- lex: долак
- stem: долак.
- gramm: IMIT
- paradigm: Empty
- trans_ru: все, всё, целиком, совсем, совершенно
-
--lexeme
  lex: питыри
  stem: питыри.
  gramm: N
@@ -5018,13 +4129,6 @@
  trans_ru: пальцы ног
 
 -lexeme
- lex: кеӵевыл
- stem: кеӵевыл.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: наискось, наискосок
-
--lexeme
  lex: кимыж
  stem: кимыж.
  gramm: N
@@ -5037,13 +4141,6 @@
  gramm: N
  paradigm: Noun-num-vowel
  trans_ru: поминки, обряды по усопшим
-
--lexeme
- lex: сузёвуо
- stem: сузёвуо.
- gramm: N
- paradigm: Noun-num-vowel
- trans_ru: о студенеобразных кушаньях: водянисты
 
 -lexeme
  lex: прогноз
@@ -5151,25 +4248,11 @@
  trans_ru: 1. рассвет 2. понимание, соображение
 
 -lexeme
- lex: юмало-коняло
- stem: юмало-коняло.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: приторно-сладкий
-
--lexeme
  lex: эрикрад
  stem: эрикрад.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: право
-
--lexeme
- lex: шол
- stem: шол.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: 1. ведь, конечно 2. напрасно
 
 -lexeme
  lex: гондырсяська
@@ -5205,13 +4288,6 @@
  gramm: N
  paradigm: Noun-num-vowel
  trans_ru: (нч.) шишка
-
--lexeme
- lex: далай
- stem: далай.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: 1. давно, давненько  2. хороший, похвальный 3. порядочно
 
 -lexeme
  lex: тузь
@@ -5270,13 +4346,6 @@
  trans_ru: костыль
 
 -lexeme
- lex: зӥбытак
- stem: зӥбытак.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: тихо, спокойно
-
--lexeme
  lex: тяпня
  stem: тяпня.
  gramm: N
@@ -5298,13 +4367,6 @@
  trans_ru: 1. линия, черта 2. очерченный круг
 
 -lexeme
- lex: огазьысь
- stem: огазьыс.
- gramm: ADV,el
- paradigm: Noun-num-soft
- trans_ru: с одного места, с одной местности
-
--lexeme
  lex: вучаш
  stem: вучаш.
  gramm: N
@@ -5319,32 +4381,11 @@
  trans_ru: блеск, сверкание, зарница
 
 -lexeme
- lex: вазьва
- stem: вазьва.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: позапрошлый год
-
--lexeme
  lex: гоп
  stem: гоп.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: 1. яма, ямка, углубление, выемка, лунка 2. ложбина
-
--lexeme
- lex: гом
- stem: гом.
- gramm: IMIT
- paradigm: Empty
- trans_ru: тыл ~ басьтӥз всё охватило пламенем
-
--lexeme
- lex: гомак
- stem: гомак.
- gramm: IMIT
- paradigm: Empty
- trans_ru: тыл ~ басьтӥз всё охватило пламенем
 
 -lexeme
  lex: тус
@@ -5452,13 +4493,6 @@
  trans_ru: высшее учебное заведение, вуз
 
 -lexeme
- lex: пенесь
- stem: пенес.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: в золе, запачканный золой
-
--lexeme
  lex: сендык
  stem: сендык.
  gramm: N
@@ -5478,20 +4512,6 @@
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: синус
-
--lexeme
- lex: лопыр
- stem: лопыр.
- gramm: IMIT
- paradigm: Empty
- trans_ru: о шуме крыльев, шелесте развевающихся знамён
-
--lexeme
- lex: лопыр-лопыр
- stem: лопыр-лопыр.
- gramm: IMIT
- paradigm: Empty
- trans_ru: о шуме крыльев, шелесте развевающихся знамён
 
 -lexeme
  lex: куазьвакыт
@@ -5515,13 +4535,6 @@
  trans_ru: гон
 
 -lexeme
- lex: нимтэм-тултэм
- stem: нимтэм-тултэм.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: 1) без имени и отчества 2) без подписи, анонимный
-
--lexeme
  lex: десятка
  stem: десятка.
  gramm: N
@@ -5534,20 +4547,6 @@
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: кокетливый
-
--lexeme
- lex: огтолскын
- stem: огтолскын.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: за [одну] зиму
-
--lexeme
- lex: ӵем-ӵем
- stem: ӵем-ӵем.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: часто-часто, густо-густо
 
 -lexeme
  lex: кейкай
@@ -5564,20 +4563,6 @@
  trans_ru: 1. гроздь 2. гребень
 
 -lexeme
- lex: жильк
- stem: жильк.
- gramm: IMIT
- paradigm: Empty
- trans_ru: об однократном звоне металлических предметов
-
--lexeme
- lex: жилькак
- stem: жилькак.
- gramm: IMIT
- paradigm: Empty
- trans_ru: об однократном звоне металлических предметов
-
--lexeme
  lex: дунпульдон
  stem: дунпульдон.
  gramm: N
@@ -5590,13 +4575,6 @@
  gramm: N
  paradigm: Noun-num-vowel
  trans_ru: ист. маёвка
-
--lexeme
- lex: тынӥсь
- stem: тынӥс.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: тихо, мирно, спокойно, тихий, мирный, спокойный
 
 -lexeme
  lex: тамга
@@ -5704,13 +4682,6 @@
  trans_ru: 
 
 -lexeme
- lex: корк-корк
- stem: корк-корк.
- gramm: IMIT
- paradigm: Empty
- trans_ru: 
-
--lexeme
  lex: медвыжы
  stem: медвыжы.
  gramm: N
@@ -5788,13 +4759,6 @@
  trans_ru: калым
 
 -lexeme
- lex: нис-куань
- stem: нис-куань.
- gramm: IMIT
- paradigm: Empty
- trans_ru: о писке, визге
-
--lexeme
  lex: ӟардам
  stem: ӟардам.
  gramm: N
@@ -5844,20 +4808,6 @@
  trans_ru: корректура
 
 -lexeme
- lex: дырын-дырын
- stem: дырын-дырын.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: временами, иногда
-
--lexeme
- lex: осто
- stem: осто.
- gramm: PART
- paradigm: Empty
- trans_ru: боже, господи
-
--lexeme
  lex: тавацыно
  stem: тавацыно.
  gramm: N
@@ -5870,13 +4820,6 @@
  gramm: N
  paradigm: Noun-num-vowel
  trans_ru: бобы
-
--lexeme
- lex: ӟечак
- stem: ӟечак.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: хорошо, как следует
 
 -lexeme
  lex: инвис
@@ -5926,13 +4869,6 @@
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: носовые платки
-
--lexeme
- lex: тёпак
- stem: тёпак.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: совсем, совершенно
 
 -lexeme
  lex: кильтыро
@@ -6075,27 +5011,6 @@
  trans_ru: сосуд; пю., канл. горшок
 
 -lexeme
- lex: всё-таки
- stem: всё-таки.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: всё-таки
-
--lexeme
- lex: дыгыр-даг
- stem: дыгыр-даг.
- gramm: IMIT
- paradigm: Empty
- trans_ru: о стуке колёс по неровной дороге
-
--lexeme
- lex: дыгыр-дыг
- stem: дыгыр-дыг.
- gramm: IMIT
- paradigm: Empty
- trans_ru: о стуке колёс по неровной дороге
-
--lexeme
  lex: витен-витен
  stem: витен-витен.
  gramm: N
@@ -6117,13 +5032,6 @@
  trans_ru: 1. крючок 2.скоба 3. кочерга, клюка
 
 -lexeme
- lex: выльдыны
- stem: выльд.
- gramm: V,I
- paradigm: connect_verbs-I
- trans_ru: обновлять, преобразовать, преобразовывать, реконструировать
-
--lexeme
  lex: приют
  stem: приют.
  gramm: N
@@ -6138,32 +5046,11 @@
  trans_ru: мемуар, мемуары
 
 -lexeme
- lex: кыкъямыс
- stem: кыкъямыс.
- gramm: N
- paradigm: Noun-num-consonant
- trans_ru: восемь, см. тямыс
-
--lexeme
- lex: весяк
- stem: весяк.
- gramm: N
- paradigm: Noun-num-consonant
- trans_ru: весяк всегда, постоянно, всё время, целиком, всё
-
--lexeme
  lex: конь
  stem: кон.
  gramm: N
  paradigm: Noun-num-soft
  trans_ru: шахм. конь 2. морской конек
-
--lexeme
- lex: тач-тач
- stem: тач-тач.
- gramm: IMIT
- paradigm: Empty
- trans_ru: битком, полным-полно; туго
 
 -lexeme
  lex: карбас
@@ -6187,13 +5074,6 @@
  trans_ru: ширица
 
 -lexeme
- lex: часкын
- stem: часкын.
- gramm: N
- paradigm: Noun-num-consonant
- trans_ru: за час, в течение часа
-
--lexeme
  lex: меч
  stem: меч.
  gramm: N
@@ -6206,13 +5086,6 @@
  gramm: N
  paradigm: Noun-num-vowel
  trans_ru: домашняя утка
-
--lexeme
- lex: гудыны
- stem: гуд.
- gramm: V,I
- paradigm: connect_verbs-I
- trans_ru: рыть, раскопать, копать, выкопать, выкапывать, рыхлить
 
 -lexeme
  lex: Идна
@@ -6283,13 +5156,6 @@
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: ишак, осёл
-
--lexeme
- lex: ӟимыль
- stem: ӟимыл.
- gramm: IMIT
- paradigm: Empty
- trans_ru: о тихом журчании
 
 -lexeme
  lex: юшпи
@@ -6572,13 +5438,6 @@
  trans_ru: сон, спаньё, засыпание
 
 -lexeme
- lex: зӥрак
- stem: зӥрак.
- gramm: IMIT
- paradigm: Empty
- trans_ru: круто
-
--lexeme
  lex: суйпоскес
  stem: суйпоскес.
  gramm: N
@@ -6654,13 +5513,6 @@
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: разум, ум, интеллект
-
--lexeme
- lex: вайяны
- stem: вайя.
- gramm: V
- paradigm: connect_verbs-II
- trans_ru: расщеплять, раздвоить, раздваивать, растопырить, растопыривать, расставить
 
 -lexeme
  lex: кыркынар
@@ -6880,20 +5732,6 @@
  trans_ru: кожа вокруг мочевого канала лошади
 
 -lexeme
- lex: жальк
- stem: жальк.
- gramm: IMIT
- paradigm: Empty
- trans_ru: 
-
--lexeme
- lex: жалькак
- stem: жалькак.
- gramm: IMIT
- paradigm: Empty
- trans_ru: 
-
--lexeme
  lex: юла
  stem: юла.
  gramm: N
@@ -6920,20 +5758,6 @@
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: 1. омут 2. заводь 3. залив изгиб, бухта
-
--lexeme
- lex: лузь-лузь
- stem: лузь-лузь.
- gramm: IMIT
- paradigm: Empty
- trans_ru: об изношенности, растрёпанности
-
--lexeme
- lex: лузьыр-лузьыр
- stem: лузьыр-лузьыр.
- gramm: IMIT
- paradigm: Empty
- trans_ru: об изношенности, растрёпанности
 
 -lexeme
  lex: кон
@@ -7384,13 +6208,6 @@
  trans_ru: вдруг, неожиданно
 
 -lexeme
- lex: бугырак
- stem: бугырак.
- gramm: IMIT
- paradigm: Empty
- trans_ru: 
-
--lexeme
  lex: шунянь
  stem: шунян.
  gramm: N
@@ -7438,13 +6255,6 @@
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: мякоть
-
--lexeme
- lex: гичыр-гичыр
- stem: гичыр-гичыр.
- gramm: IMIT
- paradigm: Empty
- trans_ru: о хрусте животных при жевании травы
 
 -lexeme
  lex: дымак
@@ -7832,13 +6642,6 @@
  trans_ru: базедова болезнь, зоб
 
 -lexeme
- lex: ӧб-ӧб-ӧб
- stem: ӧб-ӧб-ӧб.
- gramm: IMIT
- paradigm: Empty
- trans_ru: возглас
-
--lexeme
  lex: шектэм
  stem: шектэм.
  gramm: N
@@ -7858,13 +6661,6 @@
  gramm: N
  paradigm: Noun-num-vowel
  trans_ru: на какое расстояние
-
--lexeme
- lex: погыль-погыль
- stem: погыль-погыль.
- gramm: IMIT
- paradigm: Empty
- trans_ru: пухлый-пухлый, полный-полный
 
 -lexeme
  lex: тусь
@@ -8056,13 +6852,6 @@
  trans_ru: с перьями
 
 -lexeme
- lex: валэктыны
- stem: валэкт.
- gramm: V,I
- paradigm: connect_verbs-I
- trans_ru: разъяснить, пояснить, растолковать
-
--lexeme
  lex: кыс
  stem: кыс.
  gramm: N
@@ -8117,13 +6906,6 @@
  gramm: N
  paradigm: Noun-num-vowel
  trans_ru: волосы
-
--lexeme
- lex: гебыр-гебыр
- stem: гебыр-гебыр.
- gramm: IMIT
- paradigm: Empty
- trans_ru: тихо, медленно, еле-еле
 
 -lexeme
  lex: вуатон
@@ -8364,13 +7146,6 @@
  trans_ru: вдруг, неожиданно
 
 -lexeme
- lex: вешаны
- stem: веша.
- gramm: V,II
- paradigm: connect_verbs-II
- trans_ru: гладить, похлопывать
-
--lexeme
  lex: асатмыл
  stem: асатмыл.
  gramm: N
@@ -8539,13 +7314,6 @@
  trans_ru: ист. барщина
 
 -lexeme
- lex: сач-сач
- stem: сач-сач.
- gramm: IMIT
- paradigm: Empty
- trans_ru: о мокром состоянии предмета или отяжелевшего предмет
-
--lexeme
  lex: лож
  stem: лож.
  gramm: N
@@ -8572,13 +7340,6 @@
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: смрад, гарь, паленина обл.
-
--lexeme
- lex: чутыр-чутыр
- stem: чутыр-чутыр.
- gramm: IMIT
- paradigm: Empty
- trans_ru: о чём-л. свернувшемся, покоробившемся; о сильной боли
 
 -lexeme
  lex: йӧлогуби
@@ -8784,13 +7545,6 @@
  trans_ru: бездырын(ы) отучить, отвадить, отогнать, отпугнуть, изгнать навсегда
 
 -lexeme
- lex: чили-вали
- stem: чили-вали.
- gramm: IMIT
- paradigm: Empty
- trans_ru: о переливах красок в воде или отражении блеска
-
--lexeme
  lex: олокудкеме
  stem: олокудкеме.
  gramm: N
@@ -8824,13 +7578,6 @@
  gramm: N
  paradigm: Noun-num-j
  trans_ru: какак бяка
-
--lexeme
- lex: чукинь-чакинь
- stem: чукинь-чакин.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: криво-косо, вкривь и вкось
 
 -lexeme
  lex: тальянка
@@ -8957,13 +7704,6 @@
  gramm: N
  paradigm: Noun-num-vowel
  trans_ru: 1. луговые опята 2. поганка
-
--lexeme
- lex: супыр-сапыр
- stem: супыр-сапыр.
- gramm: IMIT
- paradigm: Empty
- trans_ru: 
 
 -lexeme
  lex: лыдпумъян
@@ -9580,20 +8320,6 @@
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: хорёк, хорь
-
--lexeme
- lex: лабыр
- stem: лабыр.
- gramm: IMIT
- paradigm: Empty
- trans_ru: о клокоте
-
--lexeme
- lex: лабыр-лабыр
- stem: лабыр-лабыр.
- gramm: IMIT
- paradigm: Empty
- trans_ru: о клокоте
 
 -lexeme
  lex: матысен
@@ -10219,13 +8945,6 @@
  trans_ru: навеки, навсегда
 
 -lexeme
- lex: ниж-няж
- stem: ниж-няж.
- gramm: IMIT
- paradigm: Empty
- trans_ru: с длинными тонкими ветвями
-
--lexeme
  lex: кӧтпытсан
  stem: кӧтпытсан.
  gramm: N
@@ -10273,13 +8992,6 @@
  gramm: N
  paradigm: Noun-num-j
  trans_ru: слагаемое
-
--lexeme
- lex: дуро-дуро
- stem: дуро-дуро.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: с зазубринами
 
 -lexeme
  lex: бурд
@@ -10366,39 +9078,11 @@
  trans_ru: 1. ист. булава 2. початок камыша
 
 -lexeme
- lex: суё-пыдо
- stem: суё-пыдо.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: с руками и ногами, с конечностями, имеющий руки и ноги
-
--lexeme
- lex: зуб-зуб
- stem: зуб-зуб.
- gramm: IMIT
- paradigm: Empty
- trans_ru: о нытье раны или колющих болях воспалённой части тела
-
--lexeme
- lex: зуг-зуг
- stem: зуг-зуг.
- gramm: IMIT
- paradigm: Empty
- trans_ru: о нытье раны или колющих болях воспалённой части тела
-
--lexeme
  lex: толлёс
  stem: толлёс.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: гриб рядовка
-
--lexeme
- lex: ырлашыны
- stem: ырлаш.
- gramm: V,I
- paradigm: connect_verbs-I
- trans_ru: ругаться, спорить
 
 -lexeme
  lex: витёйскын
@@ -10611,13 +9295,6 @@
  trans_ru: налобник, наголовник
 
 -lexeme
- lex: дыбыр-дыбыр
- stem: дыбыр-дыбыр.
- gramm: IMIT
- paradigm: Empty
- trans_ru: о продолжительном стуке, грохоте
-
--lexeme
  lex: чолбар
  stem: чолбар.
  gramm: N
@@ -10653,13 +9330,6 @@
  trans_ru: тэтэльбуэт кулик
 
 -lexeme
- lex: супыр-супыр
- stem: супыр-супыр.
- gramm: IMIT
- paradigm: Empty
- trans_ru: ~ пӧзьыны -- развариться, разопреть
-
--lexeme
  lex: мотыль
  stem: мотыл.
  gramm: N
@@ -10680,6 +9350,7 @@
  paradigm: Noun-num-soft
  trans_ru: сырое тесто из овсяной муки на меду
  
+
 -lexeme
  lex: плацдарм
  stem: плацдарм.
@@ -10791,13 +9462,6 @@
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: 1. маленькое недоразвитое куриное яйцо 2. перен. коротышка
-
--lexeme
- lex: гаӵ-гаӵ
- stem: гаӵ-гаӵ.
- gramm: IMIT
- paradigm: Empty
- trans_ru: прямо, выпятив грудь
 
 -lexeme
  lex: няньпыжонни
@@ -11052,13 +9716,6 @@
  trans_ru: коболё), кобылёк букашка, жучок
 
 -lexeme
- lex: бӧтьыр-бӧтьыр
- stem: бӧтьыр-бӧтьыр.
- gramm: IMIT
- paradigm: Empty
- trans_ru: о периодическом лепетании
-
--lexeme
  lex: пельугы
  stem: пельугы.
  gramm: N
@@ -11073,32 +9730,11 @@
  trans_ru: щипцы
 
 -lexeme
- lex: чындыр-чандыр
- stem: чындыр-чандыр.
- gramm: IMIT
- paradigm: Empty
- trans_ru: криво, косо, вкривь и вкось
-
--lexeme
- lex: гичыр-гачыр
- stem: гичыр-гачыр.
- gramm: IMIT
- paradigm: Empty
- trans_ru: о лязгании ножниц
-
--lexeme
  lex: кылӥтэт
  stem: кылӥтэт.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: суффикс
-
--lexeme
- lex: токыль-токыль
- stem: токыль-токыл.
- gramm: IMIT
- paradigm: Empty
- trans_ru: о налитости мускулов лица и т. п.
 
 -lexeme
  lex: монмугор
@@ -11162,13 +9798,6 @@
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: тех. тягач
-
--lexeme
- lex: чипы-чипы
- stem: чипы-чипы.
- gramm: IMIT
- paradigm: Empty
- trans_ru: возглас
 
 -lexeme
  lex: шорт
@@ -11428,13 +10057,6 @@
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: порог
-
--lexeme
- lex: чильк-вальк
- stem: чильк-вальк.
- gramm: IMIT
- paradigm: Empty
- trans_ru: о переливах красок, блеске
 
 -lexeme
  lex: сьӧдкӧжы
@@ -11794,13 +10416,6 @@
  trans_ru: вереницей
 
 -lexeme
- lex: сать-сать
- stem: сать-сат.
- gramm: IMIT
- paradigm: Empty
- trans_ru: о мокром состоянии предмета или отяжелевшем предмете
-
--lexeme
  lex: оглыктэм
  stem: оглыктэм.
  gramm: N
@@ -11920,13 +10535,6 @@
  trans_ru: прикильм. поезжанин, провожатый
 
 -lexeme
- lex: люр-люр
- stem: люр-люр.
- gramm: IMIT
- paradigm: Empty
- trans_ru: о кистях ягод: развесисты
-
--lexeme
  lex: чатыр
  stem: чатыр.
  gramm: N
@@ -11981,13 +10589,6 @@
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: некоторые, иные, кое-кто
-
--lexeme
- lex: коста-роста
- stem: коста-роста.
- gramm: IMIT
- paradigm: Empty
- trans_ru: 
 
 -lexeme
  lex: скорпион
@@ -12081,20 +10682,6 @@
  trans_ru: примерно неделю
 
 -lexeme
- lex: бли-бли
- stem: бли-бли.
- gramm: IMIT
- paradigm: Empty
- trans_ru: возглас
-
--lexeme
- lex: блие-блие
- stem: блие-блие.
- gramm: IMIT
- paradigm: Empty
- trans_ru: возглас
-
--lexeme
  lex: девятка
  stem: девятка.
  gramm: N
@@ -12135,13 +10722,6 @@
  gramm: N
  paradigm: Noun-num-vowel
  trans_ru: жёлоб
-
--lexeme
- lex: пульыр-пульыр
- stem: пульыр-пульыр.
- gramm: IMIT
- paradigm: Empty
- trans_ru: о пузырящейся воде
 
 -lexeme
  lex: кропот
@@ -12284,13 +10864,6 @@
  trans_ru: поле битвы, сражения
 
 -lexeme
- lex: лӧж-лӧж
- stem: лӧж-лӧж.
- gramm: IMIT
- paradigm: Empty
- trans_ru: не торопясь, спокойно
-
--lexeme
  lex: вузкаронни
  stem: вузкаронни.
  gramm: N
@@ -12324,13 +10897,6 @@
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: гармонь
-
--lexeme
- lex: ворсаны
- stem: ворс.
- gramm: V,I
- paradigm: connect_verbs-I
- trans_ru: закрывать, запереть, запирать, прикрыть, прикрывать, закупорить, закупоривать
 
 -lexeme
  lex: пуштон
@@ -12543,13 +11109,6 @@
  trans_ru: голубь
 
 -lexeme
- lex: изыны
- stem: из.
- gramm: V,I
- paradigm: connect_verbs-I
- trans_ru: молоть
-
--lexeme
  lex: нарта
  stem: нарта.
  gramm: N
@@ -12576,27 +11135,6 @@
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: гайтан обл.
-
--lexeme
- lex: сатьыр-сатьыр
- stem: сатьыр-сатьыр.
- gramm: IMIT
- paradigm: Empty
- trans_ru: о мокром состоянии предмета или отяжелевшем предмете
-
--lexeme
- lex: тӥчыр-тач
- stem: тӥчыр-тач.
- gramm: IMIT
- paradigm: Empty
- trans_ru: о треске при ломке сухих сучьев
-
--lexeme
- lex: тӥчыр-тачыр
- stem: тӥчыр-тачыр.
- gramm: IMIT
- paradigm: Empty
- trans_ru: о треске при ломке сухих сучьев
 
 -lexeme
  lex: руда
@@ -12802,13 +11340,6 @@
  trans_ru: 1. рысь 2. иволга
 
 -lexeme
- lex: шарк-шарк
- stem: шарк-шарк.
- gramm: IMIT
- paradigm: Empty
- trans_ru: стук-стук
-
--lexeme
  lex: лэсьтӥськонни
  stem: лэсьтӥськонни.
  gramm: N
@@ -12975,13 +11506,6 @@
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru:  ревизионист
-
--lexeme
- lex: безэр-безэр
- stem: безэр-безэр.
- gramm: IMIT
- paradigm: Empty
- trans_ru: о человеке и животных: не дается, не смирно стоит, лягается
 
 -lexeme
  lex: куккем
@@ -13201,13 +11725,6 @@
  trans_ru: 1. знахарь, знахарка 2. гадальщик, гадалка, ворожей, ворожея
 
 -lexeme
- lex: кынгыль-конгыль
- stem: кынгыль-конгыл.
- gramm: IMIT
- paradigm: Empty
- trans_ru: извиваясь, зигзагами
-
--lexeme
  lex: колчедан
  stem: колчедан.
  gramm: N
@@ -13248,20 +11765,6 @@
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: этногр. бог земли, хорошего урожая
-
--lexeme
- lex: киӵыр-коӵыр
- stem: киӵыр-коӵыр.
- gramm: IMIT
- paradigm: Empty
- trans_ru: о стрёкоте сороки
-
--lexeme
- lex: киӵыр-куӵыр
- stem: киӵыр-куӵыр.
- gramm: IMIT
- paradigm: Empty
- trans_ru: о стрёкоте сороки
 
 -lexeme
  lex: уйсы
@@ -13339,20 +11842,6 @@
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: хрящ
-
--lexeme
- lex: час
- stem: час.
- gramm: N
- paradigm: Noun-num-consonant
- trans_ru: 1. часы 2. час
-
--lexeme
- lex: арлы
- stem: арлы.
- gramm: N
- paradigm: Noun-num-vowel
- trans_ru: на год
 
 -lexeme
  lex: пушужъёс
@@ -13698,13 +12187,6 @@
  trans_ru: 1. приговор, решение 2. суждение
 
 -lexeme
- lex: дубыр-дабыр
- stem: дубыр-дабыр.
- gramm: IMIT
- paradigm: Empty
- trans_ru: кое-как
-
--lexeme
  lex: огъяськон
  stem: огъяськон.
  gramm: N
@@ -13752,13 +12234,6 @@
  gramm: N
  paradigm: Noun-num-vowel
  trans_ru: платье, рубашка
-
--lexeme
- lex: вожык-вожык
- stem: вожык-вожык.
- gramm: IMIT
- paradigm: Empty
- trans_ru: о зелени
 
 -lexeme
  lex: сяртчы
@@ -13878,13 +12353,6 @@
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: кумызь чеснок, дикий чеснок
-
--lexeme
- lex: мась-мась
- stem: мась-мась.
- gramm: IMIT
- paradigm: Empty
- trans_ru: возглас
 
 -lexeme
  lex: огинтые
@@ -14104,13 +12572,6 @@
  trans_ru: послелог
 
 -lexeme
- lex: шир
- stem: шир.
- gramm: IMIT
- paradigm: Empty
- trans_ru: о быстром вращение предмета
-
--lexeme
  lex: совнархоз
  stem: совнархоз.
  gramm: N
@@ -14165,13 +12626,6 @@
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: терм. система
-
--lexeme
- lex: сопала-тапала
- stem: сопала-тапала.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: туда-сюда
 
 -lexeme
  lex: секанс
@@ -14272,27 +12726,6 @@
  trans_ru: экскурсант
 
 -lexeme
- lex: но-о
- stem: но-о.
- gramm: IMIT
- paradigm: Empty
- trans_ru: возглас
-
--lexeme
- lex: ӟур
- stem: ӟур.
- gramm: IMIT
- paradigm: Empty
- trans_ru: о скрипучих звуках
-
--lexeme
- lex: ӟур-ӟур
- stem: ӟур-ӟур.
- gramm: IMIT
- paradigm: Empty
- trans_ru: о скрипучих звуках
-
--lexeme
  lex: вылтӥяськем
  stem: вылтӥяськем.
  gramm: N
@@ -14305,13 +12738,6 @@
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: кое-кто, некоторые из них
-
--lexeme
- lex: вез-вез
- stem: вез-вез.
- gramm: IMIT
- paradigm: Empty
- trans_ru: 
 
 -lexeme
  lex: вурылон
@@ -14797,20 +13223,6 @@
  trans_ru: фин. девальвация
 
 -lexeme
- lex: арбыт
- stem: арбыт.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: весь год
-
--lexeme
- lex: чыс-чыс
- stem: чыс-чыс.
- gramm: IMIT
- paradigm: Empty
- trans_ru: 1. тепло и уютно 2. безмятежно, спокойно
-
--lexeme
  lex: куддыр
  stem: куддыр.
  gramm: N
@@ -14956,13 +13368,6 @@
  gramm: N
  paradigm: Noun-num-vowel
  trans_ru: с какого времени, как давно
-
--lexeme
- lex: чингыль-чингыль
- stem: чингыль-чингыл.
- gramm: IMIT
- paradigm: Empty
- trans_ru: о звоне колокольчика
 
 -lexeme
  lex: пыдсэт
@@ -15252,13 +13657,6 @@
  trans_ru: клеть, амбар
 
 -lexeme
- lex: тап-тап
- stem: тап-тап.
- gramm: IMIT
- paradigm: Empty
- trans_ru: о глухом стуке, топоте ног
-
--lexeme
  lex: жюри
  stem: жюри.
  gramm: N
@@ -15271,13 +13669,6 @@
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: 1. палаш 2. палаш пю., покрывало, одеяло
-
--lexeme
- lex: нажак
- stem: нажак.
- gramm: IMIT
- paradigm: Empty
- trans_ru: 
 
 -lexeme
  lex: вим
@@ -15315,13 +13706,6 @@
  trans_ru: астр. светило
 
 -lexeme
- lex: шыпыр-шыпыр
- stem: шыпыр-шыпыр.
- gramm: IMIT
- paradigm: Empty
- trans_ru: о каплях; шёпотом
-
--lexeme
  lex: вузан
  stem: вузан.
  gramm: N
@@ -15348,20 +13732,6 @@
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: чумор-чумор! призывание, принуждение коня выпить воду
-
--lexeme
- lex: дыбыр-дык
- stem: дыбыр-дык.
- gramm: IMIT
- paradigm: Empty
- trans_ru: о стуке колёс
-
--lexeme
- lex: дыбыр-тык
- stem: дыбыр-тык.
- gramm: IMIT
- paradigm: Empty
- trans_ru: о стуке колёс
 
 -lexeme
  lex: подлежащей
@@ -15539,20 +13909,6 @@
  trans_ru: д., грах. проклятие, заклинание
 
 -lexeme
- lex: гизи-гази
- stem: гизи-гази.
- gramm: IMIT
- paradigm: Empty
- trans_ru: сюлэм ~ луэ сердце ноет, кошки на сердце скребут
-
--lexeme
- lex: гизи-гизи
- stem: гизи-гизи.
- gramm: IMIT
- paradigm: Empty
- trans_ru: сюлэм ~ луэ сердце ноет, кошки на сердце скребут
-
--lexeme
  lex: кематэк
  stem: кематэк.
  gramm: N
@@ -15635,13 +13991,6 @@
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: убир нечистая сила
-
--lexeme
- lex: вар-вар
- stem: вар-вар.
- gramm: IMIT
- paradigm: Empty
- trans_ru: с клокотанием
 
 -lexeme
  lex: куалекъян
@@ -16393,13 +14742,6 @@
  trans_ru: шауланы
 
 -lexeme
- lex: нӧкыр-нӧкыр
- stem: нӧкыр-нӧкыр.
- gramm: IMIT
- paradigm: Empty
- trans_ru: ~ шукыясьыны -- пузыриться
-
--lexeme
  lex: лэзяны
  stem: лэз.
  gramm: N
@@ -16517,13 +14859,6 @@
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: одеяло
-
--lexeme
- lex: укыр-бекыр
- stem: укыр-бекыр.
- gramm: IMIT
- paradigm: Empty
- trans_ru: 
 
 -lexeme
  lex: образ
@@ -16811,20 +15146,6 @@
  gramm: N
  paradigm: Noun-num-vowel
  trans_ru: пуп, пупок, пуповина
-
--lexeme
- lex: ланг-ланг
- stem: ланг-ланг.
- gramm: IMIT
- paradigm: Empty
- trans_ru: о звоне колоколов
-
--lexeme
- lex: лангыр-лангыр
- stem: лангыр-лангыр.
- gramm: IMIT
- paradigm: Empty
- trans_ru: о звоне колоколов
 
 -lexeme
  lex: вальтрак
@@ -17604,32 +15925,11 @@
  trans_ru: прогноз
 
 -lexeme
- lex: бызыр-бызыр
- stem: бызыр-бызыр.
- gramm: IMIT
- paradigm: Empty
- trans_ru: о съёжившемся
-
--lexeme
  lex: даноним
  stem: даноним.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: почётное звание
-
--lexeme
- lex: дыбыр-колтыр
- stem: дыбыр-колтыр.
- gramm: IMIT
- paradigm: Empty
- trans_ru: о глухом стуке, грохоте
-
--lexeme
- lex: дыбыр-култыр
- stem: дыбыр-култыр.
- gramm: IMIT
- paradigm: Empty
- trans_ru: о глухом стуке, грохоте
 
 -lexeme
  lex: крестьянство
@@ -17721,20 +16021,6 @@
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: 1. стрельба, обстрел 2. расстрел
-
--lexeme
- lex: тым-тым
- stem: тым-тым.
- gramm: IMIT
- paradigm: Empty
- trans_ru: полным-полно, битком
-
--lexeme
- lex: дымбыльтык
- stem: дымбыльтык.
- gramm: IMIT
- paradigm: Empty
- trans_ru: о человеке: тучный, полный
 
 -lexeme
  lex: полк
@@ -18367,13 +16653,6 @@
  trans_ru: письмо
 
 -lexeme
- lex: го-го-го
- stem: го-го-го.
- gramm: IMIT
- paradigm: Empty
- trans_ru: о гоготании гусей
-
--lexeme
  lex: гижы
  stem: гижы.
  gramm: N
@@ -18491,20 +16770,6 @@
  gramm: N
  paradigm: Noun-num-vowel
  trans_ru: прикильм. путь следования, маршрут
-
--lexeme
- lex: туд-вад
- stem: туд-вад.
- gramm: IMIT
- paradigm: Empty
- trans_ru: вразвалку, переваливаясь
-
--lexeme
- lex: туд-вод
- stem: туд-вод.
- gramm: IMIT
- paradigm: Empty
- trans_ru: вразвалку, переваливаясь
 
 -lexeme
  lex: турикуктурын
@@ -18808,13 +17073,6 @@
  trans_ru: 1. вытоптанное место 2. ошмётки грязи
 
 -lexeme
- lex: ӟузыр-ӟазыр
- stem: ӟузыр-ӟазыр.
- gramm: IMIT
- paradigm: Empty
- trans_ru: в клочья
-
--lexeme
  lex: зал
  stem: зал.
  gramm: N
@@ -19032,13 +17290,6 @@
  trans_ru: штат
 
 -lexeme
- lex: чиге-чиге
- stem: чиге-чиге.
- gramm: IMIT
- paradigm: Empty
- trans_ru: возглас
-
--lexeme
  lex: юон
  stem: юон.
  gramm: N
@@ -19191,13 +17442,6 @@
  gramm: N
  paradigm: Noun-num-vowel
  trans_ru: рак
-
--lexeme
- lex: сапыр
- stem: сапыр.
- gramm: IMIT
- paradigm: Empty
- trans_ru: ~ киськыны -- обильно сыпаться
 
 -lexeme
  lex: жених
@@ -19354,13 +17598,6 @@
  trans_ru: завязавшийся узлом
 
 -lexeme
- lex: ӵыжыр-ӵыжыр
- stem: ӵыжыр-ӵыжыр.
- gramm: IMIT
- paradigm: Empty
- trans_ru: о ярком красном цвете
-
--lexeme
  lex: вот-вот
  stem: вот-вот.
  gramm: N
@@ -19508,13 +17745,6 @@
  trans_ru: сплошь, непрерывно
 
 -lexeme
- lex: гыл-гыл
- stem: гыл-гыл.
- gramm: IMIT
- paradigm: Empty
- trans_ru: начисто; гладко-прегладко, скользко-прескользко
-
--lexeme
  lex: куарогуби
  stem: куарогуби.
  gramm: N
@@ -19541,13 +17771,6 @@
  gramm: N
  paradigm: Noun-num-vowel
  trans_ru: грядки
-
--lexeme
- lex: шекыр-шекыр
- stem: шекыр-шекыр.
- gramm: IMIT
- paradigm: Empty
- trans_ru: ~ карыны -- раздавить
 
 -lexeme
  lex: сезьпызь
@@ -19618,13 +17841,6 @@
  gramm: N
  paradigm: Noun-num-vowel
  trans_ru: теорема
-
--lexeme
- lex: воль-воль
- stem: воль-вол.
- gramm: IMIT
- paradigm: Empty
- trans_ru: белым-бело
 
 -lexeme
  lex: паз
@@ -19837,13 +18053,6 @@
  trans_ru: отдел
 
 -lexeme
- lex: кудӟыны
- stem: кудӟ.
- gramm: V,I
- paradigm: connect_verbs-I
- trans_ru: пьянеть
-
--lexeme
  lex: сарда
  stem: сарда.
  gramm: N
@@ -19905,13 +18114,6 @@
  gramm: N
  paradigm: Noun-num-vowel
  trans_ru: уборная, туалет
-
--lexeme
- lex: чильтыр-чильтыр
- stem: чильтыр-чильтыр.
- gramm: IMIT
- paradigm: Empty
- trans_ru: о переливах красок
 
 -lexeme
  lex: эшлык
@@ -20066,13 +18268,6 @@
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: 1. вьюн 2. щиповка
-
--lexeme
- lex: ширк
- stem: ширк.
- gramm: IMIT
- paradigm: Empty
- trans_ru: чирк
 
 -lexeme
  lex: басылак
@@ -20278,13 +18473,6 @@
  trans_ru: , электр. элемент
 
 -lexeme
- lex: чузги-пазьги
- stem: чузги-пазьги.
- gramm: IMIT
- paradigm: Empty
- trans_ru: о шуме при падении сыпучих тел; во все стороны
-
--lexeme
  lex: ого
  stem: ого.
  gramm: N
@@ -20451,13 +18639,6 @@
  gramm: N
  paradigm: Noun-num-vowel
  trans_ru: 
-
--lexeme
- lex: чиндыр-чандыр
- stem: чиндыр-чандыр.
- gramm: IMIT
- paradigm: Empty
- trans_ru: криво-косо, беспорядочно; тощий
 
 -lexeme
  lex: саес
@@ -20635,13 +18816,6 @@
  trans_ru: раззадориться, разгорячиться, бежать сломя голову
 
 -lexeme
- lex: гули-гули
- stem: гули-гули.
- gramm: IMIT
- paradigm: Empty
- trans_ru: возглас
-
--lexeme
  lex: лӧбыш
  stem: лӧбыш.
  gramm: N
@@ -20675,13 +18849,6 @@
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: 1. звукоподр. внезапному всплеску воды 2. жалко
-
--lexeme
- lex: тр-р-р
- stem: тр-р-р.
- gramm: IMIT
- paradigm: Empty
- trans_ru: тпру; о треске трещотки и т. п.
 
 -lexeme
  lex: сьӧдырак-сьӧдырак
@@ -21041,13 +19208,6 @@
  trans_ru: 1. то, чем мажут, натирают 2.место смазки
 
 -lexeme
- lex: нягыль-нягыль
- stem: нягыль-нягыль.
- gramm: IMIT
- paradigm: Empty
- trans_ru: наголо, догола
-
--lexeme
  lex: пузкар
  stem: пузкар.
  gramm: N
@@ -21074,20 +19234,6 @@
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: ремесло, навык
-
--lexeme
- lex: так-такыр
- stem: так-такыр.
- gramm: IMIT
- paradigm: Empty
- trans_ru: совершенно ровный, наголо
-
--lexeme
- lex: тап-такыр
- stem: тап-такыр.
- gramm: IMIT
- paradigm: Empty
- trans_ru: совершенно ровный, наголо
 
 -lexeme
  lex: дьявол
@@ -21193,13 +19339,6 @@
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: щель, расщелина, зазор
-
--lexeme
- lex: булыр-булыр
- stem: булыр-булыр.
- gramm: IMIT
- paradigm: Empty
- trans_ru: о платье и полах: широкий
 
 -lexeme
  lex: эскерон
@@ -21333,13 +19472,6 @@
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: толк
-
--lexeme
- lex: ньыш-няш
- stem: ньыш-няш.
- gramm: IMIT
- paradigm: Empty
- trans_ru: медленно, еле волоча ноги
 
 -lexeme
  lex: ӟинак
@@ -21755,13 +19887,6 @@
  trans_ru: талисман, оберег
 
 -lexeme
- lex: никыр-някыр
- stem: никыр-някыр.
- gramm: IMIT
- paradigm: Empty
- trans_ru: слабый, неокрепший; шаткий
-
--lexeme
  lex: эпоха
  stem: эпоха.
  gramm: N
@@ -21837,13 +19962,6 @@
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: чиоп-чиоп звукоподр. писку цыплят: чипыос ~ каро цыплята пищат
-
--lexeme
- lex: липыны
- stem: лип.
- gramm: V,I
- paradigm: connect_verbs-I
- trans_ru: перекрыть, покрыть
 
 -lexeme
  lex: лулкас
@@ -21972,20 +20090,6 @@
  trans_ru: депо
 
 -lexeme
- lex: гич-гич
- stem: гич-гич.
- gramm: IMIT
- paradigm: Empty
- trans_ru: возглас
-
--lexeme
- lex: тёп
- stem: тёп.
- gramm: IMIT
- paradigm: Empty
- trans_ru: как раз
-
--lexeme
  lex: янак
  stem: янак.
  gramm: N
@@ -22012,13 +20116,6 @@
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: тёс
-
--lexeme
- lex: пир-пир
- stem: пир-пир.
- gramm: IMIT
- paradigm: Empty
- trans_ru: о кружении, шелесте листьев при листопаде
 
 -lexeme
  lex: район
@@ -22285,13 +20382,6 @@
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: число, количество, счёт
-
--lexeme
- lex: кичыль-качыль
- stem: кичыль-качыл.
- gramm: IMIT
- paradigm: Empty
- trans_ru: с боку на бок
 
 -lexeme
  lex: уйвӧтан
@@ -22833,13 +20923,6 @@
  trans_ru: дрозд-рябинник
 
 -lexeme
- lex: питыр-котыр
- stem: питыр-котыр.
- gramm: IMIT
- paradigm: Empty
- trans_ru: кружась
-
--lexeme
  lex: куке-соку
  stem: куке-соку.
  gramm: N
@@ -23036,13 +21119,6 @@
  trans_ru: 1. мать-и-мачеха 2. калужница болотная
 
 -lexeme
- lex: шальтрак
- stem: шальтрак.
- gramm: IMIT
- paradigm: Empty
- trans_ru: о неустойчивости предметов
-
--lexeme
  lex: протокол
  stem: протокол.
  gramm: N
@@ -23062,13 +21138,6 @@
  gramm: N
  paradigm: Noun-num-vowel
  trans_ru: золтонпуд текст. притужальник
-
--lexeme
- lex: кытӥ-кытӥ
- stem: кытӥ-кытӥ.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: кое-где, местами, иногда
 
 -lexeme
  lex: вылӥынверам
@@ -23288,13 +21357,6 @@
  trans_ru: вязки, схватки обл.
 
 -lexeme
- lex: сачыр-сачыр
- stem: сачыр-сачыр.
- gramm: IMIT
- paradigm: Empty
- trans_ru: о мокром, грязном состоянии предмета
-
--lexeme
  lex: акыл
  stem: акыл.
  gramm: N
@@ -23484,13 +21546,6 @@
  trans_ru: вверх, наверх, кверху
 
 -lexeme
- lex: шымыр-шымыр
- stem: шымыр-шымыр.
- gramm: IMIT
- paradigm: Empty
- trans_ru: о морщинистом состояние предмета
-
--lexeme
  lex: ӟыгыры
  stem: ӟыгыры.
  gramm: N
@@ -23573,13 +21628,6 @@
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: третьего дня
-
--lexeme
- lex: гум-гум
- stem: гум-гум.
- gramm: IMIT
- paradigm: Empty
- trans_ru: о шуме
 
 -lexeme
  lex: ӝутӥсь-лэзись
@@ -23720,13 +21768,6 @@
  gramm: N
  paradigm: Noun-num-vowel
  trans_ru: переливающееся
-
--lexeme
- lex: ӟильыр-вальыр
- stem: ӟильыр-вальыр.
- gramm: IMIT
- paradigm: Empty
- trans_ru: журча и переливаясь
 
 -lexeme
  lex: долыг
@@ -23876,13 +21917,6 @@
  trans_ru: V рукоятка
 
 -lexeme
- lex: пуж
- stem: пуж.
- gramm: IMIT
- paradigm: Empty
- trans_ru: о трепыхании рыб в рыболовной снасти или в решете
-
--lexeme
  lex: вокурат
  stem: вокурат.
  gramm: N
@@ -23939,27 +21973,6 @@
  trans_ru: гроздь
 
 -lexeme
- lex: чуг-чуг
- stem: чуг-чуг.
- gramm: IMIT
- paradigm: Empty
- trans_ru: кличка свиней
-
--lexeme
- lex: чиг-чиг
- stem: чиг-чиг.
- gramm: IMIT
- paradigm: Empty
- trans_ru: кличка свиней
-
--lexeme
- lex: кич-кич
- stem: кич-кич.
- gramm: IMIT
- paradigm: Empty
- trans_ru: кличка свиней
-
--lexeme
  lex: пыдэс
  stem: пыдэс.//пыдэск.
  gramm: N
@@ -23993,13 +22006,6 @@
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: 1. зуд 2. перен. злорадство
-
--lexeme
- lex: вжик-вжик
- stem: вжик-вжик.
- gramm: IMIT
- paradigm: Empty
- trans_ru: о звуках косы при косьбе; о звуках при щипании травы гусями
 
 -lexeme
  lex: атлан
@@ -24121,13 +22127,6 @@
  trans_ru: 1.младенец, дитя, ребенок
 
 -lexeme
- lex: кичыл-вычыл
- stem: кичыл-вычыл.
- gramm: IMIT
- paradigm: Empty
- trans_ru: туда и сюда
-
--lexeme
  lex: черкыль
  stem: черкыл.
  gramm: N
@@ -24219,13 +22218,6 @@
  trans_ru: кряж
 
 -lexeme
- lex: рос-прос
- stem: рос-прос.
- gramm: IMIT
- paradigm: Empty
- trans_ru: как следует; детально
-
--lexeme
  lex: кечйӧл
  stem: кечйӧл.
  gramm: N
@@ -24301,13 +22293,6 @@
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: V тайна, секрет
-
--lexeme
- lex: кесяны
- stem: кеся.
- gramm: V
- paradigm: connect_verbs-II
- trans_ru: рвать, отодрать, драть
 
 -lexeme
  lex: кипос
@@ -24399,13 +22384,6 @@
  gramm: N
  paradigm: Noun-num-vowel
  trans_ru: полигр. опечатка
-
--lexeme
- lex: сачыр
- stem: сачыр.
- gramm: IMIT
- paradigm: Empty
- trans_ru: о мокром, грязном состояние предмета
 
 -lexeme
  lex: тась
@@ -24632,20 +22610,6 @@
  trans_ru: грипп
 
 -lexeme
- lex: жын-жан
- stem: жын-жан.
- gramm: IMIT
- paradigm: Empty
- trans_ru: о дребезге
-
--lexeme
- lex: жынгыр-жангыр
- stem: жынгыр-жангыр.
- gramm: IMIT
- paradigm: Empty
- trans_ru: о дребезге
-
--lexeme
  lex: поэт
  stem: поэт.
  gramm: N
@@ -24693,13 +22657,6 @@
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: сущ, фольк. поверие
-
--lexeme
- lex: тоӵ
- stem: тоӵ.
- gramm: IMIT
- paradigm: Empty
- trans_ru: о падении мягкого сырого предмета
 
 -lexeme
  lex: куаськем
@@ -24770,13 +22727,6 @@
  gramm: N
  paradigm: Noun-num-vowel
  trans_ru: пуклёк чурбан, обрубок
-
--lexeme
- lex: лып-лап
- stem: лып-лап.
- gramm: IMIT
- paradigm: Empty
- trans_ru: вразвалку
 
 -lexeme
  lex: префикс
@@ -24947,13 +22897,6 @@
  trans_ru: нч. ступенька
 
 -lexeme
- lex: тёп-тёп
- stem: тёп-тёп.
- gramm: IMIT
- paradigm: Empty
- trans_ru: совсем, совершенно
-
--lexeme
  lex: кодекс
  stem: кодекс.
  gramm: N
@@ -25057,13 +23000,6 @@
  gramm: N
  paradigm: Noun-num-soft
  trans_ru: перекись
-
--lexeme
- lex: бло-бло-бло
- stem: бло-бло-бло.
- gramm: IMIT
- paradigm: Empty
- trans_ru: возглас
 
 -lexeme
  lex: чуко
@@ -25430,13 +23366,6 @@
  trans_ru: всю ночь, за ночь
 
 -lexeme
- lex: питыр
- stem: питыр.
- gramm: IMIT
- paradigm: Empty
- trans_ru: о кружении листьев при падении с деревьев
-
--lexeme
  lex: тӧлйылпери
  stem: тӧлйылпери.
  gramm: N
@@ -25519,13 +23448,6 @@
  gramm: N
  paradigm: Noun-num-vowel
  trans_ru: парша, паршивый
-
--lexeme
- lex: пис-пис
- stem: пис-пис.
- gramm: IMIT
- paradigm: Empty
- trans_ru: кис-кис
 
 -lexeme
  lex: кузьныр
@@ -25682,13 +23604,6 @@
  trans_ru: 1. колобок 2. несдобный коржик
 
 -lexeme
- lex: лапегатыны
- stem: лапегат.
- gramm: V,I
- paradigm: connect_verbs-I
- trans_ru: сделать ниже, сбавить, убавить, сделать неглубоким
-
--lexeme
  lex: бӧрись
  stem: бӧрис.
  gramm: N
@@ -25819,7 +23734,7 @@
  stem: ши.
  gramm: N
  paradigm: Noun-num-vowel
- trans_ru: 1. жало, муш ши жало пчелы 2. штык, остриё
+ trans_ru: жало; штык, остриё
 
 -lexeme
  lex: воштӥсь
@@ -25946,13 +23861,6 @@
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: дефис
-
--lexeme
- lex: ӝок-ӝок
- stem: ӝок-ӝок.
- gramm: IMIT
- paradigm: Empty
- trans_ru: наглухо
 
 -lexeme
  lex: кунган
@@ -26235,13 +24143,6 @@
  trans_ru: искра, искорка
 
 -lexeme
- lex: кырыж-конгыль
- stem: кырыж-конгыл.
- gramm: IMIT
- paradigm: Empty
- trans_ru: криво-косо
-
--lexeme
  lex: чигвесь
  stem: чигвес.
  gramm: N
@@ -26305,13 +24206,6 @@
  trans_ru: погреб
 
 -lexeme
- lex: волятыны
- stem: волят.
- gramm: V,I
- paradigm: connect_verbs-I
- trans_ru: гладким, сгладить, выровнять, отшлифовать
-
--lexeme
  lex: хорда
  stem: хорда.
  gramm: N
@@ -26338,20 +24232,6 @@
  gramm: N
  paradigm: Noun-num-vowel
  trans_ru: штоф, стопка
-
--lexeme
- lex: катьяны
- stem: катья.
- gramm: V,II
- paradigm: connect_verbs-II
- trans_ru: вылечить
-
--lexeme
- lex: тауна
- stem: тауна.
- gramm: PART
- paradigm: Empty
- trans_ru: пожалуйста
 
 -lexeme
  lex: инъеткылтус
@@ -26450,13 +24330,6 @@
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: ист. губернатор
-
--lexeme
- lex: гольканы
- stem: голька.
- gramm: V,II
- paradigm: connect_verbs-I
- trans_ru: 1. приесться 2. надоесть
 
 -lexeme
  lex: сюлэмошмес
@@ -26731,128 +24604,3 @@
  paradigm: Noun-num-consonant
  trans_ru: прошлогодняя сухая трава на корню
 
--lexeme
- lex: бурсак
- stem: бурсак.
- gramm: IMIT
- paradigm: Empty
- trans_ru: густыми клубами
-
--lexeme
- lex: бурсак-бурсак
- stem: бурсак-бурсак.
- gramm: IMIT
- paradigm: Empty
- trans_ru: густыми клубами
-
--lexeme
- lex: дып-дып
- stem: дып-дып.
- gramm: IMIT
- paradigm: Empty
- trans_ru: о тупом грохоте
-
--lexeme
- lex: жингыр-жингыр
- stem: жингыр-жингыр.
- gramm: IMIT
- paradigm: Empty
- trans_ru: о звоне стеклянных и металлических предметов
-
--lexeme
- lex: чылк-чылк
- stem: чылк-чылк.
- gramm: IMIT
- paradigm: Empty
- trans_ru: чисто, очень
-
--lexeme
- lex: резь-куаж
- stem: резь-куаж.
- gramm: IMIT
- paradigm: Empty
- trans_ru: с шумом, гамом
-
--lexeme
- lex: дымбыль-дымбыль
- stem: дымбыль-дымбыль.
- gramm: IMIT
- paradigm: Empty
- trans_ru: неуклюже
-
--lexeme
- lex: чиляк-долак
- stem: чиляк-долак.
- gramm: IMIT
- paradigm: Empty
- trans_ru: сверкая, поблёскивая
-
--lexeme
- lex: чыш-паш
- stem: чыш-паш.
- gramm: IMIT
- paradigm: Empty
- trans_ru: о горении сырых дров; шёпотом
-
--lexeme
- lex: чырк-чарк
- stem: чырк-чарк.
- gramm: IMIT
- paradigm: Empty
- trans_ru: тряпье, остатки тряпья, мелочь
-
--lexeme
- lex: чылыш-чалыш
- stem: чылыш-чалыш.
- gramm: IMIT
- paradigm: Empty
- trans_ru: криво, косо, вкривь
-
--lexeme
- lex: читыр-котыр
- stem: читыр-котыр.
- gramm: IMIT
- paradigm: Empty
- trans_ru: извилистый, с извилинами, зигзагами
-
--lexeme
- lex: изи-гази
- stem: изи-гази.
- gramm: IMIT
- paradigm: Empty
- trans_ru: чувство досады
-
--lexeme
- lex: читыр-читыр
- stem: читыр-читыр.
- gramm: IMIT
- paradigm: Empty
- trans_ru: извилистый
-
--lexeme
- lex: читыр-чутыр
- stem: читыр-чутыр.
- gramm: IMIT
- paradigm: Empty
- trans_ru: извилистый
-
--lexeme
- lex: чильыр-вальыр
- stem: чильыр-вальыр.
- gramm: IMIT
- paradigm: Empty
- trans_ru: поблёскивая, переливаясь, с переливами
-
--lexeme
- lex: тальк-тальк
- stem: тальк-тальк.
- gramm: IMIT
- paradigm: Empty
- trans_ru: сырой, вязкий, слежавшийся
-
--lexeme
- lex: нод-нод
- stem: нод-нод.
- gramm: IMIT
- paradigm: Empty
- trans_ru: толком
