@@ -469,6 +469,27 @@
  trans_ru: Алевтина
 
 -lexeme
+ lex: Рустам
+ stem: рустам.
+ gramm: N,persn
+ paradigm: Noun-num-consonant
+ trans_ru: Рустам
+
+-lexeme
+ lex: Рустэм
+ stem: рустэм.
+ gramm: N,persn
+ paradigm: Noun-num-consonant
+ trans_ru: Рустэм
+
+-lexeme
+ lex: Закиевич
+ stem: закиевич.
+ gramm: N,patrn
+ paradigm: Noun-num-consonant
+ trans_ru: Закиевич
+
+-lexeme
  lex: Волков
  stem: волков.
  gramm: N,famn
@@ -488,6 +509,20 @@
  gramm: N,famn
  paradigm: Noun-num-consonant
  trans_ru: Путин
+
+-lexeme
+ lex: Хамитов
+ stem: хамитов.
+ gramm: N,famn
+ paradigm: Noun-num-consonant
+ trans_ru: Хамитов
+
+-lexeme
+ lex: Минниханов
+ stem: минниханов.
+ gramm: N,famn
+ paradigm: Noun-num-consonant
+ trans_ru: Минниханов
 
 -lexeme
  lex: Ленин
@@ -4235,6 +4270,20 @@
  trans_ru: Мусалимова
 
 -lexeme
+ lex: Хабибуллин
+ stem: хабибуллин.
+ gramm: N,famn
+ paradigm: Noun-num-consonant
+ trans_ru: Хабибуллин
+
+-lexeme
+ lex: Хабибуллина
+ stem: хабибуллина.
+ gramm: N,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Хабибуллина
+
+-lexeme
  lex: Беломорских
  stem: беломорских.
  gramm: N,famn
@@ -4375,6 +4424,20 @@
  trans_ru: Украина
 
 -lexeme
+ lex: США
+ stem: сша.//сша-.
+ gramm: N,topn,abbr
+ paradigm: Noun-num-vowel
+ trans_ru: США
+
+-lexeme
+ lex: Белоруссия
+ stem: белорусси.
+ gramm: N,topn
+ paradigm: Noun-num-ija
+ trans_ru: Белоруссия
+
+-lexeme
  lex: Мордовия
  stem: мордови.
  gramm: N,topn
@@ -4482,6 +4545,13 @@
 -lexeme
  lex: Москва
  stem: москва.
+ gramm: N,topn
+ paradigm: Noun-num-vowel
+ trans_ru: Москва
+
+-lexeme
+ lex: Муско
+ stem: муско.
  gramm: N,topn
  paradigm: Noun-num-vowel
  trans_ru: Москва
@@ -4711,6 +4781,27 @@
  trans_ru: Каракулино
 
 -lexeme
+ lex: Татышлы
+ stem: татышлы.
+ gramm: N,topn
+ paradigm: Noun-num-vowel
+ trans_ru: Татышлы
+
+-lexeme
+ lex: Калтасы
+ stem: калтасы.
+ gramm: N,topn
+ paradigm: Noun-num-vowel
+ trans_ru: Калтасы
+
+-lexeme
+ lex: Янаул
+ stem: янаул.
+ gramm: N,topn
+ paradigm: Noun-num-consonant
+ trans_ru: Янаул
+
+-lexeme
  lex: Казань
  stem: казан.
  gramm: N,topn
@@ -4732,6 +4823,13 @@
  trans_ru: Пермь
 
 -lexeme
+ lex: Тюмень
+ stem: тюмен.
+ gramm: N,topn
+ paradigm: Noun-num-soft
+ trans_ru: Тюмень
+
+-lexeme
  lex: Уфа
  stem: уфа.
  gramm: N,topn
@@ -4751,6 +4849,27 @@
  gramm: N,topn
  paradigm: Noun-num-consonant
  trans_ru: Свердловск
+
+-lexeme
+ lex: Сыктывкар
+ stem: сыктывкар.
+ gramm: N,topn
+ paradigm: Noun-num-consonant
+ trans_ru: Сыктывкар
+
+-lexeme
+ lex: Киев
+ stem: киев.
+ gramm: N,topn
+ paradigm: Noun-num-consonant
+ trans_ru: Киев
+
+-lexeme
+ lex: Минск
+ stem: минск.
+ gramm: N,topn
+ paradigm: Noun-num-consonant
+ trans_ru: Минск
 
 -lexeme
  lex: Иднакар
