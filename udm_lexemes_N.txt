@@ -45191,7 +45191,7 @@
  stem: эмъяськонни.
  gramm: N
  paradigm: Noun-num-vowel
- trans_ru: больница Кез ёросысь эмъяськонниын ужаны кутскиз
+ trans_ru: больница
 
 -lexeme
  lex: сузьем
@@ -48300,6 +48300,13 @@
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: пелёнка
+
+-lexeme
+ lex: дӥськут
+ stem: дӥськут.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: одежда
 
 -lexeme
  lex: радиоволна
@@ -74678,7 +74685,7 @@
  stem: сальтырна.
  gramm: N
  paradigm: Noun-num-vowel
- trans_ru гриб маслёнок
+ trans_ru: гриб маслёнок
 
 -lexeme
  lex: сольтырна

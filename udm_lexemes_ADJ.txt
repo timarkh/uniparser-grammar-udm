@@ -5495,10 +5495,31 @@
  trans_ru: маленький
 
 -lexeme
+ lex: покчи
+ stem: покчи.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: младший
+
+-lexeme
+ lex: котырес
+ stem: котырес.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: круглый
+
+-lexeme
  lex: егит
  stem: егит.
  gramm: ADJ
  paradigm: connect_adjectives
+ trans_ru: молодой
+
+-lexeme
+ lex: егит
+ stem: егит.
+ gramm: N
+ paradigm: Noun-num-consonant
  trans_ru: молодой
 
 -lexeme
@@ -14676,4 +14697,11 @@
  gramm: ADJ
  paradigm: connect_adjectives
  trans_ru: 1. трескающийся 2. хрупкий 3. хрустящий
+
+-lexeme
+ lex: калыккуспо
+ stem: калыккуспо.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: международный
 

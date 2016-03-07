@@ -9053,35 +9053,35 @@
  lex: кыкнапала
  stem: кыкнапала.
  gramm: ADV,ill
- paradigm: connect_advebrs
+ paradigm: connect_adverbs
  trans_ru: в две стороны
 
 -lexeme
  lex: кыкнапалаз
  stem: кыкнапалаз.
  gramm: ADV,3sg,lov
- paradigm: connect_advebrs
+ paradigm: connect_adverbs
  trans_ru: по обеим сторонам
 
 -lexeme
  lex: огкутскемен
  stem: огкутскемен.
  gramm: ADV,ins
- paradigm: connect_advebrs
+ paradigm: connect_adverbs
  trans_ru: заодно
 
 -lexeme
  lex: огкутскемскын
  stem: огкутскемскын.
  gramm: ADV,ins
- paradigm: connect_advebrs
+ paradigm: connect_adverbs
  trans_ru: заодно
 
 -lexeme
  lex: кудлань
  stem: кудлан.
  gramm: ADV,app
- paradigm: connect_advebrs
+ paradigm: connect_adverbs
  trans_ru: в какую сторону
 
 -lexeme
@@ -9095,21 +9095,21 @@
  lex: огшапскын
  stem: огшапскын.
  gramm: ADV,loc
- paradigm: connect_advebrs
+ paradigm: connect_adverbs
  trans_ru: немного погодя
 
 -lexeme
  lex: лушкемен
  stem: лушкемен.
  gramm: ADV,ins
- paradigm: connect_advebrs
+ paradigm: connect_adverbs
  trans_ru: тайком, тайно
 
 -lexeme
  lex: часталы
  stem: часталы.
  gramm: ADV,dat
- paradigm: connect_advebrs
+ paradigm: connect_adverbs
  trans_ru: часталы ненадолго
 
 -lexeme
@@ -9221,7 +9221,7 @@
  lex: палэнын
  stem: палэнын.
  gramm: ADV,loc
- paradigm: connect_advebrs
+ paradigm: connect_adverbs
  trans_ru: в стороне, поодаль, вне, на отшибе
 
 -lexeme
@@ -10464,6 +10464,20 @@
  trans_ru: мало
 
 -lexeme
+ lex: уно
+ stem: уно.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: много
+
+-lexeme
+ lex: ваче
+ stem: ваче.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: вдвоём
+
+-lexeme
  lex: казыр
  stem: казыр.
  gramm: ADV
@@ -10483,4 +10497,47 @@
  gramm: ADV
  paradigm: connect_adverbs
  trans_ru: вместе
+
+
+-lexeme
+ lex: тод
+ stem: тодам.
+ gramm: N,1sg,ill
+ paradigm: Empty
+ trans_ru: память
+
+-lexeme
+ lex: тод
+ stem: тодад.
+ gramm: N,2sg,ill
+ paradigm: Empty
+ trans_ru: память
+
+-lexeme
+ lex: тод
+ stem: тодаз.
+ gramm: N,3sg,ill
+ paradigm: Empty
+ trans_ru: память
+
+-lexeme
+ lex: тод
+ stem: тодамы.
+ gramm: N,1pl,ill
+ paradigm: Empty
+ trans_ru: память
+
+-lexeme
+ lex: тод
+ stem: тодады.
+ gramm: N,2pl,ill
+ paradigm: Empty
+ trans_ru: память
+
+-lexeme
+ lex: тод
+ stem: тодазы.
+ gramm: N,3pl,ill
+ paradigm: Empty
+ trans_ru: память
 
