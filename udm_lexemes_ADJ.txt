@@ -1837,7 +1837,7 @@
  stem: вӧжъем.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: бедный, нищий, вӧжъем муртлы берпум нянь юдэстэ но эн жаля
+ trans_ru: бедный, нищий
 
 -lexeme
  lex: механизаторской
@@ -4448,7 +4448,7 @@
  stem: быгыл.
  gramm: ADJ
  paradigm: connect_adjectives-soft
- trans_ru: полненький, пухленький, быгыль-быгыль бамъёсыд фольк. пухленькие твои щёчки
+ trans_ru: полненький, пухленький
 
 -lexeme
  lex: налёт
@@ -4462,7 +4462,7 @@
  stem: дун-чылкыт.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: святой, Александр баӵко та берпуметӥ эксэймес ӝутыны ӧдъяз сое дун-чылкытъёс пӧлы пыртэмзылэсь азьвыл ик
+ trans_ru: святой
 
 -lexeme
  lex: тактика
@@ -14333,7 +14333,7 @@
  stem: тынӥс.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: тихо, мирно, спокойно, тихий, мирный, спокойный
+ trans_ru: тихий, мирный, спокойный
 
 -lexeme
  lex: дуро-дуро
@@ -14390,3 +14390,290 @@
  gramm: ADJ
  paradigm: connect_adjectives
  trans_ru: томный
+
+-lexeme
+ lex: выль
+ stem: выл.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: новый
+
+-lexeme
+ lex: бекырес
+ stem: бекырес.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: наклонный, с креном
+
+-lexeme
+ lex: пумырес
+ stem: пумырес.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: о конопле и льне: жестко, не имеет мягкости
+
+-lexeme
+ lex: синвалинэс
+ stem: синвалинэс.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: о человеке: широкоглазый
+
+-lexeme
+ lex: торкет
+ stem: торкет.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: о жизни: небогато, в нужде
+
+-lexeme
+ lex: тавацыно
+ stem: тавацыно.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: о характере и нраве: вспыльчивый
+-lexeme
+ lex: сюлтэм
+ stem: сюлтэм.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: без полозьев
+
+-lexeme
+ lex: шектэм
+ stem: шектэм.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: без пороков
+
+-lexeme
+ lex: лэйкыт
+ stem: лэйкыт.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: 1. плавно покачивающийся, зыбкий 2. пружинистый
+
+-lexeme
+ lex: национально-государственной
+ stem: национально-государственной.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: национально-государственный
+
+-lexeme
+ lex: удысэтсьӧр
+ stem: удысэтсьӧр.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: вневедомственный
+
+-lexeme
+ lex: кӧто
+ stem: кӧто.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: беременная
+
+-lexeme
+ lex: бачкес
+ stem: бачкес.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: хорошо поднимающийся, хорошо густеющий
+
+-lexeme
+ lex: тыро-лыдо
+ stem: тыро-лыдо.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: в полном количестве
+
+-lexeme
+ lex: дым
+ stem: дым.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: пурпурового цвета, багровый, багряный
+
+-lexeme
+ lex: мыдала
+ stem: мыдала.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: обратное, наперекор сделанное
+
+-lexeme
+ lex: аптраган
+ stem: аптраган.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: достойные удивления, недоумения, сожаления
+
+-lexeme
+ lex: абдраган
+ stem: абдраган.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: достойные удивления, недоумения, сожаления
+
+-lexeme
+ lex: гаӵоло
+ stem: гаӵоло.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: на спине, навзничь, лицом кверху
+
+-lexeme
+ lex: вӧжо
+ stem: вӧжо.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: 1. чуть старше 2. чуть побольше
+
+-lexeme
+ lex: реза
+ stem: реза.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: согласный, довольный, удовлетворенный
+
+-lexeme
+ lex: пызесь
+ stem: пызесь.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: в муке, запачканный мукой
+
+-lexeme
+ lex: материально-технической
+ stem: материально-технической.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: материально-технический
+
+-lexeme
+ lex: близорукой
+ stem: близорукой.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: близорукий
+
+-lexeme
+ lex: шерчи
+ stem: шерчи.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: св., сэзь юркий, бойкий
+
+-lexeme
+ lex: кечыло
+ stem: кечыло.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: с верхом, доверху
+
+-lexeme
+ lex: мелэсь
+ stem: мелэсь.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: в мелу, запачканный мелом
+
+-lexeme
+ lex: ӟарыт-тӧри
+ stem: ӟарыт-тӧри.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: светло-карий
+
+-lexeme
+ lex: зубыт
+ stem: зубыт.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: о вкусе: вяжущий, кислый
+
+-lexeme
+ lex: тэкитэсь
+ stem: тэкитэсь.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: в дёгте, запачканный в дёгте
+
+-lexeme
+ lex: сьӧдырак-сьӧдырак
+ stem: сьӧдырак-сьӧдырак.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: с чёрными крапинками
+
+-lexeme
+ lex: ӟигарсыз
+ stem: ӟигарсыз.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: оставшийся без силы, ослабевший
+
+-lexeme
+ lex: буйгатонтэм
+ stem: буйгатонтэм.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: беспокойный
+
+-lexeme
+ lex: кепырес
+ stem: кепырес.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: узко (об одежде)
+
+-lexeme
+ lex: топкес
+ stem: топкес.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: неблагозвучный, как олово, глухой (о колоколе)
+
+-lexeme
+ lex: вожалэс
+ stem: вожалэс.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: с зелёным оттенком, зеленоватый
+
+-lexeme
+ lex: огарес
+ stem: огарес.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: одного года, ровесники
+
+-lexeme
+ lex: огаресъем
+ stem: огаресъем.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: одного года, ровесники
+
+-lexeme
+ lex: пепей
+ stem: пепей.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: красивый (детск.)
+
+-lexeme
+ lex: пепер
+ stem: пепер.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: красивый (детск.)
+
+-lexeme
+ lex: путырес
+ stem: путырес.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: 1. трескающийся 2. хрупкий 3. хрустящий
+

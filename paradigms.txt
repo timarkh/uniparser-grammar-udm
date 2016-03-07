@@ -1823,7 +1823,7 @@
  -flex: .тэм<.>
   gramm: ptcp,pres,act,neg
   paradigm: Noun-num-consonant
- -flex: .мтэ<.>
+ -flex: .ымтэ<.>
   gramm: ptcp,pass,neg
   paradigm: Noun-num-vowel
 
@@ -1831,7 +1831,7 @@
  -flex: .ьтэм<.>
   gramm: ptcp,pres,act,neg
   paradigm: Noun-num-consonant
- -flex: .ьмтэ<.>
+ -flex: .ьымтэ<.>
   gramm: ptcp,pass,neg
   paradigm: Noun-num-vowel
 

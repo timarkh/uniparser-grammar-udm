@@ -542,10 +542,38 @@
 
 -lexeme
  lex: ваньмыз
- stem: ваньмыз.
+ stem: вань.
  gramm: PRO
- paradigm: Noun-num-consonant
+ paradigm: Noun-case-poss-3,sg
  trans_ru: все, всё
+
+-lexeme
+ lex: ваньмыз
+ stem: ваньмыз.
+ gramm: PRO,3sg
+ paradigm: Noun-case
+ trans_ru: все, всё
+
+-lexeme
+ lex: ваньмы
+ stem: ваньмы.
+ gramm: PRO,1pl
+ paradigm: Noun-case
+ trans_ru: все [мы]
+
+-lexeme
+ lex: ваньды
+ stem: ваньды.
+ gramm: PRO,2pl
+ paradigm: Noun-case
+ trans_ru: все [вы]
+
+-lexeme
+ lex: ваньзы
+ stem: ваньзы.
+ gramm: PRO,3sg
+ paradigm: Noun-case
+ trans_ru: все [они]
 
 -lexeme
  lex: отчы
@@ -587,7 +615,7 @@
  stem: нокытчы.
  gramm: PRO,ill
  paradigm: Empty
- trans_ru: никуда
+ trans_ru: никуда; некуда
 
 -lexeme
  lex: отын
@@ -772,6 +800,13 @@
  trans_ru: где
 
 -lexeme
+ lex: отӥ
+ stem: отӥ.
+ gramm: PRO,prol
+ paradigm: Noun-num-vowel
+ trans_ru: там
+
+-lexeme
  lex: котькытӥ
  stem: котькытӥ.
  gramm: PRO,prol
@@ -791,6 +826,14 @@
  gramm: PRO,prol
  paradigm: Noun-num-vowel
  trans_ru: нигде; негде
+
+-lexeme
+ lex: котькытӥ
+ stem: котькытӥсен.
+ gramm: PRO,prol,egr
+ paradigm: Empty
+ trans_ru: откуда угодно, со всех сторон
+
 
 -lexeme
  lex: ас

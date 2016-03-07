@@ -1383,3 +1383,508 @@
  gramm: IMIT
  paradigm: Empty
  trans_ru: вдруг натянуть, потянуть
+
+-lexeme
+ lex: шыбыр-шыбыр
+ stem: шыбыр-шыбыр.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о частом и дробном стуке дождя
+
+-lexeme
+ lex: шырт
+ stem: шырт.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о слабом треске, щелчке
+
+-lexeme
+ lex: ӵыштыр-ӵаштыр
+ stem: ӵыштыр-ӵаштыр.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о шорохе, шелесте
+
+-lexeme
+ lex: омырак
+ stem: омырак.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: гурысь пӧсь ~ потэ из печки так жаром и пышет
+
+-lexeme
+ lex: омырак-омырак
+ stem: омырак-омырак.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: гурысь пӧсь ~ потэ из печки так жаром и пышет
+
+-lexeme
+ lex: кычыль
+ stem: кычыль.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: 
+
+-lexeme
+ lex: нюжмыль
+ stem: нюжмыль.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: еле-еле, кое-как, нерасторопно, медлительно, лениво
+
+-lexeme
+ lex: нюжмыль-нюжмыль
+ stem: нюжмыль-нюжмыль.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: еле-еле, кое-как, нерасторопно, медлительно, лениво
+
+-lexeme
+ lex: ӟурк
+ stem: ӟурк.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о скрипе снега
+
+-lexeme
+ lex: ӟурк-ӟурк
+ stem: ӟурк-ӟурк.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о скрипе снега
+
+-lexeme
+ lex: лоп
+ stem: лоп.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: хлоп
+
+-lexeme
+ lex: лоп-лоп
+ stem: лоп-лоп.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: хлоп-хлоп
+
+-lexeme
+ lex: ӵуштыр
+ stem: ӵуштыр.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о шелесте, шуршании
+
+-lexeme
+ lex: габыл
+ stem: габыл.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: залпом, до дна (выпить)
+
+-lexeme
+ lex: габылак
+ stem: габылак.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: залпом, до дна (выпить)
+
+-lexeme
+ lex: гылк
+ stem: гылк.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: до дна (пить)
+
+-lexeme
+ lex: гылкак
+ stem: гылкак.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: до дна (пить)
+
+-lexeme
+ lex: жингырак
+ stem: жингырак.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о звоне стеклянных и металлических предметов
+
+-lexeme
+ lex: жомбыль
+ stem: жомбыль.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о всплеске воды
+
+-lexeme
+ lex: жомбыль-жомбыль
+ stem: жомбыль-жомбыль.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о всплеске воды
+
+-lexeme
+ lex: ырак
+ stem: ырак.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: порывами (о ветре)
+
+-lexeme
+ lex: ырак-ырак
+ stem: ырак-ырак.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: порывами (о ветре)
+
+-lexeme
+ lex: шалтырак
+ stem: шалтырак.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о единичном стуке деревянным предметом; совсем, совершенно
+
+-lexeme
+ lex: чарк
+ stem: чарк.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: туго (скрученный); совсем
+
+-lexeme
+ lex: жӧл
+ stem: жӧл.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о головокружении
+
+-lexeme
+ lex: жӧлак
+ stem: жӧлак.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о головокружении
+
+-lexeme
+ lex: ӟир
+ stem: ӟир.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о вращении
+
+-lexeme
+ lex: ӟирак
+ stem: ӟирак.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о вращении
+
+-lexeme
+ lex: шар
+ stem: шар.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: синвуосыз ~ васько слёзы льются градом
+
+-lexeme
+ lex: чумор
+ stem: чумор.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: призывание, принуждение коня выпить воду
+
+-lexeme
+ lex: чумор-чумор
+ stem: чумор-чумор.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: призывание, принуждение коня выпить воду
+
+-lexeme
+ lex: жон
+ stem: жон.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о звоне колокола
+
+-lexeme
+ lex: жон-жон
+ stem: жон-жон.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о звоне колокола
+
+-lexeme
+ lex: шарк
+ stem: шарк.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о стуке о твёрдый предмет
+
+-lexeme
+ lex: шаркак
+ stem: шаркак.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о стуке о твёрдый предмет
+
+-lexeme
+ lex: вальтрак
+ stem: вальтрак.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о [блестяще] гладкой поверхности
+
+-lexeme
+ lex: вальтырак
+ stem: вальтырак.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о [блестяще] гладкой поверхности
+
+-lexeme
+ lex: кольыр
+ stem: кольыр.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: об урчании в животе
+
+-lexeme
+ lex: чутык
+ stem: чутык.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о походке хромого человека
+
+-lexeme
+ lex: чутык-чутык
+ stem: чутык-чутык.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о походке хромого человека
+
+-lexeme
+ lex: путыр
+ stem: путыр.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о расщепляющемся бревне: тихо
+
+-lexeme
+ lex: сипыр
+ stem: сипыр.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о писке, шёпоте
+
+-lexeme
+ lex: сипыр-сипыр
+ stem: сипыр-сипыр.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о писке, шёпоте
+
+-lexeme
+ lex: дӥго-дӥго
+ stem: дӥго-дӥго.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: возглас
+
+-lexeme
+ lex: дыбырак
+ stem: дыбырак.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: об одиночном стуке; быстро, поспешно
+
+-lexeme
+ lex: нымыляк
+ stem: нымыляк.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: все, целиком, дочиста
+
+-lexeme
+ lex: гизьырак
+ stem: гизьырак.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: со скрежетом, с хрустом
+
+-lexeme
+ lex: дӧлы
+ stem: дӧлы.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о пьяном –- кое-как ходит
+
+-lexeme
+ lex: тар
+ stem: тар.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о треске разрываемой ткани
+
+-lexeme
+ lex: жаляк
+ stem: жаляк.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о внезапном всплеске воды
+
+-lexeme
+ lex: чиоп
+ stem: чиоп.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о писке цыплят
+
+-lexeme
+ lex: чиоп-чиоп
+ stem: чиоп-чиоп.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о писке цыплят
+
+-lexeme
+ lex: гапыл
+ stem: гапыл.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: залпом, сразу
+
+-lexeme
+ lex: гапылак
+ stem: гапылак.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: залпом, сразу
+
+-lexeme
+ lex: лыр
+ stem: лыр.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о дрожи
+
+-lexeme
+ lex: лыр-лыр
+ stem: лыр-лыр.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о дрожи
+
+-lexeme
+ lex: ӟирк
+ stem: ӟирк.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о чистоте; о хрусте
+
+-lexeme
+ lex: ӟиркак
+ stem: ӟиркак.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о чистоте; о хрусте
+
+-lexeme
+ lex: ӟирк-ӟирк
+ stem: ӟирк-ӟирк.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о чистоте; о хрусте
+
+-lexeme
+ lex: тылпын-тылпын
+ stem: тылпын-тылпын.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: мягко и красиво (о виде и качестве)
+
+-lexeme
+ lex: жыляк
+ stem: жыляк.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: всё целиком, начисто
+
+-lexeme
+ lex: сумбырак
+ stem: сумбырак.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: неуклюже, неповоротливо
+
+-lexeme
+ lex: тачырак
+ stem: тачырак.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: об одиночном треске при горении, ломке сухих сучьев
+
+-lexeme
+ lex: писыр
+ stem: писыр.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: сюлэм ~ луэ -- сердце щемит
+
+-lexeme
+ lex: писыр-писыр
+ stem: писыр-писыр.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: сюлэм ~ луэ -- сердце щемит
+
+-lexeme
+ lex: турлэрик
+ stem: турлэрик.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о крике журавля
+
+-lexeme
+ lex: тюрыштык
+ stem: тюрыштык.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о капле, спущенной в жидкость: вдруг, как дробинка
+
+-lexeme
+ lex: баб
+ stem: баб.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: бай, спи
+
+-lexeme
+ lex: лакрак
+ stem: лакрак.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: с треском, с хрустом
+
+-lexeme
+ lex: зыб
+ stem: зыб.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: с шумом (о падении)
+
+-lexeme
+ lex: зыбак
+ stem: зыбак.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: с шумом (о падении)
+
+-lexeme
+ lex: мырак
+ stem: мырак.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: резко
+

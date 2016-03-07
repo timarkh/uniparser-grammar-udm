@@ -62,6 +62,14 @@
  trans_ru: середина
 
 -lexeme
+ lex: шор
+ stem: шоретӥ.
+ gramm: N,ord
+ paradigm: Adjectives_Sg_intens
+ paradigm: Comparative
+ trans_ru: середина
+
+-lexeme
  lex: вис
  stem: вис.
  gramm: N,rel_n

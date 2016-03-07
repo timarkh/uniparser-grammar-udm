@@ -7,6 +7,55 @@
  trans_ru: Идна
 
 -lexeme
+ lex: Мардан
+ stem: мардан.
+ gramm: N,persn
+ paradigm: Noun-num-consonant
+ trans_ru: Мардан
+
+-lexeme
+ lex: Будӟыман
+ stem: будӟыман.
+ gramm: N,persn
+ paradigm: Noun-num-consonant
+ trans_ru: Будзыман
+
+-lexeme
+ lex: Эштэрек
+ stem: эштэрек.
+ gramm: N,persn
+ paradigm: Noun-num-consonant
+ trans_ru: Эштэрек
+
+-lexeme
+ lex: Мукылдысин
+ stem: мукылдысин.
+ gramm: N,persn
+ paradigm: Noun-num-consonant
+ trans_ru: бог земли, хорошего урожая
+
+-lexeme
+ lex: Ожмег
+ stem: ожмег.
+ gramm: N,persn
+ paradigm: Noun-num-consonant
+ trans_ru: Ожмег
+
+-lexeme
+ lex: Алман
+ stem: алман.
+ gramm: N,persn
+ paradigm: Noun-num-consonant
+ trans_ru: Альман языческое собственное мужское имя, ойконим
+
+-lexeme
+ lex: Донды
+ stem: донды.
+ gramm: N,persn
+ paradigm: Noun-num-vowel
+ trans_ru: Донды
+
+-lexeme
  lex: Александр
  stem: александр.
  gramm: N,persn
@@ -4589,6 +4638,13 @@
  stem: вотка.
  gramm: N,topn
  paradigm: Noun-num-vowel
+ trans_ru: Воткинск
+
+-lexeme
+ lex: Воткакар
+ stem: воткакар.
+ gramm: N,topn
+ paradigm: Noun-num-consonant
  trans_ru: Воткинск
 
 -lexeme
