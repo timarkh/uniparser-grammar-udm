@@ -658,6 +658,13 @@
  trans_ru: Саакашвили
 
 -lexeme
+ lex: Рузвельт
+ stem: рузвельт.
+ gramm: N,famn
+ paradigm: Noun-num-consonant
+ trans_ru: Рузвельт
+
+-lexeme
  lex: Дарали
  stem: дарали.
  gramm: N,famn

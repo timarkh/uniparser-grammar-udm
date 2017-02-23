@@ -449,6 +449,13 @@
  trans_ru: тогда
 
 -lexeme
+ lex: сокы
+ stem: сокы.
+ gramm: PRO
+ paradigm: Empty
+ trans_ru: тогда
+
+-lexeme
  lex: котьку
  stem: котьку.
  gramm: PRO

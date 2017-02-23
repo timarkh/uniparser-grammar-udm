@@ -2551,44 +2551,200 @@
 -paradigm: Aspect-II
  -flex: .ськ<.>//.ск<.>
   gramm: pass
+  paradigm: Infinitive-I
+  paradigm: Verb-pres-I-positive
+  paradigm: Verb-past-I-positive
+  paradigm: Verb-future-I-positive
+  paradigm: Verb-pres-I-negative
+  paradigm: Verb-I-negative
+  paradigm: Verb-subj-I
+  paradigm: Converbs-I
+  paradigm: Evidentiality-I
+  paradigm: Participles-I
+  paradigm: Participles-neg-I
+  paradigm: Verb-imp-I
  -flex: .лля<.>
   gramm: freq
+  paradigm: Infinitive-II
+  paradigm: Verb-pres-II-positive
+  paradigm: Verb-past-II-positive
+  paradigm: Verb-future-II-positive
+  paradigm: Verb-pres-II-negative
+  paradigm: Verb-II-negative
+  paradigm: Verb-subj-II
+  paradigm: Converbs-II
+  paradigm: Evidentiality-II
+  paradigm: Participles-II
+  paradigm: Participles-neg-II
+  paradigm: Verb-imp-II
  -flex: .мъяськ<.>
   gramm: fict
+  paradigm: Infinitive-I
+  paradigm: Verb-pres-I-positive
+  paradigm: Verb-past-I-positive
+  paradigm: Verb-future-I-positive
+  paradigm: Verb-pres-I-negative
+  paradigm: Verb-I-negative
+  paradigm: Verb-subj-I
+  paradigm: Converbs-I
+  paradigm: Evidentiality-I
+  paradigm: Participles-I
+  paradigm: Participles-neg-I
+  paradigm: Verb-imp-I
  -flex: .т<.>
   gramm: caus
+  paradigm: Infinitive-I
+  paradigm: Verb-pres-I-positive
+  paradigm: Verb-past-I-positive
+  paradigm: Verb-future-I-positive
+  paradigm: Verb-pres-I-negative
+  paradigm: Verb-I-negative
+  paradigm: Verb-subj-I
+  paradigm: Converbs-I
+  paradigm: Evidentiality-I
+  paradigm: Participles-I
+  paradigm: Participles-neg-I
+  paradigm: Verb-imp-I
  -flex: .ськыл<.>//.скыл<.>
   gramm: pass,freq
+  paradigm: Infinitive-I
+  paradigm: Verb-pres-I-positive
+  paradigm: Verb-past-I-positive
+  paradigm: Verb-future-I-positive
+  paradigm: Verb-pres-I-negative
+  paradigm: Verb-I-negative
+  paradigm: Verb-subj-I
+  paradigm: Converbs-I
+  paradigm: Evidentiality-I
+  paradigm: Participles-I
+  paradigm: Participles-neg-I
+  paradigm: Verb-imp-I
  -flex: .лляськ<.>
   gramm: freq,pass
+  paradigm: Infinitive-I
+  paradigm: Verb-pres-I-positive
+  paradigm: Verb-past-I-positive
+  paradigm: Verb-future-I-positive
+  paradigm: Verb-pres-I-negative
+  paradigm: Verb-I-negative
+  paradigm: Verb-subj-I
+  paradigm: Converbs-I
+  paradigm: Evidentiality-I
+  paradigm: Participles-I
+  paradigm: Participles-neg-I
+  paradigm: Verb-imp-I
  -flex: .ллямъяськ<.>
   gramm: freq,fict
+  paradigm: Infinitive-I
+  paradigm: Verb-pres-I-positive
+  paradigm: Verb-past-I-positive
+  paradigm: Verb-future-I-positive
+  paradigm: Verb-pres-I-negative
+  paradigm: Verb-I-negative
+  paradigm: Verb-subj-I
+  paradigm: Converbs-I
+  paradigm: Evidentiality-I
+  paradigm: Participles-I
+  paradigm: Participles-neg-I
+  paradigm: Verb-imp-I
  -flex: .тэмъяськ<.>
   gramm: caus,fict
+  paradigm: Infinitive-I
+  paradigm: Verb-pres-I-positive
+  paradigm: Verb-past-I-positive
+  paradigm: Verb-future-I-positive
+  paradigm: Verb-pres-I-negative
+  paradigm: Verb-I-negative
+  paradigm: Verb-subj-I
+  paradigm: Converbs-I
+  paradigm: Evidentiality-I
+  paradigm: Participles-I
+  paradigm: Participles-neg-I
+  paradigm: Verb-imp-I
  -flex: .ськемъяськ<.>//.скемъяськ<.>
   gramm: pass,fict
+  paradigm: Infinitive-I
+  paradigm: Verb-pres-I-positive
+  paradigm: Verb-past-I-positive
+  paradigm: Verb-future-I-positive
+  paradigm: Verb-pres-I-negative
+  paradigm: Verb-I-negative
+  paradigm: Verb-subj-I
+  paradigm: Converbs-I
+  paradigm: Evidentiality-I
+  paradigm: Participles-I
+  paradigm: Participles-neg-I
+  paradigm: Verb-imp-I
  -flex: .ськыт<.>//.скыт<.>
   gramm: pass,caus
+  paradigm: Infinitive-I
+  paradigm: Verb-pres-I-positive
+  paradigm: Verb-past-I-positive
+  paradigm: Verb-future-I-positive
+  paradigm: Verb-pres-I-negative
+  paradigm: Verb-I-negative
+  paradigm: Verb-subj-I
+  paradigm: Converbs-I
+  paradigm: Evidentiality-I
+  paradigm: Participles-I
+  paradigm: Participles-neg-I
+  paradigm: Verb-imp-I
  -flex: .тск<.>//.тӥськ<.>
   gramm: caus,pass
+  paradigm: Infinitive-I
+  paradigm: Verb-pres-I-positive
+  paradigm: Verb-past-I-positive
+  paradigm: Verb-future-I-positive
+  paradigm: Verb-pres-I-negative
+  paradigm: Verb-I-negative
+  paradigm: Verb-subj-I
+  paradigm: Converbs-I
+  paradigm: Evidentiality-I
+  paradigm: Participles-I
+  paradigm: Participles-neg-I
+  paradigm: Verb-imp-I
  -flex: .ллят<.>
   gramm: freq,caus
+  paradigm: Infinitive-I
+  paradigm: Verb-pres-I-positive
+  paradigm: Verb-past-I-positive
+  paradigm: Verb-future-I-positive
+  paradigm: Verb-pres-I-negative
+  paradigm: Verb-I-negative
+  paradigm: Verb-subj-I
+  paradigm: Converbs-I
+  paradigm: Evidentiality-I
+  paradigm: Participles-I
+  paradigm: Participles-neg-I
+  paradigm: Verb-imp-I
  -flex: .тыл<.>
   gramm: caus,freq
+  paradigm: Infinitive-I
+  paradigm: Verb-pres-I-positive
+  paradigm: Verb-past-I-positive
+  paradigm: Verb-future-I-positive
+  paradigm: Verb-pres-I-negative
+  paradigm: Verb-I-negative
+  paradigm: Verb-subj-I
+  paradigm: Converbs-I
+  paradigm: Evidentiality-I
+  paradigm: Participles-I
+  paradigm: Participles-neg-I
+  paradigm: Verb-imp-I
  -flex: .тылӥськ<.>
   gramm: caus,freq,pass
- paradigm: Infinitive-I
- paradigm: Verb-pres-I-positive
- paradigm: Verb-past-I-positive
- paradigm: Verb-future-I-positive
- paradigm: Verb-pres-I-negative
- paradigm: Verb-I-negative
- paradigm: Verb-subj-I
- paradigm: Converbs-I
- paradigm: Evidentiality-I
- paradigm: Participles-I
- paradigm: Participles-neg-I
- paradigm: Verb-imp-I
+  paradigm: Infinitive-I
+  paradigm: Verb-pres-I-positive
+  paradigm: Verb-past-I-positive
+  paradigm: Verb-future-I-positive
+  paradigm: Verb-pres-I-negative
+  paradigm: Verb-I-negative
+  paradigm: Verb-subj-I
+  paradigm: Converbs-I
+  paradigm: Evidentiality-I
+  paradigm: Participles-I
+  paradigm: Participles-neg-I
+  paradigm: Verb-imp-I
 
 
 -paradigm: Evidentiality-I

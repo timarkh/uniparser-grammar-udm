@@ -14421,7 +14421,7 @@
 
 -lexeme
  lex: Гожтэм
- stem: Гожтэм.
+ stem: гожтэм.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: Писание
@@ -16949,7 +16949,7 @@
 
 -lexeme
  lex: асфальт
- stem: асфальт.
+ stem: асфальт.//асвальт.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: асфальт
@@ -82582,4 +82582,54 @@
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: прошлогодняя сухая трава на корню
+
+
+-lexeme
+ lex: радиопульт
+ stem: радиопульт.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: радиопульт
+
+-lexeme
+ lex: инсульт
+ stem: инсульт.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: инсульт
+
+-lexeme
+ lex: микроинсульт
+ stem: микроинсульт.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: микроинсульт
+
+-lexeme
+ lex: минкульт
+ stem: минкульт.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: минкульт
+
+-lexeme
+ lex: альт
+ stem: альт.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: альт
+
+-lexeme
+ lex: кельт
+ stem: кельт.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: кельт
+
+-lexeme
+ lex: мульт
+ stem: мульт.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: мульт
 

@@ -2444,7 +2444,7 @@
 -lexeme
  lex: суэсь
  stem: суэс.
- gramm: ADJ
+ gramm: ADJ,oblin
  paradigm: connect_adjectives-soft
  trans_ru: покрытый копотью, закоптелый, закопчённый, запачканный копотью
 
@@ -3844,9 +3844,9 @@
 -lexeme
  lex: нумыресь
  stem: нумырес.
- gramm: ADJ
+ gramm: ADJ,oblin
  paradigm: connect_adjectives-soft
- trans_ru: нумырӟем червивый
+ trans_ru: червивый
 
 -lexeme
  lex: кылтэм-ымтэм
@@ -5062,7 +5062,7 @@
 -lexeme
  lex: уресь
  stem: урес.
- gramm: ADJ
+ gramm: ADJ,oblin
  paradigm: connect_adjectives-soft
  trans_ru: гнойный, запачканный гноем
 
@@ -5104,7 +5104,7 @@
 -lexeme
  lex: кожесь
  stem: кожес.
- gramm: ADJ
+ gramm: ADJ,oblin
  paradigm: connect_adjectives-soft
  trans_ru: омутистый, изобилующий омутами
 
@@ -5546,7 +5546,7 @@
 -lexeme
  lex: тузонэсь
  stem: тузонэс.
- gramm: ADJ
+ gramm: ADJ,oblin
  paradigm: connect_adjectives-soft
  trans_ru: пыльный
 
@@ -6512,7 +6512,7 @@
 -lexeme
  lex: пылесь
  stem: пылес.
- gramm: ADJ
+ gramm: ADJ,oblin
  paradigm: connect_adjectives-soft
  trans_ru: пыльный, запылённый
 
@@ -6584,7 +6584,7 @@
  stem: нозо.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: гибкий Асбест нозесь но пӧсез, шолокъёсты но чырсалъёсты чидасесь
+ trans_ru: гибкий
 
 -lexeme
  lex: лӧбырес
@@ -6743,7 +6743,7 @@
 -lexeme
  lex: ядэсь
  stem: ядэс.
- gramm: ADJ
+ gramm: ADJ,oblin
  paradigm: connect_adjectives-soft
  trans_ru: ядоносный, заключающий в себе ядовитое вещество
 
@@ -7415,7 +7415,7 @@
 -lexeme
  lex: шумесь
  stem: шумес.
- gramm: ADJ
+ gramm: ADJ,oblin
  paradigm: connect_adjectives-soft
  trans_ru: в саже, испачканный сажей
 
@@ -7450,7 +7450,7 @@
 -lexeme
  lex: чересь
  stem: черес.
- gramm: ADJ
+ gramm: ADJ,oblin
  paradigm: connect_adjectives-soft
  trans_ru: 1. заразный 2. болезненный
 
@@ -10985,7 +10985,7 @@
 -lexeme
  lex: кӧесь-вӧесь
  stem: кӧесь-вӧес.
- gramm: ADJ
+ gramm: ADJ,oblin
  paradigm: connect_adjectives-soft
  trans_ru: засаленный, замасленный, запачканный маслом
 
@@ -11867,7 +11867,7 @@
 -lexeme
  lex: лыдонэсь
  stem: лыдонэс.
- gramm: ADJ
+ gramm: ADJ,oblin
  paradigm: connect_adjectives-soft
  trans_ru: чесоточный
 
@@ -12231,9 +12231,9 @@
 -lexeme
  lex: пасесь
  stem: пасес.
- gramm: ADJ
+ gramm: ADJ,oblin
  paradigm: connect_adjectives-soft
- trans_ru: пасё дырявый, рваный, пасё-пасё с дырками
+ trans_ru: дырявый, рваный
 
 -lexeme
  lex: лулкерӟег
@@ -13778,7 +13778,7 @@
 -lexeme
  lex: дэриесь
  stem: дэриес.
- gramm: ADJ
+ gramm: ADJ,oblin
  paradigm: connect_adjectives-soft
  trans_ru: грязный, слякотный
 
@@ -13841,7 +13841,7 @@
 -lexeme
  lex: лыэсь
  stem: лыэс.
- gramm: ADJ
+ gramm: ADJ,oblin
  paradigm: connect_adjectives-soft
  trans_ru: костистый, костлявый
 
@@ -14310,7 +14310,7 @@
 -lexeme
  lex: лымыесь
  stem: лымыес.
- gramm: ADJ
+ gramm: ADJ,oblin
  paradigm: connect_adjectives
  trans_ru: в снегу, снежный
 
@@ -14338,7 +14338,7 @@
 -lexeme
  lex: пенесь
  stem: пенес.
- gramm: ADJ
+ gramm: ADJ,oblin
  paradigm: connect_adjectives
  trans_ru: в золе, запачканный золой
 
@@ -14561,7 +14561,7 @@
 -lexeme
  lex: пызесь
  stem: пызесь.
- gramm: ADJ
+ gramm: ADJ,oblin
  paradigm: connect_adjectives
  trans_ru: в муке, запачканный мукой
 
@@ -14596,7 +14596,7 @@
 -lexeme
  lex: мелэсь
  stem: мелэсь.
- gramm: ADJ
+ gramm: ADJ,oblin
  paradigm: connect_adjectives
  trans_ru: в мелу, запачканный мелом
 
@@ -14617,7 +14617,7 @@
 -lexeme
  lex: тэкитэсь
  stem: тэкитэсь.
- gramm: ADJ
+ gramm: ADJ,oblin
  paradigm: connect_adjectives
  trans_ru: в дёгте, запачканный в дёгте
 
@@ -14704,4 +14704,158 @@
  gramm: ADJ
  paradigm: connect_adjectives
  trans_ru: международный
+
+-lexeme
+ lex: сылалэсь
+ stem: сылалэс.
+ gramm: ADJ,oblin
+ paradigm: connect_adjectives-soft
+ trans_ru: весь в соли
+
+-lexeme
+ lex: сиренесь
+ stem: сиренес.
+ gramm: ADJ,oblin
+ paradigm: connect_adjectives-soft
+ trans_ru: весь в сирени
+
+-lexeme
+ lex: чечыесь
+ stem: чечыес.
+ gramm: ADJ,oblin
+ paradigm: connect_adjectives-soft
+ trans_ru: весь в меду
+
+-lexeme
+ lex: сюесь
+ stem: сюес.
+ gramm: ADJ,oblin
+ paradigm: connect_adjectives-soft
+ trans_ru: весь в земле, глине
+
+-lexeme
+ lex: гонэсь
+ stem: гонэс.
+ gramm: ADJ,oblin
+ paradigm: connect_adjectives-soft
+ trans_ru: весь в шерсти, пухе, перьях, волосах на теле
+
+-lexeme
+ lex: чорыгесь
+ stem: чорыгес.
+ gramm: ADJ,oblin
+ paradigm: connect_adjectives-soft
+ trans_ru: весь в рыбе
+
+-lexeme
+ lex: виресь
+ stem: вирес.
+ gramm: ADJ,oblin
+ paradigm: connect_adjectives-soft
+ trans_ru: весь в крови
+
+-lexeme
+ lex: жагесь
+ stem: жагес.
+ gramm: ADJ,oblin
+ paradigm: connect_adjectives-soft
+ trans_ru: весь в соре, мусоре
+
+-lexeme
+ lex: нефтесь
+ stem: нефтес.
+ gramm: ADJ,oblin
+ paradigm: connect_adjectives-soft
+ trans_ru: весь в нефти
+
+-lexeme
+ lex: кыедэсь
+ stem: кыедэс.
+ gramm: ADJ,oblin
+ paradigm: connect_adjectives-soft
+ trans_ru: весь в навозах, помётах
+
+-lexeme
+ lex: графитэсь
+ stem: графитэс.
+ gramm: ADJ,oblin
+ paradigm: connect_adjectives-soft
+ trans_ru: весь в графите
+
+-lexeme
+ lex: мазутэсь
+ stem: мазутэс.
+ gramm: ADJ,oblin
+ paradigm: connect_adjectives-soft
+ trans_ru: весь в мазуте
+
+-lexeme
+ lex: сиресь
+ stem: сирес.
+ gramm: ADJ,oblin
+ paradigm: connect_adjectives-soft
+ trans_ru: весь в смоле, сере
+
+-lexeme
+ lex: сулэсь
+ stem: сулэс.
+ gramm: ADJ,oblin
+ paradigm: connect_adjectives-soft
+ trans_ru: весь в коре
+
+-lexeme
+ lex: зырымесь
+ stem: зырымес.
+ gramm: ADJ,oblin
+ paradigm: connect_adjectives-soft
+ trans_ru: весь в соплях
+
+-lexeme
+ lex: висёнэсь
+ stem: висёнэс.
+ gramm: ADJ,oblin
+ paradigm: connect_adjectives-soft
+ trans_ru: весь в болезнях, болячках
+
+-lexeme
+ lex: йырсиесь
+ stem: йырсиес.
+ gramm: ADJ,oblin
+ paradigm: connect_adjectives-soft
+ trans_ru: весь в волосах
+
+-lexeme
+ lex: лемесь
+ stem: лемес.
+ gramm: ADJ,oblin
+ paradigm: connect_adjectives-soft
+ trans_ru: весь в клею
+
+-lexeme
+ lex: ӝукесь
+ stem: ӝукес.
+ gramm: ADJ,oblin
+ paradigm: connect_adjectives-soft
+ trans_ru: весь в каше
+
+-lexeme
+ lex: пукылэсь
+ stem: пукылэс.
+ gramm: ADJ,oblin
+ paradigm: connect_adjectives-soft
+ trans_ru: весь в 1. лужах 2. низких местах, низинных болотах
+
+-lexeme
+ lex: сӥтесь
+ stem: сӥтес.
+ gramm: ADJ,oblin
+ paradigm: connect_adjectives-soft
+ trans_ru: весь в кале, помёте
+
+-lexeme
+ lex: вӧесь
+ stem: вӧес.
+ gramm: ADJ,oblin
+ paradigm: connect_adjectives-soft
+ trans_ru: весь в масле, сале
 
