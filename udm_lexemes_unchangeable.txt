@@ -9253,6 +9253,13 @@
  trans_ru: очень
 
 -lexeme
+ lex: наизусть
+ stem: наизусть.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: наизусть
+
+-lexeme
  lex: пожалуй
  stem: пожалуй.
  gramm: PART

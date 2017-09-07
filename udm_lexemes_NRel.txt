@@ -10,6 +10,7 @@
  stem: сьӧр.
  gramm: N,rel_n
  paradigm: Noun-num-consonant
+ paradigm: Noun-num-consonant-y
  trans_ru: за, сзади (у задней части ориентира)
 
 -lexeme
@@ -17,6 +18,7 @@
  stem: сьӧрк.
  gramm: N,rel_n
  paradigm: Noun-num-consonant
+ paradigm: Noun-num-consonant-y
  trans_ru: за, сзади (у задней части ориентира)
 
 -lexeme
@@ -59,13 +61,14 @@
  stem: шор.
  gramm: N,rel_n
  paradigm: Noun-num-consonant
+ paradigm: Noun-num-consonant-y
  trans_ru: середина
 
 -lexeme
  lex: шор
  stem: шоретӥ.
  gramm: N,ord
- paradigm: Adjectives_Sg_intens
+ paradigm: Noun-case-compounding
  paradigm: Comparative
  trans_ru: середина
 
@@ -81,6 +84,7 @@
  stem: виск.
  gramm: N,rel_n
  paradigm: Noun-num-consonant
+ paradigm: Noun-num-consonant-y
  trans_ru: промежуток; между
 
 -lexeme
@@ -95,6 +99,7 @@
  stem: урдэск.
  gramm: N,rel_n
  paradigm: Noun-num-consonant
+ paradigm: Noun-num-consonant-y
  trans_ru: бок, сторона; сбоку
 
 -lexeme
@@ -130,6 +135,7 @@
  stem: бӧрс.
  gramm: N,rel_n
  paradigm: Noun-num-soft
+ paradigm: Noun-num-soft-y
  trans_ru: следом за
 
 -lexeme
@@ -151,6 +157,7 @@
  stem: йыл.
  gramm: N,rel_n
  paradigm: Noun-num-consonant
+ paradigm: Noun-num-consonant-y
  trans_ru: вершина, верхушка
 
 -lexeme
@@ -158,6 +165,7 @@
  stem: пӧл.
  gramm: N,rel_n
  paradigm: Noun-num-consonant
+ paradigm: Noun-num-consonant-y
  trans_ru: среди
 
 -lexeme
@@ -171,7 +179,7 @@
  lex: пуш
  stem: пушк.
  gramm: N,rel_n
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-consonant-y
  trans_ru: внутренность; внутри
 
 -lexeme
@@ -200,6 +208,7 @@
  stem: выл.
  gramm: N,rel_n
  paradigm: Noun-num-consonant
+ paradigm: Noun-num-consonant-y
  trans_ru: верх, поверхность; сверху
 
 -lexeme
@@ -214,6 +223,7 @@
  stem: ул.
  gramm: N,rel_n
  paradigm: Noun-num-consonant
+ paradigm: Noun-num-consonant-y
  trans_ru: низ; снизу
 
 -lexeme
@@ -228,6 +238,7 @@
  stem: дор.
  gramm: N,rel_n
  paradigm: Noun-num-consonant
+ paradigm: Noun-num-consonant-y
  trans_ru: около
 
 -lexeme

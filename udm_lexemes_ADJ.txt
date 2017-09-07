@@ -11309,6 +11309,8 @@
  stem: мукет.
  gramm: ADJ
  paradigm: Noun-num-consonant
+ paradigm: Noun-num-consonant-y
+ paradigm: connect_adjectives
  trans_ru: другой
 
 -lexeme

@@ -55,55 +55,64 @@
  -flex: .<.>
   gramm:
  paradigm: Adjectives_Pl
- paradigm: Adjectives_Sg_intens
+ paradigm: Noun-case-compounding
  paradigm: Comparative
 
 -paradigm: connect_adjectives-soft
- -flex: .ь<.>
+ -flex: .[ь]<.>
   gramm:
   paradigm: Comparative
  -flex: .<.>
   gramm:
   paradigm: Adjectives_Pl-soft
-  paradigm: Adjectives_Sg_intens-soft
+  paradigm: Noun-case-compounding-soft
 
 -paradigm: connect_num
  -flex: .<.>
   gramm:
   paradigm: Noun-case
-  paradigm: Adjectives_Sg_intens
+  paradigm: Noun-case-compounding
+  paradigm: Noun-case-poss-y-3,sg
+  paradigm: Noun-case-poss-3,sg
   paradigm: Comparative
  -flex: .етӥ<.>
   gramm: ord
+  gloss: ORD
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
-  paradigm: Adjectives_Sg_intens
+  paradigm: Noun-case-compounding
   paradigm: Comparative
  -flex: .этӥ<.>
   gramm: ord
-  paradigm: Adjectives_Sg_intens
+  gloss: ORD
+  paradigm: Noun-case-compounding
   paradigm: Comparative
  -flex: .ос<.>
   regex-prev: ^.*[аеёиӥоӧуыэюя][<>.]*$
   gramm: pl
+  gloss: PL
   paradigm: Noun-case
-  paradigm: Noun-case-poss-1,sg
-  paradigm: Noun-case-poss-2,sg
-  paradigm: Noun-case-poss-3,sg
+  paradigm: Noun-case-y
+  paradigm: Noun-case-poss-y-1,sg
+  paradigm: Noun-case-poss-y-2,sg
+  paradigm: Noun-case-poss-y-3,sg
   paradigm: Noun-case-poss-1,pl
   paradigm: Noun-case-poss-2,pl
   paradigm: Noun-case-poss-3,pl
  -flex: .ъёс<.>
   regex-prev: ^.*[^аеёиӥоӧуыэюя<>.][<>.]*$
   gramm: pl
+  gloss: PL
   paradigm: Noun-case
-  paradigm: Noun-case-poss-1,sg
-  paradigm: Noun-case-poss-2,sg
-  paradigm: Noun-case-poss-3,sg
+  paradigm: Noun-case-y
+  paradigm: Noun-case-poss-y-1,sg
+  paradigm: Noun-case-poss-y-2,sg
+  paradigm: Noun-case-poss-y-3,sg
   paradigm: Noun-case-poss-1,pl
   paradigm: Noun-case-poss-2,pl
   paradigm: Noun-case-poss-3,pl
  -flex: .на<.>
   gramm: coll
+  gloss: COLL
   paradigm: Noun-case-poss-1,sg
   paradigm: Noun-case-poss-2,sg
   paradigm: Noun-case-poss-3,sg
@@ -111,8 +120,12 @@
   paradigm: Noun-case-poss-2,pl
   paradigm: Noun-case-poss-3,pl
   paradigm: Comparative
- -flex: .ой<.>//.ойскын<.>
+ -flex: .ой<.>
   gramm: period
+  gloss: PERIOD
+ -flex: .ой|скын<.>
+  gramm: period
+  gloss: PERIOD|DELIM
   paradigm: Comparative
 
 
@@ -120,25 +133,29 @@
  -flex: .<.>
   gramm:
   paradigm: Noun-case-soft
-  paradigm: Adjectives_Sg_intens-soft
- -flex: .ь<.>
+  paradigm: Noun-case-compounding-soft
+ -flex: .[ь]<.>
   gramm:
   paradigm: Comparative
  -flex: .етӥ<.>
   gramm: ord
-  paradigm: Adjectives_Sg_intens
+  gloss: ORD
+  paradigm: Noun-case-compounding
   paradigm: Comparative
- -flex: .ьёс<.>
+ -flex: .[ь]ёс<.>
   gramm: pl
+  gloss: PL
   paradigm: Noun-case
-  paradigm: Noun-case-poss-1,sg
-  paradigm: Noun-case-poss-2,sg
-  paradigm: Noun-case-poss-3,sg
+  paradigm: Noun-case-y
+  paradigm: Noun-case-poss-y-1,sg
+  paradigm: Noun-case-poss-y-2,sg
+  paradigm: Noun-case-poss-y-3,sg
   paradigm: Noun-case-poss-1,pl
   paradigm: Noun-case-poss-2,pl
   paradigm: Noun-case-poss-3,pl
- -flex: .ьна<.>
+ -flex: .[ь]на<.>
   gramm: coll
+  gloss: COLL
   paradigm: Noun-case-poss-1,sg
   paradigm: Noun-case-poss-2,sg
   paradigm: Noun-case-poss-3,sg
@@ -146,8 +163,13 @@
   paradigm: Noun-case-poss-2,pl
   paradigm: Noun-case-poss-3,pl
   paradigm: Comparative
- -flex: .ёй<.>//.ёйскын<.>
+ -flex: .ёй<.>
   gramm: period
+  gloss: PERIOD
+  paradigm: Comparativ
+ -flex: .ёй|скын<.>
+  gramm: period
+  gloss: PERIOD|DELIM
   paradigm: Comparative
 
 -paradigm: connect_adverbs
@@ -171,21 +193,69 @@
   paradigm: Noun-case-poss-3,pl
  -flex: .ос<.>
   gramm: pl
+  gloss: PL
   paradigm: Noun-case
-  paradigm: Noun-case-poss-1,sg
-  paradigm: Noun-case-poss-2,sg
-  paradigm: Noun-case-poss-3,sg
+  paradigm: Noun-case-y
+  paradigm: Noun-case-poss-y-1,sg
+  paradigm: Noun-case-poss-y-2,sg
+  paradigm: Noun-case-poss-y-3,sg
   paradigm: Noun-case-poss-1,pl
   paradigm: Noun-case-poss-2,pl
   paradigm: Noun-case-poss-3,pl
  -flex: .ё<.>
   gramm: attr,attr_o
+  gloss: ATTR
   paradigm: connect_adjectives
  -flex: .ем<.>
   gramm: attr,attr_em
+  gloss: ATTR
+  paradigm: connect_adjectives
+ -flex: .тэм<.>
+  gramm: attr,attr_tem
+  gloss: NEG.ATTR
   paradigm: connect_adjectives
  -flex: .скын<.>
   gramm: period
+  gloss: DELIM
+  paradigm: Comparative
+
+-paradigm: Noun-num-vowel-y
+ -flex: .<.>
+  gramm: sg
+  paradigm: Noun-case
+  paradigm: Noun-case-y
+  paradigm: Noun-case-poss-y-1,sg
+  paradigm: Noun-case-poss-y-2,sg
+  paradigm: Noun-case-poss-y-3,sg
+  paradigm: Noun-case-poss-1,pl
+  paradigm: Noun-case-poss-2,pl
+  paradigm: Noun-case-poss-3,pl
+ -flex: .ос<.>
+  gramm: pl
+  gloss: PL
+  paradigm: Noun-case
+  paradigm: Noun-case-y
+  paradigm: Noun-case-poss-y-1,sg
+  paradigm: Noun-case-poss-y-2,sg
+  paradigm: Noun-case-poss-y-3,sg
+  paradigm: Noun-case-poss-1,pl
+  paradigm: Noun-case-poss-2,pl
+  paradigm: Noun-case-poss-3,pl
+ -flex: .ё<.>
+  gramm: attr,attr_o
+  gloss: ATTR
+  paradigm: connect_adjectives
+ -flex: .ем<.>
+  gramm: attr,attr_em
+  gloss: ATTR
+  paradigm: connect_adjectives
+ -flex: .тэм<.>
+  gramm: attr,attr_tem
+  gloss: NEG.ATTR
+  paradigm: connect_adjectives
+ -flex: .скын<.>
+  gramm: period
+  gloss: DELIM
   paradigm: Comparative
 
 -paradigm: Noun-num-consonant
@@ -200,24 +270,75 @@
   paradigm: Noun-case-poss-3,pl
  -flex: .ъёс<.>
   gramm: pl
+  gloss: PL
   paradigm: Noun-case
-  paradigm: Noun-case-poss-1,sg
-  paradigm: Noun-case-poss-2,sg
-  paradigm: Noun-case-poss-3,sg
+  paradigm: Noun-case-y
+  paradigm: Noun-case-poss-y-1,sg
+  paradigm: Noun-case-poss-y-2,sg
+  paradigm: Noun-case-poss-y-3,sg
   paradigm: Noun-case-poss-1,pl
   paradigm: Noun-case-poss-2,pl
   paradigm: Noun-case-poss-3,pl
  -flex: .о<.>
   gramm: attr,attr_o
+  gloss: ATTR
   # do not confuse it with the debitive
   regex-stem: ^.*([^<>.н]|[^<>.аяоё][^<>.]|фон)[<>.]*$
   regex-gramm: ^(.(?!rel_n))*$
   paradigm: connect_adjectives
  -flex: .ъем<.>
   gramm: attr,attr_em
+  gloss: ATTR
+  paradigm: connect_adjectives
+ -flex: .тэм<.>
+  gramm: attr,attr_tem
+  gloss: NEG.ATTR
   paradigm: connect_adjectives
  -flex: .скын<.>
   gramm: period
+  gloss: DELIM
+  paradigm: Comparative
+
+-paradigm: Noun-num-consonant-y
+ -flex: .<.>
+  gramm: sg
+  paradigm: Noun-case
+  paradigm: Noun-case-y
+  paradigm: Noun-case-poss-y-1,sg
+  paradigm: Noun-case-poss-y-2,sg
+  paradigm: Noun-case-poss-y-3,sg
+  paradigm: Noun-case-poss-1,pl
+  paradigm: Noun-case-poss-2,pl
+  paradigm: Noun-case-poss-3,pl
+ -flex: .ъёс<.>
+  gramm: pl
+  gloss: PL
+  paradigm: Noun-case
+  paradigm: Noun-case-y
+  paradigm: Noun-case-poss-y-1,sg
+  paradigm: Noun-case-poss-y-2,sg
+  paradigm: Noun-case-poss-y-3,sg
+  paradigm: Noun-case-poss-1,pl
+  paradigm: Noun-case-poss-2,pl
+  paradigm: Noun-case-poss-3,pl
+ -flex: .о<.>
+  gramm: attr,attr_o
+  gloss: ATTR
+  # do not confuse it with the debitive
+  regex-stem: ^.*([^<>.н]|[^<>.аяоё][^<>.]|фон)[<>.]*$
+  regex-gramm: ^(.(?!rel_n))*$
+  paradigm: connect_adjectives
+ -flex: .ъем<.>
+  gramm: attr,attr_em
+  gloss: ATTR
+  paradigm: connect_adjectives
+ -flex: .тэм<.>
+  gramm: attr,attr_tem
+  gloss: NEG.ATTR
+  paradigm: connect_adjectives
+ -flex: .скын<.>
+  gramm: period
+  gloss: DELIM
   paradigm: Comparative
 
 -paradigm: Noun-mar
@@ -232,21 +353,25 @@
   paradigm: Noun-case-poss-3,pl
  -flex: .ъёс<.>
   gramm: pl
+  gloss: PL
   regex-prev: ^.*[^аеёиӥоӧуыэюя<>.][<>.]*$
   paradigm: Noun-case
-  paradigm: Noun-case-poss-1,sg
-  paradigm: Noun-case-poss-2,sg
-  paradigm: Noun-case-poss-3,sg
+  paradigm: Noun-case-y
+  paradigm: Noun-case-poss-y-1,sg
+  paradigm: Noun-case-poss-y-2,sg
+  paradigm: Noun-case-poss-y-3,sg
   paradigm: Noun-case-poss-1,pl
   paradigm: Noun-case-poss-2,pl
   paradigm: Noun-case-poss-3,pl
  -flex: .ос<.>
   gramm: pl
+  gloss: PL
   regex-prev: ^.*[аеёиӥоӧуыэюя][<>.]*$
   paradigm: Noun-case
-  paradigm: Noun-case-poss-1,sg
-  paradigm: Noun-case-poss-2,sg
-  paradigm: Noun-case-poss-3,sg
+  paradigm: Noun-case-y
+  paradigm: Noun-case-poss-y-1,sg
+  paradigm: Noun-case-poss-y-2,sg
+  paradigm: Noun-case-poss-y-3,sg
   paradigm: Noun-case-poss-1,pl
   paradigm: Noun-case-poss-2,pl
   paradigm: Noun-case-poss-3,pl
@@ -261,24 +386,74 @@
   paradigm: Noun-case-poss-1,pl-soft
   paradigm: Noun-case-poss-2,pl-soft
   paradigm: Noun-case-poss-3,pl-soft
- -flex: .ьёс<.>
+ -flex: .[ь]ёс<.>
   gramm: pl
+  gloss: PL
   paradigm: Noun-case
-  paradigm: Noun-case-poss-1,sg
-  paradigm: Noun-case-poss-2,sg
-  paradigm: Noun-case-poss-3,sg
+  paradigm: Noun-case-y
+  paradigm: Noun-case-poss-y-1,sg
+  paradigm: Noun-case-poss-y-2,sg
+  paradigm: Noun-case-poss-y-3,sg
   paradigm: Noun-case-poss-1,pl
   paradigm: Noun-case-poss-2,pl
   paradigm: Noun-case-poss-3,pl
  -flex: .ё<.>
   gramm: attr,attr_o
+  gloss: ATTR
   regex-gramm: ^(.(?!rel_n))*$
   paradigm: connect_adjectives
- -flex: .ьем<.>
+ -flex: .[ь]ем<.>
   gramm: attr,attr_em
+  gloss: ATTR
   paradigm: connect_adjectives
- -flex: .ьскын<.>
+ -flex: .[ь]тэм<.>
+  gramm: attr,attr_tem
+  gloss: NEG.ATTR
+  paradigm: connect_adjectives
+ -flex: .[ь]скын<.>
   gramm: period
+  gloss: DELIM
+  paradigm: Comparative
+
+-paradigm: Noun-num-soft-y
+ -flex: .<.>
+  gramm: sg
+  paradigm: Noun-case-soft
+  paradigm: Noun-case-soft-y
+  paradigm: Noun-case-poss-1,pl-soft
+  paradigm: Noun-case-poss-2,pl-soft
+  paradigm: Noun-case-poss-3,pl-soft
+ -flex: .[ь]<.>
+  paradigm: Noun-case-poss-y-1,sg
+  paradigm: Noun-case-poss-y-2,sg
+  paradigm: Noun-case-poss-y-3,sg
+ -flex: .[ь]ёс<.>
+  gramm: pl
+  gloss: PL
+  paradigm: Noun-case
+  paradigm: Noun-case-y
+  paradigm: Noun-case-poss-y-1,sg
+  paradigm: Noun-case-poss-y-2,sg
+  paradigm: Noun-case-poss-y-3,sg
+  paradigm: Noun-case-poss-1,pl
+  paradigm: Noun-case-poss-2,pl
+  paradigm: Noun-case-poss-3,pl
+ -flex: .ё<.>
+  gramm: attr,attr_o
+  gloss: ATTR
+  regex-gramm: ^(.(?!rel_n))*$
+  paradigm: connect_adjectives
+ -flex: .[ь]ем<.>
+  gramm: attr,attr_em
+  gloss: ATTR
+  paradigm: connect_adjectives
+ -flex: .[ь]тэм<.>
+  gramm: attr,attr_tem
+  gloss: NEG.ATTR
+  paradigm: connect_adjectives
+ -flex: .[ь]скын<.>
+  gramm: period
+  gloss: DELIM
   paradigm: Comparative
 
 -paradigm: Noun-num-j
@@ -291,25 +466,75 @@
   paradigm: Noun-case-poss-1,pl-j
   paradigm: Noun-case-poss-2,pl-j
   paradigm: Noun-case-poss-3,pl-j
- -flex: .йёс<.>
+ -flex: .[й]ёс<.>
   gramm: pl
+  gloss: PL
   paradigm: Noun-case
-  paradigm: Noun-case-poss-1,sg
-  paradigm: Noun-case-poss-2,sg
-  paradigm: Noun-case-poss-3,sg
+  paradigm: Noun-case-y
+  paradigm: Noun-case-poss-y-1,sg
+  paradigm: Noun-case-poss-y-2,sg
+  paradigm: Noun-case-poss-y-3,sg
   paradigm: Noun-case-poss-1,pl
   paradigm: Noun-case-poss-2,pl
   paradigm: Noun-case-poss-3,pl
- -flex: .йо<.>//.ё<.>
+ -flex: .[й]о<.>//.ё<.>
   gramm: attr,attr_o
+  gloss: ATTR
   regex-gramm: ^(.(?!rel_n))*$
   paradigm: connect_adjectives
- -flex: .йем<.>
+ -flex: .[й]ем<.>
   gramm: attr,attr_em
+  gloss: ATTR
   paradigm: connect_adjectives
- -flex: .йскын<.>
+ -flex: .[й]тэм<.>
+  gramm: attr,attr_tem
+  gloss: NEG.ATTR
+  paradigm: connect_adjectives
+ -flex: .[й]скын<.>
   gramm: period
+  gloss: DELIM
   paradigm: Comparative
+
+-paradigm: Noun-num-j-y
+ -flex: .<.>
+  gramm: sg
+  paradigm: Noun-case-j
+  paradigm: Noun-case-j-y
+  paradigm: Noun-case-poss-1,sg-j-y
+  paradigm: Noun-case-poss-2,sg-j-y
+  paradigm: Noun-case-poss-3,sg-j-y
+  paradigm: Noun-case-poss-1,pl-j
+  paradigm: Noun-case-poss-2,pl-j
+  paradigm: Noun-case-poss-3,pl-j
+ -flex: .[й]ёс<.>
+  gramm: pl
+  gloss: PL
+  paradigm: Noun-case
+  paradigm: Noun-case-y
+  paradigm: Noun-case-poss-y-1,sg
+  paradigm: Noun-case-poss-y-2,sg
+  paradigm: Noun-case-poss-y-3,sg
+  paradigm: Noun-case-poss-1,pl
+  paradigm: Noun-case-poss-2,pl
+  paradigm: Noun-case-poss-3,pl
+ -flex: .[й]о<.>//.ё<.>
+  gramm: attr,attr_o
+  gloss: ATTR
+  regex-gramm: ^(.(?!rel_n))*$
+  paradigm: connect_adjectives
+ -flex: .[й]ем<.>
+  gramm: attr,attr_em
+  gloss: ATTR
+  paradigm: connect_adjectives
+ -flex: .[й]тэм<.>
+  gramm: attr,attr_tem
+  gloss: NEG.ATTR
+  paradigm: connect_adjectives
+ -flex: .[й]скын<.>
+  gramm: period
+  gloss: DELIM
+  paradigm: Comparative
+
 
 -paradigm: Noun-num-ija
  -flex: .<.>
@@ -323,18 +548,26 @@
   paradigm: Noun-case-poss-3,pl
  -flex: .ос<.>
   gramm: pl
+  gloss: PL
   paradigm: Noun-case
-  paradigm: Noun-case-poss-1,sg
-  paradigm: Noun-case-poss-2,sg
-  paradigm: Noun-case-poss-3,sg
+  paradigm: Noun-case-y
+  paradigm: Noun-case-poss-y-1,sg
+  paradigm: Noun-case-poss-y-2,sg
+  paradigm: Noun-case-poss-y-3,sg
   paradigm: Noun-case-poss-1,pl
   paradigm: Noun-case-poss-2,pl
   paradigm: Noun-case-poss-3,pl
- -flex: .ё<.>//.яо<.>
+ -flex: .ё<.>//.[я]о<.>
   gramm: attr,attr_o
+  gloss: ATTR
   paradigm: connect_adjectives
- -flex: .ем<.>//.яем<.>
+ -flex: .ем<.>//.[я]ем<.>
   gramm: attr,attr_em
+  gloss: ATTR
+  paradigm: connect_adjectives
+ -flex: .тэм<.>//.[я]тэм<.>
+  gramm: attr,attr_tem
+  gloss: NEG.ATTR
   paradigm: connect_adjectives
 
 -paradigm: Noun-num-ije
@@ -349,18 +582,26 @@
   paradigm: Noun-case-poss-3,pl
  -flex: .ос<.>
   gramm: pl
+  gloss: PL
   paradigm: Noun-case
-  paradigm: Noun-case-poss-1,sg
-  paradigm: Noun-case-poss-2,sg
-  paradigm: Noun-case-poss-3,sg
+  paradigm: Noun-case-y
+  paradigm: Noun-case-poss-y-1,sg
+  paradigm: Noun-case-poss-y-2,sg
+  paradigm: Noun-case-poss-y-3,sg
   paradigm: Noun-case-poss-1,pl
   paradigm: Noun-case-poss-2,pl
   paradigm: Noun-case-poss-3,pl
- -flex: .ё<.>//.ео<.>
+ -flex: .ё<.>//.[е]о<.>
   gramm: attr,attr_o
+  gloss: ATTR
   paradigm: connect_adjectives
- -flex: .ем<.>//.еем<.>
+ -flex: .ем<.>//.[е]ем<.>
   gramm: attr,attr_em
+  gloss: ATTR
+  paradigm: connect_adjectives
+ -flex: .тэм<.>//.[е]тэм<.>
+  gramm: attr,attr_tem
+  gloss: NEG.ATTR
   paradigm: connect_adjectives
 
 -paradigm: Noun-num-pal
@@ -368,10 +609,11 @@
   gramm: sg
  -flex: .ъёс<.>
   gramm: pl
+  gloss: PL
  paradigm: Noun-case-pal
- paradigm: Noun-case-poss-1,sg
- paradigm: Noun-case-poss-2,sg
- paradigm: Noun-case-poss-3,sg
+ paradigm: Noun-case-poss-y-1,sg
+ paradigm: Noun-case-poss-y-2,sg
+ paradigm: Noun-case-poss-y-3,sg
  paradigm: Noun-case-poss-1,pl
  paradigm: Noun-case-poss-2,pl
  paradigm: Noun-case-poss-3,pl
@@ -382,850 +624,1403 @@
   gramm: 
  -flex: .эз<.>
   gramm: case_comp,acc
+  gloss: ACC
  -flex: .ез<.>
   gramm: case_comp,acc
+  gloss: ACC
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
  -flex: .лэн<.>
   gramm: case_comp,gen
+  gloss: GEN
  -flex: .лэсь<.>
   gramm: case_comp,abl
+  gloss: ABL
  -flex: .лы<.>
   gramm: case_comp,dat
+  gloss: DAT
  -flex: .эн<.>
   gramm: case_comp,ins
+  gloss: INS
  -flex: .ен<.>
   gramm: case_comp,ins
+  gloss: INS
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
  -flex: .тэк<.>
   gramm: case_comp,car
+  gloss: CAR
   regex-prev: ^.*[^<>.ыя][<>.]*$
  -flex: .я<.>
   regex-prev: ^.*[йаеёиӥоӧуыэюя][<>.]*$
   gramm: case_comp,adv
+  gloss: ADV
  -flex: .ъя<.>
   gramm: case_comp,adv
+  gloss: ADV
  -flex: .ын<.>
   regex-prev: ^.*[^<>.ы][<>.]*$
   gramm: case_comp,loc
+  gloss: LOC
  -flex: .э<.>
   regex-prev: ^.*[^<>.ы][<>.]*$
   gramm: case_comp,ill
+  gloss: ILL
  -flex: .е<.>
   gramm: case_comp,ill
+  gloss: ILL
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуэюя][<>.]*$
  -flex: .ысь<.>
   regex-prev: ^.*[^<>.ы][<>.]*$
   gramm: case_comp,el
+  gloss: EL
  -flex: .ысен<.>
   regex-prev: ^.*[^<>.ы][<>.]*$
   gramm: case_comp,egr
+  gloss: EGR
  -flex: .озь<.>
   gramm: case_comp,term
+  gloss: TERM
  -flex: .этӥ<.>//.ытӥ<.>
   gramm: case_comp,prol
+  gloss: PROL
  -flex: .тӥ<.>
   regex-prev: ^.*[^<>.ыэе][<>.]*$
   gramm: case_comp,prol
+  gloss: PROL
  -flex: .етӥ<.>
   gramm: case_comp,prol
+  gloss: PROL
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
  -flex: .лань<.>
   gramm: case_comp,app
+  gloss: APP
  -flex: .эз<.>
   gramm: case_comp,poss_comp,nom
+  gloss: P.3SG
  -flex: .ез<.>
   gramm: case_comp,poss_comp,nom
+  gloss: P.3SG
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
- -flex: .эзлэн<.>
+ -flex: .эз|лэн<.>
+  gloss: P.3SG|GEN
   gramm: case_comp,poss_comp,gen
- -flex: .езлэн<.>
+ -flex: .ез|лэн<.>
+  gloss: P.3SG|GEN
   gramm: case_comp,poss_comp,gen
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
- -flex: .эзлэсь<.>
+ -flex: .эз|лэсь<.>
+  gloss: P.3SG|ABL
   gramm: case_comp,poss_comp,abl
- -flex: .езлэсь<.>
+ -flex: .ез|лэсь<.>
+  gloss: P.3SG|ABL
   gramm: case_comp,poss_comp,abl
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
- -flex: .эзлы<.>
+ -flex: .эз|лы<.>
+  gloss: P.3SG|DAT
   gramm: case_comp,poss_comp,dat
- -flex: .езлы<.>
+ -flex: .ез|лы<.>
+  gloss: P.3SG|DAT
   gramm: case_comp,poss_comp,dat
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
- -flex: .эзтэк<.>
+ -flex: .эз|тэк<.>
+  gloss: P.3SG|CAR
   gramm: case_comp,poss_comp,car
- -flex: .езтэк<.>
+ -flex: .ез|тэк<.>
+  gloss: P.3SG|CAR
   gramm: case_comp,poss_comp,car
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
- -flex: .эзъя<.>
+ -flex: .эз|ъя<.>
+  gloss: P.3SG|ADV
   gramm: case_comp,poss_comp,adv
- -flex: .езъя<.>
+ -flex: .ез|ъя<.>
+  gloss: P.3SG|ADV
   gramm: case_comp,poss_comp,adv
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
- -flex: .эзлань<.>
+ -flex: .эз|лань<.>
+  gloss: P.3SG|APP
   gramm: case_comp,poss_comp,app
- -flex: .езлань<.>
+ -flex: .ез|лань<.>
+  gloss: P.3SG|APP
   gramm: case_comp,poss_comp,app
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
  -flex: .зэ<.>//.сэ<.>
+  gloss: P.3SG.ACC
   gramm: case_comp,poss_comp,acc
- -flex: .эныз<.>
+ -flex: .эн|ыз<.>
+  gloss: INS|P.3SG
   gramm: case_comp,poss_comp,ins
- -flex: .еныз<.>
+ -flex: .ен|ыз<.>
+  gloss: INS|P.3SG
   gramm: case_comp,poss_comp,ins
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
- -flex: .аз<.>
+ -flex: .а|з<.>
+  gloss: LOC|P.3SG
   gramm: case_comp,poss_comp,loc
- -flex: .аз<.>
+ -flex: .а|з<.>
+  gloss: ILL|P.3SG
   gramm: case_comp,poss_comp,ill
- -flex: .яз<.>
+ -flex: .я|з<.>
+  gloss: LOC|P.3SG
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
   gramm: case_comp,poss_comp,loc
- -flex: .яз<.>
+ -flex: .я|з<.>
+  gloss: ILL|P.3SG
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
   gramm: case_comp,poss_comp,ill
- -flex: .ысьтыз<.>
+ -flex: .ысьт|ыз<.>
+  gloss: EL|P.3SG
   regex-prev: ^.*[^<>.ы][<>.]*$
   gramm: case_comp,poss_comp,el
- -flex: .ысеныз<.>
+ -flex: .ысен|ыз<.>
+  gloss: EGR|P.3SG
   regex-prev: ^.*[^<>.ы][<>.]*$
   gramm: case_comp,poss_comp,egr
- -flex: .озяз<.>
+ -flex: .озя|з<.>
+  gloss: TERM|P.3SG
   gramm: case_comp,poss_comp,term
- -flex: .этӥз<.>//.ытӥз<.>
+ -flex: .этӥ|з<.>//.ытӥ|з<.>
+  gloss: PROL|P.3SG
   gramm: case_comp,poss_comp,prol
- -flex: .тӥз<.>
+ -flex: .тӥ|з<.>
+  gloss: PROL|P.3SG
   regex-prev: ^.*[^<>.ыэе][<>.]*$
   gramm: case_comp,poss_comp,prol
- -flex: .етӥз<.>
+ -flex: .етӥ|з<.>
+  gloss: PROL|P.3SG
   gramm: case_comp,poss_comp,prol
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
  paradigm: Comparative
 
 -paradigm: Noun-case-compounding-soft
- -flex: .ь<.>
+ -flex: .[ь]<.>
   gramm: 
  -flex: .ез<.>
   gramm: case_comp,acc
- -flex: .ьлэн<.>
+  gloss: ACC
+ -flex: .[ь]лэн<.>
   gramm: case_comp,gen
- -flex: .ьлэсь<.>
+  gloss: GEN
+ -flex: .[ь]лэсь<.>
   gramm: case_comp,abl
- -flex: .ьлы<.>
+  gloss: GEN2
+ -flex: .[ь]лы<.>
   gramm: case_comp,dat
- -flex: .ьтэк<.>
+  gloss: DAT
+ -flex: .[ь]тэк<.>
   gramm: case_comp,car
- -flex: .ья<.>
+  gloss: CAR
+ -flex: .[ь]я<.>
   gramm: case_comp,adv
- -flex: .ьын<.>
+  gloss: ADV
+ -flex: .[ь]ын<.>
   gramm: case_comp,loc
+  gloss: LOC
  -flex: .е<.>
   regex-prev: ^.*[^<>.ы][<>.]*$
   gramm: case_comp,ill
- -flex: .ьысь<.>
+  gloss: ILL
+ -flex: .[ь]ысь<.>
   gramm: case_comp,el
- -flex: .ьысен<.>
+  gloss: EL
+ -flex: .[ь]ысен<.>
   gramm: case_comp,egr
+  gloss: EGR
  -flex: .ёзь<.>
   gramm: case_comp,term
- -flex: .ьытӥ<.>//.ьтӥ<.>
+  gloss: TERM
+ -flex: .[ь]ытӥ<.>//.[ь]тӥ<.>
   gramm: case_comp,prol
- -flex: .ьлань<.>
+  gloss: PROL
+ -flex: .[ь]лань<.>
   gramm: case_comp,app
+  gloss: APP
  -flex: .ез<.>
   gramm: case_comp,poss_comp,nom
- -flex: .езлэн<.>
+  gloss: P.3SG
+ -flex: .ез|лэн<.>
   gramm: case_comp,poss_comp,gen
- -flex: .езлэсь<.>
+  gloss: P.3SG|GEN
+ -flex: .ез|лэсь<.>
   gramm: case_comp,poss_comp,abl
- -flex: .езлы<.>
+  gloss: P.3SG|ABL
+ -flex: .ез|лы<.>
   gramm: case_comp,poss_comp,dat
- -flex: .езтэк<.>
+  gloss: P.3SG|DAT
+ -flex: .ез|тэк<.>
   gramm: case_comp,poss_comp,car
- -flex: .езъя<.>
+  gloss: P.3SG|CAR
+ -flex: .ез|ъя<.>
   gramm: case_comp,poss_comp,adv
- -flex: .езлань<.>
+  gloss: P.3SG|ADV
+ -flex: .ез|лань<.>
   gramm: case_comp,poss_comp,app
- -flex: .ьзэ<.>//.ьсэ<.>
+  gloss: P.3SG|APP
+ -flex: .[ь]зэ<.>//.[ь]сэ<.>
   gramm: case_comp,poss_comp,acc
- -flex: .еныз<.>
+  gloss: P.3SG.ACC
+ -flex: .ен|ыз<.>
   regex-prev: ^.*([^<>.с]|[^<>.ыа][^<>.])[<>.]*$
   gramm: case_comp,poss_comp,ins
- -flex: .яз<.>
+  gloss: INS|P.3SG
+ -flex: .я|з<.>
   regex-prev: ^.*[^<>.з][<>.]*$
   gramm: case_comp,poss_comp,loc
- -flex: .яз<.>
+  gloss: LOC|P.3SG
+ -flex: .я|з<.>
   regex-prev: ^.*[^<>.з][<>.]*$
   gramm: case_comp,poss_comp,ill
- -flex: .ьысьтыз<.>
+  gloss: ILL|P.3SG
+ -flex: .[ь]ысьт|ыз<.>
   gramm: case_comp,poss_comp,el
- -flex: .ьысеныз<.>
+  gloss: EL|P.3SG
+ -flex: .[ь]ысен|ыз<.>
   gramm: case_comp,poss_comp,egr
- -flex: .ёзяз<.>
+  gloss: EGR|P.3SG
+ -flex: .ёзя|з<.>
   gramm: case_comp,poss_comp,term
- -flex: .етӥз<.>//.ьытӥз<.>//.ьтӥз<.>
+  gloss: TERM|P.3SG
+ -flex: .етӥ|з<.>//.[ь]ытӥ|з<.>//.[ь]тӥ|з<.>
   gramm: case_comp,poss_comp,prol
+  gloss: PROL|P.3SG
  paradigm: Comparative
 
+-paradigm: Noun-case-y
+ -flex: .ын<.>
+  gramm: ins
+  gloss: INS
+  paradigm: Noun-case-compounding
+ -flex: .ы<.>
+  gramm: ill
+  gloss: ILL
+  paradigm: Comparative
+  regex-gramm: ^.*rel_n.*$
+
+-paradigm: Noun-case-soft-y
+ -flex: .[ь]ын<.>
+  gramm: ins
+  gloss: INS
+  paradigm: Noun-case-compounding
+ -flex: .[ь]ы<.>
+  gramm: ill
+  gloss: ILL
+  paradigm: Comparative
+  regex-gramm: ^.*rel_n.*$
+
+-paradigm: Noun-case-j-y
+ -flex: .[й]ын<.>
+  gramm: ins
+  gloss: INS
+  paradigm: Noun-case-compounding
+ -flex: .[й]ы<.>
+  gramm: ill
+  gloss: ILL
+  paradigm: Comparative
+  regex-gramm: ^.*rel_n.*$
 
 -paradigm: Noun-case
  -flex: .<.>
   gramm: nom
   regex-gramm: ^((?<!NUM).)*$
   paradigm: Comparative
- -flex: .эз<.>//.ыз<.>
+ -flex: .эз<.>
   gramm: acc
+  gloss: ACC
+  paradigm: Comparative
+ -flex: .ыз<.>
+  gramm: acc
+  gloss: ACC
+  regex-gramm: ^.*pl.*$
   paradigm: Comparative
  -flex: .ез<.>
   gramm: acc
+  gloss: ACC
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
   paradigm: Comparative
  -flex: .ты<.>
   gramm: acc
+  gloss: ACC.PL
   regex-prev-gramm: ^.*pl.*$
   paradigm: Comparative
  -flex: .лэн<.>
   gramm: gen
+  gloss: GEN
   paradigm: Noun-case-compounding
  -flex: .лэс<.>
   gramm: abl
+  gloss: ABL
   paradigm: Noun-case-compounding-soft
  -flex: .лы<.>
   gramm: dat
+  gloss: DAT
   paradigm: Noun-case-compounding
- -flex: .эн<.>//.ын<.>
+ -flex: .эн<.>
   gramm: ins
+  gloss: INS
   paradigm: Noun-case-compounding
  -flex: .ен<.>
   gramm: ins
+  gloss: INS
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
   paradigm: Noun-case-compounding
  -flex: .тэк<.>
   gramm: car
+  gloss: CAR
   paradigm: Noun-case-compounding
  -flex: .я<.>//.ъя<.>
   gramm: adv
+  gloss: ADV
   paradigm: Comparative
  -flex: .ын<.>
   gramm: loc
+  gloss: LOC
   paradigm: Noun-case-compounding
- -flex: .э<.>//.ы<.>
+ -flex: .э<.>
   gramm: ill
+  gloss: ILL
   paradigm: Comparative
  -flex: .е<.>
   gramm: ill
+  gloss: ILL
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
   paradigm: Comparative
  -flex: .ыс<.>
   gramm: el
+  gloss: EL
   paradigm: Noun-case-compounding-soft
  -flex: .ысен<.>
   gramm: egr
+  gloss: EGR
   paradigm: Noun-case-compounding
  -flex: .оз<.>
   gramm: term
+  gloss: TERM
   paradigm: Noun-case-compounding-soft
  -flex: .этӥ<.>
   gramm: prol
+  gloss: PROL
   regex-gramm: ^([^N]|N(?!UM)).*$
   paradigm: Noun-case-compounding
  -flex: .ытӥ<.>//.тӥ<.>
   gramm: prol
+  gloss: PROL
   paradigm: Noun-case-compounding
  -flex: .етӥ<.>
   gramm: prol
+  gloss: PROL
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
   regex-gramm: ^([^N]|N(?!UM)).*$
   paradigm: Noun-case-compounding
  -flex: .лан<.>
   gramm: app
+  gloss: APP
   paradigm: Noun-case-compounding-soft
 
 -paradigm: Noun-case-mar
  -flex: .е<.>
   gramm: nom
+  gloss: NOM
   regex-lex: ^номыре$
  -flex: .<.>
   gramm: nom
  -flex: .е<.>
   gramm: acc
+  gloss: ACC
  -flex: .ты<.>
   gramm: acc
+  gloss: ACC.PL
   regex-gramm: ^.*pl.*$
  -flex: .лэн<.>
   gramm: gen
+  gloss: GEN
  -flex: .лэсь<.>
   gramm: abl
+  gloss: ABL
  -flex: .лы<.>
   gramm: dat
+  gloss: DAT
  -flex: .ен<.>//.ин<.>
   gramm: ins
+  gloss: INS
  -flex: .тэк<.>
   gramm: car
+  gloss: CAR
  -flex: .я<.>//.ъя<.>
   gramm: adv
+  gloss: ADV
  -flex: .ын<.>
   gramm: loc
+  gloss: LOC
  -flex: .е<.>
   gramm: ill
+  gloss: ILL
  -flex: .ысь<.>
   gramm: el
+  gloss: EL
  -flex: .ысен<.>
   gramm: egr
+  gloss: EGR
  -flex: .озь<.>
   gramm: term
+  gloss: TERM
  -flex: .етӥ<.>//.тӥ<.>
   gramm: prol
+  gloss: PROL
  -flex: .лань<.>
   gramm: app
+  gloss: APP
  paradigm: Comparative
 
 -paradigm: Noun-case-pal
  -flex: .<.>
   gramm: nom
   paradigm: Comparative
- -flex: .эз<.>//.ыз<.>
+ -flex: .эз<.>
   gramm: acc
+  gloss: ACC
+  paradigm: Comparative
+ -flex: .ыз<.>
+  gramm: acc
+  gloss: ACC
+  regex-gramm: ^.*pl.*$
   paradigm: Comparative
  -flex: .ты<.>
   gramm: acc
+  gloss: ACC.PL
   regex-gramm: ^.*pl.*$
   paradigm: Comparative
  -flex: .лэн<.>
   gramm: gen
+  gloss: GEN
   paradigm: Noun-case-compounding
  -flex: .лэс<.>
   gramm: abl
+  gloss: ABL
   paradigm: Noun-case-compounding-soft
  -flex: .лы<.>
   gramm: dat
+  gloss: DAT
   paradigm: Noun-case-compounding
  -flex: .эн<.>//.ын<.>
   gramm: ins
+  gloss: INS
   paradigm: Noun-case-compounding
  -flex: .тэк<.>
   gramm: car
+  gloss: CAR
   paradigm: Noun-case-compounding
- -flex: .я<.>//.ъя<.>
+ -flex: .ъя<.>
   gramm: adv
+  gloss: ADV
   paradigm: Comparative
  -flex: .ан<.>
   gramm: loc
+  gloss: LOC
   paradigm: Noun-case-compounding
  -flex: .а<.>
   gramm: ill
+  gloss: ILL
   paradigm: Comparative
  -flex: .ас<.>
   gramm: el
+  gloss: EL
   paradigm: Noun-case-compounding-soft
  -flex: .асен<.>
   gramm: egr
+  gloss: EGR
   paradigm: Noun-case-compounding
  -flex: .оз<.>
   gramm: term
+  gloss: TERM
   paradigm: Noun-case-compounding-soft
  -flex: .этӥ<.>//.ытӥ<.>//.тӥ<.>
   gramm: prol
+  gloss: PROL
   paradigm: Noun-case-compounding
  -flex: .лан<.>
   gramm: app
+  gloss: APP
   paradigm: Noun-case-compounding-soft
 
 -paradigm: Noun-case-soft
- -flex: .ь<.>
+ -flex: .[ь]<.>
   gramm: nom
   regex-gramm: ^((?<!NUM).)*$
   paradigm: Comparative
- -flex: .ез<.>//.ьыз<.>
+ -flex: .ез<.>
   gramm: acc
+  gloss: ACC
   paradigm: Comparative
- -flex: .ьлэн<.>
+ -flex: .[ь]лэн<.>
   gramm: gen
+  gloss: GEN
   paradigm: Noun-case-compounding
- -flex: .ьлэс<.>
+ -flex: .[ь]лэс<.>
   gramm: abl
+  gloss: ABL
   paradigm: Noun-case-compounding-soft
- -flex: .ьлы<.>
+ -flex: .[ь]лы<.>
   gramm: dat
+  gloss: DAT
   paradigm: Noun-case-compounding
- -flex: .ен<.>//.ьын<.>
+ -flex: .ен<.>
   gramm: ins
+  gloss: INS
   paradigm: Noun-case-compounding
- -flex: .ьтэк<.>
+ -flex: .[ь]тэк<.>
   gramm: car
+  gloss: CAR
   paradigm: Noun-case-compounding
- -flex: .ья<.>
+ -flex: .[ь]я<.>
   gramm: adv
+  gloss: ADV
   paradigm: Comparative
- -flex: .ьын<.>
+ -flex: .[ь]ын<.>
   gramm: loc
+  gloss: LOC
   paradigm: Noun-case-compounding
- -flex: .е<.>//.ьы<.>
+ -flex: .е<.>
   gramm: ill
+  gloss: ILL
   paradigm: Comparative
- -flex: .ьыс<.>
+ -flex: .[ь]ыс<.>
   gramm: el
+  gloss: EL
   paradigm: Noun-case-compounding-soft
- -flex: .ьысен<.>
+ -flex: .[ь]ысен<.>
   gramm: egr
+  gloss: EGR
   paradigm: Noun-case-compounding
  -flex: .ёз<.>
   gramm: term
+  gloss: TERM
   paradigm: Noun-case-compounding-soft
- -flex: .етӥ<.>//.ьытӥ<.>//.ьтӥ<.>
+ -flex: .етӥ<.>//.[ь]ытӥ<.>//.[ь]тӥ<.>
   gramm: prol
+  gloss: PROL
   paradigm: Noun-case-compounding
- -flex: .ьлан<.>
+ -flex: .[ь]лан<.>
   gramm: app
+  gloss: APP
   paradigm: Noun-case-compounding-soft
 
 -paradigm: Noun-case-j
- -flex: .й<.>
+ -flex: .[й]<.>
   gramm: nom
   paradigm: Comparative
- -flex: .ез<.>//.йез<.>//.йыз<.>
+ -flex: .ез<.>//.[й]ез<.>
   gramm: acc
+  gloss: ACC
   paradigm: Comparative
- -flex: .йлэн<.>
+ -flex: .[й]лэн<.>
   gramm: gen
+  gloss: GEN
   paradigm: Noun-case-compounding
- -flex: .йлэс<.>
+ -flex: .[й]лэс<.>
   gramm: abl
+  gloss: ABL
   paradigm: Noun-case-compounding-soft
- -flex: .йлы<.>
+ -flex: .[й]лы<.>
   gramm: dat
+  gloss: DAT
   paradigm: Noun-case-compounding
- -flex: .ен<.>//.йен<.>
+ -flex: .ен<.>//.[й]ен<.>
   gramm: ins
+  gloss: INS
   paradigm: Noun-case-compounding
- -flex: .йтэк<.>
+ -flex: .[й]тэк<.>
   gramm: car
+  gloss: CAR
   paradigm: Noun-case-compounding
- -flex: .я<.>//.йя<.>
+ -flex: .я<.>//.[й]я<.>
   gramm: adv
+  gloss: ADV
   paradigm: Comparative
- -flex: .йын<.>
+ -flex: .[й]ын<.>
   gramm: loc
+  gloss: LOC
   paradigm: Noun-case-compounding
- -flex: .е<.>//.йе<.>//.йы<.>
+ -flex: .е<.>//.[й]е<.>
   gramm: ill
+  gloss: ILL
   paradigm: Comparative
- -flex: .йыс<.>
+ -flex: .[й]ыс<.>
   gramm: el
+  gloss: EL
   paradigm: Noun-case-compounding-soft
- -flex: .йысен<.>
+ -flex: .[й]ысен<.>
   gramm: egr
+  gloss: EGR
   paradigm: Noun-case-compounding
- -flex: .ёз<.>//.йёз<.>//.йоз<.>
+ -flex: .ёз<.>//.[й]ёз<.>//.[й]оз<.>
   gramm: term
+  gloss: TERM
   paradigm: Noun-case-compounding-soft
- -flex: .етӥ<.>//.йетӥ<.>//.йытӥ<.>//.йтӥ<.>
+ -flex: .етӥ<.>//.[й]етӥ<.>//.[й]ытӥ<.>//.[й]тӥ<.>
   gramm: prol
+  gloss: PROL
   paradigm: Noun-case-compounding
- -flex: .йлан<.>
+ -flex: .[й]лан<.>
   gramm: app
+  gloss: APP
   paradigm: Noun-case-compounding-soft
 
 -paradigm: Noun-case-ija
- -flex: .я<.>//.<.>
+ -flex: .[я]<.>//.<.>
   gramm: nom
   paradigm: Comparative
  -flex: .ез<.>
   gramm: acc
+  gloss: ACC
   paradigm: Comparative
  -flex: .лэн<.>
   gramm: gen
+  gloss: GEN
   paradigm: Noun-case-compounding
  -flex: .лэс<.>
   gramm: abl
+  gloss: ABL
   paradigm: Noun-case-compounding-soft
  -flex: .лы<.>
   gramm: dat
+  gloss: DAT
   paradigm: Noun-case-compounding
  -flex: .ен<.>
   gramm: ins
+  gloss: INS
   paradigm: Noun-case-compounding
  -flex: .тэк<.>
   gramm: car
+  gloss: CAR
   paradigm: Noun-case-compounding
- -flex: .яя<.>
+ -flex: .[я]я<.>
   gramm: adv
+  gloss: ADV
   paradigm: Comparative
  -flex: .ын<.>
   gramm: loc
+  gloss: LOC
   paradigm: Noun-case-compounding
  -flex: .е<.>
   gramm: ill
+  gloss: ILL
   paradigm: Comparative
  -flex: .ыс<.>
   gramm: el
+  gloss: EL
   paradigm: Noun-case-compounding-soft
  -flex: .ысен<.>
   gramm: egr
+  gloss: EGR
   paradigm: Noun-case-compounding
  -flex: .ёз<.>
   gramm: term
+  gloss: TERM
   paradigm: Noun-case-compounding-soft
  -flex: .етӥ<.>//.ытӥ<.>//.тӥ<.>
   gramm: prol
+  gloss: PROL
   paradigm: Noun-case-compounding
  -flex: .лан<.>
   gramm: app
+  gloss: APP
   paradigm: Noun-case-compounding-soft
 
 -paradigm: Noun-case-ije
- -flex: .е<.>
+ -flex: .[е]<.>
   gramm: nom
   paradigm: Comparative
  -flex: .ез<.>
   gramm: acc
+  gloss: ACC
   paradigm: Comparative
  -flex: .лэн<.>
   gramm: gen
+  gloss: GEN
  -flex: .лэсь<.>
   gramm: abl
+  gloss: ABL
  -flex: .лы<.>
   gramm: dat
+  gloss: DAT
  -flex: .ен<.>
   gramm: ins
+  gloss: INS
  -flex: .тэк<.>
   gramm: car
- -flex: .ея<.>//.я<.>
+  gloss: CAR
+ -flex: .[е]я<.>//.я<.>
   gramm: adv
+  gloss: ADV
   paradigm: Comparative
  -flex: .ын<.>
   gramm: loc
+  gloss: LOC
  -flex: .е<.>
   gramm: ill
+  gloss: ILL
   paradigm: Comparative
  -flex: .ысь<.>
   gramm: el
+  gloss: EL
  -flex: .ысен<.>
   gramm: egr
+  gloss: EGR
  -flex: .ёзь<.>
   gramm: term
+  gloss: TERM
  -flex: .етӥ<.>//.ытӥ<.>//.тӥ<.>
   gramm: prol
+  gloss: PROL
  -flex: .лань<.>
   gramm: app
+  gloss: APP
  paradigm: Comparative
-  
+
+
+
+ 
+# ----- Possessive paradigms -----
+
+
 -paradigm: Noun-case-poss-1,sg
- -flex: .э<.>//.ы<.>
+ -flex: .э<.>
   gramm: nom,1sg
+  gloss: P.1SG
  -flex: .e<.>
   gramm: nom,1sg
+  gloss: P.1SG
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
  -flex: .ме<.>
   gramm: acc,1sg
- -flex: .элэн<.>//.ылэн<.>
+  gloss: P.1SG.ACC
+ -flex: .э|лэн<.>
   gramm: gen,1sg
- -flex: .елэн<.>
+  gloss: P.1SG|GEN
+ -flex: .е|лэн<.>
   gramm: gen,1sg
+  gloss: P.1SG|GEN
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
- -flex: .элэсь<.>//.ылэсь<.>
+ -flex: .э|лэсь<.>
   gramm: abl,1sg
- -flex: .елэсь<.>
+  gloss: P.1SG|ABL
+ -flex: .е|лэсь<.>
   gramm: abl,1sg
+  gloss: P.1SG|ABL
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
- -flex: .элы<.>//.ылы<.>
+ -flex: .э|лы<.>
   gramm: dat,1sg
- -flex: .елы<.>
+  gloss: P.1SG|DAT
+ -flex: .е|лы<.>
   gramm: dat,1sg
+  gloss: P.1SG|DAT
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
- -flex: .этэк<.>//.ытэк<.>
+ -flex: .э|тэк<.>
   gramm: car,1sg
- -flex: .етэк<.>
+  gloss: P.1SG|CAR
+ -flex: .е|тэк<.>
   gramm: car,1sg
+  gloss: P.1SG|CAR
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
- -flex: .эя<.>//.ыя<.>
+ -flex: .э|я<.>
   gramm: adv,1sg
- -flex: .ея<.>
+  gloss: P.1SG|ADV
+ -flex: .е|я<.>
   gramm: adv,1sg
+  gloss: P.1SG|ADV
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
- -flex: .элань<.>//.ылэнь<.>
+ -flex: .э|лань<.>
   gramm: app,1sg
- -flex: .елань<.>
+  gloss: P.1SG|APP
+ -flex: .е|лань<.>
   gramm: app,1sg
+  gloss: P.1SG|APP
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
- -flex: .эным<.>//.ыным<.>
+ -flex: .эн|ым<.>//.ын|ым<.>
   gramm: ins,1sg
- -flex: .еным<.>
+  gloss: INS|P.1SG
+ -flex: .ен|ым<.>
   gramm: ins,1sg
+  gloss: INS|P.1SG
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
- -flex: .ам<.>
+ -flex: .а|м<.>
   gramm: loc,1sg
- -flex: .ам<.>
+  gloss: LOC|P.1SG
+ -flex: .а|м<.>
   gramm: ill,1sg
- -flex: .ям<.>
+  gloss: ILL|P.1SG
+ -flex: .я|м<.>
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
   gramm: loc,1sg
- -flex: .ям<.>
+  gloss: LOC|P.1SG
+ -flex: .я|м<.>
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
   gramm: ill,1sg
- -flex: .ысьтым<.>
+  gloss: ILL|P.1SG
+ -flex: .ысьт|ым<.>
   gramm: el,1sg
- -flex: .ысеным<.>
+  gloss: EL|P.1SG
+ -flex: .ысен|ым<.>
   gramm: egr,1sg
- -flex: .озям<.>
+  gloss: EGR|P.1SG
+ -flex: .озя|м<.>
   gramm: term,1sg
- -flex: .этӥм<.>//.ытӥм<.>//.тӥм<.>
+  gloss: TERM|P.1SG
+ -flex: .этӥ|м<.>//.ытӥ|м<.>//.тӥ|м<.>
   gramm: prol,1sg
- -flex: .етӥм<.>
+  gloss: PROL|P.1SG
+ -flex: .етӥ|м<.>
   gramm: prol,1sg
+  gloss: PROL|P.1SG
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
  paradigm: Comparative
 
 -paradigm: Noun-case-poss-2,sg
- -flex: .эд<.>//.ыд<.>
+ -flex: .эд<.>
   gramm: nom,2sg
+  gloss: P.2SG
  -flex: .ед<.>
   gramm: nom,2sg
+  gloss: P.2SG
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
- -flex: .эдлэн<.>//.ыдлэн<.>
+ -flex: .эд|лэн<.>
   gramm: gen,2sg
- -flex: .едлэн<.>
+  gloss: P.2SG|GEN
+ -flex: .ед|лэн<.>
   gramm: gen,2sg
+  gloss: P.2SG|GEN
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
- -flex: .эдлэсь<.>//.ыдлэсь<.>
+ -flex: .эд|лэсь<.>
   gramm: abl,2sg
- -flex: .едлэсь<.>
+  gloss: P.2SG|ABL
+ -flex: .ед|лэсь<.>
   gramm: abl,2sg
+  gloss: P.2SG|ABL
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
- -flex: .эдлы<.>//.ыдлы<.>
+ -flex: .эд|лы<.>
   gramm: dat,2sg
- -flex: .едлы<.>
+  gloss: P.2SG|DAT
+ -flex: .ед|лы<.>
   gramm: dat,2sg
+  gloss: P.2SG|DAT
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
- -flex: .эдтэк<.>//.ыдтэк<.>
+ -flex: .эд|тэк<.>
   gramm: car,2sg
- -flex: .едтэк<.>
+  gloss: P.2SG|CAR
+ -flex: .ед|тэк<.>
   gramm: car,2sg
+  gloss: P.2SG|CAR
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
- -flex: .эдъя<.>//.ыдъя<.>
+ -flex: .эд|ъя<.>
   gramm: adv,2sg
- -flex: .едъя<.>
+  gloss: P.2SG|ADV
+ -flex: .ед|ъя<.>
   gramm: adv,2sg
+  gloss: P.2SG|ADV
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
- -flex: .эдлань<.>//.ыдлань<.>
+ -flex: .эд|лань<.>
   gramm: app,2sg
- -flex: .едлань<.>
+  gloss: P.2SG|APP
+ -flex: .ед|лань<.>
   gramm: app,2sg
+  gloss: P.2SG|APP
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
  -flex: .дэ<.>//.тэ<.>
   gramm: acc,2sg
- -flex: .эныд<.>//.ыныд<.>
+  gloss: P.2SG.ACC
+ -flex: .эн|ыд<.>//.ын|ыд<.>
   gramm: ins,2sg
- -flex: .еныд<.>
+  gloss: INS|P.2SG
+ -flex: .ен|ыд<.>
   gramm: ins,2sg
+  gloss: INS|P.2SG
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
- -flex: .ад<.>
+ -flex: .а|д<.>
   gramm: loc,2sg
- -flex: .ад<.>
+  gloss: LOC|P.2SG
+ -flex: .а|д<.>
   gramm: ill,2sg
- -flex: .яд<.>
+  gloss: ILL|P.2SG
+ -flex: .я|д<.>
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
   gramm: loc,2sg
- -flex: .яд<.>
+  gloss: LOC|P.2SG
+ -flex: .я|д<.>
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
   gramm: ill,2sg
- -flex: .ысьтыд<.>
+  gloss: ILL|P.2SG
+ -flex: .ысьт|ыд<.>
   gramm: el,2sg
- -flex: .ысеныд<.>
+  gloss: EL|P.2SG
+ -flex: .ысен|ыд<.>
   gramm: egr,2sg
- -flex: .озяд<.>
+  gloss: EGR|P.2SG
+ -flex: .озя|д<.>
   gramm: term,2sg
- -flex: .этӥд<.>//.ытӥд<.>//.тӥд<.>
+  gloss: TERM|P.2SG
+ -flex: .этӥ|д<.>//.ытӥ|д<.>//.тӥ|д<.>
   gramm: prol,2sg
- -flex: .етӥд<.>
+  gloss: PROL|P.2SG
+ -flex: .етӥ|д<.>
   gramm: prol,2sg
+  gloss: PROL|P.2SG
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
  paradigm: Comparative
 
   
 -paradigm: Noun-case-poss-3,sg
- -flex: .эз<.>//.ыз<.>
+ -flex: .эз<.>
   gramm: nom,3sg
+  gloss: P.3SG
  -flex: .ез<.>
   gramm: nom,3sg
+  gloss: P.3SG
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
- -flex: .эзлэн<.>//.ызлэн<.>
+ -flex: .эз|лэн<.>
   gramm: gen,3sg
- -flex: .езлэн<.>
+  gloss: P.3SG|GEN
+ -flex: .ез|лэн<.>
   gramm: gen,3sg
+  gloss: P.3SG|GEN
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
- -flex: .эзлэсь<.>//.ызлэсь<.>
+ -flex: .эз|лэсь<.>
   gramm: abl,3sg
- -flex: .езлэсь<.>
+  gloss: P.3SG|ABL
+ -flex: .ез|лэсь<.>
   gramm: abl,3sg
+  gloss: P.3SG|ABL
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
- -flex: .эзлы<.>//.ызлы<.>
+ -flex: .эз|лы<.>
   gramm: dat,3sg
- -flex: .езлы<.>
+  gloss: P.3SG|DAT
+ -flex: .ез|лы<.>
   gramm: dat,3sg
+  gloss: P.3SG|DAT
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
- -flex: .эзтэк<.>//.ызтэк<.>
+ -flex: .эз|тэк<.>
   gramm: car,3sg
- -flex: .езтэк<.>
+  gloss: P.3SG|CAR
+ -flex: .ез|тэк<.>
   gramm: car,3sg
+  gloss: P.3SG|CAR
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
- -flex: .эзъя<.>//.ызъя<.>
+ -flex: .эз|ъя<.>
   gramm: adv,3sg
- -flex: .езъя<.>
+  gloss: P.3SG|ADV
+ -flex: .ез|ъя<.>
   gramm: adv,3sg
+  gloss: P.3SG|ADV
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
- -flex: .эзлань<.>//.ызлань<.>
+ -flex: .эз|лань<.>
   gramm: app,3sg
- -flex: .езлань<.>
+  gloss: P.3SG|APP
+ -flex: .ез|лань<.>
   gramm: app,3sg
+  gloss: P.3SG|APP
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
  -flex: .зэ<.>//.сэ<.>
   gramm: acc,3sg
- -flex: .эныз<.>//.ыныз<.>
+  gloss: P.3SG.ACC
+ -flex: .эн|ыз<.>//.ын|ыз<.>
   gramm: ins,3sg
- -flex: .еныз<.>
+  gloss: INS|P.3SG
+ -flex: .ен|ыз<.>
   gramm: ins,3sg
+  gloss: INS|P.3SG
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
- -flex: .аз<.>
+ -flex: .а|з<.>
   gramm: loc,3sg
- -flex: .аз<.>
+  gloss: LOC|P.3SG
+ -flex: .а|з<.>
   gramm: ill,3sg
- -flex: .яз<.>
+  gloss: ILL|P.3SG
+ -flex: .я|з<.>
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
   gramm: loc,3sg
- -flex: .яз<.>
+  gloss: LOC|P.3SG
+ -flex: .я|з<.>
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
   gramm: ill,3sg
- -flex: .ысьтыз<.>
+  gloss: ILL|P.3SG
+ -flex: .ысьт|ыз<.>
   gramm: el,3sg
- -flex: .ысеныз<.>
+  gloss: EL|P.3SG
+ -flex: .ысен|ыз<.>
   gramm: egr,3sg
- -flex: .озяз<.>
+  gloss: EGR|P.3SG
+ -flex: .озя|з<.>
   gramm: term,3sg
- -flex: .этӥз<.>//.ытӥз<.>//.тӥз<.>
+  gloss: TERM|P.3SG
+ -flex: .этӥ|з<.>//.ытӥ|з<.>//.тӥ|з<.>
   gramm: prol,3sg
- -flex: .етӥз<.>
+  gloss: PROL|P.3SG
+ -flex: .етӥ|з<.>
   gramm: prol,3sg
+  gloss: PROL|P.3SG
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
  paradigm: Comparative
+
+
+-paradigm: Noun-case-poss-y-1,sg
+ -flex: .ы<.>
+  gramm: nom,1sg
+  gloss: P.1SG
+ -flex: .ме<.>
+  gramm: acc,1sg
+  gloss: P.1SG.ACC
+ -flex: .ы|лэн<.>
+  gramm: gen,1sg
+  gloss: P.1SG|GEN
+ -flex: .ы|лэсь<.>
+  gramm: abl,1sg
+  gloss: P.1SG|ABL
+ -flex: .ы|лы<.>
+  gramm: dat,1sg
+  gloss: P.1SG|DAT
+ -flex: .ы|тэк<.>
+  gramm: car,1sg
+  gloss: P.1SG|CAR
+ -flex: .ы|я<.>
+  gramm: adv,1sg
+  gloss: P.1SG|ADV
+ -flex: .ы|лань<.>
+  gramm: app,1sg
+  gloss: P.1SG|APP
+ -flex: .эн|ым<.>//.ын|ым<.>
+  gramm: ins,1sg
+  gloss: INS|P.1SG
+ -flex: .ен|ым<.>
+  gramm: ins,1sg
+  gloss: INS|P.1SG
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+ -flex: .а|м<.>
+  gramm: loc,1sg
+  gloss: LOC|P.1SG
+ -flex: .а|м<.>
+  gramm: ill,1sg
+  gloss: ILL|P.1SG
+ -flex: .я|м<.>
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  gramm: loc,1sg
+  gloss: LOC|P.1SG
+ -flex: .я|м<.>
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  gramm: ill,1sg
+  gloss: ILL|P.1SG
+ -flex: .ысьт|ым<.>
+  gramm: el,1sg
+  gloss: EL|P.1SG
+ -flex: .ысен|ым<.>
+  gramm: egr,1sg
+  gloss: EGR|P.1SG
+ -flex: .озя|м<.>
+  gramm: term,1sg
+  gloss: TERM|P.1SG
+ -flex: .этӥ|м<.>//.ытӥ|м<.>//.тӥ|м<.>
+  gramm: prol,1sg
+  gloss: PROL|P.1SG
+ -flex: .етӥ|м<.>
+  gramm: prol,1sg
+  gloss: PROL|P.1SG
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+ paradigm: Comparative
+
+-paradigm: Noun-case-poss-y-2,sg
+ -flex: .ыд<.>
+  gramm: nom,2sg
+  gloss: P.2SG
+ -flex: .ыд|лэн<.>
+  gramm: gen,2sg
+  gloss: P.2SG|GEN
+ -flex: .ыд|лэсь<.>
+  gramm: abl,2sg
+  gloss: P.2SG|ABL
+ -flex: .ыд|лы<.>
+  gramm: dat,2sg
+  gloss: P.2SG|DAT
+ -flex: .ыд|тэк<.>
+  gramm: car,2sg
+  gloss: P.2SG|CAR
+ -flex: .ыд|ъя<.>
+  gramm: adv,2sg
+  gloss: P.2SG|ADV
+ -flex: .ыд|лань<.>
+  gramm: app,2sg
+  gloss: P.2SG|APP
+ -flex: .дэ<.>//.тэ<.>
+  gramm: acc,2sg
+  gloss: P.2SG.ACC
+ -flex: .эн|ыд<.>//.ын|ыд<.>
+  gramm: ins,2sg
+  gloss: INS|P.2SG
+ -flex: .ен|ыд<.>
+  gramm: ins,2sg
+  gloss: INS|P.2SG
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+ -flex: .а|д<.>
+  gramm: loc,2sg
+  gloss: LOC|P.2SG
+ -flex: .а|д<.>
+  gramm: ill,2sg
+  gloss: ILL|P.2SG
+ -flex: .я|д<.>
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  gramm: loc,2sg
+  gloss: LOC|P.2SG
+ -flex: .я|д<.>
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  gramm: ill,2sg
+  gloss: ILL|P.2SG
+ -flex: .ысьт|ыд<.>
+  gramm: el,2sg
+  gloss: EL|P.2SG
+ -flex: .ысен|ыд<.>
+  gramm: egr,2sg
+  gloss: EGR|P.2SG
+ -flex: .озя|д<.>
+  gramm: term,2sg
+  gloss: TERM|P.2SG
+ -flex: .этӥ|д<.>//.ытӥ|д<.>//.тӥ|д<.>
+  gramm: prol,2sg
+  gloss: PROL|P.2SG
+ -flex: .етӥ|д<.>
+  gramm: prol,2sg
+  gloss: PROL|P.2SG
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+ paradigm: Comparative
+  
+-paradigm: Noun-case-poss-y-3,sg
+ -flex: .ыз<.>
+  gramm: nom,3sg
+  gloss: P.3SG
+ -flex: .ыз|лэн<.>
+  gramm: gen,3sg
+  gloss: P.3SG|GEN
+ -flex: .ыз|лэсь<.>
+  gramm: abl,3sg
+  gloss: P.3SG|ABL
+ -flex: .ыз|лы<.>
+  gramm: dat,3sg
+  gloss: P.3SG|DAT
+ -flex: .ыз|тэк<.>
+  gramm: car,3sg
+  gloss: P.3SG|CAR
+ -flex: .ыз|ъя<.>
+  gramm: adv,3sg
+  gloss: P.3SG|ADV
+ -flex: .ыз|лань<.>
+  gramm: app,3sg
+  gloss: P.3SG|APP
+ -flex: .зэ<.>//.сэ<.>
+  gramm: acc,3sg
+  gloss: P.3SG.ACC
+ -flex: .эн|ыз<.>//.ын|ыз<.>
+  gramm: ins,3sg
+  gloss: INS|P.3SG
+ -flex: .ен|ыз<.>
+  gramm: ins,3sg
+  gloss: INS|P.3SG
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+ -flex: .а|з<.>
+  gramm: loc,3sg
+  gloss: LOC|P.3SG
+ -flex: .а|з<.>
+  gramm: ill,3sg
+  gloss: ILL|P.3SG
+ -flex: .я|з<.>
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  gramm: loc,3sg
+  gloss: LOC|P.3SG
+ -flex: .я|з<.>
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  gramm: ill,3sg
+  gloss: ILL|P.3SG
+ -flex: .ысьт|ыз<.>
+  gramm: el,3sg
+  gloss: EL|P.3SG
+ -flex: .ысен|ыз<.>
+  gramm: egr,3sg
+  gloss: EGR|P.3SG
+ -flex: .озя|з<.>
+  gramm: term,3sg
+  gloss: TERM|P.3SG
+ -flex: .этӥ|з<.>//.ытӥ|з<.>//.тӥ|з<.>
+  gramm: prol,3sg
+  gloss: PROL|P.3SG
+ -flex: .етӥ|з<.>
+  gramm: prol,3sg
+  gloss: PROL|P.3SG
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+ paradigm: Comparative
+
 
 
 -paradigm: Noun-case-poss-1,pl
  -flex: .мы<.>
   gramm: nom,1pl
- -flex: .мылэн<.>
+  gloss: P.1PL
+ -flex: .мы|лэн<.>
   gramm: gen,1pl
- -flex: .мылэсь<.>
+  gloss: P.1PL|GEN
+ -flex: .мы|лэсь<.>
   gramm: abl,1pl
- -flex: .мылы<.>
+  gloss: P.1PL|ABL
+ -flex: .мы|лы<.>
   gramm: dat,1pl
- -flex: .мытэк<.>
+  gloss: P.1PL|DAT
+ -flex: .мы|тэк<.>
   gramm: car,1pl
- -flex: .мыя<.>
+  gloss: P.1PL|CAR
+ -flex: .мы|я<.>
   gramm: adv,1pl
- -flex: .мылань<.>
+  gloss: P.1PL|ADV
+ -flex: .мы|лань<.>
   gramm: app,1pl
+  gloss: P.1PL|APP
  -flex: .мес<.>
   gramm: acc,1pl
- -flex: .ынымы<.>
+  gloss: P.1PL.ACC
+ -flex: .ын|ымы<.>
   gramm: ins,1pl
- -flex: .амы<.>
+  gloss: INS|P.1PL
+ -flex: .а|мы<.>
   gramm: loc,1pl
- -flex: .амы<.>
+  gloss: LOC|P.1PL
+ -flex: .а|мы<.>
   gramm: ill,1pl
- -flex: .ямы<.>
+  gloss: ILL|P.1PL
+ -flex: .я|мы<.>
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
   gramm: loc,1pl
- -flex: .ямы<.>
+  gloss: LOC|P.1PL
+ -flex: .я|мы<.>
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
   gramm: ill,1pl
- -flex: .ысьтымы<.>
+  gloss: ILL|P.1PL
+ -flex: .ысьт|ымы<.>
   gramm: el,1pl
- -flex: .ысенымы<.>
+  gloss: EL|P.1PL
+ -flex: .ысен|ымы<.>
   gramm: egr,1pl
- -flex: .озямы<.>
+  gloss: EGR|P.1PL
+ -flex: .озя|мы<.>
   gramm: term,1pl
- -flex: .ытӥмы<.>//.тӥмы<.>
+  gloss: TERM|P.1PL
+ -flex: .ытӥ|мы<.>//.тӥ|мы<.>
   gramm: prol,1pl
+  gloss: PROL|P.1PL
  paradigm: Comparative
 
 
 -paradigm: Noun-case-poss-2,pl
  -flex: .ты<.>//.ды<.>
   gramm: nom,2pl
- -flex: .тылэн<.>//.дылэн<.>
+  gloss: P.2PL
+ -flex: .ты|лэн<.>//.ды|лэн<.>
   gramm: gen,2pl
- -flex: .тылэсь<.>//.дылэсь<.>
+  gloss: P.2PL|GEN
+ -flex: .ты|лэсь<.>//.ды|лэсь<.>
   gramm: abl,2pl
- -flex: .тылы<.>//.дылы<.>
+  gloss: P.2PL|ABL
+ -flex: .ты|лы<.>//.ды|лы<.>
   gramm: dat,2pl
- -flex: .тытэк<.>//.дытэк<.>
+  gloss: P.2PL|DAT
+ -flex: .ты|тэк<.>//.ды|тэк<.>
   gramm: car,2pl
- -flex: .тыя<.>//.дыя<.>
+  gloss: P.2PL|CAR
+ -flex: .ты|я<.>//.ды|я<.>
   gramm: adv,2pl
- -flex: .тылань<.>//.дылань<.>
+  gloss: P.2PL|ADV
+ -flex: .ты|лань<.>//.ды|лань<.>
   gramm: app,2pl
+  gloss: P.2PL|APP
  -flex: .тэс<.>//.дэс<.>
   gramm: acc,2pl
- -flex: .ыныды<.>
+  gloss: P.2PL.ACC
+ -flex: .эн|ыды<.>//.ын|ыды<.>
   gramm: ins,2pl
- -flex: .ады<.>
+  gloss: INS|P.2PL
+ -flex: .а|ды<.>
   gramm: loc,2pl
- -flex: .ады<.>
+  gloss: LOC|P.2PL
+ -flex: .а|ды<.>
   gramm: ill,2pl
- -flex: .яды<.>
+  gloss: ILL|P.2PL
+ -flex: .я|ды<.>
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
   gramm: loc,2pl
- -flex: .яды<.>
+  gloss: LOC|P.2PL
+ -flex: .я|ды<.>
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
   gramm: ill,2pl
- -flex: .ысьтыды<.>
+  gloss: ILL|P.2PL
+ -flex: .ысьт|ыды<.>
   gramm: el,2pl
- -flex: .ысеныды<.>
+  gloss: EL|P.2PL
+ -flex: .ысен|ыды<.>
   gramm: egr,2pl
- -flex: .озяды<.>
+  gloss: EGR|P.2PL
+ -flex: .озя|ды<.>
   gramm: term,2pl
- -flex: .ытӥды<.>//.тӥды<.>
+  gloss: TERM|P.2PL
+ -flex: .ытӥ|ды<.>//.тӥ|ды<.>
   gramm: prol,2pl
+  gloss: PROL|P.2PL
  paradigm: Comparative
 
   
 -paradigm: Noun-case-poss-3,pl
  -flex: .сы<.>//.зы<.>
   gramm: nom,3pl
- -flex: .сылэн<.>//.зылэн<.>
+  gloss: P.3PL
+ -flex: .сы|лэн<.>//.зы|лэн<.>
   gramm: gen,3pl
- -flex: .сылэсь<.>//.зылэсь<.>
+  gloss: P.3PL|GEN
+ -flex: .сы|лэсь<.>//.зы|лэсь<.>
   gramm: abl,3pl
- -flex: .сылы<.>//.зылы<.>
+  gloss: P.3PL|ABL
+ -flex: .сы|лы<.>//.зы|лы<.>
   gramm: dat,3pl
- -flex: .сытэк<.>//.зытэк<.>
+  gloss: P.3PL|DAT
+ -flex: .сы|тэк<.>//.зы|тэк<.>
   gramm: car,3pl
- -flex: .сыя<.>//.зыя<.>
+  gloss: P.3PL|CAR
+ -flex: .сы|я<.>//.зы|я<.>
   gramm: adv,3pl
- -flex: .сылань<.>//.зылань<.>
+  gloss: P.3PL|ADV
+ -flex: .сы|лань<.>//.зы|лань<.>
   gramm: app,3pl
+  gloss: P.3PL|APP
  -flex: .сэс<.>//.зэс<.>
   gramm: acc,3pl
- -flex: .ынызы<.>
+  gloss: P.3PL.ACC
+ -flex: .ын|ызы<.>//.эн|ызы<.>
   gramm: ins,3pl
- -flex: .азы<.>
+  gloss: INS|P.3PL
+ -flex: .а|зы<.>
   gramm: loc,3pl
- -flex: .азы<.>
+  gloss: LOC|P.3PL
+ -flex: .а|зы<.>
   gramm: ill,3pl
- -flex: .язы<.>
+  gloss: ILL|P.3PL
+ -flex: .я|зы<.>
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
   gramm: loc,3pl
- -flex: .язы<.>
+  gloss: LOC|P.3PL
+ -flex: .я|зы<.>
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
   gramm: ill,3pl
- -flex: .ысьтызы<.>
+  gloss: ILL|P.3PL
+ -flex: .ысьт|ызы<.>
   gramm: el,3pl
- -flex: .ысенызы<.>
+  gloss: EL|P.3PL
+ -flex: .ысен|ызы<.>
   gramm: egr,3pl
- -flex: .озязы<.>
+  gloss: EGR|P.3PL
+ -flex: .озя|зы<.>
   gramm: term,3pl
- -flex: .ытӥзы<.>//.тӥзы<.>
+  gloss: TERM|P.3PL
+ -flex: .ытӥ|зы<.>//.тӥ|зы<.>
   gramm: prol,3pl
+  gloss: PROL|P.3PL
  paradigm: Comparative
 
 
@@ -1241,307 +2036,583 @@
 -paradigm: Noun-case-mar-poss-1,sg
  -flex: .и<.>
   gramm: nom,1sg
+  gloss: P.1SG
  -flex: .ме<.>
   gramm: acc,1sg
- -flex: .илэн<.>
+  gloss: P.1SG.ACC
+ -flex: .и|лэн<.>
   gramm: gen,1sg
- -flex: .илэсь<.>
+  gloss: P.1SG|GEN
+ -flex: .и|лэсь<.>
   gramm: abl,1sg
- -flex: .илы<.>
+  gloss: P.1SG|ABL
+ -flex: .и|лы<.>
   gramm: dat,1sg
- -flex: .итэк<.>
+  gloss: P.1SG|DAT
+ -flex: .и|тэк<.>
   gramm: car,1sg
- -flex: .ия<.>
+  gloss: P.1SG|CAR
+ -flex: .и|я<.>
   gramm: adv,1sg
- -flex: .илань<.>
+  gloss: P.1SG|ADV
+ -flex: .и|лань<.>
   gramm: app,1sg
- -flex: .иным<.>
+  gloss: P.1SG|APP
+ -flex: .ин|ым<.>
   gramm: ins,1sg
- -flex: .ам<.>
+  gloss: INS|P.1SG
+ -flex: .а|м<.>
   gramm: loc,1sg
- -flex: .ам<.>
+  gloss: LOC|P.1SG
+ -flex: .а|м<.>
   gramm: ill,1sg
- -flex: .ысьтым<.>
+  gloss: ILL|P.1SG
+ -flex: .ысьт|ым<.>
   gramm: el,1sg
- -flex: .ысеным<.>
+  gloss: EL|P.1SG
+ -flex: .ысен|ым<.>
   gramm: egr,1sg
- -flex: .озям<.>
+  gloss: EGR|P.1SG
+ -flex: .озя|м<.>
   gramm: term,1sg
- -flex: .итӥм<.>//.тӥм<.>
+  gloss: TERM|P.1SG
+ -flex: .итӥ|м<.>//.тӥ|м<.>
   gramm: prol,1sg
+  gloss: PROL|P.1SG
  paradigm: Comparative
 
 -paradigm: Noun-case-mar-poss-2,sg
  -flex: .ид<.>
   gramm: nom,2sg
- -flex: .идлэн<.>
+  gloss: P.2SG
+ -flex: .ид|лэн<.>
   gramm: gen,2sg
- -flex: .идлэсь<.>
+  gloss: P.2SG|GEN
+ -flex: .ид|лэсь<.>
   gramm: abl,2sg
- -flex: .идлы<.>
+  gloss: P.2SG|ABL
+ -flex: .ид|лы<.>
   gramm: dat,2sg
- -flex: .идтэк<.>
+  gloss: P.2SG|DAT
+ -flex: .ид|тэк<.>
   gramm: car,2sg
- -flex: .идъя<.>
+  gloss: P.2SG|CAR
+ -flex: .ид|ъя<.>
   gramm: adv,2sg
- -flex: .идлань<.>
+  gloss: P.2SG|ADV
+ -flex: .ид|лань<.>
   gramm: app,2sg
+  gloss: P.2SG|APP
  -flex: .дэ<.>
   gramm: acc,2sg
- -flex: .иныд<.>
+  gloss: P.2SG.ACC
+ -flex: .ин|ыд<.>
   gramm: ins,2sg
- -flex: .ад<.>
+  gloss: INS|P.2SG
+ -flex: .а|д<.>
   gramm: loc,2sg
- -flex: .ад<.>
+  gloss: LOC|P.2SG
+ -flex: .а|д<.>
   gramm: ill,2sg
- -flex: .ысьтыд<.>
+  gloss: ILL|P.2SG
+ -flex: .ысьт|ыд<.>
   gramm: el,2sg
- -flex: .ысеныд<.>
+  gloss: EL|P.2SG
+ -flex: .ысен|ыд<.>
   gramm: egr,2sg
- -flex: .озяд<.>
+  gloss: EGR|P.2SG
+ -flex: .озя|д<.>
   gramm: term,2sg
- -flex: .етӥд<.>//.тӥд<.>
+  gloss: TERM|P.2SG
+ -flex: .етӥ|д<.>//.тӥ|д<.>
   gramm: prol,2sg
+  gloss: PROL|P.2SG
  paradigm: Comparative
 
   
 -paradigm: Noun-case-mar-poss-3,sg
  -flex: .из<.>
   gramm: nom,3sg
- -flex: .излэн<.>
+  gloss: P.3SG
+ -flex: .из|лэн<.>
   gramm: gen,3sg
- -flex: .излэсь<.>
+  gloss: P.3SG|GEN
+ -flex: .из|лэсь<.>
   gramm: abl,3sg
- -flex: .излы<.>
+  gloss: P.3SG|ABL
+ -flex: .из|лы<.>
   gramm: dat,3sg
- -flex: .изтэк<.>
+  gloss: P.3SG|DAT
+ -flex: .из|тэк<.>
   gramm: car,3sg
- -flex: .изъя<.>
+  gloss: P.3SG|CAR
+ -flex: .из|ъя<.>
   gramm: adv,3sg
- -flex: .излань<.>
+  gloss: P.3SG|ADV
+ -flex: .из|лань<.>
   gramm: app,3sg
+  gloss: P.3SG|APP
  -flex: .зэ<.>
   gramm: acc,3sg
- -flex: .иныз<.>
+  gloss: P.3SG.ACC
+ -flex: .ин|ыз<.>
   gramm: ins,3sg
- -flex: .аз<.>
+  gloss: INS|P.3SG
+ -flex: .а|з<.>
   gramm: loc,3sg
- -flex: .аз<.>
+  gloss: LOC|P.3SG
+ -flex: .а|з<.>
   gramm: ill,3sg
- -flex: .ысьтыз<.>
+  gloss: ILL|P.3SG
+ -flex: .ысьт|ыз<.>
   gramm: el,3sg
- -flex: .ысеныз<.>
+  gloss: EL|P.3SG
+ -flex: .ысен|ыз<.>
   gramm: egr,3sg
- -flex: .озяз<.>
+  gloss: EGR|P.3SG
+ -flex: .озя|з<.>
   gramm: term,3sg
- -flex: .етӥз<.>//.тӥз<.>
+  gloss: TERM|P.3SG
+ -flex: .етӥ|з<.>//.тӥ|з<.>
   gramm: prol,3sg
+  gloss: PROL|P.3SG
  paradigm: Comparative
 
 
 
 
 -paradigm: Noun-case-poss-1,sg-soft
- -flex: .е<.>//.ьы<.>
+ -flex: .е<.>
   gramm: nom,1sg
- -flex: .ьме<.>
+  gloss: P.1SG
+ -flex: .[ь]ме<.>
   gramm: acc,1sg
- -flex: .елэн<.>//.ьылэн<.>
+  gloss: P.1SG.ACC
+ -flex: .е|лэн<.>
   gramm: gen,1sg
- -flex: .елэсь<.>//.ьылэсь<.>
+  gloss: P.1SG|GEN
+ -flex: .е|лэсь<.>
   gramm: abl,1sg
- -flex: .елы<.>//.ьылы<.>
+  gloss: P.1SG|ABL
+ -flex: .е|лы<.>
   gramm: dat,1sg
- -flex: .етэк<.>//.ьытэк<.>
+  gloss: P.1SG|DAT
+ -flex: .е|тэк<.>
   gramm: car,1sg
- -flex: .ея<.>//.ьыя<.>
+  gloss: P.1SG|CAR
+ -flex: .е|я<.>
   gramm: adv,1sg
- -flex: .елань<.>//.ьылэнь<.>
+  gloss: P.1SG|ADV
+ -flex: .е|лань<.>
   gramm: app,1sg
- -flex: .еным<.>//.ьыным<.>
+  gloss: P.1SG|APP
+ -flex: .ен|ым<.>//.[ь]ын|ым<.>
   gramm: ins,1sg
- -flex: .ям<.>
+  gloss: INS|P.1SG
+ -flex: .я|м<.>
   gramm: loc,1sg
- -flex: .ям<.>
+  gloss: LOC|P.1SG
+ -flex: .я|м<.>
   gramm: ill,1sg
- -flex: .ьысьтым<.>
+  gloss: ILL|P.1SG
+ -flex: .[ь]ысьт|ым<.>
   gramm: el,1sg
- -flex: .ьысеным<.>
+  gloss: EL|P.1SG
+ -flex: .[ь]ысен|ым<.>
   gramm: egr,1sg
- -flex: .ёзям<.>
+  gloss: EGR|P.1SG
+ -flex: .ёзя|м<.>
   gramm: term,1sg
- -flex: .етӥм<.>//.ьытӥм<.>//.ьтӥм<.>
+  gloss: TERM|P.1SG
+ -flex: .етӥ|м<.>//.[ь]ытӥ|м<.>//.[ь]тӥ|м<.>
   gramm: prol,1sg
+  gloss: PROL|P.1SG
  paradigm: Comparative
 
 -paradigm: Noun-case-poss-2,sg-soft
- -flex: .ед<.>//.ьыд<.>
+ -flex: .ед<.>
   gramm: nom,2sg
- -flex: .едлэн<.>//.ьылэн<.>
+  gloss: P.2SG
+ -flex: .ед|лэн<.>
   gramm: gen,2sg
- -flex: .едлэсь<.>//.ьыдлэсь<.>
+  gloss: P.2SG|GEN
+ -flex: .ед|лэсь<.>
   gramm: abl,2sg
- -flex: .едлы<.>//.ьыдлы<.>
+  gloss: P.2SG|ABL
+ -flex: .ед|лы<.>
   gramm: dat,2sg
- -flex: .едтэк<.>//.ьыдтэк<.>
+  gloss: P.2SG|DAT
+ -flex: .ед|тэк<.>
   gramm: car,2sg
- -flex: .едъя<.>//.ьыдъя<.>
+  gloss: P.2SG|CAR
+ -flex: .ед|ъя<.>
   gramm: adv,2sg
- -flex: .едлань<.>//.ьыдлань<.>
+  gloss: P.2SG|ADV
+ -flex: .ед|лань<.>
   gramm: app,2sg
- -flex: .ьдэ<.>//.ьтэ<.>
+  gloss: P.2SG|APP
+ -flex: .[ь]дэ<.>//.[ь]тэ<.>
   gramm: acc,2sg
- -flex: .еныд<.>//.ьыныд<.>
+  gloss: P.2SG.ACC
+ -flex: .ен|ыд<.>//.[ь]ын|ыд<.>
   gramm: ins,2sg
- -flex: .яд<.>
+  gloss: INS|P.2SG
+ -flex: .я|д<.>
   gramm: loc,2sg
- -flex: .яд<.>
+  gloss: LOC|P.2SG
+ -flex: .я|д<.>
   gramm: ill,2sg
- -flex: .ьысьтыд<.>
+  gloss: ILL|P.2SG
+ -flex: .[ь]ысьт|ыд<.>
   gramm: el,2sg
- -flex: .ьысеныд<.>
+  gloss: EL|P.2SG
+ -flex: .[ь]ысен|ыд<.>
   gramm: egr,2sg
- -flex: .ёзяд<.>
+  gloss: EGR|P.2SG
+ -flex: .ёзя|д<.>
   gramm: term,2sg
- -flex: .етӥд<.>//.ьытӥд<.>//.ьтӥд<.>
+  gloss: TERM|P.2SG
+ -flex: .етӥ|д<.>//.[ь]ытӥ|д<.>//.[ь]тӥ|д<.>
   gramm: prol,2sg
+  gloss: PROL|P.2SG
+ paradigm: Comparative
+
+-paradigm: Noun-case-poss-3,sg-soft
+ -flex: .ез<.>
+  gramm: nom,3sg
+  gloss: P.3SG
+ -flex: .ез|лэн<.>
+  gramm: gen,3sg
+  gloss: P.3SG|GEN
+ -flex: .ез|лэсь<.>
+  gramm: abl,3sg
+  gloss: P.3SG|ABL
+ -flex: .ез|лы<.>
+  gramm: dat,3sg
+  gloss: P.3SG|DAT
+ -flex: .ез|тэк<.>
+  gramm: car,3sg
+  gloss: P.3SG|CAR
+ -flex: .ез|ъя<.>
+  gramm: adv,3sg
+  gloss: P.3SG|ADV
+ -flex: .ез|лань<.>
+  gramm: app,3sg
+  gloss: P.3SG|APP
+ -flex: .[ь]зэ<.>//.[ь]сэ<.>
+  gramm: acc,3sg
+  gloss: P.3SG.ACC
+ -flex: .ен|ыз<.>//.[ь]ын|ыз<.>
+  gramm: ins,3sg
+  gloss: INS|P.3SG
+ -flex: .я|з<.>
+  gloss: LOC|P.3SG
+  gramm: loc,3sg
+ -flex: .я|з<.>
+  gramm: ill,3sg
+  gloss: ILL|P.3SG
+ -flex: .[ь]ысьт|ыз<.>
+  gramm: el,3sg
+  gloss: EL|P.3SG
+ -flex: .[ь]ысен|ыз<.>
+  gramm: egr,3sg
+  gloss: EGR|P.3SG
+ -flex: .ёзя|з<.>
+  gramm: term,3sg
+  gloss: TERM|P.3SG
+ -flex: .етӥ|з<.>//.[ь]ытӥ|з<.>//.[ь]тӥ|з<.>
+  gramm: prol,3sg
+  gloss: PROL|P.3SG
  paradigm: Comparative
 
 
-  
--paradigm: Noun-case-poss-3,sg-soft
- -flex: .ез<.>//.ьыз<.>
+-paradigm: Noun-case-poss-y-1,sg-soft
+ -flex: .[ь]ы<.>
+  gramm: nom,1sg
+  gloss: P.1SG
+ -flex: .[ь]ме<.>
+  gramm: acc,1sg
+  gloss: P.1SG.ACC
+ -flex: .[ь]ы|лэн<.>
+  gramm: gen,1sg
+  gloss: P.1SG|GEN
+ -flex: .[ь]ы|лэсь<.>
+  gramm: abl,1sg
+  gloss: P.1SG|ABL
+ -flex: .[ь]ы|лы<.>
+  gramm: dat,1sg
+  gloss: P.1SG|DAT
+ -flex: .[ь]ы|тэк<.>
+  gramm: car,1sg
+  gloss: P.1SG|CAR
+ -flex: .[ь]ы|я<.>
+  gramm: adv,1sg
+  gloss: P.1SG|ADV
+ -flex: .[ь]ы|лэнь<.>
+  gramm: app,1sg
+  gloss: P.1SG|APP
+ -flex: .ен|ым<.>//.[ь]ы|ным<.>
+  gramm: ins,1sg
+  gloss: INS|P.1SG
+ -flex: .я|м<.>
+  gramm: loc,1sg
+  gloss: LOC|P.1SG
+ -flex: .я|м<.>
+  gramm: ill,1sg
+  gloss: ILL|P.1SG
+ -flex: .[ь]ысьт|ым<.>
+  gramm: el,1sg
+  gloss: EL|P.1SG
+ -flex: .[ь]ысен|ым<.>
+  gramm: egr,1sg
+  gloss: EGR|P.1SG
+ -flex: .ёзя|м<.>
+  gramm: term,1sg
+  gloss: TERM|P.1SG
+ -flex: .етӥ|м<.>//.[ь]ытӥ|м<.>//.[ь]тӥ|м<.>
+  gramm: prol,1sg
+  gloss: PROL|P.1SG
+ paradigm: Comparative
+
+-paradigm: Noun-case-poss-y-2,sg-soft
+ -flex: .[ь]ыд<.>
+  gramm: nom,2sg
+  gloss: P.2SG
+ -flex: .[ь]ыд|лэн<.>
+  gramm: gen,2sg
+  gloss: P.2SG|GEN
+ -flex: .[ь]ыд|лэсь<.>
+  gramm: abl,2sg
+  gloss: P.2SG|ABL
+ -flex: .[ь]ыд|лы<.>
+  gramm: dat,2sg
+  gloss: P.2SG|DAT
+ -flex: .[ь]ыд|тэк<.>
+  gramm: car,2sg
+  gloss: P.2SG|CAR
+ -flex: .[ь]ыд|ъя<.>
+  gramm: adv,2sg
+  gloss: P.2SG|ADV
+ -flex: .[ь]ыд|лань<.>
+  gramm: app,2sg
+  gloss: P.2SG|APP
+ -flex: .[ь]дэ<.>//.[ь]тэ<.>
+  gramm: acc,2sg
+  gloss: P.2SG.ACC
+ -flex: .ен|ыд<.>//.[ь]ын|ыд<.>
+  gramm: ins,2sg
+  gloss: INS|P.2SG
+ -flex: .я|д<.>
+  gramm: loc,2sg
+  gloss: LOC|P.2SG
+ -flex: .я|д<.>
+  gramm: ill,2sg
+  gloss: ILL|P.2SG
+ -flex: .[ь]ысьт|ыд<.>
+  gramm: el,2sg
+  gloss: EL|P.2SG
+ -flex: .[ь]ысен|ыд<.>
+  gramm: egr,2sg
+  gloss: EGR|P.2SG
+ -flex: .ёзя|д<.>
+  gramm: term,2sg
+  gloss: TERM|P.2SG
+ -flex: .етӥ|д<.>//.[ь]ытӥ|д<.>//.[ь]тӥ|д<.>
+  gramm: prol,2sg
+  gloss: PROL|P.2SG
+ paradigm: Comparative
+
+-paradigm: Noun-case-poss-y-3,sg-soft
+ -flex: .[ь]ыз<.>
   gramm: nom,3sg
- -flex: .езлэн<.>//.ьызлэн<.>
+  gloss: P.3SG
+ -flex: .[ь]ыз|лэн<.>
   gramm: gen,3sg
- -flex: .езлэсь<.>//.ьызлэсь<.>
+  gloss: P.3SG|GEN
+ -flex: .[ь]ыз|лэсь<.>
   gramm: abl,3sg
- -flex: .езлы<.>//.ьызлы<.>
+  gloss: P.3SG|ABL
+ -flex: .[ь]ыз|лы<.>
   gramm: dat,3sg
- -flex: .езтэк<.>//.ьызтэк<.>
+  gloss: P.3SG|DAT
+ -flex: .[ь]ыз|тэк<.>
   gramm: car,3sg
- -flex: .езъя<.>//.ьызъя<.>
+  gloss: P.3SG|CAR
+ -flex: .[ь]ыз|ъя<.>
   gramm: adv,3sg
- -flex: .езлань<.>//.ьызлань<.>
+  gloss: P.3SG|ADV
+ -flex: .[ь]ыз|лань<.>
   gramm: app,3sg
- -flex: .ьзэ<.>//.ьсэ<.>
+  gloss: P.3SG|APP
+ -flex: .[ь]зэ<.>//.[ь]сэ<.>
   gramm: acc,3sg
- -flex: .еныз<.>//.ьыныз<.>
+  gloss: P.3SG.ACC
+ -flex: .ен|ыз<.>//.[ь]ын|ыз<.>
   gramm: ins,3sg
- -flex: .яз<.>
+  gloss: INS|P.3SG
+ -flex: .я|з<.>
+  gloss: LOC|P.3SG
   gramm: loc,3sg
- -flex: .яз<.>
+ -flex: .я|з<.>
   gramm: ill,3sg
- -flex: .ьысьтыз<.>
+  gloss: ILL|P.3SG
+ -flex: .[ь]ысьт|ыз<.>
   gramm: el,3sg
- -flex: .ьысеныз<.>
+  gloss: EL|P.3SG
+ -flex: .[ь]ысен|ыз<.>
   gramm: egr,3sg
- -flex: .ёзяз<.>
+  gloss: EGR|P.3SG
+ -flex: .ёзя|з<.>
   gramm: term,3sg
- -flex: .етӥз<.>//.ьытӥз<.>//.ьтӥз<.>
+  gloss: TERM|P.3SG
+ -flex: .етӥ|з<.>//.[ь]ытӥ|з<.>//.[ь]тӥ|з<.>
   gramm: prol,3sg
+  gloss: PROL|P.3SG
  paradigm: Comparative
 
 
 -paradigm: Noun-case-poss-1,pl-soft
- -flex: .ьмы<.>
+ -flex: .[ь]мы<.>
   gramm: nom,1pl
- -flex: .ьмылэн<.>
+  gloss: P.1PL
+ -flex: .[ь]мы|лэн<.>
   gramm: gen,1pl
- -flex: .ьмылэсь<.>
+  gloss: P.1PL|GEN
+ -flex: .[ь]мы|лэсь<.>
   gramm: abl,1pl
- -flex: .ьмылы<.>
+  gloss: P.1PL|ABL
+ -flex: .[ь]мы|лы<.>
   gramm: dat,1pl
- -flex: .ьмытэк<.>
+  gloss: P.1PL|DAT
+ -flex: .[ь]мы|тэк<.>
   gramm: car,1pl
- -flex: .ьмыя<.>
+  gloss: P.1PL|CAR
+ -flex: .[ь]мы|я<.>
   gramm: adv,1pl
- -flex: .ьмылань<.>
+  gloss: P.1PL|ADV
+ -flex: .[ь]мы|лань<.>
   gramm: app,1pl
- -flex: .ьмес<.>
+  gloss: P.1PL|APP
+ -flex: .[ь]мес<.>
   gramm: acc,1pl
- -flex: .ьынымы<.>
+  gloss: P.1PL.ACC
+ -flex: .[ь]ын|ымы<.>
   gramm: ins,1pl
- -flex: .ямы<.>
+  gloss: INS|P.1PL
+ -flex: .я|мы<.>
   gramm: loc,1pl
- -flex: .ямы<.>
+  gloss: LOC|P.1PL
+ -flex: .я|мы<.>
   gramm: ill,1pl
- -flex: .ьысьтымы<.>
+  gloss: ILL|P.1PL
+ -flex: .[ь]ысьт|ымы<.>
   gramm: el,1pl
- -flex: .ьысенымы<.>
+  gloss: EL|P.1PL
+ -flex: .[ь]ысен|ымы<.>
   gramm: egr,1pl
- -flex: .ёзямы<.>
+  gloss: EGR|P.1PL
+ -flex: .ёзя|мы<.>
   gramm: term,1pl
- -flex: .ьытӥмы<.>//.ьтӥмы<.>
+  gloss: TERM|P.1PL
+ -flex: .[ь]ытӥ|мы<.>//.[ь]тӥ|мы<.>
   gramm: prol,1pl
+  gloss: PROL|P.1PL
  paradigm: Comparative
-
 
 -paradigm: Noun-case-poss-2,pl-soft
- -flex: .ьты<.>//.ьды<.>
+ -flex: .[ь]ты<.>//.[ь]ды<.>
   gramm: nom,2pl
- -flex: .ьтылэн<.>//.ьдылэн<.>
+  gloss: P.2PL
+ -flex: .[ь]ты|лэн<.>//.[ь]ды|лэн<.>
   gramm: gen,2pl
- -flex: .ьтылэсь<.>//.ьдылэсь<.>
+  gloss: P.2PL|GEN
+ -flex: .[ь]ты|лэсь<.>//.[ь]ды|лэсь<.>
   gramm: abl,2pl
- -flex: .ьтылы<.>//.ьдылы<.>
+  gloss: P.2PL|ABL
+ -flex: .[ь]ты|лы<.>//.[ь]ды|лы<.>
   gramm: dat,2pl
- -flex: .ьтытэк<.>//.ьдытэк<.>
+  gloss: P.2PL|DAT
+ -flex: .[ь]ты|тэк<.>//.[ь]ды|тэк<.>
   gramm: car,2pl
- -flex: .ьтыя<.>//.ьдыя<.>
+  gloss: P.2PL|CAR
+ -flex: .[ь]ты|я<.>//.[ь]ды|я<.>
   gramm: adv,2pl
- -flex: .ьтылань<.>//.ьдылань<.>
+  gloss: P.2PL|ADV
+ -flex: .[ь]ты|лань<.>//.[ь]ды|лань<.>
   gramm: app,2pl
- -flex: .ьтэс<.>//.ьдэс<.>
+  gloss: P.2PL|APP
+ -flex: .[ь]тэс<.>//.[ь]дэс<.>
   gramm: acc,2pl
- -flex: .ьыныды<.>
+  gloss: P.2PL.ACC
+ -flex: .[ь]ын|ыды<.>
   gramm: ins,2pl
- -flex: .яды<.>
+  gloss: INS|P.2PL
+ -flex: .я|ды<.>
   gramm: loc,2pl
- -flex: .яды<.>
+  gloss: LOC|P.2PL
+ -flex: .я|ды<.>
   gramm: ill,2pl
- -flex: .ьысьтыды<.>
+  gloss: ILL|P.2PL
+ -flex: .[ь]ысьт|ыды<.>
   gramm: el,2pl
- -flex: .ьысеныды<.>
+  gloss: EL|P.2PL
+ -flex: .[ь]ысен|ыды<.>
   gramm: egr,2pl
- -flex: .ёзяды<.>
+  gloss: EGR|P.2PL
+ -flex: .ёзя|ды<.>
   gramm: term,2pl
- -flex: .ьытӥды<.>//.ьтӥды<.>
+  gloss: TERM|P.2PL
+ -flex: .[ь]ытӥ|ды<.>//.[ь]тӥ|ды<.>
   gramm: prol,2pl
+  gloss: PROL|P.2PL
  paradigm: Comparative
 
-  
 -paradigm: Noun-case-poss-3,pl-soft
- -flex: .ьсы<.>//.ьзы<.>
+ -flex: .[ь]сы<.>//.[ь]зы<.>
   gramm: nom,3pl
- -flex: .ьсылэн<.>//.ьзылэн<.>
+  gloss: P.3PL
+ -flex: .[ь]сы|лэн<.>//.[ь]зы|лэн<.>
   gramm: gen,3pl
- -flex: .ьсылэсь<.>//.ьзылэсь<.>
+  gloss: P.3PL|GEN
+ -flex: .[ь]сы|лэсь<.>//.[ь]зы|лэсь<.>
   gramm: abl,3pl
- -flex: .ьсылы<.>//.ьзылы<.>
+  gloss: P.3PL|ABL
+ -flex: .[ь]сы|лы<.>//.[ь]зы|лы<.>
   gramm: dat,3pl
- -flex: .ьсытэк<.>//.ьзытэк<.>
+  gloss: P.3PL|DAT
+ -flex: .[ь]сы|тэк<.>//.[ь]зы|тэк<.>
   gramm: car,3pl
- -flex: .ьсыя<.>//.ьзыя<.>
+  gloss: P.3PL|CAR
+ -flex: .[ь]сы|я<.>//.[ь]зы|я<.>
   gramm: adv,3pl
- -flex: .ьсылань<.>//.ьзылань<.>
+  gloss: P.3PL|ADV
+ -flex: .[ь]сы|лань<.>//.[ь]зы|лань<.>
   gramm: app,3pl
- -flex: .ьсэс<.>//.ьзэс<.>
+  gloss: P.3PL|APP
+ -flex: .[ь]сэс<.>//.[ь]зэс<.>
   gramm: acc,3pl
- -flex: .ьынызы<.>
+  gloss: P.3PL.ACC
+ -flex: .[ь]ын|ызы<.>
   gramm: ins,3pl
- -flex: .язы<.>
+  gloss: INS|P.3PL
+ -flex: .я|зы<.>
   gramm: loc,3pl
- -flex: .язы<.>
+  gloss: LOC|P.3PL
+ -flex: .я|зы<.>
   gramm: ill,3pl
- -flex: .ьысьтызы<.>
+  gloss: ILL|P.3PL
+ -flex: .[ь]ысьт|ызы<.>
   gramm: el,3pl
- -flex: .ьысенызы<.>
+  gloss: EL|P.3PL
+ -flex: .[ь]ысен|ызы<.>
   gramm: egr,3pl
- -flex: .ёзязы<.>
+  gloss: EGR|P.3PL
+ -flex: .ёзя|зы<.>
   gramm: term,3pl
- -flex: .ьытӥзы<.>//.ьтӥзы<.>
+  gloss: TERM|P.3PL
+ -flex: .[ь]ытӥ|зы<.>//.[ь]тӥ|зы<.>
   gramm: prol,3pl
+  gloss: PROL|P.3PL
  paradigm: Comparative
 
 
@@ -1550,297 +2621,540 @@
 
 
 -paradigm: Noun-case-poss-1,sg-j
- -flex: .е<.>//.йы<.>
+ -flex: .е<.>
   gramm: nom,1sg
- -flex: .йме<.>
+  gloss: P.1SG
+ -flex: .[й]ме<.>
   gramm: acc,1sg
- -flex: .елэн<.>//.йылэн<.>
+  gloss: P.1SG.ACC
+ -flex: .е|лэн<.>
   gramm: gen,1sg
- -flex: .елэсь<.>//.йылэсь<.>
+  gloss: P.1SG|GEN
+ -flex: .е|лэсь<.>
   gramm: abl,1sg
- -flex: .елы<.>//.йылы<.>
+  gloss: P.1SG|ABL
+ -flex: .е|лы<.>
   gramm: dat,1sg
- -flex: .етэк<.>//.йытэк<.>
+  gloss: P.1SG|DAT
+ -flex: .е|тэк<.>
   gramm: car,1sg
- -flex: .ея<.>//.йыя<.>
+  gloss: P.1SG|CAR
+ -flex: .е|я<.>
   gramm: adv,1sg
- -flex: .елань<.>//.йылэнь<.>
+  gloss: P.1SG|ADV
+ -flex: .е|лань<.>
   gramm: app,1sg
- -flex: .еным<.>//.йыным<.>
+  gloss: P.1SG|APP
+ -flex: .ен|ым<.>//.[й]ын|ым<.>
   gramm: ins,1sg
- -flex: .ям<.>
+  gloss: INS|P.1SG
+ -flex: .я|м<.>
   gramm: loc,1sg
- -flex: .ям<.>
+  gloss: LOC|P.1SG
+ -flex: .я|м<.>
   gramm: ill,1sg
- -flex: .йысьтым<.>
+  gloss: ILL|P.1SG
+ -flex: .[й]ысьт|ым<.>
   gramm: el,1sg
- -flex: .йысеным<.>
+  gloss: EL|P.1SG
+ -flex: .[й]ысен|ым<.>
   gramm: egr,1sg
- -flex: .ёзям<.>//.йёзям<.>
+  gloss: EGR|P.1SG
+ -flex: .ёзя|м<.>
   gramm: term,1sg
- -flex: .етӥм<.>//.йытӥм<.>//.йтӥм<.>
+  gloss: TERM|P.1SG
+ -flex: .етӥ|м<.>//.[й]ытӥ|м<.>//.[й]тӥ|м<.>
   gramm: prol,1sg
+  gloss: PROL|P.1SG
  paradigm: Comparative
 
 -paradigm: Noun-case-poss-2,sg-j
- -flex: .ед<.>//.йыд<.>
+ -flex: .ед<.>
   gramm: nom,2sg
- -flex: .едлэн<.>//.йылэн<.>
+  gloss: P.2SG
+ -flex: .ед|лэн<.>
   gramm: gen,2sg
- -flex: .едлэсь<.>//.йыдлэсь<.>
+  gloss: P.2SG|GEN
+ -flex: .ед|лэсь<.>
   gramm: abl,2sg
- -flex: .едлы<.>//.йыдлы<.>
+  gloss: P.2SG|ABL
+ -flex: .ед|лы<.>
   gramm: dat,2sg
- -flex: .едтэк<.>//.йыдтэк<.>
+  gloss: P.2SG|DAT
+ -flex: .ед|тэк<.>
   gramm: car,2sg
- -flex: .едъя<.>//.йыдъя<.>
+  gloss: P.2SG|CAR
+ -flex: .ед|ъя<.>
   gramm: adv,2sg
- -flex: .едлань<.>//.йыдлань<.>
+  gloss: P.2SG|ADV
+ -flex: .ед|лань<.>
   gramm: app,2sg
- -flex: .йдэ<.>//.йтэ<.>
+  gloss: P.2SG|APP
+ -flex: .[й]дэ<.>//.[й]тэ<.>
   gramm: acc,2sg
- -flex: .еныд<.>//.йыныд<.>
+  gloss: P.2SG.ACC
+ -flex: .ен|ыд<.>//.[й]ын|ыд<.>
   gramm: ins,2sg
- -flex: .яд<.>
+  gloss: INS|P.2SG
+ -flex: .я|д<.>
   gramm: loc,2sg
- -flex: .яд<.>
+  gloss: LOC|P.2SG
+ -flex: .я|д<.>
   gramm: ill,2sg
- -flex: .йысьтыд<.>
+  gloss: ILL|P.2SG
+ -flex: .[й]ысьт|ыд<.>
   gramm: el,2sg
- -flex: .йысеныд<.>
+  gloss: EL|P.2SG
+ -flex: .[й]ысен|ыд<.>
   gramm: egr,2sg
- -flex: .ёзяд<.>//.йёзяд<.>
+  gloss: EGR|P.2SG
+ -flex: .ёзя|д<.>
   gramm: term,2sg
- -flex: .етӥд<.>//.йытӥд<.>//.йтӥд<.>
+  gloss: TERM|P.2SG
+ -flex: .етӥ|д<.>//.[й]ытӥ|д<.>//.[й]тӥ|д<.>
   gramm: prol,2sg
+  gloss: PROL|P.2SG
+ paradigm: Comparative
+
+-paradigm: Noun-case-poss-3,sg-j
+ -flex: .ез<.>
+  gramm: nom,3sg
+  gloss: P.3SG
+ -flex: .ез|лэн<.>
+  gramm: gen,3sg
+  gloss: P.3SG|GEN
+ -flex: .ез|лэсь<.>
+  gramm: abl,3sg
+  gloss: P.3SG|ABL
+ -flex: .ез|лы<.>
+  gramm: dat,3sg
+  gloss: P.3SG|DAT
+ -flex: .ез|тэк<.>
+  gramm: car,3sg
+  gloss: P.3SG|CAR
+ -flex: .ез|ъя<.>
+  gramm: adv,3sg
+  gloss: P.3SG|ADV
+ -flex: .ез|лань<.>
+  gramm: app,3sg
+  gloss: P.3SG|APP
+ -flex: .[й]зэ<.>
+  gramm: acc,3sg
+  gloss: P.3SG.ACC
+ -flex: .ен|ыз<.>//.[й]ын|ыз<.>
+  gramm: ins,3sg
+  gloss: INS|P.3SG
+ -flex: .я|з<.>
+  gloss: LOC|P.3SG
+  gramm: loc,3sg
+ -flex: .я|з<.>
+  gramm: ill,3sg
+  gloss: ILL|P.3SG
+ -flex: .[й]ысьт|ыз<.>
+  gramm: el,3sg
+  gloss: EL|P.3SG
+ -flex: .[й]ысен|ыз<.>
+  gramm: egr,3sg
+  gloss: EGR|P.3SG
+ -flex: .ёзя|з<.>
+  gramm: term,3sg
+  gloss: TERM|P.3SG
+ -flex: .етӥ|з<.>//.[й]ытӥ|з<.>//.[й]тӥ|з<.>
+  gramm: prol,3sg
+  gloss: PROL|P.3SG
  paradigm: Comparative
 
 
-  
--paradigm: Noun-case-poss-3,sg-j
- -flex: .ез<.>//.йыз<.>
+-paradigm: Noun-case-poss-1,sg-j-y
+ -flex: .[й]ы<.>
+  gramm: nom,1sg
+  gloss: P.1SG
+ -flex: .[й]ме<.>
+  gramm: acc,1sg
+  gloss: P.1SG.ACC
+ -flex: .[й]ы|лэн<.>
+  gramm: gen,1sg
+  gloss: P.1SG|GEN
+ -flex: .[й]ы|лэсь<.>
+  gramm: abl,1sg
+  gloss: P.1SG|ABL
+ -flex: .[й]ы|лы<.>
+  gramm: dat,1sg
+  gloss: P.1SG|DAT
+ -flex: .[й]ы|тэк<.>
+  gramm: car,1sg
+  gloss: P.1SG|CAR
+ -flex: .[й]ы|я<.>
+  gramm: adv,1sg
+  gloss: P.1SG|ADV
+ -flex: .[й]ы|лэнь<.>
+  gramm: app,1sg
+  gloss: P.1SG|APP
+ -flex: .ен|ым<.>//.[й]ы|ным<.>
+  gramm: ins,1sg
+  gloss: INS|P.1SG
+ -flex: .я|м<.>
+  gramm: loc,1sg
+  gloss: LOC|P.1SG
+ -flex: .я|м<.>
+  gramm: ill,1sg
+  gloss: ILL|P.1SG
+ -flex: .[й]ысьт|ым<.>
+  gramm: el,1sg
+  gloss: EL|P.1SG
+ -flex: .[й]ысен|ым<.>
+  gramm: egr,1sg
+  gloss: EGR|P.1SG
+ -flex: .ёзя|м<.>
+  gramm: term,1sg
+  gloss: TERM|P.1SG
+ -flex: .етӥ|м<.>//.[й]ытӥ|м<.>//.[й]тӥ|м<.>
+  gramm: prol,1sg
+  gloss: PROL|P.1SG
+ paradigm: Comparative
+
+-paradigm: Noun-case-poss-2,sg-j-y
+ -flex: .[й]ыд<.>
+  gramm: nom,2sg
+  gloss: P.2SG
+ -flex: .[й]ыд|лэн<.>
+  gramm: gen,2sg
+  gloss: P.2SG|GEN
+ -flex: .[й]ыд|лэсь<.>
+  gramm: abl,2sg
+  gloss: P.2SG|ABL
+ -flex: .[й]ыд|лы<.>
+  gramm: dat,2sg
+  gloss: P.2SG|DAT
+ -flex: .[й]ыд|тэк<.>
+  gramm: car,2sg
+  gloss: P.2SG|CAR
+ -flex: .[й]ыд|ъя<.>
+  gramm: adv,2sg
+  gloss: P.2SG|ADV
+ -flex: .[й]ыд|лань<.>
+  gramm: app,2sg
+  gloss: P.2SG|APP
+ -flex: .[й]дэ<.>
+  gramm: acc,2sg
+  gloss: P.2SG.ACC
+ -flex: .ен|ыд<.>//.[й]ын|ыд<.>
+  gramm: ins,2sg
+  gloss: INS|P.2SG
+ -flex: .я|д<.>
+  gramm: loc,2sg
+  gloss: LOC|P.2SG
+ -flex: .я|д<.>
+  gramm: ill,2sg
+  gloss: ILL|P.2SG
+ -flex: .[й]ысьт|ыд<.>
+  gramm: el,2sg
+  gloss: EL|P.2SG
+ -flex: .[й]ысен|ыд<.>
+  gramm: egr,2sg
+  gloss: EGR|P.2SG
+ -flex: .ёзя|д<.>
+  gramm: term,2sg
+  gloss: TERM|P.2SG
+ -flex: .етӥ|д<.>//.[й]ытӥ|д<.>//.[й]тӥ|д<.>
+  gramm: prol,2sg
+  gloss: PROL|P.2SG
+ paradigm: Comparative
+
+-paradigm: Noun-case-poss-3,sg-j-y
+ -flex: .[й]ыз<.>
   gramm: nom,3sg
- -flex: .езлэн<.>//.йызлэн<.>
+  gloss: P.3SG
+ -flex: .[й]ыз|лэн<.>
   gramm: gen,3sg
- -flex: .езлэсь<.>//.йызлэсь<.>
+  gloss: P.3SG|GEN
+ -flex: .[й]ыз|лэсь<.>
   gramm: abl,3sg
- -flex: .езлы<.>//.йызлы<.>
+  gloss: P.3SG|ABL
+ -flex: .[й]ыз|лы<.>
   gramm: dat,3sg
- -flex: .езтэк<.>//.йызтэк<.>
+  gloss: P.3SG|DAT
+ -flex: .[й]ыз|тэк<.>
   gramm: car,3sg
- -flex: .езъя<.>//.йызъя<.>
+  gloss: P.3SG|CAR
+ -flex: .[й]ыз|ъя<.>
   gramm: adv,3sg
- -flex: .езлань<.>//.йызлань<.>
+  gloss: P.3SG|ADV
+ -flex: .[й]ыз|лань<.>
   gramm: app,3sg
- -flex: .йзэ<.>//.йсэ<.>
+  gloss: P.3SG|APP
+ -flex: .[й]зэ<.>
   gramm: acc,3sg
- -flex: .еныз<.>//.йыныз<.>
+  gloss: P.3SG.ACC
+ -flex: .ен|ыз<.>//.[й]ын|ыз<.>
   gramm: ins,3sg
- -flex: .яз<.>
+  gloss: INS|P.3SG
+ -flex: .я|з<.>
+  gloss: LOC|P.3SG
   gramm: loc,3sg
- -flex: .яз<.>
+ -flex: .я|з<.>
   gramm: ill,3sg
- -flex: .йысьтыз<.>
+  gloss: ILL|P.3SG
+ -flex: .[й]ысьт|ыз<.>
   gramm: el,3sg
- -flex: .йысеныз<.>
+  gloss: EL|P.3SG
+ -flex: .[й]ысен|ыз<.>
   gramm: egr,3sg
- -flex: .ёзяз<.>//.йёзяз<.>
+  gloss: EGR|P.3SG
+ -flex: .ёзя|з<.>
   gramm: term,3sg
- -flex: .етӥз<.>//.йытӥз<.>//.йтӥз<.>
+  gloss: TERM|P.3SG
+ -flex: .етӥ|з<.>//.[й]ытӥ|з<.>//.[й]тӥ|з<.>
   gramm: prol,3sg
+  gloss: PROL|P.3SG
  paradigm: Comparative
 
 
 -paradigm: Noun-case-poss-1,pl-j
- -flex: .ймы<.>
+ -flex: .[й]мы<.>
   gramm: nom,1pl
- -flex: .ймылэн<.>
+  gloss: P.1PL
+ -flex: .[й]мы|лэн<.>
   gramm: gen,1pl
- -flex: .ймылэсь<.>
+  gloss: P.1PL|GEN
+ -flex: .[й]мы|лэсь<.>
   gramm: abl,1pl
- -flex: .ймылы<.>
+  gloss: P.1PL|ABL
+ -flex: .[й]мы|лы<.>
   gramm: dat,1pl
- -flex: .ймытэк<.>
+  gloss: P.1PL|DAT
+ -flex: .[й]мы|тэк<.>
   gramm: car,1pl
- -flex: .ймыя<.>
+  gloss: P.1PL|CAR
+ -flex: .[й]мы|я<.>
   gramm: adv,1pl
- -flex: .ймылань<.>
+  gloss: P.1PL|ADV
+ -flex: .[й]мы|лань<.>
   gramm: app,1pl
- -flex: .ймес<.>
+  gloss: P.1PL|APP
+ -flex: .[й]мес<.>
   gramm: acc,1pl
- -flex: .йынымы<.>
+  gloss: P.1PL.ACC
+ -flex: .ен|ымы<.>//.[й]ын|ымы<.>
   gramm: ins,1pl
- -flex: .ямы<.>
+  gloss: INS|P.1PL
+ -flex: .я|мы<.>
   gramm: loc,1pl
- -flex: .ямы<.>
+  gloss: LOC|P.1PL
+ -flex: .я|мы<.>
   gramm: ill,1pl
- -flex: .йысьтымы<.>
+  gloss: ILL|P.1PL
+ -flex: .[й]ысьт|ымы<.>
   gramm: el,1pl
- -flex: .йысенымы<.>
+  gloss: EL|P.1PL
+ -flex: .[й]ысен|ымы<.>
   gramm: egr,1pl
- -flex: .ёзямы<.>//.йёзямы<.>
+  gloss: EGR|P.1PL
+ -flex: .ёзя|мы<.>
   gramm: term,1pl
- -flex: .йытӥмы<.>//.йтӥмы<.>
+  gloss: TERM|P.1PL
+ -flex: .[й]ытӥ|мы<.>//.[й]тӥ|мы<.>
   gramm: prol,1pl
+  gloss: PROL|P.1PL
  paradigm: Comparative
-
 
 -paradigm: Noun-case-poss-2,pl-j
- -flex: .йты<.>//.йды<.>
+ -flex: .[й]ды<.>
   gramm: nom,2pl
- -flex: .йтылэн<.>//.йдылэн<.>
+  gloss: P.2PL
+ -flex: .[й]ды|лэн<.>
   gramm: gen,2pl
- -flex: .йтылэсь<.>//.йдылэсь<.>
+  gloss: P.2PL|GEN
+ -flex: .[й]ды|лэсь<.>
   gramm: abl,2pl
- -flex: .йтылы<.>//.йдылы<.>
+  gloss: P.2PL|ABL
+ -flex: .[й]ды|лы<.>
   gramm: dat,2pl
- -flex: .йтытэк<.>//.йдытэк<.>
+  gloss: P.2PL|DAT
+ -flex: .[й]ды|тэк<.>
   gramm: car,2pl
- -flex: .йтыя<.>//.йдыя<.>
+  gloss: P.2PL|CAR
+ -flex: .[й]ды|я<.>
   gramm: adv,2pl
- -flex: .йтылань<.>//.йдылань<.>
+  gloss: P.2PL|ADV
+ -flex: .[й]ды|лань<.>
   gramm: app,2pl
- -flex: .йтэс<.>//.йдэс<.>
+  gloss: P.2PL|APP
+ -flex: .[й]дэс<.>
   gramm: acc,2pl
- -flex: .йыныды<.>
+  gloss: P.2PL.ACC
+ -flex: .ен|ыды<.>//.[й]ын|ыды<.>
   gramm: ins,2pl
- -flex: .яды<.>
+  gloss: INS|P.2PL
+ -flex: .я|ды<.>
   gramm: loc,2pl
- -flex: .яды<.>
+  gloss: LOC|P.2PL
+ -flex: .я|ды<.>
   gramm: ill,2pl
- -flex: .йысьтыды<.>
+  gloss: ILL|P.2PL
+ -flex: .[й]ысьт|ыды<.>
   gramm: el,2pl
- -flex: .йысеныды<.>
+  gloss: EL|P.2PL
+ -flex: .[й]ысен|ыды<.>
   gramm: egr,2pl
- -flex: .ёзяды<.>//.ьёзяды<.>
+  gloss: EGR|P.2PL
+ -flex: .ёзя|ды<.>
   gramm: term,2pl
- -flex: .йытӥды<.>//.йтӥды<.>
+  gloss: TERM|P.2PL
+ -flex: .[й]ытӥ|ды<.>//.[й]тӥ|ды<.>
   gramm: prol,2pl
+  gloss: PROL|P.2PL
  paradigm: Comparative
 
-  
 -paradigm: Noun-case-poss-3,pl-j
- -flex: .йсы<.>//.йзы<.>
+ -flex: .[й]зы<.>
   gramm: nom,3pl
- -flex: .йсылэн<.>//.йзылэн<.>
+  gloss: P.3PL
+ -flex: .[й]зы|лэн<.>
   gramm: gen,3pl
- -flex: .йсылэсь<.>//.йзылэсь<.>
+  gloss: P.3PL|GEN
+ -flex: .[й]зы|лэсь<.>
   gramm: abl,3pl
- -flex: .йсылы<.>//.йзылы<.>
+  gloss: P.3PL|ABL
+ -flex: .[й]зы|лы<.>
   gramm: dat,3pl
- -flex: .йсытэк<.>//.йзытэк<.>
+  gloss: P.3PL|DAT
+ -flex: .[й]зы|тэк<.>
   gramm: car,3pl
- -flex: .йсыя<.>//.йзыя<.>
+  gloss: P.3PL|CAR
+ -flex: .[й]зы|я<.>
   gramm: adv,3pl
- -flex: .йсылань<.>//.йзылань<.>
+  gloss: P.3PL|ADV
+ -flex: .[й]зы|лань<.>
   gramm: app,3pl
- -flex: .йсэс<.>//.йзэс<.>
+  gloss: P.3PL|APP
+ -flex: .[й]зэс<.>
   gramm: acc,3pl
- -flex: .йынызы<.>
+  gloss: P.3PL.ACC
+ -flex: .ен|ызы<.>//.[й]ын|ызы<.>
   gramm: ins,3pl
- -flex: .язы<.>
+  gloss: INS|P.3PL
+ -flex: .я|зы<.>
   gramm: loc,3pl
- -flex: .язы<.>
+  gloss: LOC|P.3PL
+ -flex: .я|зы<.>
   gramm: ill,3pl
- -flex: .йысьтызы<.>
+  gloss: ILL|P.3PL
+ -flex: .[й]ысьт|ызы<.>
   gramm: el,3pl
- -flex: .йысенызы<.>
+  gloss: EL|P.3PL
+ -flex: .[й]ысен|ызы<.>
   gramm: egr,3pl
- -flex: .ёзязы<.>//.йёзязы<.>
+  gloss: EGR|P.3PL
+ -flex: .ёзя|зы<.>
   gramm: term,3pl
- -flex: .йытӥзы<.>//.йтӥзы<.>
+  gloss: TERM|P.3PL
+ -flex: .[й]ытӥ|зы<.>//.[й]тӥ|зы<.>
   gramm: prol,3pl
+  gloss: PROL|P.3PL
  paradigm: Comparative
 
 
 
 -paradigm: Participles-I
  -flex: .ӥс<.>//.ыс<.>
-  gramm: ptcp,pres,act
+  gramm: ptcp,act
+  gloss: PTCP.ACT
   paradigm: Noun-num-soft
  -flex: .ис<.>
-  gramm: ptcp,pres,act
+  gramm: ptcp,act
+  gloss: PTCP.ACT
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
   paradigm: Noun-num-soft
  -flex: .эм<.>
-  gramm: ptcp,perf,pass
+  gramm: ptcp,pst
+  gloss: PTCP.PST
   paradigm: Noun-num-consonant
  -flex: .ем<.>
-  gramm: ptcp,perf,pass
+  gramm: ptcp,pst
+  gloss: PTCP.PST
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
   paradigm: Noun-num-consonant
  -flex: .оно<.>
   gramm: ptcp,pres,pass
+  gloss: PTCP.PASS
   paradigm: connect_adjectives
  -flex: .ымон<.>
   gramm: ptcp,pres,pass
+  gloss: PTCP.PASS
   paradigm: connect_adjectives
  -flex: .эмын<.>//.ымын<.>
-  gramm: ptcp,past
+  gramm: ptcp,res
+  gloss: RES
   paradigm: Noun-num-consonant
  -flex: .емын<.>
-  gramm: ptcp,past
+  gramm: ptcp,res
+  gloss: RES
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
   paradigm: Noun-num-consonant
 
 -paradigm: Participles-I-soft
  -flex: .ис<.>
-  gramm: ptcp,pres,act
+  gramm: ptcp,act
+  gloss: PTCP.ACT
   paradigm: Noun-num-soft
  -flex: .ем<.>
-  gramm: ptcp,perf,pass
+  gramm: ptcp,pst
+  gloss: PTCP.PST
   paradigm: Noun-num-consonant
  -flex: .ёно<.>
   gramm: ptcp,pres,pass
+  gloss: PTCP.PASS
   paradigm: connect_adjectives
- -flex: .ьмон<.>//.ьымон<.>
+ -flex: .[ь]мон<.>//.[ь]ымон<.>
   gramm: ptcp,pres,pass
+  gloss: PTCP.PASS
   paradigm: connect_adjectives
- -flex: .ьмын<.>//.емын<.>
-  gramm: ptcp,past
+ -flex: .[ь]мын<.>//.емын<.>
+  gramm: ptcp,res
+  gloss: RES
   paradigm: Noun-num-consonant
 
 
 -paradigm: Participles-II
  -flex: .с<.>
-  gramm: ptcp,pres,act
+  gramm: ptcp,act
+  gloss: PTCP.ACT
   paradigm: Noun-num-soft
  -flex: .м<.>
-  gramm: ptcp,perf,pass
+  gramm: ptcp,pst
+  gloss: PTCP.PST
   paradigm: Noun-num-consonant
  -flex: .но<.>
   gramm: ptcp,pres,pass
+  gloss: PTCP.PASS
   paradigm: connect_adjectives
  -flex: .мон<.>
   gramm: ptcp,pres,pass
+  gloss: PTCP.PASS
   paradigm: connect_adjectives
  -flex: .мын<.>
-  gramm: ptcp,past
+  gramm: ptcp,res
+  gloss: RES
   paradigm: Noun-num-consonant
 
 
 -paradigm: Participles-neg-I
- -flex: .тэм<.>
-  gramm: ptcp,pres,act,neg
-  paradigm: Noun-num-consonant
  -flex: .ымтэ<.>
-  gramm: ptcp,pass,neg
+  gramm: ptcp,neg
+  gloss: PTCP.NEG
   paradigm: Noun-num-vowel
 
 -paradigm: Participles-neg-I-soft
- -flex: .ьтэм<.>
-  gramm: ptcp,pres,act,neg
-  paradigm: Noun-num-consonant
- -flex: .ьымтэ<.>
-  gramm: ptcp,pass,neg
+ -flex: .[ь]ымтэ<.>
+  gramm: ptcp,neg
+  gloss: PTCP.NEG
   paradigm: Noun-num-vowel
 
 -paradigm: Participles-neg-II
- -flex: .тэм<.>
-  gramm: ptcp,pres,act,neg
-  paradigm: Noun-num-consonant
  -flex: .мтэ<.>
-  gramm: ptcp,pass,neg
+  gramm: ptcp,neg
+  gloss: PTCP.NEG
   paradigm: Noun-num-vowel
 
 
@@ -1854,173 +3168,53 @@
 -paradigm: Adjectives_Pl
  -flex: .эсь<.>
   gramm: pl
+  gloss: PL.ADJ
   paradigm: Comparative
  -flex: .есь<.>
   gramm: pl
+  gloss: PL.ADJ
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
   paradigm: Comparative
  -flex: .ос<.>
   gramm: pl
+  gloss: PL
   regex-prev: ^.*[аеёиӥоӧуыэюя][.<>]*$
-  paradigm: Adjectives_Pl_intens
+  paradigm: Noun-case-poss-y-3,sg
   paradigm: Comparative
  -flex: .ъёс<.>
   gramm: pl
+  gloss: PL
   regex-prev: ^.*[^аеёиӥоӧуыэюяйьъ.<>][.<>]*$
-  paradigm: Adjectives_Pl_intens
+  paradigm: Noun-case-poss-y-3,sg
   paradigm: Comparative
  -flex: .ёс<.>
   gramm: pl
+  gloss: PL
   regex-prev: ^.*[йьъ][.<>]*$
-  paradigm: Adjectives_Pl_intens
+  paradigm: Noun-case-poss-y-3,sg
   paradigm: Comparative
  -flex: .ъёс<.>//.ёс<.>
   gramm: pl
-  paradigm: Adjectives_Pl_intens
+  gloss: PL
+  paradigm: Noun-case-poss-y-3,sg
   paradigm: Comparative
 
 -paradigm: Adjectives_Pl-soft
  -flex: .есь<.>
   gramm: pl
+  gloss: PL.ADJ
   paradigm: Comparative
- -flex: .ьёс<.>
+ -flex: .[ь]ёс<.>
   gramm: pl
-  paradigm: Adjectives_Pl_intens
+  gloss: PL.ADJ
+  paradigm: Noun-case-poss-y-3,sg
   paradigm: Comparative
-
-
--paradigm: Adjectives_Pl_intens
- -flex: .<.>
-  gramm:
- -flex: .ыз<.>
-  gramm: nom,intensifier
- -flex: .сэ<.>
-  gramm: acc,intensifier
- -flex: .ызлэн<.>
-  gramm: gen,intensifier
- -flex: .ызлэсь<.>
-  gramm: abl,intensifier
- -flex: .ызлы<.>
-  gramm: dat,intensifier
- -flex: .ызтэк<.>
-  gramm: car,intensifier
- -flex: .ызъя<.>
-  gramm: adv,intensifier
- -flex: .ыныз
-  gramm: ins,intensifier
- -flex: .аз
-  gramm: loc,intensifier
- -flex: .аз
-  gramm: ill,intensifier
- -flex: .ысьтыз<.>
-  gramm: el,intensifier
- -flex: .ысеныз<.>
-  gramm: egr,intensifier
- -flex: .тӥз
-  gramm: prol,intensifier
- -flex: .озяз
-  gramm: term,intensifier
- -flex: .ызлань
-  gramm: app,intensifier
-
--paradigm: Adjectives_Sg_intens
- -flex: .ез<.>
-  gramm: nom,intensifier
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
- -flex: .зэ<.>//.сэ<.>
-  gramm: acc,intensifier
- -flex: .езлэн<.>
-  gramm: gen,intensifier
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
- -flex: .езлэсь<.>
-  gramm: abl,intensifier
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
- -flex: .езлы<.>
-  gramm: dat,intensifier
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
- -flex: .езтэк<.>
-  gramm: car,intensifier
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
- -flex: .езъя<.>
-  gramm: adv,intensifier
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
- -flex: .еныз<.>
-  gramm: ins,intensifier
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
- -flex: .аз<.>
-  gramm: loc,intensifier
- -flex: .аз<.>
-  gramm: ill,intensifier
- -flex: .ысьтыз<.>
-  gramm: el,intensifier
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
- -flex: .ысеныз<.>
-  gramm: egr,intensifier
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
- -flex: .етӥз<.>
-  gramm: prol,intensifier
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
- -flex: .озяз<.>
-  gramm: term,intensifier
- -flex: .езлань<.>
-  gramm: app,intensifier
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
- -flex: .эз<.>
-  gramm: nom,intensifier
- -flex: .эзлэн<.>
-  gramm: gen,intensifier
- -flex: .эзлэсь<.>
-  gramm: abl,intensifier
- -flex: .эзлы<.>
-  gramm: dat,intensifier
- -flex: .эзтэк<.>
-  gramm: car,intensifier
- -flex: .эзъя<.>
-  gramm: adv,intensifier
- -flex: .эныз<.>
-  gramm: ins,intensifier
- -flex: .этӥз<.>
-  gramm: prol,intensifier
- -flex: .эзлань<.>
-  gramm: app,intensifier
- paradigm: Comparative
-
--paradigm: Adjectives_Sg_intens-soft
- -flex: .ез<.>
-  gramm: nom,intensifier
- -flex: .ьзэ<.>//.ьсэ<.>
-  gramm: acc,intensifier
- -flex: .езлэн<.>
-  gramm: gen,intensifier
- -flex: .езлэсь<.>
-  gramm: abl,intensifier
- -flex: .езлы<.>
-  gramm: dat,intensifier
- -flex: .езтэк<.>
-  gramm: car,intensifier
- -flex: .езъя<.>
-  gramm: adv,intensifier
- -flex: .еныз<.>
-  gramm: ins,intensifier
- -flex: .яз<.>
-  gramm: loc,intensifier
- -flex: .яз<.>
-  gramm: ill,intensifier
- -flex: .ьысьтыз<.>
-  gramm: el,intensifier
- -flex: .ьысеныз<.>
-  gramm: egr,intensifier
- -flex: .етӥз<.>
-  gramm: prol,intensifier
- -flex: .ёзяз<.>
-  gramm: term,intensifier
- -flex: .езлань<.>
-  gramm: app,intensifier
- paradigm: Comparative
 
 
 -paradigm: Comparative
  -flex: .гес//.гем
   gramm: comp
+  gloss: COMP
  -flex: .
   gramm: 
 
@@ -2030,469 +3224,714 @@
 
 -paradigm: Converbs-I
  -flex: .ыса
-  gramm: cnv,preced
+  gramm: cvb,gen
+  gloss: CVB
  -flex: .ытэк
-  gramm: cnv,neg
+  gramm: cvb,neg
+  gloss: CVB.NEG
  -flex: .ыку
-  gramm: cnv,simult
- -flex: .ыкум
-  gramm: cnv,simult,1,sg
- -flex: .ыкумы
-  gramm: cnv,simult,1,pl
- -flex: .ыкуд
-  gramm: cnv,simult,2,sg
- -flex: .ыкуды
-  gramm: cnv,simult,2,pl
- -flex: .ыкуз
-  gramm: cnv,simult,3,sg
- -flex: .ыкузы
-  gramm: cnv,simult,3,pl
+  gramm: cvb,simult
+  gloss: CVB.SIM
+ -flex: .ыку|м
+  gramm: cvb,simult,1,sg
+  gloss: CVB.SIM|1SG
+ -flex: .ыку|мы
+  gramm: cvb,simult,1,pl
+  gloss: CVB.SIM|1PL
+ -flex: .ыку|д
+  gramm: cvb,simult,2,sg
+  gloss: CVB.SIM|2SG
+ -flex: .ыку|ды
+  gramm: cvb,simult,2,pl
+  gloss: CVB.SIM|2PL
+ -flex: .ыку|з
+  gramm: cvb,simult,3,sg
+  gloss: CVB.SIM|3SG
+ -flex: .ыку|зы
+  gramm: cvb,simult,3,pl
+  gloss: CVB.SIM|3PL
  -flex: .ытозь
-  gramm: cnv,dur
- -flex: .ытозям
-  gramm: cnv,dur,1,sg
- -flex: .ытозямы
-  gramm: cnv,dur,1,pl
- -flex: .ытозяд
-  gramm: cnv,dur,2,sg
- -flex: .ытозяды
-  gramm: cnv,dur,2,pl
- -flex: .ытозяз
-  gramm: cnv,dur,3,sg
- -flex: .ытозязы
-  gramm: cnv,dur,3,pl
- -flex: .ымон
-  gramm: cnv,result
+  gramm: cvb,lim
+  gloss: CVB.LIM
+ -flex: .ытозя|м
+  gramm: cvb,lim,1,sg
+  gloss: CVB.LIM|1SG
+ -flex: .ытозя|мы
+  gramm: cvb,lim,1,pl
+  gloss: CVB.LIM|1PL
+ -flex: .ытозя|д
+  gramm: cvb,lim,2,sg
+  gloss: CVB.LIM|2SG
+ -flex: .ытозя|ды
+  gramm: cvb,lim,2,pl
+  gloss: CVB.LIM|2PL
+ -flex: .ытозя|з
+  gramm: cvb,lim,3,sg
+  gloss: CVB.LIM|3SG
+ -flex: .ытозя|зы
+  gramm: cvb,lim,3,pl
+  gloss: CVB.LIM|3PL
 
 -paradigm: Converbs-I-soft
- -flex: .ьыса
-  gramm: cnv,preced
- -flex: .ьытэк
-  gramm: cnv,neg
- -flex: .ьыку
-  gramm: cnv,simult
- -flex: .ьыкум
-  gramm: cnv,simult,1,sg
- -flex: .ьыкумы
-  gramm: cnv,simult,1,pl
- -flex: .ьыкуд
-  gramm: cnv,simult,2,sg
- -flex: .ьыкуды
-  gramm: cnv,simult,2,pl
- -flex: .ьыкуз
-  gramm: cnv,simult,3,sg
- -flex: .ьыкузы
-  gramm: cnv,simult,3,pl
- -flex: .ьытозь
-  gramm: cnv,dur
- -flex: .ьытозям
-  gramm: cnv,dur,1,sg
- -flex: .ьытозямы
-  gramm: cnv,dur,1,pl
- -flex: .ьытозяд
-  gramm: cnv,dur,2,sg
- -flex: .ьытозяды
-  gramm: cnv,dur,2,pl
- -flex: .ьытозяз
-  gramm: cnv,dur,3,sg
- -flex: .ьытозязы
-  gramm: cnv,dur,3,pl
- -flex: .ьымон
-  gramm: cnv,result
+ -flex: .[ь]ыса
+  gramm: cvb,gen
+  gloss: CVB
+ -flex: .[ь]ытэк
+  gramm: cvb,neg
+  gloss: CVB.NEG
+ -flex: .[ь]ыку
+  gramm: cvb,simult
+  gloss: CVB.SIM
+ -flex: .[ь]ыку|м
+  gramm: cvb,simult,1,sg
+  gloss: CVB.SIM|1SG
+ -flex: .[ь]ыку|мы
+  gramm: cvb,simult,1,pl
+  gloss: CVB.SIM|1PL
+ -flex: .[ь]ыку|д
+  gramm: cvb,simult,2,sg
+  gloss: CVB.SIM|2SG
+ -flex: .[ь]ыку|ды
+  gramm: cvb,simult,2,pl
+  gloss: CVB.SIM|2PL
+ -flex: .[ь]ыку|з
+  gramm: cvb,simult,3,sg
+  gloss: CVB.SIM|3SG
+ -flex: .[ь]ыку|зы
+  gramm: cvb,simult,3,pl
+  gloss: CVB.SIM|3PL
+ -flex: .[ь]ытозь
+  gramm: cvb,lim
+  gloss: CVB.LIM
+ -flex: .[ь]ытозя|м
+  gramm: cvb,lim,1,sg
+  gloss: CVB.LIM|1SG
+ -flex: .[ь]ытозя|мы
+  gramm: cvb,lim,1,pl
+  gloss: CVB.LIM|1PL
+ -flex: .[ь]ытозя|д
+  gramm: cvb,lim,2,sg
+  gloss: CVB.LIM|2SG
+ -flex: .[ь]ытозя|ды
+  gramm: cvb,lim,2,pl
+  gloss: CVB.LIM|2PL
+ -flex: .[ь]ытозя|з
+  gramm: cvb,lim,3,sg
+  gloss: CVB.LIM|3SG
+ -flex: .[ь]ытозя|зы
+  gramm: cvb,lim,3,pl
+  gloss: CVB.LIM|3PL
 
 -paradigm: Converbs-II
  -flex: .са
-  gramm: cnv,preced
+  gramm: cvb,gen
+  gloss: CVB
  -flex: .тэк
-  gramm: cnv,neg
+  gramm: cvb,neg
+  gloss: CVB.NEG
  -flex: .ку
-  gramm: cnv,simult
- -flex: .кум
-  gramm: cnv,simult,1,sg
- -flex: .кумы
-  gramm: cnv,simult,1,pl
- -flex: .куд
-  gramm: cnv,simult,2,sg
- -flex: .куды
-  gramm: cnv,simult,2,pl
- -flex: .куз
-  gramm: cnv,simult,3,sg
- -flex: .кузы
-  gramm: cnv,simult,3,pl
+  gramm: cvb,simult
+  gloss: CVB.SIM
+ -flex: .ку|м
+  gramm: cvb,simult,1,sg
+  gloss: CVB.SIM|1SG
+ -flex: .ку|мы
+  gramm: cvb,simult,1,pl
+  gloss: CVB.SIM|1PL
+ -flex: .ку|д
+  gramm: cvb,simult,2,sg
+  gloss: CVB.SIM|2SG
+ -flex: .ку|ды
+  gramm: cvb,simult,2,pl
+  gloss: CVB.SIM|2PL
+ -flex: .ку|з
+  gramm: cvb,simult,3,sg
+  gloss: CVB.SIM|3SG
+ -flex: .ку|зы
+  gramm: cvb,simult,3,pl
+  gloss: CVB.SIM|3PL
  -flex: .тозь
-  gramm: cnv,dur
- -flex: .тозям
-  gramm: cnv,dur,1,sg
- -flex: .тозямы
-  gramm: cnv,dur,1,pl
- -flex: .тозяд
-  gramm: cnv,dur,2,sg
- -flex: .тозяды
-  gramm: cnv,dur,2,pl
- -flex: .тозяз
-  gramm: cnv,dur,3,sg
- -flex: .тозязы
-  gramm: cnv,dur,3,pl
- -flex: .мон
-  gramm: cnv,result
+  gramm: cvb,lim
+  gloss: CVB.LIM
+ -flex: .тозя|м
+  gramm: cvb,lim,1,sg
+  gloss: CVB.LIM|1SG
+ -flex: .тозя|мы
+  gramm: cvb,lim,1,pl
+  gloss: CVB.LIM|1PL
+ -flex: .тозя|д
+  gramm: cvb,lim,2,sg
+  gloss: CVB.LIM|2SG
+ -flex: .тозя|ды
+  gramm: cvb,lim,2,pl
+  gloss: CVB.LIM|2PL
+ -flex: .тозя|з
+  gramm: cvb,lim,3,sg
+  gloss: CVB.LIM|3SG
+ -flex: .тозя|зы
+  gramm: cvb,lim,3,pl
+  gloss: CVB.LIM|3PL
 
 
 
 
 -paradigm: Verb-pres-I-positive
- -flex: .ӥсько
-  gramm: 1,sg,pres
- -flex: .ӥськод
-  gramm: 2,sg,pres
- -flex: .э
-  gramm: 3,sg,pres
- -flex: .ӥськом//.ӥськомы
-  gramm: 1,pl,pres
- -flex: .ӥськоды
-  gramm: 2,pl,pres
- -flex: .о
-  gramm: 3,pl,pres
- -flex: .исько
-  gramm: 1,sg,pres
+ -flex: .ӥсько<.>
+  gramm: 1,sg,prs
+  gloss: PRS.12
+ -flex: .ӥсько|д<.>
+  gramm: 2,sg,prs
+  gloss: PRS.12|2SG
+ -flex: .э<.>
+  gramm: 3,sg,prs
+  gloss: PRS.3SG
+ -flex: .ӥсько|м<.>//.ӥсько|мы<.>
+  gramm: 1,pl,prs
+  gloss: PRS.12|1PL
+ -flex: .ӥсько|ды<.>
+  gramm: 2,pl,prs
+  gloss: PRS.12|2PL
+ -flex: .о<.>
+  gramm: 3,pl,prs
+  gloss: PRS.3PL
+ -flex: .исько<.>
+  gramm: 1,sg,prs
+  gloss: PRS.12
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
- -flex: .иськод
-  gramm: 2,sg,pres
+ -flex: .исько|д<.>
+  gramm: 2,sg,prs
+  gloss: PRS.12|2SG
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
- -flex: .е
-  gramm: 3,sg,pres
+ -flex: .е<.>
+  gramm: 3,sg,prs
+  gloss: PRS.3SG
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
- -flex: .иськом//.иськомы
-  gramm: 1,pl,pres
+ -flex: .исько|м<.>//.исько|мы<.>
+  gramm: 1,pl,prs
+  gloss: PRS.12|1PL
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
- -flex: .иськоды
-  gramm: 2,pl,pres
+ -flex: .исько|ды<.>
+  gramm: 2,pl,prs
+  gloss: PRS.12|2PL
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+ paradigm: Comparative
 
 -paradigm: Verb-pres-I-positive-soft
- -flex: .исько
-  gramm: 1,sg,pres
- -flex: .иськод
-  gramm: 2,sg,pres
- -flex: .е
-  gramm: 3,sg,pres
- -flex: .иськом//.иськомы
-  gramm: 1,pl,pres
- -flex: .иськоды
-  gramm: 2,pl,pres
- -flex: .ё
-  gramm: 3,pl,pres
+ -flex: .исько<.>
+  gramm: 1,sg,prs
+  gloss: PRS.12
+ -flex: .исько|д<.>
+  gramm: 2,sg,prs
+  gloss: PRS.12|2SG
+ -flex: .е<.>
+  gramm: 3,sg,prs
+  gloss: PRS.3SG
+ -flex: .исько|м<.>//.исько|мы<.>
+  gramm: 1,pl,prs
+  gloss: PRS.12|1PL
+ -flex: .исько|ды<.>
+  gramm: 2,pl,prs
+  gloss: PRS.12|2PL
+ -flex: .ё<.>
+  gramm: 3,pl,prs
+  gloss: PRS.3PL
+ paradigm: Comparative
 
 -paradigm: Verb-past-I-positive
- -flex: .ӥ
+ -flex: .ӥ<.>
+  gramm: 1,sg,pst
+  gloss: PST
+ -flex: .ӥ|д<.>
+  gramm: 2,sg,pst
+  gloss: PST|2SG
+ -flex: .ӥ|з<.>
+  gramm: 3,sg,pst
+  gloss: PST|3SG
+ -flex: .ӥ|м<.>//.ӥ|мы<.>
+  gramm: 1,pl,pst
+  gloss: PST|1PL
+ -flex: .ӥ|ды<.>
+  gramm: 2,pl,pst
+  gloss: PST|2PL
+ -flex: .ӥ|зы<.>
+  gramm: 3,pl,pst
+  gloss: PST|3PL
+ -flex: .и<.>
   gramm: 1,sg,past
- -flex: .ӥд
+  gloss: PST|1SG
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+ -flex: .и|д<.>
   gramm: 2,sg,past
- -flex: .ӥз
-  gramm: 3,sg,pres
- -flex: .ӥм//.ӥмы
-  gramm: 1,pl,pres
- -flex: .ӥды
-  gramm: 2,pl,pres
- -flex: .ӥзы
-  gramm: 3,pl,pres
- -flex: .и
-  gramm: 1,sg,past
+  gloss: PST|2SG
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
- -flex: .ид
-  gramm: 2,sg,past
+ -flex: .и|з<.>
+  gramm: 3,sg,pst
+  gloss: PST|3SG
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
- -flex: .из
-  gramm: 3,sg,pres
+ -flex: .и|м<.>//.и|мы<.>
+  gramm: 1,pl,pst
+  gloss: PST|1PL
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
- -flex: .им//.имы
-  gramm: 1,pl,pres
+ -flex: .и|ды<.>
+  gramm: 2,pl,pst
+  gloss: PST|2PL
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
- -flex: .иды
-  gramm: 2,pl,pres
+ -flex: .и|зы<.>
+  gramm: 3,pl,pst
+  gloss: PST|3PL
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
- -flex: .изы
-  gramm: 3,pl,pres
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+ paradigm: Comparative
 
 -paradigm: Verb-past-I-positive-soft
- -flex: .и
+ -flex: .и<.>
   gramm: 1,sg,past
- -flex: .ид
+  gloss: PST
+ -flex: .и|д<.>
   gramm: 2,sg,past
- -flex: .из
-  gramm: 3,sg,pres
- -flex: .им//.имы
-  gramm: 1,pl,pres
- -flex: .иды
-  gramm: 2,pl,pres
- -flex: .изы
-  gramm: 3,pl,pres
+  gloss: PST|2SG
+ -flex: .и|з<.>
+  gramm: 3,sg,pst
+  gloss: PST|3SG
+ -flex: .и|м<.>//.и|мы<.>
+  gramm: 1,pl,pst
+  gloss: PST|1PL
+ -flex: .и|ды<.>
+  gramm: 2,pl,pst
+  gloss: PST|2PL
+ -flex: .и|зы<.>
+  gramm: 3,pl,pst
+  gloss: PST|3PL
+ paradigm: Comparative
 
 
 -paradigm: Verb-future-I-positive
- -flex: .о
+ -flex: .о<.>
   gramm: 1,sg,fut
- -flex: .од
+  gloss: FUT
+ -flex: .о|д<.>
   gramm: 2,sg,fut
- -flex: .оз
-  gramm: 3,sg,pres
- -flex: .ом//.омы
+  gloss: FUT|2SG
+ -flex: .о|з<.>
+  gramm: 3,sg,fut
+  gloss: FUT|3SG
+ -flex: .о|м<.>//.о|мы<.>
   gramm: 1,pl,fut
- -flex: .оды
+  gloss: FUT|1PL
+ -flex: .о|ды<.>
   gramm: 2,pl,fut
- -flex: .озы
+  gloss: FUT|2PL
+ -flex: .о|зы<.>
   gramm: 3,pl,fut
+  gloss: FUT|3PL
+ paradigm: Comparative
 
 -paradigm: Verb-future-I-positive-soft
- -flex: .ё
+ -flex: .ё<.>
   gramm: 1,sg,fut
- -flex: .ёд
+  gloss: FUT
+ -flex: .ё|д<.>
   gramm: 2,sg,fut
- -flex: .ёз
-  gramm: 3,sg,pres
- -flex: .ём//.ёмы
+  gloss: FUT|2SG
+ -flex: .ё|з<.>
+  gramm: 3,sg,fut
+  gloss: FUT|3SG
+ -flex: .ё|м<.>//.ё|мы<.>
   gramm: 1,pl,fut
- -flex: .ёды
+  gloss: FUT|1PL
+ -flex: .ё|ды<.>
   gramm: 2,pl,fut
- -flex: .ёзы
+  gloss: FUT|2PL
+ -flex: .ё|зы<.>
   gramm: 3,pl,fut
+  gloss: FUT|3PL
+ paradigm: Comparative
 
 
 
 -paradigm: Verb-pres-I-negative
- -flex: .ӥськы
-  gramm: 1,sg,pres,neg
- -flex: .ӥськы
-  gramm: 2,sg,pres,neg
- -flex: .//.ы
-  gramm: 3,sg,pres,neg
- -flex: .ӥське
-  gramm: 1,pl,pres,neg
- -flex: .ӥське
-  gramm: 2,pl,pres,neg
- -flex: .о
-  gramm: 3,pl,pres,neg
- -flex: .иськы
-  gramm: 1,sg,pres,neg
+ -flex: .ӥськ|ы<.>
+  gramm: 1,sg,prs,neg
+  gloss: PRS12|NEG.SG
+ -flex: .ӥськ|ы<.>
+  gramm: 2,sg,prs,neg
+  gloss: PRS12|NEG.SG
+ -flex: .<.>
+  gramm: 3,sg,prs,neg
+ -flex: .ы<.>
+  gramm: 3,sg,prs,neg
+  gloss: NEG.SG
+ -flex: .ӥськ|е<.>
+  gramm: 1,pl,prs,neg
+  gloss: PRS12|NEG.PL
+ -flex: .ӥськ|е<.>
+  gramm: 2,pl,prs,neg
+  gloss: PRS12|NEG.PL
+ -flex: .о<.>
+  gramm: 3,pl,prs,neg
+  gloss: PRS.3PL
+ -flex: .иськ|ы<.>
+  gramm: 1,sg,prs,neg
+  gloss: PRS12|NEG.SG
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
- -flex: .иськы
-  gramm: 2,sg,pres,neg
+ -flex: .иськ|ы<.>
+  gramm: 2,sg,prs,neg
+  gloss: PRS12|NEG.SG
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
- -flex: .иське
-  gramm: 1,pl,pres,neg
+ -flex: .иськ|е<.>
+  gramm: 1,pl,prs,neg
+  gloss: PRS12|NEG.PL
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
- -flex: .иське
-  gramm: 2,pl,pres,neg
+ -flex: .иськ|е<.>
+  gramm: 2,pl,prs,neg
+  gloss: PRS12|NEG.PL
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+ paradigm: Comparative
 
 -paradigm: Verb-pres-I-negative-soft
- -flex: .иськы
-  gramm: 1,sg,pres,neg
- -flex: .иськы
-  gramm: 2,sg,pres,neg
- -flex: .ь//.ьы
-  gramm: 3,sg,pres,neg
- -flex: .иське
-  gramm: 1,pl,pres,neg
- -flex: .иське
-  gramm: 2,pl,pres,neg
- -flex: .ё
-  gramm: 3,pl,pres,neg
+ -flex: .иськ|ы<.>
+  gramm: 1,sg,prs,neg
+  gloss: PRS12|NEG.SG
+ -flex: .иськ|ы<.>
+  gramm: 2,sg,prs,neg
+  gloss: PRS12|NEG.SG
+ -flex: .[ь]<.>
+  gramm: 3,sg,prs,neg
+ -flex: .[ь]ы<.>
+  gramm: 3,sg,prs,neg
+  gloss: NEG.SG
+ -flex: .иськ|е<.>
+  gramm: 1,pl,prs,neg
+  gloss: PRS12|NEG.PL
+ -flex: .иськ|е<.>
+  gramm: 2,pl,prs,neg
+  gloss: PRS12|NEG.PL
+ -flex: .ё<.>
+  gramm: 3,pl,prs,neg
+  gloss: PRS.3PL
+ paradigm: Comparative
 
 -paradigm: Verb-I-negative
- -flex: .//.ы
+ -flex: .<.>
   gramm: sg,fut,neg
- -flex: .э
+ -flex: .ы<.>
+  gramm: sg,fut,neg
+  gloss: NEG.SG
+ -flex: .э<.>
   gramm: pl,fut,neg
- -flex: .е
+  gloss: NEG.PL
+ -flex: .е<.>
   gramm: pl,fut,neg
+  gloss: NEG.PL
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+ paradigm: Comparative
 
 -paradigm: Verb-I-negative-soft
- -flex: .ь//.ьы
+ -flex: .[ь]<.>
   gramm: sg,fut,neg
- -flex: .е
+ -flex: .[ь]ы<.>
+  gramm: sg,fut,neg
+  gloss: NEG.SG
+ -flex: .е<.>
   gramm: pl,fut,neg
+  gloss: NEG.PL
+ paradigm: Comparative
 
 -paradigm: Verb-subj-I
- -flex: .ысал
+ -flex: .ысал<.>
   gramm: 1,sg,subj
- -flex: .ысал//.ысалыд
+  gloss: SUBJ
+ -flex: .ысал<.>
   gramm: 2,sg,subj
- -flex: .ысал//.ысалыз
+  gloss: SUBJ
+ -flex: .ысал|ыд<.>
+  gramm: 2,sg,subj
+  gloss: SUBJ|2SG
+ -flex: .ысал<.>
   gramm: 3,sg,subj
- -flex: .ысалмы
+  gloss: SUBJ
+ -flex: .ысал|ыз<.>
+  gloss: SUBJ|3SG
+  gramm: 3,sg,subj
+ -flex: .ысал|мы<.>
   gramm: 1,pl,subj
- -flex: .ысалды
+  gloss: SUBJ|1PL
+ -flex: .ысал|ды<.>
   gramm: 2,pl,subj
- -flex: .ысалзы
+  gloss: SUBJ|2PL
+ -flex: .ысал|зы<.>
   gramm: 3,pl,subj
+  gloss: SUBJ|3PL
+ paradigm: Comparative
 
 -paradigm: Verb-subj-I-soft
- -flex: .ьысал
+ -flex: .[ь]ысал<.>
   gramm: 1,sg,subj
- -flex: .ьысал//.ьысалыд
+  gloss: SUBJ
+ -flex: .[ь]ысал<.>
   gramm: 2,sg,subj
- -flex: .ьысал//.ьысалыз
+  gloss: SUBJ
+ -flex: .[ь]ысал|ыд<.>
+  gramm: 2,sg,subj
+  gloss: SUBJ|2SG
+ -flex: .[ь]ысал<.>
   gramm: 3,sg,subj
- -flex: .ьысалмы
+  gloss: SUBJ
+ -flex: .[ь]ысал|ыз<.>
+  gramm: 3,sg,subj
+  gloss: SUBJ|3SG
+ -flex: .[ь]ысал|мы<.>
   gramm: 1,pl,subj
- -flex: .ьысалды
+  gloss: SUBJ|1PL
+ -flex: .[ь]ысал|ды<.>
   gramm: 2,pl,subj
- -flex: .ьысалзы
+  gloss: SUBJ|2PL
+ -flex: .[ь]ысал|зы<.>
   gramm: 3,pl,subj
+  gloss: SUBJ|3PL
+ paradigm: Comparative
 
 -paradigm: Verb-imp-I
- -flex: .//.ы
-  gramm: imper,sg
- -flex: .э
-  gramm: imper,pl
- -flex: .е
-  gramm: imper,pl
+ -flex: .<.>
+  gramm: imp,sg
+ -flex: .ы<.>
+  gramm: imp,sg
+  gloss: IMP.SG
+ -flex: .э<.>
+  gramm: imp,pl
+  gloss: IMP.PL
+ -flex: .е<.>
+  gramm: imp,pl
+  gloss: IMP.PL
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+ paradigm: Comparative
 
 -paradigm: Verb-imp-I-soft
- -flex: .ь//.ьы
-  gramm: imper,sg
- -flex: .е
-  gramm: imper,pl
+ -flex: .[ь]<.>
+  gramm: imp,sg
+ -flex: .[ь]ы<.>
+  gramm: imp,sg
+  gloss: IMP.SG
+ -flex: .е<.>
+  gramm: imp,pl
+  gloss: IMP.PL
+ paradigm: Comparative
 
 
 -paradigm: Verb-pres-II-positive
- -flex: .сько
-  gramm: 1,sg,pres
- -flex: .ськод
-  gramm: 2,sg,pres
- -flex: .
-  gramm: 3,sg,pres
- -flex: .ськом//.ськомы
-  gramm: 1,pl,pres
- -flex: .ськоды
-  gramm: 2,pl,pres
- -flex: .ло
-  gramm: 3,pl,pres
+ -flex: .сько<.>
+  gramm: 1,sg,prs
+  gloss: PRS.12
+ -flex: .сько|д<.>
+  gramm: 2,sg,prs
+  gloss: PRS.12|2SG
+ -flex: .<.>
+  gramm: 3,sg,prs
+ -flex: .сько|м<.>//.сько|мы<.>
+  gramm: 1,pl,prs
+  gloss: PRS.12|1PL
+ -flex: .сько|ды<.>
+  gramm: 2,pl,prs
+  gloss: PRS.12|2PL
+ -flex: .ло<.>
+  gramm: 3,pl,prs
+  gloss: PRS.3PL
+ paradigm: Comparative
 
 
 -paradigm: Verb-past-II-positive
- -flex: .й
-  gramm: 1,sg,past
- -flex: .д
-  gramm: 2,sg,past
- -flex: .з
-  gramm: 3,sg,pres
- -flex: .м//.мы
-  gramm: 1,pl,pres
- -flex: .ды
-  gramm: 2,pl,pres
- -flex: .зы
-  gramm: 3,pl,pres
+ -flex: .й<.>
+  gramm: 1,sg,pst
+  gloss: PST.1SG
+ -flex: .д<.>
+  gramm: 2,sg,pst
+  gloss: 2SG
+ -flex: .з<.>
+  gramm: 3,sg,pst
+  gloss: 3SG
+ -flex: .м<.>//.мы<.>
+  gramm: 1,pl,pst
+  gloss: 1PL
+ -flex: .ды<.>
+  gramm: 2,pl,pst
+  gloss: 2PL
+ -flex: .зы<.>
+  gramm: 3,pl,pst
+  gloss: 3PL
+ paradigm: Comparative
 
 -paradigm: Verb-future-II-positive
- -flex: .ло
+ -flex: .ло<.>
   gramm: 1,sg,fut
- -flex: .лод
+  gloss: FUT
+ -flex: .ло|д<.>
   gramm: 2,sg,fut
- -flex: .лоз
-  gramm: 3,sg,pres
- -flex: .лом//.ломы
+  gloss: FUT|2SG
+ -flex: .ло|з<.>
+  gramm: 3,sg,fut
+  gloss: FUT|3SG
+ -flex: .ло|м<.>//.ло|мы<.>
   gramm: 1,pl,fut
- -flex: .лоды
+  gloss: FUT|1PL
+ -flex: .ло|ды<.>
   gramm: 2,pl,fut
- -flex: .лозы
+  gloss: FUT|2PL
+ -flex: .ло|зы<.>
   gramm: 3,pl,fut
+  gloss: FUT|3PL
+ paradigm: Comparative
 
 
 -paradigm: Verb-pres-II-negative
- -flex: .ськы
-  gramm: 1,sg,pres,neg
- -flex: .ськы
-  gramm: 2,sg,pres,neg
- -flex: .
-  gramm: 3,sg,pres,neg
- -flex: .ське
-  gramm: 1,pl,pres,neg
- -flex: .ське
-  gramm: 2,pl,pres,neg
- -flex: .ло
-  gramm: 3,pl,pres,neg
+ -flex: .ськ|ы<.>
+  gramm: 1,sg,prs,neg
+  gloss: PRS12|NEG.SG
+ -flex: .ськ|ы<.>
+  gramm: 2,sg,prs,neg
+  gloss: PRS12|NEG.SG
+ -flex: .<.>
+  gramm: 3,sg,prs,neg
+ -flex: .ськ|е<.>
+  gramm: 1,pl,prs,neg
+  gloss: PRS12|NEG.PL
+ -flex: .ськ|е<.>
+  gramm: 2,pl,prs,neg
+  gloss: PRS12|NEG.PL
+ -flex: .ло<.>
+  gramm: 3,pl,prs,neg
+  gloss: PRS.3PL
+ paradigm: Comparative
 
 -paradigm: Verb-II-negative
- -flex: .
+ -flex: .<.>
   gramm: sg,fut,neg
- -flex: .лэ
+ -flex: .лэ<.>
   gramm: pl,fut,neg
+  gloss: NEG.PL
+ paradigm: Comparative
 
 -paradigm: Verb-subj-II
- -flex: .сал
+ -flex: .сал<.>
   gramm: 1,sg,subj
- -flex: .сал//.салыд
+  gloss: SUBJ
+ -flex: .сал<.>
   gramm: 2,sg,subj
- -flex: .сал//.салыз
+  gloss: SUBJ
+ -flex: .сал|ыд<.>
+  gramm: 2,sg,subj
+  gloss: SUBJ|2SG
+ -flex: .сал<.>
   gramm: 3,sg,subj
- -flex: .салмы
+  gloss: SUBJ
+ -flex: .сал|ыз<.>
+  gramm: 3,sg,subj
+  gloss: SUBJ|3SG
+ -flex: .сал|мы<.>
   gramm: 1,pl,subj
- -flex: .салды
+  gloss: SUBJ|1PL
+ -flex: .сал|ды<.>
   gramm: 2,pl,subj
- -flex: .салзы
+  gloss: SUBJ|2PL
+ -flex: .сал|зы<.>
   gramm: 3,pl,subj
+  gloss: SUBJ|3PL
+ paradigm: Comparative
 
 -paradigm: Verb-imp-II
- -flex: .
-  gramm: imper,sg
- -flex: .лэ
-  gramm: imper,pl
+ -flex: .<.>
+  gramm: imp,sg
+ -flex: .лэ<.>
+  gramm: imp,pl
+  gloss: IMP.PL
+ paradigm: Comparative
 
 
 -paradigm: Aspect-I
  -flex: .ськ<.>//.ск<.>//.ӥськ<.>
   gramm: pass
+  gloss: PASS
  -flex: .иськ<.>
   gramm: pass
+  gloss: PASS
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
  -flex: .ыл<.>
-  gramm: freq
- -flex: .эмъяськ<.>
+  gramm: iter
+  gloss: ITER
+ -flex: .ыл|ыл<.>
+  gramm: iter
+  gloss: ITER|ITER
+ -flex: .эм|ъя|ськ<.>
   gramm: fict
- -flex: .емъяськ<.>
+  gloss: PTCP.PST|MULT|PASS
+ -flex: .ем|ъя|ськ<.>
   gramm: fict
+  gloss: PTCP.PST|MULT|PASS
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
  -flex: .ыт<.>//.эт<.>//.т<.>
   gramm: caus
+  gloss: CAUS
  -flex: .ет<.>
   gramm: caus
+  gloss: CAUS
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
- -flex: .скыл<.>//.ӥськыл<.>
-  gramm: pass,freq
- -flex: .иськыл<.>
-  gramm: pass,freq
+ -flex: .ск|ыл<.>//.ӥськ|ыл<.>
+  gramm: pass,iter
+  gloss: PASS|ITER
+ -flex: .ск|ыл|ыл<.>//.ӥськ|ыл|ыл<.>
+  gramm: pass,iter
+  gloss: PASS|ITER|ITER
+ -flex: .иськ|ыл<.>
+  gramm: pass,iter
+  gloss: PASS|ITER
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
- -flex: .ылӥськ<.>
-  gramm: freq,pass
- -flex: .ылэмъяськ<.>
-  gramm: freq,fict
- -flex: .ытэмъяськ<.>//.тэмъяськ<.>
+ -flex: .иськ|ыл|ыл<.>
+  gramm: pass,iter
+  gloss: PASS|ITER|ITER
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+ -flex: .ыл|ӥськ<.>
+  gramm: iter,pass
+  gloss: ITER|PASS
+ -flex: .ыл|ыл|ӥськ<.>
+  gramm: iter,pass
+  gloss: ITER|ITER|PASS
+ -flex: .ыл|эм|ъя|ськ<.>
+  gramm: iter,fict
+  gloss: ITER|PTCP.PST|MULT|PASS
+ -flex: .ыт|эм|ъя|ськ<.>//.т|эм|ъя|ськ<.>
   gramm: caus,fict
- -flex: .скэмъяськ<.>//.ӥськэмъяськ<.>
+  gloss: CAUS|PTCP.PST|MULT|PASS
+ -flex: .ск|эм|ъя|ськ<.>//.ӥськ|эм|ъя|ськ<.>
   gramm: pass,fict
- -flex: .иськэмъяськ<.>
+  gloss: PASS|PTCP.PST|MULT|PASS
+ -flex: .иськ|эм|ъя|ськ<.>
   gramm: pass,fict
+  gloss: PASS|PTCP.PST|MULT|PASS
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
- -flex: .скыт<.>//.ӥськыт<.>
+ -flex: .ск|ыт<.>//.ӥськ|ыт<.>
   gramm: pass,caus
- -flex: .иськыт<.>
+  gloss: PASS|CAUS
+ -flex: .иськ|ыт<.>
   gramm: pass,caus
+  gloss: PASS|CAUS
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
- -flex: .ытск<.>//.тск<.>//.этск<.>//.ытӥськ<.>//.тӥськ<.>//.этӥськ<.>
+ -flex: .ыт|ск<.>//.т|ск<.>//.эт|ск<.>//.ыт|ӥськ<.>//.т|ӥськ<.>//.эт|ӥськ<.>
   gramm: caus,pass
- -flex: .етск<.>//.етӥськ<.>
+  gloss: CAUS|PASS
+ -flex: .ет|ск<.>//.ет|ӥськ<.>
   gramm: caus,pass
+  gloss: CAUS|PASS
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
- -flex: .ылыт<.>//.ылт<.>
-  gramm: freq,caus
- -flex: .ытыл<.>//.тыл<.>
-  gramm: caus,freq
- -flex: .ытылӥськ<.>//.тылӥськ<.>
-  gramm: caus,freq,pass
+ -flex: .ыл|ыт<.>//.ыл|т<.>
+  gramm: iter,caus
+  gloss: ITER|CAUS
+ -flex: .ыт|ыл<.>//.т|ыл<.>
+  gramm: caus,iter
+  gloss: CAUS|ITER
+ -flex: .ыт|ыл|ыл<.>//.т|ыл|ыл<.>
+  gramm: caus,iter
+  gloss: CAUS|ITER|ITER
+ -flex: .ыт|ыл|ӥськ<.>//.т|ыл|ӥськ<.>
+  gramm: caus,iter,pass
+  gloss: CAUS|ITER|PASS
  paradigm: Infinitive-I
  paradigm: Verb-pres-I-positive
  paradigm: Verb-past-I-positive
@@ -2507,34 +3946,54 @@
  paradigm: Verb-imp-I
 
 -paradigm: Aspect-I-soft
- -flex: .ьськ<.>//.ьск<.>//.иськ<.>
+ -flex: .[ь]ськ<.>//.[ь]ск<.>//.иськ<.>
   gramm: pass
- -flex: .ьыл<.>
-  gramm: freq
- -flex: .емъяськ<.>
+  gloss: PASS
+ -flex: .[ь]ыл<.>
+  gramm: iter
+  gloss: ITER
+ -flex: .ем|ъя|ськ<.>
   gramm: fict
- -flex: .ьыт<.>//.ет<.>//.т<.>
+  gloss: PTCP.PST|MULT|PASS
+ -flex: .[ь]ыт<.>//.ет<.>//.т<.>
   gramm: caus
- -flex: .ьскыл<.>//.иськыл<.>
-  gramm: pass,freq
- -flex: .ьылӥськ<.>
-  gramm: freq,pass
- -flex: .ьылэмъяськ<.>
-  gramm: freq,fict
- -flex: .ьытэмъяськ<.>//.ьтэмъяськ<.>
+  gloss: CAUS
+ -flex: .[ь]ск|ыл<.>//.иськ|ыл<.>
+  gramm: pass,iter
+  gloss: PASS|ITER
+ -flex: .[ь]ск|ыл|ыл<.>//.иськ|ыл|ыл<.>
+  gramm: pass,iter
+  gloss: PASS|ITER|ITER
+ -flex: .[ь]ыл|ӥськ<.>
+  gramm: iter,pass
+  gloss: ITER|PASS
+ -flex: .[ь]ыл|ыл|ӥськ<.>
+  gramm: iter,pass
+  gloss: ITER|ITER|PASS
+ -flex: .[ь]ыл|эм|ъя|ськ<.>
+  gramm: iter,fict
+  gloss: ITER|PTCP.PST|MULT|PASS
+ -flex: .[ь]ыт|эм|ъя|ськ<.>//.[ь]т|эм|ъя|ськ<.>
   gramm: caus,fict
- -flex: .ьскэмъяськ<.>//.иськэмъяськ<.>
+  gloss: CAUS|PTCP.PST|MULT|PASS
+ -flex: .[ь]ск|эм|ъя|ськ<.>//.иськ|эм|ъя|ськ<.>
   gramm: pass,fict
- -flex: .ьскыт<.>//.иськыт<.>
+  gloss: PASS|PTCP.PST|MULT|PASS
+ -flex: .[ь]ск|ыт<.>//.иськ|ыт<.>
   gramm: pass,caus
- -flex: .ьытск<.>//.ьтск<.>//.етск<.>//.ьытӥськ<.>//.ьтӥськ<.>//.етӥськ<.>
+  gloss: PASS|CAUS
+ -flex: .[ь]ыт|ск<.>//.[ь]т|ск<.>//.ет|ск<.>//.[ь]ыт|ӥськ<.>//.[ь]т|ӥськ<.>//.ет|ӥськ<.>
   gramm: caus,pass
- -flex: .ьылыт<.>//.ьылт<.>
-  gramm: freq,caus
- -flex: .ьытыл<.>//.ьтыл<.>
-  gramm: caus,freq
- -flex: .ьытылӥськ<.>//.ьтылӥськ<.>
-  gramm: caus,freq,pass
+  gloss: CAUS|PASS
+ -flex: .[ь]ыл|ыт<.>//.[ь]ыл|т<.>
+  gramm: iter,caus
+  gloss: ITER|CAUS
+ -flex: .[ь]ыт|ыл<.>//.[ь]т|ыл<.>
+  gramm: caus,iter
+  gloss: CAUS|ITER
+ -flex: .[ь]ыт|ыл|ӥськ<.>//.[ь]т|ыл|ӥськ<.>
+  gramm: caus,iter,pass
+  gloss: CAUS|ITER|PASS
  paradigm: Infinitive-I
  paradigm: Verb-pres-I-positive
  paradigm: Verb-past-I-positive
@@ -2551,6 +4010,7 @@
 -paradigm: Aspect-II
  -flex: .ськ<.>//.ск<.>
   gramm: pass
+  gloss: PASS
   paradigm: Infinitive-I
   paradigm: Verb-pres-I-positive
   paradigm: Verb-past-I-positive
@@ -2564,7 +4024,8 @@
   paradigm: Participles-neg-I
   paradigm: Verb-imp-I
  -flex: .лля<.>
-  gramm: freq
+  gramm: iter
+  gloss: ITER
   paradigm: Infinitive-II
   paradigm: Verb-pres-II-positive
   paradigm: Verb-past-II-positive
@@ -2577,8 +4038,24 @@
   paradigm: Participles-II
   paradigm: Participles-neg-II
   paradigm: Verb-imp-II
- -flex: .мъяськ<.>
+ -flex: .лля|лля<.>
+  gramm: iter
+  gloss: ITER|ITER
+  paradigm: Infinitive-II
+  paradigm: Verb-pres-II-positive
+  paradigm: Verb-past-II-positive
+  paradigm: Verb-future-II-positive
+  paradigm: Verb-pres-II-negative
+  paradigm: Verb-II-negative
+  paradigm: Verb-subj-II
+  paradigm: Converbs-II
+  paradigm: Evidentiality-II
+  paradigm: Participles-II
+  paradigm: Participles-neg-II
+  paradigm: Verb-imp-II
+ -flex: .м|ъя|ськ<.>
   gramm: fict
+  gloss: PTCP.PST|MULT|PASS
   paradigm: Infinitive-I
   paradigm: Verb-pres-I-positive
   paradigm: Verb-past-I-positive
@@ -2593,6 +4070,7 @@
   paradigm: Verb-imp-I
  -flex: .т<.>
   gramm: caus
+  gloss: CAUS
   paradigm: Infinitive-I
   paradigm: Verb-pres-I-positive
   paradigm: Verb-past-I-positive
@@ -2605,8 +4083,9 @@
   paradigm: Participles-I
   paradigm: Participles-neg-I
   paradigm: Verb-imp-I
- -flex: .ськыл<.>//.скыл<.>
-  gramm: pass,freq
+ -flex: .ськ|ыл<.>//.ск|ыл<.>
+  gramm: pass,iter
+  gloss: PASS|ITER
   paradigm: Infinitive-I
   paradigm: Verb-pres-I-positive
   paradigm: Verb-past-I-positive
@@ -2619,8 +4098,9 @@
   paradigm: Participles-I
   paradigm: Participles-neg-I
   paradigm: Verb-imp-I
- -flex: .лляськ<.>
-  gramm: freq,pass
+ -flex: .ськ|ыл|ыл<.>//.ск|ыл|ыл<.>
+  gramm: pass,iter
+  gloss: PASS|ITER|ITER
   paradigm: Infinitive-I
   paradigm: Verb-pres-I-positive
   paradigm: Verb-past-I-positive
@@ -2633,8 +4113,9 @@
   paradigm: Participles-I
   paradigm: Participles-neg-I
   paradigm: Verb-imp-I
- -flex: .ллямъяськ<.>
-  gramm: freq,fict
+ -flex: .лля|ськ<.>
+  gramm: iter,pass
+  gloss: ITER|PASS
   paradigm: Infinitive-I
   paradigm: Verb-pres-I-positive
   paradigm: Verb-past-I-positive
@@ -2647,8 +4128,39 @@
   paradigm: Participles-I
   paradigm: Participles-neg-I
   paradigm: Verb-imp-I
- -flex: .тэмъяськ<.>
+ -flex: .лля|лля|ськ<.>
+  gramm: iter,pass
+  gloss: ITER|ITER|PASS
+  paradigm: Infinitive-I
+  paradigm: Verb-pres-I-positive
+  paradigm: Verb-past-I-positive
+  paradigm: Verb-future-I-positive
+  paradigm: Verb-pres-I-negative
+  paradigm: Verb-I-negative
+  paradigm: Verb-subj-I
+  paradigm: Converbs-I
+  paradigm: Evidentiality-I
+  paradigm: Participles-I
+  paradigm: Participles-neg-I
+  paradigm: Verb-imp-I
+ -flex: .лля|м|ъя|ськ<.>
+  gramm: iter,fict
+  gloss: ITER|PTCP.PST|MULT|PASS
+  paradigm: Infinitive-I
+  paradigm: Verb-pres-I-positive
+  paradigm: Verb-past-I-positive
+  paradigm: Verb-future-I-positive
+  paradigm: Verb-pres-I-negative
+  paradigm: Verb-I-negative
+  paradigm: Verb-subj-I
+  paradigm: Converbs-I
+  paradigm: Evidentiality-I
+  paradigm: Participles-I
+  paradigm: Participles-neg-I
+  paradigm: Verb-imp-I
+ -flex: .т|эм|ъя|ськ<.>
   gramm: caus,fict
+  gloss: CAUS|PTCP.PST|MULT|PASS
   paradigm: Infinitive-I
   paradigm: Verb-pres-I-positive
   paradigm: Verb-past-I-positive
@@ -2661,8 +4173,9 @@
   paradigm: Participles-I
   paradigm: Participles-neg-I
   paradigm: Verb-imp-I
- -flex: .ськемъяськ<.>//.скемъяськ<.>
+ -flex: .ськ|ем|ъя|ськ<.>//.ск|ем|ъя|ськ<.>
   gramm: pass,fict
+  gloss: PASS|PTCP.PST|MULT|PASS
   paradigm: Infinitive-I
   paradigm: Verb-pres-I-positive
   paradigm: Verb-past-I-positive
@@ -2675,8 +4188,9 @@
   paradigm: Participles-I
   paradigm: Participles-neg-I
   paradigm: Verb-imp-I
- -flex: .ськыт<.>//.скыт<.>
+ -flex: .ськ|ыт<.>//.ск|ыт<.>
   gramm: pass,caus
+  gloss: PASS|CAUS
   paradigm: Infinitive-I
   paradigm: Verb-pres-I-positive
   paradigm: Verb-past-I-positive
@@ -2689,8 +4203,9 @@
   paradigm: Participles-I
   paradigm: Participles-neg-I
   paradigm: Verb-imp-I
- -flex: .тск<.>//.тӥськ<.>
+ -flex: .т|ск<.>//.т|ӥськ<.>
   gramm: caus,pass
+  gloss: CAUS|PASS
   paradigm: Infinitive-I
   paradigm: Verb-pres-I-positive
   paradigm: Verb-past-I-positive
@@ -2703,8 +4218,9 @@
   paradigm: Participles-I
   paradigm: Participles-neg-I
   paradigm: Verb-imp-I
- -flex: .ллят<.>
-  gramm: freq,caus
+ -flex: .лля|т<.>
+  gramm: iter,caus
+  gloss: ITER|CAUS
   paradigm: Infinitive-I
   paradigm: Verb-pres-I-positive
   paradigm: Verb-past-I-positive
@@ -2717,8 +4233,9 @@
   paradigm: Participles-I
   paradigm: Participles-neg-I
   paradigm: Verb-imp-I
- -flex: .тыл<.>
-  gramm: caus,freq
+ -flex: .т|ыл<.>
+  gramm: caus,iter
+  gloss: CAUS|ITER
   paradigm: Infinitive-I
   paradigm: Verb-pres-I-positive
   paradigm: Verb-past-I-positive
@@ -2731,8 +4248,24 @@
   paradigm: Participles-I
   paradigm: Participles-neg-I
   paradigm: Verb-imp-I
- -flex: .тылӥськ<.>
-  gramm: caus,freq,pass
+ -flex: .т|ыл|ыл<.>
+  gramm: caus,iter
+  gloss: CAUS|ITER|ITER
+  paradigm: Infinitive-I
+  paradigm: Verb-pres-I-positive
+  paradigm: Verb-past-I-positive
+  paradigm: Verb-future-I-positive
+  paradigm: Verb-pres-I-negative
+  paradigm: Verb-I-negative
+  paradigm: Verb-subj-I
+  paradigm: Converbs-I
+  paradigm: Evidentiality-I
+  paradigm: Participles-I
+  paradigm: Participles-neg-I
+  paradigm: Verb-imp-I
+ -flex: .т|ыл|ӥськ<.>
+  gramm: caus,iter,pass
+  gloss: CAUS|ITER|PASS
   paradigm: Infinitive-I
   paradigm: Verb-pres-I-positive
   paradigm: Verb-past-I-positive
@@ -2748,76 +4281,161 @@
 
 
 -paradigm: Evidentiality-I
- -flex: .ӥськем
+ -flex: .ӥськ|ем<.>
   gramm: evid,1,sg
- -flex: .эм//.эмед
+  gloss: PRS1|EVID
+ -flex: .эм<.>
   gramm: evid,2,sg
- -flex: .эм//.эмез
+  gloss: EVID
+ -flex: .эм|ед<.>
+  gramm: evid,2,sg
+  gloss: EVID|2SG
+ -flex: .эм<.>
   gramm: evid,3,sg
- -flex: .ӥськеммы
+  gloss: EVID
+ -flex: .эм|ез<.>
+  gramm: evid,3,sg
+  gloss: EVID|3SG
+ -flex: .ӥськ|ем|мы<.>
   gramm: evid,1,pl
- -flex: .ӥллям//.ӥллямды
+  gloss: PRS1|EVID|1PL
+ -flex: .ӥлля|м<.>
   gramm: evid,2,pl
- -flex: .ӥллям//.ӥллямзы
+  gloss: PL23|EVID
+ -flex: .ӥлля|м|ды<.>
+  gramm: evid,2,pl
+  gloss: PL23|EVID|2PL
+ -flex: .ӥлля|м<.>
   gramm: evid,3,pl
- -flex: .иськем
+  gloss: PL23|EVID
+ -flex: .ӥлля|м|зы<.>
+  gramm: evid,3,pl
+  gloss: PL23|EVID|3PL
+ -flex: .иськ|ем<.>
   gramm: evid,1,sg
+  gloss: PL23|EVID
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
- -flex: .ем//.емед
+ -flex: .ем<.>
   gramm: evid,2,sg
+  gloss: EVID
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
- -flex: .ем//.емез
+ -flex: .ем|ед<.>
+  gramm: evid,2,sg
+  gloss: EVID|2SG
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+ -flex: .ем<.>
   gramm: evid,3,sg
+  gloss: EVID
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
- -flex: .иськеммы
+ -flex: .ем|ез<.>
+  gramm: evid,3,sg
+  gloss: EVID|3SG
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+ -flex: .иськ|ем|мы<.>
   gramm: evid,1,pl
+  gloss: PRS1|EVID|1PL
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
- -flex: .иллям//.иллямды
+ -flex: .илля|м<.>
   gramm: evid,2,pl
+  gloss: PL23|EVID
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
- -flex: .иллям//.иллямзы
+ -flex: .илля|м|ды<.>
+  gramm: evid,2,pl
+  gloss: PL23|EVID|2PL
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+ -flex: .илля|м<.>
   gramm: evid,3,pl
+  gloss: PL23|EVID
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+ -flex: .илля|м|зы<.>
+  gramm: evid,3,pl
+  gloss: PL23|EVID|3PL
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+ paradigm: Comparative
 
 -paradigm: Evidentiality-I-soft
- -flex: .иськем
+ -flex: .иськ|ем<.>
   gramm: evid,1,sg
- -flex: .ем//.емед
+  gloss: PL23|EVID
+ -flex: .ем<.>
   gramm: evid,2,sg
- -flex: .ем//.емез
+  gloss: EVID
+ -flex: .ем|ед<.>
+  gramm: evid,2,sg
+  gloss: EVID|2SG
+ -flex: .ем<.>
   gramm: evid,3,sg
- -flex: .иськеммы
+  gloss: EVID
+ -flex: .ем|ез<.>
+  gramm: evid,3,sg
+  gloss: EVID|3SG
+ -flex: .иськ|ем|мы<.>
   gramm: evid,1,pl
- -flex: .иллям//.иллямды
+  gloss: PRS1|EVID|1PL
+ -flex: .илля|м<.>
   gramm: evid,2,pl
- -flex: .иллям//.иллямзы
+  gloss: PL23|EVID
+ -flex: .илля|м|ды<.>
+  gramm: evid,2,pl
+  gloss: PL23|EVID|2PL
+ -flex: .илля|м<.>
   gramm: evid,3,pl
+  gloss: PL23|EVID
+ -flex: .илля|м|зы<.>
+  gramm: evid,3,pl
+  gloss: PL23|EVID|3PL
+ paradigm: Comparative
 
 
 -paradigm: Evidentiality-II
- -flex: .ськем
+ -flex: .ськ|ем<.>
   gramm: evid,1,sg
- -flex: .м//.мед
+  gloss: PL23|EVID
+ -flex: .м<.>
   gramm: evid,2,sg
- -flex: .м//.мез
+  gloss: EVID
+ -flex: .м|ед<.>
+  gramm: evid,2,sg
+  gloss: EVID|2SG
+ -flex: .м<.>
   gramm: evid,3,sg
- -flex: .ськеммы
+  gloss: EVID
+ -flex: .м|ез<.>
+  gramm: evid,3,sg
+  gloss: EVID|3SG
+ -flex: .ськ|ем|мы<.>
   gramm: evid,1,pl
- -flex: .ллям//.ллямды
+  gloss: PRS1|EVID|1PL
+ -flex: .лля|м<.>
   gramm: evid,2,pl
- -flex: .ллям//.ллямзы
+  gloss: PL23|EVID
+ -flex: .лля|м|ды<.>
+  gramm: evid,2,pl
+  gloss: PL23|EVID|2PL
+ -flex: .лля|м<.>
   gramm: evid,3,pl
+  gloss: PL23|EVID
+ -flex: .лля|м|зы<.>
+  gramm: evid,3,pl
+  gloss: PL23|EVID|3PL
+ paradigm: Comparative
 
 
 -paradigm: Infinitive-I
- -flex: .ыны
+ -flex: .ыны<.>
   gramm: inf
+  gloss: INF
+ paradigm: Comparative
 
 -paradigm: Infinitive-I-soft
- -flex: .ьыны
+ -flex: .[ь]ыны<.>
   gramm: inf
+  gloss: INF
+ paradigm: Comparative
 
 -paradigm: Infinitive-II
- -flex: .ны
+ -flex: .ны<.>
   gramm: inf
+  gloss: INF
+ paradigm: Comparative
 
