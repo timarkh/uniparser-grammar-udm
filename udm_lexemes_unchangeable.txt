@@ -210,6 +210,13 @@
  trans_ru: по
 
 -lexeme
+ lex: сяен
+ stem: сяен.
+ gramm: POST
+ paradigm: connect_adverbs
+ trans_ru: по
+
+-lexeme
  lex: пыр
  stem: пыр.
  gramm: POST
@@ -263,7 +270,7 @@
  stem: ёрсын.
  gramm: POST
  paradigm: Empty
- trans_ru: «куда» «когда»)около
+ trans_ru: около, примерно
 
 -lexeme
  lex: нялтэ
@@ -354,7 +361,28 @@
  stem: тӥни.
  gramm: PART
  paradigm: Empty
- trans_ru: указ, вот, вон
+ trans_ru: вот, вон
+
+-lexeme
+ lex: тӥнь
+ stem: тӥнь.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: вон
+
+-lexeme
+ lex: тэнь
+ stem: тэнь.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: вот
+
+-lexeme
+ lex: оведь
+ stem: оведь.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: не так ли?
 
 -lexeme
  lex: тэ
@@ -368,7 +396,7 @@
  stem: ме.
  gramm: PART
  paradigm: Empty
- trans_ru: на, возьми, ме, басьты! на, возьми!, ме, кут! на, держи!
+ trans_ru: на, возьми
 
 -lexeme
  lex: созь
@@ -385,11 +413,18 @@
  trans_ru: утв. да
 
 -lexeme
+ lex: бон
+ stem: бон.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: да, хоть
+
+-lexeme
  lex: марошлы
  stem: марошлы.
  gramm: PART
  paradigm: Empty
- trans_ru: до чего, как, марошлы чебер до чего красивый
+ trans_ru: до чего, как
 
 -lexeme
  lex: озьы
@@ -399,8 +434,22 @@
  trans_ru: так, таким образом
 
 -lexeme
+ lex: созьы
+ stem: созьы.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: так, таким образом
+
+-lexeme
  lex: озь
  stem: озь.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: так, таким образом
+
+-lexeme
+ lex: созь
+ stem: созь.
  gramm: PART
  paradigm: Empty
  trans_ru: так, таким образом
@@ -422,6 +471,13 @@
 -lexeme
  lex: озьыен
  stem: озьыен.
+ gramm: PART,ins
+ paradigm: Empty
+ trans_ru: итак, значит, стало быть
+
+-lexeme
+ lex: созьыен
+ stem: созьыен.
  gramm: PART,ins
  paradigm: Empty
  trans_ru: итак, значит, стало быть
@@ -536,7 +592,21 @@
  stem: даже.
  gramm: PART
  paradigm: Empty
- trans_ru: усил., даже
+ trans_ru: даже
+
+-lexeme
+ lex: тоже
+ stem: тоже.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: тоже
+
+-lexeme
+ lex: тожо
+ stem: тожо.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: тоже
 
 -lexeme
  lex: во
@@ -728,6 +798,20 @@
  trans_ru: только
 
 -lexeme
+ lex: гынэ
+ stem: гынэ.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: только
+
+-lexeme
+ lex: гынэк
+ stem: гынэк.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: только
+
+-lexeme
  lex: ярам
  stem: ярам.
  gramm: PART
@@ -753,7 +837,14 @@
  stem: э-э.
  gramm: PART
  paradigm: Empty
- trans_ru: утверд. да, а-а, э-э
+ trans_ru: да, а-а, э-э
+
+-lexeme
+ lex: о-о
+ stem: о-о.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: да, ага
 
 -lexeme
  lex: как
@@ -5590,18 +5681,25 @@
  stem: тырвыл.
  gramm: ADV
  paradigm: connect_adverbs
- trans_ru: достаточно, вдоволь, вволю Польшаын танкистъёссэ куинь арня ӵоже дугдылытэк ожмаськытӥз, тырвылаз шутэтскыны но ӧз сётылы
+ trans_ru: достаточно, вдоволь, вволю
 
 -lexeme
  lex: ӵош
  stem: ӵош.
  gramm: ADV
  paradigm: connect_adverbs
- trans_ru: вместе, совместно, одновременно, наряду
+ trans_ru: вместе
 
 -lexeme
  lex: собере
  stem: собере.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: затем, потом
+
+-lexeme
+ lex: сэре
+ stem: сэре.
  gramm: ADV
  paradigm: connect_adverbs
  trans_ru: затем, потом
@@ -8420,6 +8518,27 @@
  trans_ru: вообще, в целом
 
 -lexeme
+ lex: вообще
+ stem: вообще.//вобще.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: вообще
+
+-lexeme
+ lex: вообще-то
+ stem: вообще-то.//вобще-то.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: вообще-то
+
+-lexeme
+ lex: конечно
+ stem: конечно.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: конечно
+
+-lexeme
  lex: какмалда
  stem: какмалда.
  gramm: ADV
@@ -9584,6 +9703,13 @@
 -lexeme
  lex: тани
  stem: тани.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: вот [здесь]
+
+-lexeme
+ lex: тань
+ stem: тань.
  gramm: ADV
  paradigm: connect_adverbs
  trans_ru: вот [здесь]

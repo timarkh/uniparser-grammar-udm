@@ -273,6 +273,13 @@
  trans_ru: рябить
 
 -lexeme
+ lex: пужъятыны
+ stem: пужъят.
+ gramm: V,I
+ paradigm: connect_verbs-I
+ trans_ru: вышивать
+
+-lexeme
  lex: ӝогатӥськылыны
  stem: ӝогатӥськыл.
  gramm: V,I
@@ -9897,7 +9904,14 @@
  stem: быз.
  gramm: V,I
  paradigm: connect_verbs-I-soft
- trans_ru: 1. бежать, побежать 2. течь, бежать 3. выйти замуж
+ trans_ru: бежать, течь; выйти замуж
+
+-lexeme
+ lex: бизьыны
+ stem: биз.
+ gramm: V,I
+ paradigm: connect_verbs-I-soft
+ trans_ru: бежать, течь; выйти замуж
 
 -lexeme
  lex: бекыръяны
@@ -14210,13 +14224,6 @@
  gramm: V,II
  paradigm: connect_verbs-II
  trans_ru: едва дышать, дышать на ладан
-
--lexeme
- lex: пужыятскылыны
- stem: пужыятскыл.
- gramm: V,I
- paradigm: connect_verbs-I
- trans_ru: заниматься вышивкой, вышивать, украшать узорами
 
 -lexeme
  lex: чабтӥськыны
@@ -18612,7 +18619,7 @@
  stem: кар.
  gramm: V,I
  paradigm: connect_verbs-I
- trans_ru: 1.сделать, делать 
+ trans_ru: делать 
 
 -lexeme
  lex: катыны
@@ -18661,7 +18668,7 @@
  stem: пастуха.
  gramm: V,II
  paradigm: connect_verbs-II
- trans_ru: пасти скот, быть пастухом, пастухаса ветлыны пасти скот, работать пастухом
+ trans_ru: пасти скот, пастушить
 
 -lexeme
  lex: кольккетыны
@@ -21063,13 +21070,6 @@
  gramm: V,I
  paradigm: connect_verbs-I
  trans_ru: сожалеть, раскаяться
-
--lexeme
- lex: керттылыны
- stem: керттыл.
- gramm: V,I
- paradigm: connect_verbs-I
- trans_ru: 1. завязывать, привязывать 2. вязать, плести
 
 -lexeme
  lex: нюлышъяськыны
@@ -33992,7 +33992,7 @@
  stem: ветл.
  gramm: V,I
  paradigm: connect_verbs-I
- trans_ru: 1. сходить, ходить 2. ходить, сделать ход 3. покататься
+ trans_ru: ходить
 
 -lexeme
  lex: пыкылыны
@@ -34769,7 +34769,7 @@
  stem: ортч.
  gramm: V,I
  paradigm: connect_verbs-I
- trans_ru: 1. пройти 2. прям. и перен. опередить, перегнать, обогнать 3. пройти
+ trans_ru: пройти; опередить
 
 -lexeme
  lex: йылыны-будыны
@@ -36547,7 +36547,7 @@
  stem: кертт.
  gramm: V,I
  paradigm: connect_verbs-I
- trans_ru: 1. завязать, привязать 2. связать, вязать 3. о поле: загородить
+ trans_ru: завязать; вязать
 
 -lexeme
  lex: кочатъяськыны
@@ -46932,13 +46932,6 @@
  trans_ru: распространять, разносить
 
 -lexeme
- lex: керттӥськылыны
- stem: керттӥськыл.
- gramm: V,I
- paradigm: connect_verbs-I
- trans_ru: завязываться, привязываться; заниматься рукоделием
-
--lexeme
  lex: ӟукыръяны
  stem: ӟукыръя.
  gramm: V,II
@@ -48771,13 +48764,6 @@
  gramm: V,I
  paradigm: connect_verbs-I
  trans_ru: калечить, искалечивать, изувечивать, увечить
-
--lexeme
- lex: керттӥськыны
- stem: керттӥськ.
- gramm: V,I
- paradigm: connect_verbs-I
- trans_ru: 1. завязаться, привязаться 2. заниматься рукоделием
 
 -lexeme
  lex: ярсыны

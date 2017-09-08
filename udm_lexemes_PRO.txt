@@ -355,6 +355,7 @@
  stem: кин.
  gramm: PRO
  paradigm: Noun-num-consonant
+ paradigm: Noun-num-soft
  trans_ru: кто
 
 -lexeme
@@ -362,6 +363,7 @@
  stem: нокин.
  gramm: PRO
  paradigm: Noun-num-consonant
+ paradigm: Noun-num-soft
  trans_ru: никто
 
 -lexeme
@@ -369,7 +371,16 @@
  stem: котькин.
  gramm: PRO
  paradigm: Noun-num-consonant
+ paradigm: Noun-num-soft
  trans_ru: кто угодно
+
+-lexeme
+ lex: олокин
+ stem: олокин.
+ gramm: PRO
+ paradigm: Noun-num-consonant
+ paradigm: Noun-num-soft
+ trans_ru: не знаю кто
 
 -lexeme
  lex: мар
@@ -590,6 +601,13 @@
  trans_ru: туда
 
 -lexeme
+ lex: сотчы
+ stem: сотчы.
+ gramm: PRO,ill
+ paradigm: Empty
+ trans_ru: туда
+
+-lexeme
  lex: татчы
  stem: татчы.
  gramm: PRO,ill
@@ -627,6 +645,13 @@
 -lexeme
  lex: отын
  stem: отын.
+ gramm: PRO,loc
+ paradigm: Empty
+ trans_ru: там, тут
+
+-lexeme
+ lex: сотын
+ stem: сотын.
  gramm: PRO,loc
  paradigm: Empty
  trans_ru: там, тут
@@ -674,6 +699,13 @@
  trans_ru: оттуда
 
 -lexeme
+ lex: сотысь
+ stem: сотысь.
+ gramm: PRO,el
+ paradigm: Empty
+ trans_ru: оттуда
+
+-lexeme
  lex: татысь
  stem: татысь.
  gramm: PRO,el
@@ -711,6 +743,13 @@
 -lexeme
  lex: отысен
  stem: отысен.
+ gramm: PRO,egr
+ paradigm: Empty
+ trans_ru: оттуда
+
+-lexeme
+ lex: сотысен
+ stem: сотысен.
  gramm: PRO,egr
  paradigm: Empty
  trans_ru: оттуда
@@ -765,6 +804,13 @@
  trans_ru: дотуда
 
 -lexeme
+ lex: сотчыозь
+ stem: сотчыозь.
+ gramm: PRO,egr
+ paradigm: Empty
+ trans_ru: дотуда
+
+-lexeme
  lex: татчыозь
  stem: татчыозь.
  gramm: PRO,egr
@@ -808,7 +854,14 @@
 
 -lexeme
  lex: отӥ
- stem: отӥ.
+ stem: отӥ.//оти.
+ gramm: PRO,prol
+ paradigm: Noun-num-vowel
+ trans_ru: там
+
+-lexeme
+ lex: сотӥ
+ stem: сотӥ.//соти.
  gramm: PRO,prol
  paradigm: Noun-num-vowel
  trans_ru: там

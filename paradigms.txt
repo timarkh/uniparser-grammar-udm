@@ -2209,7 +2209,7 @@
  -flex: .и<.>
   gramm: nom,1sg
   gloss: P.1SG
- -flex: .ме<.>
+ -flex: .ме<.>//.име<.>
   gramm: acc,1sg
   gloss: P.1SG.ACC
  -flex: .и|лэн<.>
@@ -2233,10 +2233,10 @@
  -flex: .ин|ым<.>
   gramm: ins,1sg
   gloss: INS|P.1SG
- -flex: .а|м<.>
+ -flex: .а|м<.>//.я|м<.>
   gramm: loc,1sg
   gloss: LOC|P.1SG
- -flex: .а|м<.>
+ -flex: .а|м<.>//.я|м<.>
   gramm: ill,1sg
   gloss: ILL|P.1SG
  -flex: .ысьт|ым<.>
@@ -2275,16 +2275,16 @@
  -flex: .ид|лань<.>
   gramm: app,2sg
   gloss: P.2SG|APP
- -flex: .дэ<.>
+ -flex: .дэ<.>//.идэ<.>
   gramm: acc,2sg
   gloss: P.2SG.ACC
  -flex: .ин|ыд<.>
   gramm: ins,2sg
   gloss: INS|P.2SG
- -flex: .а|д<.>
+ -flex: .а|д<.>//.я|д<.>
   gramm: loc,2sg
   gloss: LOC|P.2SG
- -flex: .а|д<.>
+ -flex: .а|д<.>//.я|д<.>
   gramm: ill,2sg
   gloss: ILL|P.2SG
  -flex: .ысьт|ыд<.>
@@ -2324,16 +2324,16 @@
  -flex: .из|лань<.>
   gramm: app,3sg
   gloss: P.3SG|APP
- -flex: .зэ<.>
+ -flex: .зэ<.>//.изэ<.>
   gramm: acc,3sg
   gloss: P.3SG.ACC
  -flex: .ин|ыз<.>
   gramm: ins,3sg
   gloss: INS|P.3SG
- -flex: .а|з<.>
+ -flex: .а|з<.>//.я|з<.>
   gramm: loc,3sg
   gloss: LOC|P.3SG
- -flex: .а|з<.>
+ -flex: .а|з<.>//.я|з<.>
   gramm: ill,3sg
   gloss: ILL|P.3SG
  -flex: .ысьт|ыз<.>
@@ -3821,9 +3821,16 @@
  -flex: .э<.>
   gramm: pl,fut,neg
   gloss: NEG.PL
+ -flex: .э|лэ<.>
+  gramm: pl,fut,neg
+  gloss: NEG.PL|NEG.PL
  -flex: .е<.>
   gramm: pl,fut,neg
   gloss: NEG.PL
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+ -flex: .е|лэ<.>
+  gramm: pl,fut,neg
+  gloss: NEG.PL|NEG.PL
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
  paradigm: Comparative
 
@@ -3836,6 +3843,9 @@
  -flex: .е<.>
   gramm: pl,fut,neg
   gloss: NEG.PL
+ -flex: .е|лэ<.>
+  gramm: pl,fut,neg
+  gloss: NEG.PL|NEG.PL
  paradigm: Comparative
 
 -paradigm: Verb-subj-I
@@ -3901,10 +3911,20 @@
  -flex: .э<.>
   gramm: imp,pl
   gloss: IMP.PL
+ -flex: .э|лэ<.>
+  gramm: imp,pl
+  gloss: IMP.PL|IMP.PL
  -flex: .е<.>
   gramm: imp,pl
   gloss: IMP.PL
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+ -flex: .е|лэ<.>
+  gramm: imp,pl
+  gloss: IMP.PL|IMP.PL
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+ -flex: .оме<.>
+  gramm: hort,pl
+  gloss: HORT.PL
  paradigm: Comparative
 
 -paradigm: Verb-imp-I-soft
@@ -3916,6 +3936,12 @@
  -flex: .е<.>
   gramm: imp,pl
   gloss: IMP.PL
+ -flex: .е|лэ<.>
+  gramm: imp,pl
+  gloss: IMP.PL|IMP.PL
+ -flex: .ёме<.>
+  gramm: hort,pl
+  gloss: HORT.PL
  paradigm: Comparative
 
 
@@ -4044,6 +4070,9 @@
  -flex: .лэ<.>
   gramm: imp,pl
   gloss: IMP.PL
+ -flex: .ме<.>
+  gramm: hort,pl
+  gloss: HORT.PL
  paradigm: Comparative
 
 

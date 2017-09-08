@@ -4067,6 +4067,13 @@
  trans_ru: четыре
 
 -lexeme
+ lex: ниль
+ stem: нил.
+ gramm: NUM
+ paradigm: connect_num-soft
+ trans_ru: четыре
+
+-lexeme
  lex: рубрика
  stem: рубрика.
  gramm: N
@@ -4387,6 +4394,13 @@
  gramm: N
  paradigm: Noun-num-vowel
  trans_ru: муравейник
+
+-lexeme
+ lex: кузьыли
+ stem: кузьыли.
+ gramm: N
+ paradigm: Noun-num-vowel
+ trans_ru: муравей
 
 -lexeme
  lex: интерес
@@ -8168,6 +8182,13 @@
 -lexeme
  lex: гид
  stem: гид.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: гид
+
+-lexeme
+ lex: гид
+ stem: гидь.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: гид
@@ -16129,6 +16150,13 @@
 -lexeme
  lex: аску
  stem: аску.
+ gramm: N
+ paradigm: Noun-num-vowel
+ trans_ru: завтра
+
+-lexeme
+ lex: аскы
+ stem: аскы.
  gramm: N
  paradigm: Noun-num-vowel
  trans_ru: завтра
@@ -28438,6 +28466,13 @@
  trans_ru: яйцо
 
 -lexeme
+ lex: курегпуз
+ stem: курегпуз.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: куриное яйцо
+
+-lexeme
  lex: пуж
  stem: пуж.
  gramm: N
@@ -30540,6 +30575,13 @@
  gramm: N
  paradigm: Noun-num-vowel
  trans_ru: лечебница
+
+-lexeme
+ lex: ветлечебница
+ stem: ветлечебница.
+ gramm: N
+ paradigm: Noun-num-vowel
+ trans_ru: ветлечебница
 
 -lexeme
  lex: леспромхоз
@@ -33196,6 +33238,13 @@
  gramm: N
  paradigm: Noun-num-j
  trans_ru: повивальная бабка, повитуха
+
+-lexeme
+ lex: айкай
+ stem: айка.
+ gramm: N
+ paradigm: Noun-num-j
+ trans_ru: песня
 
 -lexeme
  lex: идиома
@@ -45524,6 +45573,13 @@
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: 1. полотенце 2. носовой платок
+
+-lexeme
+ lex: айшет
+ stem: айшет.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: передник
 
 -lexeme
  lex: пергамент

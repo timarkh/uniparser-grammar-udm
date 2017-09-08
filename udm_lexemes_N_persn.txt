@@ -238,11 +238,25 @@
  trans_ru: Светлана
 
 -lexeme
+ lex: Света
+ stem: света.
+ gramm: N,persn
+ paradigm: Noun-num-vowel
+ trans_ru: Света
+
+-lexeme
  lex: Людмила
  stem: людмила.
  gramm: N,persn
  paradigm: Noun-num-vowel
  trans_ru: Людмила
+
+-lexeme
+ lex: Люда
+ stem: люда.
+ gramm: N,persn
+ paradigm: Noun-num-vowel
+ trans_ru: Люда
 
 -lexeme
  lex: Анатолий
@@ -399,6 +413,13 @@
  trans_ru: Анна
 
 -lexeme
+ lex: Аня
+ stem: аня.
+ gramm: N,persn
+ paradigm: Noun-num-vowel
+ trans_ru: Аня
+
+-lexeme
  lex: Мария
  stem: мария.
  gramm: N,persn
@@ -411,6 +432,13 @@
  gramm: N,persn
  paradigm: Noun-num-vowel
  trans_ru: Ирина
+
+-lexeme
+ lex: Ира
+ stem: ира.
+ gramm: N,persn
+ paradigm: Noun-num-vowel
+ trans_ru: Ира
 
 -lexeme
  lex: Марина
@@ -455,11 +483,25 @@
  trans_ru: Наталья
 
 -lexeme
+ lex: Наташа
+ stem: наташа.
+ gramm: N,persn
+ paradigm: Noun-num-vowel
+ trans_ru: Наташа
+
+-lexeme
  lex: Юлия
  stem: юлия.
  gramm: N,persn
  paradigm: Noun-num-vowel
  trans_ru: Юлия
+
+-lexeme
+ lex: Юля
+ stem: юля.
+ gramm: N,persn
+ paradigm: Noun-num-vowel
+ trans_ru: Юля
 
 -lexeme
  lex: Оля
@@ -497,6 +539,13 @@
  trans_ru: Зинаида
 
 -lexeme
+ lex: Зина
+ stem: зина.
+ gramm: N,persn
+ paradigm: Noun-num-vowel
+ trans_ru: Зина
+
+-lexeme
  lex: Тамара
  stem: тамара.
  gramm: N,persn
@@ -509,6 +558,13 @@
  gramm: N,persn
  paradigm: Noun-num-vowel
  trans_ru: Раиса
+
+-lexeme
+ lex: Рая
+ stem: рая.
+ gramm: N,persn
+ paradigm: Noun-num-vowel
+ trans_ru: Рая
 
 -lexeme
  lex: Алевтина
@@ -4445,6 +4501,13 @@
  trans_ru: Венгрия
 
 -lexeme
+ lex: Болгария
+ stem: болгари.
+ gramm: N,topn
+ paradigm: Noun-num-ija
+ trans_ru: Болгария
+
+-lexeme
  lex: Германия
  stem: германи.
  gramm: N,topn
@@ -4746,6 +4809,13 @@
  trans_ru: Камбарка
 
 -lexeme
+ lex: Сосновка
+ stem: сосновка.
+ gramm: N,topn
+ paradigm: Noun-num-vowel
+ trans_ru: Сосновка
+
+-lexeme
  lex: Дэри
  stem: дэри.
  gramm: N,topn
@@ -4828,6 +4898,27 @@
  gramm: N,topn
  paradigm: Noun-num-consonant
  trans_ru: Бураново
+
+-lexeme
+ lex: Вылынгурт
+ stem: вылынгурт.
+ gramm: N,topn
+ paradigm: Noun-num-consonant
+ trans_ru: Вылынгурт
+
+-lexeme
+ lex: Казакгурт
+ stem: казакгурт.
+ gramm: N,topn
+ paradigm: Noun-num-consonant
+ trans_ru: Казаково
+
+-lexeme
+ lex: Асан
+ stem: асан.
+ gramm: N,topn
+ paradigm: Noun-num-consonant
+ trans_ru: Асан
 
 -lexeme
  lex: Бураново
