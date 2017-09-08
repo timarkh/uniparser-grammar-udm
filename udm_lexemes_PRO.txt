@@ -2,14 +2,14 @@
  lex: мон
  stem: мон.
  gramm: PRO,nom,sg
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: я
 
 -lexeme
  lex: мон
  stem: монэ.
  gramm: PRO,acc,sg
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: я
 
 -lexeme
@@ -30,56 +30,56 @@
  lex: мон
  stem: мыным.
  gramm: PRO,dat,sg
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: я
 
 -lexeme
  lex: мон
  stem: монтэк.
  gramm: PRO,car,sg
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: я
 
 -lexeme
  lex: мон
  stem: монъя.
  gramm: PRO,adv,sg
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: я
 
 -lexeme
  lex: мон
  stem: монэн.
  gramm: PRO,ins,sg
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: я
 
 -lexeme
  lex: мон
  stem: монлань.
  gramm: PRO,app,sg
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: я
 
 -lexeme
  lex: ми
  stem: ми.
  gramm: PRO,nom,pl
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: мы
 
 -lexeme
  lex: ми
  stem: милемыз.
  gramm: PRO,acc,pl
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: мы
 
 -lexeme
  lex: ми
  stem: милемды.
  gramm: PRO,acc,pl
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: мы
 
 -lexeme
@@ -100,63 +100,63 @@
  lex: ми
  stem: милемлы.
  gramm: PRO,dat,pl
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: мы
 
 -lexeme
  lex: ми
  stem: милем.
  gramm: PRO,dat,pl
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: мы
 
 -lexeme
  lex: ми
  stem: митэк.
  gramm: PRO,car,pl
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: мы
 
 -lexeme
  lex: ми
  stem: мия.
  gramm: PRO,adv,pl
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: мы
 
 -lexeme
  lex: ми
  stem: милемын.
  gramm: PRO,ins,pl
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: мы
 
 -lexeme
  lex: ми
  stem: миленымы.
  gramm: PRO,ins,pl
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: мы
 
 -lexeme
  lex: ми
  stem: милань.
  gramm: PRO,app,pl
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: мы
 
 -lexeme
  lex: тон
  stem: тон.
  gramm: PRO,nom,sg
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: ты
 
 -lexeme
  lex: тон
  stem: тонэ.
  gramm: PRO,acc,sg
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: ты
 
 -lexeme
@@ -177,56 +177,56 @@
  lex: тон
  stem: тыныд.
  gramm: PRO,dat,sg
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: ты
 
 -lexeme
  lex: тон
  stem: тонтэк.
  gramm: PRO,car,sg
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: ты
 
 -lexeme
  lex: тон
  stem: тонъя.
  gramm: PRO,adv,sg
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: ты
 
 -lexeme
  lex: тон
  stem: тонэн.
  gramm: PRO,ins,sg
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: ты
 
 -lexeme
  lex: тон
  stem: тонлань.
  gramm: PRO,app,sg
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: ты
 
 -lexeme
  lex: тӥ
  stem: тӥ.
  gramm: PRO,nom,pl
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: вы
 
 -lexeme
  lex: тӥ
  stem: тӥледыз.
  gramm: PRO,acc,pl
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: вы
 
 -lexeme
  lex: тӥ
  stem: тӥледды.
  gramm: PRO,acc,pl
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: вы
 
 -lexeme
@@ -247,49 +247,49 @@
  lex: тӥ
  stem: тӥледлы.
  gramm: PRO,dat,pl
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: вы
 
 -lexeme
  lex: тӥ
  stem: тӥлед.
  gramm: PRO,dat,pl
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: вы
 
 -lexeme
  lex: тӥ
  stem: тӥтэк.
  gramm: PRO,car,pl
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: вы
 
 -lexeme
  lex: тӥ
  stem: тӥя.
  gramm: PRO,adv,pl
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: вы
 
 -lexeme
  lex: тӥ
  stem: тӥледын.
  gramm: PRO,ins,pl
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: вы
 
 -lexeme
  lex: тӥ
  stem: тӥленыды.
  gramm: PRO,ins,pl
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: вы
 
 -lexeme
  lex: ми
  stem: милань.
  gramm: PRO,app,pl
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: вы
 
 -lexeme
@@ -303,14 +303,14 @@
  lex: мон
  stem: монэным.
  gramm: PRO,ins,sg
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: я
 
 -lexeme
  lex: тон
  stem: тонэныд.
  gramm: PRO,ins,sg
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: ты
 
 
@@ -417,49 +417,49 @@
  lex: кӧня
  stem: кӧня.
  gramm: PRO
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: сколько
 
 -lexeme
  lex: котькӧня
  stem: котькӧня.
  gramm: PRO
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: сколько угодно
 
 -lexeme
  lex: сомында
  stem: сомында.
  gramm: PRO
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: столько
 
 -lexeme
  lex: малы
  stem: малы.
  gramm: PRO
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: зачем
 
 -lexeme
  lex: соку
  stem: соку.
  gramm: PRO
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: тогда
 
 -lexeme
  lex: сокы
  stem: сокы.
  gramm: PRO
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: тогда
 
 -lexeme
  lex: котьку
  stem: котьку.
  gramm: PRO
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: когда угодно
 
 -lexeme
@@ -494,35 +494,35 @@
  lex: кызьы
  stem: кызьы.
  gramm: PRO
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: как
 
 -lexeme
  lex: нокызьы
  stem: нокызьы.
  gramm: PRO
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: никак
 
 -lexeme
  lex: олокызьы
  stem: олокызьы.
  gramm: PRO
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: как-то
 
 -lexeme
  lex: котькызьы
  stem: котькызьы.
  gramm: PRO
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: как угодно
 
 -lexeme
  lex: макем
  stem: макем.
  gramm: PRO
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: насколько
 
 

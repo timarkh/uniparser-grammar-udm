@@ -5317,11 +5317,11 @@
  trans_ru: 1. зудеть, чесаться 2. перен. испытывать злорадство, злорадствовать
 
 -lexeme
- lex: чигнатылыны
- stem: чигнатыл.
- gramm: V,I
- paradigm: connect_verbs-I
- trans_ru: 1. вынуждать отступить 2. пятить
+ lex: чигнаны
+ stem: чигна.
+ gramm: V,II
+ paradigm: connect_verbs-II
+ trans_ru: отступать; пятиться
 
 -lexeme
  lex: туйылӥськыны
@@ -8815,13 +8815,6 @@
  trans_ru: 1. пускать, отпускать 2. разре­шать, позволять 3. посылать
 
 -lexeme
- lex: чигналляны
- stem: чигналля.
- gramm: V,II
- paradigm: connect_verbs-II
- trans_ru: пятиться назад, отступать
-
--lexeme
  lex: бералтӥськылыны
  stem: бералтӥськыл.
  gramm: V,I
@@ -11500,7 +11493,7 @@
  stem: быдт.
  gramm: V,I
  paradigm: connect_verbs-I
- trans_ru: 1. закончить, окончить 2. уничтожить, истребить 3. погубить
+ trans_ru: закончить; уничтожить
 
 -lexeme
  lex: топкетылыны
@@ -11514,14 +11507,35 @@
  stem: йӧнатыл.
  gramm: V,I
  paradigm: connect_verbs-I
- trans_ru: 1. излечивать, вылечивать 2. перен. исправлять, налаживать
+ trans_ru: вылечить; исправить
 
 -lexeme
  lex: лисъяны
  stem: лисъя.
  gramm: V,II
  paradigm: connect_verbs-II
- trans_ru: листать, пролистать, перелистать
+ trans_ru: листать
+ 
+-lexeme
+ lex: быдэсъяны
+ stem: быдэсъя.
+ gramm: V,II
+ paradigm: connect_verbs-II
+ trans_ru: выполнять
+ 
+-lexeme
+ lex: шараяны
+ stem: шарая.
+ gramm: V,II
+ paradigm: connect_verbs-II
+ trans_ru: выявить
+
+-lexeme
+ lex: мыжгыны
+ stem: мыжг.
+ gramm: V,I
+ paradigm: connect_verbs-I
+ trans_ru: ударить кулаком
 
 -lexeme
  lex: шӧмъяськыны
@@ -34891,13 +34905,6 @@
  trans_ru: ославить, славить , опозорить, позорить
 
 -lexeme
- lex: чигнатӥськыны
- stem: чигнатӥськ.
- gramm: V,I
- paradigm: connect_verbs-I
- trans_ru: 1. попятиться, пятиться 2. идти на попятный
-
--lexeme
  lex: конгыльтыны
  stem: конгыльт.
  gramm: V,I
@@ -38011,13 +38018,6 @@
  gramm: V,I
  paradigm: connect_verbs-I
  trans_ru: 1. икать 2. кудахтать, клохтатьшипеть
-
--lexeme
- lex: чигнатӥськылыны
- stem: чигнатӥськыл.
- gramm: V,I
- paradigm: connect_verbs-I
- trans_ru: 1. пятиться, отступать 2. идти на попятный
 
 -lexeme
  lex: куӵыкъяны
@@ -43452,13 +43452,6 @@
  trans_ru: страд. 1. вывешиваться, развешиваться 2. повеситься, вешаться
 
 -lexeme
- lex: чигнатыны
- stem: чигнат.
- gramm: V,I
- paradigm: connect_verbs-I
- trans_ru: 1. вынудить отступать 2. пятить, попятить
-
--lexeme
  lex: эскерыны
  stem: эскер.
  gramm: V,I
@@ -43716,13 +43709,6 @@
  gramm: V,I
  paradigm: connect_verbs-I
  trans_ru: дать понюхать
-
--lexeme
- lex: чигнатскылыныны
- stem: чигнатскылын.
- gramm: V,I
- paradigm: connect_verbs-I
- trans_ru: 
 
 -lexeme
  lex: пеймытскыны

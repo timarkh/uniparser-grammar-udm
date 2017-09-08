@@ -2163,20 +2163,6 @@
  trans_ru: особо, своеобразно
 
 -lexeme
- lex: мыжгыныударить
- stem: мыжгыныударить.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: кулаком, мыжгы вал но пень кар вал как ударил бы, одно [бы] мокрое место осталось
-
--lexeme
- lex: алляськись
- stem: алляськись.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: тот, кто
-
--lexeme
  lex: айырма
  stem: айырма.
  gramm: ADV
