@@ -3259,12 +3259,12 @@
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
   paradigm: Noun-num-consonant-ptcp
  -flex: .оно<.>
-  gramm: ptcp,pres,pass
+  gramm: ptcp,prs,pass
   gloss: PTCP.PASS
   paradigm: Comparative
   paradigm: Adjectives_Pl
  -flex: .ымон<.>
-  gramm: ptcp,pres,pass
+  gramm: ptcp,prs,pass
   gloss: PTCP.PASS
   paradigm: Comparative
   paradigm: Adjectives_Pl
@@ -3293,12 +3293,12 @@
   gloss: PTCP.PST
   paradigm: Noun-num-consonant-ptcp
  -flex: .ёно<.>
-  gramm: ptcp,pres,pass
+  gramm: ptcp,prs,pass
   gloss: PTCP.PASS
   paradigm: Comparative
   paradigm: Adjectives_Pl
  -flex: .ьмон<.>//.ьымон<.>
-  gramm: ptcp,pres,pass
+  gramm: ptcp,prs,pass
   gloss: PTCP.PASS
   paradigm: Comparative
   paradigm: Adjectives_Pl
@@ -3323,12 +3323,12 @@
   gloss: PTCP.PST
   paradigm: Noun-num-consonant-ptcp
  -flex: .но<.>
-  gramm: ptcp,pres,pass
+  gramm: ptcp,prs,pass
   gloss: PTCP.PASS
   paradigm: Comparative
   paradigm: Adjectives_Pl
  -flex: .мон<.>
-  gramm: ptcp,pres,pass
+  gramm: ptcp,prs,pass
   gloss: PTCP.PASS
   paradigm: Comparative
   paradigm: Adjectives_Pl
@@ -3659,11 +3659,11 @@
   gramm: 3,pl,pst
   gloss: PST|3PL
  -flex: .и<.>
-  gramm: 1,sg,past
+  gramm: 1,sg,pst
   gloss: PST|1SG
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
  -flex: .и|д<.>
-  gramm: 2,sg,past
+  gramm: 2,sg,pst
   gloss: PST|2SG
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
  -flex: .и|з<.>
@@ -3686,10 +3686,10 @@
 
 -paradigm: Verb-past-I-positive-soft
  -flex: .и<.>
-  gramm: 1,sg,past
+  gramm: 1,sg,pst
   gloss: PST
  -flex: .и|д<.>
-  gramm: 2,sg,past
+  gramm: 2,sg,pst
   gloss: PST|2SG
  -flex: .и|з<.>
   gramm: 3,sg,pst
