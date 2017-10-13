@@ -19017,3 +19017,2719 @@
   gloss: .*ITER.*
  -add
   trans_ru2: затихать
+-lex_rule
+ -search
+  stem: адӟ.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: 1. видеться, повидаться 2. виднеться, быть видным 3. казаться
+-lex_rule
+ -search
+  stem: адӟ.
+  gramm: V,.*
+  gloss: .*PASS-CAUS.*
+ -add
+  trans_ru2: 1. дать возможность увидеться, встретиться 2. сделать видимым, показать
+-lex_rule
+ -search
+  stem: аз.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: 1. воспалить, воспалять 2. запускать, запустить 3. перен. заражать, заразить 
+-lex_rule
+ -search
+  stem: азьтэмм.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: привести в состояние лени
+-lex_rule
+ -search
+  stem: акыльт.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: надоедать, докучать
+-lex_rule
+ -search
+  stem: алекм.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: доводить до нервного состояния, раздражать
+-lex_rule
+ -search
+  stem: алӟ.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: изнурить, утомить, истомить, измотать
+-lex_rule
+ -search
+  stem: ашкын.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: набаловать
+-lex_rule
+ -search
+  stem: безд.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: дать выцвести
+-lex_rule
+ -search
+  stem: бин.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: 1. замотаться, заматываться 2. свиться, виться 3. обернуться
+-lex_rule
+ -search
+  stem: бугырӟ.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: 1. поднять 2. разворошить 3. разрыхлить
+-lex_rule
+ -search
+  stem: буйгатск.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: успокоить, утешить, утихомирить
+-lex_rule
+ -search
+  stem: бунӟект.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: змочалить, истрепать
+-lex_rule
+ -search
+  stem: бурдъя.
+  gramm: V,.*
+  gloss: .*PASS-CAUS.*
+ -add
+  trans_ru2: окрылять, воодушевлять
+-lex_rule
+ -search
+  stem: бурм.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: 1. вылечить, исцелить 2. срастить 3. привить 
+-lex_rule
+ -search
+  stem: бушом.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: 1. освободить, опорожнить 2. сделать просторным 3. выгрузить
+-lex_rule
+ -search
+  stem: быгыльм.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: тупить, затупить
+-lex_rule
+ -search
+  stem: быдэсм.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: 1. дать возможность выполнить 2. дать возможность исполнить
+-lex_rule
+ -search
+  stem: бызьыл.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: случить, покрыть, сводить на случку
+-lex_rule
+ -search
+  stem: бӧд.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: болтать, поболтать, калякать, покалякать обл.
+-lex_rule
+ -search
+  stem: бӧл.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: 1. разделиться, разделяться 2. расстаться, расставаться
+-lex_rule
+ -search
+  stem: бӧрд.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: довести до слёз
+-lex_rule
+ -search
+  stem: вадьса.
+  gramm: V,.*
+  gloss: .*PASS-CAUS.*
+ -add
+  trans_ru2: специально приурочить
+-lex_rule
+ -search
+  stem: ваз.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: 1. откликнуться, отозваться 2. обратиться к кому-л., призвать, бросить клич
+-lex_rule
+ -search
+  stem: вакчиём.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: укоротить, сделать коротким, сократить
+-lex_rule
+ -search
+  stem: вал.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: постлать постель, стлать постель
+-lex_rule
+ -search
+  stem: валчея.
+  gramm: V,.*
+  gloss: .*PASS-CAUS.*
+ -add
+  trans_ru2: 1. соединить, свести 2. спарить 3. женить
+-lex_rule
+ -search
+  stem: ваньм.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: 1. сделать свободным, освободить 2. перен. убить
+-lex_rule
+ -search
+  stem: васьк.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: 1. спустить, опустить 2. высадить, ссадить 3. перен. бить, ударить
+-lex_rule
+ -search
+  stem: векчиём.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: 1. утончить, измельчить 2. повысить.
+-lex_rule
+ -search
+  stem: ветт.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: понуд. дать макнуть
+-lex_rule
+ -search
+  stem: визьма.
+  gramm: V,.*
+  gloss: .*PASS-CAUS.*
+ -add
+  trans_ru2: образумить, надоумить, вразумить, научить уму-разуму, проучить
+-lex_rule
+ -search
+  stem: визьтэмм.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: 1. оглупить 2. свести с ума, довести до безумия
+-lex_rule
+ -search
+  stem: ви.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: покончить с собой, вииськем [он] покончил с собой
+-lex_rule
+ -search
+  stem: вит.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: 1. ждать, дожидаться 2. цедить
+-lex_rule
+ -search
+  stem: вожом.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: привести в азарт, раззадорить
+-lex_rule
+ -search
+  stem: вожъяськ.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: позавидовать, позариться
+-lex_rule
+ -search
+  stem: воз.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: 1. воздержаться, удержаться 2. сдержаться 3. продержаться
+-lex_rule
+ -search
+  stem: возьдаськ.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: пристыдить, устыдить, стыдить
+-lex_rule
+ -search
+  stem: вольтч.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: 1. вывихнуть 2. перен. вышвырнуть, выпихнуть, выставить, выгнать
+-lex_rule
+ -search
+  stem: вольытом.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: сделать гладким, сгладить, выровнять, отшлифовать
+-lex_rule
+ -search
+  stem: волём.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: сделать гладким, отшлифовать, шлифовать
+-lex_rule
+ -search
+  stem: воньӟ.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: портиться, издавать запах, пахнуть
+-lex_rule
+ -search
+  stem: востэмм.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: усмирить, укротить, успокоить
+-lex_rule
+ -search
+  stem: восьм.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: истощить, изнурить, иссушить, высушить
+-lex_rule
+ -search
+  stem: вугалм.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: довести до сильного голода
+-lex_rule
+ -search
+  stem: вужм.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: 1. состарить 2. зачерстветь
+-lex_rule
+ -search
+  stem: вур.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: шить, заниматься шитьём, портняжничать
+-lex_rule
+ -search
+  stem: вурыт.
+  gramm: V,.*
+  gloss: .*CAUS-ITER.*
+ -add
+  trans_ru2: заставлять шить, заказывать шить
+-lex_rule
+ -search
+  stem: вуём.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: привести в отчаяние, довести до отчаяния
+-lex_rule
+ -search
+  stem: выж.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: наследовать
+-lex_rule
+ -search
+  stem: выжыяськ.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: укоренить, укоренять, внедрить, внедрять
+-lex_rule
+ -search
+  stem: выльдыт.
+  gramm: V,.*
+  gloss: .*CAUS-ITER.*
+ -add
+  trans_ru2: обновлять, преобразовывать
+-lex_rule
+ -search
+  stem: выльм.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: обновить, подновить, преобразить, преобразовать
+-lex_rule
+ -search
+  stem: вырӟ.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: 1. сдвинуть, отодвинуть 2. вывихнуть 3. надорвать
+-lex_rule
+ -search
+  stem: вӧжй.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: понуд. дать возможность просуществовать
+-lex_rule
+ -search
+  stem: вӧлм.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: распространить, разнести
+-lex_rule
+ -search
+  stem: гомӟыт.
+  gramm: V,.*
+  gloss: .*CAUS-ITER.*
+ -add
+  trans_ru2: разжигать пламя, зажигать
+-lex_rule
+ -search
+  stem: гонӟ.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: довести до плесени, дать заплесневеть
+-lex_rule
+ -search
+  stem: гордэкт.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: вогнать в краску
+-lex_rule
+ -search
+  stem: губырск.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: сгорбить, горбить, ссутулить, сутулить
+-lex_rule
+ -search
+  stem: гуньд.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: 1. оглушить 2. заглушить 
+-lex_rule
+ -search
+  stem: даллаш.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: довести до ссоры
+-lex_rule
+ -search
+  stem: долом.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: 1. привести в недоумение 2.сделать гладким, отшлифовать
+-lex_rule
+ -search
+  stem: донг.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: достаться
+-lex_rule
+ -search
+  stem: дугд.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: 1. остановить, приостановить 2. прекратить, пресечь
+-lex_rule
+ -search
+  stem: дум.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: 1. привязаться, привязываться 2. запутаться, запутываться 
+-lex_rule
+ -search
+  stem: дуном.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: поднять цену
+-lex_rule
+ -search
+  stem: дур.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: заниматься кузнечным делом, ковать
+-lex_rule
+ -search
+  stem: дырт.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: торопить, поторопить, попросить поторопиться
+-lex_rule
+ -search
+  stem: дэйм.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: устрашить, сильно испугать
+-lex_rule
+ -search
+  stem: дэмӟ.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: касаться, задевать, зацепить, наезжать
+-lex_rule
+ -search
+  stem: дэмӟ.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: 1. зацепить, подцепить 2. приколоть
+-lex_rule
+ -search
+  stem: егитм.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: сделать молодым, омолодить
+-lex_rule
+ -search
+  stem: ер.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: заразиться, заражаться
+-lex_rule
+ -search
+  stem: жагӟ.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: 1. дать зарасти сорняком 2. намусорить
+-lex_rule
+ -search
+  stem: жичом.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: довести до отупения
+-lex_rule
+ -search
+  stem: жуг.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: 1. драться, грызться 2. биться, сражаться
+-lex_rule
+ -search
+  stem: жӧлом.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: 1. оглушить, глушить 2. довести до обморочного состояния
+-lex_rule
+ -search
+  stem: заказт.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: попросить заказать
+-lex_rule
+ -search
+  stem: золомыт.
+  gramm: V,.*
+  gloss: .*CAUS-ITER.*
+ -add
+  trans_ru2: 1. натягивать 2. усиливать
+-lex_rule
+ -search
+  stem: зым.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: 1. погрузить 2. утопить
+-lex_rule
+ -search
+  stem: зынм.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: испортить, портить
+-lex_rule
+ -search
+  stem: зӥб.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: 1. опереться, навалиться 2. быть придавленным
+-lex_rule
+ -search
+  stem: зӥблом.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: успокоить, усмирить, утихомирить
+-lex_rule
+ -search
+  stem: зӥбытом.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: успокоить, усмирить, утихомирить
+-lex_rule
+ -search
+  stem: изм.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: превратить в камень, сделать твёрдым как камень
+-lex_rule
+ -search
+  stem: ичиём.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: уменьшить, убавить, сократить
+-lex_rule
+ -search
+  stem: ишк.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: щипать
+-lex_rule
+ -search
+  stem: йыга.
+  gramm: V,.*
+  gloss: .*PASS-CAUS.*
+ -add
+  trans_ru2: попросить постучаться
+-lex_rule
+ -search
+  stem: йырй.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: 1. пощипать траву 2. перен.поссориться, ссориться
+-lex_rule
+ -search
+  stem: йыром.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: 1. завести 2. перен. ввести в заблуждение
+-lex_rule
+ -search
+  stem: калом.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: довести до изнеможения
+-lex_rule
+ -search
+  stem: капчиём.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: 1. облегчить, сделать лёгким 2. перен. опохмеляться
+-lex_rule
+ -search
+  stem: кар.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: 1.сделать, делать 
+-lex_rule
+ -search
+  stem: катьтэмм.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: обессилить, ослабить, изнурить, измучить
+-lex_rule
+ -search
+  stem: кел.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: провожать, быть поезжанином, провожатым
+-lex_rule
+ -search
+  stem: кемск.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: принижать, унижать, умолять
+-lex_rule
+ -search
+  stem: кенж.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: 1. зажечь, поджечь 2. прикурить, закурить
+-lex_rule
+ -search
+  stem: кеньырӟ.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: превратить в крупу
+-lex_rule
+ -search
+  stem: кес.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: воскликнуть
+-lex_rule
+ -search
+  stem: кизерм.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: разжидить, разжижать, разбавить, разбавлять
+-lex_rule
+ -search
+  stem: киз.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: быть посеянным, сеяться, высеяться, высеваться
+-lex_rule
+ -search
+  stem: кизьн.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: вызвать чиханье, кизьнытъя чихается
+-lex_rule
+ -search
+  stem: корм.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: царапнуться
+-lex_rule
+ -search
+  stem: котм.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: промочить, замочить
+-lex_rule
+ -search
+  stem: куай.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: откормить, поставить на откорм
+-lex_rule
+ -search
+  stem: куалд.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: отколоть, расколоть, отщепить
+-lex_rule
+ -search
+  stem: куанерм.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: довести до обнищания, довести до бедности
+-lex_rule
+ -search
+  stem: кудӟ.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: напоить допьяна, довести до опьянения
+-lex_rule
+ -search
+  stem: кужект.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: жечь, чувствовать жжение
+-lex_rule
+ -search
+  stem: кузём.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: удлинить, удлинять, сделать длинным, растянуть
+-lex_rule
+ -search
+  stem: ку.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: заниматься ткачеством
+-lex_rule
+ -search
+  stem: кулэсм.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: 1. убавить, отбавить 2. снизить, понизить
+-lex_rule
+ -search
+  stem: курект.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: мучить, причинять боль
+-lex_rule
+ -search
+  stem: кур.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: 1. отпроситься, отпрашиваться 2. проситься 3. помянуть
+-lex_rule
+ -search
+  stem: курм.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: загрязнить, запачкать, испачкать
+-lex_rule
+ -search
+  stem: куртк.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: встряхнуться, отряхнуться
+-lex_rule
+ -search
+  stem: куртч.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: вцепиться зубами
+-lex_rule
+ -search
+  stem: кутск.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: возбудитель
+-lex_rule
+ -search
+  stem: куш.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: 1. присоединиться, примкнуть 2. пю., пожениться, сойтись
+-lex_rule
+ -search
+  stem: кыжм.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: загрязнить; перен. запустить
+-lex_rule
+ -search
+  stem: кылд.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: образовать, создать, учредить, основать
+-lex_rule
+ -search
+  stem: кыл.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: раздеться, раздеваться, разуться, разуваться
+-lex_rule
+ -search
+  stem: кын.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: закрыться, закрываться, сомкнуться, смыкаться
+-lex_rule
+ -search
+  stem: кынм.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: 1. заморозить 2. отморозить
+-lex_rule
+ -search
+  stem: кыр.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: 1. прорваться, размыться 2. распороться 3. бороздиться
+-lex_rule
+ -search
+  stem: кырм.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: ухватиться, уцепиться, вцепиться
+-lex_rule
+ -search
+  stem: кырсект.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: грязнить, загрязнить, засорять, пачкать
+-lex_rule
+ -search
+  stem: кырсьм.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: загрязнить, запылить, покрыть пылью
+-lex_rule
+ -search
+  stem: кырсём.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: загрязнить, грязнить
+-lex_rule
+ -search
+  stem: кырыжом.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: 1. искривить, покосить 2. перен. исказить
+-lex_rule
+ -search
+  stem: кыск.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: 1. тянуться, волочиться 2. выдёргиваться 
+-lex_rule
+ -search
+  stem: кытк.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: 1. запрячься, запрягаться 2. перен. взяться, браться
+-lex_rule
+ -search
+  stem: кычом.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: 1. довести до одичания, дать одичать 2. перен. напугать, сделать пугливым
+-lex_rule
+ -search
+  stem: кӧсм.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: сушить
+-lex_rule
+ -search
+  stem: кӧттэмм.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: расстроить, огорчить, испортить настроение
+-lex_rule
+ -search
+  stem: кӧшом.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: испортить на вкус, сделать невкусным
+-lex_rule
+ -search
+  stem: лазегомыт.
+  gramm: V,.*
+  gloss: .*CAUS-ITER.*
+ -add
+  trans_ru2: обмелять, делать мелководным
+-lex_rule
+ -search
+  stem: лапегом.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: понизить, снизить, сделать низким
+-lex_rule
+ -search
+  stem: лапком.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: 1. выровнять, подровнять 2. прибить 3. успокоить
+-lex_rule
+ -search
+  stem: леком.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: разозлить, рассердить, озлобить, вызвать гнев
+-lex_rule
+ -search
+  stem: лем.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: 1. приклеиться, склеиться 2. перен. пристать, привязаться 3. совокупиться
+-lex_rule
+ -search
+  stem: лип.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: 1. заниматься кровельным делом, ставить крышу 2. крыться кровлей 
+-lex_rule
+ -search
+  stem: ломд.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: отбить, отломить, отковырнуть
+-lex_rule
+ -search
+  stem: лудм.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: довести до дикости
+-lex_rule
+ -search
+  stem: лулшугом.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: 1. довести до одышки 2. перен. побеспокоить, беспокоить, заставить заботиться
+-lex_rule
+ -search
+  stem: лулӟ.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: вздохнуть, вдохнуть и выдохнуть, перевести дыхание
+-lex_rule
+ -search
+  stem: лусй.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: 1. тесать, обтёсывать 2. страд. тесаться, обтёсываться 
+-lex_rule
+ -search
+  stem: лыдӟ.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: 1. читать, заниматься чтением 2. страд. читаться 3. считать
+-lex_rule
+ -search
+  stem: льӧлём.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: 1. подрумянить 2. перен. вогнать в краску
+-lex_rule
+ -search
+  stem: лэчытом.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: 1. заточить, сделать острым 2. перен. обострить
+-lex_rule
+ -search
+  stem: люк.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: 1. делиться, разделиться 2. делиться, разделиться 3. разводиться
+-lex_rule
+ -search
+  stem: лябом.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: ослабить, обессилить, расслабить
+-lex_rule
+ -search
+  stem: лябӟ.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: ослабить, обессилить, расслабить
+-lex_rule
+ -search
+  stem: ляк.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: 1. приклеиться, приклеиваться 
+-lex_rule
+ -search
+  stem: лёга.
+  gramm: V,.*
+  gloss: .*PASS-CAUS.*
+ -add
+  trans_ru2: ходить, передвигаться
+-lex_rule
+ -search
+  stem: лёг.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: 1. наступить, наступать на что-л., ступить, ступать 2.протоптаться
+-lex_rule
+ -search
+  stem: лӧпк.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: воодушевить,поднять,приподнять польстить, очень обрадовать, развязывать
+-lex_rule
+ -search
+  stem: мад.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: 1. рассказывать 2. загадывать загадки 3. петь
+-lex_rule
+ -search
+  stem: мад.
+  gramm: V,.*
+  gloss: .*PASS-CAUS.*
+ -add
+  trans_ru2: 1. попросить рассказать 2. попросить загадать загадку 
+-lex_rule
+ -search
+  stem: мажса.
+  gramm: V,.*
+  gloss: .*PASS-CAUS.*
+ -add
+  trans_ru2: попросить грести, сгрести
+-lex_rule
+ -search
+  stem: макта.
+  gramm: V,.*
+  gloss: .*PASS-CAUS.*
+ -add
+  trans_ru2: 1. дать хвалиться, дать хвастаться 2. дать насмехаться
+-lex_rule
+ -search
+  stem: мамыкӟ.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: пушить, распушить
+-lex_rule
+ -search
+  stem: матэкт.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: 1. приближать что-либо к чему-либо 2. перен. ускорять 
+-lex_rule
+ -search
+  stem: маялӟ.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: 1. превратить в гущу 2. заквасить
+-lex_rule
+ -search
+  stem: мертт.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: дать садить, сажать, посадить
+-lex_rule
+ -search
+  stem: мертч.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: 1. вонзиться, вонзаться 2. перен. пристать, приставать
+-lex_rule
+ -search
+  stem: мертч.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: вонзить, всадить, воткнуть, занозить
+-lex_rule
+ -search
+  stem: миськ.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: 1. дать мыть 2. дать стирать
+-lex_rule
+ -search
+  stem: могӟ.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: 1. задержать, приостановить 2. затормозить
+-lex_rule
+ -search
+  stem: мозм.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: 1. освободить, избавить 2. отпустить, спустить
+-lex_rule
+ -search
+  stem: мултэсм.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: сделать лишнее
+-lex_rule
+ -search
+  stem: муром.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: углубить, углублять, сделать глубоким
+-lex_rule
+ -search
+  stem: мускытом.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: сделать влажным
+-lex_rule
+ -search
+  stem: мыжг.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: дать ударить кулаком
+-lex_rule
+ -search
+  stem: мырком.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: 1. затупить, притупить 2. отрубить верхушку
+-lex_rule
+ -search
+  stem: мырӟ.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: столкнуться, натолкнуться, удариться, наткнуться
+-lex_rule
+ -search
+  stem: мыч.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: 1. высунуться, высовываться 2. выдаться, выдаваться 3. сгрести
+-lex_rule
+ -search
+  stem: мӧйым.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: состарить, старить
+-lex_rule
+ -search
+  stem: напч.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: сгустить, сделать густым, густо замесить
+-lex_rule
+ -search
+  stem: напырӟ.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: сгустить, сделать густым, густо замесить
+-lex_rule
+ -search
+  stem: начарм.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: 1. обеднить, разорить 2.истощить, довести до истощения
+-lex_rule
+ -search
+  stem: небытом.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: размягчить, смягчить, сделать мягким
+-lex_rule
+ -search
+  stem: небӟ.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: 1. сделать мягким, размягчить 2. перен. сделать отходчивым
+-lex_rule
+ -search
+  stem: нельк.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: 1. мяться, смяться 2. толочься, растолочься 3. придавиться
+-lex_rule
+ -search
+  stem: нор.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: запачкаться, пачкаться, загрязниться, грязниться
+-lex_rule
+ -search
+  stem: ну.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: страд. 1. уноситься, увозиться 2. проводиться, вестись
+-lex_rule
+ -search
+  stem: ныжом.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: тупить, затупить, притупить
+-lex_rule
+ -search
+  stem: нырк.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: 1. мяться, помяться 2. месить, замесить 3. меситься
+-lex_rule
+ -search
+  stem: ньыльпыдъяськ.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: ставить на четвереньки
+-lex_rule
+ -search
+  stem: ньылӟ.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: ободрать, содрать
+-lex_rule
+ -search
+  stem: нюл.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: дать лизать
+-lex_rule
+ -search
+  stem: нюром.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: увлажнить, увлажнять
+-lex_rule
+ -search
+  stem: нярӟ.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: образоваться – о мозоли, содраться – о коже
+-lex_rule
+ -search
+  stem: нярӟ.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: натереть мозоль, содрать кожу
+-lex_rule
+ -search
+  stem: нӧдм.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: запачкать грязью, загрязнить
+-lex_rule
+ -search
+  stem: нӧзём.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: 1. сделать упругим 2. сделать влажным
+-lex_rule
+ -search
+  stem: ортч.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: провести, проводить
+-lex_rule
+ -search
+  stem: оск.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: довериться, доверяться, понадеяться, надеяться
+-lex_rule
+ -search
+  stem: оск.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: убедить, уверить, заверить
+-lex_rule
+ -search
+  stem: ош.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: страд. 1. вывешиваться, развешиваться 2. повеситься, вешаться
+-lex_rule
+ -search
+  stem: пазьг.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: 1. расплескаться, разбрызгаться 2. рассыпаться 
+-lex_rule
+ -search
+  stem: пайм.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: удивить, изумить, поразить
+-lex_rule
+ -search
+  stem: палд.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: 1. отколоть 2. искусственно роить
+-lex_rule
+ -search
+  stem: палькк.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: 1. выплеснуться, разлиться 2. разбиться вдребезги, разрушиться
+-lex_rule
+ -search
+  stem: пальм.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: ослепить, ослеплять
+-lex_rule
+ -search
+  stem: пар.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: 1. преть, упреть 2. париться
+-lex_rule
+ -search
+  stem: паськытом.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: расширить, сделать более широким
+-lex_rule
+ -search
+  stem: пачылм.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: 1. переполнить, налить до краёв 2. перен. порадовать
+-lex_rule
+ -search
+  stem: пегӟ.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: 1. организовать побег, дать возможность убежать 2. дать возможность скрыться
+-lex_rule
+ -search
+  stem: пезьг.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: 1. спустить пружину 2. перен. дать отпор, разгромить
+-lex_rule
+ -search
+  stem: пезьд.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: 1. срывать, спускать 2. перен. давать отпор, громить
+-lex_rule
+ -search
+  stem: перелӟ.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: дать заплесневеть, довести до плесени
+-lex_rule
+ -search
+  stem: пересьм.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: постареть
+-lex_rule
+ -search
+  stem: пересьм.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: старить, состарить
+-lex_rule
+ -search
+  stem: пертч.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: развязаться, отвязаться, распутаться, расшнуроваться
+-lex_rule
+ -search
+  stem: пертч.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: дать возможность развязать
+-lex_rule
+ -search
+  stem: пешт.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: 1. выбить, выколотить 2. перен. выгнать, выдворить
+-lex_rule
+ -search
+  stem: пил.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: 1. колоться, отколоться 2. лопнуть, лопаться
+-lex_rule
+ -search
+  stem: пиналм.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: омолодить, сделать молодым
+-lex_rule
+ -search
+  stem: пичиём.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: уменьшить, убавить
+-lex_rule
+ -search
+  stem: пишм.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: суметь сделать, осуществить, добиться
+-lex_rule
+ -search
+  stem: пор.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: 1. выкорчёвываться, выкорчеваться 2. заниматься выкорчёвыванием
+-lex_rule
+ -search
+  stem: пором.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: вскружить
+-lex_rule
+ -search
+  stem: пук.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: 1. заставить сидеть 2. дать отстояться
+-lex_rule
+ -search
+  stem: пульд.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: довести до пузыря, натереть мозоль
+-lex_rule
+ -search
+  stem: пум.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: текст. сновать, готовить основу для ткани
+-lex_rule
+ -search
+  stem: пуньырӟ.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: сплющивать, расплющить
+-lex_rule
+ -search
+  stem: пур.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: грызться, драться
+-lex_rule
+ -search
+  stem: пур.
+  gramm: V,.*
+  gloss: .*PASS-CAUS.*
+ -add
+  trans_ru2: стравить, втравить в драку
+-lex_rule
+ -search
+  stem: пуром.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: 1. раздуть, разжечь 2. перен. накалить, дать разгореться
+-lex_rule
+ -search
+  stem: пурысьм.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: 1. сделать серым 2. довести до седины
+-lex_rule
+ -search
+  stem: пур.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: натравить собаку
+-lex_rule
+ -search
+  stem: пурӟ.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: 1. поднять, поднимать 2. перен. выругать, дать взбучку
+-lex_rule
+ -search
+  stem: пусй.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: 1. отметиться, отмечаться 2. намечаться, определяться
+-lex_rule
+ -search
+  stem: пушй.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: дать разрастись побегам, поросли
+-lex_rule
+ -search
+  stem: пушт.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: 1. взорвать, подорвать 2. зажарить, поджарить 3. перен. довести до вспышки
+-lex_rule
+ -search
+  stem: пыдесъяськ.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: поставить на колени
+-lex_rule
+ -search
+  stem: пыж.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: заниматься выпечкой
+-lex_rule
+ -search
+  stem: пыздыр.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: раскрошиться, рассыпаться, разрушиться на мелкие части
+-lex_rule
+ -search
+  stem: пызй.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: 1. брызгаться 2. бить ключом 3. опрыскиваться
+-lex_rule
+ -search
+  stem: пык.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: 1. опереться, опираться 2. подпереться, подпираться 
+-lex_rule
+ -search
+  stem: пыкм.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: испортить, дать протухнуть
+-lex_rule
+ -search
+  stem: пыласьк.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: 1. выкупаться, искупаться 2. вымыться, помыться
+-lex_rule
+ -search
+  stem: пыльтч.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: выдавить, выдавливать
+-lex_rule
+ -search
+  stem: пыр.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: 1. включиться, включаться 2. заступиться, заступаться 3. подхалимничать
+-lex_rule
+ -search
+  stem: пычк.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: напрячься, напрягаться, силиться, тужиться
+-lex_rule
+ -search
+  stem: пӧрм.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: 1. суметь осуществить 2. преобразовать, реорганизовать
+-lex_rule
+ -search
+  stem: раньӟ.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: 1. замучить, обессилить 2. обидеть
+-lex_rule
+ -search
+  stem: сазм.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: запачкать, загрязнить
+-lex_rule
+ -search
+  stem: сазьяськ.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: 1. пробудить, разбудить 2. привести в сознание 3. отрезвить
+-lex_rule
+ -search
+  stem: сайк.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: 1. заниматься корчеванием, раскорчеваться 2. проясниться, проясниваться 
+-lex_rule
+ -search
+  stem: сайкытом.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: 1. сделать прозрачным 2. освежить, сделать свежим
+-lex_rule
+ -search
+  stem: сал.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: удариться, стукнуться, упасть плашмя, шлёпнуться
+-lex_rule
+ -search
+  stem: сапк.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: 1. ударить оземь, свалить 2. с.-х. перевернуть отвалом 3. перен. подмять
+-lex_rule
+ -search
+  stem: сапыльӟ.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: довести до ослизлости, сгноить
+-lex_rule
+ -search
+  stem: саркм.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: 1. сморщить, сморщинить 2. состарить 3. износить
+-lex_rule
+ -search
+  stem: секытом.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: 1. отяжелить, сделать тяжёлым 2. перен. испортить 
+-lex_rule
+ -search
+  stem: синмаськ.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: внушить симпатию
+-lex_rule
+ -search
+  stem: сисьм.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: сгноить
+-lex_rule
+ -search
+  stem: си.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: накормить, угостить
+-lex_rule
+ -search
+  stem: сог.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: 1. закопаться, закапываться 2. покрыться, покрываться 3. заделываться
+-lex_rule
+ -search
+  stem: сузм.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: 1. превратить в дресву 2. разбить вдребезги 3. сокрушить
+-lex_rule
+ -search
+  stem: сузьй.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: нанизываться
+-lex_rule
+ -search
+  stem: супырӟ.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: 1. разварить 2. обессилить
+-lex_rule
+ -search
+  stem: сурыкм.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: привести в негодность, истрепать, износить
+-lex_rule
+ -search
+  stem: сылм.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: 1. дать растечься / расплыться 2. разваривать 3. рассеивать
+-lex_rule
+ -search
+  stem: сырм.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: вызвать эхо, сотрясать, содрогать
+-lex_rule
+ -search
+  stem: сырымӟ.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: ослабить, опьянить
+-lex_rule
+ -search
+  stem: сьӧдм.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: загрязнить, запачкать
+-lex_rule
+ -search
+  stem: сэзём.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: оживить, приободрить
+-lex_rule
+ -search
+  stem: сюбегом.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: сузить, сделать узким
+-lex_rule
+ -search
+  stem: сялӟ.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: выплюнуть, сплюнуть, плюнуть
+-lex_rule
+ -search
+  stem: сӥз.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: 1. быть обещанным, обещаться 2. посвящаться
+-lex_rule
+ -search
+  stem: сӧр.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: 1. разбиться, сломаться 2. перен. портиться, избаловаться 3. изуродоваться
+-lex_rule
+ -search
+  stem: тазам.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: 1. сделать здоровым, вылечить 2. улучшить, сделать лучше
+-lex_rule
+ -search
+  stem: тодматск.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: знакомить, познакомить, ознакомить
+-lex_rule
+ -search
+  stem: тод.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: 1. дать знать, уведомить 2. проповедовать
+-lex_rule
+ -search
+  stem: толй.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: дать зимовать, оставить на зимовку
+-lex_rule
+ -search
+  stem: торд.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: 1. взбучить 2. вспучить 3. перен. напоить допьяна
+-lex_rule
+ -search
+  stem: тросом.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: умножить, умножать, увеличить, увеличивать
+-lex_rule
+ -search
+  stem: туг.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: 1. биться, взбиваться 2. заниматься шерстобитием
+-lex_rule
+ -search
+  stem: тузонм.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: 1) превратить в пыль 2) поднять пыль
+-lex_rule
+ -search
+  stem: тузонӟ.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: запылить, пылить, покрыть пылью
+-lex_rule
+ -search
+  stem: туй.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: 1. заниматься толчением 2. толочься, растолочься
+-lex_rule
+ -search
+  stem: туй.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: дать толочь, потолочь
+-lex_rule
+ -search
+  stem: тулегӟ.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: покрыть слизью, сделать слизистым
+-lex_rule
+ -search
+  stem: тульыресм.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: сделать слизистым
+-lex_rule
+ -search
+  stem: тульӟ.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: намозолить, содрать кожу
+-lex_rule
+ -search
+  stem: тунгона.
+  gramm: V,.*
+  gloss: .*PASS-CAUS.*
+ -add
+  trans_ru2: велеть закрыться на замок
+-lex_rule
+ -search
+  stem: тыг.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: столкнуться, задержаться, застрять, сгрудиться
+-lex_rule
+ -search
+  stem: тым.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: запрудиться
+-lex_rule
+ -search
+  stem: тыр.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: 1. грузить, погрузить 2. выплатить, выплачиваться
+-lex_rule
+ -search
+  stem: тыр.
+  gramm: V,.*
+  gloss: .*PASS-CAUS.*
+ -add
+  trans_ru2: вынудить уплатить
+-lex_rule
+ -search
+  stem: тырм.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: 1. заполнить, наполнить 2. выполнить, завершить 3. наполнить
+-lex_rule
+ -search
+  stem: тырттэмм.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: освободить, опорожнить, опустошить, опростать
+-lex_rule
+ -search
+  stem: тэр.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: уместить
+-lex_rule
+ -search
+  stem: тэч.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: приколоться, быть приколотым
+-lex_rule
+ -search
+  stem: тӧлӟ.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: 1. рассеять, развеять 2. проветрить, выветрить 
+-lex_rule
+ -search
+  stem: удалт.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: 1. вырастить хороший урожай, сделать урожайным 2. перен. сделать удачным
+-lex_rule
+ -search
+  stem: узырм.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: обогатить, обогащать, сделать богатым
+-lex_rule
+ -search
+  stem: уйбырт.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: гипнотизировать
+-lex_rule
+ -search
+  stem: уй.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: случаться
+-lex_rule
+ -search
+  stem: улӟ.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: 1. раздуть, разжечь 2. прям., перен. оживить, воскресить
+-lex_rule
+ -search
+  stem: ур.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: 1. оторваться, отрезаться 2. отпилиться 3. внезапно прерваться
+-lex_rule
+ -search
+  stem: урм.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: привести в бешенство, довести до бешенства
+-lex_rule
+ -search
+  stem: уродм.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: 1. изнурить, истощить 2. испортить, ухудшить 3. искалечить
+-lex_rule
+ -search
+  stem: уртч.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: дать сбежать, убежать, литься через край
+-lex_rule
+ -search
+  stem: урӟект.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: довести до нагноения, загноить, нагноить
+-lex_rule
+ -search
+  stem: урӟ.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: доводить до нагноения, загноить, нагноить
+-lex_rule
+ -search
+  stem: усыкм.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: 1. дать угореть 2. перен. усыпить
+-lex_rule
+ -search
+  stem: усьт.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: дать открыть
+-lex_rule
+ -search
+  stem: ут.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: 1. беречься, сберегаться 2. защищаться, охраняться 3. блюстись
+-lex_rule
+ -search
+  stem: ут.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: вызвать лай
+-lex_rule
+ -search
+  stem: учк.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: всмотреться
+-lex_rule
+ -search
+  stem: учк.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: дать посмотреть
+-lex_rule
+ -search
+  stem: чабк.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: разводить руками
+-lex_rule
+ -search
+  stem: чаг.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: 1. донести, доносить 2. пожаловаться, жаловаться
+-lex_rule
+ -search
+  stem: чальд.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: расколоть, отколоть
+-lex_rule
+ -search
+  stem: чальтч.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: 1. дать отскочить, дать отскочить рикошетом 2. перен. отстранить
+-lex_rule
+ -search
+  stem: чандырск.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: 1. скрючить, скорчить 2. согнуть
+-lex_rule
+ -search
+  stem: черс.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: дать спрясть
+-lex_rule
+ -search
+  stem: чиг.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: 1. сломаться, разломаться 2. перен. отчаяться
+-lex_rule
+ -search
+  stem: чоньд.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: 1. умертвить 2. дать замёрзнуть 3. выпрямить
+-lex_rule
+ -search
+  stem: чук.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: метать, кидать жребий
+-lex_rule
+ -search
+  stem: чурытом.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: 1. сделать твёрдым 2. перен. доводить до скупости
+-lex_rule
+ -search
+  stem: чусом.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: утихомирить, успокоить
+-lex_rule
+ -search
+  stem: чызй.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: брызнуть
+-lex_rule
+ -search
+  stem: шакырм.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: сделать шершавым, шершавить
+-lex_rule
+ -search
+  stem: шедьт.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: дать возможность найти
+-lex_rule
+ -search
+  stem: шер.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: точить на точиле, заниматься точкой
+-lex_rule
+ -search
+  stem: шером.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: проредить
+-lex_rule
+ -search
+  stem: шокч.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: вздохнуть
+-lex_rule
+ -search
+  stem: шонерм.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: 1. выпрямить, распрямить 2. поправить, наставить на правильный путь
+-lex_rule
+ -search
+  stem: шор.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: резаться
+-lex_rule
+ -search
+  stem: шор.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: дать отрезать хлеб
+-lex_rule
+ -search
+  stem: шорӟ.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: 1. виться в воздухе, парить 2. просеяться, провеяться
+-lex_rule
+ -search
+  stem: шугекъя.
+  gramm: V,.*
+  gloss: .*PASS-CAUS.*
+ -add
+  trans_ru2: побеспокоить, беспокоить, потревожить, тревожить
+-lex_rule
+ -search
+  stem: шугъяськ.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: причинить беспокойство
+-lex_rule
+ -search
+  stem: шузим.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: 1. сделать глупым 2. свести с ума, довести до безумия
+-lex_rule
+ -search
+  stem: шукк.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: 1. удариться, ударяться ушибиться 2. сбиваться 3. раздаваться
+-lex_rule
+ -search
+  stem: шукырск.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: 1. возбудить, взбудоражить 2. вспенить
+-lex_rule
+ -search
+  stem: шукыяськ.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: вспенить
+-lex_rule
+ -search
+  stem: шурд.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: напугать, застращать
+-lex_rule
+ -search
+  stem: шут.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: дать заквасить
+-lex_rule
+ -search
+  stem: шутэтск.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: дать отдохнуть
+-lex_rule
+ -search
+  stem: шуэрск.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: встревожиться, всполошиться
+-lex_rule
+ -search
+  stem: шырӟ.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: подрезаться, срезываться, срываться
+-lex_rule
+ -search
+  stem: шӧд.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: предупредить, дать знать
+-lex_rule
+ -search
+  stem: шӧтэмм.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: обезобразить, сделать некрасивым
+-lex_rule
+ -search
+  stem: ыб.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: 1. застрелиться, стреляться 2. выстрелить
+-lex_rule
+ -search
+  stem: ыб.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: 1. дать выстрелить 2. дать застрелить
+-lex_rule
+ -search
+  stem: эгырӟ.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: обуглить, превратить в уголь
+-lex_rule
+ -search
+  stem: эскер.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: остерегаться, опасаться, осматриваться, рассматриваться
+-lex_rule
+ -search
+  stem: югд.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: 1. осветить, светить 2. перен. просветить, просвещать
+-lex_rule
+ -search
+  stem: юзгом.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: охладить
+-lex_rule
+ -search
+  stem: юмалӟ.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: 1. сделать пресным 2.положить закваску
+-lex_rule
+ -search
+  stem: юнм.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: сделать твёрдым
+-lex_rule
+ -search
+  stem: юрд.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: понуд. вызвать отвращение
+-lex_rule
+ -search
+  stem: юрм.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: просмолить, пропитать смолой
+-lex_rule
+ -search
+  stem: юск.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: 1. распрячься, распрягаться 2. перен. пасть духом
+-lex_rule
+ -search
+  stem: юск.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: дать выпрячь
+-lex_rule
+ -search
+  stem: яраӟект.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: довести до струпьев
+-lex_rule
+ -search
+  stem: ятвылт.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: понуд. дать понять
+-lex_rule
+ -search
+  stem: ёр.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: 1. втиснуться, втискиваться 2.пристать, приставать
+-lex_rule
+ -search
+  stem: ӝогом.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: 1. поторопить 2. убыстрить, ускорить
+-lex_rule
+ -search
+  stem: ӝожом.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: огорчить, опечалить
+-lex_rule
+ -search
+  stem: ӝожтӥськ.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: обидеть, обижать, огорчить, огорчать
+-lex_rule
+ -search
+  stem: ӝомӟ.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: 1. зарумянить, подрумянить 2.разжечь, раздуть
+-lex_rule
+ -search
+  stem: ӟарытом.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: сделать бледным, бесцветным, обесцветить
+-lex_rule
+ -search
+  stem: ӟез.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: отпороться, распороться
+-lex_rule
+ -search
+  stem: ӟигом.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: 1. спутать, запутать 2.туго завязать узлом
+-lex_rule
+ -search
+  stem: ӟуд.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: 1. поставить в затруднительное положение 2. удивить
+-lex_rule
+ -search
+  stem: ӟучом.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: русифицировать
+-lex_rule
+ -search
+  stem: ӟызым.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: довести до истощения
+-lex_rule
+ -search
+  stem: ӧвӧлм.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: 1. разорить, опустошить 2. перен. умертвить
+-lex_rule
+ -search
+  stem: ӧжытом.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: 1. уменьшить, уменьшать 2. убавить, убавлять
+-lex_rule
+ -search
+  stem: ӧск.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: рвать, тошнить
+-lex_rule
+ -search
+  stem: ӵога.
+  gramm: V,.*
+  gloss: .*PASS-CAUS.*
+ -add
+  trans_ru2: дать закрыться
+-lex_rule
+ -search
+  stem: ӵог.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: 1. вылупиться, выклеваться 2. отрубиться, отсечься
+-lex_rule
+ -search
+  stem: ӵуж.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: 1. местись, быть подметённым 2. заняться подметанием
+-lex_rule
+ -search
+  stem: ӵуж.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: дать подмести
+-lex_rule
+ -search
+  stem: ӵуп.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: 1. рубить сруб 2. делать зарубки
+-lex_rule
+ -search
+  stem: ӵуш.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: 1. стереться 2. вытереться, вытираться
+-lex_rule
+ -search
+  stem: ӵыжект.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: вогнать в краску
+-lex_rule
+ -search
+  stem: ӵыкм.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: запустить, захламить
+-lex_rule
+ -search
+  stem: ӵынд.
+  gramm: V,.*
+  gloss: .*CAUS.*
+ -add
+  trans_ru2: дымить, задымить
