@@ -5063,7 +5063,7 @@
  -search
   stem: тодма.
   gramm: V,.*
-  gloss: .*PASS-CAUS.*
+  gloss: .*ITER-CAUS.*
  -add
   trans_ru2: знакомить
 -lex_rule
@@ -5637,7 +5637,7 @@
  -search
   stem: абдра.
   gramm: V,.*
-  gloss: .*PASS-CAUS.*
+  gloss: .*ITER-CAUS.*
  -add
   trans_ru2: удивлять, изумлять, поражать, восхищать
 -lex_rule
@@ -19028,7 +19028,7 @@
  -search
   stem: адӟ.
   gramm: V,.*
-  gloss: .*PASS-CAUS.*
+  gloss: .*ITER-CAUS.*
  -add
   trans_ru2: 1. дать возможность увидеться, встретиться 2. сделать видимым, показать
 -lex_rule
@@ -19112,7 +19112,7 @@
  -search
   stem: бурдъя.
   gramm: V,.*
-  gloss: .*PASS-CAUS.*
+  gloss: .*ITER-CAUS.*
  -add
   trans_ru2: окрылять, воодушевлять
 -lex_rule
@@ -19175,7 +19175,7 @@
  -search
   stem: вадьса.
   gramm: V,.*
-  gloss: .*PASS-CAUS.*
+  gloss: .*ITER-CAUS.*
  -add
   trans_ru2: специально приурочить
 -lex_rule
@@ -19203,7 +19203,7 @@
  -search
   stem: валчея.
   gramm: V,.*
-  gloss: .*PASS-CAUS.*
+  gloss: .*ITER-CAUS.*
  -add
   trans_ru2: 1. соединить, свести 2. спарить 3. женить
 -lex_rule
@@ -19238,7 +19238,7 @@
  -search
   stem: визьма.
   gramm: V,.*
-  gloss: .*PASS-CAUS.*
+  gloss: .*ITER-CAUS.*
  -add
   trans_ru2: образумить, надоумить, вразумить, научить уму-разуму, проучить
 -lex_rule
@@ -19644,7 +19644,7 @@
  -search
   stem: йыга.
   gramm: V,.*
-  gloss: .*PASS-CAUS.*
+  gloss: .*ITER-CAUS.*
  -add
   trans_ru2: попросить постучаться
 -lex_rule
@@ -20113,7 +20113,7 @@
  -search
   stem: лёга.
   gramm: V,.*
-  gloss: .*PASS-CAUS.*
+  gloss: .*ITER-CAUS.*
  -add
   trans_ru2: ходить, передвигаться
 -lex_rule
@@ -20141,21 +20141,21 @@
  -search
   stem: мад.
   gramm: V,.*
-  gloss: .*PASS-CAUS.*
+  gloss: .*ITER-CAUS.*
  -add
   trans_ru2: 1. попросить рассказать 2. попросить загадать загадку 
 -lex_rule
  -search
   stem: мажса.
   gramm: V,.*
-  gloss: .*PASS-CAUS.*
+  gloss: .*ITER-CAUS.*
  -add
   trans_ru2: попросить грести, сгрести
 -lex_rule
  -search
   stem: макта.
   gramm: V,.*
-  gloss: .*PASS-CAUS.*
+  gloss: .*ITER-CAUS.*
  -add
   trans_ru2: 1. дать хвалиться, дать хвастаться 2. дать насмехаться
 -lex_rule
@@ -20631,7 +20631,7 @@
  -search
   stem: пур.
   gramm: V,.*
-  gloss: .*PASS-CAUS.*
+  gloss: .*ITER-CAUS.*
  -add
   trans_ru2: стравить, втравить в драку
 -lex_rule
@@ -21051,7 +21051,7 @@
  -search
   stem: тунгона.
   gramm: V,.*
-  gloss: .*PASS-CAUS.*
+  gloss: .*ITER-CAUS.*
  -add
   trans_ru2: велеть закрыться на замок
 -lex_rule
@@ -21079,7 +21079,7 @@
  -search
   stem: тыр.
   gramm: V,.*
-  gloss: .*PASS-CAUS.*
+  gloss: .*ITER-CAUS.*
  -add
   trans_ru2: вынудить уплатить
 -lex_rule
@@ -21387,7 +21387,7 @@
  -search
   stem: шугекъя.
   gramm: V,.*
-  gloss: .*PASS-CAUS.*
+  gloss: .*ITER-CAUS.*
  -add
   trans_ru2: побеспокоить, беспокоить, потревожить, тревожить
 -lex_rule
@@ -21674,7 +21674,7 @@
  -search
   stem: ӵога.
   gramm: V,.*
-  gloss: .*PASS-CAUS.*
+  gloss: .*ITER-CAUS.*
  -add
   trans_ru2: дать закрыться
 -lex_rule
@@ -21733,3 +21733,171 @@
   gloss: .*CAUS.*
  -add
   trans_ru2: дымить, задымить
+-lex_rule
+ -search
+  stem: бича.
+  gramm: V,.*
+  gloss: .*CAUS-ITER.*
+ -add
+  trans_ru2: от бичатыны
+-lex_rule
+ -search
+  stem: буйга.
+  gramm: V,.*
+  gloss: .*CAUS-PASS.*
+ -add
+  trans_ru2: 1. успокоиться, утешиться 2. дерем, стихнуть
+-lex_rule
+ -search
+  stem: вала.
+  gramm: V,.*
+  gloss: .*CAUS-PASS.*
+ -add
+  trans_ru2: 1. догадаться, сообразить 2. опомниться, одуматься
+-lex_rule
+ -search
+  stem: визьма.
+  gramm: V,.*
+  gloss: .*CAUS-PASS.*
+ -add
+  trans_ru2: учиться
+-lex_rule
+ -search
+  stem: жума.
+  gramm: V,.*
+  gloss: .*CAUS-PASS.*
+ -add
+  trans_ru2: быть печальным, грустным, жалким
+-lex_rule
+ -search
+  stem: зола.
+  gramm: V,.*
+  gloss: .*CAUS-ITER.*
+ -add
+  trans_ru2: 1. натягивать 2. усиливать
+-lex_rule
+ -search
+  stem: зым.
+  gramm: V,.*
+  gloss: .*CAUS-ITER.*
+ -add
+  trans_ru2: 1. погружать 2. топить
+-lex_rule
+ -search
+  stem: йӧна.
+  gramm: V,.*
+  gloss: .*CAUS-PASS.*
+ -add
+  trans_ru2: 1. вылечиться, лечиться 2. перен. исправиться, исправляться, наладиться
+-lex_rule
+ -search
+  stem: келя.
+  gramm: V,.*
+  gloss: .*CAUS-ITER.*
+ -add
+  trans_ru2: от келятыны
+-lex_rule
+ -search
+  stem: кужмоя.
+  gramm: V,.*
+  gloss: .*CAUS-PASS.*
+ -add
+  trans_ru2: усиливаться, укрепляться, упрочиваться
+-lex_rule
+ -search
+  stem: ку.
+  gramm: V,.*
+  gloss: .*CAUS-PASS.*
+ -add
+  trans_ru2: 1. начать, начинать 2. взяться, браться 3. прилипнуть
+-lex_rule
+ -search
+  stem: кышка.
+  gramm: V,.*
+  gloss: .*CAUS-PASS.*
+ -add
+  trans_ru2: испугаться, шарахнуться, помчаться от испуга
+-lex_rule
+ -search
+  stem: мога.
+  gramm: V,.*
+  gloss: .*CAUS-PASS.*
+ -add
+  trans_ru2: задержаться, прерваться, замедлиться, сделать остановку
+-lex_rule
+ -search
+  stem: су.
+  gramm: V,.*
+  gloss: .*CAUS-PASS.*
+ -add
+  trans_ru2: сгореть, гореть, обгореть
+-lex_rule
+ -search
+  stem: тодма.
+  gramm: V,.*
+  gloss: .*CAUS-PASS.*
+ -add
+  trans_ru2: познакомиться, знакомиться, завязать знакомство, ознакомиться
+-lex_rule
+ -search
+  stem: турна.
+  gramm: V,.*
+  gloss: .*CAUS-ITER.*
+ -add
+  trans_ru2: понуд. давать косить, заставлять косить
+-lex_rule
+ -search
+  stem: тыг.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: св. столкнуться
+-lex_rule
+ -search
+  stem: чида.
+  gramm: V,.*
+  gloss: .*CAUS-PASS.*
+ -add
+  trans_ru2: воздержаться, сдержаться, удержаться, вытерпеть
+-lex_rule
+ -search
+  stem: юнма.
+  gramm: V,.*
+  gloss: .*CAUS-PASS.*
+ -add
+  trans_ru2: 1. укрепиться, укрепляться 2. поправиться, поправляться
+-lex_rule
+ -search
+  stem: ял.
+  gramm: V,.*
+  gloss: .*PASS.*
+ -add
+  trans_ru2: заявиться
+-lex_rule
+ -search
+  stem: ёзна.
+  gramm: V,.*
+  gloss: .*CAUS-ITER.*
+ -add
+  trans_ru2: многокр от ёзнатыны
+-lex_rule
+ -search
+  stem: ӝега.
+  gramm: V,.*
+  gloss: .*CAUS-PASS.*
+ -add
+  trans_ru2: задержаться, задерживаться
+-lex_rule
+ -search
+  stem: ӝуа.
+  gramm: V,.*
+  gloss: .*CAUS-PASS.*
+ -add
+  trans_ru2: 1. зажечься, зажигаться 2. перен. загореться, загораться
+-lex_rule
+ -search
+  stem: ӵоша.
+  gramm: V,.*
+  gloss: .*CAUS-PASS.*
+ -add
+  trans_ru2: соревноваться, состязаться, участвовать в соревновании

@@ -1392,13 +1392,6 @@
  trans_ru: 1. щекотать 2. першить
 
 -lexeme
- lex: бичатылыны
- stem: бичатыл.
- gramm: V,I
- paradigm: connect_verbs-I
- trans_ru: от бичатыны
-
--lexeme
  lex: бичатӥськыны
  stem: бичатӥськ.
  gramm: V,I
@@ -1621,13 +1614,6 @@
  gramm: V,II
  paradigm: connect_verbs-II
  trans_ru: 1. успокоиться, успокаиваться 2. стихнуть, стихать
-
--lexeme
- lex: буйгатскыны
- stem: буйгатск.
- gramm: V,I
- paradigm: connect_verbs-I
- trans_ru: 1. успокоиться, утешиться 2. дерем, стихнуть
 
 -lexeme
  lex: буйгатъяны
@@ -2345,13 +2331,6 @@
  trans_ru: понять, понимать, осмыслить, осмысливать
 
 -lexeme
- lex: валатскыны
- stem: валатск.
- gramm: V,I
- paradigm: connect_verbs-I
- trans_ru: 1. догадаться, сообразить 2. опомниться, одуматься
-
--lexeme
  lex: валатытыны
  stem: валатыт.
  gramm: V,I
@@ -2834,13 +2813,6 @@
  gramm: V,II,tr
  paradigm: connect_verbs-II
  trans_ru: образумить, вразумить, поучить уму-разуму, проучить
-
--lexeme
- lex: визьматскыны
- stem: визьматск.
- gramm: V,I
- paradigm: connect_verbs-I
- trans_ru: учиться
 
 -lexeme
  lex: визьноданы
@@ -5944,13 +5916,6 @@
  trans_ru: ослабевать,терять силу
 
 -lexeme
- lex: жуматскыны
- stem: жуматск.
- gramm: V,I
- paradigm: connect_verbs-I
- trans_ru: быть печальным, грустным, жалким
-
--lexeme
  lex: жуммыны
  stem: жумм.
  gramm: V,I,intr
@@ -6112,13 +6077,6 @@
  trans_ru: 1. натянуться, натягиваться 2. усилиться, усиливаться
 
 -lexeme
- lex: золатылыны
- stem: золатыл.
- gramm: V,I
- paradigm: connect_verbs-I
- trans_ru: 1. натягивать 2. усиливать
-
--lexeme
  lex: золатӥськыны
  stem: золатӥськ.
  gramm: V,I
@@ -6271,13 +6229,6 @@
  gramm: V,II
  paradigm: connect_verbs-II
  trans_ru: 1. клевать 2. перен. дремать, клевать носом
-
--lexeme
- lex: зымтылыны
- stem: зымтыл.
- gramm: V,I
- paradigm: connect_verbs-I
- trans_ru: 1. погружать 2. топить
 
 -lexeme
  lex: зымъяны
@@ -7093,13 +7044,6 @@
  trans_ru: выздороветь 
 
 -lexeme
- lex: йӧнатскыны
- stem: йӧнатск.
- gramm: V,I
- paradigm: connect_verbs-I
- trans_ru: 1. вылечиться, лечиться 2. перен. исправиться, исправляться, наладиться
-
--lexeme
  lex: йӧндыртыны
  stem: йӧндырт.
  gramm: V,I
@@ -7812,13 +7756,6 @@
  gramm: V,I
  paradigm: connect_verbs-I
  trans_ru: проиграть и выиграть, проигрывать и выигрывать
-
--lexeme
- lex: келятылыны
- stem: келятыл.
- gramm: V,I
- paradigm: connect_verbs-I
- trans_ru: от келятыны
 
 -lexeme
  lex: кеманы
@@ -9338,13 +9275,6 @@
  gramm: V,II
  paradigm: connect_verbs-II
  trans_ru: 1. стать сильным 2. усилиться, усиливаться
-
--lexeme
- lex: кужмоятскыны
- stem: кужмоятск.
- gramm: V,I
- paradigm: connect_verbs-I
- trans_ru: усиливаться, укрепляться, упрочиваться
 
 -lexeme
  lex: кужмоятъяны
@@ -10948,13 +10878,6 @@
  gramm: V,I,intr,with_gen2
  paradigm: connect_verbs-I
  trans_ru: испугаться, бояться
-
--lexeme
- lex: кышкатскыны
- stem: кышкатск.
- gramm: V,I
- paradigm: connect_verbs-I
- trans_ru: испугаться, шарахнуться, помчаться от испуга
 
 -lexeme
  lex: кышкатъяны
@@ -12875,13 +12798,6 @@
  gramm: V,II,intr
  paradigm: connect_verbs-II
  trans_ru: 1. задержаться, сделать остановку 2.заикаться 
-
--lexeme
- lex: могатскыны
- stem: могатск.
- gramm: V,I
- paradigm: connect_verbs-I
- trans_ru: задержаться, прерваться, замедлиться, сделать остановку
 
 -lexeme
  lex: могатъяны
@@ -18505,13 +18421,6 @@
  trans_ru: мешать
 
 -lexeme
- lex: сутскыны
- stem: сутск.
- gramm: V,I
- paradigm: connect_verbs-I
- trans_ru: сгореть, гореть, обгореть
-
--lexeme
  lex: сутыны
  stem: сут.
  gramm: V,I,tr
@@ -19583,13 +19492,6 @@
  trans_ru: узнать, узнавать, опознать, опознавать
 
 -lexeme
- lex: тодматскыны
- stem: тодматск.
- gramm: V,I
- paradigm: connect_verbs-I
- trans_ru: познакомиться, знакомиться, завязать знакомство, ознакомиться
-
--lexeme
  lex: тодмостыны
  stem: тодмост.
  gramm: V,I
@@ -20059,13 +19961,6 @@
  trans_ru: косить
 
 -lexeme
- lex: турнатылыны
- stem: турнатыл.
- gramm: V,I
- paradigm: connect_verbs-I
- trans_ru: понуд. давать косить, заставлять косить
-
--lexeme
  lex: турттыны
  stem: туртт.
  gramm: V,I
@@ -20211,13 +20106,6 @@
  gramm: V,I,tr,with_instr
  paradigm: connect_verbs-I
  trans_ru: застрять, образовать затор, набегать друг на друга
-
--lexeme
- lex: тыгыськыны
- stem: тыгыськ.
- gramm: V,I
- paradigm: connect_verbs-I
- trans_ru: св. столкнуться
 
 -lexeme
  lex: тыдӟыны
@@ -22514,13 +22402,6 @@
  gramm: V,II,tr
  paradigm: connect_verbs-II
  trans_ru: вытерпеть, терпеть, вынести, выдержать
-
--lexeme
- lex: чидатскыны
- stem: чидатск.
- gramm: V,I
- paradigm: connect_verbs-I
- trans_ru: воздержаться, сдержаться, удержаться, вытерпеть
 
 -lexeme
  lex: чиедмыны
@@ -25848,13 +25729,6 @@
  trans_ru: затвердеть, стать твёрдым; прикрепиться
 
 -lexeme
- lex: юнматскыны
- stem: юнматск.
- gramm: V,I
- paradigm: connect_verbs-I
- trans_ru: 1. укрепиться, укрепляться 2. поправиться, поправляться
-
--lexeme
  lex: юнматъяны
  stem: юнматъя.
  gramm: V,II
@@ -26079,13 +25953,6 @@
  trans_ru: упрашивать, умолить, выпрашивать, кланяться
 
 -lexeme
- lex: ялыськыны
- stem: ялыськ.
- gramm: V,I
- paradigm: connect_verbs-I
- trans_ru: заявиться
-
--lexeme
  lex: ямкарыныны
  stem: ямкарын.
  gramm: V,I
@@ -26226,13 +26093,6 @@
  trans_ru: разбирать, рассматривать, анализировать
 
 -lexeme
- lex: ёзнатылыны
- stem: ёзнатыл.
- gramm: V,I
- paradigm: connect_verbs-I
- trans_ru: многокр от ёзнатыны
-
--lexeme
  lex: ёмыраны
  stem: ёмыра.
  gramm: V,II
@@ -26363,13 +26223,6 @@
  stem: ӝега.
  gramm: V,II
  paradigm: connect_verbs-II
- trans_ru: задержаться, задерживаться
-
--lexeme
- lex: ӝегатскыны
- stem: ӝегатск.
- gramm: V,I
- paradigm: connect_verbs-I
  trans_ru: задержаться, задерживаться
 
 -lexeme
@@ -26553,13 +26406,6 @@
  gramm: V,II,intr
  paradigm: connect_verbs-II
  trans_ru: 1. собрать мох 2. конопатить мохом, утеплять мохом 3. замшеть
-
--lexeme
- lex: ӝуатскыны
- stem: ӝуатск.
- gramm: V,I
- paradigm: connect_verbs-I
- trans_ru: 1. зажечься, зажигаться 2. перен. загореться, загораться
 
 -lexeme
  lex: ӝубйыны
@@ -27596,13 +27442,6 @@
  gramm: V,II,intr,with_instr
  paradigm: connect_verbs-II
  trans_ru: 1. поравняться, сравняться 2. оказаться вместе 3. оказаться вровень
-
--lexeme
- lex: ӵошатскыны
- stem: ӵошатск.
- gramm: V,I
- paradigm: connect_verbs-I
- trans_ru: соревноваться, состязаться, участвовать в соревновании
 
 -lexeme
  lex: ӵошатъяны
