@@ -1,4 +1,129 @@
-﻿
+﻿-lexeme
+ lex: вал
+ stem: вал.
+ gramm: V,pst
+ paradigm: Comparative
+ trans_ru: был, было
+
+-lexeme
+ lex: вылэм
+ stem: вылэм.
+ gramm: V,evid
+ paradigm: Comparative
+ trans_ru: был, было
+
+-lexeme
+ lex: вылӥллям
+ stem: вылӥллям.
+ gramm: V,evid,3,pl
+ paradigm: Comparative
+ trans_ru: был, было
+
+-lexeme
+ lex: вань
+ stem: вань.
+ gramm: V,prs
+ paradigm: Comparative
+ trans_ru: есть
+
+-lexeme
+ lex: уг
+ stem: уг.
+ gramm: V
+ paradigm: Comparative
+ trans_ru: не
+
+-lexeme
+ lex: уз
+ stem: уз.
+ gramm: V,fut,3
+ paradigm: Comparative
+ trans_ru: не
+
+-lexeme
+ lex: уд
+ stem: уд.
+ gramm: V,2
+ paradigm: Comparative
+ trans_ru: не
+
+-lexeme
+ lex: ум
+ stem: ум.
+ gramm: V,1,pl
+ paradigm: Comparative
+ trans_ru: не
+
+-lexeme
+ lex: ӧй
+ stem: ӧй.
+ gramm: V,pst,1,sg
+ paradigm: Comparative
+ trans_ru: не (1 л. ед. ч. прош. вр.)
+
+-lexeme
+ lex: ӧд
+ stem: ӧд.
+ gramm: V,pst,2
+ paradigm: Comparative
+ trans_ru: не (2 л. прош. вр.)
+
+-lexeme
+ lex: ӧз
+ stem: ӧз.
+ gramm: V,pst,3
+ paradigm: Comparative
+ trans_ru: не (3 л. прош. вр.)
+
+-lexeme
+ lex: ӧм
+ stem: ӧм.
+ gramm: V,pst,1,pl
+ paradigm: Comparative
+ trans_ru: не (1 л. мн. ч. прош. вр.)
+
+-lexeme
+ lex: эн
+ stem: эн.
+ gramm: V,2
+ paradigm: Comparative
+ trans_ru: не (повелит. накл.)
+
+-lexeme
+ lex: ӧвӧл
+ stem: ӧвӧлэн.
+ gramm: V,ins
+ paradigm: Comparative
+ trans_ru: не, нет
+
+-lexeme
+ lex: ӧвӧл
+ stem: ӧвӧллы.
+ gramm: V,dat
+ paradigm: Comparative
+ trans_ru: не, нет
+
+-lexeme
+ lex: ӧвӧл
+ stem: ӧвӧл.
+ gramm: V
+ paradigm: Comparative
+ trans_ru: не, нет
+
+-lexeme
+ lex: ӧйлась
+ stem: ӧйлась.
+ gramm: V
+ paradigm: Comparative
+ trans_ru: не получилось
+
+-lexeme
+ lex: луыны
+ stem: ло.
+ gramm: V,fut,3sg
+ paradigm: Noun-num-vowel
+ trans_ru: быть
+
 -lexeme
  lex: вае
  stem: вае.

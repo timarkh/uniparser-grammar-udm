@@ -1931,6 +1931,13 @@
  trans_ru: 1. ударить 2. сбить
 
 -lexeme
+ lex: быгатыны
+ stem: быгат.
+ gramm: V,I
+ paradigm: connect_verbs-I
+ trans_ru: мочь, уметь
+
+-lexeme
  lex: быгылляны
  stem: быгылля.
  gramm: V,II,tr,with_instr
@@ -12522,9 +12529,9 @@
 -lexeme
  lex: малпаны
  stem: малпа.
- gramm: V,II,intr
+ gramm: V,II,tr
  paradigm: connect_verbs-II
- trans_ru: 1. мыслить, подумать 2. мечтать, помечтать 3. сообразить
+ trans_ru: думать; мечтать
 
 -lexeme
  lex: мальдыны
@@ -13336,7 +13343,7 @@
  stem: мын.
  gramm: V,I,intr,with_el,with_ill,with_instr
  paradigm: connect_verbs-I
- trans_ru: 1. улыбаться, усмехаться 2.о лошади: покушаться укусить
+ trans_ru: идти
 
 -lexeme
  lex: мыныны-ветлыны
@@ -16192,7 +16199,7 @@
  stem: пук.
  gramm: V,I,intr,with_ill
  paradigm: connect_verbs-I
- trans_ru: 1. сидеть, посидеть 2. быть в заключении, сидеть  3. перен. гостить, погостить
+ trans_ru: сидеть
 
 -lexeme
  lex: пулсаськыны
@@ -16270,6 +16277,13 @@
  gramm: V,II
  paradigm: connect_verbs-II
  trans_ru: прям., перен. встречать, встретить, повстречать
+
+-lexeme
+ lex: пумиськыны
+ stem: пумиськы.
+ gramm: V,I,intr
+ paradigm: connect_verbs-I
+ trans_ru: встречаться
 
 -lexeme
  lex: пумъяны
@@ -17989,7 +18003,7 @@
 -lexeme
  lex: сиыны
  stem: си.
- gramm: V,I
+ gramm: V,I,tr,with_el
  paradigm: connect_verbs-I
  trans_ru: съесть
 
@@ -18472,16 +18486,16 @@
 -lexeme
  lex: сылалтыны
  stem: сылалт.
- gramm: V,I
+ gramm: V,I,tr
  paradigm: connect_verbs-I
  trans_ru: посолить, солить, засолить
 
 -lexeme
  lex: сыланы
  stem: сыла.
- gramm: V,II
+ gramm: V,II,intr
  paradigm: connect_verbs-II
- trans_ru: 1. стоить 2. быть достойным: со тыныд уг сылы он тебя не достоин
+ trans_ru: стоить
 
 -lexeme
  lex: сылмыны
@@ -18495,14 +18509,14 @@
  stem: сыл.
  gramm: V,I,intr
  paradigm: connect_verbs-I
- trans_ru: 1. стоить 2. быть достойным: со тыныд уг сылы он тебя не достоин
+ trans_ru: стоять; стоить
 
 -lexeme
  lex: сынаны
  stem: сына.
  gramm: V,II,tr,with_instr
  paradigm: connect_verbs-II
- trans_ru: ржаветь, заржаветь, стать ржавым
+ trans_ru: расчесать, прочесать
 
 -lexeme
  lex: сыномыны
@@ -21722,7 +21736,7 @@
  stem: учк.
  gramm: V,I,intr
  paradigm: connect_verbs-I
- trans_ru: смотреть, глядеть, учкы али! посмотри-ка!
+ trans_ru: смотреть, глядеть
 
 -lexeme
  lex: учыраны
@@ -25535,9 +25549,9 @@
 -lexeme
  lex: юаны
  stem: юа.
- gramm: V,II,intr,with_gen2
+ gramm: V,II,tr,with_gen2
  paradigm: connect_verbs-II
- trans_ru: 1. выпить, пить 2. выпивать, пьянствовать
+ trans_ru: спрашивать
 
 -lexeme
  lex: юаны-вераны

@@ -1310,8 +1310,8 @@
 -lexeme
  lex: повинность
  stem: повинност.
- gramm: ADJ
- paradigm: connect_adjectives-soft
+ gramm: N,rus
+ paradigm: Noun-num-soft
  trans_ru: повинность
 
 -lexeme
@@ -1320,13 +1320,6 @@
  gramm: ADJ
  paradigm: connect_adjectives
  trans_ru: бессовестный, бесстыдный, беззастенчивый
-
--lexeme
- lex: сур
- stem: сур.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: пивной
 
 -lexeme
  lex: кысонтэм
@@ -1730,8 +1723,15 @@
 -lexeme
  lex: апа
  stem: апа.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N
+ paradigm: Noun-num-vowel
+ trans_ru: 1. сестра 2. тётя, тётка
+
+-lexeme
+ lex: апай
+ stem: апа.
+ gramm: N
+ paradigm: Noun-num-j
  trans_ru: 1. сестра 2. тётя, тётка
 
 -lexeme
@@ -2134,13 +2134,6 @@
  trans_ru: бесстыдный, бессовестный, бесстыжий, нахальный
 
 -lexeme
- lex: быд
- stem: быд.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: зрелый возраст
-
--lexeme
  lex: металлопрокатной
  stem: металлопрокатно.
  gramm: ADJ,rus
@@ -2241,8 +2234,8 @@
 -lexeme
  lex: фонд
  stem: фонд.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N,rus
+ paradigm: Noun-num-consonant
  trans_ru: фонд
 
 -lexeme
@@ -2501,7 +2494,8 @@
  lex: сьӧр
  stem: сьӧр.
  gramm: ADJ
- paradigm: connect_adjectives
+ paradigm: Comparative
+ paradigm: Adjectives_Pl
  trans_ru: чужой
 
 -lexeme
@@ -3326,9 +3320,9 @@
 -lexeme
  lex: гужем
  stem: гужем.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: летний
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: лето
 
 -lexeme
  lex: огшоры
@@ -4622,7 +4616,7 @@
  lex: алой
  stem: ало.
  gramm: N,rus
- paradigm: N-num-j
+ paradigm: Noun-num-j
  trans_ru: алоэ
 
 -lexeme
@@ -4916,7 +4910,7 @@
  lex: лесничо
  stem: лесничо.
  gramm: N,rus
- paradigm: N-num-vowel
+ paradigm: Noun-num-vowel
  trans_ru: лесничий
 
 -lexeme
@@ -5285,13 +5279,6 @@
  trans_ru: 1. неделимый 2. неразлучный
 
 -lexeme
- lex: пырсатэм
- stem: пырсатэм.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: вяленый
-
--lexeme
  lex: мурсюлэм
  stem: мурсюлэм.
  gramm: ADJ
@@ -5406,8 +5393,8 @@
 -lexeme
  lex: атамбей
  stem: атамбе.
- gramm: N,rus
- paradigm: N-num-j
+ gramm: N
+ paradigm: Noun-num-j
  trans_ru: незаконнорожденный
 
 -lexeme
@@ -5463,7 +5450,7 @@
  lex: строй
  stem: стро.
  gramm: N,rus
- paradigm: N-num-j
+ paradigm: Noun-num-j
  trans_ru: строй
 
 -lexeme
@@ -6926,7 +6913,7 @@
  lex: чай
  stem: ча.
  gramm: N,rus
- paradigm: N-num-j
+ paradigm: Noun-num-j
  trans_ru: чай
 
 -lexeme
@@ -7122,7 +7109,7 @@
  lex: бадӟатай
  stem: бадӟата.
  gramm: N
- paradigm: N-num-j
+ paradigm: Noun-num-j
  trans_ru: крёстный отец
 
 -lexeme
@@ -7472,7 +7459,7 @@
  lex: пӧй
  stem: пӧ.
  gramm: N
- paradigm: N-num-j
+ paradigm: Noun-num-j
  trans_ru: дикий, лесной зверь
 
 -lexeme
@@ -7724,7 +7711,7 @@
  lex: ний
  stem: ни.
  gramm: N
- paradigm: N-num-j
+ paradigm: Noun-num-j
  trans_ru: подмарённик цепкий
 
 -lexeme
@@ -8032,7 +8019,7 @@
  lex: агыкай
  stem: агыка.
  gramm: N
- paradigm: N-num-j
+ paradigm: Noun-num-j
  trans_ru: старший брат, друг
 
 -lexeme
@@ -8144,7 +8131,7 @@
  lex: еврей
  stem: евре.
  gramm: N,rus
- paradigm: N-num-j
+ paradigm: Noun-num-j
  trans_ru: еврей
 
 -lexeme
@@ -8613,7 +8600,7 @@
  lex: обой
  stem: обо.
  gramm: N,rus
- paradigm: N-num-j
+ paradigm: Noun-num-j
  trans_ru: обои
 
 -lexeme
@@ -8900,7 +8887,7 @@
  lex: геморрой
  stem: геморро.
  gramm: N,rus
- paradigm: N-num-j
+ paradigm: Noun-num-j
  trans_ru: геморрой
 
 -lexeme
@@ -9271,7 +9258,7 @@
  lex: конвой
  stem: конво.
  gramm: N,rus
- paradigm: N-num-j
+ paradigm: Noun-num-j
  trans_ru: конвой
 
 -lexeme
@@ -9558,7 +9545,7 @@
  lex: апогей
  stem: апоге.
  gramm: N,rus
- paradigm: N-num-j
+ paradigm: Noun-num-j
  trans_ru: апогей
 
 -lexeme
@@ -9761,7 +9748,7 @@
  lex: агай
  stem: ага.
  gramm: N
- paradigm: N-num-j
+ paradigm: Noun-num-j
  trans_ru: 1. старший брат 2. дядя
 
 -lexeme
@@ -10220,13 +10207,6 @@
  trans_ru: безуспешный, неплодотворный, непродуктивный, непроизводительный
 
 -lexeme
- lex: адӟем
- stem: адӟем.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: 1. видавший, повидавший, видевший, увидевший 2. увиденное
-
--lexeme
  lex: зӥбыттэм
  stem: зӥбыттэм.
  gramm: ADJ
@@ -10610,13 +10590,6 @@
  gramm: ADJ
  paradigm: connect_adjectives
  trans_ru: не уважаемый, не почитаемый
-
--lexeme
- lex: сӥзем
- stem: сӥзем.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: обещанный, завещанный
 
 -lexeme
  lex: президентской
@@ -11214,13 +11187,6 @@
  trans_ru: дикий, пугливый
 
 -lexeme
- lex: верам
- stem: верам.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: 1. сказанный, высказанный 2. речь, слово, высказывание, сообщение
-
--lexeme
  lex: фашистской
  stem: фашистско.
  gramm: ADJ,rus
@@ -11301,7 +11267,6 @@
  lex: мукет
  stem: мукет.
  gramm: ADJ
- paradigm: Noun-num-consonant
  paradigm: Noun-num-consonant-y
  paradigm: connect_adjectives
  trans_ru: другой
@@ -11393,8 +11358,8 @@
 -lexeme
  lex: процесс
  stem: процесс.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N,rus
+ paradigm: Noun-num-consonant
  trans_ru: процесс
 
 -lexeme
@@ -11744,7 +11709,7 @@
  lex: биагай
  stem: биага.
  gramm: N
- paradigm: N-num-j
+ paradigm: Noun-num-j
  trans_ru: старший деверь, старший брат мужа, старший брат жены, старший шурин
 
 -lexeme
@@ -12450,16 +12415,16 @@
 -lexeme
  lex: телевизор
  stem: телевизор.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N
+ paradigm: Noun-num-consonant
  trans_ru: телевизор
 
 -lexeme
  lex: блажен
  stem: блажен.
- gramm: ADJ
+ gramm: ADJ,rus
  paradigm: connect_adjectives
- trans_ru: блаженной юродивый, блаженный
+ trans_ru: блаженный
 
 -lexeme
  lex: баркат
@@ -12968,8 +12933,8 @@
 -lexeme
  lex: награда
  stem: награда.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N,rus
+ paradigm: Noun-num-vowel
  trans_ru: награда
 
 -lexeme
@@ -13256,7 +13221,7 @@
  lex: ӵыштосвӧй
  stem: ӵыштосвӧ.
  gramm: N
- paradigm: N-num-j
+ paradigm: Noun-num-j
  trans_ru: топлёное сало
 
 -lexeme
@@ -13305,7 +13270,7 @@
  lex: кий
  stem: ки.
  gramm: N,rus
- paradigm: N-num-j
+ paradigm: Noun-num-j
  trans_ru: кий
 
 -lexeme

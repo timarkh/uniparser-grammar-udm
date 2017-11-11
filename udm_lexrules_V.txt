@@ -10689,13 +10689,6 @@
   trans_ru2: 1. облегчать, делать лёгким 2. перен. опохмелять
 -lex_rule
  -search
-  stem: быгат.
-  gramm: V,.*
-  gloss: .*ITER.*
- -add
-  trans_ru2: уметь делать, мочь, добиваться, достигать
--lex_rule
- -search
   stem: из.
   gramm: V,.*
   gloss: .*PASS-ITER.*
@@ -18779,13 +18772,6 @@
   gloss: .*PASS.*
  -add
   trans_ru2: неперех. изучать, исследовать, испытывать, делать / предпринимать попытку
--lex_rule
- -search
-  stem: быга.
-  gramm: V,.*
-  gloss: .*CAUS.*
- -add
-  trans_ru2: уметь, суметь, мочь, смочь
 -lex_rule
  -search
   stem: либа.
