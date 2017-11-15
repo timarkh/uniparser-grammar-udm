@@ -102,7 +102,7 @@ REMOVE (N ill sg) IF (0 (N anim 1sg))
                      (NOT 0 (N ill Poss));
 # Time measurement units and months are usually in the illative.
 REMOVE (N nom sg 1sg) IF (0 (N time_meas sg ill))
-                         (NEGATE *-1 ("<mənam>"i) BARRIER BOSPunct);
+                         (NEGATE *-1 ("<мынам>"i) BARRIER BOSPunct);
 # Exclamations starting with "e" or "oj" are in nom.1sg.
 REMOVE (N sg ill) IF (0 (N nom sg 1sg))
                      (-1 ("<э>"i) OR ("<ой>"i));
@@ -120,7 +120,7 @@ REMOVE (N sg ill) IF (0 ("<номыре>") OR ("<нокине>") OR ("<гынэ>
                      (NEGATE *0 ("<мынам>"i) BARRIER BOSPunct)
                      (NEGATE *0 (V with_ill) BARRIER BOS);
 REMOVE (N nom sg 1sg) IF (0 ("<номыре>") OR ("<нокине>") OR ("<гынэ>"))
-                         (NEGATE *0 ("<mənam>"i) BARRIER BOSPunct)
+                         (NEGATE *0 ("<мынам>"i) BARRIER BOSPunct)
                          (NEGATE *0 (V with_ill) BARRIER BOS);
 
 # ill vs. prs.3sg of similar verbs

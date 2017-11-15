@@ -5335,20 +5335,6 @@
  trans_ru: спешить, поспешить, торопиться, поторопиться
 
 -lexeme
- lex: дышетскыны
- stem: дышетск.
- gramm: V,I
- paradigm: connect_verbs-I
- trans_ru: учиться, обучаться
-
--lexeme
- lex: дышетыны
- stem: дышет.
- gramm: V,I
- paradigm: connect_verbs-I
- trans_ru: 1. учить, обучить 2. научить, учить 3. выучить
-
--lexeme
  lex: дышмонлыканы
  stem: дышмонлыка.
  gramm: V,II
@@ -5367,7 +5353,7 @@
  stem: дыш.
  gramm: V,I,intr,with_dat,with_inf
  paradigm: connect_verbs-I
- trans_ru: 1. научиться, приучиться 2.привыкнуть, свыкнуться
+ trans_ru: научиться; привыкнуть
 
 -lexeme
  lex: дэймыны

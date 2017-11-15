@@ -1714,13 +1714,6 @@
  trans_ru: нетерпеливо, торопливо, неспокойно
 
 -lexeme
- lex: корт
- stem: корт.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: железо
-
--lexeme
  lex: кекыт
  stem: кекыт.
  gramm: ADV
@@ -2594,13 +2587,6 @@
  gramm: ADV
  paradigm: connect_adverbs
  trans_ru: логично, толком, ладэн вераны сказать толком
-
--lexeme
- lex: ведра
- stem: ведра.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: ведро
 
 -lexeme
  lex: улланес
@@ -6052,13 +6038,6 @@
  gramm: ADV
  paradigm: connect_adverbs
  trans_ru: сразу, разом, заодно, попутно
-
--lexeme
- lex: зарни
- stem: зарни.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: золото
 
 -lexeme
  lex: тыкак

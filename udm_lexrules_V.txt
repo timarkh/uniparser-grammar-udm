@@ -3255,11 +3255,18 @@
   trans_ru2: 1. завершать, заканчивать 2. итожить, подытоживать
 -lex_rule
  -search
-  stem: дышет.
+  stem: дыш.
   gramm: V,.*
-  gloss: .*ITER.*
+  gloss: .*CAUS(.(^PASS))*
  -add
-  trans_ru2: 1. учить, обучать 2. учить, воспитывать 3. учить
+  trans_ru2: учить; выучить
+-lex_rule
+ -search
+  stem: дыш.
+  gramm: V,.*
+  gloss: .*CAUS-PASS.*
+ -add
+  trans_ru2: учиться
 -lex_rule
  -search
   stem: чильтэрт.

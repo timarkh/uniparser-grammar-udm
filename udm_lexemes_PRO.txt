@@ -478,14 +478,28 @@
  stem: котькуд.
  gramm: PRO
  paradigm: Noun-num-consonant
- trans_ru: какой угодно
+ trans_ru: который угодно
+
+-lexeme
+ lex: олокуд
+ stem: олокуд.
+ gramm: PRO
+ paradigm: Noun-num-consonant
+ trans_ru: не знаю который
 
 -lexeme
  lex: котькуд
  stem: котькудӥз.
  gramm: PRO,sg,3sg
  paradigm: Noun-case
- trans_ru: какой угодно
+ trans_ru: который угодно
+
+-lexeme
+ lex: олокуд
+ stem: олокудӥз.
+ gramm: PRO,sg,3sg
+ paradigm: Noun-case
+ trans_ru: не знаю который
 
 -lexeme
  lex: куд

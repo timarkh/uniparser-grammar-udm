@@ -115,6 +115,7 @@
   gloss: PL
   paradigm: Noun-case
   paradigm: Noun-case-y
+  paradigm: Noun-case-ill-y
   paradigm: Noun-case-poss-y-1,sg
   paradigm: Noun-case-poss-y-2,sg
   paradigm: Noun-case-poss-y-3,sg
@@ -127,6 +128,7 @@
   gloss: PL
   paradigm: Noun-case
   paradigm: Noun-case-y
+  paradigm: Noun-case-ill-y
   paradigm: Noun-case-poss-y-1,sg
   paradigm: Noun-case-poss-y-2,sg
   paradigm: Noun-case-poss-y-3,sg
@@ -170,6 +172,7 @@
   gloss: PL
   paradigm: Noun-case
   paradigm: Noun-case-y
+  paradigm: Noun-case-ill-y
   paradigm: Noun-case-poss-y-1,sg
   paradigm: Noun-case-poss-y-2,sg
   paradigm: Noun-case-poss-y-3,sg
@@ -219,6 +222,7 @@
   gloss: PL
   paradigm: Noun-case
   paradigm: Noun-case-y
+  paradigm: Noun-case-ill-y
   paradigm: Noun-case-poss-y-1,sg
   paradigm: Noun-case-poss-y-2,sg
   paradigm: Noun-case-poss-y-3,sg
@@ -258,6 +262,7 @@
   gloss: PL
   paradigm: Noun-case
   paradigm: Noun-case-y
+  paradigm: Noun-case-ill-y
   paradigm: Noun-case-poss-y-1,sg
   paradigm: Noun-case-poss-y-2,sg
   paradigm: Noun-case-poss-y-3,sg
@@ -296,6 +301,7 @@
   gloss: PL
   paradigm: Noun-case
   paradigm: Noun-case-y
+  paradigm: Noun-case-ill-y
   paradigm: Noun-case-poss-y-1,sg
   paradigm: Noun-case-poss-y-2,sg
   paradigm: Noun-case-poss-y-3,sg
@@ -337,6 +343,7 @@
   gloss: PL
   paradigm: Noun-case
   paradigm: Noun-case-y
+  paradigm: Noun-case-ill-y
   paradigm: Noun-case-poss-y-1,sg
   paradigm: Noun-case-poss-y-2,sg
   paradigm: Noun-case-poss-y-3,sg
@@ -364,6 +371,7 @@
   gloss: PL
   paradigm: Noun-case
   paradigm: Noun-case-y
+  paradigm: Noun-case-ill-y
   paradigm: Noun-case-poss-y-1,sg
   paradigm: Noun-case-poss-y-2,sg
   paradigm: Noun-case-poss-y-3,sg
@@ -406,6 +414,7 @@
   regex-prev: ^.*[^аеёиӥоӧуыэюя<>.][<>.]*$
   paradigm: Noun-case
   paradigm: Noun-case-y
+  paradigm: Noun-case-ill-y
   paradigm: Noun-case-poss-y-1,sg
   paradigm: Noun-case-poss-y-2,sg
   paradigm: Noun-case-poss-y-3,sg
@@ -418,6 +427,7 @@
   regex-prev: ^.*[аеёиӥоӧуыэюя][<>.]*$
   paradigm: Noun-case
   paradigm: Noun-case-y
+  paradigm: Noun-case-ill-y
   paradigm: Noun-case-poss-y-1,sg
   paradigm: Noun-case-poss-y-2,sg
   paradigm: Noun-case-poss-y-3,sg
@@ -443,6 +453,7 @@
   gloss: PL
   paradigm: Noun-case
   paradigm: Noun-case-y
+  paradigm: Noun-case-ill-y
   paradigm: Noun-case-poss-y-1,sg
   paradigm: Noun-case-poss-y-2,sg
   paradigm: Noun-case-poss-y-3,sg
@@ -482,6 +493,7 @@
   gloss: PL
   paradigm: Noun-case
   paradigm: Noun-case-y
+  paradigm: Noun-case-ill-y
   paradigm: Noun-case-poss-y-1,sg
   paradigm: Noun-case-poss-y-2,sg
   paradigm: Noun-case-poss-y-3,sg
@@ -510,6 +522,7 @@
   gloss: PL
   paradigm: Noun-case
   paradigm: Noun-case-y
+  paradigm: Noun-case-ill-y
   paradigm: Noun-case-poss-y-1,sg
   paradigm: Noun-case-poss-y-2,sg
   paradigm: Noun-case-poss-y-3,sg
@@ -549,6 +562,7 @@
   gloss: PL
   paradigm: Noun-case
   paradigm: Noun-case-y
+  paradigm: Noun-case-ill-y
   paradigm: Noun-case-poss-y-1,sg
   paradigm: Noun-case-poss-y-2,sg
   paradigm: Noun-case-poss-y-3,sg
@@ -589,6 +603,7 @@
   gloss: PL
   paradigm: Noun-case
   paradigm: Noun-case-y
+  paradigm: Noun-case-ill-y
   paradigm: Noun-case-poss-y-1,sg
   paradigm: Noun-case-poss-y-2,sg
   paradigm: Noun-case-poss-y-3,sg
@@ -629,6 +644,7 @@
   gloss: PL
   paradigm: Noun-case
   paradigm: Noun-case-y
+  paradigm: Noun-case-ill-y
   paradigm: Noun-case-poss-y-1,sg
   paradigm: Noun-case-poss-y-2,sg
   paradigm: Noun-case-poss-y-3,sg
@@ -663,6 +679,7 @@
   gloss: PL
   paradigm: Noun-case
   paradigm: Noun-case-y
+  paradigm: Noun-case-ill-y
   paradigm: Noun-case-poss-y-1,sg
   paradigm: Noun-case-poss-y-2,sg
   paradigm: Noun-case-poss-y-3,sg
@@ -3620,6 +3637,7 @@
   gloss: PL.ADJ|PL
   paradigm: Noun-case
   paradigm: Noun-case-y
+  paradigm: Noun-case-ill-y
   paradigm: Noun-case-poss-y-1,sg
   paradigm: Noun-case-poss-y-2,sg
   paradigm: Noun-case-poss-y-3,sg
@@ -3632,6 +3650,7 @@
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
   paradigm: Noun-case
   paradigm: Noun-case-y
+  paradigm: Noun-case-ill-y
   paradigm: Noun-case-poss-y-1,sg
   paradigm: Noun-case-poss-y-2,sg
   paradigm: Noun-case-poss-y-3,sg
@@ -3678,6 +3697,7 @@
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
   paradigm: Noun-case
   paradigm: Noun-case-y
+  paradigm: Noun-case-ill-y
   paradigm: Noun-case-poss-y-1,sg
   paradigm: Noun-case-poss-y-2,sg
   paradigm: Noun-case-poss-y-3,sg
@@ -3696,6 +3716,7 @@
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
   paradigm: Noun-case
   paradigm: Noun-case-y
+  paradigm: Noun-case-ill-y
   paradigm: Noun-case-poss-y-1,sg
   paradigm: Noun-case-poss-y-2,sg
   paradigm: Noun-case-poss-y-3,sg
@@ -3704,7 +3725,7 @@
   paradigm: Noun-case-poss-3,pl
  -flex: .ьёс<.>
   gramm: pl
-  gloss: PL.ADJ
+  gloss: PL
   paradigm: Noun-case-poss-y-3,sg
   paradigm: Comparative
 

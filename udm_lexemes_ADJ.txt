@@ -99,8 +99,8 @@
 -lexeme
  lex: марш
  stem: марш.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N,rus
+ paradigm: Noun-num-consonant
  trans_ru: марш
 
 -lexeme
@@ -122,7 +122,7 @@
  stem: наво.
  gramm: N,rus
  paradigm: Noun-num-j
- trans_ru: текст. навой
+ trans_ru: навой (текст.)
 
 -lexeme
  lex: ӝубис
@@ -302,8 +302,8 @@
 -lexeme
  lex: мирошка
  stem: мирошка.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N
+ paradigm: Noun-num-vowel
  trans_ru: внебрачный ребёнок
 
 -lexeme
@@ -323,9 +323,9 @@
 -lexeme
  lex: майтал
  stem: майтал.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: мыльный
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: мыло
 
 -lexeme
  lex: дӥсьтэмпол
@@ -372,7 +372,7 @@
 -lexeme
  lex: перигей
  stem: периге.
- gramm: N
+ gramm: N,rus
  paradigm: Noun-num-j
  trans_ru: перигей
 
@@ -386,8 +386,8 @@
 -lexeme
  lex: облок
  stem: облок.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N
+ paradigm: Noun-num-consonant
  trans_ru: верхний брус кровли, конёк
 
 -lexeme
@@ -428,8 +428,8 @@
 -lexeme
  lex: йырвисёнгумы
  stem: йырвисёнгумы.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N
+ paradigm: Noun-num-vowel
  trans_ru: болиголов крапчатый
 
 -lexeme
@@ -456,8 +456,8 @@
 -lexeme
  lex: оркестр
  stem: оркестр.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N,rus
+ paradigm: Noun-num-consonant
  trans_ru: оркестр
 
 -lexeme
@@ -491,15 +491,15 @@
 -lexeme
  lex: сарот
  stem: сарот.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N
+ paradigm: Noun-num-consonant
  trans_ru: пырей
 
 -lexeme
  lex: кылыксызлык
  stem: кылыксызлык.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N
+ paradigm: Noun-num-consonant
  trans_ru: дурной характер, неуравновешенность
 
 -lexeme
@@ -517,18 +517,11 @@
  trans_ru: 1. проволочный 2. со струнами, струнный
 
 -lexeme
- lex: таланто
- stem: таланто.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: талантливый
-
--lexeme
  lex: очорос
  stem: очорос.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: крепкий самогон, горькая кумышка Шудбурлы но, кайгулы но – гулбечын дась очорос
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: крепкий самогон, горькая кумышка
 
 -lexeme
  lex: шонерлыко
@@ -694,8 +687,8 @@
 -lexeme
  lex: тюреги
  stem: тюреги.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N
+ paradigm: Noun-num-vowel
  trans_ru: крохаль большой
 
 -lexeme
@@ -792,9 +785,9 @@
 -lexeme
  lex: англи
  stem: англи.
- gramm: ADJ
+ gramm: ADJ,rus
  paradigm: connect_adjectives
- trans_ru: кыл английский язык
+ trans_ru: английский (язык)
 
 -lexeme
  lex: такырес
@@ -813,8 +806,8 @@
 -lexeme
  lex: материализм
  stem: материализм.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N,rus
+ paradigm: Noun-num-consonant
  trans_ru: материализм
 
 -lexeme
@@ -857,13 +850,13 @@
  stem: нежмыт.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: 1. затянутый, чересчур длинный, протяжный, тихий, бесшумный 2. жалеющий, полный сочувствия 3. низкий, нисходящий, пологий, отлогий, покатый
+ trans_ru: затянутый; протяжный; жалеющий; пологий, отлогий
 
 -lexeme
  lex: беська
  stem: беська.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N
+ paradigm: Noun-num-vowel
  trans_ru: старший деверь
 
 -lexeme
@@ -932,15 +925,15 @@
 -lexeme
  lex: пикисы
  stem: пикисы.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N
+ paradigm: Noun-num-vowel
  trans_ru: внутренний карман
 
 -lexeme
  lex: правка
  stem: правка.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N,rus
+ paradigm: Noun-num-vowel
  trans_ru: правка
 
 -lexeme
@@ -948,13 +941,20 @@
  stem: гизег.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: гизет негодный, шляка 2. капризный, привередливый, негодный
+ trans_ru: негодный, капризный
+
+-lexeme
+ lex: гизет
+ stem: гизет.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: негодный, капризный
 
 -lexeme
  lex: независимость
  stem: независимост.
- gramm: ADJ
- paradigm: connect_adjectives-soft
+ gramm: N,rus
+ paradigm: Noun-num-soft
  trans_ru: независимость
 
 -lexeme
@@ -983,7 +983,7 @@
  stem: лусьтырган.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: лусьт(ы)ро лохматый, взлохмаченный, с распущенными длинными, нерасчесанными волосами
+ trans_ru: лохматый
 
 -lexeme
  lex: резервной
@@ -993,8 +993,8 @@
  trans_ru: резервный
 
 -lexeme
- lex: когрес
- stem: когрес.
+ lex: котрес
+ stem: котрес.
  gramm: ADJ
  paradigm: connect_adjectives
  trans_ru: круглый, шарообразный, округлённый
@@ -1023,8 +1023,8 @@
 -lexeme
  lex: комплекс
  stem: комплекс.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N,rus
+ paradigm: Noun-num-consonant
  trans_ru: комплекс
 
 -lexeme
@@ -1032,7 +1032,7 @@
  stem: ымтэм.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: бессловесный, немой, ымтэм-а, мар-а тон? языка что ли нет у тебя?
+ trans_ru: бессловесный, немой
 
 -lexeme
  lex: егитъем
@@ -1163,7 +1163,7 @@
 -lexeme
  lex: мастерской
  stem: мастерско.
- gramm: N
+ gramm: N,rus
  paradigm: Noun-num-j
  trans_ru: мастерская
 
@@ -1191,8 +1191,8 @@
 -lexeme
  lex: лыйыр
  stem: лыйыр.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N
+ paradigm: Noun-num-consonant
  trans_ru: воронец колосовидный
 
 -lexeme
@@ -1200,14 +1200,14 @@
  stem: умырлык.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: 1.достаточный на всю жизнь 2.пожизненный, вечный, вековой
+ trans_ru: пожизненный, вечный
 
 -lexeme
  lex: йылол
  stem: йылол.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: 1. обычай, привычка 2. характер, нрав
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: обычай; нрав
 
 -lexeme
  lex: шаконь
@@ -1240,8 +1240,8 @@
 -lexeme
  lex: безька
  stem: безька.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N
+ paradigm: Noun-num-vowel
  trans_ru: деверь старший
 
 -lexeme
@@ -1278,13 +1278,6 @@
  gramm: ADJ
  paradigm: connect_adjectives
  trans_ru: голубой
-
--lexeme
- lex: дасэтӥ
- stem: дасэтӥ.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: десятый
 
 -lexeme
  lex: хронологической
@@ -1403,7 +1396,7 @@
  stem: мог.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: медленный, непо­воротливый
+ trans_ru: медленный, неповоротливый
 
 -lexeme
  lex: провокационной
@@ -1466,7 +1459,7 @@
  stem: льӧльыр.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: розоватый, алый, льӧльыр-льӧльыр тёмно-розовый
+ trans_ru: розоватый, алый
 
 -lexeme
  lex: оскись
@@ -1504,25 +1497,18 @@
  trans_ru: давний, давнишний
 
 -lexeme
- lex: кыллыбыреммурт
- stem: кыллыбыреммурт.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: сущ. краснобай
-
--lexeme
  lex: ныгӟем
  stem: ныгӟем.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: грязный Басьты со ныгӟем кидэ
+ trans_ru: грязный
 
 -lexeme
  lex: акырӟаськись
  stem: акырӟаськис.
  gramm: ADJ
  paradigm: connect_adjectives-soft
- trans_ru: упрямый, капризный, обидчивый, от акырӟаськись кышномурт усиз йыр вылам(ЮнК. с.78) перевод
+ trans_ru: упрямый, капризный, обидчивый
 
 -lexeme
  lex: дуратэм
@@ -1588,13 +1574,6 @@
  trans_ru: конкретный
 
 -lexeme
- lex: ваньбуро
- stem: ваньбуро.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: имущий, живущий в достатке
-
--lexeme
  lex: эзэльтэм
  stem: эзэльтэм.
  gramm: ADJ
@@ -1632,8 +1611,8 @@
 -lexeme
  lex: надзор
  stem: надзор.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N,rus
+ paradigm: Noun-num-consonant
  trans_ru: надзор
 
 -lexeme
@@ -1646,8 +1625,8 @@
 -lexeme
  lex: мугзарезь
  stem: мугзарез.
- gramm: ADJ
- paradigm: connect_adjectives-soft
+ gramm: N
+ paradigm: Noun-num-soft
  trans_ru: причинный океан
 
 -lexeme
@@ -1655,21 +1634,7 @@
  stem: лукыр-лакыр.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: 1. ветхий, изношенный, подержанный 2. неряшливый
-
--lexeme
- lex: мыйыктэм
- stem: мыйыктэм.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: безусый, без усов
-
--lexeme
- lex: витетӥез
- stem: витетӥез.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: пятый
+ trans_ru: ветхий, изношенный; неряшливый
 
 -lexeme
  lex: архивной
@@ -1684,13 +1649,6 @@
  gramm: ADJ
  paradigm: connect_adjectives
  trans_ru: преодолимый, посильный
-
--lexeme
- lex: тубато
- stem: тубато.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: ступенчатый, уступчатый, ступеньками, уступами
 
 -lexeme
  lex: отважной
@@ -1709,15 +1667,15 @@
 -lexeme
  lex: беке
  stem: беке.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N
+ paradigm: Noun-num-vowel
  trans_ru: геморрой
 
 -lexeme
  lex: авантюризм
  stem: авантюризм.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N,rus
+ paradigm: Noun-num-consonant
  trans_ru: авантюризм
 
 -lexeme
@@ -1725,14 +1683,14 @@
  stem: апа.
  gramm: N
  paradigm: Noun-num-vowel
- trans_ru: 1. сестра 2. тётя, тётка
+ trans_ru: сестра; тётя
 
 -lexeme
  lex: апай
  stem: апа.
  gramm: N
  paradigm: Noun-num-j
- trans_ru: 1. сестра 2. тётя, тётка
+ trans_ru: сестра; тётя, тётка
 
 -lexeme
  lex: музъемвыл
@@ -1753,7 +1711,7 @@
  stem: эркын.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: свободный, вольный, привольный
+ trans_ru: свободный
 
 -lexeme
  lex: скандальной
@@ -1763,18 +1721,11 @@
  trans_ru: скандальный
 
 -lexeme
- lex: люкен
- stem: люкен.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: кучкой, грудой
-
--lexeme
  lex: лёго
  stem: лёго.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: 1. бугристый, холмистый, лёго-лёго сюрес неровная дорога 2. комковатый
+ trans_ru: бугристый, холмистый; комковатый
 
 -lexeme
  lex: ашак
@@ -1805,20 +1756,6 @@
  trans_ru: 1. пылкий 2. расторопный
 
 -lexeme
- lex: тэлё
- stem: тэлё.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: лесистый
-
--lexeme
- lex: прибылё
- stem: прибылё.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: прибыльный
-
--lexeme
  lex: чолак
  stem: чолак.
  gramm: ADJ
@@ -1828,7 +1765,7 @@
 -lexeme
  lex: трамвай
  stem: трамва.
- gramm: N
+ gramm: N,rus
  paradigm: Noun-num-j
  trans_ru: трамвай
 
@@ -1903,6 +1840,13 @@
  trans_ru: мудрый
 
 -lexeme
+ lex: мудрон
+ stem: мудрон.
+ gramm: ADJ,rus
+ paradigm: connect_adjectives
+ trans_ru: мудрёный, странный
+
+-lexeme
  lex: медико-санаторной
  stem: медико-санаторно.
  gramm: ADJ,rus
@@ -1926,8 +1870,8 @@
 -lexeme
  lex: кына
  stem: кына.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N
+ paradigm: Noun-num-vowel
  trans_ru: лесной хорь
 
 -lexeme
@@ -1940,8 +1884,8 @@
 -lexeme
  lex: зона
  stem: зона.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N,rus
+ paradigm: Noun-num-vowel
  trans_ru: зона
 
 -lexeme
@@ -1968,8 +1912,8 @@
 -lexeme
  lex: открытка
  stem: открытка.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N,rus
+ paradigm: Noun-num-vowel
  trans_ru: открытка
 
 -lexeme
@@ -1988,7 +1932,7 @@
 
 -lexeme
  lex: обвиняемой
- stem: обвиняемой.
+ stem: обвиняемо.
  gramm: N,rus
  paradigm: Noun-num-j
  trans_ru: обвиняемый
@@ -2017,8 +1961,8 @@
 -lexeme
  lex: политзаключённой
  stem: политзаключённо.
- gramm: ADJ,rus
- paradigm: connect_adjectives-j
+ gramm: N,rus
+ paradigm: Noun-num-j
  trans_ru: политзаключённый
 
 -lexeme
@@ -2038,8 +1982,8 @@
 -lexeme
  lex: гуждорӝук
  stem: гуждорӝук.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N
+ paradigm: Noun-num-consonant
  trans_ru: весенний праздник перед пахотой
 
 -lexeme
@@ -2076,13 +2020,6 @@
  gramm: ADJ
  paradigm: connect_adjectives
  trans_ru: лёгкий, удобный
-
--lexeme
- lex: лыо
- stem: лыо.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: костлявый, костистый
 
 -lexeme
  lex: керӟег
@@ -2131,7 +2068,7 @@
  stem: бамтэм.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: бесстыдный, бессовестный, бесстыжий, нахальный
+ trans_ru: бессовестный
 
 -lexeme
  lex: металлопрокатной
@@ -2150,8 +2087,8 @@
 -lexeme
  lex: лыдбудэм
  stem: лыдбудэм.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N
+ paradigm: Noun-num-consonant
  trans_ru: юношеский возраст
 
 -lexeme
@@ -2209,13 +2146,6 @@
  gramm: ADJ
  paradigm: connect_adjectives
  trans_ru: сильный
-
--lexeme
- lex: укмыстонэтӥез
- stem: укмыстонэтӥез.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: девяностый
 
 -lexeme
  lex: закры
@@ -2311,9 +2241,9 @@
 -lexeme
  lex: лешак
  stem: лешак.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: леший, лешак обл.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: леший, лешак
 
 -lexeme
  lex: ныгылес
@@ -2342,13 +2272,6 @@
  gramm: ADJ
  paradigm: connect_adjectives
  trans_ru: низкорослый, небольшого роста
-
--lexeme
- lex: камышо
- stem: камышо.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: камышовый, заросший камышом
 
 -lexeme
  lex: край
@@ -2390,7 +2313,7 @@
  stem: масайис.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: горделивый, кичливый, чванливый, спесивый, заносчивый, надменный, высокомерный
+ trans_ru: горделивый, высокомерный
 
 -lexeme
  lex: шыма
@@ -2404,7 +2327,7 @@
  stem: окшорган.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: окшоры ненормальный, придурковатый
+ trans_ru: ненормальный, придурковатый
 
 -lexeme
  lex: нуныяськись
@@ -2416,8 +2339,8 @@
 -lexeme
  lex: конфликт
  stem: конфликт.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N,rus
+ paradigm: Noun-num-consonant
  trans_ru: конфликт
 
 -lexeme
@@ -2439,14 +2362,14 @@
  stem: суэс.
  gramm: ADJ,oblin
  paradigm: connect_adjectives-soft
- trans_ru: покрытый копотью, закоптелый, закопчённый, запачканный копотью
+ trans_ru: покрытый копотью, закопчённый
 
 -lexeme
  lex: зӥбеттэм
  stem: зӥбеттэм.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: безнапорный, матысь ву – музъем выллы самой матысь зӥбеттэм музъемул вуос
+ trans_ru: безнапорный
 
 -lexeme
  lex: оскисьтэм
@@ -2479,8 +2402,8 @@
 -lexeme
  lex: тэнкетурын
  stem: тэнкетурын.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N
+ paradigm: Noun-num-consonant
  trans_ru: 1. луговой чай 2. ярутка
 
 -lexeme
@@ -2488,7 +2411,7 @@
  stem: кылкылмес.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: непослушный, своевольный, неугомонный, шаловливый, неслух
+ trans_ru: непослушный, шаловливый
 
 -lexeme
  lex: сьӧр
@@ -2515,8 +2438,8 @@
 -lexeme
  lex: оборона
  stem: оборона.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N,rus
+ paradigm: Noun-num-vowel
  trans_ru: оборона
 
 -lexeme
@@ -2531,7 +2454,7 @@
  stem: вылӥлыко.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: 1. божественный 2. превосходный, вылӥлыко степенез возьматон амалъёс но соослэн кылдэмзы
+ trans_ru: 1. божественный 2. превосходный
 
 -lexeme
  lex: вошъяськись
@@ -2545,14 +2468,14 @@
  stem: нэз.
  gramm: ADJ
  paradigm: connect_adjectives-soft
- trans_ru: вялый Ньӧр куасьмымтэ, нэзь Прутик не высох, вялый
+ trans_ru: вялый
 
 -lexeme
  lex: лазь-лазь
  stem: лазь-лаз.
  gramm: ADJ
  paradigm: connect_adjectives-soft
- trans_ru: 1. развесистый, раскидистый 2. окладистый(о бороде
+ trans_ru: 1. развесистый, раскидистый 2. окладистый (о бороде)
 
 -lexeme
  lex: посудо-хозяйственной
@@ -2587,27 +2510,20 @@
  stem: ватсас.
  gramm: ADJ
  paradigm: connect_adjectives-soft
- trans_ru: положительный, луло маке – ватсась кынар, нош материя – кулэстӥсь
-
--lexeme
- lex: дасэтӥез
- stem: дасэтӥез.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: 1. десятый 2. в-десятых
+ trans_ru: положительный
 
 -lexeme
  lex: дунневыл
  stem: дунневыл.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: мировой?, финно-угроведение удысын дунневыл аренае потэмзэ
+ trans_ru: мировой
 
 -lexeme
  lex: пыдйылчи
  stem: пыдйылчи.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N
+ paradigm: Noun-num-vowel
  trans_ru: 1. обездоленный человек, бродяга, скиталец, странник 2. отшельник
 
 -lexeme
@@ -2627,16 +2543,9 @@
 -lexeme
  lex: вӧсьтӧр
  stem: вӧсьтӧр.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N
+ paradigm: Noun-num-consonant
  trans_ru: вотский священник
-
--lexeme
- lex: характеро
- stem: характеро.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: с характером, характерный
 
 -lexeme
  lex: служебной
@@ -2657,14 +2566,14 @@
  stem: ӝужыт.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: рослый
+ trans_ru: высокий
 
 -lexeme
  lex: нарт
  stem: нарт.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: летаргия, летаргический сон, нартэ мыныны впасть в летаргический сон
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: летаргия, летаргический сон
 
 -lexeme
  lex: мерлыко
@@ -2683,9 +2592,9 @@
 -lexeme
  lex: юмок
  stem: юмок.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: 1. смешной случай, смешное положение, неудобное положение, юмоке шедьыны попасть в смешное положение, оказаться в неловком положении, юмоке уськытыны поставить в неудобное положение 2. юмореска
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: смешной случай, неудобное положение
 
 -lexeme
  lex: тэскери
@@ -2704,8 +2613,8 @@
 -lexeme
  lex: нейтралитет
  stem: нейтралитет.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N,rus
+ paradigm: Noun-num-consonant
  trans_ru: нейтралитет
 
 -lexeme
@@ -2746,8 +2655,8 @@
 -lexeme
  lex: кыкрак
  stem: кыкрак.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N
+ paradigm: Noun-num-consonant
  trans_ru: нагрудный, внутренний карман
 
 -lexeme
@@ -2760,8 +2669,8 @@
 -lexeme
  lex: законность
  stem: законност.
- gramm: ADJ
- paradigm: connect_adjectives-soft
+ gramm: N,rus
+ paradigm: Noun-num-soft
  trans_ru: законность
 
 -lexeme
@@ -2795,6 +2704,13 @@
 -lexeme
  lex: вольыт
  stem: вольыт.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: гладкий, ровный
+
+-lexeme
+ lex: вӧльыт
+ stem: вӧльыт.
  gramm: ADJ
  paradigm: connect_adjectives
  trans_ru: гладкий, ровный
@@ -2837,8 +2753,8 @@
 -lexeme
  lex: мекон
  stem: мекон.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N
+ paradigm: Noun-num-consonant
  trans_ru: поплавок
 
 -lexeme
@@ -2886,22 +2802,15 @@
 -lexeme
  lex: ӝакыйыр
  stem: ӝакыйыр.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N
+ paradigm: Noun-num-consonant
  trans_ru: дикий клевер
-
--lexeme
- lex: чусомем
- stem: чусомем.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: утихший, затихший, смолкнувший, смолкший, умолкнувший, умолкший
 
 -lexeme
  lex: война
  stem: война.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N,rus
+ paradigm: Noun-num-vowel
  trans_ru: война
 
 -lexeme
@@ -2937,7 +2846,7 @@
  stem: льӧлялэс.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: розоватый, розовато-
+ trans_ru: розоватый
 
 -lexeme
  lex: дят
@@ -2951,7 +2860,7 @@
  stem: адӟиськонтэм.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: невидный, незаметный, неприметный, невидимый
+ trans_ru: невидимый
 
 -lexeme
  lex: пожарной
@@ -2970,8 +2879,8 @@
 -lexeme
  lex: оперуполномоченной
  stem: оперуполномоченно.
- gramm: ADJ,rus
- paradigm: connect_adjectives-j
+ gramm: N,rus
+ paradigm: Noun-num-j
  trans_ru: оперуполномоченный
 
 -lexeme
@@ -3019,8 +2928,8 @@
 -lexeme
  lex: государство
  stem: государство.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N,rus
+ paradigm: Noun-num-vowel
  trans_ru: государство
 
 -lexeme
@@ -3059,13 +2968,6 @@
  trans_ru: мятый; дублёный
 
 -lexeme
- lex: горд-горд
- stem: горд-горд.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: рыжий-прерыжий
-
--lexeme
  lex: казахской
  stem: казахско.
  gramm: ADJ,rus
@@ -3082,16 +2984,16 @@
 -lexeme
  lex: валбыж
  stem: валбыж.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N
+ paradigm: Noun-num-consonant
  trans_ru: щавель конский
 
 -lexeme
  lex: слабительной
  stem: слабительно.
- gramm: ADJ,rus
- paradigm: connect_adjectives-j
- trans_ru: слабительный
+ gramm: N,rus
+ paradigm: Noun-num-j
+ trans_ru: слабительное
 
 -lexeme
  lex: лаймыт
@@ -3126,7 +3028,7 @@
  stem: теплово.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
- trans_ru: физ. тепловой
+ trans_ru: тепловой
 
 -lexeme
  lex: жыгыль
@@ -3144,9 +3046,9 @@
 
 -lexeme
  lex: киль-киль
- stem: киль-кил.
- gramm: ADJ
- paradigm: connect_adjectives-soft
+ stem: киль-киль.
+ gramm: IMIT
+ paradigm: Empty
  trans_ru: звукоподр. сосновой коры
 
 -lexeme
@@ -3166,8 +3068,8 @@
 -lexeme
  lex: фестиваль
  stem: фестивал.
- gramm: ADJ
- paradigm: connect_adjectives-soft
+ gramm: N,rus
+ paradigm: Noun-num-soft
  trans_ru: фестиваль
 
 -lexeme
@@ -3175,7 +3077,7 @@
  stem: сат.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: 1. духовный,2.
+ trans_ru: духовный
 
 -lexeme
  lex: няськыт
@@ -3208,7 +3110,7 @@
 -lexeme
  lex: коротник
  stem: коротник.
- gramm: N
+ gramm: N,rus
  paradigm: Noun-num-consonant
  trans_ru: сарай для повозок, каретник
 
@@ -3257,8 +3159,8 @@
 -lexeme
  lex: колӟотурын
  stem: колӟотурын.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N
+ paradigm: Noun-num-consonant
  trans_ru: тысячелистник обыкновенный
 
 -lexeme
@@ -3306,8 +3208,8 @@
 -lexeme
  lex: бабанайгуби
  stem: бабанайгуби.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N
+ paradigm: Noun-num-vowel
  trans_ru: белый гриб
 
 -lexeme
@@ -3341,8 +3243,8 @@
 -lexeme
  lex: ымдуршылдыртон
  stem: ымдуршылдыртон.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N
+ paradigm: Noun-num-consonant
  trans_ru: болиголов пятнистый
 
 -lexeme
@@ -3481,8 +3383,8 @@
 -lexeme
  lex: гожтӥсьмурт
  stem: гожтӥсьмурт.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N
+ paradigm: Noun-num-consonant
  trans_ru: пишущий
 
 -lexeme
@@ -3605,13 +3507,6 @@
  trans_ru: богатый, царский
 
 -lexeme
- lex: нянё
- stem: нянё.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: хлебный, богатый хлебом, урожайный
-
--lexeme
  lex: чулок
  stem: чулок.
  gramm: ADJ
@@ -3621,9 +3516,9 @@
 -lexeme
  lex: зӧкныд
  stem: зӧкныд.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: гриб белый гриб
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: белый гриб
 
 -lexeme
  lex: наглядной
@@ -3635,9 +3530,9 @@
 -lexeme
  lex: пияла
  stem: пияла.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: стеклянный, стекольный
+ gramm: N
+ paradigm: Noun-num-vowel
+ trans_ru: стекло
 
 -lexeme
  lex: семеноводческой
@@ -3733,8 +3628,8 @@
 -lexeme
  lex: бидьы
  stem: бидьы.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N
+ paradigm: Noun-num-vowel
  trans_ru: половой член
 
 -lexeme
@@ -3775,9 +3670,9 @@
 -lexeme
  lex: ӟольгыри
  stem: ӟольгыри.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: воробьиный
+ gramm: N
+ paradigm: Noun-num-vowel
+ trans_ru: воробей
 
 -lexeme
  lex: ваньзэбыгась
@@ -3866,8 +3761,8 @@
 -lexeme
  lex: пропускник
  stem: пропускник.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N,rus
+ paradigm: Noun-num-consonant
  trans_ru: пропускник
 
 -lexeme
@@ -3890,13 +3785,6 @@
  gramm: ADJ
  paradigm: connect_adjectives-soft
  trans_ru: сердитый, злобный, питающий злобу
-
--lexeme
- lex: витьтонэтӥез
- stem: витьтонэтӥез.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: 1. пятидесятый по счёту 2. в пятидесятых
 
 -lexeme
  lex: часлык
@@ -3936,15 +3824,15 @@
 -lexeme
  lex: тӧдьысиндур
  stem: тӧдьысиндур.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N
+ paradigm: Noun-num-consonant
  trans_ru: нырок белоглазый
 
 -lexeme
  lex: подчинённой
  stem: подчинённо.
- gramm: ADJ,rus
- paradigm: connect_adjectives-j
+ gramm: N,rus
+ paradigm: Noun-num-j
  trans_ru: подчинённый
 
 -lexeme
@@ -3952,7 +3840,7 @@
  stem: дьылгыр.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: шустрый, юркий, быстрый, поворотливый
+ trans_ru: шустрый, юркий
 
 -lexeme
  lex: нодэс
@@ -4046,13 +3934,6 @@
  trans_ru: электронный
 
 -lexeme
- lex: педпалозь
- stem: педпалоз.
- gramm: ADJ
- paradigm: connect_adjectives-soft
- trans_ru: до наружной стороны
-
--lexeme
  lex: эстылэм
  stem: эстылэм.
  gramm: ADJ
@@ -4083,8 +3964,8 @@
 -lexeme
  lex: бертэм-азьтэм
  stem: бертэм-азьтэм.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N
+ paradigm: Noun-num-consonant
  trans_ru: лентяй
 
 -lexeme
@@ -4158,13 +4039,6 @@
  trans_ru: 1. бессильный, слабый 2. недостойный, неподходящий
 
 -lexeme
- lex: туштэм
- stem: туштэм.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: безбородый
-
--lexeme
  lex: бервылтэм
  stem: бервылтэм.
  gramm: ADJ
@@ -4186,17 +4060,10 @@
  trans_ru: слабый
 
 -lexeme
- lex: англичан
- stem: англичан.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: английский
-
--lexeme
  lex: ымдорышылонтурын
  stem: ымдорышылонтурын.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N
+ paradigm: Noun-num-consonant
  trans_ru: пастернак дикий
 
 -lexeme
@@ -4233,13 +4100,6 @@
  gramm: ADJ
  paradigm: connect_adjectives
  trans_ru: спокойный, беззаботный
-
--lexeme
- lex: тушо
- stem: тушо.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: бородатый с бородой
 
 -lexeme
  lex: луӟкук
@@ -4295,7 +4155,7 @@
  stem: тустэм.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: 1. невидный, невзрачный, невыразительный, безликий 2. бесформенный 3. безцветный
+ trans_ru: 1. невзрачный, безликий 2. бесформенный 3. бесцветный
 
 -lexeme
  lex: сюты
@@ -4356,8 +4216,8 @@
 -lexeme
  lex: чырсгумы
  stem: чырсгумы.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N
+ paradigm: Noun-num-vowel
  trans_ru: борщевик сибирский
 
 -lexeme
@@ -4379,7 +4239,7 @@
  stem: сӧзнэтлыко.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: систематический, систематичный, постоянный, регулярный
+ trans_ru: систематический, регулярный
 
 -lexeme
  lex: нярга
@@ -4393,7 +4253,7 @@
  stem: умойтэм.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: неправильный, неверный, ошибочный
+ trans_ru: неправильный
 
 -lexeme
  lex: азинэсшуон
@@ -4447,8 +4307,8 @@
 -lexeme
  lex: налёт
  stem: налёт.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N,rus
+ paradigm: Noun-num-consonant
  trans_ru: налёт
 
 -lexeme
@@ -4461,8 +4321,8 @@
 -lexeme
  lex: тактика
  stem: тактика.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N,rus
+ paradigm: Noun-num-vowel
  trans_ru: тактика
 
 -lexeme
@@ -4573,8 +4433,8 @@
 -lexeme
  lex: сӥтярагуби
  stem: сӥтярагуби.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N
+ paradigm: Noun-num-vowel
  trans_ru: гриб-зонтик пёстрый
 
 -lexeme
@@ -4750,13 +4610,13 @@
  stem: дун-сьӧлыктэм.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: безгрешный, непорочный, святой, совершенный, целомудренный?
+ trans_ru: безгрешный, непорочный, святой
 
 -lexeme
  lex: ымосяська
  stem: ымосяська.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N
+ paradigm: Noun-num-vowel
  trans_ru: львиный зев
 
 -lexeme
@@ -4827,7 +4687,7 @@
  stem: кӧс.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: засушливый
+ trans_ru: сухой
 
 -lexeme
  lex: позорной
@@ -4848,13 +4708,13 @@
  stem: кӧч.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: бойкий, резвый, живой, проворный, ловкий
+ trans_ru: бойкий, резвый
 
 -lexeme
  lex: вожатой
  stem: вожато.
- gramm: ADJ,rus
- paradigm: connect_adjectives-j
+ gramm: N,rus
+ paradigm: Noun-num-j
  trans_ru: вожатый, вожатая
 
 -lexeme
@@ -4967,7 +4827,7 @@
  stem: ӟиг.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: 1. запутанный, спутанный 2. крепкий, тугой – об узле, ӟигзэ пертчыны развязать тугой узел
+ trans_ru: запутанный; тугой
 
 -lexeme
  lex: сӥялэс
@@ -4993,8 +4853,8 @@
 -lexeme
  lex: месвыжы
  stem: месвыжы.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N
+ paradigm: Noun-num-vowel
  trans_ru: слабый пол, весь женский род см.тж. кышномуртвыжы
 
 -lexeme
@@ -5014,8 +4874,8 @@
 -lexeme
  lex: пенсионер
  stem: пенсионер.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N,rus
+ paradigm: Noun-num-consonant
  trans_ru: пенсионер
 
 -lexeme
@@ -5035,8 +4895,8 @@
 -lexeme
  lex: сервиз
  stem: сервиз.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N,rus
+ paradigm: Noun-num-consonant
  trans_ru: сервиз
 
 -lexeme
@@ -5096,13 +4956,6 @@
  trans_ru: омутистый, изобилующий омутами
 
 -lexeme
- lex: прибыльтэм
- stem: прибыльтэм.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: бесприбыльный
-
--lexeme
  lex: сэрек
  stem: сэрек.
  gramm: ADJ
@@ -5128,14 +4981,21 @@
  stem: туала.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: нынешний, современный, настоящий, теперешний
+ trans_ru: нынешний
 
 -lexeme
  lex: валдоргы
  stem: валдоргы.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: валдорги навозный жук
+ gramm: N
+ paradigm: Noun-num-vowel
+ trans_ru: навозный жук
+
+-lexeme
+ lex: валдорги
+ stem: валдорги.
+ gramm: N
+ paradigm: Noun-num-vowel
+ trans_ru: навозный жук
 
 -lexeme
  lex: ярано
@@ -5154,9 +5014,9 @@
 -lexeme
  lex: кытлык
  stem: кытлык.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: неурожай, засуха, недоред, голод
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: неурожай, засуха, голод
 
 -lexeme
  lex: шуг
@@ -5177,7 +5037,7 @@
  stem: утчаськон-бугыръяськон.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: поисковый Володялы утчан-бугыръяськон уж нуэмез понна бадӟым тау кыл ялоно.
+ trans_ru: поисковый
 
 -lexeme
  lex: азинэс
@@ -5189,8 +5049,8 @@
 -lexeme
  lex: тэтчасьтурын
  stem: тэтчасьтурын.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N
+ paradigm: Noun-num-consonant
  trans_ru: болотный курослеп
 
 -lexeme
@@ -5217,8 +5077,8 @@
 -lexeme
  lex: бадьянвесь
  stem: бадьянвес.
- gramm: ADJ
- paradigm: connect_adjectives-soft
+ gramm: N
+ paradigm: Noun-num-soft
  trans_ru: маун аптечный
 
 -lexeme
@@ -5255,20 +5115,19 @@
  gramm: ADJ
  paradigm: connect_adjectives
  trans_ru: крепкий, прочный, твёрдый, упругий
- trans_ru: 
 
 -lexeme
  lex: пырейтурын
  stem: пырейтурын.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N
+ paradigm: Noun-num-consonant
  trans_ru: пырей
 
 -lexeme
  lex: вартурын
  stem: вартурын.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N
+ paradigm: Noun-num-consonant
  trans_ru: зверобой
 
 -lexeme
@@ -5314,17 +5173,10 @@
  trans_ru: близорукий
 
 -lexeme
- lex: кыллись
- stem: кыллис.
- gramm: ADJ
- paradigm: connect_adjectives-soft
- trans_ru: лежащий, лежачий
-
--lexeme
  lex: аби
  stem: аби.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N
+ paradigm: Noun-num-vowel
  trans_ru: старший брат
 
 -lexeme
@@ -5360,7 +5212,14 @@
  stem: лабрес.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: лабырес развесистый, раскидистый, ветвистый
+ trans_ru: развесистый, раскидистый, ветвистый
+
+-lexeme
+ lex: лабырес
+ stem: лабырес.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: развесистый, раскидистый, ветвистый
 
 -lexeme
  lex: шакшы
@@ -5386,8 +5245,8 @@
 -lexeme
  lex: ӵашка
  stem: ӵашка.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N
+ paradigm: Noun-num-vowel
  trans_ru: мелкий лес, мелколесье, роща
 
 -lexeme
@@ -5463,8 +5322,8 @@
 -lexeme
  lex: персонал
  stem: персонал.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N,rus
+ paradigm: Noun-num-consonant
  trans_ru: персонал
 
 -lexeme
@@ -5510,18 +5369,11 @@
  trans_ru: живой
 
 -lexeme
- lex: витьтонэтӥ
- stem: витьтонэтӥ.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: пятидесятый
-
--lexeme
  lex: пайдалы
  stem: пайдалы.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: полезный, целебный, нужный, плодотворный, прибыльный
+ trans_ru: полезный, целебный, прибыльный
 
 -lexeme
  lex: тузонэсь
@@ -5591,7 +5443,7 @@
  stem: сьӧрыттэм.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: бесстыдный, наглый, негодяй, мошенник
+ trans_ru: бесстыдный, наглый
 
 -lexeme
  lex: тепыль-тепыль
@@ -5631,8 +5483,8 @@
 -lexeme
  lex: матч
  stem: матч.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N,rus
+ paradigm: Noun-num-consonant
  trans_ru: матч
 
 -lexeme
@@ -5715,22 +5567,15 @@
 -lexeme
  lex: площадь
  stem: площад.
- gramm: ADJ
- paradigm: connect_adjectives-soft
+ gramm: N,rus
+ paradigm: Noun-num-soft
  trans_ru: площадь
-
--lexeme
- lex: пиё
- stem: пиё.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: 1. имеющий сыновей, пиё-пиё коркае, соин шулдыр коркае фольк. мой дом полон сыновей, потому и весело в нём 2. имеющий детёнышей
 
 -lexeme
  lex: катьырнатурын
  stem: катьырнатурын.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N
+ paradigm: Noun-num-consonant
  trans_ru: козлобородник луговой
 
 -lexeme
@@ -5750,8 +5595,8 @@
 -lexeme
  lex: аскыс
  stem: аскыс.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: ADV
+ paradigm: connect_adverbs
  trans_ru: на следующий день
 
 -lexeme
@@ -5766,7 +5611,7 @@
  stem: ӧткын.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: шустрый, острый, сообразительный, расторопный, проворный, бойкий, резвый
+ trans_ru: шустрый, бойкий, резвый
 
 -lexeme
  lex: монопольной
@@ -5808,7 +5653,7 @@
  stem: асныро.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: асныръем упрямый, своенравный, норовистый, с норовом
+ trans_ru: упрямый, своенравный, норовистый, с норовом
 
 -lexeme
  lex: укшась
@@ -5913,12 +5758,12 @@
  stem: нялмыт.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: отлогий, покатый, пологий, наклонный
+ trans_ru: пологий, наклонный
 
 -lexeme
  lex: провор
  stem: провор.
- gramm: ADJ
+ gramm: ADJ,rus
  paradigm: connect_adjectives
  trans_ru: проворный
 
@@ -5939,8 +5784,8 @@
 -lexeme
  lex: мораль
  stem: морал.
- gramm: ADJ
- paradigm: connect_adjectives-soft
+ gramm: N,rus
+ paradigm: Noun-num-soft
  trans_ru: мораль
 
 -lexeme
@@ -5967,8 +5812,8 @@
 -lexeme
  lex: лул-гажан
  stem: лул-гажан.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N
+ paradigm: Noun-num-consonant
  trans_ru: задушевный друг
 
 -lexeme
@@ -5995,9 +5840,16 @@
 -lexeme
  lex: занӥ
  stem: занӥ.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: занӥ-занӥ, заной душа моя, дорогая моя
+ gramm: N
+ paradigm: Noun-num-vowel
+ trans_ru: душа моя, дорогая моя
+
+-lexeme
+ lex: заной
+ stem: зано.
+ gramm: N
+ paradigm: Noun-num-j
+ trans_ru: душа моя, дорогая моя
 
 -lexeme
  lex: ванё
@@ -6023,15 +5875,15 @@
 -lexeme
  lex: ялдоргуби
  stem: ялдоргуби.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N
+ paradigm: Noun-num-vowel
  trans_ru: опёнок настоящий, осенний
 
 -lexeme
  lex: тордэмтурын
  stem: тордэмтурын.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N
+ paradigm: Noun-num-consonant
  trans_ru: очиток едкий
 
 -lexeme
@@ -6081,7 +5933,7 @@
  stem: ӝабырес.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: расторопный, бой
+ trans_ru: расторопный
 
 -lexeme
  lex: норег
@@ -6156,16 +6008,9 @@
 -lexeme
  lex: миым
  stem: миым.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: ADV
+ paradigm: connect_adverbs
  trans_ru: в прошлый год, в прошлом году
-
--lexeme
- lex: олокудӥз
- stem: олокудӥз.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: неизвестно который, олокудӥныз неизвестно с которым
 
 -lexeme
  lex: вӧл-вӧл
@@ -6184,15 +6029,15 @@
 -lexeme
  lex: сарапултурын
  stem: сарапултурын.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N
+ paradigm: Noun-num-consonant
  trans_ru: донник белый
 
 -lexeme
  lex: баблескучкылак
  stem: баблескучкылак.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N
+ paradigm: Noun-num-consonant
  trans_ru: щавель курчавый
 
 -lexeme
@@ -6205,16 +6050,16 @@
 -lexeme
  lex: поди
  stem: поди.
- gramm: ADJ
+ gramm: PARENTH,rus
  paradigm: connect_adjectives
- trans_ru: Як-Бодьин.вероятно, пожалуй, может
+ trans_ru: вероятно, пожалуй, может
 
 -lexeme
  lex: огбыдӟа
  stem: огбыдӟа.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: одинаковый по величине, одной величины, одного роста, одинаковой величины, одинакового роста, соос огбыдӟаесь 1) они одинакового роста 2) они одногодки
+ trans_ru: одинаковый по величине
 
 -lexeme
  lex: дурыс
@@ -6238,13 +6083,6 @@
  trans_ru: удалой, бравый
 
 -lexeme
- lex: кало
- stem: кало.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: с лямкой, с подвязкой, с ручкой
-
--lexeme
  lex: ньыльым-няльым
  stem: ньыльым-няльым.
  gramm: ADJ
@@ -6257,13 +6095,6 @@
  gramm: ADJ
  paradigm: connect_adjectives
  trans_ru: бдительный, чуткий
-
--lexeme
- lex: витёй
- stem: витёй.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: пять дней, в течение пяти дней
 
 -lexeme
  lex: ымдуръям
@@ -6284,7 +6115,7 @@
  stem: саир.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: странный, непонятный, саир карыны развратить, саир карыса вераны злорадствовать
+ trans_ru: странный, непонятный
 
 -lexeme
  lex: горд
@@ -6352,23 +6183,23 @@
 -lexeme
  lex: жерек
  stem: жерек.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N,rus
+ paradigm: Noun-num-consonant
  trans_ru: жерех обыкновенный
 
 -lexeme
  lex: сандугач
  stem: сандугач.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N
+ paradigm: Noun-num-consonant
  trans_ru: соловей, жаворонок, к. соловей
 
 -lexeme
  lex: лемнянь
  stem: лемнян.
- gramm: ADJ
- paradigm: connect_adjectives-soft
- trans_ru: освящённый хлебец, просфора, просвира
+ gramm: N,rus
+ paradigm: Noun-num-soft
+ trans_ru: просфора
 
 -lexeme
  lex: чукгес
@@ -6380,8 +6211,8 @@
 -lexeme
  lex: анабиту
  stem: анабиту.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N
+ paradigm: Noun-num-vowel
  trans_ru: треугольный участок земли
 
 -lexeme
@@ -6415,8 +6246,8 @@
 -lexeme
  lex: салдатгуби
  stem: салдатгуби.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N,rus
+ paradigm: Noun-num-vowel
  trans_ru: белый гриб
 
 -lexeme
@@ -6457,7 +6288,7 @@
 -lexeme
  lex: колёс
  stem: колёс.
- gramm: ADJ
+ gramm: ADJ,rus
  paradigm: connect_adjectives
  trans_ru: колёсный
 
@@ -6606,7 +6437,7 @@
  stem: орденоносно.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
- trans_ru: орденоносный орденской орденский
+ trans_ru: орденоносный
 
 -lexeme
  lex: белогвардейской
@@ -6646,8 +6477,8 @@
 -lexeme
  lex: мадёс
  stem: мадёс.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N
+ paradigm: Noun-num-consonant
  trans_ru: небольшой рассказ, побасёнка
 
 -lexeme
@@ -6655,7 +6486,7 @@
  stem: гордмыт.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: красноватый, розоватый, с красным отливом
+ trans_ru: красноватый, розоватый
 
 -lexeme
  lex: эсэптэм
@@ -6714,13 +6545,6 @@
  trans_ru: упрямый
 
 -lexeme
- lex: тямысэтӥез
- stem: тямысэтӥез.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: 1. восьмой 2. в-восьмых
-
--lexeme
  lex: ядэсь
  stem: ядэс.
  gramm: ADJ,oblin
@@ -6751,8 +6575,8 @@
 -lexeme
  lex: надзиратель
  stem: надзирател.
- gramm: ADJ
- paradigm: connect_adjectives-soft
+ gramm: N,rus
+ paradigm: Noun-num-soft
  trans_ru: надзиратель
 
 -lexeme
@@ -6767,13 +6591,13 @@
  stem: льӧльпыр.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: льӧльпырьем розоватый, розовато-, с алым оттенком
+ trans_ru: розоватый
 
 -lexeme
  lex: логика
  stem: логика.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N,rus
+ paradigm: Noun-num-vowel
  trans_ru: логика
 
 -lexeme
@@ -6821,9 +6645,9 @@
 -lexeme
  lex: мурда
  stem: мурда.
- gramm: ADJ
+ gramm: ADJ,rel_adj
  paradigm: connect_adjectives
- trans_ru: послелог глубиной около...
+ trans_ru: глубиной равный чему-то
 
 -lexeme
  lex: территориальной
@@ -6845,13 +6669,6 @@
  gramm: ADJ
  paradigm: connect_adjectives
  trans_ru: низкорослый
-
--lexeme
- lex: оскытскеммурт
- stem: оскытскеммурт.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: оскытскемын преданный
 
 -lexeme
  lex: ныж
@@ -6926,8 +6743,8 @@
 -lexeme
  lex: разрядка
  stem: разрядка.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N,rus
+ paradigm: Noun-num-vowel
  trans_ru: разрядка
 
 -lexeme
@@ -6954,8 +6771,8 @@
 -lexeme
  lex: лампочка
  stem: лампочка.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N,rus
+ paradigm: Noun-num-vowel
  trans_ru: лампочка
 
 -lexeme
@@ -6977,7 +6794,7 @@
  stem: чукинэс.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: покатый, наклонный, накренённый
+ trans_ru: покатый, наклонный
 
 -lexeme
  lex: ӵыж-ӵыж
@@ -6989,8 +6806,8 @@
 -lexeme
  lex: пиле-пиле
  stem: пиле-пиле.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: IMIT
+ paradigm: Empty
  trans_ru: тыл. [тыловайский] возглас, которым подзывают ягнёнка
 
 -lexeme
@@ -7085,17 +6902,10 @@
  trans_ru: сравнительный
 
 -lexeme
- lex: сюэтӥез
- stem: сюэтӥез.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: сотый
-
--lexeme
  lex: ток
  stem: ток.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N,rus
+ paradigm: Noun-num-consonant
  trans_ru: ток
 
 -lexeme
@@ -7115,8 +6925,8 @@
 -lexeme
  lex: провод
  stem: провод.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N,rus
+ paradigm: Noun-num-consonant
  trans_ru: провод
 
 -lexeme
@@ -7171,8 +6981,8 @@
 -lexeme
  lex: няньгуби
  stem: няньгуби.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N
+ paradigm: Noun-num-vowel
  trans_ru: белый гриб
 
 -lexeme
@@ -7229,13 +7039,13 @@
  stem: шукырес-бугырес.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: 1. взволнованный, возбуждённый 2. неистово бушующий, сильно разыгравшийся
+ trans_ru: взволнованный, возбуждённый; бушующий
 
 -lexeme
  lex: чочат
  stem: чочат.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N
+ paradigm: Noun-num-consonant
  trans_ru: гладкий участок пашни
 
 -lexeme
@@ -7250,14 +7060,14 @@
  stem: тульырес.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: ослизлый, скользкий, покрытый слизью
+ trans_ru: осклизлый, скользкий
 
 -lexeme
  lex: карышма
  stem: карышма.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: упрямый, норовистый, с норовом, непослушный
+ trans_ru: упрямый, норовистый
 
 -lexeme
  lex: буклин
@@ -7325,8 +7135,8 @@
 -lexeme
  lex: караульной
  stem: караульно.
- gramm: ADJ,rus
- paradigm: connect_adjectives-j
+ gramm: N,rus
+ paradigm: Noun-num-j
  trans_ru: караульный
 
 -lexeme
@@ -7418,14 +7228,14 @@
  stem: сумсыз.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: бавл. бестактный, бесцеремонный, нахальный, сующийся везде и всюду, бестактно, бесцеремонно, нахально
+ trans_ru: бавл. бестактный, нахальный
 
 -lexeme
  lex: ярамтэ
  stem: ярамтэ.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: 1. негодный, непригодный, неподходящий  2. отриц. ф. 3-го л. ед. ч. прош. вр. гл. яраны
+ trans_ru: негодный
 
 -lexeme
  lex: чересь
@@ -7444,8 +7254,8 @@
 -lexeme
  lex: сӥтьбӧчы
  stem: сӥтьбӧчы.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N
+ paradigm: Noun-num-vowel
  trans_ru: навозный жук
 
 -lexeme
@@ -7479,29 +7289,29 @@
 -lexeme
  lex: обвинитель
  stem: обвинител.
- gramm: ADJ
- paradigm: connect_adjectives-soft
+ gramm: N,rus
+ paradigm: Noun-num-soft
  trans_ru: обвинитель
 
 -lexeme
  lex: нуны
  stem: нуны.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: младенческий, детский
+ gramm: N
+ paradigm: Noun-num-vowel
+ trans_ru: младенец
 
 -lexeme
  lex: буг-буг
  stem: буг-буг.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: IMIT
+ paradigm: Empty
  trans_ru: выражает обязательно-зрительный образ мелкого, пушистого или плотного состояния предмета
 
 -lexeme
  lex: уполномоченной
  stem: уполномоченно.
- gramm: ADJ,rus
- paradigm: connect_adjectives-j
+ gramm: N,rus
+ paradigm: Noun-num-j
  trans_ru: уполномоченный
 
 -lexeme
@@ -7533,17 +7343,10 @@
  trans_ru: переимчивый, порядочный
 
 -lexeme
- lex: витетӥ
- stem: витетӥ.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: пятый
-
--lexeme
  lex: бӧрнё
  stem: бӧрнё.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N
+ paradigm: Noun-num-vowel
  trans_ru: мукомольный ковш, чан для варки пива
 
 -lexeme
@@ -7577,22 +7380,22 @@
 -lexeme
  lex: серыга
  stem: серыга.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N
+ paradigm: Noun-num-vowel
  trans_ru: горчак обыкновенный
 
 -lexeme
  lex: кабачи
  stem: кабачи.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N
+ paradigm: Noun-num-vowel
  trans_ru: женский вышитый нагрудник
 
 -lexeme
  lex: чукыри
  stem: чукыри.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N
+ paradigm: Noun-num-vowel
  trans_ru: пескарь обыкновенный
 
 -lexeme
@@ -7614,7 +7417,7 @@
  stem: тульыр-тульыр.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: слизистый, ослизлый, сплошь покрытый слизью
+ trans_ru: слизистый, осклизлый
 
 -lexeme
  lex: яланлыкос
@@ -7633,16 +7436,16 @@
 -lexeme
  lex: мийым
  stem: мийым.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: прошлый год, мимала прошлогодний
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: прошлый год
 
 -lexeme
  lex: корт
  stem: корт.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: железный
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: железо
 
 -lexeme
  lex: школьной
@@ -7670,7 +7473,7 @@
  stem: нуйтӥськис.
  gramm: ADJ
  paradigm: connect_adjectives-soft
- trans_ru: вязкий структураез
+ trans_ru: вязкий
 
 -lexeme
  lex: шыгрес
@@ -7696,9 +7499,9 @@
 -lexeme
  lex: гуждоӝук
  stem: гуждоӝук.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: гуждоршыдпӧсьтон первый весенний праздник
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: первый весенний праздник
 
 -lexeme
  lex: чокой
@@ -7731,8 +7534,8 @@
 -lexeme
  lex: шартлатон
  stem: шартлатон.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N
+ paradigm: Noun-num-consonant
  trans_ru: плавательный пузырь
 
 -lexeme
@@ -7745,8 +7548,8 @@
 -lexeme
  lex: помада
  stem: помада.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N,rus
+ paradigm: Noun-num-vowel
  trans_ru: помада
 
 -lexeme
@@ -7775,7 +7578,7 @@
  stem: ӟуг.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: спутанный, запутанный,всклокоченный, взлохмаченный
+ trans_ru: спутанный, взлохмаченный
 
 -lexeme
  lex: пыльтырес
@@ -7787,8 +7590,8 @@
 -lexeme
  lex: гагат
  stem: гагат.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N
+ paradigm: Noun-num-consonant
  trans_ru: гусь домашний
 
 -lexeme
@@ -7831,13 +7634,13 @@
  stem: пӧросо.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: 1. талантливый, способный 2.годный, подходящий, удобный
+ trans_ru: 1. талантливый, способный 2. годный, подходящий, удобный
 
 -lexeme
  lex: метрушка
  stem: метрушка.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N
+ paradigm: Noun-num-vowel
  trans_ru: зверобой
 
 -lexeme
@@ -7852,7 +7655,7 @@
  stem: пӧртэм.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: особенный, специфичный
+ trans_ru: особенный, другой
 
 -lexeme
  lex: ӵыж
@@ -7866,7 +7669,14 @@
  stem: конгылё.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: конгылес кривой, согнутый, извилистый
+ trans_ru: кривой, согнутый, извилистый
+
+-lexeme
+ lex: конгылес
+ stem: конгылес.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: кривой, согнутый, извилистый
 
 -lexeme
  lex: тӧдьыпыр
@@ -7885,8 +7695,8 @@
 -lexeme
  lex: лумӝол
  stem: лумӝол.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N
+ paradigm: Noun-num-consonant
  trans_ru: южный ветер
 
 -lexeme
@@ -7913,8 +7723,8 @@
 -lexeme
  lex: паляка
  stem: паляка.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N
+ paradigm: Noun-num-vowel
  trans_ru: луговой чай
 
 -lexeme
@@ -7927,9 +7737,16 @@
 -lexeme
  lex: писи
  stem: писи.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: писикай дет. ласк. кошечка, котёночек
+ gramm: N
+ paradigm: Noun-num-vowel
+ trans_ru: кошечка, котёночек
+
+-lexeme
+ lex: писикай
+ stem: писика.
+ gramm: N
+ paradigm: Noun-num-j
+ trans_ru: кошечка, котёночек
 
 -lexeme
  lex: кабыло
@@ -7962,7 +7779,7 @@
 -lexeme
  lex: потеш
  stem: потеш.
- gramm: ADJ
+ gramm: ADJ,rus
  paradigm: connect_adjectives
  trans_ru: забавный, потешный
 
@@ -7978,7 +7795,7 @@
  stem: ӵуштыр-паштыр.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: растрёпанный, взъерошенный, ӵуштыр-паштыр песянай сэргын кылле загадка взъерошенная старушка в углу лежит
+ trans_ru: растрёпанный, взъерошенный
 
 -lexeme
  lex: дэймыт
@@ -7997,16 +7814,9 @@
 -lexeme
  lex: станок
  stem: станок.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N,rus
+ paradigm: Noun-num-consonant
  trans_ru: станок
-
--lexeme
- lex: коньдоно
- stem: коньдоно.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: денежный, имеющий деньги
 
 -lexeme
  lex: согем
@@ -8032,8 +7842,8 @@
 -lexeme
  lex: кӧсмекан
  stem: кӧсмекан.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N
+ paradigm: Noun-num-consonant
  trans_ru: лишай
 
 -lexeme
@@ -8053,8 +7863,8 @@
 -lexeme
  lex: прослойка
  stem: прослойка.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N,rus
+ paradigm: Noun-num-vowel
  trans_ru: прослойка
 
 -lexeme
@@ -8093,13 +7903,6 @@
  trans_ru: трагический
 
 -lexeme
- lex: кымето
- stem: кымето.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: с крышкой
-
--lexeme
  lex: вачырес
  stem: вачырес.
  gramm: ADJ
@@ -8116,8 +7919,8 @@
 -lexeme
  lex: парад
  stem: парад.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N,rus
+ paradigm: Noun-num-consonant
  trans_ru: парад
 
 -lexeme
@@ -8146,7 +7949,7 @@
  stem: антагонистическо.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
- trans_ru:  антагонистический
+ trans_ru: антагонистический
 
 -lexeme
  lex: лейтенантской
@@ -8179,8 +7982,8 @@
 -lexeme
  lex: нравственность
  stem: нравственност.
- gramm: ADJ
- paradigm: connect_adjectives-soft
+ gramm: N,rus
+ paradigm: Noun-num-soft
  trans_ru: нравственность
 
 -lexeme
@@ -8235,9 +8038,16 @@
 -lexeme
  lex: лӧбег
  stem: лӧбег.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: лӧбекей зазнайка, выскочка
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: зазнайка, выскочка
+
+-lexeme
+ lex: лӧбекей
+ stem: лӧбеке.
+ gramm: N
+ paradigm: Noun-num-j
+ trans_ru: зазнайка, выскочка
 
 -lexeme
  lex: катьтэм
@@ -8249,9 +8059,9 @@
 -lexeme
  lex: нин
  stem: нин.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: лыковый
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: лыко
 
 -lexeme
  lex: цилиндрической
@@ -8270,8 +8080,8 @@
 -lexeme
  lex: сарод
  stem: сарод.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N
+ paradigm: Noun-num-consonant
  trans_ru: пырей, костер
 
 -lexeme
@@ -8284,8 +8094,8 @@
 -lexeme
  lex: агентство
  stem: агентство.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N,rus
+ paradigm: Noun-num-vowel
  trans_ru: агентство
 
 -lexeme
@@ -8322,13 +8132,6 @@
  gramm: ADJ
  paradigm: connect_adjectives
  trans_ru: быстрый, подвижный, горячий
-
--lexeme
- lex: асказ
- stem: асказ.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: на следующий день
 
 -lexeme
  lex: кубической
@@ -8373,18 +8176,11 @@
  trans_ru: кедровый
 
 -lexeme
- lex: укмысэтӥез
- stem: укмысэтӥез.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: девятый
-
--lexeme
  lex: лыз-чагыр
  stem: лыз-чагыр.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: синевато-голубой, сине-голубой, сизый
+ trans_ru: сине-голубой, сизый
 
 -lexeme
  lex: шара
@@ -8403,9 +8199,9 @@
 -lexeme
  lex: гырнадёр
  stem: гырнадёр.
- gramm: ADJ
+ gramm: ADJ,rus
  paradigm: connect_adjectives
- trans_ru: здоровый, крепкий, самоуверенный, самодовольный рус. гренадёр – солдат или офицер отборных частей царской армии
+ trans_ru: здоровый, крепкий, самоуверенный, самодовольный
 
 -lexeme
  lex: дурымтэ
@@ -8431,8 +8227,8 @@
 -lexeme
  lex: гордсизьйыр
  stem: гордсизьйыр.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N
+ paradigm: Noun-num-consonant
  trans_ru: клевер красный
 
 -lexeme
@@ -8461,7 +8257,7 @@
  stem: ворсам.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: закрытый, запертый, прикрытый, закупоренный
+ trans_ru: закрытый, запертый
 
 -lexeme
  lex: заро
@@ -8473,8 +8269,8 @@
 -lexeme
  lex: ячейка
  stem: ячейка.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N,rus
+ paradigm: Noun-num-vowel
  trans_ru: ячейка
 
 -lexeme
@@ -8494,8 +8290,8 @@
 -lexeme
  lex: одеколон
  stem: одеколон.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N,rus
+ paradigm: Noun-num-consonant
  trans_ru: одеколон
 
 -lexeme
@@ -8564,8 +8360,8 @@
 -lexeme
  lex: бадӟам
  stem: бадӟам.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N
+ paradigm: Noun-num-consonant
  trans_ru: красный рубин
 
 -lexeme
@@ -8585,8 +8381,8 @@
 -lexeme
  lex: профуполномоченной
  stem: профуполномоченно.
- gramm: ADJ,rus
- paradigm: connect_adjectives-j
+ gramm: N,rus
+ paradigm: Noun-num-j
  trans_ru: профуполномоченный
 
 -lexeme
@@ -8620,8 +8416,8 @@
 -lexeme
  lex: патриотизм
  stem: патриотизм.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N,rus
+ paradigm: Noun-num-consonant
  trans_ru: патриотизм
 
 -lexeme
@@ -8632,17 +8428,10 @@
  trans_ru: близкий, ближний
 
 -lexeme
- lex: кӧмо
- stem: кӧмо.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: покрытый корой, кожурой, скорлупой
-
--lexeme
  lex: натуралист
  stem: натуралист.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N,rus
+ paradigm: Noun-num-consonant
  trans_ru: натуралист
 
 -lexeme
@@ -8702,13 +8491,6 @@
  trans_ru: своенравный, упрямый
 
 -lexeme
- lex: форматэм
- stem: форматэм.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: не имеющий формы, без формы, бесформенный
-
--lexeme
  lex: еврейской
  stem: еврейско.
  gramm: ADJ,rus
@@ -8718,8 +8500,8 @@
 -lexeme
  lex: ӵушты
  stem: ӵушты.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N
+ paradigm: Noun-num-vowel
  trans_ru: лишай
 
 -lexeme
@@ -8748,7 +8530,7 @@
  stem: уак.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: мелкий, некрупный, уак уксё мелкие деньги
+ trans_ru: мелкий, некрупный
 
 -lexeme
  lex: библиографической
@@ -8940,13 +8722,6 @@
  trans_ru: мятый лоскуток, комок
 
 -lexeme
- lex: Дургамумы
- stem: Дургамумы.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: Инкуазь Анай богиня материального мира
-
--lexeme
  lex: арифметической
  stem: арифметическо.
  gramm: ADJ,rus
@@ -8963,8 +8738,8 @@
 -lexeme
  lex: сборник
  stem: сборник.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N,rus
+ paradigm: Noun-num-consonant
  trans_ru: сборник
 
 -lexeme
@@ -8977,8 +8752,8 @@
 -lexeme
  lex: ньыл
  stem: ньыл.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N
+ paradigm: Noun-num-consonant
  trans_ru: 1. камбий, камбиальный слой 2. годичный круг 3. смолистый
 
 -lexeme
@@ -9063,13 +8838,20 @@
  stem: шульӟег.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: шульӟыт бледный
+ trans_ru: бледный
+
+-lexeme
+ lex: шульӟыт
+ stem: шульӟыт.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: бледный
 
 -lexeme
  lex: застава
  stem: застава.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N,rus
+ paradigm: Noun-num-vowel
  trans_ru: застава
 
 -lexeme
@@ -9112,13 +8894,13 @@
  stem: осконо.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: надежный
+ trans_ru: надёжный
 
 -lexeme
  lex: корабль
  stem: корабл.
- gramm: ADJ
- paradigm: connect_adjectives-soft
+ gramm: N,rus
+ paradigm: Noun-num-soft
  trans_ru: корабль
 
 -lexeme
@@ -9138,8 +8920,8 @@
 -lexeme
  lex: галерея
  stem: галерея.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N,rus
+ paradigm: Noun-num-vowel
  trans_ru: галерея
 
 -lexeme
@@ -9152,8 +8934,8 @@
 -lexeme
  lex: пила
  stem: пила.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N,rus
+ paradigm: Noun-num-vowel
  trans_ru: пила
 
 -lexeme
@@ -9173,16 +8955,16 @@
 -lexeme
  lex: переворот
  stem: переворот.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N,rus
+ paradigm: Noun-num-consonant
  trans_ru: переворот
 
 -lexeme
  lex: уӵы
  stem: уӵы.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: соловьиный
+ gramm: N
+ paradigm: Noun-num-vowel
+ trans_ru: соловей
 
 -lexeme
  lex: мурттэм
@@ -9201,8 +8983,8 @@
 -lexeme
  lex: орылика
  stem: орылика.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N
+ paradigm: Noun-num-vowel
  trans_ru: таймень обыкновенный
 
 -lexeme
@@ -9245,7 +9027,7 @@
  stem: нюмыль-нюмыл.
  gramm: ADJ
  paradigm: connect_adjectives-soft
- trans_ru: 1. мягкий 2. ослизлый
+ trans_ru: 1. мягкий 2. осклизлый
 
 -lexeme
  lex: лесотехнической
@@ -9292,8 +9074,8 @@
 -lexeme
  lex: баки
  stem: баки.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N,rus
+ paradigm: Noun-num-vowel
  trans_ru: перочинный нож
 
 -lexeme
@@ -9334,9 +9116,9 @@
 -lexeme
  lex: континент
  stem: континент.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: континент континентальной континентальный
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: континент
 
 -lexeme
  lex: нюлымтэ
@@ -9360,18 +9142,11 @@
  trans_ru: 1. однобокий, односторонний 2. незавершённый, недоделанный
 
 -lexeme
- lex: тямыстонэтӥез
- stem: тямыстонэтӥез.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: восьмидесятый
-
--lexeme
  lex: кингыль-конгыль
  stem: кингыль-конгыл.
  gramm: ADJ
  paradigm: connect_adjectives-soft
- trans_ru: 1. витой, свилеватый 2.вразвалку, шатаясь
+ trans_ru: 1. витой, свилеватый 2. вразвалку, шатаясь
 
 -lexeme
  lex: вылӥ-вылӥ
@@ -9411,8 +9186,8 @@
 -lexeme
  lex: ерофейтурын
  stem: ерофейтурын.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N
+ paradigm: Noun-num-consonant
  trans_ru: зверобой
 
 -lexeme
@@ -9451,13 +9226,6 @@
  trans_ru: узкий, неширокий
 
 -lexeme
- lex: олокин
- stem: олокин.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: неизвестный, незнакомый
-
--lexeme
  lex: кӧттыро
  stem: кӧттыро.
  gramm: ADJ
@@ -9467,9 +9235,9 @@
 -lexeme
  lex: бакы
  stem: бакы.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: карманный нож(ик
+ gramm: N
+ paradigm: Noun-num-vowel
+ trans_ru: карманный ножик
 
 -lexeme
  lex: кисьтэм-басьтэм
@@ -9523,8 +9291,8 @@
 -lexeme
  lex: связь
  stem: связ.
- gramm: ADJ
- paradigm: connect_adjectives-soft
+ gramm: N,rus
+ paradigm: Noun-num-soft
  trans_ru: связь
 
 -lexeme
@@ -9553,7 +9321,7 @@
  stem: фамильно.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
- trans_ru: фамильный
+ trans_ru: фамильный; чёрный листовой (чай)
 
 -lexeme
  lex: внештатной
@@ -9614,8 +9382,8 @@
 -lexeme
  lex: область
  stem: област.
- gramm: ADJ
- paradigm: connect_adjectives-soft
+ gramm: N,rus
+ paradigm: Noun-num-soft
  trans_ru: область
 
 -lexeme
@@ -9637,7 +9405,7 @@
  stem: гордпыр.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: гордпыръем красноватый, с красным отливом
+ trans_ru: красноватый
 
 -lexeme
  lex: шуштрес
@@ -9698,8 +9466,8 @@
 -lexeme
  lex: песятайбубыли
  stem: песятайбубыли.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N
+ paradigm: Noun-num-vowel
  trans_ru: вид ночной бабочки
 
 -lexeme
@@ -9707,7 +9475,7 @@
  stem: будӟи.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: высокомерный, воображающий, кичливый, с гонором
+ trans_ru: высокомерный
 
 -lexeme
  lex: ладра
@@ -9721,7 +9489,7 @@
  stem: шап-шара.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: бавл. голый, совершенно голый, голо
+ trans_ru: бавл. голый
 
 -lexeme
  lex: вырйыло
@@ -9845,8 +9613,8 @@
 -lexeme
  lex: община
  stem: община.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N,rus
+ paradigm: Noun-num-vowel
  trans_ru: община
 
 -lexeme
@@ -9889,14 +9657,14 @@
  stem: савраска.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: саврасько саврасый
+ trans_ru: саврасый
 
 -lexeme
  lex: тэрег
  stem: тэрег.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: простейший вид берда
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: простейший вид бёрда
 
 -lexeme
  lex: пенӟег
@@ -9929,8 +9697,8 @@
 -lexeme
  lex: мыдъят
  stem: мыдъят.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: ADV
+ paradigm: connect_adverbs
  trans_ru: в другой раз, в дальнейшем
 
 -lexeme
@@ -9969,13 +9737,6 @@
  trans_ru: невыгодный, неприбыльный
 
 -lexeme
- lex: валась
- stem: валас.
- gramm: ADJ
- paradigm: connect_adjectives-soft
- trans_ru: знающий, понимающий, сообразительный, понятливый, способный, умный
-
--lexeme
  lex: физиологической
  stem: физиологическо.
  gramm: ADJ,rus
@@ -9994,7 +9755,7 @@
  stem: лусьтрес.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: лохматый, косматый, взлохма­ченный, мохнатый
+ trans_ru: лохматый, косматый
 
 -lexeme
  lex: сӥло
@@ -10020,15 +9781,15 @@
 -lexeme
  lex: материк
  stem: материк.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N,rus
+ paradigm: Noun-num-consonant
  trans_ru: материк
 
 -lexeme
  lex: шани
  stem: шани.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N
+ paradigm: Noun-num-vowel
  trans_ru: гравий
 
 -lexeme
@@ -10036,7 +9797,7 @@
  stem: шук.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: шаловливый, бойкий, озорной, бедовый, шалун, проказник, озорник
+ trans_ru: шаловливый, бойкий, озорной
 
 -lexeme
  lex: союзно-республиканской
@@ -10053,17 +9814,10 @@
  trans_ru: термический
 
 -lexeme
- lex: вордон
- stem: вордон.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: водческий
-
--lexeme
  lex: палякатурын
  stem: палякатурын.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N
+ paradigm: Noun-num-consonant
  trans_ru: погремок весенний, денежник
 
 -lexeme
@@ -10097,8 +9851,8 @@
 -lexeme
  lex: самолёт
  stem: самолёт.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N,rus
+ paradigm: Noun-num-consonant
  trans_ru: самолёт
 
 -lexeme
@@ -10113,14 +9867,14 @@
  stem: мыньырес.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: улыбкой
+ trans_ru: улыбчивый
 
 -lexeme
  lex: ярантэм
  stem: ярантэм.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: негодный, непригодный, неподходящий
+ trans_ru: непригодный
 
 -lexeme
  lex: бозгам
@@ -10134,14 +9888,7 @@
  stem: призывно.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
- trans_ru: воен. призывной
-
--lexeme
- lex: ньыльдонэтӥ
- stem: ньыльдонэтӥ.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: 1. сороковой 2. в сорока местах
+ trans_ru: призывной
 
 -lexeme
  lex: ладлы
@@ -10153,8 +9900,8 @@
 -lexeme
  lex: подшипник
  stem: подшипник.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N,rus
+ paradigm: Noun-num-consonant
  trans_ru: подшипник
 
 -lexeme
@@ -10188,9 +9935,9 @@
 -lexeme
  lex: копар
  stem: копар.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: банный черпак, сарбаед коть мунчо копарлы ке но ярасал шутл. неплохой туесок – пригодится для банного черпака, букв.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: банный черпак
 
 -lexeme
  lex: усто
@@ -10260,7 +10007,7 @@
  stem: норед.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: 1. недоспелый, недозрелый 2. молодой
+ trans_ru: недоспелый, недозрелый; молодой
 
 -lexeme
  lex: шалтырес
@@ -10307,9 +10054,9 @@
 -lexeme
  lex: зарни
  stem: зарни.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: золотой
+ gramm: N
+ paradigm: Noun-num-vowel
+ trans_ru: золото
 
 -lexeme
  lex: вольной
@@ -10328,8 +10075,8 @@
 -lexeme
  lex: блокада
  stem: блокада.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N,rus
+ paradigm: Noun-num-vowel
  trans_ru: блокада
 
 -lexeme
@@ -10351,7 +10098,14 @@
  stem: огтусо.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: оггусъем одинаковый по внешности, похожий
+ trans_ru: одинаковый по внешности, похожий
+
+-lexeme
+ lex: огтусъем
+ stem: огтусъем.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: одинаковый по внешности, похожий
 
 -lexeme
  lex: мырккес
@@ -10363,8 +10117,8 @@
 -lexeme
  lex: пӧлы
  stem: пӧлы.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N
+ paradigm: Noun-num-vowel
  trans_ru: большой палец
 
 -lexeme
@@ -10377,8 +10131,8 @@
 -lexeme
  lex: такси
  stem: такси.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N,rus
+ paradigm: Noun-num-vowel
  trans_ru: такси
 
 -lexeme
@@ -10410,25 +10164,11 @@
  trans_ru: сырой, недоваренный
 
 -lexeme
- lex: витись
- stem: витис.
- gramm: ADJ
- paradigm: connect_adjectives-soft
- trans_ru: ожидающий
-
--lexeme
  lex: кыскет
  stem: кыскет.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N
+ paradigm: Noun-num-consonant
  trans_ru: верх тёплой одежды
-
--lexeme
- lex: характертэм
- stem: характертэм.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: бесхарактерный
 
 -lexeme
  lex: пырчоё
@@ -10449,7 +10189,7 @@
  stem: огтупатэм.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: определенный
+ trans_ru: определённый
 
 -lexeme
  lex: материалистичной
@@ -10463,7 +10203,7 @@
  stem: жалясьтэм.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: безжалостный, беспощадный, бездушный, бессердечный
+ trans_ru: безжалостный, беспощадный
 
 -lexeme
  lex: стальной
@@ -10474,7 +10214,7 @@
 
 -lexeme
  lex: гоно 
- stem: гоно .
+ stem: гоно.
  gramm: ADJ
  paradigm: connect_adjectives
  trans_ru: мохнатый, волосатый, меховой
@@ -10498,7 +10238,7 @@
  stem: огӝужда.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: одинаковый по росту, огӝуждаесь пужымъёс одинаковые по высоте сосны
+ trans_ru: одинаковый по росту
 
 -lexeme
  lex: шукыр-шукыр
@@ -10529,18 +10269,11 @@
  trans_ru: 1. пустой, голый 2. с.-х. паровой
 
 -lexeme
- lex: пайдаё
- stem: пайдаё.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: выгодный, прибыльный
-
--lexeme
  lex: дартлы
  stem: дартлы.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: 1. страстный 2. воодушевлённый, вдохновлённый 3. задорный, живой, энергичный
+ trans_ru: страстный; воодушевлённый; задорный, энергичный
 
 -lexeme
  lex: лекторской
@@ -10580,8 +10313,8 @@
 -lexeme
  lex: ссыльной
  stem: ссыльно.
- gramm: ADJ,rus
- paradigm: connect_adjectives-j
+ gramm: N,rus
+ paradigm: Noun-num-j
  trans_ru: ссыльный
 
 -lexeme
@@ -10601,8 +10334,8 @@
 -lexeme
  lex: пионервожатой
  stem: пионервожато.
- gramm: ADJ,rus
- paradigm: connect_adjectives-j
+ gramm: N,rus
+ paradigm: Noun-num-j
  trans_ru: пионервожатый
 
 -lexeme
@@ -10610,7 +10343,7 @@
  stem: бутово.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
- trans_ru: тех. бутовый
+ trans_ru: бутовый
 
 -lexeme
  lex: межпланетной
@@ -10629,7 +10362,7 @@
 -lexeme
  lex: угрум
  stem: угрум.
- gramm: ADJ
+ gramm: ADJ,rus
  paradigm: connect_adjectives
  trans_ru: 1. грубый, неотёсанный 2. угрюмый
 
@@ -10650,8 +10383,8 @@
 -lexeme
  lex: заём
  stem: заём.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N,rus
+ paradigm: Noun-num-consonant
  trans_ru: заём
 
 -lexeme
@@ -10687,13 +10420,13 @@
  stem: дӥсьтӥсьтэм.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: несмелый, робкий, нерешительный, застенчивый
+ trans_ru: несмелый, робкий
 
 -lexeme
  lex: вольы
  stem: вольы.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N
+ paradigm: Noun-num-vowel
  trans_ru: расчищенный из-под леса под пашню или под покос участок земли, подсека в лесу, подлесок
 
 -lexeme
@@ -10729,7 +10462,7 @@
  stem: шапыт.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: шап бойкий, шустрый
+ trans_ru: бойкий, шустрый
 
 -lexeme
  lex: кизыр-позыр
@@ -10743,7 +10476,7 @@
  stem: пиштытэм.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: отражённый, пиштытэт радиаци отражённая радиация, см тж. палдытэм
+ trans_ru: отражённый
 
 -lexeme
  lex: кӧшкемыт
@@ -10764,7 +10497,7 @@
  stem: нодсыз.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: нодтэм несмышленый, несообразительный
+ trans_ru: несмышленый, несообразительный
 
 -lexeme
  lex: посӥскем
@@ -10800,13 +10533,6 @@
  gramm: ADJ
  paradigm: connect_adjectives
  trans_ru: лентяй
-
--lexeme
- lex: яратэм
- stem: яратэм.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: любимый
 
 -lexeme
  lex: технической
@@ -10862,20 +10588,20 @@
  stem: бакорливо.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
- trans_ru: говорливый, разговорчивый, словоохотливый, болтливый
+ trans_ru: разговорчивый, болтливый
 
 -lexeme
  lex: обзор
  stem: обзор.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N,rus
+ paradigm: Noun-num-consonant
  trans_ru: обзор
 
 -lexeme
  lex: тётёрок
  stem: тётёрок.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N
+ paradigm: Noun-num-consonant
  trans_ru: маленький бугорок, кучка
 
 -lexeme
@@ -10911,7 +10637,7 @@
  stem: лызпыр.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: лызпыръем синеватый, иссиня-
+ trans_ru: синеватый
 
 -lexeme
  lex: комендантской
@@ -10923,16 +10649,16 @@
 -lexeme
  lex: бӧтьыртон
  stem: бӧтьыртон.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N
+ paradigm: Noun-num-consonant
  trans_ru: 1. пустой разговор 2. крик
 
 -lexeme
  lex: бун
  stem: бун.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: мочальный
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: мочало
 
 -lexeme
  lex: следственной
@@ -10974,14 +10700,7 @@
  stem: льӧльмыт.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: розоватый, розовато-, с алым оттенком
-
--lexeme
- lex: чингылиё
- stem: чингылиё.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: 1. звенящий, со звоном 2. с колокольчиком
+ trans_ru: розоватый
 
 -lexeme
  lex: чукдор
@@ -11009,7 +10728,7 @@
  stem: калляла.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: современный, настоящий, нынешний, теперешний
+ trans_ru: современный, нынешний
 
 -lexeme
  lex: паймымон
@@ -11038,13 +10757,6 @@
  gramm: ADJ
  paradigm: connect_adjectives
  trans_ru: умеющий всё делать, мастер на все руки
-
--lexeme
- lex: шер-шер
- stem: шер-шер.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: редкий-редкий
 
 -lexeme
  lex: фин-угор
@@ -11084,8 +10796,8 @@
 -lexeme
  lex: магистраль
  stem: магистрал.
- gramm: ADJ
- paradigm: connect_adjectives-soft
+ gramm: N,rus
+ paradigm: Noun-num-soft
  trans_ru: магистраль
 
 -lexeme
@@ -11122,13 +10834,6 @@
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: алгебраический
-
--lexeme
- lex: нарушен
- stem: нарушен.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: алфавитный порядок
 
 -lexeme
  lex: утыр
@@ -11198,7 +10903,7 @@
  stem: сэрыт.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: быстрый, скорый, поспешный
+ trans_ru: скорый, поспешный
 
 -lexeme
  lex: шудӟам
@@ -11281,8 +10986,8 @@
 -lexeme
  lex: абӟи
  stem: абӟи.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N
+ paradigm: Noun-num-vowel
  trans_ru: старший брат, дядя
 
 -lexeme
@@ -11302,8 +11007,8 @@
 -lexeme
  lex: приём
  stem: приём.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N,rus
+ paradigm: Noun-num-consonant
  trans_ru: приём
 
 -lexeme
@@ -11321,25 +11026,11 @@
  trans_ru: мелкий, плоский
 
 -lexeme
- lex: дано-Дунов
- stem: дано-Дунов.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: престижный
-
--lexeme
  lex: тауакал
  stem: тауакал.
  gramm: ADJ
  paradigm: connect_adjectives
  trans_ru: решительный, смелый
-
--lexeme
- lex: дӥсё-куто
- stem: дӥсё-куто.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: одетый-обутый
 
 -lexeme
  lex: тукышо
@@ -11409,7 +11100,14 @@
  stem: сэскис.
  gramm: ADJ
  paradigm: connect_adjectives-soft
- trans_ru: сэрыт чуткий, бойкий
+ trans_ru: чуткий, бойкий
+
+-lexeme
+ lex: сэрыт
+ stem: сэрыт.
+ gramm: ADJ
+ paradigm: connect_adjectives-consonant
+ trans_ru: чуткий, бойкий
 
 -lexeme
  lex: шуньыр-шаньыр
@@ -11435,8 +11133,8 @@
 -lexeme
  lex: комсомол
  stem: комсомол.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N,rus
+ paradigm: Noun-num-consonant
  trans_ru: комсомол
 
 -lexeme
@@ -11470,8 +11168,8 @@
 -lexeme
  lex: шиетон
  stem: шиетон.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N
+ paradigm: Noun-num-consonant
  trans_ru: шипение
 
 -lexeme
@@ -11500,7 +11198,7 @@
  stem: травопольно.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
- trans_ru: с.-х. травопольный
+ trans_ru: травопольный
 
 -lexeme
  lex: миндырес
@@ -11533,29 +11231,29 @@
 -lexeme
  lex: шугадӟем
  stem: шугадӟем.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N
+ paradigm: Noun-num-consonant
  trans_ru: потерпевший
 
 -lexeme
  lex: саестэм
  stem: саестэм.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: этногр. свободный летний жилет наподобие кафтана
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: свободный летний жилет наподобие кафтана
 
 -lexeme
  lex: тёр
  stem: тёр.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: IMIT
+ paradigm: Empty
  trans_ru: звукоподр. падающей струйке жидкости или сыпучих материалов
 
 -lexeme
  lex: мукетъят
  stem: мукетъят.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: ADV
+ paradigm: connect_adverbs
  trans_ru: в другой раз
 
 -lexeme
@@ -11589,9 +11287,9 @@
 -lexeme
  lex: тари
  stem: тари.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: просяной, пшённый
+ gramm: N
+ paradigm: Noun-num-vowel
+ trans_ru: просо, пшено
 
 -lexeme
  lex: тульк
@@ -11626,7 +11324,7 @@
  stem: тӧдьыалэс.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: белесый
+ trans_ru: белёсый
 
 -lexeme
  lex: кабардинской
@@ -11648,13 +11346,6 @@
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: радиоактивный
-
--lexeme
- lex: ведра
- stem: ведра.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: ведёрный
 
 -lexeme
  lex: бозгес
@@ -11680,8 +11371,8 @@
 -lexeme
  lex: айрак
  stem: айрак.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N
+ paradigm: Noun-num-consonant
  trans_ru: пырей
 
 -lexeme
@@ -11797,10 +11488,10 @@
  trans_ru: похоронный
 
 -lexeme
- lex: аАшапартна
- stem: аАшапартна.
- gramm: ADJ
- paradigm: connect_adjectives
+ lex: Ашапартна
+ stem: ашапартна.
+ gramm: N,persn
+ paradigm: Noun-num-vowel
  trans_ru: древний языческий чародей, упоминается в словах заговоров в виде талисмана
 
 -lexeme
@@ -11850,7 +11541,7 @@
  stem: етӥз.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: ловкий, находчивый, бойкий, изворотливый
+ trans_ru: ловкий, бойкий, изворотливый
 
 -lexeme
  lex: кынмам
@@ -11858,20 +11549,6 @@
  gramm: ADJ
  paradigm: connect_adjectives
  trans_ru: 1. простуженный, простудный, кынмамен висён простудное заболевание 2. подмороженный, прихваченный морозом
-
--lexeme
- lex: гонтэм
- stem: гонтэм.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: бесшёрстный, безволосый, неоперившийся
-
--lexeme
- lex: укмысэтӥ
- stem: укмысэтӥ.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: девятый
 
 -lexeme
  lex: европейской
@@ -11897,8 +11574,8 @@
 -lexeme
  lex: бызара
  stem: бызара.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N,rus
+ paradigm: Noun-num-vowel
  trans_ru: 1. хорь, хорёк 2. суслик
 
 -lexeme
@@ -11907,13 +11584,6 @@
  gramm: ADJ
  paradigm: connect_adjectives
  trans_ru: великолепный
-
--lexeme
- lex: сантиметръем
- stem: сантиметръем.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: сантиметровый
 
 -lexeme
  lex: выро-гопо
@@ -11939,16 +11609,23 @@
 -lexeme
  lex: оскымонмурт
  stem: оскымонмурт.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: авторитетный человек
+
+-lexeme
+ lex: кильтырес
+ stem: кильтырес.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: авторитетный человек
+ trans_ru: щегольской, щеголеватый
 
 -lexeme
  lex: кильтрес
  stem: кильтрес.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: кильтырес щегольской, щеголеватый
+ trans_ru: щегольской, щеголеватый
 
 -lexeme
  lex: нялым
@@ -11956,13 +11633,6 @@
  gramm: ADJ
  paradigm: connect_adjectives
  trans_ru: покатый
-
--lexeme
- lex: байлыко
- stem: байлыко.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: имеющий
 
 -lexeme
  lex: дошлой
@@ -11977,13 +11647,6 @@
  gramm: ADJ
  paradigm: connect_adjectives
  trans_ru: узкий, тесный
-
--lexeme
- lex: быгатымон
- stem: быгатымон.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: вполне осуществимый, вполне возможный
 
 -lexeme
  lex: мызон
@@ -12030,8 +11693,8 @@
 -lexeme
  lex: нунышыд
  stem: нунышыд.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N
+ paradigm: Noun-num-consonant
  trans_ru: обычай угощать роженицу
 
 -lexeme
@@ -12051,8 +11714,8 @@
 -lexeme
  lex: бискыли
  stem: бискыли.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N
+ paradigm: Noun-num-vowel
  trans_ru: 1. каравай, круглый хлеб, ярушник обл. 2. коржик
 
 -lexeme
@@ -12088,20 +11751,20 @@
  stem: мугло.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: муглок комолый
+ trans_ru: комолый
 
 -lexeme
  lex: гуньдыт
  stem: гуньдыт.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: душный, удушливый трудно глотаемый
+ trans_ru: душный, удушливый
 
 -lexeme
  lex: мугли
  stem: мугли.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N,rus
+ paradigm: Noun-num-vowel
  trans_ru: хвощ полевой
 
 -lexeme
@@ -12149,8 +11812,8 @@
 -lexeme
  lex: вӧш
  stem: вӧш.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N
+ paradigm: Noun-num-consonant
  trans_ru: деревянный поднос, кухонная доска
 
 -lexeme
@@ -12186,7 +11849,7 @@
  stem: чакот.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: 1.худой, хилый, болезненный 2. чахоточный
+ trans_ru: худой, хилый, болезненный; чахоточный
 
 -lexeme
  lex: пасесь
@@ -12226,8 +11889,8 @@
 -lexeme
  lex: байрам
  stem: байрам.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N
+ paradigm: Noun-num-consonant
  trans_ru: религ. татарский пост
 
 -lexeme
@@ -12242,7 +11905,7 @@
  stem: лемлетпыр.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: лемлетпыръем розоватый, с розоватым оттенком
+ trans_ru: розоватый
 
 -lexeme
  lex: депутатской
@@ -12275,15 +11938,15 @@
 -lexeme
  lex: полигон
  stem: полигон.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N,rus
+ paradigm: Noun-num-consonant
  trans_ru: полигон
 
 -lexeme
  lex: горем
  stem: горем.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N
+ paradigm: Noun-num-consonant
  trans_ru: громкий смех, хохот
 
 -lexeme
@@ -12410,7 +12073,14 @@
  stem: огмылкыдо.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: огмылкыдъем единодушный, дружный, единый
+ trans_ru: единодушный, дружный, единый
+
+-lexeme
+ lex: огмылкыдъем
+ stem: огмылкыдъем.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: единодушный, дружный, единый
 
 -lexeme
  lex: телевизор
@@ -12429,9 +12099,16 @@
 -lexeme
  lex: баркат
  stem: баркат.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: баркатгыль петушиный гребешок
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: петушиный гребешок
+
+-lexeme
+ lex: баркатгыль
+ stem: баркатгыл.
+ gramm: N,rus
+ paradigm: Noun-num-soft
+ trans_ru: петушиный гребешок
 
 -lexeme
  lex: раттэм
@@ -12487,21 +12164,14 @@
  stem: пыкмес.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: гнилой, сгнивший, тухлый, прогнивший, затхлый, спертый, прогорклый
+ trans_ru: гнилой, тухлый
 
 -lexeme
  lex: яратымон
  stem: яратымон.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: милый, желанный, приятный, симпатичный, располагающий к себе, привлекательный
-
--lexeme
- lex: яркыт-яркыт
- stem: яркыт-яркыт.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: очень яркий, яркий-преяркий
+ trans_ru: милый, привлекательный
 
 -lexeme
  lex: командированной
@@ -12534,9 +12204,9 @@
 -lexeme
  lex: быдӟ-инмар
  stem: быдӟ-инмар.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: великий инмар
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: великий Инмар
 
 -lexeme
  lex: пыкмем
@@ -12576,8 +12246,8 @@
 -lexeme
  lex: обязанность
  stem: обязанност.
- gramm: ADJ
- paradigm: connect_adjectives-soft
+ gramm: N,rus
+ paradigm: Noun-num-soft
  trans_ru: обязанность
 
 -lexeme
@@ -12597,9 +12267,9 @@
 -lexeme
  lex: люгы
  stem: люгы.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: репейный, лопуховый
+ gramm: N,rus
+ paradigm: Noun-num-vowel
+ trans_ru: репей, лопух
 
 -lexeme
  lex: цивилизованной
@@ -12625,8 +12295,8 @@
 -lexeme
  lex: саралтӥ
  stem: саралтӥ.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N
+ paradigm: Noun-num-vowel
  trans_ru: земляной ладан
 
 -lexeme
@@ -12660,8 +12330,8 @@
 -lexeme
  lex: ӵогъясьтурын
  stem: ӵогъясьтурын.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N
+ paradigm: Noun-num-consonant
  trans_ru: синеголовик плосколистный
 
 -lexeme
@@ -12723,7 +12393,7 @@
 -lexeme
  lex: прансуз
  stem: прансуз.
- gramm: ADJ
+ gramm: ADJ,rus
  paradigm: connect_adjectives
  trans_ru: французский
 
@@ -12772,8 +12442,8 @@
 -lexeme
  lex: налог
  stem: налог.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N,rus
+ paradigm: Noun-num-consonant
  trans_ru: налог
 
 -lexeme
@@ -12814,8 +12484,8 @@
 -lexeme
  lex: заговор
  stem: заговор.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N,rus
+ paradigm: Noun-num-consonant
  trans_ru: заговор
 
 -lexeme
@@ -12996,15 +12666,15 @@
 -lexeme
  lex: сюмос
  stem: сюмос.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N
+ paradigm: Noun-num-consonant
  trans_ru: сотый, сотая часть
 
 -lexeme
  lex: подэм
  stem: подэм.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N
+ paradigm: Noun-num-consonant
  trans_ru: [бортовой] улей
 
 -lexeme
@@ -13052,9 +12722,9 @@
 -lexeme
  lex: уак-тӥяк
  stem: уак-тӥяк.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: собир. 1.сбой, потроха, 2.всякая мелочь, домашняя утварь
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: потроха; всякая мелочь, домашняя утварь
 
 -lexeme
  lex: кемаылам
@@ -13087,8 +12757,8 @@
 -lexeme
  lex: лайнер
  stem: лайнер.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N,rus
+ paradigm: Noun-num-consonant
  trans_ru: лайнер
 
 -lexeme
@@ -13115,8 +12785,8 @@
 -lexeme
  lex: кашлык
  stem: кашлык.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N
+ paradigm: Noun-num-consonant
  trans_ru: крутой склон холма
 
 -lexeme
@@ -13162,17 +12832,10 @@
  trans_ru: круглый, округлённый
 
 -lexeme
- lex: йырсиё
- stem: йырсиё.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: волосатый, волосый, волосяной, с волосами
-
--lexeme
  lex: молодец
  stem: молодец.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N,rus
+ paradigm: Noun-num-consonant
  trans_ru: молодец
 
 -lexeme
@@ -13180,7 +12843,7 @@
  stem: мылтет.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: лишний Мылтетэн сылалмес лушканы медэ, дыр!
+ trans_ru: лишний
 
 -lexeme
  lex: директивной
@@ -13206,8 +12869,8 @@
 -lexeme
  lex: музыка
  stem: музыка.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N,rus
+ paradigm: Noun-num-vowel
  trans_ru: музыка
 
 -lexeme
@@ -13302,13 +12965,6 @@
  trans_ru: рассеянный, забывчивый
 
 -lexeme
- lex: быдтымтэ
- stem: быдтымтэ.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: 1. неоконченный, незаконченный, незавершённый 2. неуничтоженный, неистреблённый 3. неистраченный, неизрасходованный
-
--lexeme
  lex: нюпырес
  stem: нюпырес.
  gramm: ADJ
@@ -13318,8 +12974,8 @@
 -lexeme
  lex: посол
  stem: посол.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N,rus
+ paradigm: Noun-num-consonant
  trans_ru: посол
 
 -lexeme
@@ -13341,7 +12997,14 @@
  stem: мурт-эльем.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: мурт-кунъем иностранный
+ trans_ru: иностранный
+
+-lexeme
+ lex: мурт-кунъем
+ stem: мурт-кунъем.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: иностранный
 
 -lexeme
  lex: бакей
@@ -13402,16 +13065,9 @@
 -lexeme
  lex: пестросюлы
  stem: пестросюлы.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N
+ paradigm: Noun-num-vowel
  trans_ru: серый нырок
-
--lexeme
- lex: тямысэтӥ
- stem: тямысэтӥ.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: 1. восьмой 2. в восьми местах
 
 -lexeme
  lex: няркыт
@@ -13423,8 +13079,8 @@
 -lexeme
  lex: мысль
  stem: мысл.
- gramm: ADJ
- paradigm: connect_adjectives-soft
+ gramm: N,rus
+ paradigm: Noun-num-soft
  trans_ru: мысль
 
 -lexeme
@@ -13453,14 +13109,7 @@
  stem: еж.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: зелёный, незрелый, неспелый, еж боры незрелая клубника, еж узы неспелая земляника: эмезь еж на малина ещё зелёная, еж на тон, пие фольк. молод ты ещё, сынок, зелен ты ещё, сынок
-
--lexeme
- lex: туго
- stem: туго.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: богатый хмелем, хмелевой
+ trans_ru: зелёный, незрелый, неспелый
 
 -lexeme
  lex: потонтэм
@@ -13486,8 +13135,8 @@
 -lexeme
  lex: палэп
  stem: палэп.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N
+ paradigm: Noun-num-consonant
  trans_ru: рой
 
 -lexeme
@@ -13510,13 +13159,6 @@
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: гусеничный
-
--lexeme
- lex: фунтъем
- stem: фунтъем.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: фунтовой
 
 -lexeme
  lex: ӟырдыт
@@ -13542,8 +13184,8 @@
 -lexeme
  lex: обстановка
  stem: обстановка.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N,rus
+ paradigm: Noun-num-vowel
  trans_ru: обстановка
 
 -lexeme
@@ -13600,7 +13242,7 @@
  stem: эгылыксыз.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: эгылыктэм бестолковый, бесполезный, не приносящий пользы, неблагодарный
+ trans_ru: бестолковый, бесполезный, не приносящий пользы, неблагодарный
 
 -lexeme
  lex: везек
@@ -13612,8 +13254,8 @@
 -lexeme
  lex: океан
  stem: океан.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N,rus
+ paradigm: Noun-num-consonant
  trans_ru: океан
 
 -lexeme
@@ -13642,7 +13284,7 @@
  stem: дэлеттэм.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: не экономный
+ trans_ru: неэкономный
 
 -lexeme
  lex: нахальной
@@ -13654,8 +13296,8 @@
 -lexeme
  lex: волок
  stem: волок.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N
+ paradigm: Noun-num-consonant
  trans_ru: 1. гужевой путь от селения к селению через дремучий лес 2. лес 3. большак, тракт, волок обл. 4. пространство между двумя реками или притоками
 
 -lexeme
@@ -13710,8 +13352,8 @@
 -lexeme
  lex: сайкытисин
  stem: сайкытисин.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N
+ paradigm: Noun-num-consonant
  trans_ru: белозор болотный
 
 -lexeme
@@ -13766,8 +13408,8 @@
 -lexeme
  lex: канонада
  stem: канонада.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N,rus
+ paradigm: Noun-num-vowel
  trans_ru: канонада
 
 -lexeme
@@ -13841,13 +13483,6 @@
  trans_ru: глухой
 
 -lexeme
- lex: муртъем
- stem: муртъем.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: личное местоимениос гожтисько тазьы: …
-
--lexeme
  lex: мыльккес
  stem: мыльккес.
  gramm: ADJ
@@ -13878,9 +13513,9 @@
 -lexeme
  lex: мерсӧзнэт
  stem: мерсӧзнэт.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: мермугор общественный организм, социальная структура общества общественная система
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: общественная система
 
 -lexeme
  lex: лякос
@@ -13906,15 +13541,15 @@
 -lexeme
  lex: утсан
  stem: утсан.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N
+ paradigm: Noun-num-consonant
  trans_ru: берестяной бочонок
 
 -lexeme
  lex: бомба
  stem: бомба.
- gramm: ADJ
- paradigm: connect_adjectives
+ gramm: N,rus
+ paradigm: Noun-num-vowel
  trans_ru: бомба
 
 -lexeme
@@ -13927,9 +13562,16 @@
 -lexeme
  lex: йыркыӵ
  stem: йыркыӵ.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: йыркерттэт головной платок
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: головной платок
+
+-lexeme
+ lex: йыркерттэт
+ stem: йыркерттэт.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: головной платок
 
 -lexeme
  lex: адӟонтэм
@@ -13969,9 +13611,9 @@
 -lexeme
  lex: север
  stem: север.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: северный
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: север
 
 -lexeme
  lex: келянтэм
@@ -14013,14 +13655,14 @@
  stem: салятмаган.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: ничего неумеющий делать
+ trans_ru: ничего не умеющий делать
 
 -lexeme
  lex: сыльтарман
  stem: сыльтарман.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: неаккуратный, неуклюжий, нескладный, несуразный
+ trans_ru: неаккуратный, неуклюжий, нескладный
 
 -lexeme
  lex: зопыт
@@ -14048,7 +13690,7 @@
  stem: мӧйы.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: пожилой, старый, в годах
+ trans_ru: пожилой, старый
 
 -lexeme
  lex: сальккес
@@ -14126,13 +13768,6 @@
  gramm: ADJ
  paradigm: connect_adjectives
  trans_ru: известный, прославленный, знаменитый
-
--lexeme
- lex: аресъем
- stem: аресъем.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: возраста стольких-то лет (употребляется с числительными)
 
 -lexeme
  lex: шонер
@@ -14268,13 +13903,6 @@
  trans_ru: в снегу, снежный
 
 -lexeme
- lex: гижытэм
- stem: гижытэм.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: без ногтя
-
--lexeme
  lex: мурватэм
  stem: мурватэм.
  gramm: ADJ
@@ -14333,15 +13961,15 @@
 -lexeme
  lex: паллян
  stem: паллян.
- gramm: N
- paradigm: Noun-num-consonant
+ gramm: ADJ
+ paradigm: connect_adjectives
  trans_ru: левый
 
 -lexeme
  lex: бур
  stem: бур.
- gramm: N
- paradigm: Noun-num-consonant
+ gramm: ADJ
+ paradigm: connect_adjectives
  trans_ru: правый
 
 -lexeme
@@ -14537,7 +14165,7 @@
  stem: шерчи.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: св., сэзь юркий, бойкий
+ trans_ru: св. юркий, бойкий
 
 -lexeme
  lex: кечыло
@@ -14614,7 +14242,7 @@
  stem: вожалэс.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: с зелёным оттенком, зеленоватый
+ trans_ru: зеленоватый
 
 -lexeme
  lex: огарес
