@@ -9467,6 +9467,20 @@
  trans_ru: бык
 
 -lexeme
+ lex: оштрак
+ stem: оштрак.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: бычок (диал.)
+
+-lexeme
+ lex: трак
+ stem: трак.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: тракт, дорога
+
+-lexeme
  lex: луоиз
  stem: луоиз.
  gramm: N
@@ -51865,16 +51879,9 @@
 -lexeme
  lex: подпилка
  stem: подпилка.
- gramm: N
+ gramm: N,rus
  paradigm: Noun-num-vowel
  trans_ru: подпилок, напильник
-
--lexeme
- lex: сабыр
- stem: сабыр.
- gramm: N
- paradigm: Noun-num-consonant
- trans_ru: чинность(U), порядок, кротость
 
 -lexeme
  lex: сарвыл

@@ -707,108 +707,101 @@
 
 -lexeme
  lex: отысь
- stem: отысь.
+ stem: отысь.//отӥсь.
  gramm: PRO,el
  paradigm: Empty
  trans_ru: оттуда
 
 -lexeme
  lex: сотысь
- stem: сотысь.
+ stem: сотысь.//сотӥсь.
  gramm: PRO,el
  paradigm: Empty
  trans_ru: оттуда
 
 -lexeme
  lex: татысь
- stem: татысь.
+ stem: татысь.//татӥсь.
  gramm: PRO,el
  paradigm: Empty
  trans_ru: отсюда
 
 -lexeme
  lex: кытысь
- stem: кытысь.
+ stem: кытысь.//кытӥсь.
  gramm: PRO,el
  paradigm: Empty
  trans_ru: откуда
 
 -lexeme
  lex: олокытысь
- stem: олокытысь.
+ stem: олокытысь.//олокытӥсь.
  gramm: PRO,el
  paradigm: Empty
  trans_ru: откуда-то
 
 -lexeme
  lex: котькытысь
- stem: котькытысь.
+ stem: котькытысь.//котькытӥсь.
  gramm: PRO,el
  paradigm: Empty
  trans_ru: откуда угодно
 
 -lexeme
  lex: нокытысь
- stem: нокытысь.
+ stem: нокытысь.//нокытӥсь.
  gramm: PRO,el
  paradigm: Empty
  trans_ru: ниоткуда
 
 -lexeme
  lex: отысен
- stem: отысен.
+ stem: отысен.//отӥсен.
  gramm: PRO,egr
  paradigm: Empty
  trans_ru: оттуда
 
 -lexeme
  lex: сотысен
- stem: сотысен.
+ stem: сотысен.//сотӥсен.
  gramm: PRO,egr
  paradigm: Empty
- trans_ru: оттуда
+ trans_ru: оттуда; с тех пор
 
 -lexeme
  lex: татысен
- stem: татысен.
+ stem: татысен.//татӥсен.
  gramm: PRO,egr
  paradigm: Empty
  trans_ru: отсюда
 
 -lexeme
  lex: кытысен
- stem: кытысен.
+ stem: кытысен.//кытӥсен.
  gramm: PRO,egr
  paradigm: Empty
  trans_ru: откуда
 
 -lexeme
  lex: олокытысен
- stem: олокытысен.
+ stem: олокытысен.//олокытӥсен.
  gramm: PRO,egr
  paradigm: Empty
  trans_ru: откуда-то
 
 -lexeme
  lex: котькытысен
- stem: котькытысен.
+ stem: котькытысен.//котькытӥсен.
  gramm: PRO,egr
  paradigm: Empty
  trans_ru: откуда угодно
 
 -lexeme
  lex: нокытысен
- stem: нокытысен.
+ stem: нокытысен.//нокытӥсен.
  gramm: PRO,egr
  paradigm: Empty
  trans_ru: ниоткуда
-
--lexeme
- lex: сотӥсен
- stem: сотӥсен.
- gramm: PRO
- paradigm: Empty
- trans_ru: с тех пор
 
 -lexeme
  lex: отчыозь
@@ -861,7 +854,7 @@
 
 -lexeme
  lex: кытӥ
- stem: кытӥ.
+ stem: кытӥ.//кыти.
  gramm: PRO,prol
  paradigm: Noun-num-vowel
  trans_ru: где
@@ -882,31 +875,31 @@
 
 -lexeme
  lex: котькытӥ
- stem: котькытӥ.
+ stem: котькытӥ.//котькыти.
  gramm: PRO,prol
  paradigm: Noun-num-vowel
  trans_ru: где угодно
 
 -lexeme
  lex: олокытӥ
- stem: олокытӥ.
+ stem: олокытӥ.//олокыти.
  gramm: PRO,prol
  paradigm: Noun-num-vowel
  trans_ru: где-то
 
 -lexeme
  lex: нокытӥ
- stem: нокытӥ.
+ stem: нокытӥ.//нокыти.
  gramm: PRO,prol
  paradigm: Noun-num-vowel
  trans_ru: нигде; негде
 
 -lexeme
  lex: котькытӥ
- stem: котькытӥсен.
+ stem: котькытӥ.//котькыти.
  gramm: PRO,prol,egr
  paradigm: Empty
- trans_ru: откуда угодно, со всех сторон
+ trans_ru: где угодно
 
 
 -lexeme
@@ -1094,14 +1087,21 @@
 
 -lexeme
  lex: ас
- stem: асьмес.
+ stem: асьмемыз.
  gramm: PRO,1pl,acc
  paradigm: Empty
  trans_ru: сам, свой
 
 -lexeme
  lex: ас
- stem: асьтэс.
+ stem: асьмеды.
+ gramm: PRO,acc
+ paradigm: Empty
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: асьмедыз.
  gramm: PRO,2pl,acc
  paradigm: Empty
  trans_ru: сам, свой
@@ -1129,21 +1129,21 @@
 
 -lexeme
  lex: ас
- stem: асьсэос.
+ stem: асьсэос.//асьсэс.
  gramm: PRO,3pl,nom
  paradigm: Noun-num-vowel
  trans_ru: сам, свой
 
 -lexeme
  lex: ас
- stem: асьмеос.
+ stem: асьмеос.//асьмес.
  gramm: PRO,1pl,nom
  paradigm: Empty
  trans_ru: сам, свой
 
 -lexeme
  lex: ас
- stem: асьтэос.
+ stem: асьтэос.//асьтэс.
  gramm: PRO,2pl,nom
  paradigm: Empty
  trans_ru: сам, свой

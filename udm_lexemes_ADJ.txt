@@ -7571,7 +7571,14 @@
  stem: лякыт.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: удобный
+ trans_ru: вежливый, деликатный; удобный
+
+-lexeme
+ lex: сабыр
+ stem: сабыр.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: чинный, порядочный, спокойный
 
 -lexeme
  lex: ӟуг

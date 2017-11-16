@@ -720,6 +720,20 @@
  trans_ru: о скрипучих звуках
 
 -lexeme
+ lex: ӟукыр
+ stem: ӟукыр.//ӟукы-ыр.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о скрипучих звуках
+
+-lexeme
+ lex: ӟукырак
+ stem: ӟукырак.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о скрипучих звуках
+
+-lexeme
  lex: вез-вез
  stem: вез-вез.
  gramm: IMIT
@@ -1056,6 +1070,13 @@
  trans_ru: о неустойчивости предметов
 
 -lexeme
+ lex: шалтрак
+ stem: шалтрак.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о неустойчивости предметов; о глухом стуке при падении
+
+-lexeme
  lex: сачыр-сачыр
  stem: сачыр-сачыр.
  gramm: IMIT
@@ -1137,7 +1158,14 @@
  stem: сачыр.
  gramm: IMIT
  paradigm: Empty
- trans_ru: о мокром, грязном состояние предмета
+ trans_ru: о мокром, грязном состоянии предмета
+
+-lexeme
+ lex: сачырак
+ stem: сачырак.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о мокром, грязном состоянии предмета
 
 -lexeme
  lex: жын-жан
@@ -1476,6 +1504,13 @@
  trans_ru: о шелесте, шуршании
 
 -lexeme
+ lex: ӵуштырак
+ stem: ӵуштырак.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о шелесте, шуршании
+
+-lexeme
  lex: габыл
  stem: габыл.
  gramm: IMIT
@@ -1506,6 +1541,13 @@
 -lexeme
  lex: жингырак
  stem: жингырак.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о звоне стеклянных и металлических предметов
+
+-lexeme
+ lex: жинграк
+ stem: жинграк.
  gramm: IMIT
  paradigm: Empty
  trans_ru: о звоне стеклянных и металлических предметов
@@ -1819,6 +1861,20 @@
  trans_ru: неуклюже, неповоротливо
 
 -lexeme
+ lex: лӧсырак
+ stem: лӧсырак.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: 
+
+-lexeme
+ lex: шерак
+ stem: шерак.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: внезапно; навзничь
+
+-lexeme
  lex: тачырак
  stem: тачырак.
  gramm: IMIT
@@ -1894,3 +1950,192 @@
  gramm: IMIT
  paradigm: Empty
  trans_ru: беззаботно; развалившись
+
+-lexeme
+ lex: гурак
+ stem: гурак.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: дружно, одновременно
+
+-lexeme
+ lex: ӝотрак
+ stem: ӝотрак.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: наотрез
+
+-lexeme
+ lex: ӝотырак
+ stem: ӝотырак.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: наотрез
+
+-lexeme
+ lex: ӝотак
+ stem: ӝотак.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: наотрез
+
+-lexeme
+ lex: ӧрак
+ stem: ӧрак.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: потоком воздуха
+
+-lexeme
+ lex: шыпак
+ stem: шыпак.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: тихонько, незаметно
+
+-lexeme
+ lex: шыпытак
+ stem: шыпытак.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: тихонько, незаметно
+
+-lexeme
+ lex: куаӵак
+ stem: куаӵак.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: быстро, мгновенно
+
+-lexeme
+ lex: юзырак
+ stem: юзырак.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: ~ луыны -- вздрогнуть
+
+-lexeme
+ lex: юзыр
+ stem: юзыр.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: ~ луыны -- вздрогнуть
+
+-lexeme
+ lex: зурак
+ stem: зурак.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: ~ луыны -- вздрогнуть
+
+-lexeme
+ lex: чурак
+ stem: чурак.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: 
+
+-lexeme
+ lex: чутрак
+ stem: чутрак.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: решительно, наотрез
+
+-lexeme
+ lex: чутырак
+ stem: чутырак.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: решительно, наотрез
+
+-lexeme
+ lex: либрак
+ stem: либрак.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о слабости в ногах
+
+-lexeme
+ lex: либырак
+ stem: либырак.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о слабости в ногах
+
+-lexeme
+ lex: куажыр
+ stem: куажыр.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: с треском, с хрустом
+
+-lexeme
+ lex: куажырак
+ stem: куажырак.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: с треском, с хрустом
+
+-lexeme
+ lex: горак
+ stem: горак.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: заливисто (о смехе)
+
+-lexeme
+ lex: гор
+ stem: гор.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: заливисто (о смехе)
+
+-lexeme
+ lex: куальтрак
+ stem: куальтрак.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: с шумом, с треском
+
+-lexeme
+ lex: куальтырак
+ stem: куальтырак.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: с шумом, с треском
+
+-lexeme
+ lex: куалтрак
+ stem: куалтрак.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: с шумом, с треском
+
+-lexeme
+ lex: куалтырак
+ stem: куалтырак.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: с шумом, с треском
+
+-lexeme
+ lex: супрак
+ stem: супрак.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: моментально (о засыпании)
+
+-lexeme
+ lex: супырак
+ stem: супырак.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: моментально (о засыпании)
+
+-lexeme
+ lex: бультрак
+ stem: бультрак.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о звуке проваливания под воду

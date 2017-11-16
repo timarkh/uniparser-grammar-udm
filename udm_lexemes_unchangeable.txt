@@ -1970,7 +1970,14 @@
  stem: лякыт.
  gramm: ADV
  paradigm: connect_adverbs
- trans_ru: удобно
+ trans_ru: вежливо, деликатно; удобно
+
+-lexeme
+ lex: лякытак
+ stem: лякытак.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: вежливо, деликатно; удобно
 
 -lexeme
  lex: тыршыса
@@ -3660,6 +3667,13 @@
  trans_ru: кругом, вокруг
 
 -lexeme
+ lex: котрак
+ stem: котрак.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: кругом, вокруг
+
+-lexeme
  lex: азинлыко
  stem: азинлыко.
  gramm: ADV
@@ -3735,6 +3749,27 @@
  gramm: ADV
  paradigm: connect_adverbs
  trans_ru: радостно
+
+-lexeme
+ lex: шулдыр
+ stem: шулдыр.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: весёлый, радостный
+
+-lexeme
+ lex: шулдырак
+ stem: шулдырак.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: радостно
+
+-lexeme
+ lex: гудырак
+ stem: гудырак.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: громко
 
 -lexeme
  lex: ашо
@@ -4071,13 +4106,6 @@
  gramm: ADV
  paradigm: connect_adverbs
  trans_ru: грустно, скучно
-
--lexeme
- lex: чутрак
- stem: чутрак.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: решительно, резко, наотрез
 
 -lexeme
  lex: ӵук
@@ -5347,13 +5375,6 @@
  trans_ru: прохладно
 
 -lexeme
- lex: дӥнисько
- stem: дӥнисько.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: 1. дохожу до чего-либо 2. уведомляю
-
--lexeme
  lex: ӧч
  stem: ӧч.
  gramm: ADV
@@ -5361,18 +5382,18 @@
  trans_ru: злостно
 
 -lexeme
- lex: луоно
- stem: луоно.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: возможно, осуществимо
-
--lexeme
  lex: сорока
  stem: сорока.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: сороко зтн. сорока
+ gramm: N,rus
+ paradigm: Noun-num-vowel
+ trans_ru: сорока
+
+-lexeme
+ lex: сороко
+ stem: сороко.
+ gramm: N,rus
+ paradigm: Noun-num-vowel
+ trans_ru: сорока
 
 -lexeme
  lex: вожмо
@@ -5398,13 +5419,20 @@
 -lexeme
  lex: алтын
  stem: алтын.
- gramm: ADV
- paradigm: connect_adverbs
+ gramm: N
+ paradigm: Noun-num-consonant
  trans_ru: золото
 
 -lexeme
  lex: чус
  stem: чус.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: беззвучно, безмолвно
+
+-lexeme
+ lex: чусак
+ stem: чусак.
  gramm: ADV
  paradigm: connect_adverbs
  trans_ru: беззвучно, безмолвно
@@ -6415,7 +6443,14 @@
  stem: ӵажыр.
  gramm: IMIT
  paradigm: Empty
- trans_ru: треску при горении
+ trans_ru: о треске при горении
+
+-lexeme
+ lex: ӵажырак
+ stem: ӵажырак.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о треске при горении
 
 -lexeme
  lex: тучырак
@@ -8496,6 +8531,13 @@
  trans_ru: вдруг, сразу
 
 -lexeme
+ lex: чапак
+ stem: чапак.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: именно
+
+-lexeme
  lex: кырыжак
  stem: кырыжак.
  gramm: ADV
@@ -10127,11 +10169,18 @@
  trans_ru: насквозь, всегда
 
 -lexeme
+ lex: прак
+ stem: прак.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: совсем, самый
+
+-lexeme
  lex: туэ
  stem: туэ.
  gramm: ADV
  paradigm: connect_adverbs
- trans_ru: нынче, ныне, в нынешнем году
+ trans_ru: нынче, в этом году
 
 -lexeme
  lex: вожвылат
@@ -10764,3 +10813,10 @@
  paradigm: Empty
  trans_ru: память
 
+
+-lexeme
+ lex: сабырак
+ stem: сабырак.
+ gramm: ADV
+ paradigm: connect-adverbs
+ trans_ru: чинно, спокойно

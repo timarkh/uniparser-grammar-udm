@@ -5045,3 +5045,17 @@
  gramm: N,topn
  paradigm: Noun-num-vowel
  trans_ru: 1. микрорайон г. Ижевска 2. отдалённая, находящаяся в стороне от центра часть деревни
+
+-lexeme
+ lex: Бурнак
+ stem: бурнак.
+ gramm: N,topn
+ paradigm: Noun-num-consonant
+ trans_ru: Бурнак
+
+-lexeme
+ lex: Урак
+ stem: урак.
+ gramm: N,topn
+ paradigm: Noun-num-consonant
+ trans_ru: Урак
