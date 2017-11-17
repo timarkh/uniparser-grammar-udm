@@ -10820,3 +10820,17 @@
  gramm: ADV
  paradigm: connect-adverbs
  trans_ru: чинно, спокойно
+
+-lexeme
+ lex: дото
+ stem: дото.
+ gramm: ADV,rus
+ paradigm: connect-adverbs
+ trans_ru: очень, настолько, до того
+
+-lexeme
+ lex: дотово
+ stem: дотово.//дотого.
+ gramm: ADV,rus
+ paradigm: connect-adverbs
+ trans_ru: очень, настолько, до того
