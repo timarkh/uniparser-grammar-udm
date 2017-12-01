@@ -4970,6 +4970,13 @@
  trans_ru: Казань
 
 -lexeme
+ lex: Кузон
+ stem: кузон.
+ gramm: N,topn
+ paradigm: Noun-num-consonant
+ trans_ru: Казань
+
+-lexeme
  lex: Пермь
  stem: перм.
  gramm: N,topn
@@ -5059,3 +5066,17 @@
  gramm: N,topn
  paradigm: Noun-num-consonant
  trans_ru: Урак
+
+-lexeme
+ lex: Озон
+ stem: озон.
+ gramm: N,topn
+ paradigm: Noun-num-consonant
+ trans_ru: Озон (деревня в Кезском районе)
+
+-lexeme
+ lex: Аксион
+ stem: аксион.
+ gramm: N,PN
+ paradigm: Noun-num-consonant
+ trans_ru: Аксион (название предприятия и дома культуры)

@@ -2139,3 +2139,31 @@
  gramm: IMIT
  paradigm: Empty
  trans_ru: о звуке проваливания под воду
+
+-lexeme
+ lex: бучи-бучи
+ stem: бучи-бучи.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: слова зова утят
+
+-lexeme
+ lex: нюп
+ stem: нюп.
+ gramm: IMIT
+ paradigm: Comparative
+ trans_ru: пельёсты ~ карыны прясть ушами
+
+-lexeme
+ lex: нюппы
+ stem: нюппы.
+ gramm: IMIT
+ paradigm: Noun-num-consonant
+ trans_ru: пельёсты ~ карыны прясть ушами
+
+-lexeme
+ lex: тӧл-тӧл
+ stem: тӧл-тӧл.
+ gramm: IMIT
+ paradigm: Comparative
+ trans_ru: прохладный, свежий – воздухе

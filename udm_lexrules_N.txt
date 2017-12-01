@@ -1,0 +1,9144 @@
+﻿-lex_rule
+ -search
+  lex: абдраны
+  gramm: V,.*
+  gloss: STEM-ITER-VN.*
+ -add
+  lex2: абдраллян
+  trans_ru2: удивление, изумление, восхищение
+
+-lex_rule
+ -search
+  lex: абдраны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: абдран
+  trans_ru2: 1. удивление, изумление, восхищение 2. диковина, диво
+
+-lex_rule
+ -search
+  lex: абдраны
+  gramm: V,.*
+  gloss: STEM-CAUS-VN.*
+ -add
+  lex2: абдратон
+  trans_ru2: удивление, изумление, восхищение
+
+-lex_rule
+ -search
+  lex: адыманы
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: адыман
+  trans_ru2: бег иноходью, рысцой
+
+-lex_rule
+ -search
+  lex: адӟыны
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: адӟиськон
+  trans_ru2: 1. видимость 2. свидание, встреча 3. видение, привидение, призрак
+
+-lex_rule
+ -search
+  lex: адӟыны
+  gramm: V,.*
+  gloss: STEM-CAUS-VN.*
+ -add
+  lex2: адӟытон
+  trans_ru2: показ, демонстрация, выставка
+
+-lex_rule
+ -search
+  lex: азвесяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: азвесян
+  trans_ru2: серебрение, покрытие серебром
+
+-lex_rule
+ -search
+  lex: азинскыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: азинскон
+  trans_ru2: достижение, успех
+
+-lex_rule
+ -search
+  lex: азинтыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: азинтон
+  trans_ru2: продвижение; развитие; продолжение
+
+-lex_rule
+ -search
+  lex: азыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: азон
+  trans_ru2: воспаление
+
+-lex_rule
+ -search
+  lex: азьвылтыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: азьвылтон
+  trans_ru2: обгон, опережение
+
+-lex_rule
+ -search
+  lex: азьвылтыны
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: азьвылтӥськон
+  trans_ru2: обгон, опережение
+
+-lex_rule
+ -search
+  lex: азьдоринтыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: азьдоринтон
+  trans_ru2: 1. выворачивание на лицевую сторону 2. поворачивание лицом к кому-чем-л.
+
+-lex_rule
+ -search
+  lex: азьланьтыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: азьланьтон
+  trans_ru2: 1. продвижение вперёд, развитие 2. продолжение
+
+-lex_rule
+ -search
+  lex: азьланьтыны
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: азьланьтӥськон
+  trans_ru2: 1. продвижение вперёд 2. прогресс, развитие
+
+-lex_rule
+ -search
+  lex: азьпалтыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: азьпалтон
+  trans_ru2: обгон, опережение
+
+-lex_rule
+ -search
+  lex: айшонаны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: айшонан
+  trans_ru2: надевание айшона
+
+-lex_rule
+ -search
+  lex: алданы
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: алдан
+  trans_ru2: 1. обман, подлог, надувательство, ложь, неправда
+
+-lex_rule
+ -search
+  lex: алляны
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: алляськон
+  trans_ru2: махание, обмахивание
+
+-lex_rule
+ -search
+  lex: алыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: алон
+  trans_ru2: 1. запрещение, запрет 2. предупреждение
+
+-lex_rule
+ -search
+  lex: алыны
+  gramm: V,.*
+  gloss: STEM-ITER-VN.*
+ -add
+  lex2: алылон
+  trans_ru2: 1. запрещение 2. предупреждение, отговаривание, уговаривание
+
+-lex_rule
+ -search
+  lex: алышмыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: алышмон
+  trans_ru2: жадность, алчность, ненасытность
+
+-lex_rule
+ -search
+  lex: амалтыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: амалтон
+  trans_ru2: 1. соображение, сообразительность 2. обман, хитрость
+
+-lex_rule
+ -search
+  lex: аналтыны
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: аналтӥськон
+  trans_ru2: симуляция, притворство
+
+-lex_rule
+ -search
+  lex: анланы
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: анлан
+  trans_ru2: 1. осмысление, понимание, сообразительность, смекалка 2. внимание
+
+-lex_rule
+ -search
+  lex: анӟыраны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: анӟыран
+  trans_ru2: усталость, изнеможение, бессилие
+
+-lex_rule
+ -search
+  lex: араны
+  gramm: V,.*
+  gloss: STEM-CAUS-VN.*
+ -add
+  lex2: аратон
+  trans_ru2: 1. разжигание, зажигание, раздувание 2. растопка
+
+-lex_rule
+ -search
+  lex: аратъяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: аратъян
+  trans_ru2: разжигание, раздувание
+
+-lex_rule
+ -search
+  lex: араны
+  gramm: V,.*
+  gloss: STEM-CAUS-ITER-VN.*
+ -add
+  lex2: аратылон
+  trans_ru2: разжигание, раздувание
+
+-lex_rule
+ -search
+  lex: артэяны
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: артэяськон
+  trans_ru2: примыкание
+
+-lex_rule
+ -search
+  lex: ачидъяськыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: ачидъяськон
+  trans_ru2: своеволие, самоволие
+
+-lex_rule
+ -search
+  lex: ачизъяськыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: ачизъяськон
+  trans_ru2: своеволие, самоволие
+
+-lex_rule
+ -search
+  lex: бабыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: бабон
+  trans_ru2: сон, спаньё, засыпание
+
+-lex_rule
+ -search
+  lex: бадӟымъяськыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: бадӟымъяськон
+  trans_ru2: заносчивость, чванство
+
+-lex_rule
+ -search
+  lex: базыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: базон
+  trans_ru2: смелость, решительность
+
+-lex_rule
+ -search
+  lex: бакелляны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: бакеллян
+  trans_ru2: 1. благословение 2. примирение, умиротворение 3. прощение
+
+-lex_rule
+ -search
+  lex: бакчыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: бакчон
+  trans_ru2: 1. заикание 2. онемение
+
+-lex_rule
+ -search
+  lex: басылатыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: басылатон
+  trans_ru2: успокоение, утешение
+
+-lex_rule
+ -search
+  lex: батыръяськыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: батыръяськон
+  trans_ru2: 1. храбрость 2. гордость 3. бахвальство
+
+-lex_rule
+ -search
+  lex: бездыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: бездон
+  trans_ru2: выцветание, выгорание 2. линяние
+
+-lex_rule
+ -search
+  lex: бекмыльтыны
+  gramm: V,.*
+  gloss: STEM-ITER-VN.*
+ -add
+  lex2: бекмыльтылон
+  trans_ru2: 1. опрокидывание, переворачивание, кантовка 2. перен. убивание
+
+-lex_rule
+ -search
+  lex: берганы
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: берган
+  trans_ru2: 1. кружение, вращение 2. текст. скалка 3. текст. воробы
+
+-lex_rule
+ -search
+  lex: берганы
+  gramm: V,.*
+  gloss: STEM-CAUS-VN.*
+ -add
+  lex2: бергатон
+  trans_ru2: 1. вращение, верчение 2. вертушка, волчок, юла
+
+-lex_rule
+ -search
+  lex: берпумъяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: берпумъян
+  trans_ru2: 1. завершение, подытоживание 2. замыкание
+
+-lex_rule
+ -search
+  lex: бертыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: бертон
+  trans_ru2: возвращение, приход домой
+
+-lex_rule
+ -search
+  lex: берыктыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: берыктон
+  trans_ru2: 1. возвращение 2. возврат, сдача 3. вывёртывание наизнанку, перелицовка
+
+-lex_rule
+ -search
+  lex: бинялтыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: бинялтон
+  trans_ru2: 1. обёртывание, завёртывание 2. пеленание 3. портянка, онуча
+
+-lex_rule
+ -search
+  lex: бичалляны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: бичаллян
+  trans_ru2: 1. сбор 2. покупка 3. текст. набирание, набор, сборка
+
+-lex_rule
+ -search
+  lex: бичаны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: бичан
+  trans_ru2: 1. сбор, собирание 2. покупка 3. текст. набирание в бёрдо
+
+-lex_rule
+ -search
+  lex: бичатыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: бичатон
+  trans_ru2: щекотание
+
+-lex_rule
+ -search
+  lex: бичпотыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: бичпотон
+  trans_ru2: щекотка
+
+-lex_rule
+ -search
+  lex: бозгетыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: бозгетон
+  trans_ru2: жужжание, гудение
+
+-lex_rule
+ -search
+  lex: борыяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: борыян
+  trans_ru2: собирание клубники
+
+-lex_rule
+ -search
+  lex: бубылияны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: бубылиян
+  trans_ru2: ловля бабочек
+
+-lex_rule
+ -search
+  lex: бугырскыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: бугырскон
+  trans_ru2: революция, мятеж
+
+-lex_rule
+ -search
+  lex: бугыръяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: бугыръян
+  trans_ru2: 1. рыхление, разрыхление 2. тревога, треволнение 3. ворошение, перемешивание
+
+-lex_rule
+ -search
+  lex: будэтыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: будэтон
+  trans_ru2: 1. выращивание 2. воспитание 3. проращивание 4. повышение
+
+-lex_rule
+ -search
+  lex: буйганы
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: буйган
+  trans_ru2: 1. успокоение, утешение 2. утихание
+
+-lex_rule
+ -search
+  lex: бультыртыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: бультыртон
+  trans_ru2: бульканье, клокотание
+
+-lex_rule
+ -search
+  lex: бульыртыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: бульыртон
+  trans_ru2: 1. бульканье 2. бурление, клокотание 3. урчание, бурчание
+
+-lex_rule
+ -search
+  lex: бураны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: буран
+  trans_ru2: 1. воспоминание добрым словом 2. поминание
+
+-lex_rule
+ -search
+  lex: бурйыны
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: бурйыськон
+  trans_ru2: перевыборная кампания
+
+-lex_rule
+ -search
+  lex: бушатыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: бушатон
+  trans_ru2: 1. опорожнение 2. выгрузка, разгрузка
+
+-lex_rule
+ -search
+  lex: бушкырмыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: бушкырмон
+  trans_ru2: опустынивание
+
+-lex_rule
+ -search
+  lex: буяны
+  gramm: V,.*
+  gloss: STEM-ITER-VN.*
+ -add
+  lex2: буяллян
+  trans_ru2: окрашивание, покраска
+
+-lex_rule
+ -search
+  lex: буяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: буян
+  trans_ru2: 1. крашение, окраска, покраска 2. цветные карандаши
+
+-lex_rule
+ -search
+  lex: буяны
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: буяськон
+  trans_ru2: окрашивание, покраска, окраска
+
+-lex_rule
+ -search
+  lex: быгатыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: быгатон
+  trans_ru2: умение, способность, искусство
+
+-lex_rule
+ -search
+  lex: быдмыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: быдмон
+  trans_ru2: испытание, инициация
+
+-lex_rule
+ -search
+  lex: быдэсмыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: быдэсмон
+  trans_ru2: 1. завершение 2. возмужание 3. исполнение, осуществление 4. готовность
+
+-lex_rule
+ -search
+  lex: быдэстыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: быдэстон
+  trans_ru2: 1. выполнение, завершение, окончание 2. исполнение, осуществление
+
+-lex_rule
+ -search
+  lex: быдэсъяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: быдэсъян
+  trans_ru2: 1. выполнение, завершение 2. осуществление, исполнение
+
+-lex_rule
+ -search
+  lex: быздыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: быздон
+  trans_ru2: хныканье, плач
+
+-lex_rule
+ -search
+  lex: бызьылытыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: бызьылытон
+  trans_ru2: покрытие
+
+-lex_rule
+ -search
+  lex: бызьыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: бызён
+  trans_ru2: 1. бег 2. течение 3. замужество
+
+-lex_rule
+ -search
+  lex: бӧксыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: бӧксон
+  trans_ru2: 1. мычание 2. блеяние
+
+-lex_rule
+ -search
+  lex: бӧлыны
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: бӧлиськон
+  trans_ru2: 1. раздел, отделение, обособление 2. расставание
+
+-lex_rule
+ -search
+  lex: бӧрдыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: бӧрдон
+  trans_ru2: плач, рыдание, рёв
+
+-lex_rule
+ -search
+  lex: бӧрдыны
+  gramm: V,.*
+  gloss: STEM-ITER-VN.*
+ -add
+  lex2: бӧрдылон
+  trans_ru2: плач, рыдание, рёв
+
+-lex_rule
+ -search
+  lex: вадьсатъяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: вадьсатъян
+  trans_ru2: приурочивание, приноравливание
+
+-lex_rule
+ -search
+  lex: вадьсаны
+  gramm: V,.*
+  gloss: STEM-CAUS-ITER-VN.*
+ -add
+  lex2: вадьсатылон
+  trans_ru2: приурочивание, приноравливание
+
+-lex_rule
+ -search
+  lex: вазыны
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: вазиськон
+  trans_ru2: 1. отклик 2. воззвание, обращение, призыв, клич 3. листовка
+
+-lex_rule
+ -search
+  lex: вазьыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: вазён
+  trans_ru2: 1. звучание 2. отклик, зов 3. обращение
+
+-lex_rule
+ -search
+  lex: вайгетыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: вайгетон
+  trans_ru2: возня, суета
+
+-lex_rule
+ -search
+  lex: вайыны
+  gramm: V,.*
+  gloss: STEM-ITER-VN.*
+ -add
+  lex2: вайылон
+  trans_ru2: 1. доставка, привоз, ввоз, завоз 2. роды
+
+-lex_rule
+ -search
+  lex: вайяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: вайян
+  trans_ru2: расщепление, раздвоение, растопыривание
+
+-lex_rule
+ -search
+  lex: ваклайтыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: ваклайтон
+  trans_ru2: 1. соображение, смекалка 2.разговор 3. ходьба
+
+-lex_rule
+ -search
+  lex: вакчияны
+  gramm: V,.*
+  gloss: STEM-CAUS-VN.*
+ -add
+  lex2: вакчиятон
+  trans_ru2: укорачивание, укорочение, сокращение, аббревиация
+
+-lex_rule
+ -search
+  lex: вакчиятъяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: вакчиятъян
+  trans_ru2: укорачивание, сокращение
+
+-lex_rule
+ -search
+  lex: вакчиёмытыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: вакчиёмытон
+  trans_ru2: укорачивание, укорочение, сокращение
+
+-lex_rule
+ -search
+  lex: вакчиёмытъяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: вакчиёмытъян
+  trans_ru2: укорачивание, сокращение
+
+-lex_rule
+ -search
+  lex: валаны
+  gramm: V,.*
+  gloss: STEM-ITER-VN.*
+ -add
+  lex2: валаллян
+  trans_ru2: понимание, осмысливание, осознание
+
+-lex_rule
+ -search
+  lex: валаны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: валан
+  trans_ru2: 1. понимание, осмысление, осознание 2. знание, понятие, смысл
+
+-lex_rule
+ -search
+  lex: валаны
+  gramm: V,.*
+  gloss: STEM-CAUS-VN.*
+ -add
+  lex2: валатон
+  trans_ru2: 1. разъяснение, объяснение, толкование 2. понятие, значение
+
+-lex_rule
+ -search
+  lex: валчеяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: валчеян
+  trans_ru2: 1. объединение, соединение, присоединение, присовокупление 2. спаривание 3. женитьба
+
+-lex_rule
+ -search
+  lex: валчеяны
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: валчеяськон
+  trans_ru2: 1. объединение, соединение 2. спаривание, секс 3. женитьба
+
+-lex_rule
+ -search
+  lex: валэктыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: валэктон
+  trans_ru2: объяснение, разъяснение, толкование, пояснение, инструкция
+
+-lex_rule
+ -search
+  lex: валэктэмъяны
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: валэктэмъяськон
+  trans_ru2: оправдывание, объяснение
+
+-lex_rule
+ -search
+  lex: валэкъяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: валэкъян
+  trans_ru2: объяснение, разъяснение, толкование, пояснение
+
+-lex_rule
+ -search
+  lex: валэсаны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: валэсан
+  trans_ru2: яровизация
+
+-lex_rule
+ -search
+  lex: вальыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: валён
+  trans_ru2: подстилка, настил
+
+-lex_rule
+ -search
+  lex: вамыштыны
+  gramm: V,.*
+  gloss: STEM-ITER-VN.*
+ -add
+  lex2: вамыштылон
+  trans_ru2: шагание, перешагивание
+
+-lex_rule
+ -search
+  lex: вамышъяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: вамышъян
+  trans_ru2: шагание, перешагивание
+
+-lex_rule
+ -search
+  lex: вандыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: вандон
+  trans_ru2: резание; убой; распилка; кройка
+
+-lex_rule
+ -search
+  lex: вандыны
+  gramm: V,.*
+  gloss: STEM-ITER-VN.*
+ -add
+  lex2: вандылон
+  trans_ru2: резание; убой; распилка; кройка
+
+-lex_rule
+ -search
+  lex: ваньмыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: ваньмон
+  trans_ru2: досуг
+
+-lex_rule
+ -search
+  lex: вараны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: варан
+  trans_ru2: натирание варом
+
+-lex_rule
+ -search
+  lex: вараны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: варан
+  trans_ru2: служба, услуга
+
+-lex_rule
+ -search
+  lex: васькыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: васькон
+  trans_ru2: 1. спуск 2. стекание 3. выход
+
+-lex_rule
+ -search
+  lex: ватыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: ватон
+  trans_ru2: 1. прятание 2. сокрытие, утайка 3. погребение, захоронение
+
+-lex_rule
+ -search
+  lex: ватсаны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: ватсан
+  trans_ru2: 1. добавление, добавка, пополнение, дополнение 2. дополнение
+
+-lex_rule
+ -search
+  lex: вайыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: ваён
+  trans_ru2: завоз, доставка
+
+-lex_rule
+ -search
+  lex: везектыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: везектон
+  trans_ru2: всхлипывание, рыдание, плач
+
+-lex_rule
+ -search
+  lex: везыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: везон
+  trans_ru2: удаление, исчезновение
+
+-lex_rule
+ -search
+  lex: векчияны
+  gramm: V,.*
+  gloss: STEM-CAUS-VN.*
+ -add
+  lex2: векчиятон
+  trans_ru2: 1. утончение, измельчение, размельчение 2. размен
+
+-lex_rule
+ -search
+  lex: векчиёмыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: векчиёмон
+  trans_ru2: 1. утончение 2. вырождение, измельчание
+
+-lex_rule
+ -search
+  lex: вениканы
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: веникан
+  trans_ru2: 1. заготовка веников 2. вязка веников
+
+-lex_rule
+ -search
+  lex: вераны
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: вераськон
+  trans_ru2: разговор
+
+-lex_rule
+ -search
+  lex: вераяны
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: вераяськон
+  trans_ru2: набухание вымени
+
+-lex_rule
+ -search
+  lex: ветлыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: ветлон
+  trans_ru2: ходьба, хождение, езда, выезд, поездка
+
+-lex_rule
+ -search
+  lex: ветталтыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: ветталтон
+  trans_ru2: ветталтыны
+
+-lex_rule
+ -search
+  lex: веттаны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: веттан
+  trans_ru2: качание, укачивание, колыхание
+
+-lex_rule
+ -search
+  lex: веттаны
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: веттаськон
+  trans_ru2: качание, колыхание
+
+-lex_rule
+ -search
+  lex: визнаны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: визнан
+  trans_ru2: 1. ужение 2. удочка
+
+-lex_rule
+ -search
+  lex: визьтэммыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: визьтэммон
+  trans_ru2: сумасшествие, помешательство
+
+-lex_rule
+ -search
+  lex: визьтэмъяськыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: визьтэмъяськон
+  trans_ru2: дурачество, непристойное поведение
+
+-lex_rule
+ -search
+  lex: визяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: визян
+  trans_ru2: 1. соблюдение поста, говение 2. пост
+
+-lex_rule
+ -search
+  lex: викыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: викон
+  trans_ru2: икание, икота
+
+-lex_rule
+ -search
+  lex: викышъяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: викышъян
+  trans_ru2: 1. икание, икота 2. всхлипывание
+
+-lex_rule
+ -search
+  lex: винтыяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: винтыян
+  trans_ru2: завинчивание, ввинчивание, привинчивание
+
+-lex_rule
+ -search
+  lex: висатыны
+  gramm: V,.*
+  gloss: STEM-ITER-VN.*
+ -add
+  lex2: висатылон
+  trans_ru2: 1. прерывание 2.отграничение
+
+-lex_rule
+ -search
+  lex: висъяны
+  gramm: V,.*
+  gloss: STEM-ITER-VN.*
+ -add
+  lex2: висъяллян
+  trans_ru2: 1. перегораживание, отгораживание 2. отделение, обособление 3. выделение
+
+-lex_rule
+ -search
+  lex: висъяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: висъян
+  trans_ru2: 1. перегораживание, отгораживание 2. отделение 3. выделение
+
+-lex_rule
+ -search
+  lex: висьыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: висён
+  trans_ru2: болезнь, заболевание
+
+-lex_rule
+ -search
+  lex: витыны
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: витиськон
+  trans_ru2: 1. ожидание 2. цежение
+
+-lex_rule
+ -search
+  lex: витьыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: витён
+  trans_ru2: ожидание, выжидание
+
+-lex_rule
+ -search
+  lex: виыны
+  gramm: V,.*
+  gloss: STEM-ITER-VN.*
+ -add
+  lex2: виылон
+  trans_ru2: 1. убиение, убийство, умерщвление 2. избиение
+
+-lex_rule
+ -search
+  lex: воганы
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: воган
+  trans_ru2: упрямство, капризы
+
+-lex_rule
+ -search
+  lex: вогъяськыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: вогъяськон
+  trans_ru2: упрямство, каприз
+
+-lex_rule
+ -search
+  lex: вогырияны
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: вогырияськон
+  trans_ru2: колыхание, волнение, рябь, зыбь
+
+-lex_rule
+ -search
+  lex: вогыръяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: вогыръян
+  trans_ru2: колыхание, волнение, рябь, зыбь
+
+-lex_rule
+ -search
+  lex: вогӟыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: вогӟон
+  trans_ru2: упрямство, капризы
+
+-lex_rule
+ -search
+  lex: вожаны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: вожан
+  trans_ru2: ревность
+
+-lex_rule
+ -search
+  lex: вожектыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: вожектон
+  trans_ru2: 1. появление зелени 2. нарыв
+
+-lex_rule
+ -search
+  lex: вожминъяськыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: вожминъяськон
+  trans_ru2: корреспонденция
+
+-lex_rule
+ -search
+  lex: вожосаны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: вожосан
+  trans_ru2: загораживание зелёными прутьями
+
+-lex_rule
+ -search
+  lex: возыны
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: возиськон
+  trans_ru2: 1. воздержание 2. выдержка, сдержанность
+
+-lex_rule
+ -search
+  lex: возьдаськыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: возьдаськон
+  trans_ru2: стыд, стыдливость, застенчивость
+
+-lex_rule
+ -search
+  lex: возьманы
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: возьман
+  trans_ru2: 1. ожидание 2. пастьба 3. охрана, защита
+
+-lex_rule
+ -search
+  lex: возьманы
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: возьмаськон
+  trans_ru2: охрана, караул
+
+-lex_rule
+ -search
+  lex: возьыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: возён
+  trans_ru2: содержание, хранение
+
+-lex_rule
+ -search
+  lex: волятыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: волятон
+  trans_ru2: сглаживание, выравнивание, шлифование, полирование
+
+-lex_rule
+ -search
+  lex: вораны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: воран
+  trans_ru2: воровство, кража, хищение
+
+-lex_rule
+ -search
+  lex: вораны
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: вораськон
+  trans_ru2: воровство, кража, хищение
+
+-lex_rule
+ -search
+  lex: вордыны
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: вордӥськон
+  trans_ru2: рождение, возникновение, зарождение, появление
+
+-lex_rule
+ -search
+  lex: вордыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: вордон
+  trans_ru2: содержание, разведение (скота)
+
+-lex_rule
+ -search
+  lex: ворекъяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: ворекъян
+  trans_ru2: зарница, зарево
+
+-lex_rule
+ -search
+  lex: вормыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: вормон
+  trans_ru2: победа, преодоление
+
+-lex_rule
+ -search
+  lex: ворттыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: ворттон
+  trans_ru2: 1. бег 2. возка, вывоз, ввоз
+
+-lex_rule
+ -search
+  lex: ворттыны
+  gramm: V,.*
+  gloss: STEM-ITER-VN.*
+ -add
+  lex2: ворттылон
+  trans_ru2: 1. скачки, катание, езда 2. возка
+
+-lex_rule
+ -search
+  lex: ворттыны
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: ворттӥськон
+  trans_ru2: вывоз, ввоз, завоз, развоз, развозка
+
+-lex_rule
+ -search
+  lex: вотыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: вотон
+  trans_ru2: попытка, старание
+
+-lex_rule
+ -search
+  lex: вошкыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: вошкон
+  trans_ru2: философ. движение
+
+-lex_rule
+ -search
+  lex: воштыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: воштон
+  trans_ru2: замена, перемена, смена
+
+-lex_rule
+ -search
+  lex: воштыны
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: воштӥськон
+  trans_ru2: изменение, обмен
+
+-lex_rule
+ -search
+  lex: вошъяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: вошъян
+  trans_ru2: обмен; отмена
+
+-lex_rule
+ -search
+  lex: вошъяны
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: вошъяськон
+  trans_ru2: 1. мена, обмен 2. переодевание 3. изменение
+
+-lex_rule
+ -search
+  lex: вуатыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: вуатон
+  trans_ru2: обводнение
+
+-lex_rule
+ -search
+  lex: вужаны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: вужан
+  trans_ru2: натягивание тетивы
+
+-lex_rule
+ -search
+  lex: вужыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: вужон
+  trans_ru2: кӧл ~ 1) тошнота, позывы на рвоту 2) слюнотечение
+
+-lex_rule
+ -search
+  lex: вузаны
+  gramm: V,.*
+  gloss: STEM-ITER-VN.*
+ -add
+  lex2: вузаллян
+  trans_ru2: 1. продажа, распродажа 2. перен. предательство, измена
+
+-lex_rule
+ -search
+  lex: вузаны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: вузан
+  trans_ru2: 1. продажа, распродажа 2. перен. предательство, измена
+
+-lex_rule
+ -search
+  lex: вукекъяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: вукекъян
+  trans_ru2: 1. тошнота, позыв к рвоте 2. икота
+
+-lex_rule
+ -search
+  lex: вуыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: вуон
+  trans_ru2: 1. прибытие, прибывание, приход 2. приход, наступление
+
+-lex_rule
+ -search
+  lex: вурыны
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: вуриськон
+  trans_ru2: шитьё, пошив
+
+-lex_rule
+ -search
+  lex: вурыны
+  gramm: V,.*
+  gloss: STEM-PASS-ITER-VN.*
+ -add
+  lex2: вуриськылон
+  trans_ru2: шитьё, занятие шитьём
+
+-lex_rule
+ -search
+  lex: вурыны
+  gramm: V,.*
+  gloss: STEM-ITER-VN.*
+ -add
+  lex2: вурылон
+  trans_ru2: шитьё, зашивание, подшивание
+
+-lex_rule
+ -search
+  lex: вурӟыны
+  gramm: V,.*
+  gloss: STEM-ITER-VN.*
+ -add
+  lex2: вурӟылон
+  trans_ru2: зашивание, подшивание, пришивание
+
+-lex_rule
+ -search
+  lex: вушйыны
+  gramm: V,.*
+  gloss: STEM-ITER-VN.*
+ -add
+  lex2: вушйылон
+  trans_ru2: зевота, зевание, позёвывание
+
+-lex_rule
+ -search
+  lex: вуштыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: вуштон
+  trans_ru2: скобление, соскабливание, трение
+
+-lex_rule
+ -search
+  lex: вушйыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: вушъён
+  trans_ru2: зевота, позёвывание
+
+-lex_rule
+ -search
+  lex: вуӵкетыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: вуӵкетон
+  trans_ru2: ворчание, бормотание, бурчание
+
+-lex_rule
+ -search
+  lex: вуӵыртыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: вуӵыртон
+  trans_ru2: 1. клокотание 2. перен. ворчание
+
+-lex_rule
+ -search
+  lex: выжыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: выжон
+  trans_ru2: переход, переправа
+
+-lex_rule
+ -search
+  lex: выжтыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: выжтон
+  trans_ru2: 1. переправа 2. перенос
+
+-lex_rule
+ -search
+  lex: выжъяны
+  gramm: V,.*
+  gloss: STEM-ITER-VN.*
+ -add
+  lex2: выжъяллян
+  trans_ru2: 1. мощение 2. настилка пола
+
+-lex_rule
+ -search
+  lex: выжъяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: выжъян
+  trans_ru2: 1. мощение 2. настилка пола
+
+-lex_rule
+ -search
+  lex: выйтыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: выйтон
+  trans_ru2: 1. погружение, потопление 2. грузило
+
+-lex_rule
+ -search
+  lex: вылтӥяськыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: вылтӥяськон
+  trans_ru2: гонор, высокомерие, заносчивость, кичливость
+
+-lex_rule
+ -search
+  lex: выльдыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: выльдон
+  trans_ru2: 1. обновление, преобразование, реконструкция 2. рекультивация
+
+-lex_rule
+ -search
+  lex: выльдытыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: выльдытон
+  trans_ru2: обновление, преобразование
+
+-lex_rule
+ -search
+  lex: выльдыны
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: выльдӥськон
+  trans_ru2: 1. обновление, преобразование 2. революция
+
+-lex_rule
+ -search
+  lex: выльмытыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: выльмытон
+  trans_ru2: обновление, подновление, преобразование, преображение
+
+-lex_rule
+ -search
+  lex: вынъяськыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: вынъяськон
+  trans_ru2: братание, братство
+
+-lex_rule
+ -search
+  lex: вырӟыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: вырӟон
+  trans_ru2: 1. начало движения 2. растяжение, вывих
+
+-lex_rule
+ -search
+  lex: вӧжйыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: вӧжъён
+  trans_ru2: существование, житьё-бытьё
+
+-lex_rule
+ -search
+  lex: вӧлдыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: вӧлдон
+  trans_ru2: 1. распространение 2. расстилание, расстил
+
+-lex_rule
+ -search
+  lex: вӧлдыны
+  gramm: V,.*
+  gloss: STEM-ITER-VN.*
+ -add
+  lex2: вӧлдылон
+  trans_ru2: 1. распространение 2. расстилание, расстил
+
+-lex_rule
+ -search
+  lex: вӧлмыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: вӧлмон
+  trans_ru2: распространение, расширение, расселение
+
+-lex_rule
+ -search
+  lex: вӧлмытыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: вӧлмытон
+  trans_ru2: распространение, пропаганда
+
+-lex_rule
+ -search
+  lex: вӧлыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: вӧлон
+  trans_ru2: строгание, обтёсывание, скобление
+
+-lex_rule
+ -search
+  lex: вӧльыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: вӧлён
+  trans_ru2: 1. расчистка, раскорчёвка 2. осочка, плель, окорение
+
+-lex_rule
+ -search
+  lex: гагактыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: гагактон
+  trans_ru2: гоготание, крик гусей
+
+-lex_rule
+ -search
+  lex: гажаны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: гажан
+  trans_ru2: 1. уважение, почитание 2. дружок, подружка 3. любимый, любимая, милый, милая
+
+-lex_rule
+ -search
+  lex: галяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: галян
+  trans_ru2: 1. оскал 2. отделение 3. обнажение, оголение
+
+-lex_rule
+ -search
+  lex: галяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: галян
+  trans_ru2: выедание зёрен
+
+-lex_rule
+ -search
+  lex: гарккетыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: гарккетон
+  trans_ru2: кряканье, карканье
+
+-lex_rule
+ -search
+  lex: герӟаны
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: герӟаськон
+  trans_ru2: 1. завязывание 2. запутывание, спутывание
+
+-lex_rule
+ -search
+  lex: гожтыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: гожтон
+  trans_ru2: 1. написание, запись 2. составление, письменное изложение 3. включение, занесение
+
+-lex_rule
+ -search
+  lex: гожъяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: гожъян
+  trans_ru2: запись, опись, перепись 2. регистрация
+
+-lex_rule
+ -search
+  lex: гозыяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: гозыян
+  trans_ru2: завязывание верёвкой домашнего скота
+
+-lex_rule
+ -search
+  lex: гольтыръяны
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: гольтыръяськон
+  trans_ru2: 1. любовь к сладкому 2. слащавость 3. вульгарное поведение
+
+-lex_rule
+ -search
+  lex: гомӟыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: гомӟон
+  trans_ru2: вспышка, вспыхивание, воспламенение, загорание
+
+-lex_rule
+ -search
+  lex: гордэктыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: гордэктон
+  trans_ru2: покраснение, краснота
+
+-lex_rule
+ -search
+  lex: горыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: горон
+  trans_ru2: хохот, громкий смех
+
+-lex_rule
+ -search
+  lex: губияны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: губиян
+  trans_ru2: сбор грибов
+
+-lex_rule
+ -search
+  lex: гудыръяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: гудыръян
+  trans_ru2: гроза, гром
+
+-lex_rule
+ -search
+  lex: гужланы
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: гужлан
+  trans_ru2: 1. гудение, жужжание 2. шум
+
+-lex_rule
+ -search
+  lex: гуретыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: гуретон
+  trans_ru2: шум, галдёж, гудение, гул
+
+-lex_rule
+ -search
+  lex: гылатыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: гылатон
+  trans_ru2: 1. полоскание, промывание 2. перен. похлёбка
+
+-lex_rule
+ -search
+  lex: гылъяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: гылъян
+  trans_ru2: 1. полоскание, ополаскивание 2. смывание, замывание 3. размывание
+
+-lex_rule
+ -search
+  lex: гыркйыны
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: гыркйиськон
+  trans_ru2: долбитель
+
+-lex_rule
+ -search
+  lex: гырыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: гырон
+  trans_ru2: вспахивание, вспашка 2. пашня
+
+-lex_rule
+ -search
+  lex: даллашыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: даллашон
+  trans_ru2: ссора, скандал, ругань, брань
+
+-lex_rule
+ -search
+  lex: дамбыртыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: дамбыртон
+  trans_ru2: громыхание, постукивание
+
+-lex_rule
+ -search
+  lex: данъяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: данъян
+  trans_ru2: чествование, прославление, восхваление
+
+-lex_rule
+ -search
+  lex: дасяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: дасян
+  trans_ru2: приготовление, заготовление, заготовка, подготовка
+
+-lex_rule
+ -search
+  lex: дасяны
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: дасяськон
+  trans_ru2: подготовка, сборы
+
+-lex_rule
+ -search
+  lex: диватыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: диватон
+  trans_ru2: успокоение, утешение
+
+-lex_rule
+ -search
+  lex: донганы
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: донгаськон
+  trans_ru2: давка, толкотня, толчея
+
+-lex_rule
+ -search
+  lex: дунояны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: дуноян
+  trans_ru2: вздорожание, повышение цен
+
+-lex_rule
+ -search
+  lex: дунтэманы
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: дунтэман
+  trans_ru2: понижение цен, удешевление
+
+-lex_rule
+ -search
+  lex: дунъяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: дунъян
+  trans_ru2: оценка, оценивание, расценка
+
+-lex_rule
+ -search
+  lex: дурыны
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: дуриськон
+  trans_ru2: занятие делом
+
+-lex_rule
+ -search
+  lex: дурыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: дурон
+  trans_ru2: ковка, подковка
+
+-lex_rule
+ -search
+  lex: дыбыртыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: дыбыртон
+  trans_ru2: стук, грохот, громыхание
+
+-lex_rule
+ -search
+  lex: дымбыртыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: дымбыртон
+  trans_ru2: грохот, грохотанье, громыхание, стук
+
+-lex_rule
+ -search
+  lex: дырекъяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: дырекъян
+  trans_ru2: дрожь, вибрация, озноб, дребезжание
+
+-lex_rule
+ -search
+  lex: дыртыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: дыртон
+  trans_ru2: спешка, поспешность, торопливость, гонка, горячка
+
+-lex_rule
+ -search
+  lex: дышетыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: дышетон
+  trans_ru2: 1. учение, обучение 2. учение, воспитание 3. учение, изучение
+
+-lex_rule
+ -search
+  lex: дышетскыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: дышетскон
+  trans_ru2: учёба, занятие, выучка
+
+-lex_rule
+ -search
+  lex: дышыны
+  gramm: V,.*
+  gloss: STEM-CAUS-ITER-VN.*
+ -add
+  lex2: дышетылон
+  trans_ru2: обучение, изучение
+
+-lex_rule
+ -search
+  lex: дышыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: дышон
+  trans_ru2: 1. привычка, навык 2. умение, выучка
+
+-lex_rule
+ -search
+  lex: дэймыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: дэймон
+  trans_ru2: 1. сильный испуг, ужас, страх 2. страшилище
+
+-lex_rule
+ -search
+  lex: дэлетаны
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: дэлетаськон
+  trans_ru2: причащение, жертвование
+
+-lex_rule
+ -search
+  lex: дэмланы
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: дэмлан
+  trans_ru2: рекомендация, выдвижение сговор, сватовство
+
+-lex_rule
+ -search
+  lex: дӥсьтыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: дӥсьтон
+  trans_ru2: отвага, смелость, решительность
+
+-lex_rule
+ -search
+  lex: егитомыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: егитомон
+  trans_ru2: омоложение
+
+-lex_rule
+ -search
+  lex: езаны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: езан
+  trans_ru2: появление трещины
+
+-lex_rule
+ -search
+  lex: етӥнаны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: етӥнан
+  trans_ru2: уборка льна
+
+-lex_rule
+ -search
+  lex: етӥнаны
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: етӥнаськон
+  trans_ru2: теребление льна
+
+-lex_rule
+ -search
+  lex: жадьыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: жадён
+  trans_ru2: усталость, утомление, усталь 
+
+-lex_rule
+ -search
+  lex: жаляны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: жалян
+  trans_ru2: жалость, сострадание
+
+-lex_rule
+ -search
+  lex: жугыны
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: жугиськон
+  trans_ru2: 1. драка 2. сражение, битва, бой
+
+-lex_rule
+ -search
+  lex: жугыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: жугон
+  trans_ru2: 1. избиение, расправа, порка 2. гырлы ~ удар в колокол
+
+-lex_rule
+ -search
+  lex: жуэтыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: жуэтон
+  trans_ru2: гудение, свист, жужжание
+
+-lex_rule
+ -search
+  lex: забораны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: заборан
+  trans_ru2: обнесение забором
+
+-lex_rule
+ -search
+  lex: заводьыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: заводён
+  trans_ru2: заведение, завод
+
+-lex_rule
+ -search
+  lex: заказтыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: заказтон
+  trans_ru2: заказ, заказывание
+
+-lex_rule
+ -search
+  lex: зугыртыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: зугыртон
+  trans_ru2: зуд, щекотка
+
+-lex_rule
+ -search
+  lex: зудыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: зудон
+  trans_ru2: 1. свербёж 2. затруднение
+
+-lex_rule
+ -search
+  lex: зуректыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: зуректон
+  trans_ru2: 1. дрожание, вздрагивание 2.лихорадка 3. прыщ, угорь 4. огрубение
+
+-lex_rule
+ -search
+  lex: зурканы
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: зуркан
+  trans_ru2: тряска
+
+-lex_rule
+ -search
+  lex: зуроданы
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: зуродан
+  trans_ru2: стогование, стогометание
+
+-lex_rule
+ -search
+  lex: зыраны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: зыран
+  trans_ru2: мазанье, натирание, втирание, мазь
+
+-lex_rule
+ -search
+  lex: зӥбломыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: зӥбломон
+  trans_ru2: успокоение, успокоенность
+
+-lex_rule
+ -search
+  lex: зӥбломытыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: зӥбломытон
+  trans_ru2: успокоение, усмирение
+
+-lex_rule
+ -search
+  lex: зӥбыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: зӥбон
+  trans_ru2: 1. прижатие, придавливание 2. перен. притеснение
+
+-lex_rule
+ -search
+  lex: зӥбыны
+  gramm: V,.*
+  gloss: STEM-ITER-VN.*
+ -add
+  lex2: зӥбылон
+  trans_ru2: 1. надавливание 2. пальпирование, пальпация 3. перен. притеснение
+
+-lex_rule
+ -search
+  lex: зӥбытомыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: зӥбытомон
+  trans_ru2: успокоение, усмирение
+
+-lex_rule
+ -search
+  lex: зӥръяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: зӥръян
+  trans_ru2: бросание, кидание
+
+-lex_rule
+ -search
+  lex: зӧкъяськыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: зӧкъяськон
+  trans_ru2: высокомерие, зазнайство
+
+-lex_rule
+ -search
+  lex: ивортыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: ивортон
+  trans_ru2: 1. извещение, оповещение 2. уведомление, осведомление 3. эссе
+
+-lex_rule
+ -search
+  lex: изваскаяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: изваскаян
+  trans_ru2: 1. известкование 2. беление известью
+
+-lex_rule
+ -search
+  lex: измыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: измон
+  trans_ru2: 1. окаменелость 2. перен. бессердечность, чёрствость
+
+-lex_rule
+ -search
+  lex: изыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: изон
+  trans_ru2: помол, размол
+
+-lex_rule
+ -search
+  lex: изьыяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: изьыян
+  trans_ru2: надевание головного убора
+
+-lex_rule
+ -search
+  lex: индыны
+  gramm: V,.*
+  gloss: STEM-ITER-VN.*
+ -add
+  lex2: индылон
+  trans_ru2: разъяснение; инструкция
+
+-lex_rule
+ -search
+  lex: интыяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: интыян
+  trans_ru2: 1. расстановка, размещение 2. устройство, определение на место
+
+-lex_rule
+ -search
+  lex: интэманы
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: интэман
+  trans_ru2: унижение, оскорбление
+
+-lex_rule
+ -search
+  lex: ишкыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: ишкон
+  trans_ru2: теребление, щипание
+
+-lex_rule
+ -search
+  lex: йыбырскыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: йыбырскон
+  trans_ru2: 1. поклон, преклонение колен, коленопреклонение 2. поминание умерших
+
+-lex_rule
+ -search
+  lex: йываны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: йыван
+  trans_ru2: примирение, смирение, утешение, успокоение
+
+-lex_rule
+ -search
+  lex: йыганы
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: йыган
+  trans_ru2: постукивание, стук
+
+-lex_rule
+ -search
+  lex: йыггетыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: йыггетон
+  trans_ru2: стук, стучание, постукивание
+
+-lex_rule
+ -search
+  lex: йыггетыны
+  gramm: V,.*
+  gloss: STEM-ITER-VN.*
+ -add
+  lex2: йыггетылон
+  trans_ru2: стук, стучание, постукивание
+
+-lex_rule
+ -search
+  lex: йыгыръяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: йыгыръян
+  trans_ru2: осязание, ощупывание
+
+-lex_rule
+ -search
+  lex: йылпумъяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: йылпумъян
+  trans_ru2: 1. завершение 2. подытоживание, подведение итоговь
+
+-lex_rule
+ -search
+  lex: йылсаны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: йылсан
+  trans_ru2: 1. заострение 2. вершение обл. 3. завершение, заканчивание
+
+-lex_rule
+ -search
+  lex: йылъяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: йылъян
+  trans_ru2: 1. заканчивание, завершение 2. вершение обл. 3. заострение
+
+-lex_rule
+ -search
+  lex: йылэтыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: йылэтон
+  trans_ru2: 1. добавление, дополнение 2. увеличение, повышение
+
+-lex_rule
+ -search
+  lex: йыртэманы
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: йыртэман
+  trans_ru2: 1. озорство, баловство 2. кража, воровство 3. хулиганство
+
+-lex_rule
+ -search
+  lex: йыръяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: йыръян
+  trans_ru2: 1. оглавление, содержание 2. заглавие, заголовок 3. название
+
+-lex_rule
+ -search
+  lex: йӧнаны
+  gramm: V,.*
+  gloss: STEM-CAUS-VN.*
+ -add
+  lex2: йӧнатон
+  trans_ru2: лечение излечение, исцеление
+
+-lex_rule
+ -search
+  lex: йӧнъяны
+  gramm: V,.*
+  gloss: STEM-ITER-VN.*
+ -add
+  lex2: йӧнъяллян
+  trans_ru2: вылёчивание, излёчивание
+
+-lex_rule
+ -search
+  lex: йӧтскыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: йӧтскон
+  trans_ru2: 1. прикосновение, соприкосновение 2. вмешательство
+
+-lex_rule
+ -search
+  lex: йӧттыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: йӧттон
+  trans_ru2: 1. попадание 2. наказание
+
+-lex_rule
+ -search
+  lex: йӧӟектыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: йӧӟектон
+  trans_ru2: 1. обледенение 2. перен. замерзание, окоченение
+
+-lex_rule
+ -search
+  lex: йӧӟыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: йӧӟон
+  trans_ru2: оледенение
+
+-lex_rule
+ -search
+  lex: кабананы
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: кабанан
+  trans_ru2: скирдование, стогование, складывание в скирды
+
+-lex_rule
+ -search
+  lex: кабъяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: кабъян
+  trans_ru2: формирование
+
+-lex_rule
+ -search
+  lex: кайгырыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: кайгырон
+  trans_ru2: горе, скорбь, печаль
+
+-lex_rule
+ -search
+  lex: кайпалтыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: кайпалтон
+  trans_ru2: отстранение, отчуждение; присвоение
+
+-lex_rule
+ -search
+  lex: калтыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: калтон
+  trans_ru2: 1. ловля бреднем 2. бредень, невод, бродник обл.
+
+-lex_rule
+ -search
+  lex: каньсыраны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: каньсыран
+  trans_ru2: истома, ослабление
+
+-lex_rule
+ -search
+  lex: капчиёмыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: капчиёмон
+  trans_ru2: 1. облегчение 2. перен. лёгкое охмеление 3. перен. разрешение от бремени роды
+
+-lex_rule
+ -search
+  lex: катьтэммыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: катьтэммон
+  trans_ru2: изнеможение, ослабление, вялость, бессилие
+
+-lex_rule
+ -search
+  lex: катьяны
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: катьяськон
+  trans_ru2: исцеление, выздоровление
+
+-lex_rule
+ -search
+  lex: кежегъяськыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: кежегъяськон
+  trans_ru2: горячка, суета
+
+-lex_rule
+ -search
+  lex: кежыртыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: кежыртон
+  trans_ru2: хруст, похрустывание
+
+-lex_rule
+ -search
+  lex: кезьытаны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: кезьытан
+  trans_ru2: похолодание
+
+-lex_rule
+ -search
+  lex: келяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: келян
+  trans_ru2: проигрывание, проигрыш
+
+-lex_rule
+ -search
+  lex: келяны
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: келяськон
+  trans_ru2: проводы, провожание
+
+-lex_rule
+ -search
+  lex: кельыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: келён
+  trans_ru2: проводы невесты
+
+-lex_rule
+ -search
+  lex: кенераны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: кенеран
+  trans_ru2: отгораживание, загораживание, обнесение изгородью
+
+-lex_rule
+ -search
+  lex: кенжыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: кенжон
+  trans_ru2: 1. загорание 2. перен. вспыхивание
+
+-lex_rule
+ -search
+  lex: кенжытъяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: кенжытъян
+  trans_ru2: 1. зажигание, поджигание 2. прикуривание, закуривание
+
+-lex_rule
+ -search
+  lex: кепыраны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: кепыран
+  trans_ru2: стеснительность, застенчивость, стыдливость
+
+-lex_rule
+ -search
+  lex: керетыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: керетон
+  trans_ru2: ссора, ругань
+
+-lex_rule
+ -search
+  lex: керланы
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: керлан
+  trans_ru2: 1. издевательство, глумление 2. проклинание, брань, ругань
+
+-lex_rule
+ -search
+  lex: кертоманы
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: кертоман
+  trans_ru2: арендование, взятие в аренду
+
+-lex_rule
+ -search
+  lex: кертскыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: кертскон
+  trans_ru2: повязка 2. ленточка ворота, воротника на рубашке
+
+-lex_rule
+ -search
+  lex: керттыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: керттон
+  trans_ru2: 1. завязывание, привязывание, связывание, обвязывание 2. вязка, вязание, плетение
+
+-lex_rule
+ -search
+  lex: керттыны
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: керттӥськон
+  trans_ru2: вязание
+
+-lex_rule
+ -search
+  lex: керӟегъяськыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: керӟегъяськон
+  trans_ru2: нервозность, горячность
+
+-lex_rule
+ -search
+  lex: кескичъяськыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: кескичъяськон
+  trans_ru2: хитрость, лукавство
+
+-lex_rule
+ -search
+  lex: кеськыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: кеськон
+  trans_ru2: крик, окрик, оклик, выкрик
+
+-lex_rule
+ -search
+  lex: кивалтосъяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: кивалтосъян
+  trans_ru2: 1. вооружение орудием защиты 2. снабжение подсобными орудиями труда
+
+-lex_rule
+ -search
+  lex: кизермыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: кизермон
+  trans_ru2: разжижение
+
+-lex_rule
+ -search
+  lex: кизьныны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: кизьнон
+  trans_ru2: чиханье, чих
+
+-lex_rule
+ -search
+  lex: кизьыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: кизён
+  trans_ru2: сев, посев
+
+-lex_rule
+ -search
+  lex: киуланы
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: киулан
+  trans_ru2: 1. подчинение 2. власть
+
+-lex_rule
+ -search
+  lex: кичӧлтыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: кичӧлтон
+  trans_ru2: 1. инициатива, почин, новаторство 2. жеребьёвка
+
+-lex_rule
+ -search
+  lex: клеяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: клеян
+  trans_ru2: заклеивание, приклеивание
+
+-lex_rule
+ -search
+  lex: клоккетыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: клоккетон
+  trans_ru2: квохтанье, клохтанье
+
+-lex_rule
+ -search
+  lex: кокчаны
+  gramm: V,.*
+  gloss: STEM-ITER-VN.*
+ -add
+  lex2: кокчаллян
+  trans_ru2: клевание, склёвывание
+
+-lex_rule
+ -search
+  lex: кокчаны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: кокчан
+  trans_ru2: клевание, клевок 2. мотыга
+
+-lex_rule
+ -search
+  lex: колысаны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: колысан
+  trans_ru2: сбор сныти
+
+-lex_rule
+ -search
+  lex: коньыгубияны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: коньыгубиян
+  trans_ru2: сбор рыжиков
+
+-lex_rule
+ -search
+  lex: копаны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: копан
+  trans_ru2: копка, рытьё
+
+-lex_rule
+ -search
+  lex: кораны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: коран
+  trans_ru2: вырубка, рубка 2. сечка
+
+-lex_rule
+ -search
+  lex: корманы
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: корман
+  trans_ru2: царапанье
+
+-lex_rule
+ -search
+  lex: корманы
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: кормаськон
+  trans_ru2: 1. царапанье, чесание 2. чесотка
+
+-lex_rule
+ -search
+  lex: косыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: косон
+  trans_ru2: веление, повеление, указ, требование, приказывание, приказ
+
+-lex_rule
+ -search
+  lex: котырскыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: котырскон
+  trans_ru2: обход, объезд
+
+-lex_rule
+ -search
+  lex: котыръяны
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: котыръяськон
+  trans_ru2: круговорот, циркуляция
+
+-lex_rule
+ -search
+  lex: котыны
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: котӥськон
+  trans_ru2: разведение теста
+
+-lex_rule
+ -search
+  lex: коӵыртыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: коӵыртон
+  trans_ru2: стрекотание, стрекот
+
+-lex_rule
+ -search
+  lex: куалекъяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: куалекъян
+  trans_ru2: дрожь, вздрагивание, озноб, горячка
+
+-lex_rule
+ -search
+  lex: куанермыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: куанермон
+  trans_ru2: обеднение, обнищание
+
+-lex_rule
+ -search
+  lex: куасьтыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: куасьтон
+  trans_ru2: сушка, сушение, просушка, вяление
+
+-lex_rule
+ -search
+  lex: куашетыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: куашетон
+  trans_ru2: 1. шум, галдёж, гомон 2. скандал 3. бурление, шум 4. шелест
+
+-lex_rule
+ -search
+  lex: куашкатыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: куашкатон
+  trans_ru2: разрушение; неудача
+
+-lex_rule
+ -search
+  lex: куаштыртыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: куаштыртон
+  trans_ru2: шуршание, шелест, шорох
+
+-lex_rule
+ -search
+  lex: кудымульыяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: кудымульыян
+  trans_ru2: собирание черники
+
+-lex_rule
+ -search
+  lex: кужмояны
+  gramm: V,.*
+  gloss: STEM-CAUS-VN.*
+ -add
+  lex2: кужмоятон
+  trans_ru2: усиление, укрепление, упрочение
+
+-lex_rule
+ -search
+  lex: кузпалъяны
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: кузпалъяськон
+  trans_ru2: женитьба, бракосочетание
+
+-lex_rule
+ -search
+  lex: куыны
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: куиськон
+  trans_ru2: 1. тканьё, занятие ткачеством 2. ткацкий
+
+-lex_rule
+ -search
+  lex: куккыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: куккон
+  trans_ru2: умыкание девушки
+
+-lex_rule
+ -search
+  lex: кулыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: кулон
+  trans_ru2: смерть, гибель
+
+-lex_rule
+ -search
+  lex: кулыктыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: кулыктон
+  trans_ru2: 1. клохтанье, квохтанье 2. икота
+
+-lex_rule
+ -search
+  lex: кулыкъяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: кулыкъян
+  trans_ru2: 1. клохтанье, квохтанье 2. икота, икание
+
+-lex_rule
+ -search
+  lex: кулэяны
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: кулэяськон
+  trans_ru2: потребность, необходимость, нужда
+
+-lex_rule
+ -search
+  lex: куыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: куон
+  trans_ru2: 1. тканьё 2. ткацкий станок 3. плетение
+
+-lex_rule
+ -search
+  lex: курадӟыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: курадӟон
+  trans_ru2: мучение, мука, страдание
+
+-lex_rule
+ -search
+  lex: кураны
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: кураськон
+  trans_ru2: 1. попрошайничество 2. нищета, нищенство
+
+-lex_rule
+ -search
+  lex: куректыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: куректон
+  trans_ru2: страдание, горе, печаль
+
+-lex_rule
+ -search
+  lex: курыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: курон
+  trans_ru2: просьба, требование, заказ
+
+-lex_rule
+ -search
+  lex: куспаны
+  gramm: V,.*
+  gloss: STEM-CAUS-VN.*
+ -add
+  lex2: куспатон
+  trans_ru2: прерывание, придерживание
+
+-lex_rule
+ -search
+  lex: кутсаны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: кутсан
+  trans_ru2: молотьба, обмолот
+
+-lex_rule
+ -search
+  lex: кушерскыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: кушерскон
+  trans_ru2: тревога, переполох
+
+-lex_rule
+ -search
+  lex: куӵыктыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: куӵыктон
+  trans_ru2: 1. икание, икота 2. кудахтанье,стрекотание, стрекот
+
+-lex_rule
+ -search
+  lex: куӵыкъяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: куӵыкъян
+  trans_ru2: 1. икота 2. кудахтанье
+
+-lex_rule
+ -search
+  lex: кыеданы
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: кыедан
+  trans_ru2: унаваживание, удобрение навозом
+
+-lex_rule
+ -search
+  lex: кылбураны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: кылбуран
+  trans_ru2: поэзия
+
+-lex_rule
+ -search
+  lex: кылдыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: кылдон
+  trans_ru2: 1. возникновение, зарождение, появление, образование 2. зародыш, зачаток, завязь
+
+-lex_rule
+ -search
+  lex: кылдытыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: кылдытон
+  trans_ru2: образование, создание, основание, учреждение, обеспечение
+
+-lex_rule
+ -search
+  lex: кыльыны
+  gramm: V,.*
+  gloss: STEM-ITER-VN.*
+ -add
+  lex2: кыльылон
+  trans_ru2: раздевание, разувание
+
+-lex_rule
+ -search
+  lex: кыльыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: кылён
+  trans_ru2: отставание
+
+-lex_rule
+ -search
+  lex: кынмыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: кынмон
+  trans_ru2: 1. замерзание, застывание 2. простуда
+
+-lex_rule
+ -search
+  lex: кыньыръяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: кыньыръян
+  trans_ru2: 1. мигание, моргание, подмигивание 2. зажмуривание, прищуривание глаз
+
+-lex_rule
+ -search
+  lex: кырӟаны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: кырӟан
+  trans_ru2: пение
+
+-lex_rule
+ -search
+  lex: кысканы
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: кыскан
+  trans_ru2: 1. выдёргивание, вытаскивание, вытягивание 2. массаж
+
+-lex_rule
+ -search
+  lex: кыскыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: кыскон
+  trans_ru2: доение, дойка
+
+-lex_rule
+ -search
+  lex: кысыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: кысон
+  trans_ru2: 1. тушение, гашение 2. перен. угасание, увядание
+
+-lex_rule
+ -search
+  lex: кыткыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: кыткон
+  trans_ru2: 1. запрягание, запряжка 2. упряжь
+
+-lex_rule
+ -search
+  lex: кышканы
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: кышкан
+  trans_ru2: боязнь, страх, испуг
+
+-lex_rule
+ -search
+  lex: кышъяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: кышъян
+  trans_ru2: латание, штопка, подшивание
+
+-lex_rule
+ -search
+  lex: кыӵектыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: кыӵектон
+  trans_ru2: щебетание, стрекотание
+
+-lex_rule
+ -search
+  lex: кыӵыртыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: кыӵыртон
+  trans_ru2: стрекот, стрекотня
+
+-lex_rule
+ -search
+  lex: кӧбераны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: кӧберан
+  trans_ru2: 1. стеснение 2. боязнь
+
+-lex_rule
+ -search
+  lex: кӧжыяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: кӧжыян
+  trans_ru2: 1. уборка гороха 2. собирание гороха
+
+-lex_rule
+ -search
+  lex: кӧланы
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: кӧлан
+  trans_ru2: ночлег, ночёвка
+
+-lex_rule
+ -search
+  lex: кӧлыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: кӧлон
+  trans_ru2: 1. ночлег 2. сон
+
+-lex_rule
+ -search
+  lex: лакыртыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: лакыртон
+  trans_ru2: хруст, шелест, треск
+
+-lex_rule
+ -search
+  lex: лангетыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: лангетон
+  trans_ru2: 1. звон 2. шум, гам, гомон
+
+-lex_rule
+ -search
+  lex: ларгетыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: ларгетон
+  trans_ru2: 1. блеяние 2.дребезжание
+
+-lex_rule
+ -search
+  lex: латыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: латон
+  trans_ru2: приступ
+
+-lex_rule
+ -search
+  lex: лачыртыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: лачыртон
+  trans_ru2: 1. треск, трещание 2. трещотка
+
+-lex_rule
+ -search
+  lex: легезяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: легезян
+  trans_ru2: сбор ягод шиповника
+
+-lex_rule
+ -search
+  lex: лекатыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: лекатон
+  trans_ru2: вспоминание недобрым словом, охаивание
+
+-lex_rule
+ -search
+  lex: лекъяськыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: лекъяськон
+  trans_ru2: гнев, злоба, злость, ярость
+
+-lex_rule
+ -search
+  lex: лемыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: лемон
+  trans_ru2: 1. заклеивание, приклеивание, склеивание 2. перен. приставание 3. совокупление
+
+-lex_rule
+ -search
+  lex: либатыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: либатон
+  trans_ru2: успокаивание, утешение
+
+-lex_rule
+ -search
+  lex: лобаны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: лобан
+  trans_ru2: летание, лёт, полёт
+
+-lex_rule
+ -search
+  lex: лобыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: лобон
+  trans_ru2: 1. полёт, лёт 2. перен. побег
+
+-lex_rule
+ -search
+  lex: лобӟыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: лобӟон
+  trans_ru2: взлёт, вылет, полёт, перелёт
+
+-lex_rule
+ -search
+  lex: лопыръяны
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: лопыръяськон
+  trans_ru2: 1. взмахивание, махание, хлопанье 2. веяние, колебание, колыхание 3. перен. мигание
+
+-lex_rule
+ -search
+  lex: лосыртыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: лосыртон
+  trans_ru2: треск, хруст
+
+-lex_rule
+ -search
+  lex: лудмыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: лудмон
+  trans_ru2: дичание, одичание
+
+-lex_rule
+ -search
+  lex: лулъяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: лулъян
+  trans_ru2: 1. оживление, воскрешение 2. перен. одухотворение
+
+-lex_rule
+ -search
+  lex: лулъяны
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: лулъяськон
+  trans_ru2: оживание, воскрешение
+
+-lex_rule
+ -search
+  lex: лулӟыны
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: лулӟиськон
+  trans_ru2: вздох, вздыхание
+
+-lex_rule
+ -search
+  lex: лулӟыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: лулӟон
+  trans_ru2: 1. вздох, вдох и выдох 2. оживание, воскресение
+
+-lex_rule
+ -search
+  lex: лусйыны
+  gramm: V,.*
+  gloss: STEM-ITER-VN.*
+ -add
+  lex2: лусйылон
+  trans_ru2: тесание, обтёсывание, подтёсывание
+
+-lex_rule
+ -search
+  lex: лусйыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: лусъён
+  trans_ru2: тесание, обтёсывание, подтёсывание
+
+-lex_rule
+ -search
+  lex: лушканы
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: лушкан
+  trans_ru2: воровство, кража, хищение
+
+-lex_rule
+ -search
+  lex: лушканы
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: лушкаськон
+  trans_ru2: воровство, кража, хищение
+
+-lex_rule
+ -search
+  lex: лыдыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: лыдон
+  trans_ru2: 1. зудение, зуд 2. чесотка
+
+-lex_rule
+ -search
+  lex: лыдъяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: лыдъян
+  trans_ru2: счёт, подсчёт
+
+-lex_rule
+ -search
+  lex: лыдӟыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: лыдӟон
+  trans_ru2: 1. чтение 2. счёт, подсчёт
+
+-lex_rule
+ -search
+  lex: лыктыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: лыктон
+  trans_ru2: 1. приход, прибивание, приезд 2. пришествие
+
+-lex_rule
+ -search
+  lex: лысыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: лысон
+  trans_ru2: линька, лысение, облысение
+
+-lex_rule
+ -search
+  lex: льӧманы
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: льӧман
+  trans_ru2: собирание черёмухи
+
+-lex_rule
+ -search
+  lex: лэзяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: лэзян
+  trans_ru2: бросание, кидание, швыряние
+
+-lex_rule
+ -search
+  lex: лэйканы
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: лэйкан
+  trans_ru2: качание, покачивание, качка
+
+-lex_rule
+ -search
+  lex: лэсьтыны
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: лэсьтӥськон
+  trans_ru2: строительство, стройка
+
+-lex_rule
+ -search
+  lex: лэсятыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: лэсятон
+  trans_ru2: нахождение сходства, уподобление, приведение в соответствие
+
+-lex_rule
+ -search
+  lex: лэчканы
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: лэчкан
+  trans_ru2: качание, покачивание, качка
+
+-lex_rule
+ -search
+  lex: люканы
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: люкан
+  trans_ru2: 1. складывание, скирдование, стогование 2. собирание, сбор, созыв 3. заготовка
+
+-lex_rule
+ -search
+  lex: люкетыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: люкетон
+  trans_ru2: преграда, препятствие, помеха
+
+-lex_rule
+ -search
+  lex: люкыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: люкон
+  trans_ru2: 1. деление, разделение, раздел, отделение 2. расторжение брака, развод
+
+-lex_rule
+ -search
+  lex: лябӟыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: лябӟон
+  trans_ru2: ослабление, слабость, расслабление
+
+-lex_rule
+ -search
+  lex: лякыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: лякон
+  trans_ru2: приклеивание
+
+-lex_rule
+ -search
+  lex: лякыны
+  gramm: V,.*
+  gloss: STEM-ITER-VN.*
+ -add
+  lex2: лякылон
+  trans_ru2: приклеивание
+
+-lex_rule
+ -search
+  lex: лякыттэмъяськыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: лякыттэмъяськон
+  trans_ru2: озорство, шалость, баловство, дурачество
+
+-lex_rule
+ -search
+  lex: лӥяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: лӥян
+  trans_ru2: успокоение, утешение
+
+-lex_rule
+ -search
+  lex: лӥяны
+  gramm: V,.*
+  gloss: STEM-CAUS-VN.*
+ -add
+  lex2: лӥятон
+  trans_ru2: успокаивание, утешение
+
+-lex_rule
+ -search
+  lex: лӧбыръяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: лӧбыръян
+  trans_ru2: 1. рыхление, взрыхление, разрыхление 2. ворошение
+
+-lex_rule
+ -search
+  lex: лӧдыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: лӧдон
+  trans_ru2: 1. теребление, щипание 2. отливание, переливание 3. перен. брань, ругань
+
+-lex_rule
+ -search
+  lex: лӧптыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: лӧптон
+  trans_ru2: 1. всплывание, поднимание на поверхность 2. поднятие, поднимание 3. азарт
+
+-lex_rule
+ -search
+  lex: лӧпшаны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: лӧпшан
+  trans_ru2: воодушевление
+
+-lex_rule
+ -search
+  lex: лӧпшаны
+  gramm: V,.*
+  gloss: STEM-CAUS-VN.*
+ -add
+  lex2: лӧпшатон
+  trans_ru2: воодушевление
+
+-lex_rule
+ -search
+  lex: лӧсъяськыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: лӧсъяськон
+  trans_ru2: 1. возведение, установка 2. установка, установление основы, подставки
+
+-lex_rule
+ -search
+  lex: лӧтсаны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: лӧтсан
+  trans_ru2: 1. отбавка, отливание, отсыпание 2. процеживание
+
+-lex_rule
+ -search
+  lex: магнитаны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: магнитан
+  trans_ru2: 1. намагничивание 2. притягивание магнитом
+
+-lex_rule
+ -search
+  lex: мадыны
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: мадиськон
+  trans_ru2: рассказ, загадка, пение
+
+-lex_rule
+ -search
+  lex: мадьыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: мадён
+  trans_ru2: рассказ, рассказывание
+
+-lex_rule
+ -search
+  lex: мажсаны
+  gramm: V,.*
+  gloss: STEM-ITER-VN.*
+ -add
+  lex2: мажсаллян
+  trans_ru2: сгребание граблями
+
+-lex_rule
+ -search
+  lex: макмыраны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: макмыран
+  trans_ru2: 1. охмеление 2. состояние похмелья
+
+-lex_rule
+ -search
+  lex: мактамъяны
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: мактамъяськон
+  trans_ru2: ирония
+
+-lex_rule
+ -search
+  lex: мактаны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: мактан
+  trans_ru2: 1. восхваление, прославление 2. иронизирование, насмешка, ирония
+
+-lex_rule
+ -search
+  lex: мактаны
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: мактаськон
+  trans_ru2: 1. хвастовство, зазнайство 2. насмешка, ирония, иронизирование
+
+-lex_rule
+ -search
+  lex: малпаны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: малпан
+  trans_ru2: мысль, идея, сознание
+
+-lex_rule
+ -search
+  lex: малпаны
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: малпаськон
+  trans_ru2: 1. дума, раздумье 2. мечта, мечтание 3. размышление
+
+-lex_rule
+ -search
+  lex: мальдыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: мальдон
+  trans_ru2: 1. светобоязнь 2. ослепление
+
+-lex_rule
+ -search
+  lex: матынскыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: матынскон
+  trans_ru2: приближение, сближение
+
+-lex_rule
+ -search
+  lex: матэктыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: матэктон
+  trans_ru2: приближение, сближение
+
+-lex_rule
+ -search
+  lex: матэктыны
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: матэктӥськон
+  trans_ru2: приближение, сближение, подход на близкое расстояние
+
+-lex_rule
+ -search
+  lex: матэяны
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: матэяськон
+  trans_ru2: 1. приближение, сближение 2. перен. установление близких отношений и связей
+
+-lex_rule
+ -search
+  lex: маялляны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: маяллян
+  trans_ru2: 1. поглаживание 2. замазывание 3. вытирание, протирание
+
+-lex_rule
+ -search
+  lex: маялтыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: маялтон
+  trans_ru2: 1. вытирание, протирание, смахивание 2. подметание 3. поглаживание 
+
+-lex_rule
+ -search
+  lex: маялӟыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: маялӟон
+  trans_ru2: 1. выпадение осадка 2. перен. обессиление
+
+-lex_rule
+ -search
+  lex: медыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: медон
+  trans_ru2: 1. желание, намерение, хотение 2. промедление, задержка
+
+-lex_rule
+ -search
+  lex: медъяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: медъян
+  trans_ru2: 1. наём 2. перен. подкуп
+
+-lex_rule
+ -search
+  lex: мерскыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: мерскон
+  trans_ru2: 1. назойливое приставание, назойливость 2. вмешательство
+
+-lex_rule
+ -search
+  lex: мертаны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: мертан
+  trans_ru2: 1. взвешивание 2. измерение, замер 3. примерка 4. прицел, прицеливание
+
+-lex_rule
+ -search
+  lex: мертаны
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: мертаськон
+  trans_ru2: взвешивание, измерение
+
+-lex_rule
+ -search
+  lex: мерттыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: мерттон
+  trans_ru2: посадка
+
+-lex_rule
+ -search
+  lex: месыны
+  gramm: V,.*
+  gloss: STEM-ITER-VN.*
+ -add
+  lex2: месылон
+  trans_ru2: окунание, погружение
+
+-lex_rule
+ -search
+  lex: миськыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: миськон
+  trans_ru2: 1. мытьё 2. стирка 3. купание
+
+-lex_rule
+ -search
+  lex: мисьтӥськыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: мисьтӥськон
+  trans_ru2: умывание
+
+-lex_rule
+ -search
+  lex: моганы
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: моган
+  trans_ru2: 1. задержка, остановка, пауза 2. заикание
+
+-lex_rule
+ -search
+  lex: моганы
+  gramm: V,.*
+  gloss: STEM-CAUS-VN.*
+ -add
+  lex2: могатон
+  trans_ru2: 1. задерживание, останавливание, прерывание 2. торможение, тормоз
+
+-lex_rule
+ -search
+  lex: могӟыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: могӟон
+  trans_ru2: 1. задержка, остановка, тормоз 2. запинка, заикание 3. затруднение, препятствие
+
+-lex_rule
+ -search
+  lex: мозмыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: мозмон
+  trans_ru2: освобождение, избавление
+
+-lex_rule
+ -search
+  lex: мозмытыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: мозмытон
+  trans_ru2: 1. освобождение, избавление, спасение, раскрепощение 2. спуск
+
+-lex_rule
+ -search
+  lex: мозмытъяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: мозмытъян
+  trans_ru2: 1. освобождение, избавление, раскрепощение 2. отвязывание
+
+-lex_rule
+ -search
+  lex: монъяськыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: монъяськон
+  trans_ru2: зазнайство, высокомерие, важность, чванство
+
+-lex_rule
+ -search
+  lex: мудыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: мудон
+  trans_ru2: 1. копание, подкапывание, раскапывание 2. окучивание 3. мотыга
+
+-lex_rule
+ -search
+  lex: мудронъяськыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: мудронъяськон
+  trans_ru2: мудрствование, премудрость
+
+-lex_rule
+ -search
+  lex: мудыны
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: мудӥськон
+  trans_ru2: 1. взрыхление почвы, зарывание, подкапывание 2. окучивание
+
+-lex_rule
+ -search
+  lex: мукетмыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: мукетмон
+  trans_ru2: изменение, перемена, преобразование
+
+-lex_rule
+ -search
+  lex: мултэстыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: мултэстон
+  trans_ru2: 1. перевыполнение 2.превышение
+
+-lex_rule
+ -search
+  lex: мульыяськыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: мульыяськон
+  trans_ru2: появление ягод
+
+-lex_rule
+ -search
+  lex: мунёяськыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: мунёяськон
+  trans_ru2: кокетничанье, кокетство
+
+-lex_rule
+ -search
+  lex: мусояны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: мусоян
+  trans_ru2: ласка, ласкание, лелеяние
+
+-lex_rule
+ -search
+  lex: муяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: муян
+  trans_ru2: подслащивание мёдом
+
+-lex_rule
+ -search
+  lex: мыдланьскыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: мыдланьскон
+  trans_ru2: регрессия
+
+-lex_rule
+ -search
+  lex: мыдланьтыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: мыдланьтон
+  trans_ru2: 1. извращение, искажение 2. направление по ложному пути, дезориентация
+
+-lex_rule
+ -search
+  lex: мыжганы
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: мыжган
+  trans_ru2: избиение кулаками, побои
+
+-lex_rule
+ -search
+  lex: мызяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: мызян
+  trans_ru2: метание икры, нерест
+
+-lex_rule
+ -search
+  lex: мыкыртыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: мыкыртон
+  trans_ru2: наклонение, сгибание
+
+-lex_rule
+ -search
+  lex: мылкыдаськыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: мылкыдаськон
+  trans_ru2: требование, предписание, положение, инструкция
+
+-lex_rule
+ -search
+  lex: мылкыдъяськыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: мылкыдъяськон
+  trans_ru2: интерес
+
+-lex_rule
+ -search
+  lex: мынектыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: мынектон
+  trans_ru2: улыбка, усмешка
+
+-lex_rule
+ -search
+  lex: мыныны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: мынон
+  trans_ru2: ходьба
+
+-lex_rule
+ -search
+  lex: мыняны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: мынян
+  trans_ru2: улыбка, усмешка
+
+-lex_rule
+ -search
+  lex: мыргетыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: мыргетон
+  trans_ru2: 1. бурчание 2. мурлыканье
+
+-lex_rule
+ -search
+  lex: мырыштыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: мырыштон
+  trans_ru2: подталкивание, тыкание
+
+-lex_rule
+ -search
+  lex: мырӟыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: мырӟон
+  trans_ru2: удар, столкновение
+
+-lex_rule
+ -search
+  lex: мыскылляны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: мыскыллян
+  trans_ru2: издевательство, насмешка, оскорбление, унижение, надругательство
+
+-lex_rule
+ -search
+  lex: мыскылляны
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: мыскылляськон
+  trans_ru2: издевательство, насмешка, оскорбление, унижение, надругательство
+
+-lex_rule
+ -search
+  lex: мытыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: мытон
+  trans_ru2: возражение, сопротивление, бунт
+
+-lex_rule
+ -search
+  lex: мычыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: мычон
+  trans_ru2: 1. выставление, высовывание 2. протягивание 3. сгребание 4. перен. бритьё
+
+-lex_rule
+ -search
+  lex: мӧзмыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: мӧзмон
+  trans_ru2: скука, тоска
+
+-lex_rule
+ -search
+  lex: намераны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: намеран
+  trans_ru2: собирание костяники
+
+-lex_rule
+ -search
+  lex: начармыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: начармон
+  trans_ru2: обеднение, разорение, истощение
+
+-lex_rule
+ -search
+  lex: немыраны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: немыран
+  trans_ru2: раскисание, обессиление
+
+-lex_rule
+ -search
+  lex: нивелираны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: нивелиран
+  trans_ru2: нивелирование
+
+-lex_rule
+ -search
+  lex: никсыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: никсон
+  trans_ru2: 1. визжание, визг 2. перен. нытьё, хныканье
+
+-lex_rule
+ -search
+  lex: нимазъяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: нимазъян
+  trans_ru2: обособление, отделение, разъединение, разобщение, разделение
+
+-lex_rule
+ -search
+  lex: ниргыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: ниргон
+  trans_ru2: нытьё, хныканье
+
+-lex_rule
+ -search
+  lex: нискыланы
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: нискылан
+  trans_ru2: катание
+
+-lex_rule
+ -search
+  lex: ниыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: ниён
+  trans_ru2: 1. обдирание, сдирание 2. порка
+
+-lex_rule
+ -search
+  lex: нодъяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: нодъян
+  trans_ru2: вразумление, наставление, убеждение
+
+-lex_rule
+ -search
+  lex: ноныны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: нонон
+  trans_ru2: сосание
+
+-lex_rule
+ -search
+  lex: нуатъяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: нуатъян
+  trans_ru2: насмешка, издевательство
+
+-lex_rule
+ -search
+  lex: нукыртыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: нукыртон
+  trans_ru2: 1. бормотание, ворчание 2. мурлыканье
+
+-lex_rule
+ -search
+  lex: нуназеяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: нуназеян
+  trans_ru2: обед
+
+-lex_rule
+ -search
+  lex: нуныяны
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: нуныяськон
+  trans_ru2: ласка, нежность
+
+-lex_rule
+ -search
+  lex: нургетыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: нургетон
+  trans_ru2: 1. ворчание, брюзжание 2. мурлыканье
+
+-lex_rule
+ -search
+  lex: нысъяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: нысъян
+  trans_ru2: нюханье
+
+-lex_rule
+ -search
+  lex: ньылышъяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: ньылышъян
+  trans_ru2: глотание, проглатывание
+
+-lex_rule
+ -search
+  lex: ньӧмскыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: ньӧмскон
+  trans_ru2: 1. заражение 2. ~ модальность категориез категория притворной модальности
+
+-lex_rule
+ -search
+  lex: нюлыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: нюлон
+  trans_ru2: лизание, облизывание
+
+-lex_rule
+ -search
+  lex: нюлышъяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: нюлышъян
+  trans_ru2: облизывание, слизывание
+
+-lex_rule
+ -search
+  lex: нюлэсканы
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: нюлэскан
+  trans_ru2: охота
+
+-lex_rule
+ -search
+  lex: нюромыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: нюромон
+  trans_ru2: увлажнение, заболачивание
+
+-lex_rule
+ -search
+  lex: нюръяны
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: нюръяськон
+  trans_ru2: бой, битва, борьба, сражение, схватка
+
+-lex_rule
+ -search
+  lex: някырскыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: някырскон
+  trans_ru2: физ. наклонение
+
+-lex_rule
+ -search
+  lex: нярӟытыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: нярӟытон
+  trans_ru2: натирание мозоли, сдирание кожи
+
+-lex_rule
+ -search
+  lex: няськытаны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: няськытан
+  trans_ru2: потепление, оттепель
+
+-lex_rule
+ -search
+  lex: огазеяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: огазеян
+  trans_ru2: 1. объединение, сплочение, соединение, присоединение
+
+-lex_rule
+ -search
+  lex: огазеяны
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: огазеяськон
+  trans_ru2: объединение; ассоциация
+
+-lex_rule
+ -search
+  lex: огъяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: огъян
+  trans_ru2: 1. обобществление 2. обобщение
+
+-lex_rule
+ -search
+  lex: одольыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: одолён
+  trans_ru2: 1. одоление, преодоление 2. приставание
+
+-lex_rule
+ -search
+  lex: ожалтыны
+  gramm: V,.*
+  gloss: STEM-ITER-VN.*
+ -add
+  lex2: ожалтылон
+  trans_ru2: 1. закалывание, убивание 2.вывихивание
+
+-lex_rule
+ -search
+  lex: ожманы
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: ожмаськон
+  trans_ru2: сражение, битва, бой
+
+-lex_rule
+ -search
+  lex: озёлтыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: озёлтон
+  trans_ru2: отодвигание, отстранение
+
+-lex_rule
+ -search
+  lex: октыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: октон
+  trans_ru2: 1. сбор, собирание 2. уборка 3. собирание, сбор 4. покупка, закупка
+
+-lex_rule
+ -search
+  lex: ораны
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: ораськон
+  trans_ru2: грызня, перен. ругань, ссора
+
+-lex_rule
+ -search
+  lex: орсмыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: орсмон
+  trans_ru2: свёртывание
+
+-lex_rule
+ -search
+  lex: ортчытыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: ортчытон
+  trans_ru2: проведение
+
+-lex_rule
+ -search
+  lex: оскалтыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: оскалтон
+  trans_ru2: 1. пробование, проба 2. попытка
+
+-lex_rule
+ -search
+  lex: оскыны
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: оскиськон
+  trans_ru2: 1. доверие, надежда, вера 2. доверенность
+
+-lex_rule
+ -search
+  lex: оскыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: оскон
+  trans_ru2: религия 2. доверенность
+
+-lex_rule
+ -search
+  lex: ошыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: ошон
+  trans_ru2: 1. вешание, повешение 2. вешалка
+
+-lex_rule
+ -search
+  lex: пазьланы
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: пазьлан
+  trans_ru2: 1. расстёгивание 2.раздвигание 3. ошкуривание 4. растопыривание
+
+-lex_rule
+ -search
+  lex: пазяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: пазян
+  trans_ru2: 1. брызганье, разбрызгивание, расплёскивание 2. опрыскивание
+
+-lex_rule
+ -search
+  lex: паймыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: паймон
+  trans_ru2: 1. удивление, изумление 2. недоумение
+
+-lex_rule
+ -search
+  lex: паланы
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: паласькон
+  trans_ru2: заражение, распространение
+
+-lex_rule
+ -search
+  lex: палдыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: палдон
+  trans_ru2: 1. отлёт, отскакивание 2. роение
+
+-lex_rule
+ -search
+  lex: палдыны
+  gramm: V,.*
+  gloss: STEM-ITER-VN.*
+ -add
+  lex2: палдылон
+  trans_ru2: 1. отскакивание, отлетание 2. роение
+
+-lex_rule
+ -search
+  lex: палькканы
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: пальккан
+  trans_ru2: расплёскивание, выплёскивание
+
+-lex_rule
+ -search
+  lex: пальпотыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: пальпотон
+  trans_ru2: улыбка
+
+-lex_rule
+ -search
+  lex: палэзяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: палэзян
+  trans_ru2: сбор рябины
+
+-lex_rule
+ -search
+  lex: палэнтыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: палэнтон
+  trans_ru2: 1. отстранение, увольнение, удаление 2. устранение, изживание
+
+-lex_rule
+ -search
+  lex: палэнтыны
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: палэнтӥськон
+  trans_ru2: 1. отстранение 2. устранение, изживание
+
+-lex_rule
+ -search
+  lex: паньганы
+  gramm: V,.*
+  gloss: STEM-CAUS-VN.*
+ -add
+  lex2: паньгатон
+  trans_ru2: вдавливание, сплющивание
+
+-lex_rule
+ -search
+  lex: паръяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: паръян
+  trans_ru2: 1. спаривание 2. складывание парами
+
+-lex_rule
+ -search
+  lex: парыны
+  gramm: V,.*
+  gloss: STEM-ITER-VN.*
+ -add
+  lex2: парылон
+  trans_ru2: 1. парение, запаривание 2. заваривание
+
+-lex_rule
+ -search
+  lex: пастуханы
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: пастухан
+  trans_ru2: работа пастухом, пастьба скота
+
+-lex_rule
+ -search
+  lex: паськытаны
+  gramm: V,.*
+  gloss: STEM-CAUS-VN.*
+ -add
+  lex2: паськытатон
+  trans_ru2: расширение, развёртывание
+
+-lex_rule
+ -search
+  lex: пачкатыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: пачкатон
+  trans_ru2: 1. придавливание 2. перен. притеснение
+
+-lex_rule
+ -search
+  lex: пашмыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: пашмон
+  trans_ru2: 1. высыхание, засыхание 2. худение 3. истощение, вырождение
+
+-lex_rule
+ -search
+  lex: пегӟыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: пегӟон
+  trans_ru2: 1. побег, бегство 2. укрытие
+
+-lex_rule
+ -search
+  lex: пелляны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: пеллян
+  trans_ru2: дуновение, дутьё, раздувание
+
+-lex_rule
+ -search
+  lex: пелляны
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: пелляськон
+  trans_ru2: вьюга, метель
+
+-lex_rule
+ -search
+  lex: перелӟыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: перелӟон
+  trans_ru2: покрытие плесенью
+
+-lex_rule
+ -search
+  lex: пересьмыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: пересьмон
+  trans_ru2: 1. старение, старость 2. перен. кул. шаньги, перепечи обл.
+
+-lex_rule
+ -search
+  lex: пертчыны
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: пертчиськон
+  trans_ru2: развязка, размотка, развязывание
+
+-lex_rule
+ -search
+  lex: пертчыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: пертчон
+  trans_ru2: развязывание, отвязывание
+
+-lex_rule
+ -search
+  lex: пештыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: пештон
+  trans_ru2: 1. отскакивание, отлетание 2. сало
+
+-lex_rule
+ -search
+  lex: пильыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: пилён
+  trans_ru2: 1. колка 2. распиловка
+
+-lex_rule
+ -search
+  lex: пиньгетыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: пиньгетон
+  trans_ru2: цвиньканье, пиньканье
+
+-lex_rule
+ -search
+  lex: питыраны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: питыран
+  trans_ru2: 1. действие по глаг. питыраны, 2. колесики, деревянный кружочек 3. колесо, блок
+
+-lex_rule
+ -search
+  lex: пичияны
+  gramm: V,.*
+  gloss: STEM-CAUS-VN.*
+ -add
+  lex2: пичиятон
+  trans_ru2: уменьшение, убавление
+
+-lex_rule
+ -search
+  lex: пичиёмыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: пичиёмон
+  trans_ru2: уменьшение, убывание
+
+-lex_rule
+ -search
+  lex: пиштыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: пиштон
+  trans_ru2: 1. блеск, сияние, сверкание, отражение, 2. излучение
+
+-lex_rule
+ -search
+  lex: погыръяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: погыръян
+  trans_ru2: 1. сваливание, валка 2.сваливание с ног 3. опрокидывание
+
+-lex_rule
+ -search
+  lex: подманы
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: подман
+  trans_ru2: долбление борти
+
+-lex_rule
+ -search
+  lex: позыръяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: позыръян
+  trans_ru2: 1. закручивание, скручивание 2.завинчивание 3. выжимание, отжимание 
+ 
+-lex_rule
+ -search
+  lex: порыны
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: пориськон
+  trans_ru2: выкорчёвывание, выкорчёвка, корчевание
+
+-lex_rule
+ -search
+  lex: порыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: порон
+  trans_ru2: 1. корчевание, выкорчёвка 2. промыв плотины 3. прополка
+
+-lex_rule
+ -search
+  lex: портыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: портон
+  trans_ru2: 1. бурение, сверление 2. размывание 3. бурав, сверло
+
+-lex_rule
+ -search
+  lex: поръяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: поръян
+  trans_ru2: 1. бурение, сверление, подтачивание 2. кружение, парение 3. хождение, блуждание
+
+-lex_rule
+ -search
+  lex: посыртыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: посыртон
+  trans_ru2: 1. бульканье 2. треск 3. плавательный пузырь
+
+-lex_rule
+ -search
+  lex: потаны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: потан
+  trans_ru2: выход, выезд, проход, проезд, переход
+
+-lex_rule
+ -search
+  lex: потыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: потон
+  trans_ru2: выход, выезд; всходы; переход 
+ 
+-lex_rule
+ -search
+  lex: поттыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: поттон
+  trans_ru2: вынос, вывоз
+
+-lex_rule
+ -search
+  lex: пужалляны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: пужаллян
+  trans_ru2: 1. загибание, засучивание 2. свёртывание, скатывание
+
+-lex_rule
+ -search
+  lex: пужалляны
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: пужалляськон
+  trans_ru2: 1. загибание, засучиваняе 2. свёртывание, скатывание
+
+-lex_rule
+ -search
+  lex: пужныны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: пужнон
+  trans_ru2: 1. просеивание 2. порхание 3. выпадение
+
+-lex_rule
+ -search
+  lex: пужныны
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: пужнӥськон
+  trans_ru2: 1. просеивание, провеивание 2. порхание
+
+-lex_rule
+ -search
+  lex: пужыяны
+  gramm: V,.*
+  gloss: STEM-CAUS-VN.*
+ -add
+  lex2: пужыятон
+  trans_ru2: вышивание, вышивка, украшение узорами
+
+-lex_rule
+ -search
+  lex: пузаны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: пузан
+  trans_ru2: кладка яиц
+
+-lex_rule
+ -search
+  lex: пукыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: пукон
+  trans_ru2: сидение; стул
+
+-lex_rule
+ -search
+  lex: пукыны
+  gramm: V,.*
+  gloss: STEM-CAUS-VN.*
+ -add
+  lex2: пуктон
+  trans_ru2: размещение; стройка
+
+-lex_rule
+ -search
+  lex: пумиськыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: пумиськон
+  trans_ru2: 1. снование 2. сновальный станок
+
+-lex_rule
+ -search
+  lex: пумитьяны
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: пумитьяськон
+  trans_ru2: возражение, противодействие, сопротивление
+
+-lex_rule
+ -search
+  lex: пумыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: пумон
+  trans_ru2: омертвение, одеревенение
+
+-lex_rule
+ -search
+  lex: пуныны
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: пунӥськон
+  trans_ru2: 1. витьё 2.плетение 3. предназначенный для витья
+
+-lex_rule
+ -search
+  lex: пурыны
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: пуриськон
+  trans_ru2: грызня, драка
+
+-lex_rule
+ -search
+  lex: пуромытыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: пуромытон
+  trans_ru2: 1. раздувание огня 2. перен. накаливание, накал
+
+-lex_rule
+ -search
+  lex: пусйыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: пусъён
+  trans_ru2: 1. постановка знака, клеймение 2. проведение 3. чествование 4. регистрация
+
+-lex_rule
+ -search
+  lex: путкарыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: путкарон
+  trans_ru2: 1. колка 2. битьё
+
+-lex_rule
+ -search
+  lex: пучыяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: пучыян
+  trans_ru2: образование почек
+
+-lex_rule
+ -search
+  lex: пуштыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: пуштон
+  trans_ru2: 1. взрыв 2. перен. вспышка
+
+-lex_rule
+ -search
+  lex: пуштытыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: пуштытон
+  trans_ru2: произведение взрыва, взрывание
+
+-lex_rule
+ -search
+  lex: пуӟектыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: пуӟектон
+  trans_ru2: 1. одеревенение, затвердение 2. перен. затруднительное положение
+
+-lex_rule
+ -search
+  lex: пыдесъяськыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: пыдесъяськон
+  trans_ru2: коленопреклонение, вставание на колени
+
+-lex_rule
+ -search
+  lex: пыдсаны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: пыдсан
+  trans_ru2: 1. закрывание, закрытие 2. вставление дна 3. заключение 4. перен. преграждение
+
+-lex_rule
+ -search
+  lex: пызйыны
+  gramm: V,.*
+  gloss: STEM-ITER-VN.*
+ -add
+  lex2: пызйылон
+  trans_ru2: 1. брызгание, разбрызгивание 2. фонтанирование 3. опрыскивание 4. накрапывание
+
+-lex_rule
+ -search
+  lex: пызьнаны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: пызьнан
+  trans_ru2: подсыпание, посыпка
+
+-lex_rule
+ -search
+  lex: пыкъяськыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: пыкъяськон
+  trans_ru2: 1. опора 2. сопротивление
+
+-lex_rule
+ -search
+  lex: пыкыны
+  gramm: V,.*
+  gloss: STEM-ITER-VN.*
+ -add
+  lex2: пыкылон
+  trans_ru2: 1. подпирание, подпорка 2. перен. укор, упрёк, попрёк
+
+-lex_rule
+ -search
+  lex: пыланы
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: пыласькон
+  trans_ru2: 1. купание, умывание 2. умывальник
+
+-lex_rule
+ -search
+  lex: пыланы
+  gramm: V,.*
+  gloss: STEM-CAUS-VN.*
+ -add
+  lex2: пылатон
+  trans_ru2: 1. купание 2. умывание, мытьё 3. крещение
+
+-lex_rule
+ -search
+  lex: пыргытыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: пыргытон
+  trans_ru2: 1. дробление, измельчение, крошение 2. дробилка
+
+-lex_rule
+ -search
+  lex: пырыны
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: пыриськон
+  trans_ru2: 1. вмешательство во что-л., участие в чём-л. 2. защита
+
+-lex_rule
+ -search
+  lex: пырыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: пырон
+  trans_ru2: вход, въезд
+
+-lex_rule
+ -search
+  lex: пыртыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: пыртон
+  trans_ru2: ввод, зачисление, внедрение; уборка
+
+-lex_rule
+ -search
+  lex: пытсэтаны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: пытсэтан
+  trans_ru2: арест
+
+-lex_rule
+ -search
+  lex: пычкыны
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: пычкиськон
+  trans_ru2: напряжение, потуги
+
+-lex_rule
+ -search
+  lex: пышаны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: пышан
+  trans_ru2: теребление конопли
+
+-lex_rule
+ -search
+  lex: пышкыны
+  gramm: V,.*
+  gloss: STEM-ITER-VN.*
+ -add
+  lex2: пышкылон
+  trans_ru2: 1. подражание, поддразнивание, пародия
+
+-lex_rule
+ -search
+  lex: пыӵаны
+  gramm: V,.*
+  gloss: STEM-CAUS-VN.*
+ -add
+  lex2: пыӵатон
+  trans_ru2: 1. пропитывание 2. мочка, мочение 3. внедрение
+
+-lex_rule
+ -search
+  lex: пыӵатъяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: пыӵатъян
+  trans_ru2: 1. пропитывание 2. мочка, мочение 3. внедрение
+
+-lex_rule
+ -search
+  lex: пыӵкыны
+  gramm: V,.*
+  gloss: STEM-ITER-VN.*
+ -add
+  lex2: пыӵкылон
+  trans_ru2: пародия, подражание, имитирование
+
+-lex_rule
+ -search
+  lex: пӧзьтыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: пӧзьтон
+  trans_ru2: 1. варка, кипячение 2. заваривание 3. тех. плавка, плавление
+
+-lex_rule
+ -search
+  lex: пӧлэстыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: пӧлэстон
+  trans_ru2: сучение пряжи
+
+-lex_rule
+ -search
+  lex: пӧраны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: пӧран
+  trans_ru2: приготовление пищи, стряпня
+
+-lex_rule
+ -search
+  lex: пӧрмыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: пӧрмон
+  trans_ru2: осуществление цели, удача
+
+-lex_rule
+ -search
+  lex: пӧсектыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: пӧсектон
+  trans_ru2: 1. повышение температуры 2. прение, горение
+
+-lex_rule
+ -search
+  lex: пӧсьвуаны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: пӧсьвуан
+  trans_ru2: обваривание, ошпаривание
+
+-lex_rule
+ -search
+  lex: пӧсьтыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: пӧсьтон
+  trans_ru2: 1. прерывание нарыва 2. прободение
+
+-lex_rule
+ -search
+  lex: пӧсяны
+  gramm: V,.*
+  gloss: STEM-CAUS-VN.*
+ -add
+  lex2: пӧсятон
+  trans_ru2: 1. подогревание, разогревание 2. потение 3. перен. взбучка
+
+-lex_rule
+ -search
+  lex: пӧяны
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: пӧяськон
+  trans_ru2: враньё, ложь, обман
+
+-lex_rule
+ -search
+  lex: радъяны
+  gramm: V,.*
+  gloss: STEM-ITER-VN.*
+ -add
+  lex2: радъяллян
+  trans_ru2: упорядочение, урегулирование, систематизация
+
+-lex_rule
+ -search
+  lex: радъяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: радъян
+  trans_ru2: упорядочение, урегулирование, систематизация
+
+-lex_rule
+ -search
+  lex: сабырланы
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: сабырлан
+  trans_ru2: уважение, почитание
+
+-lex_rule
+ -search
+  lex: сазьтыны
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: сазьтӥськон
+  trans_ru2: 1. просыпание 2. приход в сознание 3. отрезвление, протрезвление
+
+-lex_rule
+ -search
+  lex: сайкыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: сайкон
+  trans_ru2: 1. корчевание, расчистка 2. уборка, приборка
+
+-lex_rule
+ -search
+  lex: сайкытаны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: сайкытан
+  trans_ru2: 1. прояснение 2. освежение 3. отрезвление, протрезвление
+
+-lex_rule
+ -search
+  lex: сайяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: сайян
+  trans_ru2: затенение, заслонение
+
+-lex_rule
+ -search
+  lex: саканы
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: сакан
+  trans_ru2: сачкование, ловля сачком
+
+-lex_rule
+ -search
+  lex: сактыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: сактон
+  trans_ru2: 1. рассвет 2. понимание, соображение
+
+-lex_rule
+ -search
+  lex: сананы
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: санан
+  trans_ru2: уважение, почитание
+
+-lex_rule
+ -search
+  lex: санланы
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: санлан
+  trans_ru2: 1. почитание, уважение 2. учитывание, принятие во внимание
+
+-lex_rule
+ -search
+  lex: сантэманы
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: сантэман
+  trans_ru2: опорочение, обесчещение, унижение
+
+-lex_rule
+ -search
+  lex: санъяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: санъян
+  trans_ru2: уважение, почитание
+
+-lex_rule
+ -search
+  lex: саптаны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: саптан
+  trans_ru2: пачканье, загрязнение, маранье
+
+-lex_rule
+ -search
+  lex: сачкытыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: сачкытон
+  trans_ru2: удар, шлепок
+
+-lex_rule
+ -search
+  lex: сектаны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: сектан
+  trans_ru2: угощение, потчевание
+
+-lex_rule
+ -search
+  lex: сектаны
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: сектаськон
+  trans_ru2: угощение
+
+-lex_rule
+ -search
+  lex: серекъяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: серекъян
+  trans_ru2: 1. хохот, смех 2. насмешка
+
+-lex_rule
+ -search
+  lex: серыяны
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: серыяськон
+  trans_ru2: 1. наматывание на шпульку скалкой 2.скалка
+
+-lex_rule
+ -search
+  lex: сеськыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: сеськон
+  trans_ru2: отказ, отпирательство
+
+-lex_rule
+ -search
+  lex: сетаны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: сетан
+  trans_ru2: закидывание сети, ловля сетью
+
+-lex_rule
+ -search
+  lex: сизьпияны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: сизьпиян
+  trans_ru2: ловля птенцов дятла
+
+-lex_rule
+ -search
+  lex: сиктаны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: сиктан
+  trans_ru2: 1. починка 2. кочедык, коточик обл.
+
+-lex_rule
+ -search
+  lex: синыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: синон
+  trans_ru2: 1. убавление, спад, уменьшение 2. снижение
+
+-lex_rule
+ -search
+  lex: синтыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: синтон
+  trans_ru2: 1. уменьшение, убавление, отбавка 2. снижение 3. сужение вершины, вершение
+
+-lex_rule
+ -search
+  lex: сипыртыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: сипыртон
+  trans_ru2: шёпот, шептание
+
+-lex_rule
+ -search
+  lex: сираны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: сиран
+  trans_ru2: 1. смоление 2. сбор смолы
+
+-lex_rule
+ -search
+  lex: сиресаны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: сиресан
+  trans_ru2: пришивание воротника
+
+-lex_rule
+ -search
+  lex: сиыны
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: сиськон
+  trans_ru2: приём пищи, еда, обед
+
+-lex_rule
+ -search
+  lex: сисьмыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: сисьмон
+  trans_ru2: гноение, гниение
+
+-lex_rule
+ -search
+  lex: сиыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: сиён
+  trans_ru2: пища, еда
+
+-lex_rule
+ -search
+  lex: согъяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: согъян
+  trans_ru2: чесание, расчесывание
+
+-lex_rule
+ -search
+  lex: согыны
+  gramm: V,.*
+  gloss: STEM-ITER-VN.*
+ -add
+  lex2: согылон
+  trans_ru2: зарывание, закапывание
+
+-lex_rule
+ -search
+  lex: соргетыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: соргетон
+  trans_ru2: храпение, храп
+
+-lex_rule
+ -search
+  lex: струганы
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: струган
+  trans_ru2: строгание, обработка стругом
+
+-lex_rule
+ -search
+  lex: сузяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: сузян
+  trans_ru2: 1. чистка 2. кастрирование, кастрация
+
+-lex_rule
+ -search
+  lex: суланы
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: сулан
+  trans_ru2: сдирание коры
+
+-lex_rule
+ -search
+  lex: сулыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: сулон
+  trans_ru2: сдирание коры
+
+-lex_rule
+ -search
+  lex: сульпаськыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: сульпаськон
+  trans_ru2: непогода, слякоть
+
+-lex_rule
+ -search
+  lex: суляны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: сулян
+  trans_ru2: появление пузырей
+
+-lex_rule
+ -search
+  lex: суыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: суон
+  trans_ru2: рубка, обрубание, очистка
+
+-lex_rule
+ -search
+  lex: супыраны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: супыран
+  trans_ru2: 1. разваривание, разопревание 2. перен. обессиливание
+
+-lex_rule
+ -search
+  lex: супырӟыны
+  gramm: V,.*
+  gloss: STEM-ITER-VN.*
+ -add
+  lex2: супырӟылон
+  trans_ru2: обессиление
+
+-lex_rule
+ -search
+  lex: сурттыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: сурттон
+  trans_ru2: процесс выделения газов, выпускание газов
+
+-lex_rule
+ -search
+  lex: сутскыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: сутскон
+  trans_ru2: горение, сгорание, обгорание
+
+-lex_rule
+ -search
+  lex: сутыны
+  gramm: V,.*
+  gloss: STEM-ITER-VN.*
+ -add
+  lex2: сутылон
+  trans_ru2: сжигание, поджигание
+
+-lex_rule
+ -search
+  lex: сценаяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: сценаян
+  trans_ru2: постановка, переработка для сцены
+
+-lex_rule
+ -search
+  lex: сыланы
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: сылан
+  trans_ru2: растирание, массажирование
+
+-lex_rule
+ -search
+  lex: сылмытыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: сылмытон
+  trans_ru2: 1. растворение 2. пищеварение, переваривание пищи
+
+-lex_rule
+ -search
+  lex: сылыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: сылон
+  trans_ru2: стояние
+
+-lex_rule
+ -search
+  lex: сынаны
+  gramm: V,.*
+  gloss: STEM-ITER-VN.*
+ -add
+  lex2: сыналлян
+  trans_ru2: причёсывание, расчёсывание
+
+-lex_rule
+ -search
+  lex: сынаны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: сынан
+  trans_ru2: чесание, причёсывание
+
+-lex_rule
+ -search
+  lex: сырмыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: сырмон
+  trans_ru2: тряска, дёрганье
+
+-lex_rule
+ -search
+  lex: сырымӟыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: сырымӟон
+  trans_ru2: расслабленность, вялость, опьянение
+
+-lex_rule
+ -search
+  lex: сыскыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: сыскон
+  trans_ru2: 1. жевание, разжёвывание 2. жвачка
+
+-lex_rule
+ -search
+  lex: сьӧлыканы
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: сьӧлыкан
+  trans_ru2: совершение греха
+
+-lex_rule
+ -search
+  lex: сэрпалтыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: сэрпалтон
+  trans_ru2: 1. выкидывание, забрасывание, кидание 2. перен. свержение, переворот
+
+-lex_rule
+ -search
+  lex: сэстыны
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: сэстӥськон
+  trans_ru2: трепание
+
+-lex_rule
+ -search
+  lex: сюдыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: сюдон
+  trans_ru2: 1. кормление 2. кормушка
+
+-lex_rule
+ -search
+  lex: сюлмаськыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: сюлмаськон
+  trans_ru2: забота, старание, беспокойство
+
+-lex_rule
+ -search
+  lex: сюпсьыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: сюпсён
+  trans_ru2: 1. сосание 2. соска
+
+-lex_rule
+ -search
+  lex: сяськаяны
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: сяськаяськон
+  trans_ru2: цветение, расцвет
+
+-lex_rule
+ -search
+  lex: сӥзьыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: сӥзён
+  trans_ru2: обещание, завещание, завет
+
+-lex_rule
+ -search
+  lex: сӥланы
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: сӥлан
+  trans_ru2: почитание, уважение кого-л.
+
+-lex_rule
+ -search
+  lex: сӥсъяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: сӥсъян
+  trans_ru2: процеживание, фильтрование
+
+-lex_rule
+ -search
+  lex: сӥялскыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: сӥялскон
+  trans_ru2: 1. похолодание 2. освежение 3. перен. охлаждение
+
+-lex_rule
+ -search
+  lex: сӥяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: сӥян
+  trans_ru2: 1. остывание 2. охлаждение 3. перен. охладевание
+
+-lex_rule
+ -search
+  lex: сӧнманы
+  gramm: V,.*
+  gloss: STEM-CAUS-VN.*
+ -add
+  lex2: сӧнматон
+  trans_ru2: 1. возбуждение, волнение 2.  раздражение
+
+-lex_rule
+ -search
+  lex: сӧсыртыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: сӧсыртон
+  trans_ru2: искалечение, изуродование
+
+-lex_rule
+ -search
+  lex: такыланы
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: такылан
+  trans_ru2: строгание рубанком
+
+-lex_rule
+ -search
+  lex: таланы
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: талан
+  trans_ru2: 1. отбирание, отнимание, конфискация 2. захватывание 3. ограбление, грабёж
+
+-lex_rule
+ -search
+  lex: тамаканы
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: тамакан
+  trans_ru2: курение
+
+-lex_rule
+ -search
+  lex: таныны
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: танӥськон
+  trans_ru2: 1. отпирательство, отрицание, отказ 2.сокрытие, утаивание
+
+-lex_rule
+ -search
+  lex: тапкетыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: тапкетон
+  trans_ru2: топанье, цоканье
+
+-lex_rule
+ -search
+  lex: тапыртыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: тапыртон
+  trans_ru2: 1. притопывание, топот, топанье, цокот, цоканье 2. тапыртон
+
+-lex_rule
+ -search
+  lex: тарканы
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: таркан
+  trans_ru2: 1. спутывание, запутывание, перепутывание 2.разрушение. уничтожение, разорение
+
+-lex_rule
+ -search
+  lex: тачыртыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: тачыртон
+  trans_ru2: 1. потрескивание 2. трещотка, колотушка 3. перен. болтовня
+
+-lex_rule
+ -search
+  lex: тодманы
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: тодман
+  trans_ru2: узнавание, опознавание
+
+-lex_rule
+ -search
+  lex: тодматскыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: тодматскон
+  trans_ru2: знакомство, ознакомление
+
+-lex_rule
+ -search
+  lex: тодыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: тодон
+  trans_ru2: знание
+
+-lex_rule
+ -search
+  lex: толйыны
+  gramm: V,.*
+  gloss: STEM-ITER-VN.*
+ -add
+  lex2: толйылон
+  trans_ru2: зимовка
+
+-lex_rule
+ -search
+  lex: толйыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: толъён
+  trans_ru2: зимовка, зимовье
+
+-lex_rule
+ -search
+  lex: тордыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: тордон
+  trans_ru2: 1. набухание, разбухание 2. вздутие, вспучивание 3. перен. выпивка, пьянка
+
+-lex_rule
+ -search
+  lex: торӟыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: торӟон
+  trans_ru2: 1. одышка 2. вздутие
+
+-lex_rule
+ -search
+  lex: триньгетыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: триньгетон
+  trans_ru2: треньканье, потренькивание
+
+-lex_rule
+ -search
+  lex: тросаны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: тросан
+  trans_ru2: приумножение, умножение, размножение, увеличение
+
+-lex_rule
+ -search
+  lex: тубаны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: тубан
+  trans_ru2: 1. подъём, восхождение, лазанье 2. см. тубат
+
+-lex_rule
+ -search
+  lex: тубыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: тубон
+  trans_ru2: подъём, поднятие, восхождение
+
+-lex_rule
+ -search
+  lex: туганы
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: туган
+  trans_ru2: сбор хмеля
+
+-lex_rule
+ -search
+  lex: тулъяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: тулъян
+  trans_ru2: 1. забивание клина, вклинивание 2. втискивание, затискивание
+
+-lex_rule
+ -search
+  lex: тунаны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: тунан
+  trans_ru2: гадание, ворожба
+
+-lex_rule
+ -search
+  lex: тупатскыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: тупатскон
+  trans_ru2: линг. согласование
+
+-lex_rule
+ -search
+  lex: турнаны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: турнан
+  trans_ru2: кошение, косьба
+
+-lex_rule
+ -search
+  lex: турттыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: турттон
+  trans_ru2: 1. старание, стремление 2. попытка
+
+-lex_rule
+ -search
+  lex: туспуктыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: туспуктон
+  trans_ru2: съёмка
+
+-lex_rule
+ -search
+  lex: тусъяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: тусъян
+  trans_ru2: 1. изображение 2. копирование, подражание
+
+-lex_rule
+ -search
+  lex: туйыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: туён
+  trans_ru2: 1. толчение 2. пест
+
+-lex_rule
+ -search
+  lex: тылскыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: тылскон
+  trans_ru2: разжигание костра, разжигание огня
+
+-lex_rule
+ -search
+  lex: тырыны
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: тыриськон
+  trans_ru2: погрузка, укладывание
+
+-lex_rule
+ -search
+  lex: тырыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: тырон
+  trans_ru2: плата, платёж, уплата
+
+-lex_rule
+ -search
+  lex: тыршыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: тыршон
+  trans_ru2: 1. труд, старание, старательность, прилежание 2. служение
+
+-lex_rule
+ -search
+  lex: тышканы
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: тышкаськон
+  trans_ru2: ругань, ругательство, брань
+
+-lex_rule
+ -search
+  lex: тэбетаны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: тэбетан
+  trans_ru2: пеленание, запутывание в пелёнки
+
+-lex_rule
+ -search
+  lex: тэкшерыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: тэкшерон
+  trans_ru2: спор, дискуссия, обсуждение
+
+-lex_rule
+ -search
+  lex: тэльмырыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: тэльмырон
+  trans_ru2: мольба, просьба, увещевание
+
+-lex_rule
+ -search
+  lex: тэскаръяськыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: тэскаръяськон
+  trans_ru2: своенравие, упрямство, упорство, настойчивость
+
+-lex_rule
+ -search
+  lex: тэшканы
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: тэшкан
+  trans_ru2: треск, трещина
+
+-lex_rule
+ -search
+  lex: тяпайтыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: тяпайтон
+  trans_ru2: нерасторопность
+
+-lex_rule
+ -search
+  lex: тяпыртыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: тяпыртон
+  trans_ru2: болтовня, пустословие
+
+-lex_rule
+ -search
+  lex: тӥяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: тӥян
+  trans_ru2: 1. ломка, слом, разорение 2. нарушение 3. подрыв
+
+-lex_rule
+ -search
+  lex: тӧдьыманы
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: тӧдьыман
+  trans_ru2: 1. отбеливание 2. побелка
+
+-lex_rule
+ -search
+  lex: тӧланы
+  gramm: V,.*
+  gloss: STEM-CAUS-VN.*
+ -add
+  lex2: тӧлатон
+  trans_ru2: 1. проветривание 2. обветривание 3. провяливание
+
+-lex_rule
+ -search
+  lex: тӧлыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: тӧлон
+  trans_ru2: веяние, провеивание
+
+-lex_rule
+ -search
+  lex: тӧлӟытыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: тӧлӟытон
+  trans_ru2: 1. проветривание, 2. возгонка, выпаривание
+
+-lex_rule
+ -search
+  lex: тӧлыны
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: тӧлӥськон
+  trans_ru2: с.-х. веяние
+
+-lex_rule
+ -search
+  lex: тӧрнаны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: тӧрнан
+  trans_ru2: распухание, опухание, отекание, вздутие
+
+-lex_rule
+ -search
+  lex: удалтыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: удалтон
+  trans_ru2: 1. урожай 2. перен. удача 
+
+-lex_rule
+ -search
+  lex: уданы
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: удан
+  trans_ru2: 1. прорастание, всходы 2. всхожесть 3. биол.вегетация
+
+-lex_rule
+ -search
+  lex: удыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: удон
+  trans_ru2: полка, прополка
+
+-lex_rule
+ -search
+  lex: удъяськыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: удъяськон
+  trans_ru2: потчевание, угощение
+
+-lex_rule
+ -search
+  lex: ужаны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: ужан
+  trans_ru2: 1. процесс работы 2. работа, занятие
+
+-lex_rule
+ -search
+  lex: узаны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: узан
+  trans_ru2: подстрекание, инспирирование
+
+-lex_rule
+ -search
+  lex: узаны
+  gramm: V,.*
+  gloss: STEM-CAUS-VN.*
+ -add
+  lex2: узатон
+  trans_ru2: подстрекательство, инспирирование
+
+-lex_rule
+ -search
+  lex: узатъяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: узатъян
+  trans_ru2: подстрекание, инспирирование
+
+-lex_rule
+ -search
+  lex: узвесяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: узвесян
+  trans_ru2: покрытие свинцом
+
+-lex_rule
+ -search
+  lex: узыяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: узыян
+  trans_ru2: собирание земляники
+
+-lex_rule
+ -search
+  lex: уйыны
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: уйиськон
+  trans_ru2: погоня, преследование
+
+-lex_rule
+ -search
+  lex: укыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: укон
+  trans_ru2: 1. учение, обучение 2. чтение, прочтение
+
+-lex_rule
+ -search
+  lex: укояны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: укоян
+  trans_ru2: обшивание позументом, вышивание золотой нитью
+
+-lex_rule
+ -search
+  lex: укылтэмъяськыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: укылтэмъяськон
+  trans_ru2: шалость, баловство, озорство, проказа, проказничание, бесчинство
+
+-lex_rule
+ -search
+  lex: улошояны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: улошоян
+  trans_ru2: кастрирование, кастрация
+
+-lex_rule
+ -search
+  lex: улошояны
+  gramm: V,.*
+  gloss: STEM-CAUS-VN.*
+ -add
+  lex2: улошоятон
+  trans_ru2: кастрирование, кастрация
+
+-lex_rule
+ -search
+  lex: ултӥяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: ултӥян
+  trans_ru2: унижение, принижение, оскорбление
+
+-lex_rule
+ -search
+  lex: улэпкытыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: улэпкытон
+  trans_ru2: оживление, воскрешение
+
+-lex_rule
+ -search
+  lex: улӟыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: улӟон
+  trans_ru2: 1. загорание, воспламенение 2. оживание, воскресение, пробуждение
+
+-lex_rule
+ -search
+  lex: улӟытскыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: улӟытскон
+  trans_ru2: оживание, воскресение, пробуждение
+
+-lex_rule
+ -search
+  lex: улӟыны
+  gramm: V,.*
+  gloss: STEM-CAUS-ITER-VN.*
+ -add
+  lex2: улӟытылон
+  trans_ru2: 1. раздувание, разжигание, воспламенение
+
+-lex_rule
+ -search
+  lex: умояны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: умоян
+  trans_ru2: 1. улучшение, совершенствование 2. поправка, выздоровление
+
+-lex_rule
+ -search
+  lex: умояны
+  gramm: V,.*
+  gloss: STEM-CAUS-VN.*
+ -add
+  lex2: умоятон
+  trans_ru2: 1. улучшение, усовершенствование, благоустройство 2. исправление
+
+-lex_rule
+ -search
+  lex: умоятъяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: умоятъян
+  trans_ru2: 1. улучшение, совершенствование, благоустройство 2. перен. исправление, налаживание
+
+-lex_rule
+ -search
+  lex: унояны
+  gramm: V,.*
+  gloss: STEM-ITER-VN.*
+ -add
+  lex2: унояллян
+  trans_ru2: 1. умножение 2. преумножение
+
+-lex_rule
+ -search
+  lex: унояны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: уноян
+  trans_ru2: 1. умножение 2. преумножение, увеличение 3. размножение
+
+-lex_rule
+ -search
+  lex: унояны
+  gramm: V,.*
+  gloss: STEM-CAUS-VN.*
+ -add
+  lex2: уноятон
+  trans_ru2: 1. умножение 2. увеличивание, преумножение 3. размножение
+
+-lex_rule
+ -search
+  lex: уретыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: уретон
+  trans_ru2: 1. разрезание 2. отпиливание, допиливание 3. внезапное прерывание
+
+-lex_rule
+ -search
+  lex: урмыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: урмон
+  trans_ru2: бешенство, неистовство, ярость, буйство
+
+-lex_rule
+ -search
+  lex: уродмыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: уродмон
+  trans_ru2: 1. похудание, истощение, изнурение 2. порча 3. измельчание, вырождение
+
+-lex_rule
+ -search
+  lex: урыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: урон
+  trans_ru2: полка, прополка
+
+-lex_rule
+ -search
+  lex: урттылыны
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: урттылӥськон
+  trans_ru2: жалоба, донос, ябедничество, наговаривание
+
+-lex_rule
+ -search
+  lex: уръяськыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: уръяськон
+  trans_ru2: примирение, заключение мира, мир
+
+-lex_rule
+ -search
+  lex: урыны
+  gramm: V,.*
+  gloss: STEM-ITER-VN.*
+ -add
+  lex2: урылон
+  trans_ru2: 1. отпиливание, отрезание 2. внезапное прерывание
+
+-lex_rule
+ -search
+  lex: урӟектыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: урӟектон
+  trans_ru2: загноение, нагноение
+
+-lex_rule
+ -search
+  lex: ускытыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: ускытон
+  trans_ru2: натравливание, науськивание
+
+-lex_rule
+ -search
+  lex: устояны
+  gramm: V,.*
+  gloss: STEM-CAUS-ITER-VN.*
+ -add
+  lex2: устоятылон
+  trans_ru2: налаживание, улучшение
+
+-lex_rule
+ -search
+  lex: усыкмыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: усыкмон
+  trans_ru2: 1. угорание 2. апоплексия
+
+-lex_rule
+ -search
+  lex: усыяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: усыян
+  trans_ru2: боронование, бороньба
+
+-lex_rule
+ -search
+  lex: усьтыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: усьтон
+  trans_ru2: открывание; открытие; ключ
+
+-lex_rule
+ -search
+  lex: усьыны
+  gramm: V,.*
+  gloss: STEM-ITER-VN.*
+ -add
+  lex2: усьылон
+  trans_ru2: падение
+
+-lex_rule
+ -search
+  lex: усьяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: усьян
+  trans_ru2: 1. открывание 2. отмычка
+
+-lex_rule
+ -search
+  lex: усьыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: усён
+  trans_ru2: 1. падение, опадание 2. устье 4. падение
+
+-lex_rule
+ -search
+  lex: утыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: утон
+  trans_ru2: лай, лаянье
+
+-lex_rule
+ -search
+  lex: утчаны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: утчан
+  trans_ru2: 1. разыскивание, отыскивание 2. пробование, проба
+
+-lex_rule
+ -search
+  lex: утялтыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: утялтон
+  trans_ru2: 1. оберегание, уход 2. угощение, потчевание 3. перен. присвоение
+
+-lex_rule
+ -search
+  lex: утьыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: утён
+  trans_ru2: 1. воспитание, содержание 2. охрана, защита 3. хранение, сохранение, соблюдение
+
+-lex_rule
+ -search
+  lex: учкыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: учкон
+  trans_ru2: смотр, осмотр, просмотр, взор
+
+-lex_rule
+ -search
+  lex: ушъямъяны
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: ушъямъяськон
+  trans_ru2: ирония, насмешка, издёвка
+
+-lex_rule
+ -search
+  lex: ушъяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: ушъян
+  trans_ru2: восхваление, прославление, хвала
+
+-lex_rule
+ -search
+  lex: ушъяны
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: ушъяськон
+  trans_ru2: хвастовство, кичливость
+
+-lex_rule
+ -search
+  lex: уяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: уян
+  trans_ru2: 1. плавание 2. плавательный пузырь 3. плавники
+
+-lex_rule
+ -search
+  lex: уйыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: уён
+  trans_ru2: 1. преследование 2. погоня
+
+-lex_rule
+ -search
+  lex: хозяинъяськыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: хозяинъяськон
+  trans_ru2: хозяйничанье
+
+-lex_rule
+ -search
+  lex: чавкетыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: чавкетон
+  trans_ru2: чавканье, чмоканье
+
+-lex_rule
+ -search
+  lex: чаганы
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: чаган
+  trans_ru2: 1. щепание лучины 2. расщепление
+
+-lex_rule
+ -search
+  lex: чагыны
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: чагиськон
+  trans_ru2: 1. донос, клевета 2. жалоба
+
+-lex_rule
+ -search
+  lex: чагыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: чагон
+  trans_ru2: 1. донос, клевета 2. жалоба
+
+-lex_rule
+ -search
+  lex: чакланы
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: чакласькон
+  trans_ru2: фолькл. примета
+
+-lex_rule
+ -search
+  lex: чалмыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: чалмон
+  trans_ru2: умолкание, утихание, затихание
+
+-lex_rule
+ -search
+  lex: чальтчыны
+  gramm: V,.*
+  gloss: STEM-ITER-VN.*
+ -add
+  lex2: чальтчылон
+  trans_ru2: 1. отскакивание рикошетом, расщепление, отщепление 2. перен. отстранение
+
+-lex_rule
+ -search
+  lex: чеканы
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: чекаськон
+  trans_ru2: ругань, брань
+
+-lex_rule
+ -search
+  lex: ченгешыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: ченгешон
+  trans_ru2: спор, брань, ругань, ссора, дискуссия, пререкание
+
+-lex_rule
+ -search
+  lex: черланы
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: черлан
+  trans_ru2: 1. заражение 2. заболевание
+
+-lex_rule
+ -search
+  lex: черсыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: черсон
+  trans_ru2: прядение прялка
+
+-lex_rule
+ -search
+  lex: чивыктыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: чивыктон
+  trans_ru2: 1. визжание, пищание 2. чириканье, щебетание
+
+-lex_rule
+ -search
+  lex: чивыртыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: чивыртон
+  trans_ru2: чириканье, щебетание
+
+-lex_rule
+ -search
+  lex: чигыны
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: чигиськон
+  trans_ru2: 1. ломка 2. перен. отчаяние
+
+-lex_rule
+ -search
+  lex: чигнаны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: чигнан
+  trans_ru2: отступление, регрессия
+
+-lex_rule
+ -search
+  lex: чигыны
+  gramm: V,.*
+  gloss: STEM-CAUS-PASS-VN.*
+ -add
+  lex2: чигтӥськон
+  trans_ru2: отчаяние
+
+-lex_rule
+ -search
+  lex: чигыны
+  gramm: V,.*
+  gloss: STEM-CAUS-ITER-VN.*
+ -add
+  lex2: чигтылон
+  trans_ru2: 1. переламывание, разламывание 2. перен. отрывание
+
+-lex_rule
+ -search
+  lex: чиедмыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: чиедмон
+  trans_ru2: истощение, исхудание
+
+-lex_rule
+ -search
+  lex: чиетыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: чиетон
+  trans_ru2: чириканье, писк, пищанье
+
+-lex_rule
+ -search
+  lex: чизйыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: чизъён
+  trans_ru2: брызганье, кропление
+
+-lex_rule
+ -search
+  lex: чиккетыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: чиккетон
+  trans_ru2: 1. писк, пищание 2. тиканье
+
+-lex_rule
+ -search
+  lex: чилектыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: чилектон
+  trans_ru2: блеск, сверкание молнии
+
+-lex_rule
+ -search
+  lex: чилекъяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: чилекъян
+  trans_ru2: блеск, сверкание
+
+-lex_rule
+ -search
+  lex: чильпыраны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: чильпыран
+  trans_ru2: просвечивание, просвет
+
+-lex_rule
+ -search
+  lex: чиляны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: чилян
+  trans_ru2: поблёскивание, блеск, сверкание, сияние
+
+-lex_rule
+ -search
+  lex: чипсыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: чипсон
+  trans_ru2: 1. свист, трель 2. свисток, свистулька, свирель, манок
+
+-lex_rule
+ -search
+  lex: чирдыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: чирдон
+  trans_ru2: 1. пение, трель 2. чтение
+
+-lex_rule
+ -search
+  lex: чоняны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: чонян
+  trans_ru2: окоченение
+
+-lex_rule
+ -search
+  lex: чопкетыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: чопкетон
+  trans_ru2: 1. причмокивание 2. чавканье
+
+-lex_rule
+ -search
+  lex: чортыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: чортон
+  trans_ru2: 1. зов, клич, приглашение 2. пение 3. понукание, гонка 4. кнут, вица обл. 5. понуждение
+
+-lex_rule
+ -search
+  lex: чоръяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: чоръян
+  trans_ru2: 1. приглашение 2. пение 3. понукание
+
+-lex_rule
+ -search
+  lex: чорыганы
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: чорыган
+  trans_ru2: ловля рыбы, путина
+
+-lex_rule
+ -search
+  lex: чузъяны
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: чузъяськон
+  trans_ru2: эхо, отзвук
+
+-lex_rule
+ -search
+  lex: чуканы
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: чукан
+  trans_ru2: задержка, тормоз, преграждение
+
+-lex_rule
+ -search
+  lex: чукыны
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: чукиськон
+  trans_ru2: метание жребия
+
+-lex_rule
+ -search
+  lex: чукыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: чукон
+  trans_ru2: 1. бросание жребия 2. окунание 3. высекание огня 4. крещение
+
+-lex_rule
+ -search
+  lex: чумолёяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: чумолёян
+  trans_ru2: копнение, складывание в копну
+
+-lex_rule
+ -search
+  lex: чупаны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: чупан
+  trans_ru2: целование, поцелуй
+
+-lex_rule
+ -search
+  lex: чурдэктыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: чурдэктон
+  trans_ru2: отвердение, затвердение
+
+-lex_rule
+ -search
+  lex: чусомыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: чусомон
+  trans_ru2: утихание, затихание
+
+-lex_rule
+ -search
+  lex: чутыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: чутон
+  trans_ru2: прихрамывание, хромота
+
+-lex_rule
+ -search
+  lex: чызйыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: чызъён
+  trans_ru2: 1. брызганье 2. поливание из брандспойта
+
+-lex_rule
+ -search
+  lex: чылкытаны
+  gramm: V,.*
+  gloss: STEM-CAUS-VN.*
+ -add
+  lex2: чылкытатон
+  trans_ru2: 1. очищение, фильтрование 2. диализ, дистилирование
+
+-lex_rule
+ -search
+  lex: чырдыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: чырдон
+  trans_ru2: чтение, пение
+
+-lex_rule
+ -search
+  lex: чырсаны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: чырсан
+  trans_ru2: 1. закисание, прокисание, брожение 2. перен. раскисание
+
+-lex_rule
+ -search
+  lex: чырсаны
+  gramm: V,.*
+  gloss: STEM-CAUS-VN.*
+ -add
+  lex2: чырсатон
+  trans_ru2: 1. заквашивание 2. закваска
+
+-lex_rule
+ -search
+  lex: шаганы
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: шаган
+  trans_ru2: шагание
+
+-lex_rule
+ -search
+  lex: шаймыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: шаймон
+  trans_ru2: исчезновение, пропажа
+
+-lex_rule
+ -search
+  lex: шалтыртыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: шалтыртон
+  trans_ru2: 1. стучание, громыхание 2. трещотка, деревянная колотушка
+
+-lex_rule
+ -search
+  lex: шанскыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: шанскон
+  trans_ru2: махание, мах
+
+-lex_rule
+ -search
+  lex: шапыкъяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: шапыкъян
+  trans_ru2: капание, покапывание
+
+-lex_rule
+ -search
+  lex: шараяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: шараян
+  trans_ru2: выявление, вскрытие, разоблачение
+
+-lex_rule
+ -search
+  lex: шарккетыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: шарккетон
+  trans_ru2: стук, постукивание
+
+-lex_rule
+ -search
+  lex: шедьтыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: шедьтон
+  trans_ru2: нахождение, находка, отыскание
+
+-lex_rule
+ -search
+  lex: шедьыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: шедён
+  trans_ru2: попадание, находка
+
+-lex_rule
+ -search
+  lex: шекланыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: шекланон
+  trans_ru2: сомнение
+
+-lex_rule
+ -search
+  lex: шепаны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: шепан
+  trans_ru2: колошение
+
+-lex_rule
+ -search
+  lex: шерыны
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: шериськон
+  trans_ru2: точение
+
+-lex_rule
+ -search
+  lex: шерыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: шерон
+  trans_ru2: точение, точка
+
+-lex_rule
+ -search
+  lex: шертыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: шертон
+  trans_ru2: сортировка, сортирование
+
+-lex_rule
+ -search
+  lex: шеръяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: шеръян
+  trans_ru2: 1. прореживание 2. растопыривание
+
+-lex_rule
+ -search
+  lex: шильыяськыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: шильыяськон
+  trans_ru2: заготовка пластинок лыка
+
+-lex_rule
+ -search
+  lex: шинъяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: шинъян
+  trans_ru2: надевание шин на колёса
+
+-lex_rule
+ -search
+  lex: шоканы
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: шокан
+  trans_ru2: дыхание
+
+-lex_rule
+ -search
+  lex: шокчыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: шокчон
+  trans_ru2: вздох, выдох, вдох
+
+-lex_rule
+ -search
+  lex: шокчыны
+  gramm: V,.*
+  gloss: STEM-ITER-VN.*
+ -add
+  lex2: шокчылон
+  trans_ru2: выдыхание, вдыхание, вздыхание
+
+-lex_rule
+ -search
+  lex: шолоктэматыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: шолоктэматон
+  trans_ru2: выщелачивание
+
+-lex_rule
+ -search
+  lex: шонаны
+  gramm: V,.*
+  gloss: STEM-ITER-VN.*
+ -add
+  lex2: шоналлян
+  trans_ru2: 1. махание, размахивание 2. качание, покачивание, кивание
+
+-lex_rule
+ -search
+  lex: шоналтыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: шоналтон
+  trans_ru2: кивок, взмах
+
+-lex_rule
+ -search
+  lex: шонертыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: шонертон
+  trans_ru2: 1. выпрямление, распрямление 2. перен. исправление, поправка, правка
+
+-lex_rule
+ -search
+  lex: шугтыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: шугтон
+  trans_ru2: мука, мучение
+
+-lex_rule
+ -search
+  lex: шудыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: шудон
+  trans_ru2: игра
+
+-lex_rule
+ -search
+  lex: шузимыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: шузимон
+  trans_ru2: сумасшествие, помешательство
+
+-lex_rule
+ -search
+  lex: шузияны
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: шузияськон
+  trans_ru2: дурачество, непристойное поведение
+
+-lex_rule
+ -search
+  lex: шуккыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: шуккон
+  trans_ru2: 1. забивание 2. сбивание 3. ушиб
+
+-lex_rule
+ -search
+  lex: шуланы
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: шулан
+  trans_ru2: 1. свист, посвистывание 2. свисток, свистулька
+
+-lex_rule
+ -search
+  lex: шумпотыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: шумпотон
+  trans_ru2: радость
+
+-lex_rule
+ -search
+  lex: шундэктыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: шундэктон
+  trans_ru2: оттепель
+
+-lex_rule
+ -search
+  lex: шунтыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: шунтон
+  trans_ru2: разогревание, согревание, подогревание
+
+-lex_rule
+ -search
+  lex: шунытскыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: шунытскон
+  trans_ru2: оттепель
+
+-lex_rule
+ -search
+  lex: шупаны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: шупан
+  trans_ru2: высыхание, подсыхание
+
+-lex_rule
+ -search
+  lex: шупаны
+  gramm: V,.*
+  gloss: STEM-CAUS-VN.*
+ -add
+  lex2: шупатон
+  trans_ru2: подсушивание, высушивание, провяливание, осушение, см.тж. куасьтон
+
+-lex_rule
+ -search
+  lex: шутыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: шутон
+  trans_ru2: заквашивание, закваска
+
+-lex_rule
+ -search
+  lex: шутэтскыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: шутэтскон
+  trans_ru2: отдых, покой
+
+-lex_rule
+ -search
+  lex: шуэръяськыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: шуэръяськон
+  trans_ru2: 1. беспокойство, тревога 2. бушевание, буйство
+
+-lex_rule
+ -search
+  lex: шымырияны
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: шымырияськон
+  trans_ru2: складчатость
+
+-lex_rule
+ -search
+  lex: шыпыртыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: шыпыртон
+  trans_ru2: 1. шушуканье 2. шуршание
+
+-lex_rule
+ -search
+  lex: шыраны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: шыран
+  trans_ru2: ловля мышей, охота за мышами, мышкование
+
+-lex_rule
+ -search
+  lex: шырыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: шырон
+  trans_ru2: 1. порка 2.подрезка, подрезание 3.подрубка, подшивка
+
+-lex_rule
+ -search
+  lex: шыръяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: шыръян
+  trans_ru2: 1. экономия, бережливость 2. подшивание, подрубание
+
+-lex_rule
+ -search
+  lex: шырӟыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: шырӟон
+  trans_ru2: 1. подрезка, подрезание 2.срывание, обдирание
+
+-lex_rule
+ -search
+  lex: шӧдыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: шӧдон
+  trans_ru2: чувство
+
+-lex_rule
+ -search
+  lex: шӧдытыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: шӧдытон
+  trans_ru2: сигнал, знак, предупреждение
+
+-lex_rule
+ -search
+  lex: шӧектыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: шӧектон
+  trans_ru2: 1. омертвление 2. гангрена
+
+-lex_rule
+ -search
+  lex: шӧманы
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: шӧман
+  trans_ru2: 1. брожение 2. опьянение 3. испуг, боязнь 4. проба
+
+-lex_rule
+ -search
+  lex: шӧтаны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: шӧтан
+  trans_ru2: намерение, начинание
+
+-lex_rule
+ -search
+  lex: ыбыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: ыбон
+  trans_ru2: 1. выстрел, стрельба 2. расстрел 3. ружьё
+
+-lex_rule
+ -search
+  lex: ыбыны
+  gramm: V,.*
+  gloss: STEM-ITER-VN.*
+ -add
+  lex2: ыбылон
+  trans_ru2: 1. стрельба, обстрел 2. расстрел
+
+-lex_rule
+ -search
+  lex: ыбыны
+  gramm: V,.*
+  gloss: STEM-ITER-PASS-VN.*
+ -add
+  lex2: ыбылӥськон
+  trans_ru2: стрельба, перестрелка
+
+-lex_rule
+ -search
+  lex: ымйылыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: ымйылон
+  trans_ru2: 1. упрёк, попрёк 2. отговаривание
+
+-lex_rule
+ -search
+  lex: ыргетыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: ыргетон
+  trans_ru2: рычание, урчание
+
+-lex_rule
+ -search
+  lex: ыстыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: ыстон
+  trans_ru2: 1. посылка 2. отсылка, отправка, отправление
+
+-lex_rule
+ -search
+  lex: ыштыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: ыштон
+  trans_ru2: потеря, утрата, урон
+
+-lex_rule
+ -search
+  lex: эктыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: эктон
+  trans_ru2: танец, пляс
+
+-lex_rule
+ -search
+  lex: эмъяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: эмъян
+  trans_ru2: лечение, вылечивание
+
+-lex_rule
+ -search
+  lex: эриктэманы
+  gramm: V,.*
+  gloss: STEM-ITER-VN.*
+ -add
+  lex2: эриктэмаллян
+  trans_ru2: 1. притеснение, принуждение 2. насилование
+
+-lex_rule
+ -search
+  lex: эриктэманы
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: эриктэман
+  trans_ru2: 1. притеснение, принуждение 2. насилование
+
+-lex_rule
+ -search
+  lex: эрказмылыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: эрказмылон
+  trans_ru2: своевольничание, самовольничание
+
+-lex_rule
+ -search
+  lex: эрттыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: эрттон
+  trans_ru2: подвязка, тесёмка
+
+-lex_rule
+ -search
+  lex: эскерыны
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: эскериськон
+  trans_ru2: предусмотрительность, предосторожность
+
+-lex_rule
+ -search
+  lex: эскерыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: эскерон
+  trans_ru2: исследование, изучение 
+
+-lex_rule
+ -search
+  lex: эчешыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: эчешон
+  trans_ru2: 1. пари, спор 2. жеребьёвка
+
+-lex_rule
+ -search
+  lex: эшъяны
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: эшъяськон
+  trans_ru2: дружба, братство, содружество
+
+-lex_rule
+ -search
+  lex: юаны
+  gramm: V,.*
+  gloss: STEM-ITER-VN.*
+ -add
+  lex2: юаллян
+  trans_ru2: 1. расспрашивание, спрашивание расспросы, допрашивание 2. сватанье
+
+-lex_rule
+ -search
+  lex: юаны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: юан
+  trans_ru2: спрашивание, расспрашивание, вопрос, спрос
+
+-lex_rule
+ -search
+  lex: югдыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: югдон
+  trans_ru2: рассвет
+
+-lex_rule
+ -search
+  lex: югдытыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: югдытон
+  trans_ru2: 1. освещение 2. перен. просвещение
+
+-lex_rule
+ -search
+  lex: югдытъяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: югдытъян
+  trans_ru2: 1. освещение 2. перен. просвещение
+
+-lex_rule
+ -search
+  lex: юдыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: юдон
+  trans_ru2: резка, резание, разрезание, крошение
+
+-lex_rule
+ -search
+  lex: южманы
+  gramm: V,.*
+  gloss: STEM-ITER-VN.*
+ -add
+  lex2: южмаллян
+  trans_ru2: 1. образование наста 2. отбеливание на солнце
+
+-lex_rule
+ -search
+  lex: южманы
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: южман
+  trans_ru2: 1. образование наста 2. отбеливание на солнце
+
+-lex_rule
+ -search
+  lex: южмыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: южмон
+  trans_ru2: образование наста
+
+-lex_rule
+ -search
+  lex: юзманы
+  gramm: V,.*
+  gloss: STEM-CAUS-VN.*
+ -add
+  lex2: юзматон
+  trans_ru2: 1. утоление жажды 2. охлаждение
+
+-lex_rule
+ -search
+  lex: юзманы
+  gramm: V,.*
+  gloss: STEM-CAUS-PASS-VN.*
+ -add
+  lex2: юзматӥськон
+  trans_ru2: 1. утоление жажды 2. охлаждение
+
+-lex_rule
+ -search
+  lex: юмалтыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: юмалтон
+  trans_ru2: приготовление закваски, квашение
+
+-lex_rule
+ -search
+  lex: юнманы
+  gramm: V,.*
+  gloss: STEM-CAUS-VN.*
+ -add
+  lex2: юнматон
+  trans_ru2: 1. укрепление, усиление 2. закрепление, утверждение 4.ратификация
+
+-lex_rule
+ -search
+  lex: юыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: юон
+  trans_ru2: питьё, напиток
+
+-lex_rule
+ -search
+  lex: юргетыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: юргетон
+  trans_ru2: шум, галдёж, крики
+
+-lex_rule
+ -search
+  lex: юрдыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: юрдон
+  trans_ru2: брезгливость, привередничество, отвращение
+
+-lex_rule
+ -search
+  lex: юрмеганы
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: юрмеган
+  trans_ru2: ловля ласок, охота на ласок
+
+-lex_rule
+ -search
+  lex: юрттыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: юрттон
+  trans_ru2: помощь, оказание помощи
+
+-lex_rule
+ -search
+  lex: юртъяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: юртъян
+  trans_ru2: обзаведение хозяйством
+
+-lex_rule
+ -search
+  lex: юртъяны
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: юртъяськон
+  trans_ru2: обзаведение хозяйством
+
+-lex_rule
+ -search
+  lex: юскыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: юскон
+  trans_ru2: распрягание, выпряжка
+
+-lex_rule
+ -search
+  lex: юскыны
+  gramm: V,.*
+  gloss: STEM-ITER-VN.*
+ -add
+  lex2: юскылон
+  trans_ru2: распрягание, выпряжка
+
+-lex_rule
+ -search
+  lex: юшаны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: юшан
+  trans_ru2: ловля окуней
+
+-lex_rule
+ -search
+  lex: явыны
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: явиськон
+  trans_ru2: явка
+
+-lex_rule
+ -search
+  lex: ягмульыяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: ягмульыян
+  trans_ru2: сбор брусники
+
+-lex_rule
+ -search
+  lex: ялыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: ялон
+  trans_ru2: объявление, афиша, анонс, извещение, сообщение, информация
+
+-lex_rule
+ -search
+  lex: яратыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: яратон
+  trans_ru2: любовь
+
+-lex_rule
+ -search
+  lex: ярашыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: ярашон
+  trans_ru2: помолвка, сговор
+
+-lex_rule
+ -search
+  lex: ёзнаны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: ёзнан
+  trans_ru2: 1. членение, расчленение, разделение 2. образование междоузлий
+
+-lex_rule
+ -search
+  lex: ёмыраны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: ёмыран
+  trans_ru2: 1. развал 2. перен. упадок, разорение, разруха
+
+-lex_rule
+ -search
+  lex: ёрмыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: ёрмон
+  trans_ru2: нужда, бедственное положение, нехватка
+
+-lex_rule
+ -search
+  lex: ёршаны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: ёршан
+  trans_ru2: ловля ершей
+
+-lex_rule
+ -search
+  lex: ӝегатскыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: ӝегатскон
+  trans_ru2: задержка, заминка
+
+-lex_rule
+ -search
+  lex: ӝикытаны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: ӝикытан
+  trans_ru2: бережливость, экономия
+
+-lex_rule
+ -search
+  lex: ӝикытаны
+  gramm: V,.*
+  gloss: STEM-CAUS-VN.*
+ -add
+  lex2: ӝикытатон
+  trans_ru2: 1. приведение в порядок, упорядочение 2. сбережение, экономия
+
+-lex_rule
+ -search
+  lex: ӝожтыны
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: ӝожтӥськон
+  trans_ru2: обида, огорчение
+
+-lex_rule
+ -search
+  lex: ӝоктыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: ӝоктон
+  trans_ru2: 1. мотание на мотовило 2. разгрузка, выгрузка 3. перен. испражнение
+
+-lex_rule
+ -search
+  lex: ӝуаны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: ӝуан
+  trans_ru2: 1. загорание 2. горение, сгорание
+
+-lex_rule
+ -search
+  lex: ӝужаны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: ӝужан
+  trans_ru2: 1. всход 2. всходы
+
+-lex_rule
+ -search
+  lex: ӝутыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: ӝутон
+  trans_ru2: поднимание
+
+-lex_rule
+ -search
+  lex: ӝуштыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: ӝуштон
+  trans_ru2: 1. стон 2. пыхтение
+
+-lex_rule
+ -search
+  lex: ӟардыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: ӟардон
+  trans_ru2: 1. рассвет, заря 2. рдение 3. ӟардон кизили Венера
+
+-lex_rule
+ -search
+  lex: ӟезьыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: ӟезён
+  trans_ru2: 1. распарывание 2. битьё, порка
+
+-lex_rule
+ -search
+  lex: ӟечбураны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: ӟечбуран
+  trans_ru2: приветствие, поздравление
+
+-lex_rule
+ -search
+  lex: ӟечкыланы
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: ӟечкылан
+  trans_ru2: поздравление
+
+-lex_rule
+ -search
+  lex: ӟечъяны
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: ӟечъяськон
+  trans_ru2: 1. лесть, лицемерие, подхалимство 2. хвастовство, бахвальство
+
+-lex_rule
+ -search
+  lex: ӟизатыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: ӟизатон
+  trans_ru2: процеживание, сцёживание
+
+-lex_rule
+ -search
+  lex: ӟильыртыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: ӟильыртон
+  trans_ru2: 1. чириканье, щебетание 2.журчание
+
+-lex_rule
+ -search
+  lex: ӟуиктыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: ӟуиктон
+  trans_ru2: визг, визжание
+
+-lex_rule
+ -search
+  lex: ӟукыртыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: ӟукыртон
+  trans_ru2: 1. скрип, хруст 2. перен. ворчание
+
+-lex_rule
+ -search
+  lex: ӟурыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: ӟурон
+  trans_ru2: 1. скрип, хруст 2. ворчание 3. недомогание
+
+-lex_rule
+ -search
+  lex: ӧдъяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: ӧдъян
+  trans_ru2: 1. начинание 2. желание
+
+-lex_rule
+ -search
+  lex: ӧжытаны
+  gramm: V,.*
+  gloss: STEM-CAUS-VN.*
+ -add
+  lex2: ӧжытатон
+  trans_ru2: уменьшение, сокращение
+
+-lex_rule
+ -search
+  lex: ӧпкельыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: ӧпкелён
+  trans_ru2: покаяние, раскаяние, сожаление
+
+-lex_rule
+ -search
+  lex: ӧрекчаны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: ӧрекчан
+  trans_ru2: обман
+
+-lex_rule
+ -search
+  lex: ӧрсьыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: ӧрсён
+  trans_ru2: 1. размножение 2. распространение
+
+-lex_rule
+ -search
+  lex: ӧртаны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: ӧртан
+  trans_ru2: раздражение, выведение из терпения кого-л.
+
+-lex_rule
+ -search
+  lex: ӧтьыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: ӧтён
+  trans_ru2: приглашение
+
+-lex_rule
+ -search
+  lex: ӵабтыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: ӵабтон
+  trans_ru2: 1. царапанье 2. перен. присвоение, воровство
+
+-lex_rule
+ -search
+  lex: ӵабтыны
+  gramm: V,.*
+  gloss: STEM-ITER-VN.*
+ -add
+  lex2: ӵабтылон
+  trans_ru2: 1. сцарапывание, сколупывание 2. перен. присваивание, воровство
+
+-lex_rule
+ -search
+  lex: ӵабъяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: ӵабъян
+  trans_ru2: 1. царапанье 2. битьё ногой о землю 3. рытьё
+
+-lex_rule
+ -search
+  lex: ӵабъяны
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: ӵабъяськон
+  trans_ru2: 1. царапанье 2. битьё ногой о землю 3. рытьё
+
+-lex_rule
+ -search
+  lex: ӵажланы
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: ӵажлан
+  trans_ru2: визжание, жужжание, шум
+
+-lex_rule
+ -search
+  lex: ӵакмыны
+  gramm: V,.*
+  gloss: STEM-ITER-VN.*
+ -add
+  lex2: ӵакмылон
+  trans_ru2: 1. запущение, зарастание сорняком 2. засорение 3. перен. закостенение
+
+-lex_rule
+ -search
+  lex: ӵашетыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: ӵашетон
+  trans_ru2: 1. шум, галдёж, шум-гам 2. спор, ссора, скандал
+
+-lex_rule
+ -search
+  lex: ӵаштыртыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: ӵаштыртон
+  trans_ru2: шуршание, шелест
+
+-lex_rule
+ -search
+  lex: ӵектыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: ӵектон
+  trans_ru2: 1. предложение, рекомендация, совет, проект
+
+-lex_rule
+ -search
+  lex: ӵемтыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: ӵемтон
+  trans_ru2: запинка, заминка
+
+-lex_rule
+ -search
+  lex: ӵоганы
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: ӵоган
+  trans_ru2: 1. закрывание, запирание 2. запор, крючок
+
+-lex_rule
+ -search
+  lex: ӵоганы
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: ӵогаськон
+  trans_ru2: закрывание, запирание
+
+-lex_rule
+ -search
+  lex: ӵогыны
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: ӵогиськон
+  trans_ru2: вылупливание, выклёвывание
+
+-lex_rule
+ -search
+  lex: ӵогыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: ӵогон
+  trans_ru2: 1. отрубание, отсекание, обрубание, отрезание 2. косьба
+
+-lex_rule
+ -search
+  lex: ӵогъяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: ӵогъян
+  trans_ru2: 1. вбивание 2. покалывание, колики, колика 3. убой 4. прикалывание
+
+-lex_rule
+ -search
+  lex: ӵогыръяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: ӵогыръян
+  trans_ru2: колотье, колотьё, зудение
+
+-lex_rule
+ -search
+  lex: ӵоксаны
+  gramm: V,.*
+  gloss: STEM-ITER-VN.*
+ -add
+  lex2: ӵоксаллян
+  trans_ru2: 1. закрывание, затыкание, закупоривание 2. латание 3. преграждение
+
+-lex_rule
+ -search
+  lex: ӵоксаны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: ӵоксан
+  trans_ru2: 1. закрывание, затыкание, закупоривание 2. латание 3. запруда, преграждение
+
+-lex_rule
+ -search
+  lex: ӵоксаны
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: ӵоксаськон
+  trans_ru2: затмение
+
+-lex_rule
+ -search
+  lex: ӵошаны
+  gramm: V,.*
+  gloss: STEM-CAUS-VN.*
+ -add
+  lex2: ӵошатон
+  trans_ru2: 1. сравнение, сопоставление 2. подравнивание, выравнивание 3. сравнение
+
+-lex_rule
+ -search
+  lex: ӵошатскыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: ӵошатскон
+  trans_ru2: соревнование, состязание
+
+-lex_rule
+ -search
+  lex: ӵошатъяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: ӵошатъян
+  trans_ru2: 1. сравнивание, сопоставление 2. подравнивание, выравнивание
+
+-lex_rule
+ -search
+  lex: ӵошкатъяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: ӵошкатъян
+  trans_ru2: выравнивание, подравнивание
+
+-lex_rule
+ -search
+  lex: ӵошкытаны
+  gramm: V,.*
+  gloss: STEM-CAUS-VN.*
+ -add
+  lex2: ӵошкытатон
+  trans_ru2: подравнивание, выравнивание
+
+-lex_rule
+ -search
+  lex: ӵужектыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: ӵужектон
+  trans_ru2: 1. пожелтение 2.  желтуха
+
+-lex_rule
+ -search
+  lex: ӵужманы
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: ӵужман
+  trans_ru2: 1. окрашивание в жёлтый цвет, покрывание жёлтой краской 2. пожелтение
+
+-lex_rule
+ -search
+  lex: ӵужыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: ӵужон
+  trans_ru2: 1. подметание 2. метла, метёлка, помело
+
+-lex_rule
+ -search
+  lex: ӵупыны
+  gramm: V,.*
+  gloss: STEM-PASS-VN.*
+ -add
+  lex2: ӵуписькон
+  trans_ru2: рубка сруба
+
+-lex_rule
+ -search
+  lex: ӵупыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: ӵупон
+  trans_ru2: рубка сруба
+
+-lex_rule
+ -search
+  lex: ӵушкыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: ӵушкон
+  trans_ru2: 1. вытирание, обтирание 2. полотенце
+
+-lex_rule
+ -search
+  lex: ӵуштаны
+  gramm: V,.*
+  gloss: STEM-PASS-ITER-VN.*
+ -add
+  lex2: ӵуштаськылон
+  trans_ru2: 1. пригорание 2. ошпаривание
+
+-lex_rule
+ -search
+  lex: ӵуштыртыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: ӵуштыртон
+  trans_ru2: шелест, шорох, шуршание
+
+-lex_rule
+ -search
+  lex: ӵыжатыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: ӵыжатон
+  trans_ru2: 1. растапливание 2. плавка
+
+-lex_rule
+ -search
+  lex: ӵыжыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: ӵыжон
+  trans_ru2: пинок, ляганье
+
+-lex_rule
+ -search
+  lex: ӵышкыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: ӵышкон
+  trans_ru2: 1. стрижка 2. полка, прополка
+
+-lex_rule
+ -search
+  lex: ӵӧжтыны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: ӵӧжтон
+  trans_ru2: процеживание
+

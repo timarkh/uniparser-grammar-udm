@@ -359,6 +359,13 @@
  trans_ru: кто
 
 -lexeme
+ lex: кинке
+ stem: кинке.//киньке.
+ gramm: PRO
+ paradigm: Noun-num-vowel
+ trans_ru: кто-то
+
+-lexeme
  lex: нокин
  stem: нокин.
  gramm: PRO
@@ -388,6 +395,20 @@
  gramm: PRO
  paradigm: Noun-mar
  trans_ru: что
+
+-lexeme
+ lex: марке
+ stem: марке.
+ gramm: PRO
+ paradigm: Noun-num-vowel
+ trans_ru: что-то
+
+-lexeme
+ lex: маке
+ stem: маке.
+ gramm: PRO
+ paradigm: Noun-num-vowel
+ trans_ru: что-то
 
 -lexeme
  lex: номыре
@@ -467,11 +488,32 @@
  trans_ru: тогда
 
 -lexeme
+ lex: ку
+ stem: ку.
+ gramm: PRO
+ paradigm: Comparative
+ trans_ru: когда
+
+-lexeme
  lex: котьку
  stem: котьку.
  gramm: PRO
  paradigm: Comparative
  trans_ru: когда угодно
+
+-lexeme
+ lex: олоку
+ stem: олоку.
+ gramm: PRO
+ paradigm: Comparative
+ trans_ru: не знаю когда
+
+-lexeme
+ lex: ноку
+ stem: ноку.
+ gramm: PRO
+ paradigm: Comparative
+ trans_ru: никогда
 
 -lexeme
  lex: котькуд
@@ -488,6 +530,13 @@
  trans_ru: не знаю который
 
 -lexeme
+ lex: нокуд
+ stem: нокуд.
+ gramm: PRO
+ paradigm: Noun-num-consonant
+ trans_ru: никоторый
+
+-lexeme
  lex: котькуд
  stem: котькудӥз.
  gramm: PRO,sg,3sg
@@ -500,6 +549,13 @@
  gramm: PRO,sg,3sg
  paradigm: Noun-case
  trans_ru: не знаю который
+
+-lexeme
+ lex: нокуд
+ stem: нокудӥз.
+ gramm: PRO,sg,3sg
+ paradigm: Noun-case
+ trans_ru: никоторый
 
 -lexeme
  lex: куд
@@ -549,6 +605,20 @@
  gramm: PRO
  paradigm: Comparative
  trans_ru: насколько
+
+-lexeme
+ lex: сокем
+ stem: сокем.
+ gramm: PRO
+ paradigm: Comparative
+ trans_ru: настолько
+
+-lexeme
+ lex: такем
+ stem: такем.
+ gramm: PRO
+ paradigm: Comparative
+ trans_ru: настолько
 
 
 -lexeme

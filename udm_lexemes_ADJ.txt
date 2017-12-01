@@ -10984,6 +10984,13 @@
  trans_ru: другой
 
 -lexeme
+ lex: музон
+ stem: музон.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: другой
+
+-lexeme
  lex: капчи
  stem: капчи.
  gramm: ADJ
@@ -14446,4 +14453,466 @@
  gramm: ADJ,oblin
  paradigm: connect_adjectives-soft
  trans_ru: весь в масле, сале
+
+-lexeme
+ lex: бекмылес
+ stem: бекмылес.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: наклонный
+
+-lexeme
+ lex: бугырес
+ stem: бугырес.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: рыхлый
+
+-lexeme
+ lex: венесь
+ stem: венес.
+ gramm: ADJ,oblin
+ paradigm: connect_adjectives-soft
+ trans_ru: весь в иголках
+
+-lexeme
+ lex: весчи
+ stem: весчи.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: грах. тонкий, тонко
+
+-lexeme
+ lex: внутриотраслевой
+ stem: внутриотраслево.
+ gramm: ADJ,rus
+ paradigm: connect_adjectives-j
+ trans_ru: внутриотраслевой
+
+-lexeme
+ lex: военно-морской
+ stem: военно-морско.
+ gramm: ADJ,rus
+ paradigm: connect_adjectives-j
+ trans_ru: военно-морской
+
+-lexeme
+ lex: выжытэм
+ stem: выжытэм.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: полностью, целиком, с корнем, до основания
+
+-lexeme
+ lex: выллем
+ stem: выллем.
+ gramm: ADJ,rel_adj
+ paradigm: connect_adjectives
+ trans_ru: наподобие, подобно, словно, как
+
+-lexeme
+ lex: герман
+ stem: герман.
+ gramm: ADJ,rus
+ paradigm: connect_adjectives
+ trans_ru: германский
+
+-lexeme
+ lex: групповой
+ stem: группово.
+ gramm: ADJ,rus
+ paradigm: connect_adjectives-j
+ trans_ru: групповой
+
+-lexeme
+ lex: гызмылес
+ stem: гызмылес.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: тихоня
+
+-lexeme
+ lex: жестко
+ stem: жестко.
+ gramm: ADJ,rus
+ paradigm: connect_adjectives
+ trans_ru: жёсткий, шероховатый
+
+-lexeme
+ lex: итылӥськись
+ stem: итылӥськис.
+ gramm: ADJ
+ paradigm: connect_adjectives-soft
+ trans_ru: линг. агглютинативный
+
+-lexeme
+ lex: киэд
+ stem: киэд.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: нежный (о животных)
+
+-lexeme
+ lex: коммунально-бытовой
+ stem: коммунально-бытово.
+ gramm: ADJ,rus
+ paradigm: connect_adjectives-j
+ trans_ru: коммунально-бытовой
+
+-lexeme
+ lex: коняло
+ stem: коняло.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: без соли и некислый
+
+-lexeme
+ lex: куанер
+ stem: куанер.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: бедняк
+
+-lexeme
+ lex: куйсыз
+ stem: куйсыз.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: 1. раздраженный, не в духе 2. неудобный, неладный
+
+-lexeme
+ lex: куйтэм
+ stem: куйтэм.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: 1. раздраженный, не в духе 2. неудобный, неладный
+
+-lexeme
+ lex: культурно-бытовой
+ stem: культурно-бытово.
+ gramm: ADJ,rus
+ paradigm: connect_adjectives-j
+ trans_ru: культурно-бытовой
+
+-lexeme
+ lex: курень
+ stem: курен.
+ gramm: ADJ
+ paradigm: connect_adjectives-soft
+ trans_ru: коричневый, бурый
+
+-lexeme
+ lex: курен
+ stem: курен.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: коричневый, бурый
+
+-lexeme
+ lex: кыдэсь
+ stem: кыдэс.
+ gramm: ADJ,oblin
+ paradigm: connect_adjectives-soft
+ trans_ru: с отрубями
+
+-lexeme
+ lex: лемира
+ stem: лемира.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: переливающееся (о драгоценных камнях)
+
+-lexeme
+ lex: либыт
+ stem: либыт.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: вежливый, спокойный
+
+-lexeme
+ lex: лызалэс
+ stem: лызалэс.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: синеватый
+
+-lexeme
+ lex: материалистический
+ stem: материалистически.
+ gramm: ADJ,rus
+ paradigm: connect_adjectives
+ trans_ru: материалистический
+
+-lexeme
+ lex: меховой
+ stem: мехово.
+ gramm: ADJ,rus
+ paradigm: connect_adjectives-j
+ trans_ru: меховой
+
+-lexeme
+ lex: очередной
+ stem: очередно.
+ gramm: ADJ,rus
+ paradigm: connect_adjectives-j
+ trans_ru: очередной
+
+-lexeme
+ lex: пияно
+ stem: пияно.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: беременная
+
+-lexeme
+ lex: посной
+ stem: посно.
+ gramm: ADJ,rus
+ paradigm: connect_adjectives-j
+ trans_ru: постный
+
+-lexeme
+ lex: пурысялэс
+ stem: пурысялэс.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: сероватый
+
+-lexeme
+ lex: пыдкуктэм
+ stem: пыдкуктэм.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: без ног
+
+-lexeme
+ lex: сектэм
+ stem: сектэм.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: беременная, в положении
+
+-lexeme
+ lex: суро-пожо
+ stem: суро-пожо.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: смесь
+
+-lexeme
+ lex: суро-пурто
+ stem: суро-пурто.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: смесь
+
+-lexeme
+ lex: сьӧд
+ stem: сьӧд.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: чёрный
+
+-lexeme
+ lex: сьӧдгоно
+ stem: сьӧдгоно.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: вороной
+
+-lexeme
+ lex: тамлы
+ stem: тамлы.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: бавл. вкусный, вкусно
+
+-lexeme
+ lex: тась
+ stem: тас.
+ gramm: ADJ
+ paradigm: connect_adjectives-soft
+ trans_ru: к., башк. чистый
+
+-lexeme
+ lex: типовой
+ stem: типово.
+ gramm: ADJ,rus
+ paradigm: connect_adjectives-j
+ trans_ru: типовой
+
+-lexeme
+ lex: толковой
+ stem: толково.
+ gramm: ADJ,rus
+ paradigm: connect_adjectives-j
+ trans_ru: толковый
+
+-lexeme
+ lex: турбовинтовой
+ stem: турбовинтово.
+ gramm: ADJ,rus
+ paradigm: connect_adjectives-j
+ trans_ru: турбовинтовой
+
+-lexeme
+ lex: тусъем
+ stem: тусъем.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: вроде, наподобие
+
+-lexeme
+ lex: тёмыт
+ stem: тёмыт.
+ gramm: ADJ,rus
+ paradigm: connect_adjectives
+ trans_ru: темно-, темноватый
+
+-lexeme
+ lex: тёмыталэс
+ stem: тёмыталэс.
+ gramm: ADJ,rus
+ paradigm: connect_adjectives
+ trans_ru: темноватый
+
+-lexeme
+ lex: тӧдь-тӧдь
+ stem: тӧдь-тӧд.
+ gramm: ADJ
+ paradigm: connect_adjectives-soft
+ trans_ru: белый-белый
+
+-lexeme
+ lex: угум
+ stem: угум.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: о человеке: непослушный, угрюмый
+
+-lexeme
+ lex: уятсыз
+ stem: уятсыз.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: бесстыдный, наглый, циничный
+
+-lexeme
+ lex: чильтробер
+ stem: чильтробер.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: кокетливый
+
+-lexeme
+ lex: чильтэрлы
+ stem: чильтэрлы.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: кружевной, сетчатый, решетчатый
+
+-lexeme
+ lex: шер
+ stem: шер.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: редкий
+
+-lexeme
+ lex: шоро-куспо
+ stem: шоро-куспо.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: средне
+
+-lexeme
+ lex: шузи
+ stem: шузи.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: глупый
+
+-lexeme
+ lex: шушмет
+ stem: шушмет.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: очень некрасивый, страшный, неприятный на вид
+
+-lexeme
+ lex: шушмарган
+ stem: шушмарган.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: очень некрасивый, страшный, неприятный на вид
+
+-lexeme
+ lex: шыкыт
+ stem: шыкыт.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: удобоисполнимое (о деле)
+
+-lexeme
+ lex: шырыт
+ stem: шырыт.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: экономный, бережливый, щедрый
+
+-lexeme
+ lex: шӧг
+ stem: шӧг.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: пресный
+
+-lexeme
+ lex: ыльыс
+ stem: ыльыс.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: толстый
+
+-lexeme
+ lex: ымгай
+ stem: ымга.
+ gramm: ADJ
+ paradigm: connect_adjectives-j
+ trans_ru: 3. удобный, сподручный, 4. послелог вдоль, по ветру
+
+-lexeme
+ lex: ыреза
+ stem: ыреза.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: согласный, довольный
+
+-lexeme
+ lex: ямтэм
+ stem: ямтэм.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: д., грах. не красна
+
+-lexeme
+ lex: ӟарыт
+ stem: ӟарыт.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: блёклый, тусклый
+
+-lexeme
+ lex: ӟарытпыр
+ stem: ӟарытпыр.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: бледноватый
+
+-lexeme
+ lex: ӟат
+ stem: ӟат.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: татышл. чужой
 
