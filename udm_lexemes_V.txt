@@ -25592,7 +25592,14 @@
  stem: эркея.
  gramm: V,II
  paradigm: connect_verbs-II
- trans_ru: 1. ласкать, поласкать 2. нежить, изнежить
+ trans_ru: ласкать, нежить
+
+-lexeme
+ lex: эркияны
+ stem: эркия.
+ gramm: V,II
+ paradigm: connect_verbs-II
+ trans_ru: ласкать, нежить
 
 -lexeme
  lex: эркынаны
@@ -25660,6 +25667,13 @@
 -lexeme
  lex: эсэпаны
  stem: эсэпа.
+ gramm: V,II
+ paradigm: connect_verbs-II
+ trans_ru: 1. рассчитывать, наметить 2. думать, задумать 3. объяснять
+
+-lexeme
+ lex: эсэпланы
+ stem: эсэпла.
  gramm: V,II
  paradigm: connect_verbs-II
  trans_ru: 1. рассчитывать, наметить 2. думать, задумать 3. объяснять

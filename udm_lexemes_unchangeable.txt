@@ -27,6 +27,13 @@
  trans_ru: есть
 
 -lexeme
+ lex: вылымтэ
+ stem: выл.
+ gramm: V,ptcp,neg
+ paradigm: Participles-neg-I
+ trans_ru: небывалый
+
+-lexeme
  lex: уг
  stem: уг.
  gramm: V
@@ -91,23 +98,16 @@
 
 -lexeme
  lex: ӧвӧл
- stem: ӧвӧлэн.
- gramm: V,ins
- paradigm: Comparative
- trans_ru: не, нет
-
--lexeme
- lex: ӧвӧл
- stem: ӧвӧллы.
- gramm: V,dat
- paradigm: Comparative
- trans_ru: не, нет
-
--lexeme
- lex: ӧвӧл
  stem: ӧвӧл.
  gramm: V
  paradigm: Comparative
+ paradigm: Noun-case
+ paradigm: Noun-case-poss-y-1,sg
+ paradigm: Noun-case-poss-y-2,sg
+ paradigm: Noun-case-poss-y-3,sg
+ paradigm: Noun-case-poss-1,pl
+ paradigm: Noun-case-poss-2,pl
+ paradigm: Noun-case-poss-3,pl
  trans_ru: не, нет
 
 -lexeme
@@ -1100,6 +1100,13 @@
 -lexeme
  lex: юзмыт
  stem: юзмыт.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: прохладный, свежий
+
+-lexeme
+ lex: юзмыт
+ stem: юзмыт.
  gramm: ADV
  paradigm: connect_adverbs
  trans_ru: прохладно, свежо
@@ -1555,9 +1562,9 @@
 -lexeme
  lex: узыр
  stem: узыр.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: богато, зажиточно
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: богатый, зажиточный
 
 -lexeme
  lex: тём-тём
@@ -2013,6 +2020,13 @@
  gramm: ADV
  paradigm: connect_adverbs
  trans_ru: гневно, люто
+
+-lexeme
+ lex: лек
+ stem: лек.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: злой
 
 -lexeme
  lex: сырк
@@ -4393,13 +4407,6 @@
  gramm: ADV
  paradigm: connect_adverbs
  trans_ru: дёшево, низко
-
--lexeme
- lex: пельпум
- stem: пельпум.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: плечо
 
 -lexeme
  lex: матэтӥ
@@ -8280,6 +8287,13 @@
  trans_ru: 1. друг к другу спиной 2. друг против друга дворами
 
 -lexeme
+ lex: мыддорин
+ stem: мыддорин.//мыддоринь.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: наизнанку, шиворот навыворот
+
+-lexeme
  lex: кия
  stem: кия.
  gramm: ADV
@@ -10695,7 +10709,7 @@
 
 -lexeme
  lex: йӧскадь
- stem: йӧскад.
+ stem: йӧскадь.
  gramm: ADV
  paradigm: connect_adverbs
  trans_ru: как следует, аккуратно
@@ -11284,6 +11298,13 @@
  trans_ru: 1. иногда, временами 2. одновременно, в одно время
 
 -lexeme
+ lex: огвакытэ
+ stem: огвакытэ.
+ gramm: ADV,ill
+ paradigm: connect_adverbs
+ trans_ru: 1. иногда, временами 2. одновременно, в одно время
+
+-lexeme
  lex: огпасьта
  stem: огпасьта.
  gramm: ADV
@@ -11407,6 +11428,13 @@
  stem: толалтэ.
  gramm: ADV
  paradigm: connect_adverbs
+ paradigm: Noun-case
+ paradigm: Noun-case-poss-y-1,sg
+ paradigm: Noun-case-poss-y-2,sg
+ paradigm: Noun-case-poss-y-3,sg
+ paradigm: Noun-case-poss-1,pl
+ paradigm: Noun-case-poss-2,pl
+ paradigm: Noun-case-poss-3,pl
  trans_ru: зимой
 
 -lexeme
@@ -11611,3 +11639,17 @@
  gramm: ADV
  paradigm: Noun-num-vowel
  trans_ru: утром, к утру
+
+-lexeme
+ lex: кыкпол
+ stem: кыкпол.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: дважды
+
+-lexeme
+ lex: долой
+ stem: долой.
+ gramm: PRED,rus
+ paradigm: Comparative
+ trans_ru: долой

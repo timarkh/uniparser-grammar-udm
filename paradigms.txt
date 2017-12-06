@@ -584,6 +584,19 @@
   paradigm: Noun-case-poss-1,pl
   paradigm: Noun-case-poss-2,pl
   paradigm: Noun-case-poss-3,pl
+ -flex: .ос<.>
+  gramm: pl
+  gloss: PL
+  regex-stem: .*и[.<>]*$
+  paradigm: Noun-case
+  paradigm: Noun-case-y
+  paradigm: Noun-case-ill-y
+  paradigm: Noun-case-poss-y-1,sg
+  paradigm: Noun-case-poss-y-2,sg
+  paradigm: Noun-case-poss-y-3,sg
+  paradigm: Noun-case-poss-1,pl
+  paradigm: Noun-case-poss-2,pl
+  paradigm: Noun-case-poss-3,pl
  -flex: .[й]о<.>//.ё<.>
   gramm: attr,attr_o
   gloss: ATTR
@@ -1134,9 +1147,20 @@
   gramm: ins
   gloss: INS
   paradigm: Noun-case-compounding
+ -flex: .ын<.>
+  gramm: ins
+  gloss: INS
+  regex-prev: .*и[.<>]*$
+  paradigm: Noun-case-compounding
  -flex: .[й]ы<.>
   gramm: ill
   gloss: ILL
+  paradigm: Comparative
+  regex-gramm: ^.*rel_n.*$
+ -flex: .ы<.>
+  gramm: ill
+  gloss: ILL
+  regex-stem: .*и[.<>]*$
   paradigm: Comparative
   regex-gramm: ^.*rel_n.*$
 
@@ -1594,6 +1618,11 @@
   gramm: loc
   gloss: LOC
   paradigm: Noun-case-compounding
+ -flex: .ын<.>
+  gramm: loc
+  gloss: LOC
+  regex-stem: .*и[.<>]*$
+  paradigm: Noun-case-compounding
  -flex: .е<.>//.[й]е<.>
   gramm: ill
   gloss: ILL
@@ -1606,9 +1635,24 @@
   gramm: el
   gloss: EL
   paradigm: Comparative
+ -flex: .ыс<.>
+  gramm: el
+  gloss: EL
+  regex-stem: .*и[.<>]*$
+  paradigm: Noun-case-compounding-soft
+ -flex: .ысь<.>
+  gramm: el
+  gloss: EL
+  regex-stem: .*и[.<>]*$
+  paradigm: Comparative
  -flex: .[й]ысен<.>
   gramm: egr
   gloss: EGR
+  paradigm: Noun-case-compounding
+ -flex: .ысен<.>
+  gramm: egr
+  gloss: EGR
+  regex-stem: .*и[.<>]*$
   paradigm: Noun-case-compounding
  -flex: .ёз<.>//.[й]ёз<.>//.[й]оз<.>
   gramm: term
@@ -2304,9 +2348,13 @@
  -flex: .мес<.>
   gramm: acc,1pl
   gloss: P.1PL.ACC
- -flex: .ын|ымы<.>
+ -flex: .ын|ымы<.>//.эн|ымы<.>
   gramm: ins,1pl
   gloss: INS|P.1PL
+ -flex: .ен|ымы<.>
+  gramm: ins,1pl
+  gloss: INS|P.1PL
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
  -flex: .а|мы<.>
   gramm: loc,1pl
   gloss: LOC|P.1PL
@@ -2372,6 +2420,10 @@
  -flex: .эн|ыды<.>//.ын|ыды<.>
   gramm: ins,2pl
   gloss: INS|P.2PL
+ -flex: .ен|ыды<.>
+  gramm: ins,2pl
+  gloss: INS|P.2PL
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
  -flex: .а|ды<.>
   gramm: loc,2pl
   gloss: LOC|P.2PL
@@ -2437,6 +2489,10 @@
  -flex: .ын|ызы<.>//.эн|ызы<.>
   gramm: ins,3pl
   gloss: INS|P.3PL
+ -flex: .ен|ызы<.>
+  gramm: ins,3pl
+  gloss: INS|P.3PL
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
  -flex: .а|зы<.>
   gramm: loc,3pl
   gloss: LOC|P.3PL
