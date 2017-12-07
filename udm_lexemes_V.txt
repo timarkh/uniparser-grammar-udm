@@ -351,14 +351,14 @@
 -lexeme
  lex: акайтыны
  stem: акайт.
- gramm: V,I
+ gramm: V,I,tr
  paradigm: connect_verbs-I
  trans_ru: выпучить, вытаращить, выкатить
 
 -lexeme
  lex: акайыны
  stem: акай.|ака.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: выпучиться, вытаращиться, выкатиться, уставиться
 
@@ -372,28 +372,28 @@
 -lexeme
  lex: аксымъяськыны
  stem: аксымъяськ.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: жадничать
 
 -lexeme
  lex: актарыны
  stem: актар.
- gramm: V,I
+ gramm: V,I,tr
  paradigm: connect_verbs-I
  trans_ru: общ. 1. разбросать, спутать 2. обыскивать, обшаривать
 
 -lexeme
  lex: актэмъяськыны
  stem: актэмъяськ.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: баловаться, озорничать, шалить
 
 -lexeme
  lex: акылляськыны
  stem: акылляськ.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: 1. надоедать, быть назойливым 2. баловаться, озорничать
 
@@ -407,30 +407,30 @@
 -lexeme
  lex: акыльтэмъяськыны
  stem: акыльтэмъяськ.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: озорничать, шалить, баловаться, быть непослушным
 
 -lexeme
  lex: акырыны
  stem: акыр.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: орать, вопить, рычать
 
 -lexeme
  lex: аламазыны
  stem: аламаз.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: ухудшаться
 
 -lexeme
  lex: аламаӟыны
  stem: аламаӟ.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
- trans_ru: 1.стать плохим 2. стать больным 3.износиться, изнашиваться
+ trans_ru: 1. стать плохим 2. стать больным 3. износиться, изнашиваться
 
 -lexeme
  lex: алданы
@@ -449,14 +449,14 @@
 -lexeme
  lex: алектыны
  stem: алект.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: 1. нервничать, выходить из себя 2. сильно увлекаться
 
 -lexeme
  lex: алекъяськыны
  stem: алекъяськ.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: 1. нервничать, раздражаться 2. сильно увлекаться 3. кляузничать
 
@@ -470,28 +470,28 @@
 -lexeme
  lex: алмашыны
  stem: алмаш.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: ошибиться
 
 -lexeme
  lex: алмаяськыны
  stem: алмаяськ.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: завязаться
 
 -lexeme
  lex: алтынаны
  stem: алтына.
- gramm: V,II
+ gramm: V,II,tr
  paradigm: connect_verbs-II
  trans_ru: позолотить, покрыть золотом
 
 -lexeme
  lex: алыны
  stem: ал.
- gramm: V,I,tr,with_gen2
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: 1. распространиться 2.разрастись 3. разгореться 
 
@@ -505,7 +505,7 @@
 -lexeme
  lex: альсыраны
  stem: альсыра.
- gramm: V,II
+ gramm: V,II,intr
  paradigm: connect_verbs-II
  trans_ru: обессилеть, утомиться, выбиться из сил
 
@@ -514,7 +514,7 @@
  stem: альт.
  gramm: V,I,intr,with_instr
  paradigm: connect_verbs-I
- trans_ru: дуть,распространяться, доноситься
+ trans_ru: дуть, распространяться, доноситься
 
 -lexeme
  lex: аляны
@@ -526,42 +526,42 @@
 -lexeme
  lex: алӟыны
  stem: алӟ.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: изнуриться, утомиться, истомиться, измотаться
 
 -lexeme
  lex: амалланы
  stem: амалла.
- gramm: V,II
+ gramm: V,II,tr
  paradigm: connect_verbs-II
  trans_ru: 1. смастерить, мастерить 2. найти выход, изловчиться
 
 -lexeme
  lex: амалтыны
  stem: амалт.
- gramm: V,I
+ gramm: V,I,tr
  paradigm: connect_verbs-I
  trans_ru: 1. сообразить, понять 2. перехитрить, обхитрить
 
 -lexeme
  lex: амалъяськыны
  stem: амалъяськ.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: 1. проявлять находчивость 2. притворяться 3. ухитряться
 
 -lexeme
  lex: амланы
  stem: амла.
- gramm: V,II
+ gramm: V,II,intr
  paradigm: connect_verbs-II
  trans_ru: внимать
 
 -lexeme
  lex: амыны
  stem: ам.
- gramm: V,I,intr
+ gramm: V,I,intr,intr
  paradigm: connect_verbs-I
  trans_ru: заплесневеть
 
@@ -575,7 +575,7 @@
 -lexeme
  lex: аналтынлыны
  stem: аналтынл.
- gramm: V,I
+ gramm: V,I,tr
  paradigm: connect_verbs-I
  trans_ru: 1. оставлять без внимания 2. оставлять незавершённым 3. запускать
 
@@ -589,42 +589,42 @@
 -lexeme
  lex: анйыны
  stem: анй.|анъ.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: зевать, позевать
 
 -lexeme
  lex: анкыны
  stem: анк.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: пухнуть
 
 -lexeme
  lex: анланы
  stem: анла.
- gramm: V,II
+ gramm: V,II,tr
  paradigm: connect_verbs-II
  trans_ru: осмыслить, понять, сообразить, слушать внимательно
 
 -lexeme
  lex: анӟыраны
  stem: анӟыра.
- gramm: V,II
+ gramm: V,II,intr
  paradigm: connect_verbs-II
  trans_ru: изнемочь, обессилеть, обалдеть, терять сознание
 
 -lexeme
  lex: апакайланыны
  stem: апакайлан.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: подлизываться
 
 -lexeme
  lex: аптыраны
  stem: аптыра.
- gramm: V,II
+ gramm: V,II,intr
  paradigm: connect_verbs-II
  trans_ru: 1. оказаться в безвыходном положении 2. недоумевать, теряться 3. смущаться
 
@@ -638,42 +638,42 @@
 -lexeme
  lex: араны-кутсаны
  stem: араны-кутса.
- gramm: V,II
+ gramm: V,II,intr
  paradigm: connect_verbs-II
  trans_ru: жать и молотить, убирать хлеба, комбайн ара но
 
 -lexeme
  lex: араны-турнаны
  stem: араны-турна.
- gramm: V,II
+ gramm: V,II,intr
  paradigm: connect_verbs-II
  trans_ru: жать и косить, косить и убирать
 
 -lexeme
  lex: аргашыны
  stem: аргаш.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: спорить
 
 -lexeme
  lex: арйыны
  stem: арй.|аръ.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: провести год, годовать обл.
 
 -lexeme
  lex: арланы
  stem: арла.
- gramm: V,II
+ gramm: V,II,tr
  paradigm: connect_verbs-II
  trans_ru: ругать, поругать, укорять
 
 -lexeme
  lex: арлашыны
  stem: арлаш.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: спорить, ссориться
 
@@ -687,146 +687,146 @@
 -lexeme
  lex: арсызмыны.
  stem: арсызм.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: 1. стать нечистоплотным 2. деградировать
 
 -lexeme
  lex: арсызъяськыны
  stem: арсызъяськ.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: 1. проявлять беззастенчивость 2. становиться неприхотливым, невзыскательным
 
 -lexeme
  lex: арттырыны
  stem: арттыр.
- gramm: V,I
+ gramm: V,I,tr
  paradigm: connect_verbs-I
  trans_ru: прибавлять, прибавить, увеличивать, увеличить
 
 -lexeme
  lex: артыны
  stem: арт.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: увеличиться, увеличиваться, прибывать, стать большим
 
 -lexeme
  lex: артэяны
  stem: артэя.
- gramm: V,II
+ gramm: V,II,intr
  paradigm: connect_verbs-II
  trans_ru: приблизиться, примкнуть
 
 -lexeme
  lex: арчакарыныны
  stem: арчакарын.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: молиться воршуду
 
 -lexeme
  lex: асабаяськыны
  stem: асабаяськ.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: вести себя нескромно
 
 -lexeme
  lex: аспалтыны
  stem: аспалт.
- gramm: V,I
+ gramm: V,I,tr
  paradigm: connect_verbs-I
  trans_ru: 1. подобрать, прибрать к рукам 2. расположить к себе
 
 -lexeme
  lex: ассяменъяськыны
  stem: ассяменъяськ.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: упрямиться, капризничать, своевольничать, делать по-своему
 
 -lexeme
  lex: асэстыны
  stem: асэст.
- gramm: V,I
+ gramm: V,I,tr
  paradigm: connect_verbs-I
  trans_ru: 1. присвоить, завладеть 2. заимствовать 3. освоить
 
 -lexeme
  lex: атасланыны
  stem: атаслан.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: петушиться, вести себя запальчиво, заносчиво, задориться
 
 -lexeme
  lex: атасъяськыны
  stem: атасъяськ.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: задираться, храбриться, петушиться, хорохориться
 
 -lexeme
  lex: ачидъяськыны
  stem: ачидъяськ.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: своевольничать, самовольничать
 
 -lexeme
  lex: ачизъяськыны
  stem: ачизъяськ.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: своевольничать, самовольничать, делать по-своему
 
 -lexeme
  lex: ачимъяськыны
  stem: ачимъяськ.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: своевольничать, самовольничать, делать по-своему
 
 -lexeme
  lex: ачканы
  stem: ачка.
- gramm: V,II
+ gramm: V,II,tr
  paradigm: connect_verbs-II
  trans_ru: теребить
 
 -lexeme
  lex: ашданыны
  stem: ашдан.
- gramm: V,I
+ gramm: V,I,tr
  paradigm: connect_verbs-I
  trans_ru: 1. добавить, прилепить 2. крахмалить, накрахмалить перед тем
 
 -lexeme
  lex: ашкыныны
  stem: ашкын.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: 1. распоясаться, распоясываться 2.погорячиться, горячиться 3. шуметь
 
 -lexeme
  lex: ашланы
  stem: ашла.
- gramm: V,II
+ gramm: V,II,tr
  paradigm: connect_verbs-II
  trans_ru: добавить, прилепить, пристроить, крахмалить
 
 -lexeme
  lex: ашмыны
  stem: ашм.
- gramm: V,I,intr
+ gramm: V,I,intr,intr
  paradigm: connect_verbs-I
  trans_ru: 1. стать чёрствым 2. стать алчным
 
 -lexeme
- lex: бабкаялляны
- stem: бабкаялля.
+ lex: бабкаяны
+ stem: бабкая.
  gramm: V,II
  paradigm: connect_verbs-II
  trans_ru: составить стропила
@@ -841,14 +841,14 @@
 -lexeme
  lex: бабылляны
  stem: бабылля.
- gramm: V,II
+ gramm: V,II,mult,tr
  paradigm: connect_verbs-II
  trans_ru: 1. завивать, делать кудрявым 2. валять, катать3. скатывать
 
 -lexeme
  lex: бабыльтыны
  stem: бабыльт.
- gramm: V,I
+ gramm: V,I,tr
  paradigm: connect_verbs-I
  trans_ru: завить; свалять; скатать
 
@@ -857,21 +857,21 @@
  stem: баб.
  gramm: V,I,intr
  paradigm: connect_verbs-I
- trans_ru: 1. спать, заснуть 
+ trans_ru: спать, заснуть 
 
 -lexeme
  lex: бадьпуаны
  stem: бадьпуа.
- gramm: V,II
+ gramm: V,II,tr
  paradigm: connect_verbs-II
  trans_ru: дубить
 
 -lexeme
  lex: бадӟыманы
  stem: бадӟыма.
- gramm: V,II
+ gramm: V,II,intr
  paradigm: connect_verbs-II
- trans_ru: 1. увеличиться, увеличиваться 2. стать взрослым, повзрослеть
+ trans_ru: увеличиться; повзрослеть
 
 -lexeme
  lex: бадӟыммыны
@@ -883,42 +883,42 @@
 -lexeme
  lex: бадӟымъяськыны
  stem: бадӟымъяськ.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: зазнаваться, чваниться, кичиться, вести себя высокомерно
 
 -lexeme
  lex: базланы
  stem: базла.
- gramm: V,II
+ gramm: V,II,tr
  paradigm: connect_verbs-II
  trans_ru: горланить
 
 -lexeme
  lex: базыны
  stem: баз.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: 1. надеяться, полагаться 2. осмелиться, решиться
 
 -lexeme
  lex: байланы
  stem: байла.
- gramm: V,II
+ gramm: V,II,intr
  paradigm: connect_verbs-II
  trans_ru: спорить, ругаться, придираться, связаться
 
 -lexeme
  lex: байланыны
  stem: байлан.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: приставать, придираться, придраться
 
 -lexeme
  lex: байлашыны
  stem: байлаш.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: спорить
 
@@ -932,44 +932,44 @@
 -lexeme
  lex: бакасыны
  stem: бакас.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: спорить, поспорить, вступать в спор
 
 -lexeme
  lex: бакелляны
  stem: бакелля.
- gramm: V,II,mult
+ gramm: V,II,mult,tr
  paradigm: connect_verbs-II
  trans_ru: 1. благословлять 2. примирять, умиротворять 3. прощать
 
 -lexeme
  lex: бакелляшыны
  stem: бакелляш.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: прощаться
 
 -lexeme
  lex: бакелькарыны
  stem: бакелькар.
- gramm: V,I
+ gramm: V,I,tr
  paradigm: connect_verbs-I
  trans_ru: благославлять
 
 -lexeme
  lex: баклашыны
  stem: баклаш.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: пререкаться, препираться, спорить, оспаривать
 
 -lexeme
  lex: бакомыны
  stem: баком.
- gramm: V,I,intr
+ gramm: V,I,intr,intr
  paradigm: connect_verbs-I
- trans_ru: стать немым, онеметь, неметь, лишиться языка
+ trans_ru: онеметь
 
 -lexeme
  lex: бакчыны
@@ -981,7 +981,7 @@
 -lexeme
  lex: бакъяськыны
  stem: бакъяськ.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: 1. притворяться заикой 2. притворяться немым
 
@@ -995,70 +995,70 @@
 -lexeme
  lex: бакырыны
  stem: бакыр.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: орать, кричать, горланить
 
 -lexeme
  lex: баргыны
  stem: барг.
- gramm: V,I
+ gramm: V,I,tr
  paradigm: connect_verbs-I
  trans_ru: бросить, кинуть, вышвырнуть
 
 -lexeme
  lex: барышаны
  stem: барыша.
- gramm: V,II
+ gramm: V,II,intr
  paradigm: connect_verbs-II
  trans_ru: извлечь прибыль, барышничать
 
 -lexeme
  lex: бастрыкланы
  stem: бастрыкла.
- gramm: V,II
+ gramm: V,II,intr
  paradigm: connect_verbs-II
  trans_ru: стягивать, прижать слегой, гнётом
 
 -lexeme
  lex: бастырыны
  stem: бастыр.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: бавл. погнаться, гнаться, бастырыны кутскиллям
 
 -lexeme
  lex: басыланы
  stem: басыла.
- gramm: V,II
+ gramm: V,II,intr
  paradigm: connect_verbs-II
  trans_ru: 1. утихнуть, утихать 2. успокоиться, успокаиваться
 
 -lexeme
  lex: басылдырыны
  stem: басылдыр.
- gramm: V,I
+ gramm: V,I,tr
  paradigm: connect_verbs-I
  trans_ru: утешить, успокоить
 
 -lexeme
  lex: басылмыны
  stem: басылм.
- gramm: V,I,intr
+ gramm: V,I,intr,intr
  paradigm: connect_verbs-I
  trans_ru: 1. утихнуть 2. успокоиться, утешиться
 
 -lexeme
  lex: басылскыны
  stem: басылск.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: 1. утихнуть 2. успокоиться,утешиться
 
 -lexeme
  lex: басыны
  stem: бас.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: проявлять назойливоть, надоедливость
 
@@ -1079,42 +1079,42 @@
 -lexeme
  lex: батырланыны
  stem: батырлан.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: храбриться, расхрабриться, решиться, осмелиться
 
 -lexeme
  lex: батырмыны
  stem: батырм.
- gramm: V,I,intr
+ gramm: V,I,intr,intr
  paradigm: connect_verbs-I
  trans_ru: стать сильным
 
 -lexeme
  lex: батыръяськыны
  stem: батыръяськ.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: 1. храбриться 2. гордиться 3. бахвалиться
 
 -lexeme
  lex: бачкыны
  stem: бачк.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: 1. густеть, загустеть 2.привыкать, привыкнуть 3. покупать
 
 -lexeme
  lex: башланы
  stem: башла.
- gramm: V,II
+ gramm: V,II,tr
  paradigm: connect_verbs-II
- trans_ru: начать, стать начинать,приступить
+ trans_ru: начать, стать
 
 -lexeme
  lex: беглояны
  stem: беглоя.
- gramm: V,II
+ gramm: V,II,intr,rus
  paradigm: connect_verbs-II
  trans_ru: быть беглецом, быть в бегах, бродяжничать
 
@@ -1123,68 +1123,68 @@
  stem: безд.
  gramm: V,I,intr
  paradigm: connect_verbs-I
- trans_ru: полинять, вылинять, выцвести, выгоретнуть выгореть
+ trans_ru: полинять, выцвести
 
 -lexeme
  lex: бездырыны
  stem: бездыр.
- gramm: V,I
+ gramm: V,I,tr
  paradigm: connect_verbs-I
  trans_ru: отучить, отвадить
 
 -lexeme
  lex: безыны
  stem: без.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
- trans_ru: опротиветь? Малпаз , дыр, безо, мон солэсь люкисько.
+ trans_ru: опротиветь
 
 -lexeme
  lex: бекмылляны
  stem: бекмылля.
- gramm: V,II,mult
+ gramm: V,II,mult,tr
  paradigm: connect_verbs-II
  trans_ru: 1. опрокидывать, переворачивать 2. окунать, толкать в воду
 
 -lexeme
  lex: бекмыльтыны
  stem: бекмыльт.
- gramm: V,I
+ gramm: V,I,tr
  paradigm: connect_verbs-I
  trans_ru: 1. опрокинуть, перевернуть 2. перен. убить, уложить
 
 -lexeme
  lex: бекмыляны
  stem: бекмыля.
- gramm: V,II
+ gramm: V,II,intr
  paradigm: connect_verbs-II
  trans_ru: перевернуться, опрокинуться, кувырнуться, покатиться кувырком
 
 -lexeme
  lex: бекыраны
  stem: бекыра.
- gramm: V,II
+ gramm: V,II,intr
  paradigm: connect_verbs-II
  trans_ru: 1. дать крен, накрениться 2. опрокинуться набок
 
 -lexeme
  lex: бекырскыны
  stem: бекырск.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: 1. накрениться, наклониться 2. опрокинуться, перевернуться набок
 
 -lexeme
  lex: бекыртыны
  stem: бекырт.
- gramm: V,I
+ gramm: V,I,tr
  paradigm: connect_verbs-I
  trans_ru: 1. накренить, наклонить 2. опрокинуть, перевернуть набок
 
 -lexeme
  lex: бекыръяны
  stem: бекыръя.
- gramm: V,II,mult
+ gramm: V,II,mult,tr
  paradigm: connect_verbs-II
  trans_ru: 1. кренить, накренять 2. опрокидывать, переворачивать
 
@@ -1205,9 +1205,9 @@
 -lexeme
  lex: бераны
  stem: бера.
- gramm: V,II
+ gramm: V,II,intr
  paradigm: connect_verbs-II
- trans_ru: отстать, опоздать, поздно прийти, запоздать
+ trans_ru: отстать, опоздать
 
 -lexeme
  lex: берганы
@@ -1219,21 +1219,21 @@
 -lexeme
  lex: берганы-поръяны
  stem: берганы-поръя.
- gramm: V,II,mult
+ gramm: V,II,mult,intr
  paradigm: connect_verbs-II
  trans_ru: 1. кружиться вихрем, вихриться 2. суетиться
 
 -lexeme
  lex: берланьтыны
  stem: берланьт.
- gramm: V,I
+ gramm: V,I,tr
  paradigm: connect_verbs-I
  trans_ru: попятить, отодвинуть назад; отворотить; вывихнуть
 
 -lexeme
  lex: берланьяны
  stem: берланья.
- gramm: V,II,mult
+ gramm: V,II,mult,tr
  paradigm: connect_verbs-II
  trans_ru: пятить, отодвигать назад
 
@@ -1275,14 +1275,14 @@
 -lexeme
  lex: берытскыны
  stem: берытск.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: 1. возвратиться 2. повернуться 3. поворотиться
 
 -lexeme
  lex: бестыяськыны
  stem: бестыяськ.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: воображать, щеголять
 
@@ -1296,37 +1296,30 @@
 -lexeme
  lex: бизьыны
  stem: биз.
- gramm: V,I,intr,with_dat
+ gramm: V,I,intr,with_dat,with_ill
  paradigm: connect_verbs-I-soft
  trans_ru: бежать, течь; выйти замуж
 
 -lexeme
  lex: билёуаны
  stem: билёуа.
- gramm: V,II
+ gramm: V,II,tr
  paradigm: connect_verbs-II
  trans_ru: точить, править
 
 -lexeme
  lex: бинтаны
  stem: бинта.
- gramm: V,II
+ gramm: V,II,tr
  paradigm: connect_verbs-II
  trans_ru: бинтовать, забинтовать
 
 -lexeme
- lex: биньгозыялляны
- stem: биньгозыялля.
- gramm: V,II
+ lex: биньгозыяны
+ stem: биньгозыя.
+ gramm: V,II,tr
  paradigm: connect_verbs-II
  trans_ru: завязывать вожжами, привязывать вожжами
-
--lexeme
- lex: биньылыны
- stem: биньыл.
- gramm: V,I
- paradigm: connect_verbs-I
- trans_ru: 1. заматывать, мотать 2. свёртывать 3. пеленать
 
 -lexeme
  lex: биньыны
@@ -1338,7 +1331,7 @@
 -lexeme
  lex: бинялляны
  stem: бинялля.
- gramm: V,II
+ gramm: V,II,mult,tr
  paradigm: connect_verbs-II
  trans_ru: 1. обвёртывать, завёртывать 2. пеленать, свивать
 
@@ -1350,30 +1343,16 @@
  trans_ru: 1. обернуть, завернуть 2. закутать, кутать 3. запеленать
 
 -lexeme
- lex: бирдыялляны
- stem: бирдыялля.
- gramm: V,II
+ lex: бирдыяны
+ stem: бирдыя.
+ gramm: V,II,tr
  paradigm: connect_verbs-II
  trans_ru: застёгивать на пуговицы
 
 -lexeme
- lex: бирдыяськылыны
- stem: бирдыяськыл.
- gramm: V,I
- paradigm: connect_verbs-I
- trans_ru: застёгиваться на пуговицы
-
--lexeme
- lex: бирдыятыны
- stem: бирдыят.
- gramm: V,I
- paradigm: connect_verbs-I
- trans_ru: заставить попросить застегнуть на пуговицы
-
--lexeme
  lex: бирзетаны
  stem: бирзета.
- gramm: V,II
+ gramm: V,II,tr
  paradigm: connect_verbs-II
  trans_ru: застегнуть на пуговицы
 
@@ -1387,63 +1366,63 @@
 -lexeme
  lex: бичатъяны
  stem: бичатъя.
- gramm: V,II,mult
+ gramm: V,II,mult,tr
  paradigm: connect_verbs-II
  trans_ru: 1. щекотать 2. першить
 
 -lexeme
  lex: бичатӥськыны
  stem: бичатӥськ.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: щекотать
 
 -lexeme
  lex: бичпоттыны
  stem: бичпотт.
- gramm: V,I
+ gramm: V,I,tr
  paradigm: connect_verbs-I
  trans_ru: вызвать щекотку, щекотать
 
 -lexeme
  lex: бичпотыны
  stem: бичпот.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: бояться щекотки, бичпотэ щекотно
 
 -lexeme
  lex: бодыяны
  stem: бодыя.
- gramm: V,II
+ gramm: V,II,tr
  paradigm: connect_verbs-II
  trans_ru: 1. подпирать палками 2. идти в трубку, грубеть
 
 -lexeme
  lex: бозгетыны
  stem: бозгет.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: жужжать, гудеть
 
 -lexeme
  lex: борддораны
  stem: борддора.
- gramm: V,II
+ gramm: V,II,intr
  paradigm: connect_verbs-II
  trans_ru: отгородить стеной, перегородить, поставить стену
 
 -lexeme
  lex: бордосаны
  stem: бордоса.
- gramm: V,II
+ gramm: V,II,intr
  paradigm: connect_verbs-II
  trans_ru: 1. сделать вал 2. возвести забор, отгородить забором
 
 -lexeme
  lex: бордъяны
  stem: бордъя.
- gramm: V,II
+ gramm: V,II,intr
  paradigm: connect_verbs-II
  trans_ru: 1. текст. расположить на стан основу 2. возвести стены, отгородить стеной
 
@@ -1457,28 +1436,28 @@
 -lexeme
  lex: борыяны
  stem: борыя.
- gramm: V,II
+ gramm: V,II,intr
  paradigm: connect_verbs-II
  trans_ru: собирать клубнику
 
 -lexeme
  lex: узы-борыяны
  stem: узы-борыя.
- gramm: V,II
+ gramm: V,II,intr
  paradigm: connect_verbs-II
  trans_ru: собирать землянику или клубнику
 
 -lexeme
  lex: борӟаны
  stem: борӟа.
- gramm: V,II
+ gramm: V,II,tr
  paradigm: connect_verbs-II
  trans_ru: 1. сплести, плести 2. закрыть, запереть
 
 -lexeme
  lex: борӟеманы
  stem: борӟема.
- gramm: V,II
+ gramm: V,II,tr
  paradigm: connect_verbs-II
  trans_ru: оседлать, седлать
 
@@ -1492,91 +1471,91 @@
 -lexeme
  lex: братъяськыны
  stem: братъяськ.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: брататься
 
 -lexeme
  lex: броддьыны
  stem: бродд.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I-soft
- trans_ru: 1. копошиться, долго возиться 2. бродить 3.  стараться, пытаться
+ trans_ru: 1. копошиться, долго возиться 2. бродить 3. стараться, пытаться
 
 -lexeme
  lex: бубылияны
  stem: бубылия.
- gramm: V,II
+ gramm: V,II,intr
  paradigm: connect_verbs-II
  trans_ru: ловить бабочек
 
 -lexeme
  lex: бугораны
  stem: бугора.
- gramm: V,II
+ gramm: V,II,intr
  paradigm: connect_verbs-II
  trans_ru: смотать нитки в клубок
 
 -lexeme
  lex: бугортыны
  stem: бугорт.
- gramm: V,I
+ gramm: V,I,tr
  paradigm: connect_verbs-I
  trans_ru: 1. раскатать тесто 2. подрубить, подшить 3. смотать нитки в клубок
 
 -lexeme
  lex: бугоуаны
  stem: бугоуа.
- gramm: V,II
+ gramm: V,II,tr
  paradigm: connect_verbs-II
  trans_ru: 1. посадить на цепь, заковать в кандалы 2. надеть путы, связать путами
 
 -lexeme
  lex: бугрояны
  stem: бугроя.
- gramm: V,II
+ gramm: V,II,intr
  paradigm: connect_verbs-II
  trans_ru: срубить сруб, сделать сруб
 
 -lexeme
  lex: бугъяськыны
  stem: бугъяськ.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: взъерошиться, всклокочиться
 
 -lexeme
  lex: бугырскыны
  stem: бугырск.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: разрыхлиться; рыться; волноваться
 
 -lexeme
  lex: бугыртыны
  stem: бугырт.
- gramm: V,I
+ gramm: V,I,tr
  paradigm: connect_verbs-I
  trans_ru: 1. разрыхлить, взрыхлить 2. перен. взбудоражить, встревожить, всполошить 
 
 -lexeme
  lex: бугыръяны
  stem: бугыръя.
- gramm: V,II,mult
+ gramm: V,II,mult,tr
  paradigm: connect_verbs-II
  trans_ru: 1. рыхлить, разрыхлять 2. перен. волновать, тревожить 3. ворошить
 
 -lexeme
  lex: бугырӟыны
  stem: бугырӟ.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
- trans_ru: 1. подняться столбом 
+ trans_ru: подняться столбом 
 
 -lexeme
  lex: будылыны-пушйылыны
  stem: будылыны-пушйыл.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: разрастаться, размножаться
 
@@ -1585,110 +1564,103 @@
  stem: буд.
  gramm: V,I,intr
  paradigm: connect_verbs-I
- trans_ru: 1. расти, вырасти 2. прибавить, увеличиться 3. вскочить
+ trans_ru: расти; увеличиться
 
 -lexeme
  lex: будыны-пушйыны
  stem: будыны-пушй.|будыны-пушъ.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: разрастись, размножиться
 
 -lexeme
- lex: будэтыны
- stem: будэт.
- gramm: V,I
- paradigm: connect_verbs-I
- trans_ru: 1. вырастить, растить 2. воспитать, воспитывать 3. вскормить
-
--lexeme
  lex: будэтыны-вордыны
  stem: будэтыны-ворд.
- gramm: V,I
+ gramm: V,I,tr
  paradigm: connect_verbs-I
  trans_ru: вырастить, воспитать, вспоить-вскормить, взрастить
 
 -lexeme
  lex: будӟаськыны
  stem: будӟаськ.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: возвеличиваться, гордиться
 
 -lexeme
  lex: буйганы
  stem: буйга.
- gramm: V,II
+ gramm: V,II,intr
  paradigm: connect_verbs-II
  trans_ru: 1. успокоиться, успокаиваться 2. стихнуть, стихать
 
 -lexeme
  lex: букосаны
  stem: букоса.
- gramm: V,II
+ gramm: V,II,tr
  paradigm: connect_verbs-II
  trans_ru: занести снегом
 
 -lexeme
  lex: буксираны
  stem: буксира.
- gramm: V,II
+ gramm: V,II,intr,rus
  paradigm: connect_verbs-II
  trans_ru: взять на буксир, буксировать
 
 -lexeme
  lex: букыртыны
  stem: букырт.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: бурчать, ворчать
 
 -lexeme
  lex: булавкияны
  stem: булавкия.
- gramm: V,II
+ gramm: V,II,tr,rus
  paradigm: connect_verbs-II
  trans_ru: приколоть, застегнуть булавкой
 
 -lexeme
  lex: булгандырыны
  stem: булгандыр.
- gramm: V,I
+ gramm: V,I,tr
  paradigm: connect_verbs-I
  trans_ru: взбудоражить, всполошить, посеять смуту, поднять шум
 
 -lexeme
  lex: булганыны
  stem: булган.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: жить не в ладу, скандалить
 
 -lexeme
  lex: бултаны
  stem: булта.
- gramm: V,II
+ gramm: V,II,tr
  paradigm: connect_verbs-II
  trans_ru: 1. перемешать, мешать 2. посеять, сеять смуту
 
 -lexeme
  lex: бултаньтыны
  stem: бултаньт.
- gramm: V,I
+ gramm: V,I,tr
  paradigm: connect_verbs-I
  trans_ru: посеять смуту, взбудоражить
 
 -lexeme
  lex: булышыны
  stem: булыш.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: помогать, способствовать
 
 -lexeme
  lex: бульккетыны
  stem: бульккет.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: 1. булькать, клокотать 2. взбалтывать
 
@@ -1702,77 +1674,77 @@
 -lexeme
  lex: бультыръяськыны
  stem: бультыръяськ.
- gramm: V,I,mult
+ gramm: V,I,mult,intr
  paradigm: connect_verbs-I
  trans_ru: булькая пузыриться
 
 -lexeme
  lex: бульыртыны
  stem: бульырт.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: 1. булькать 2. бурлить, клокотать 3. бурчать
 
 -lexeme
  lex: бульыръяны
  stem: бульыръя.
- gramm: V,II,mult
+ gramm: V,II,mult,intr
  paradigm: connect_verbs-II
  trans_ru: 1. булькая пузыриться 2. бурчать, урчать
 
 -lexeme
  lex: бунгетыны
  stem: бунгет.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: 1. жужжать 2. бубнить [под нос]
 
 -lexeme
  lex: бунӟектыны
  stem: бунӟект.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: измочалиться, превратиться в мочало, стать как мочало
 
 -lexeme
  lex: бунӟыны
  stem: бунӟ.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: измочалиться, износиться
 
 -lexeme
  lex: буранланы
  stem: буранла.
- gramm: V,II
+ gramm: V,II,intr
  paradigm: connect_verbs-II
  trans_ru: мести, подняться
 
 -lexeme
  lex: бураны
  stem: бура.
- gramm: V,II
+ gramm: V,II,tr
  paradigm: connect_verbs-II
  trans_ru: проклинать
 
 -lexeme
  lex: бургетыны
  stem: бургет.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: протрубить, трубить 2. пробурчать, бурчать
 
 -lexeme
  lex: бурдъяны
  stem: бурдъя.
- gramm: V,II
+ gramm: V,II,intr
  paradigm: connect_verbs-II
  trans_ru: 1. приладить отводы 2. перен. окрылить, воодушевить
 
 -lexeme
  lex: бурйыны
  stem: бурй.|буръ.
- gramm: V,I
+ gramm: V,I,tr
  paradigm: connect_verbs-I
  trans_ru: выбирать
 
@@ -1784,44 +1756,30 @@
  trans_ru: 1. выздороветь, вылечиться 2. срастись 3. привиться
 
 -lexeme
- lex: бурмытскыны
- stem: бурмытск.
- gramm: V,I
- paradigm: connect_verbs-I
- trans_ru: 1. исцелиться, вылечиться 2. перен. опохмелиться
-
--lexeme
- lex: бурмытъятыны
- stem: бурмытъят.
- gramm: V,I
- paradigm: connect_verbs-I
- trans_ru: 1. исцелять, вылечивать 2. перен. опохмелять
-
--lexeme
  lex: бурсыны
  stem: бурс.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
- trans_ru: 1. мычать,рычать 2.валить густыми клубами 3. перен. трубить
+ trans_ru: 1. мычать, рычать 2. валить густыми клубами 3. перен. трубить
 
 -lexeme
  lex: буртыны
  stem: бурт.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
- trans_ru: 1.набухать, набухнуть 2. парить, запарить
+ trans_ru: 1. набухать, набухнуть 2. парить, запарить
 
 -lexeme
  lex: бусаны
  stem: буса.
- gramm: V,II
+ gramm: V,II,intr
  paradigm: connect_verbs-II
  trans_ru: 1. затуманить, туманить 2. помутнеть, потускнеть 3. запотеть
 
 -lexeme
  lex: бускелляськыны
  stem: бускелляськ.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: 1. присоседиться 2. стать соседом
 
@@ -1835,42 +1793,42 @@
 -lexeme
  lex: бусмаськыны
  stem: бусмаськ.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: растрепаться
 
 -lexeme
  lex: бустыраны
  stem: бустыра.
- gramm: V,II
+ gramm: V,II,intr
  paradigm: connect_verbs-II
  trans_ru: запотеть, потеть
 
 -lexeme
  lex: бусёнъяськыны
  stem: бусёнъяськ.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: стать свояками
 
 -lexeme
  lex: бусӥраны
  stem: бусӥра.
- gramm: V,II
+ gramm: V,II,intr
  paradigm: connect_verbs-II
- trans_ru: стать фиолетовым, приобрести фиолетовый цвет
+ trans_ru: стать фиолетовым
 
 -lexeme
  lex: бусӥрмыны
  stem: бусӥрм.
  gramm: V,I,intr
  paradigm: connect_verbs-I
- trans_ru: стать фиолетовым, приобрести фиолетовый цвет
+ trans_ru: стать фиолетовым
 
 -lexeme
  lex: бушаны
  stem: буша.
- gramm: V,II
+ gramm: V,II,intr
  paradigm: connect_verbs-II
  trans_ru: 1. опорожниться, опорожняться 2. стать просторным 3. опустеть
 
@@ -1891,14 +1849,14 @@
 -lexeme
  lex: буяны
  stem: буя.
- gramm: V,II
+ gramm: V,II,intr
  paradigm: connect_verbs-II
  trans_ru: 1. отчаяться, отчаиваться 2. стесняться
 
 -lexeme
  lex: буёланы
  stem: буёла.
- gramm: V,II
+ gramm: V,II,tr
  paradigm: connect_verbs-II
  trans_ru: красить
 
@@ -1912,14 +1870,14 @@
 -lexeme
  lex: быганы
  stem: быга.
- gramm: V,II
+ gramm: V,II,tr
  paradigm: connect_verbs-II
  trans_ru: 1. ударить 2. сбить
 
 -lexeme
  lex: быгатыны
  stem: быгат.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: мочь, уметь
 
@@ -1940,7 +1898,7 @@
 -lexeme
  lex: быгыльскыны
  stem: быгыльск.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: 1. скатать сочни 2. скататься, свернуться 3. затупиться 
 
@@ -1954,7 +1912,7 @@
 -lexeme
  lex: быгыны
  stem: быг.
- gramm: V,I
+ gramm: V,I,tr
  paradigm: connect_verbs-I
  trans_ru: 1. ударить 2. сбить
 
@@ -1975,28 +1933,28 @@
 -lexeme
  lex: быдэмылыны
  stem: быдэмыл.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: заканчиваться; мужать; исполняться
 
 -lexeme
  lex: быдэнтыны
  stem: быдэнт.
- gramm: V,I
+ gramm: V,I,tr
  paradigm: connect_verbs-I
  trans_ru: разделить, отделить, выделить
 
 -lexeme
  lex: быдэнъяны
  stem: быдэнъя.
- gramm: V,II,mult
+ gramm: V,II,mult,tr
  paradigm: connect_verbs-II
  trans_ru: отделять, выделять каждому отдельно
 
 -lexeme
  lex: быдэскыны
  stem: быдэск.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: готовиться
 
@@ -2017,7 +1975,7 @@
 -lexeme
  lex: быдэсъяны
  stem: быдэсъя.
- gramm: V,II,mult
+ gramm: V,II,mult,tr
  paradigm: connect_verbs-II
  trans_ru: выполнять
  
@@ -2025,7 +1983,7 @@
 -lexeme
  lex: быдӟияськыны
  stem: быдӟияськ.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: быть высокомерным
 
@@ -2039,28 +1997,28 @@
 -lexeme
  lex: быздыны
  stem: бызд.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: хныкать, тихонько плакать, жаловаться
 
 -lexeme
  lex: бызланы
  stem: бызла.
- gramm: V,II
+ gramm: V,II,intr
  paradigm: connect_verbs-II
  trans_ru: бежать
 
 -lexeme
  lex: бызылданы
  stem: бызылда.
- gramm: V,II
+ gramm: V,II,intr
  paradigm: connect_verbs-II
  trans_ru: жужжать, стрекотать, пищать, трещать
 
 -lexeme
  lex: бызыраны
  stem: бызыра.
- gramm: V,II
+ gramm: V,II,intr
  paradigm: connect_verbs-II
  trans_ru: рубцеваться
 
@@ -2088,7 +2046,7 @@
 -lexeme
  lex: бызьыраны
  stem: бызьыра.
- gramm: V,II
+ gramm: V,II,intr
  paradigm: connect_verbs-II
  trans_ru: терять вкус, становиться водянистым
 
@@ -2109,14 +2067,14 @@
 -lexeme
  lex: бӧдьыны
  stem: бӧд.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I-soft
- trans_ru: болтать, поболтать, говорить, поговорить
+ trans_ru: болтать, говорить
 
 -lexeme
  lex: бӧкпӧрыны
  stem: бӧкпӧр.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: везти, быть удачным
 
@@ -2130,14 +2088,14 @@
 -lexeme
  lex: бӧльдырыны
  stem: бӧльдыр.
- gramm: V,I
+ gramm: V,I,tr
  paradigm: connect_verbs-I
  trans_ru: разрушить, разрушать
 
 -lexeme
  lex: бӧльыны
  stem: бӧл.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I-soft
  trans_ru: разделить, обособить, перегородить
 
@@ -2151,7 +2109,7 @@
 -lexeme
  lex: бӧмырестыны
  stem: бӧмырест.
- gramm: V,I
+ gramm: V,I,tr
  paradigm: connect_verbs-I
  trans_ru: взрыхлять
 
@@ -2165,70 +2123,70 @@
 -lexeme
  lex: бӧрдыны-куректыны
  stem: бӧрдыны-курект.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: плакать-горевать, горько плакать
 
 -lexeme
  lex: бӧсылдырыны
  stem: бӧсылдыр.
- gramm: V,I
+ gramm: V,I,tr
  paradigm: connect_verbs-I
  trans_ru: выпучивать, выпучить
 
 -lexeme
  lex: бӧсьылыны
  stem: бӧсьыл.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: выпучиваться, выпучиться
 
 -lexeme
  lex: бӧтьыраны
  stem: бӧтьыра.
- gramm: V,II
+ gramm: V,II,intr
  paradigm: connect_verbs-II
  trans_ru: 1. лепетать 2. говорить без умолку 3. кричать
 
 -lexeme
  lex: бӧтьыртыны
  stem: бӧтьырт.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: 1. лепетать 2. говорить без умолку 3. кричать
 
 -lexeme
  lex: вадьсаны
  stem: вадьса.
- gramm: V,II
+ gramm: V,II,tr
  paradigm: connect_verbs-II
  trans_ru: 1. застать на месте 2. прийти в нужный момент 3. наметить 
 
 -lexeme
  lex: вазгатъяны
  stem: вазгатъя.
- gramm: V,II,mult
+ gramm: V,II,mult,tr
  paradigm: connect_verbs-II
  trans_ru: ударять чём-л. увесистым
 
 -lexeme
  lex: вазгатыны
  stem: вазгат.
- gramm: V,I
+ gramm: V,I,tr
  paradigm: connect_verbs-I
  trans_ru: ударить чём-л. увесистым
 
 -lexeme
  lex: вазелинаны
  stem: вазелина.
- gramm: V,II
+ gramm: V,II,tr,rus
  paradigm: connect_verbs-II
  trans_ru: помазать вазелином
 
 -lexeme
  lex: вазькыны
  stem: вазьк.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: поздороваться
 
@@ -2242,21 +2200,21 @@
 -lexeme
  lex: вайгетыны
  stem: вайгет.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: возиться, суетиться
 
 -lexeme
  lex: вайыжаны
  stem: вайыжа.
- gramm: V,II
+ gramm: V,II,intr
  paradigm: connect_verbs-II
  trans_ru: приделать оглобли
 
 -lexeme
  lex: вайыжкаланы
  stem: вайыжкала.
- gramm: V,II
+ gramm: V,II,intr
  paradigm: connect_verbs-II
  trans_ru: приделать оглобли закруткой
 
@@ -2270,21 +2228,21 @@
 -lexeme
  lex: вайяны
  stem: вайя.
- gramm: V,II,mult
+ gramm: V,II,mult,tr
  paradigm: connect_verbs-II
  trans_ru: расщеплять, раздваивать
 
 -lexeme
  lex: ваклайтыны
  stem: ваклайт.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: 1. сообразить, осмыслить 2.ходить, бродить
 
 -lexeme
  lex: вакчияны
  stem: вакчия.
- gramm: V,II
+ gramm: V,II,intr
  paradigm: connect_verbs-II
  trans_ru: укоротиться, укорачиваться, стать короче, сократиться
 
@@ -2303,16 +2261,9 @@
  trans_ru: понять, понимать, осмыслить, осмысливать
 
 -lexeme
- lex: валатытыны
- stem: валатыт.
- gramm: V,I
- paradigm: connect_verbs-I
- trans_ru: дать понять, вразумить
-
--lexeme
  lex: валлинтыны
  stem: валлинт.
- gramm: V,I
+ gramm: V,I,tr
  paradigm: connect_verbs-I
  trans_ru: поставить вдоль
 
@@ -2333,14 +2284,14 @@
 -lexeme
  lex: вальканы
  stem: валька.
- gramm: V,II
+ gramm: V,II,intr
  paradigm: connect_verbs-II
  trans_ru: капать, накрапывать
 
 -lexeme
  lex: вальыны
  stem: вал.
- gramm: V,I
+ gramm: V,I,tr
  paradigm: connect_verbs-I-soft
  trans_ru: постелить
 
@@ -2354,49 +2305,49 @@
 -lexeme
  lex: валэктэмъяськыны
  stem: валэктэмъяськ.
- gramm: V,I,mult
+ gramm: V,I,mult,intr
  paradigm: connect_verbs-I
  trans_ru: оправдываться, объясняться
 
 -lexeme
  lex: валэкъяны
  stem: валэкъя.
- gramm: V,II,mult
+ gramm: V,II,mult,tr
  paradigm: connect_verbs-II
  trans_ru: объяснять
 
 -lexeme
  lex: валэсаны
  stem: валэса.
- gramm: V,II
+ gramm: V,II,tr
  paradigm: connect_verbs-II
  trans_ru: яровизировать
 
 -lexeme
  lex: ваменпуаны
  stem: ваменпуа.
- gramm: V,II
+ gramm: V,II,tr
  paradigm: connect_verbs-II
  trans_ru: закрыть на засов
 
 -lexeme
  lex: ваменскыны
  stem: ваменск.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: 1. заупрямиться, упрямиться 2. стать поперёк
 
 -lexeme
  lex: ваментыны
  stem: вамент.
- gramm: V,I
+ gramm: V,I,tr
  paradigm: connect_verbs-I
- trans_ru: 1. положить поперёк 
+ trans_ru: положить поперёк 
 
 -lexeme
  lex: ваменъяськыны
  stem: ваменъяськ.
- gramm: V,I,mult
+ gramm: V,I,mult,intr
  paradigm: connect_verbs-I
  trans_ru: упрямиться, делать наперекор
 
@@ -2431,37 +2382,37 @@
 -lexeme
  lex: ваньмытскыны
  stem: ваньмытск.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: освободиться,быть свободным
 
 -lexeme
  lex: ваньтыны
  stem: ваньт.
- gramm: V,I
+ gramm: V,I,tr
  paradigm: connect_verbs-I
  trans_ru: 1. приобрести, завести 2. сделать былью
 
 -lexeme
  lex: ваньтыны-ӧвӧлтыны
  stem: ваньтыны-ӧвӧлт.
- gramm: V,I
+ gramm: V,I,tr
  paradigm: connect_verbs-I
  trans_ru: растранжирить, транжирить, промотать, мотать
 
 -lexeme
  lex: вараны
  stem: вара.
- gramm: V,II
+ gramm: V,II,intr
  paradigm: connect_verbs-II
  trans_ru: служить
 
 -lexeme
  lex: варсыны
  stem: варс.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
- trans_ru: зарасти,стать непроходимым
+ trans_ru: зарасти, стать непроходимым
 
 -lexeme
  lex: васьканы
@@ -2480,7 +2431,7 @@
 -lexeme
  lex: васяны
  stem: вася.
- gramm: V,II
+ gramm: V,II,intr
  paradigm: connect_verbs-II
  trans_ru: 1. стать алчным 2. сильно проголодаться, изголодаться
 
@@ -2501,14 +2452,14 @@
 -lexeme
  lex: вачеяны
  stem: вачея.
- gramm: V,II
+ gramm: V,II,tr
  paradigm: connect_verbs-II
  trans_ru: спарить, соединить, женить
 
 -lexeme
  lex: вачыртыны
  stem: вачырт.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: клокотать
 
@@ -2529,42 +2480,42 @@
 -lexeme
  lex: веднаны
  stem: ведна.
- gramm: V,II
+ gramm: V,II,intr
  paradigm: connect_verbs-II
  trans_ru: колдовать, заколдовать, напустить порчу
 
 -lexeme
  lex: везектыны
  stem: везект.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: всхлипывать, рыдать, плакать до изнеможения
 
 -lexeme
  lex: везъяськыны
  stem: везъяськ.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: уйти не спросись, куда-то деться, удалиться, удаляться
 
 -lexeme
  lex: везыны
  stem: вез.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: удалиться, исчезнуть, пропасть без вести
 
 -lexeme
  lex: веканы
  stem: века.
- gramm: V,II
+ gramm: V,II,intr
  paradigm: connect_verbs-II
  trans_ru: захиреть, хиреть, захворать, хворать
 
 -lexeme
  lex: векчияны
  stem: векчия.
- gramm: V,II
+ gramm: V,II,intr
  paradigm: connect_verbs-II
  trans_ru: утончаться, мельчать
 
@@ -2578,28 +2529,28 @@
 -lexeme
  lex: векышъяны
  stem: векышъя.
- gramm: V,II,mult
+ gramm: V,II,mult,intr
  paradigm: connect_verbs-II
  trans_ru: кашлять захлебываясь
 
 -lexeme
  lex: вениканы
  stem: веника.
- gramm: V,II
+ gramm: V,II,intr,rus
  paradigm: connect_verbs-II
  trans_ru: 1. заготовить веники 2. связывать веники
 
 -lexeme
  lex: венчаны
  stem: венча.
- gramm: V,II
+ gramm: V,II,tr,rus
  paradigm: connect_verbs-II
- trans_ru: обвенчать, венчать, повенчать
+ trans_ru: обвенчать
 
 -lexeme
  lex: веньяны
  stem: веня.
- gramm: V,II
+ gramm: V,II,tr
  paradigm: connect_verbs-II
  trans_ru: 1. заколоть, приколоть 2. сшить шпонкой
 
@@ -2620,7 +2571,7 @@
 -lexeme
  lex: веросъяны
  stem: веросъя.
- gramm: V,II
+ gramm: V,II,intr
  paradigm: connect_verbs-II
  trans_ru: придать форму рассказа, изложить в форме рассказа
 
@@ -2634,35 +2585,28 @@
 -lexeme
  lex: веръяны
  stem: веръя.
- gramm: V,II
+ gramm: V,II,tr
  paradigm: connect_verbs-II
  trans_ru: 1. связать парами 2. развешивать парами
 
 -lexeme
- lex: веръясъкыны
- stem: веръясък.
- gramm: V,I
- paradigm: connect_verbs-I
- trans_ru: нанизывать, связывать парами,развешивать парами
-
--lexeme
  lex: верыны
  stem: вер.
- gramm: V,I
+ gramm: V,I,tr
  paradigm: connect_verbs-I
  trans_ru: 1. связать и развесить парами 2. закрепить, закреплять на скорую руку
 
 -lexeme
  lex: веськаны
  stem: веська.
- gramm: V,II
+ gramm: V,II,intr
  paradigm: connect_verbs-II
  trans_ru: 1. успокоиться,перестать болеть 2. вместиться, поместиться куда-л. 3. выдержать
 
 -lexeme
  lex: веськытаны
  stem: веськыта.
- gramm: V,II
+ gramm: V,II,intr
  paradigm: connect_verbs-II
  trans_ru: успокоиться, перестать болеть
 
@@ -2676,7 +2620,7 @@
 -lexeme
  lex: веськытскыны
  stem: веськытск.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: распрямиться, выпрямиться
 
@@ -2688,30 +2632,23 @@
  trans_ru: ходить
 
 -lexeme
- lex: ветлыны-адӟыны
- stem: ветлыны-адӟ.
- gramm: V,I
- paradigm: connect_verbs-I
- trans_ru: побывать и повидать, бывать и видать
-
--lexeme
  lex: ветталтыны
  stem: ветталт.
- gramm: V,I
+ gramm: V,I,tr
  paradigm: connect_verbs-I
  trans_ru: 1. качнуть, покачнуть 2. макнуть
 
 -lexeme
  lex: веттаны
  stem: ветта.
- gramm: V,II
+ gramm: V,II,tr
  paradigm: connect_verbs-II
  trans_ru: качать, колыхать
 
 -lexeme
  lex: веттыны
  stem: ветт.
- gramm: V,I
+ gramm: V,I,tr
  paradigm: connect_verbs-I
  trans_ru: макнуть, обмакнуть, опустить в жидкость
 
@@ -2723,24 +2660,16 @@
  trans_ru: гладить, похлопывать
 
 -lexeme
- lex: вешаськыны-нуныяськыны
- stem: вешаськыны-нуныяськ.
- gramm: V,I
- paradigm: connect_verbs-I
- paradigm: connect_verbs-II
- trans_ru: прилас-каться, ласкаться
-
--lexeme
  lex: вешниканы
  stem: вешника.
- gramm: V,II
+ gramm: V,II,intr
  paradigm: connect_verbs-II
- trans_ru: поставить запоры(на плотине
+ trans_ru: поставить запоры на плотине
 
 -lexeme
  lex: визалляны
  stem: визалля.
- gramm: V,II
+ gramm: V,II,intr
  paradigm: connect_verbs-II
  trans_ru: стремительно течь, идти стрежнем, рыбачить
 
@@ -2754,14 +2683,14 @@
 -lexeme
  lex: визыланы
  stem: визыла.
- gramm: V,II
+ gramm: V,II,intr
  paradigm: connect_verbs-II
  trans_ru: 1. сильно течь 2. течь струйкой, струиться
 
 -lexeme
  lex: визьбураны
  stem: визьбура.
- gramm: V,II
+ gramm: V,II,intr
  paradigm: connect_verbs-II
  trans_ru: 1. стать умным 2. образумить, образумиться
 
@@ -2770,19 +2699,19 @@
  stem: визьма.
  gramm: V,II,tr
  paradigm: connect_verbs-II
- trans_ru: образумить, вразумить, поучить уму-разуму, проучить
+ trans_ru: образумить, проучить
 
 -lexeme
  lex: визьноданы
  stem: визьнода.
- gramm: V,II
+ gramm: V,II,tr
  paradigm: connect_verbs-II
- trans_ru: образумить, вразумить, вразумлять, наставить
+ trans_ru: образумить, наставить
 
 -lexeme
  lex: визьсазьяны
  stem: визьсазя.
- gramm: V,II
+ gramm: V,II,tr
  paradigm: connect_verbs-II
  trans_ru: сознавать
 
@@ -2796,14 +2725,14 @@
 -lexeme
  lex: визьтэмъяськыны
  stem: визьтэмъяськ.
- gramm: V,I,mult
+ gramm: V,I,mult,intr
  paradigm: connect_verbs-I
  trans_ru: 1. дурачиться, валять дурака 2. выражаться непристойными словами, сквернословить
 
 -lexeme
  lex: визяны
  stem: визя.
- gramm: V,II
+ gramm: V,II,intr
  paradigm: connect_verbs-II
  trans_ru: поститься, соблюдать пост, говеть
 
@@ -2817,7 +2746,7 @@
 -lexeme
  lex: викыштыны
  stem: викышт.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: икнуть; всхлипнуть
 
@@ -2831,14 +2760,14 @@
 -lexeme
  lex: винтыяны
  stem: винтыя.
- gramm: V,II
+ gramm: V,II,tr,rus
  paradigm: connect_verbs-II
  trans_ru: завинчивать, ввинчивать, привинчивать
 
 -lexeme
  lex: вирсэртэмъяськыны
  stem: вирсэртэмъяськ.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: неприлично вести себя
 
@@ -2852,42 +2781,42 @@
 -lexeme
  lex: виртэмъяськыны
  stem: виртэмъяськ.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: стать жестоким, поступать жестоко
 
 -lexeme
  lex: вирӟектыны
  stem: вирӟект.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: налиться кровью, образоваться – о кровоподтёке
 
 -lexeme
  lex: вирӟыны
  stem: вирӟ.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: налиться кровью
 
 -lexeme
  lex: висатъяны
  stem: висатъя.
- gramm: V,II,mult
+ gramm: V,II,mult,tr
  paradigm: connect_verbs-II
  trans_ru: 1. прерывать 2. отграничивать
 
 -lexeme
  lex: висатыны
  stem: висат.
- gramm: V,I
+ gramm: V,I,tr
  paradigm: connect_verbs-I
  trans_ru: 1. прервать 2. отграничить
 
 -lexeme
  lex: висъетаны
  stem: висъета.
- gramm: V,II
+ gramm: V,II,tr
  paradigm: connect_verbs-II
  trans_ru: перегородить, отделить перегородками
 
@@ -2915,133 +2844,133 @@
 -lexeme
  lex: виштыяськыны
  stem: виштыяськ.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: запачкаться
 
 -lexeme
  lex: виыны
  stem: ви.
- gramm: V,I
+ gramm: V,I,tr,with_instr
  paradigm: connect_verbs-I
- trans_ru: 1. протечь, течь 2. протечь, течь 3. просыпаться
+ trans_ru: убить
 
 -lexeme
  lex: вияны
  stem: вия.
  gramm: V,II,intr
  paradigm: connect_verbs-II
- trans_ru: 1. протечь, течь 2. протечь, течь 3. просыпаться
+ trans_ru: протечь; просыпаться
 
 -lexeme
  lex: влыданы
  stem: влыда.
- gramm: V,II
+ gramm: V,II,tr
  paradigm: connect_verbs-II
  trans_ru: М. исследовать
 
 -lexeme
  lex: воганы
  stem: вога.
- gramm: V,II
+ gramm: V,II,intr
  paradigm: connect_verbs-II
  trans_ru: упрямиться, капризничать
 
 -lexeme
  lex: вогдыны
  stem: вогд.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: капризничать
 
 -lexeme
  lex: вогйыны
  stem: вогй.|вогъ.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: упрямиться, перечить, эн вогйы не упрямься
 
 -lexeme
  lex: вогланыны
  stem: воглан.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: отступать назад с грузом
 
 -lexeme
  lex: вогъяськыны
  stem: вогъяськ.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: заупрямиться, упрямиться, закапризничать, капризничать
 
 -lexeme
  lex: вогырияськыны
  stem: вогырияськ.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: колыхаться, волноваться, рябить
 
 -lexeme
  lex: вогыртыны
  stem: вогырт.
- gramm: V,I
+ gramm: V,I,tr
  paradigm: connect_verbs-I
  trans_ru: 1. колыхнуть, образовать небольшие волны 2. сморщить
 
 -lexeme
  lex: вогыръяны
  stem: вогыръя.
- gramm: V,II,mult
+ gramm: V,II,mult,tr
  paradigm: connect_verbs-II
  trans_ru: 1. колыхать, волновать 2. морщить
 
 -lexeme
  lex: вогӟыны
  stem: вогӟ.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: 1. упрямиться, капризничать 2. поперхнуться
 
 -lexeme
  lex: вожаны
  stem: вожа.
- gramm: V,II,intr,with_gen2
+ gramm: V,II,tr
  paradigm: connect_verbs-II
  trans_ru: приревновать, ревновать
 
 -lexeme
  lex: вожбичаны
  stem: вожбича.
- gramm: V,II
+ gramm: V,II,intr
  paradigm: connect_verbs-II
  trans_ru: набирать узоры на тканье
 
 -lexeme
  lex: вожвайыны
  stem: вожвай.|вожва.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: разозлиться, злиться, рассердиться, сердиться
 
 -lexeme
  lex: вожвылскыны
  stem: вожвылск.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: 1. бежать наперегонки, перегнать 2. конкурировать
 
 -lexeme
  lex: вожвылтыны
  stem: вожвылт.
- gramm: V,I
+ gramm: V,I,tr
  paradigm: connect_verbs-I
  trans_ru: 1. опередить, перегнать 2. искривить, перекосить
 
 -lexeme
  lex: вожвылъяськыны
  stem: вожвылъяськ.
- gramm: V,I,mult
+ gramm: V,I,mult,intr
  paradigm: connect_verbs-I
  trans_ru: 1. пререкаться, спорить 2. конкурировать
 
@@ -3055,14 +2984,14 @@
 -lexeme
  lex: вожкутыны
  stem: вожкут.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: делать цепочки из прутьев, стеблей растений
 
 -lexeme
  lex: вожманы
  stem: вожма.
- gramm: V,II
+ gramm: V,II,intr
  paradigm: connect_verbs-II
  trans_ru: зеленеть
 
@@ -3083,7 +3012,7 @@
 -lexeme
  lex: вожоаськыны
  stem: вожоаськ.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: рядиться, одеваться в маскарадный костюм, вожоаськыса ветлон ряженье
 
@@ -3104,49 +3033,42 @@
 -lexeme
  lex: вожосаны
  stem: вожоса.
- gramm: V,II
+ gramm: V,II,tr
  paradigm: connect_verbs-II
  trans_ru: загораживать зелёными прутьями
 
 -lexeme
- lex: вожпоттыны
- stem: вожпотт.
- gramm: V,I
- paradigm: connect_verbs-I
- trans_ru: рассердить, сердить, разгневать, гневить
-
--lexeme
  lex: вожпотыны
  stem: вожпот.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: сердиться
 
 -lexeme
  lex: вожъяськыны
  stem: вожъяськ.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
- trans_ru: позавидовать, завидовать, позариться, зариться
+ trans_ru: завидовать
 
 -lexeme
  lex: возъяны
  stem: возъя.
- gramm: V,II
+ gramm: V,II,tr
  paradigm: connect_verbs-II
  trans_ru: сложить в воз, нагрузить, сложить ношу
 
 -lexeme
  lex: возьбураськыны
  stem: возьбураськ.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: здороваться
 
 -lexeme
  lex: возьдаськыны
  stem: возьдаськ.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: стыдиться, стесняться
 
@@ -3155,61 +3077,47 @@
  stem: возьма.
  gramm: V,II,tr
  paradigm: connect_verbs-II
- trans_ru: 1. ждать, ожидать 2. охранять, сторожить 3. пасти 
-
--lexeme
- lex: возьылыны
- stem: возьыл.
- gramm: V,I
- paradigm: connect_verbs-I
- trans_ru: 1. держать 2. блюсти, соблюдать
+ trans_ru: ждать; сторожить; пасти 
 
 -lexeme
  lex: возьыны
  stem: воз.
  gramm: V,I,tr
  paradigm: connect_verbs-I-soft
- trans_ru: 1. держать, удержать 2. хранить 3. соблюсти
+ trans_ru: держать; хранить; соблюдать
 
 -lexeme
  lex: возьытаны
  stem: возьыта.
- gramm: V,II
+ gramm: V,II,intr
  paradigm: connect_verbs-II
  trans_ru: устыдиться, стыдиться, застесняться, стесняться
 
 -lexeme
  lex: возьыттэмъяськыны
  stem: возьыттэмъяськ.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: бесстыдно вести себя, не стыдиться, не стесняться
 
 -lexeme
  lex: волегӟыны
  stem: волегӟ.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: стать скользким, соскользнуть, скользнуть, скользить
 
 -lexeme
  lex: вольтчыны
  stem: вольтч.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: 1. вывихнуться 2. соскользнуть, ускользнуть 
 
 -lexeme
- lex: вольтчытъяны
- stem: вольтчытъя.
- gramm: V,II,mult
- paradigm: connect_verbs-II
- trans_ru: 1. вывихивать 2. перен. вышвыривать, выпихивать, выставлять, выгонять
-
--lexeme
  lex: вольытаны
  stem: вольыта.
- gramm: V,II
+ gramm: V,II,intr
  paradigm: connect_verbs-II
  trans_ru: сгладиться, выровняться, стать гладким, отшлифоваться
 
@@ -3223,7 +3131,7 @@
 -lexeme
  lex: воляны
  stem: воля.
- gramm: V,II
+ gramm: V,II,intr
  paradigm: connect_verbs-II
  trans_ru: стать гладким, сгладиться, выровняться, отшлифоваться
 
@@ -3237,28 +3145,28 @@
 -lexeme
  lex: воньдыны
  stem: воньд.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: подавиться, поперхнуться, захлебнуться
 
 -lexeme
  lex: воньӟектыны
  stem: воньӟект.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: испортиться, стать с душком, пахнуть, вонять
 
 -lexeme
  lex: воньӟыны
  stem: воньӟ.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: портиться, надавить запах, пахнуть
 
 -lexeme
  lex: вораны
  stem: вора.
- gramm: V,II
+ gramm: V,II,intr,rus
  paradigm: connect_verbs-II
  trans_ru: воровать, украсть, красть, похитить
 
@@ -3267,14 +3175,7 @@
  stem: ворд.
  gramm: V,I,tr
  paradigm: connect_verbs-I
- trans_ru: 1. воспитать, воспитывать 2. развести, разводить
-
--lexeme
- lex: вордыны-будэтыны
- stem: вордыны-будэт.
- gramm: V,I
- paradigm: connect_verbs-I
- trans_ru: вырастить, выращивать, воспитать, воспитывать
+ trans_ru: воспитывать; разводить
 
 -lexeme
  lex: ворекъяны
@@ -3286,7 +3187,7 @@
 -lexeme
  lex: воринъяны
  stem: воринъя.
- gramm: V,II,mult
+ gramm: V,II,mult,tr
  paradigm: connect_verbs-II
  trans_ru: волновать, рябить
 
@@ -3295,49 +3196,35 @@
  stem: ворм.
  gramm: V,I,tr
  paradigm: connect_verbs-I
- trans_ru: победить, покорить, осилить, преодолеть
+ trans_ru: победить, преодолеть
 
 -lexeme
  lex: вормытъяськыны
  stem: вормытъяськ.
- gramm: V,I,mult
+ gramm: V,I,mult,intr
  paradigm: connect_verbs-I
  trans_ru: вести себя высокомерно, зазнаваться, задаваться
 
 -lexeme
  lex: вороканы
  stem: ворока.
- gramm: V,II
+ gramm: V,II,tr,rus
  paradigm: connect_verbs-II
  trans_ru: сложить в вороха
 
 -lexeme
  lex: воротниканы
  stem: воротника.
- gramm: V,II
+ gramm: V,II,intr,rus
  paradigm: connect_verbs-II
  trans_ru: 1. пришить воротник 2. застегнуть воротник
 
 -lexeme
- lex: ворсалляны
- stem: ворсалля.
- gramm: V,II
- paradigm: connect_verbs-II
- trans_ru: закрывать, запирать, прикрывать, закупоривать
-
--lexeme
  lex: ворсаны
  stem: ворс.
- gramm: V,I
+ gramm: V,I,tr
  paradigm: connect_verbs-I
- trans_ru: закрывать, запереть, запирать, прикрыть, прикрывать, закупорить, закупоривать
-
--lexeme
- lex: ворсаськыны
- stem: ворсаськ.
- gramm: V,I
- paradigm: connect_verbs-I
- trans_ru: закрыться, запереться, захлопнуться, прикрыться
+ trans_ru: закрывать, запирать
 
 -lexeme
  lex: ворттыны
@@ -3349,21 +3236,21 @@
 -lexeme
  lex: ворӟыны
  stem: ворӟ.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: расползтись
 
 -lexeme
  lex: восалскыны
  stem: восалск.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: заметно отощать, похудеть
 
 -lexeme
  lex: востэманы
  stem: востэма.
- gramm: V,II
+ gramm: V,II,intr
  paradigm: connect_verbs-II
  trans_ru: стать скромным, присмиреть
 
@@ -3377,7 +3264,7 @@
 -lexeme
  lex: востэмъяськыны
  stem: востэмъяськ.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: стать скромным, присмиреть
 
@@ -3386,54 +3273,54 @@
  stem: восьм.
  gramm: V,I,intr
  paradigm: connect_verbs-I
- trans_ru: худеть, похудеть, исхудать, хиреть
+ trans_ru: похудеть
 
 -lexeme
  lex: вотсаны
  stem: вотса.
- gramm: V,II
+ gramm: V,II,tr
  paradigm: connect_verbs-II
  trans_ru: 1. загородить, заслонить 2. затянуть, окутать 3. запотеть 
 
 -lexeme
  lex: вотыны
  stem: вот.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: пытаться, стараться
 
 -lexeme
  lex: вошкыны
  stem: вошк.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
- trans_ru: измениться, перемениться, обменяться, переодеться
+ trans_ru: измениться, переодеться
 
 -lexeme
  lex: воштыны
  stem: вошт.
  gramm: V,I,tr,with_instr
  paradigm: connect_verbs-I
- trans_ru: 1. заменить, переменить 2. отменить 3. обменять
+ trans_ru: заменить, обменять
 
 -lexeme
  lex: вошъяны
  stem: вошъя.
  gramm: V,II,tr,with_instr,mult
  paradigm: connect_verbs-II
- trans_ru: 1. менять, заменять 2. обменивать, обменять 3. отменить
+ trans_ru: менять, обменивать
 
 -lexeme
  lex: вуаны
  stem: вуа.
- gramm: V,II
+ gramm: V,II,intr,with_ill
  paradigm: connect_verbs-II
  trans_ru: прийти, созреть, попасть, успеть
 
 -lexeme
  lex: вуатыны
  stem: вуат.
- gramm: V,I
+ gramm: V,I,tr
  paradigm: connect_verbs-I
  trans_ru: обводнить
 
@@ -3447,21 +3334,21 @@
 -lexeme
  lex: вугылӟыны
  stem: вугылӟ.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: надоесть, приесться
 
 -lexeme
  lex: вужаны
  stem: вужа.
- gramm: V,II
+ gramm: V,II,intr
  paradigm: connect_verbs-II
  trans_ru: тошнить
 
 -lexeme
  lex: вужераны
  stem: вужера.
- gramm: V,II
+ gramm: V,II,tr
  paradigm: connect_verbs-II
  trans_ru: 1. затенить, затенять 2. образовать тени
 
@@ -3475,7 +3362,7 @@
 -lexeme
  lex: вужыны
  stem: вуж.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: тошнить
 
@@ -3503,21 +3390,21 @@
 -lexeme
  lex: вукекъяны
  stem: вукекъя.
- gramm: V,II,mult
+ gramm: V,II,mult,intr
  paradigm: connect_verbs-II
  trans_ru: затошнить, тошнить
 
 -lexeme
  lex: вуккетыны
  stem: вуккет.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: объесться
 
 -lexeme
  lex: вукпотыны
  stem: вукпот.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: 1. затошнить 2. надоесть
 
@@ -3531,7 +3418,7 @@
 -lexeme
  lex: вукылъяськыны
  stem: вукылъяськ.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: надоедать
 
@@ -3540,19 +3427,12 @@
  stem: вун.
  gramm: V,I,intr
  paradigm: connect_verbs-I
- trans_ru: забыть, забывать
-
--lexeme
- lex: вунэтыны
- stem: вунэт.
- gramm: V,I
- paradigm: connect_verbs-I
- trans_ru: позабыть, забыть
+ trans_ru: забыться
 
 -lexeme
  lex: вураны
  stem: вура.
- gramm: V,II
+ gramm: V,II,tr
  paradigm: connect_verbs-II
  trans_ru: шить
 
@@ -3575,33 +3455,26 @@
  stem: вутт.
  gramm: V,I,intr,with_ill
  paradigm: connect_verbs-I
- trans_ru: 1. доставить, довести 2. довести до конца, завершить 3. успеть
+ trans_ru: доставить, довести; завершить; успеть
 
 -lexeme
  lex: вутэмӟыны
  stem: вутэмӟ.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: обезвоживаться
 
 -lexeme
  lex: вушйылтыны
  stem: вушйылт.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: зевнуть
 
 -lexeme
- lex: вушйылытыны
- stem: вушйылыт.
- gramm: V,I
- paradigm: connect_verbs-I
- trans_ru: вызывать зевоту, зеваться, вушйылытэ зевается
-
--lexeme
  lex: вушйыны
  stem: вушй.|вушъ.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: зевать, позёвывать
 
@@ -3629,7 +3502,7 @@
 -lexeme
  lex: вуӝыны
  stem: вуӝ.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: шляться
 
@@ -3643,42 +3516,35 @@
 -lexeme
  lex: вуӵкетыны
  stem: вуӵкет.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: проворчать, пробормотать, пробурчать
 
 -lexeme
  lex: вуӵыртыны
  stem: вуӵырт.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
- trans_ru: 1. перен. ворчать
-
--lexeme
- lex: выдтыны
- stem: выдт.
- gramm: V,I
- paradigm: connect_verbs-I
- trans_ru: 1. уложить спать 2. привести из стоячего положения в лежачее
+ trans_ru: ворчать
 
 -lexeme
  lex: выдыны
  stem: выд.
  gramm: V,I,intr,with_ill
  paradigm: connect_verbs-I
- trans_ru: 1. лечь спать 2. полечь
+ trans_ru: лечь спать; лечь
 
 -lexeme
  lex: выжйытыны
  stem: выжйыт.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: 1. провести время 2. перезимовать
 
 -lexeme
  lex: выжланы
  stem: выжла.
- gramm: V,II
+ gramm: V,II,intr
  paradigm: connect_verbs-II
  trans_ru: промчаться
 
@@ -3692,7 +3558,7 @@
 -lexeme
  lex: выжъяны
  stem: выжъя.
- gramm: V,II
+ gramm: V,II,tr
  paradigm: connect_verbs-II
  trans_ru: 1. вымостить, мостить 2. настлать пол, сделать настил
 
@@ -3711,13 +3577,6 @@
  trans_ru: укоренить, внедрить
 
 -lexeme
- lex: выйтыны
- stem: выйт.
- gramm: V,I,tr,with_ill
- paradigm: connect_verbs-I
- trans_ru: погрузить, утопить, потопить
-
--lexeme
  lex: выйыны
  stem: вый.|вы.
  gramm: V,I,intr,with_ill
@@ -3727,44 +3586,37 @@
 -lexeme
  lex: вылланьтыны
  stem: вылланьт.
- gramm: V,I
+ gramm: V,I,tr
  paradigm: connect_verbs-I
  trans_ru: поднять вверх
 
 -lexeme
  lex: вылтӥяны
  stem: вылтӥя.
- gramm: V,II
+ gramm: V,II,tr
  paradigm: connect_verbs-II
  trans_ru: превознести, возвеличить, преувеличить
 
 -lexeme
  lex: вылынтыны
  stem: вылынт.
- gramm: V,I
+ gramm: V,I,tr
  paradigm: connect_verbs-I
  trans_ru: 1. повышать, увеличивать 2.возносить
 
 -lexeme
  lex: выльдаськыны
  stem: выльдаськ.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: обновиться, обновляться, освежиться, освежаться
 
 -lexeme
  lex: выльдыны
  stem: выльд.
- gramm: V,I
+ gramm: V,I,tr
  paradigm: connect_verbs-I
- trans_ru: обновлять, преобразовать, преобразовывать, реконструировать
-
--lexeme
- lex: выльдытӥськыны
- stem: выльдытӥськ.
- gramm: V,I
- paradigm: connect_verbs-I
- trans_ru: обновиться, преобразоваться
+ trans_ru: обновлять, реконструировать
 
 -lexeme
  lex: выльмыны
@@ -3776,28 +3628,28 @@
 -lexeme
  lex: вынъяны
  stem: вынъя.
- gramm: V,II
+ gramm: V,II,tr
  paradigm: connect_verbs-II
  trans_ru: взять в братья, считать названым братом
 
 -lexeme
  lex: выретыны
  stem: вырет.
- gramm: V,I
+ gramm: V,I,tr
  paradigm: connect_verbs-I
  trans_ru: подвигать, двигать, пошевелить, шевелить
 
 -lexeme
  lex: выртъяны
  stem: выртъя.
- gramm: V,II
+ gramm: V,II,intr
  paradigm: connect_verbs-II
  trans_ru: текст. установить нитченки на основу
 
 -lexeme
  lex: выртыны
  stem: вырт.
- gramm: V,I
+ gramm: V,I,tr
  paradigm: connect_verbs-I
  trans_ru: двигать
 
@@ -3818,21 +3670,21 @@
 -lexeme
  lex: вытаны
  stem: выта.
- gramm: V,II
+ gramm: V,II,tr
  paradigm: connect_verbs-II
  trans_ru: глаз.: тутыны-вытыны ставить и собирать
 
 -lexeme
  lex: вытыны
  stem: выт.
- gramm: V,I
+ gramm: V,I,tr
  paradigm: connect_verbs-I
  trans_ru: глаз.: тутыны-вытыны ставить и собирать
 
 -lexeme
  lex: вӧжйыны
  stem: вӧжй.|вӧжъ.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: 1. существовать, жить-поживать 2. переселиться, переселяться
 
@@ -3846,7 +3698,7 @@
 -lexeme
  lex: вӧйӟектыны
  stem: вӧйӟект.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: выступить – о масле
 
@@ -3860,14 +3712,14 @@
 -lexeme
  lex: вӧлдыръяськыны
  stem: вӧлдыръяськ.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: 1. вести себя развязно 2. хвастаться, хвалиться 
 
 -lexeme
  lex: вӧлдэтаны
  stem: вӧлдэта.
- gramm: V,II
+ gramm: V,II,intr
  paradigm: connect_verbs-II
  trans_ru: 1. класть потолок, класть потолочины 2. делать настил
 
@@ -3881,14 +3733,14 @@
 -lexeme
  lex: вӧлонпуртаны
  stem: вӧлонпурта.
- gramm: V,II
+ gramm: V,II,tr
  paradigm: connect_verbs-II
  trans_ru: строгать скобелем
 
 -lexeme
  lex: вӧлъяны
  stem: вӧлъя.
- gramm: V,II,mult
+ gramm: V,II,mult,tr
  paradigm: connect_verbs-II
  trans_ru: 1. распространять, разносить 2.растопыривать 3. расстилать
 
@@ -3900,16 +3752,9 @@
  trans_ru: расстилать
 
 -lexeme
- lex: вӧльылыны
- stem: вӧльыл.
- gramm: V,I
- paradigm: connect_verbs-I
- trans_ru: 1. тесать, строгать 2. окорять 3. очищать дерево от сучьев 
-
--lexeme
  lex: вӧльыны
  stem: вӧл.
- gramm: V,I
+ gramm: V,I,tr
  paradigm: connect_verbs-I-soft
  trans_ru: 1. обтесать, тесать 2. окорить, окорять 3. очистить дерево от сучьев 
 
@@ -3937,21 +3782,21 @@
 -lexeme
  lex: вӧяны-кӧяны
  stem: вӧяны-кӧя.
- gramm: V,II
+ gramm: V,II,tr
  paradigm: connect_verbs-II
  trans_ru: 1. подмазать, подмазывать 2. перен. подмаслить, подмасливать
 
 -lexeme
  lex: гавылдыны
  stem: гавылд.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: выпытывать посредством вопросов, искушать
 
 -lexeme
  lex: гагактыны
  stem: гагакт.
- gramm: V,I
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: гоготать, кричать – о гусях
 
@@ -6147,13 +5992,6 @@
  trans_ru: о животных: съёжиться, свернуться, напр. стужи
 
 -lexeme
- lex: зяны
- stem: зяны.
- gramm: N,anim
- paradigm: Noun-num-vowel
- trans_ru: паук водяной
-
--lexeme
  lex: зӥбломыны
  stem: зӥблом.
  gramm: V,I,intr
@@ -6334,6 +6172,13 @@
  gramm: V,I
  paradigm: connect_verbs-I
  trans_ru: икнуть
+
+-lexeme
+ lex: икышъяны
+ stem: икышъя.
+ gramm: V,II,mult
+ paradigm: connect_verbs-I
+ trans_ru: икать
 
 -lexeme
  lex: индылыны
@@ -20048,7 +19893,7 @@
  stem: тяпышт.
  gramm: V,I
  paradigm: connect_verbs-I
- trans_ru: гл. стил. пойти? Сэре мон калленак гурт палам но тяпышто
+ trans_ru: гл. стил. пойти
 
 -lexeme
  lex: тёпаны
@@ -24503,13 +24348,6 @@
  trans_ru: нырять, нырнуть
 
 -lexeme
- lex: ыштыны
- stem: ышт.
- gramm: V,I,tr,with_ill
- paradigm: connect_verbs-I
- trans_ru: 1. потерять, терять 2. утратить, лишиться
-
--lexeme
  lex: ыштырыны
  stem: ыштыр.
  gramm: V,I
@@ -24528,7 +24366,7 @@
  stem: ыш.
  gramm: V,I,intr,with_ill
  paradigm: connect_verbs-I
- trans_ru: потеряться, затеряться, теряться, исчезнуть
+ trans_ru: потеряться, исчезнуть
 
 -lexeme
  lex: эбыльтыны

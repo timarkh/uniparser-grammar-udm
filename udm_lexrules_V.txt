@@ -821,9 +821,9 @@
  -search
   stem: вун.
   gramm: V,.*
-  gloss: .*ITER(.(?!VN))*$
+  gloss: .*CAUS.*$
  -add
-  trans_ru2: забывать
+  trans_ru2: забыть
 -lex_rule
  -search
   stem: чырткемъяськ.
@@ -1281,11 +1281,11 @@
   trans_ru2: изнемогать, выбиваться из сил
 -lex_rule
  -search
-  stem: вый.
+  lex: выйыны
   gramm: V,.*
-  gloss: .*ITER(.(?!VN))*$
+  gloss: .*CAUS.*$
  -add
-  trans_ru2: погружаться, тонуть, утопать
+  trans_ru2: погрузить, утопить
 -lex_rule
  -search
   stem: шыгырт.
@@ -3257,7 +3257,7 @@
  -search
   stem: дыш.
   gramm: V,.*
-  gloss: (.(?!VN))*$CAUS(.(^PASS))*
+  gloss: .*CAUS(.(^PASS))*
  -add
   trans_ru2: учить; выучить
 -lex_rule
@@ -3267,6 +3267,13 @@
   gloss: .*CAUS-PASS(.(?!VN))*$
  -add
   trans_ru2: учиться
+-lex_rule
+ -search
+  stem: ыш.
+  gramm: V,.*
+  gloss: .*CAUS(.(?!VN))*$
+ -add
+  trans_ru2: потерять, утратить
 -lex_rule
  -search
   stem: чильтэрт.
@@ -12721,9 +12728,9 @@
  -search
   stem: буд.
   gramm: V,.*
-  gloss: .*ITER(.(?!VN))*$
+  gloss: .*CAUS(.(?!VN))*$
  -add
-  trans_ru2: 1. вырастать, подрастать 2. прибавлять, увеличиваться
+  trans_ru2: вырастить; воспитать
 -lex_rule
  -search
   stem: ӝожом.

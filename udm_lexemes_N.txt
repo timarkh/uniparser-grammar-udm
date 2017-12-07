@@ -18404,6 +18404,13 @@
  trans_ru: 1. гротеск, 2. причудливое, фантастическое произведение
 
 -lexeme
+ lex: зяны
+ stem: зяны.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: паук водяной
+
+-lexeme
  lex: зӥбем
  stem: зӥбем.
  gramm: N
