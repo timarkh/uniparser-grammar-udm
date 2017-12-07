@@ -153,6 +153,13 @@
  trans_ru: МЧС
 
 -lexeme
+ lex: МВД
+ stem: мвд.//мвд-.
+ gramm: N,abbr,rus
+ paradigm: Noun-num-consonant
+ trans_ru: МВД
+
+-lexeme
  lex: Матра
  stem: матра.
  gramm: N,persn
@@ -33969,6 +33976,13 @@
  trans_ru: 1. загадка 2. песня 3. сказка, предание, сказание, легенда
 
 -lexeme
+ lex: маза
+ stem: маза.
+ gramm: N
+ paradigm: Noun-num-vowel
+ trans_ru: время, возможность (в составе сочетаний)
+
+-lexeme
  lex: мазак
  stem: мазак.
  gramm: N
@@ -48579,7 +48593,7 @@
 -lexeme
  lex: пушку
  stem: пушку.
- gramm: N
+ gramm: N,body
  paradigm: Noun-num-vowel
  trans_ru: брыжейка
 
@@ -54276,6 +54290,13 @@
  gramm: N,rus
  paradigm: Noun-num-vowel
  trans_ru: спичка, спички
+
+-lexeme
+ lex: СПК
+ stem: спк.//спк-.
+ gramm: N,rus,abbr
+ paradigm: Noun-num-consonant
+ trans_ru: СПК (сельскохозяйственный производственный кооператив)
 
 -lexeme
  lex: спорт

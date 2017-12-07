@@ -1749,6 +1749,13 @@
  trans_ru: выбирать
 
 -lexeme
+ lex: бырйыны
+ stem: бырй.|быръ.
+ gramm: V,I,tr
+ paradigm: connect_verbs-I
+ trans_ru: выбирать
+
+-lexeme
  lex: бурмыны
  stem: бурм.
  gramm: V,I,intr
@@ -6125,11 +6132,11 @@
  trans_ru: ругать, бранить, ругаться, браниться
 
 -lexeme
- lex: изьтыны
- stem: изьт.
+ lex: изьыны
+ stem: из.
  gramm: V,I
- paradigm: connect_verbs-I
- trans_ru: 1. уложить спать 2. усыпить
+ paradigm: connect_verbs-I-soft
+ trans_ru: спать
 
 -lexeme
  lex: изьыны-пелляны
@@ -6139,7 +6146,7 @@
  trans_ru: гипнотизировать
 
 -lexeme
- lex: изьыны-пелляны
+ lex: изьыны-веднаны
  stem: изьыны-ведна.
  gramm: V,II
  paradigm: connect_verbs-I
@@ -15578,7 +15585,7 @@
 
 -lexeme
  lex: пумиськыны
- stem: пумиськы.
+ stem: пумиськ.
  gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: встречаться

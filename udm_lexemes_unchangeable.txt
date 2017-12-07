@@ -275,7 +275,9 @@
  lex: понна
  stem: понна.
  gramm: POST
- paradigm: Empty
+ paradigm: poss-sg
+ paradigm: poss-pl
+ paradigm: Comparative
  trans_ru: для, ради, из-за
 
 -lexeme
@@ -887,7 +889,14 @@
 -lexeme
  lex: медаз
  stem: медаз.
- gramm: PART
+ gramm: PART,3
+ paradigm: Empty
+ trans_ru: показатель прохибитива (пусть не)
+
+-lexeme
+ lex: медад
+ stem: медад.
+ gramm: PART,2
  paradigm: Empty
  trans_ru: показатель прохибитива (пусть не)
 
@@ -983,6 +992,13 @@
  trans_ru: даже, ведь; зато
 
 -lexeme
+ lex: эсьмаса
+ stem: эсьмаса.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: даже, ведь; зато
+
+-lexeme
  lex: абага
  stem: абага.
  gramm: PART
@@ -1060,6 +1076,24 @@
  paradigm: Noun-case
  paradigm: Noun-case-poss-3,sg
  trans_ru: вчера
+
+-lexeme
+ lex: ӵуказе
+ stem: ӵуказе.
+ gramm: ADV
+ paradigm: Comparative
+ paradigm: Noun-case
+ paradigm: Noun-case-poss-3,sg
+ trans_ru: завтра
+
+-lexeme
+ lex: ӝытазе
+ stem: ӝытазе.
+ gramm: ADV
+ paradigm: Comparative
+ paradigm: Noun-case
+ paradigm: Noun-case-poss-3,sg
+ trans_ru: вечером
 
 -lexeme
  lex: чиндыр-вандыр
@@ -1360,6 +1394,8 @@
  stem: уно.
  gramm: ADV
  paradigm: connect_adverbs
+ paradigm: Noun-case
+ paradigm: Noun-case-poss-3,sg
  trans_ru: много, множество, несколько
 
 -lexeme
@@ -1539,7 +1575,7 @@
 
 -lexeme
  lex: туж
- stem: туж.
+ stem: туж.//тууж.//туууж.//тууууж.//туууууж.//тууууууж.//тууууууууж.//туууууууууж.
  gramm: ADV
  paradigm: connect_adverbs
  trans_ru: очень
@@ -5882,7 +5918,14 @@
  stem: юри.
  gramm: ADV
  paradigm: connect_adverbs
- trans_ru: умышленно, намеренно
+ trans_ru: умышленно, нарочно
+
+-lexeme
+ lex: юромо
+ stem: юромо.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: умышленно, нарочно
 
 -lexeme
  lex: уйлатэк
@@ -7441,8 +7484,15 @@
 -lexeme
  lex: ойдо
  stem: ойдо.
- gramm: INTRJ
- paradigm: Empty
+ gramm: PREDIC,imp,sg
+ paradigm: Comparative
+ trans_ru: пускай, пусть
+
+-lexeme
+ lex: ойдолэ
+ stem: ойдолэ.
+ gramm: PREDIC,imp,pl
+ paradigm: Comparative
  trans_ru: пускай, пусть
 
 -lexeme
@@ -7653,7 +7703,7 @@
  stem: фу.
  gramm: INTRJ
  paradigm: Empty
- trans_ru: выражающее пренебрежительное отношение или неудовольствие, досаду тьфу, фи
+ trans_ru: тьфу, фу
 
 -lexeme
  lex: э-э
@@ -8037,28 +8087,9 @@
  lex: дыръя
  stem: дыръя.
  gramm: POST
- paradigm: Empty
- trans_ru: во время
-
--lexeme
- lex: дыръя
- stem: дыръяз.
- gramm: POST,3sg
- paradigm: Empty
- trans_ru: во время
-
--lexeme
- lex: дыръя
- stem: дыръям.
- gramm: POST,1sg
- paradigm: Empty
- trans_ru: во время
-
--lexeme
- lex: дыръя
- stem: дыръяд.
- gramm: POST,2sg
- paradigm: Empty
+ paradigm: Comparative
+ paradigm: poss-sg
+ paradigm: poss-pl
  trans_ru: во время
 
 -lexeme
@@ -8149,7 +8180,19 @@
  stem: табыдча.
  gramm: ADV
  paradigm: connect_adverbs
- trans_ru: та быдӟа столь величиной, столько
+ trans_ru: такого размера, столько
+-lexeme
+ lex: табыдӟа
+ stem: табыдӟа.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: такого размера, столько
+-lexeme
+ lex: собыдӟа
+ stem: собыдӟа.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: такого размера, столько
 
 -lexeme
  lex: кеменыз
@@ -8475,7 +8518,7 @@
 
 -lexeme
  lex: конечно
- stem: конечно.
+ stem: конечно.//конешно.
  gramm: ADV
  paradigm: connect_adverbs
  trans_ru: конечно
@@ -8682,6 +8725,13 @@
  gramm: ADV,dat
  paradigm: connect_adverbs
  trans_ru: на время, ненадолго, временно
+
+-lexeme
+ lex: огдыре
+ stem: огдыре.
+ gramm: ADV,ill
+ paradigm: connect_adverbs
+ trans_ru: одновременно
 
 -lexeme
  lex: олокудня
@@ -9903,10 +9953,17 @@
 
 -lexeme
  lex: йыринуллань
- stem: йыринуллан.
+ stem: йыринуллань.
  gramm: ADV
  paradigm: connect_adverbs
  trans_ru: 1. вниз головой 2. вверх дном
+
+-lexeme
+ lex: йырин
+ stem: йырин.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: головой
 
 -lexeme
  lex: озёло
@@ -9946,6 +10003,13 @@
 -lexeme
  lex: пырак
  stem: пырак.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: насквозь, всегда
+
+-lexeme
+ lex: пыраклы
+ stem: пыраклы.
  gramm: ADV
  paradigm: connect_adverbs
  trans_ru: насквозь, всегда
@@ -10100,6 +10164,13 @@
  gramm: ADV
  paradigm: connect_adverbs
  trans_ru: невзначай
+
+-lexeme
+ lex: шӧдтэк
+ stem: шӧдтэк.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: неожиданно
 
 -lexeme
  lex: ӝык
@@ -10561,6 +10632,7 @@
  stem: ӵошен.
  gramm: ADV
  paradigm: connect_adverbs
+ paradigm: collective
  trans_ru: вместе
 
 
@@ -10839,6 +10911,13 @@
  trans_ru: жаль
 
 -lexeme
+ lex: соглаш
+ stem: соглаш.
+ gramm: PREDIC
+ paradigm: connect_adverbs
+ trans_ru: согласен, договорились
+
+-lexeme
  lex: заманда
  stem: заманда.
  gramm: ADV
@@ -11059,7 +11138,9 @@
  lex: нуназе
  stem: нуназе.
  gramm: ADV
- paradigm: Noun-num-vowel
+ paradigm: Comparative
+ paradigm: Noun-case
+ paradigm: Noun-case-poss-3,sg
  trans_ru: днём, в полдень, обед
 
 -lexeme

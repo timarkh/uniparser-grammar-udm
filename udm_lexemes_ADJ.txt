@@ -447,6 +447,13 @@
  trans_ru: кривой, гнутый, согнутый
 
 -lexeme
+ lex: кырыж
+ stem: кырыж.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: кривой
+
+-lexeme
  lex: королевской
  stem: королевско.
  gramm: ADJ,rus
@@ -774,6 +781,13 @@
  gramm: ADJ
  paradigm: connect_adjectives
  trans_ru: слащавый
+
+-lexeme
+ lex: курыт
+ stem: курыт.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: горький, едкий
 
 -lexeme
  lex: каськы
@@ -3395,6 +3409,13 @@
  trans_ru: звонкий, звучный
 
 -lexeme
+ lex: жингрес
+ stem: жингрес.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: звонкий, звучный
+
+-lexeme
  lex: типичной
  stem: типично.
  gramm: ADJ,rus
@@ -4163,6 +4184,13 @@
  gramm: ADJ
  paradigm: connect_adjectives
  trans_ru: ненасытный, обжора
+
+-lexeme
+ lex: сютэм
+ stem: сютэм.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: голодный
 
 -lexeme
  lex: вопросительной
@@ -5334,6 +5362,13 @@
  trans_ru: маленький
 
 -lexeme
+ lex: пичияк
+ stem: пичияк.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: немножко
+
+-lexeme
  lex: покчи
  stem: покчи.
  gramm: ADJ
@@ -6051,8 +6086,22 @@
  lex: поди
  stem: поди.
  gramm: PARENTH,rus
- paradigm: connect_adjectives
+ paradigm: connect_adverbs
  trans_ru: вероятно, пожалуй, может
+
+-lexeme
+ lex: может
+ stem: может.
+ gramm: PARENTH,rus
+ paradigm: connect_adverbs
+ trans_ru: может
+
+-lexeme
+ lex: просто
+ stem: просто.
+ gramm: PART,rus
+ paradigm: connect_adverbs
+ trans_ru: просто
 
 -lexeme
  lex: огбыдӟа
@@ -6060,6 +6109,34 @@
  gramm: ADJ
  paradigm: connect_adjectives
  trans_ru: одинаковый по величине
+
+-lexeme
+ lex: быдӟа
+ stem: быдӟа.
+ gramm: ADJ,rel_adj
+ paradigm: connect_adjectives
+ trans_ru: величиной равный чему-то
+
+-lexeme
+ lex: кузьда
+ stem: кузьда.
+ gramm: ADJ,rel_adj
+ paradigm: connect_adjectives
+ trans_ru: длиной равный чему-то
+
+-lexeme
+ lex: пасьта
+ stem: пасьта.
+ gramm: ADJ,rel_adj
+ paradigm: connect_adjectives
+ trans_ru: шириной равный чему-то
+
+-lexeme
+ lex: кызда
+ stem: кызда.
+ gramm: ADJ,rel_adj
+ paradigm: connect_adjectives
+ trans_ru: толщиной равный чему-то
 
 -lexeme
  lex: дурыс
@@ -7317,6 +7394,13 @@
 -lexeme
  lex: веськырес
  stem: веськырес.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: стройный, грациозный
+
+-lexeme
+ lex: веськрес
+ stem: веськрес.
  gramm: ADJ
  paradigm: connect_adjectives
  trans_ru: стройный, грациозный
@@ -10761,6 +10845,13 @@
 -lexeme
  lex: фин-угор
  stem: фин-угор.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: финно-угорский
+
+-lexeme
+ lex: финн-угор
+ stem: финн-угор.
  gramm: ADJ
  paradigm: connect_adjectives
  trans_ru: финно-угорский
@@ -14504,6 +14595,13 @@
  trans_ru: наподобие, подобно, словно, как
 
 -lexeme
+ lex: полэс
+ stem: полэс.
+ gramm: ADJ,rel_adj
+ paradigm: connect_adjectives
+ trans_ru: с одним чем-то; в каком-то количестве
+
+-lexeme
  lex: герман
  stem: герман.
  gramm: ADJ,rus
@@ -14628,6 +14726,13 @@
  gramm: ADJ
  paradigm: connect_adjectives
  trans_ru: синеватый
+
+-lexeme
+ lex: лыз
+ stem: лыз.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: синий
 
 -lexeme
  lex: материалистический

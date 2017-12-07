@@ -224,13 +224,6 @@
  trans_ru: Валентина
 
 -lexeme
- lex: Пётр
- stem: пётр.
- gramm: N,PN,persn
- paradigm: Noun-num-consonant
- trans_ru: Пётр
-
--lexeme
  lex: Светлана
  stem: светлана.
  gramm: N,PN,persn
@@ -316,7 +309,7 @@
 
 -lexeme
  lex: Семён
- stem: семён.
+ stem: семён.//семен.
  gramm: N,PN,persn
  paradigm: Noun-num-consonant
  trans_ru: Семён
@@ -603,7 +596,7 @@
 
 -lexeme
  lex: Соловьёв
- stem: соловьёв.
+ stem: соловьёв.//соловьев.
  gramm: N,PN,famn
  paradigm: Noun-num-consonant
  trans_ru: Соловьёв
@@ -925,7 +918,7 @@
 
 -lexeme
  lex: Соловьёва
- stem: соловьёва.
+ stem: соловьёва.//соловьева.
  gramm: N,PN,famn
  paradigm: Noun-num-vowel
  trans_ru: Соловьёва
@@ -4659,6 +4652,7 @@
  stem: можга.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Можга
 
 -lexeme
@@ -4708,6 +4702,7 @@
  stem: вотка.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Воткинск
 
 -lexeme
@@ -4785,6 +4780,7 @@
  stem: якшур-бӧдья.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Якшур-Бодья
 
 -lexeme
@@ -4792,6 +4788,7 @@
  stem: эгра.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Игра
 
 -lexeme
@@ -4799,6 +4796,7 @@
  stem: ува.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Ува
 
 -lexeme
@@ -4806,6 +4804,7 @@
  stem: камбарка.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Камбарка
 
 -lexeme
@@ -4813,6 +4812,7 @@
  stem: сосновка.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Сосновка
 
 -lexeme
@@ -4848,6 +4848,7 @@
  stem: сьӧлта.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Селты
 
 -lexeme
@@ -4995,6 +4996,7 @@
  stem: уфа.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Уфа
 
 -lexeme
@@ -5051,6 +5053,7 @@
  stem: колтома.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: 1. микрорайон г. Ижевска 2. отдалённая, находящаяся в стороне от центра часть деревни
 
 -lexeme
@@ -5083,13 +5086,13 @@
 
 -lexeme
  lex: Ёжгурт
- stem: ёжгурт.
+ stem: ёжгурт.//ежгурт.
  gramm: N,PN,topn
  paradigm: Noun-num-consonant
  trans_ru: Ёжево
 -lexeme
  lex: Ёлкин
- stem: ёлкин.
+ stem: ёлкин.//елкин.
  gramm: N,PN,famn
  paradigm: Noun-num-consonant
  trans_ru: Ёлкин
@@ -5236,6 +5239,7 @@
  stem: алга.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Алга
 -lexeme
  lex: Александрия
@@ -5434,6 +5438,7 @@
  stem: арча.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Арча
 -lexeme
  lex: Асадов
@@ -5869,9 +5874,10 @@
  trans_ru: Берлин
 -lexeme
  lex: Берёзовка
- stem: берёзовка.
+ stem: берёзовка.//березовка.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Берёзовка
 -lexeme
  lex: Беслан
@@ -5929,7 +5935,7 @@
  trans_ru: Блатгурт
 -lexeme
  lex: Богатырёв
- stem: богатырёв.
+ stem: богатырёв.//богатырев.
  gramm: N,PN,famn
  paradigm: Noun-num-consonant
  trans_ru: Богатырёв
@@ -6001,7 +6007,7 @@
  trans_ru: Ботникова
 -lexeme
  lex: Бочкарёв
- stem: бочкарёв.
+ stem: бочкарёв.//бочкарев.
  gramm: N,PN,famn
  paradigm: Noun-num-consonant
  trans_ru: Бочкарёв
@@ -6040,6 +6046,7 @@
  stem: бугульма.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Бугульма
 -lexeme
  lex: Будин
@@ -6259,7 +6266,7 @@
  trans_ru: Васькагурт
 -lexeme
  lex: Васёв
- stem: васёв.
+ stem: васёв.//васев.
  gramm: N,PN,famn
  paradigm: Noun-num-consonant
  trans_ru: Васёв
@@ -6466,6 +6473,7 @@
  stem: вологда.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Вологда
 -lexeme
  lex: Володин
@@ -6478,6 +6486,7 @@
  stem: воложка.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Воложка
 -lexeme
  lex: Волоколамск
@@ -6502,6 +6511,7 @@
  stem: ворпӧчинка.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Ворпочинка
 -lexeme
  lex: Воскресенск
@@ -6565,7 +6575,7 @@
  trans_ru: Вырыпаев
 -lexeme
  lex: Вӧёгурт
- stem: вӧёгурт.
+ stem: вӧёгурт.//вӧегурт.
  gramm: N,PN,topn
  paradigm: Noun-num-consonant
  trans_ru: Вӧёгурт
@@ -6592,6 +6602,7 @@
  stem: гайна.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Гайна
 -lexeme
  lex: Гайниятов
@@ -6769,7 +6780,7 @@
  trans_ru: Гирбасов
 -lexeme
  lex: Глезденёв
- stem: глезденёв.
+ stem: глезденёв.//глезденев.
  gramm: N,PN,famn
  paradigm: Noun-num-consonant
  trans_ru: Глезденёв
@@ -6826,6 +6837,7 @@
  stem: голюшурма.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Голюшурма (ныне несуществующая деревня)
 -lexeme
  lex: Гондурас
@@ -6871,7 +6883,7 @@
  trans_ru: Горбушин
 -lexeme
  lex: Грачёва
- stem: грачёва.
+ stem: грачёва.//грачева.
  gramm: N,PN,famn
  paradigm: Noun-num-vowel
  trans_ru: Грачёва
@@ -6961,7 +6973,7 @@
  trans_ru: Гуменников
 -lexeme
  lex: Гумилёв
- stem: гумилёв.
+ stem: гумилёв.//гумилев.
  gramm: N,PN,famn
  paradigm: Noun-num-consonant
  trans_ru: Гумилёв
@@ -7009,7 +7021,7 @@
  trans_ru: Давлетшин
 -lexeme
  lex: Данёгурт
- stem: данёгурт.
+ stem: данёгурт.//данегурт.
  gramm: N,PN,topn
  paradigm: Noun-num-consonant
  trans_ru: Данёгурт
@@ -7126,6 +7138,7 @@
  stem: докша.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Докша
 -lexeme
  lex: Долгов
@@ -7180,6 +7193,7 @@
  stem: дубовка.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Дубовка
 -lexeme
  lex: Дубовцев
@@ -7267,7 +7281,7 @@
  trans_ru: Дюссельдорф
 -lexeme
  lex: Дёмин
- stem: дёмин.
+ stem: дёмин.//демин.
  gramm: N,PN,famn
  paradigm: Noun-num-consonant
  trans_ru: Дёмин
@@ -7567,13 +7581,13 @@
  trans_ru: Злобин
 -lexeme
  lex: Золотарёв
- stem: золотарёв.
+ stem: золотарёв.//золотарев.
  gramm: N,PN,famn
  paradigm: Noun-num-consonant
  trans_ru: Золотарёв
 -lexeme
  lex: Золотарёва
- stem: золотарёва.
+ stem: золотарёва.//золотарева.
  gramm: N,PN,famn
  paradigm: Noun-num-vowel
  trans_ru: Золотарёва
@@ -7648,6 +7662,7 @@
  stem: ивановка.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Ивановка
 -lexeme
  lex: Ивашкин
@@ -7987,7 +8002,7 @@
  trans_ru: Каракулов
 -lexeme
  lex: Карачёв
- stem: карачёв.
+ stem: карачёв.//карачев.
  gramm: N,PN,famn
  paradigm: Noun-num-consonant
  trans_ru: Карачёв
@@ -8038,6 +8053,7 @@
  stem: карык-серма.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Карык-Серма
 -lexeme
  lex: Касаткин
@@ -8116,6 +8132,7 @@
  stem: кварса.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Кварса
 -lexeme
  lex: Кедров
@@ -8200,6 +8217,7 @@
  stem: кибъя.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Кибъя
 -lexeme
  lex: Кивар
@@ -8218,6 +8236,7 @@
  stem: кизьна.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Кизьна
 -lexeme
  lex: Киликия
@@ -8293,9 +8312,10 @@
  trans_ru: Клин
 -lexeme
  lex: Ключёвка
- stem: ключёвка.
+ stem: ключёвка.//ключевка.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Ключёвка
 -lexeme
  lex: Кобзев
@@ -8524,10 +8544,11 @@
  stem: котья.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Котья
 -lexeme
  lex: Котёгурт
- stem: котёгурт.
+ stem: котёгурт.//котегурт.
  gramm: N,PN,topn
  paradigm: Noun-num-consonant
  trans_ru: Котёгурт
@@ -8563,13 +8584,13 @@
  trans_ru: Краснодар
 -lexeme
  lex: Краснопёров
- stem: краснопёров.
+ stem: краснопёров.//красноперов.
  gramm: N,PN,famn
  paradigm: Noun-num-consonant
  trans_ru: Краснопёров
 -lexeme
  lex: Краснопёрова
- stem: краснопёрова.
+ stem: краснопёрова.//красноперова.
  gramm: N,PN,famn
  paradigm: Noun-num-vowel
  trans_ru: Краснопёрова
@@ -8629,7 +8650,7 @@
  trans_ru: Кротов
 -lexeme
  lex: Крохалёв
- stem: крохалёв.
+ stem: крохалёв.//крохалев.
  gramm: N,PN,famn
  paradigm: Noun-num-consonant
  trans_ru: Крохалёв
@@ -8718,6 +8739,12 @@
  paradigm: Noun-num-consonant
  trans_ru: Кулак-Кучес
 -lexeme
+ lex: Кумачёва
+ stem: кумачёва.//кумачева.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Кумачёва
+-lexeme
  lex: Кунгуров
  stem: кунгуров.
  gramm: N,PN,famn
@@ -8782,6 +8809,7 @@
  stem: курья.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Курья
 -lexeme
  lex: Кусогурт
@@ -9019,7 +9047,7 @@
  trans_ru: Лопохов
 -lexeme
  lex: Лошкарёва
- stem: лошкарёва.
+ stem: лошкарёва.//лошкарева.
  gramm: N,PN,famn
  paradigm: Noun-num-vowel
  trans_ru: Лошкарёва
@@ -9109,7 +9137,7 @@
  trans_ru: Лятушевич
 -lexeme
  lex: Лёвкин
- stem: лёвкин.
+ stem: лёвкин.//левкин.
  gramm: N,PN,famn
  paradigm: Noun-num-consonant
  trans_ru: Лёвкин
@@ -9118,6 +9146,7 @@
  stem: лӧзя.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Лӧзя
 -lexeme
  lex: Магдебург
@@ -9274,6 +9303,7 @@
  stem: медла.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Медла
 -lexeme
  lex: Мексика
@@ -9607,13 +9637,13 @@
  trans_ru: Невоструева
 -lexeme
  lex: Нефёдов
- stem: нефёдов.
+ stem: нефёдов.//нефедов.
  gramm: N,PN,famn
  paradigm: Noun-num-consonant
  trans_ru: Нефёдов
 -lexeme
  lex: Нефёдова
- stem: нефёдова.
+ stem: нефёдова.//нефедова.
  gramm: N,PN,famn
  paradigm: Noun-num-vowel
  trans_ru: Нефёдова
@@ -9718,6 +9748,7 @@
  stem: нурма.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Нурма
 -lexeme
  lex: Нутфуллин
@@ -9730,12 +9761,14 @@
  stem: ныргында.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Ныргында
 -lexeme
  lex: Ныша
  stem: ныша.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Ныша
 -lexeme
  lex: Нью-Йорк
@@ -9793,16 +9826,23 @@
  trans_ru: Одесса
 -lexeme
  lex: Озёрка
- stem: озёрка.
+ stem: озёрка.//озерка.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Озёрка
 -lexeme
  lex: Озёрки
- stem: озёрки.
+ stem: озёрки.//озерки.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
  trans_ru: Озёрки
+-lexeme
+ lex: Оки
+ stem: оки.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Оки
 -lexeme
  lex: Октябрьский
  stem: октябрьски.
@@ -9820,6 +9860,7 @@
  stem: омутница.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Омутница
 -lexeme
  lex: Онегин
@@ -9907,7 +9948,7 @@
  trans_ru: Пантелеева
 -lexeme
  lex: Панфёров
- stem: панфёров.
+ stem: панфёров.//панферов.
  gramm: N,PN,famn
  paradigm: Noun-num-consonant
  trans_ru: Панфёров
@@ -9919,7 +9960,7 @@
  trans_ru: Парсьгурт
 -lexeme
  lex: Парфёнов
- stem: парфёнов.
+ stem: парфёнов.//парфенов.
  gramm: N,PN,famn
  paradigm: Noun-num-consonant
  trans_ru: Парфёнов
@@ -10006,6 +10047,7 @@
  stem: перма.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Пермь
 -lexeme
  lex: Пермяков
@@ -10066,6 +10108,7 @@
  stem: петунька.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Петунька
 -lexeme
  lex: Петухи
@@ -10189,7 +10232,7 @@
  trans_ru: Платонова
 -lexeme
  lex: Плетенёв
- stem: плетенёв.
+ stem: плетенёв.//плетенев.
  gramm: N,PN,famn
  paradigm: Noun-num-consonant
  trans_ru: Плетенёв
@@ -10300,6 +10343,7 @@
  stem: порва.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Порва
 -lexeme
  lex: Порвай
@@ -10435,7 +10479,7 @@
  trans_ru: Псковск
 -lexeme
  lex: Пугачёв
- stem: пугачёв.
+ stem: пугачёв.//пугачев.
  gramm: N,PN,famn
  paradigm: Noun-num-consonant
  trans_ru: Пугачёв
@@ -10516,6 +10560,7 @@
  stem: пыӵанка.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Пычанки
 -lexeme
  lex: Пыӵас
@@ -10576,6 +10621,7 @@
  stem: ревда.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Ревда
 -lexeme
  lex: Регенсбург
@@ -10903,7 +10949,7 @@
  trans_ru: Семакина
 -lexeme
  lex: Семёнович
- stem: семёнович.
+ stem: семёнович.//семенович.
  gramm: N,PN,patrn
  paradigm: Noun-num-consonant
  trans_ru: Семёнович
@@ -11113,7 +11159,7 @@
  trans_ru: Соловки
 -lexeme
  lex: Соловьёв
- stem: соловьёв.
+ stem: соловьёв.//соловьев.
  gramm: N,PN,famn
  paradigm: Noun-num-consonant
  trans_ru: Соловьёв
@@ -11179,7 +11225,7 @@
  trans_ru: Степанович
 -lexeme
  lex: Степанёнки
- stem: степанёнки.
+ stem: степанёнки.//степаненки.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
  trans_ru: Степанёнки
@@ -11272,6 +11318,7 @@
  stem: сыга.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Сыга
 -lexeme
  lex: Сызрань
@@ -11293,7 +11340,7 @@
  trans_ru: Сырьезь
 -lexeme
  lex: Сычёв
- stem: сычёв.
+ stem: сычёв.//сычев.
  gramm: N,PN,famn
  paradigm: Noun-num-consonant
  trans_ru: Сычёв
@@ -11347,7 +11394,7 @@
  trans_ru: Сюсек
 -lexeme
  lex: Сёва
- stem: сёва.
+ stem: сёва.//сева.
  gramm: N,PN,famn
  paradigm: Noun-num-vowel
  trans_ru: Сёва
@@ -11626,6 +11673,7 @@
  stem: тукля.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Тукля
 -lexeme
  lex: Тукмачи
@@ -11749,7 +11797,7 @@
  trans_ru: Тютин
 -lexeme
  lex: Тёркин
- stem: тёркин.
+ stem: тёркин.//теркин.
  gramm: N,PN,famn
  paradigm: Noun-num-consonant
  trans_ru: Тёркин
@@ -11917,9 +11965,10 @@
  trans_ru: Ушияров
 -lexeme
  lex: Фалёнка
- stem: фалёнка.
+ stem: фалёнка.//фаленка.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Фалёнка
 -lexeme
  lex: Фархутдинов
@@ -11976,8 +12025,14 @@
  paradigm: Noun-num-vowel
  trans_ru: Фрунзе
 -lexeme
+ lex: Фёдор
+ stem: фёдор.//федор.
+ gramm: N,PN,persn
+ paradigm: Noun-num-consonant
+ trans_ru: Фёдор
+-lexeme
  lex: Фёдорович
- stem: фёдорович.
+ stem: фёдорович.//федорович.
  gramm: N,PN,patrn
  paradigm: Noun-num-consonant
  trans_ru: Фёдорович
@@ -12043,7 +12098,7 @@
  trans_ru: Харьков
 -lexeme
  lex: Хмелёв
- stem: хмелёв.
+ stem: хмелёв.//хмелев.
  gramm: N,PN,famn
  paradigm: Noun-num-consonant
  trans_ru: Хмелёв
@@ -12091,13 +12146,13 @@
  trans_ru: Христолюбова
 -lexeme
  lex: Хрулёва
- stem: хрулёва.
+ stem: хрулёва.//хрулева.
  gramm: N,PN,famn
  paradigm: Noun-num-vowel
  trans_ru: Хрулёва
 -lexeme
  lex: Хрущёв
- stem: хрущёв.
+ stem: хрущёв.//хрущев.
  gramm: N,PN,famn
  paradigm: Noun-num-consonant
  trans_ru: Хрущёв
@@ -12136,6 +12191,7 @@
  stem: чабъя.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Чабья
 -lexeme
  lex: Чажай
@@ -12190,10 +12246,11 @@
  stem: чепца.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Чепца (река)
 -lexeme
  lex: Червлёное
- stem: червлёное.
+ stem: червлёное.//червленое.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
  trans_ru: Червлёное
@@ -12235,7 +12292,7 @@
  trans_ru: Чернышев
 -lexeme
  lex: Четкарёв
- stem: четкарёв.
+ stem: четкарёв.//четкарев.
  gramm: N,PN,famn
  paradigm: Noun-num-consonant
  trans_ru: Четкарёв
@@ -12616,6 +12673,7 @@
  stem: шудзя.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Шудзя
 -lexeme
  lex: Шукшин
@@ -12667,7 +12725,7 @@
  trans_ru: Щепкин
 -lexeme
  lex: Щёткин
- stem: щёткин.
+ stem: щёткин.//щеткин.
  gramm: N,PN,famn
  paradigm: Noun-num-consonant
  trans_ru: Щёткин
@@ -12960,6 +13018,12 @@
  paradigm: Noun-num-ija
  trans_ru: Авия
 -lexeme
+ lex: Августа
+ stem: августа.
+ gramm: N,PN,persn
+ paradigm: Noun-num-vowel
+ trans_ru: Августа
+-lexeme
  lex: Авраам
  stem: авраам.
  gramm: N,PN,persn
@@ -13054,6 +13118,7 @@
  stem: аксакпочинка.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Аксакпочинка
 -lexeme
  lex: Аксакшур
@@ -13129,13 +13194,13 @@
  trans_ru: Алябьево
 -lexeme
  lex: Алёна
- stem: алёна.
+ stem: алёна.//алена.
  gramm: N,PN,persn
  paradigm: Noun-num-vowel
  trans_ru: Алёна
 -lexeme
  lex: Алёша
- stem: алёша.
+ stem: алёша.//алеша.
  gramm: N,PN,persn
  paradigm: Noun-num-vowel
  trans_ru: Алёша
@@ -13227,7 +13292,7 @@
  lex: Апухтинской
  stem: апухтинско.
  gramm: N,PN,famn
- paradigm: Noun-num
+ paradigm: Noun-num-j
  trans_ru: Апухтинский
 -lexeme
  lex: Арбайка
@@ -13303,7 +13368,7 @@
  trans_ru: Артур
 -lexeme
  lex: Артём
- stem: артём.
+ stem: артём.//артем.
  gramm: N,PN,persn
  paradigm: Noun-num-consonant
  trans_ru: Артём
@@ -13570,12 +13635,13 @@
  stem: бигра.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Бигра
 -lexeme
  lex: Бисарой
  stem: бисаро.
  gramm: N,PN,topn
- paradigm: Noun-num
+ paradigm: Noun-num-j
  trans_ru: Бисарой
 -lexeme
  lex: Битлз
@@ -13600,6 +13666,7 @@
  stem: бобья.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Бобья
 -lexeme
  lex: Богатырка
@@ -13624,6 +13691,7 @@
  stem: бодья.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Бодья
 -lexeme
  lex: Бокий
@@ -13738,6 +13806,7 @@
  stem: булда.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Булда
 -lexeme
  lex: Буммаш
@@ -13780,10 +13849,11 @@
  stem: бызара.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Старый Кармыж
 -lexeme
  lex: Бьёрндален
- stem: бьёрндален.
+ stem: бьёрндален.//бьерндален.
  gramm: N,PN,famn
  paradigm: Noun-num-consonant
  trans_ru: Бьёрндален
@@ -13792,6 +13862,7 @@
  stem: бӧдья.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Бодья
 -lexeme
  lex: Вавилон
@@ -13857,7 +13928,7 @@
  lex: Валой
  stem: вало.
  gramm: N,PN,topn
- paradigm: Noun-num
+ paradigm: Noun-num-j
  trans_ru: Валой (река)
 -lexeme
  lex: Валя
@@ -13948,6 +14019,7 @@
  stem: ватка.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Вятка
 -lexeme
  lex: Ваткакар
@@ -14002,7 +14074,14 @@
  stem: венья.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Венья
+-lexeme
+ lex: Вероника
+ stem: вероника.
+ gramm: N,PN,persn
+ paradigm: Noun-num-vowel
+ trans_ru: Вероника
 -lexeme
  lex: Верди
  stem: верди.
@@ -14133,7 +14212,7 @@
  lex: Вожой
  stem: вожо.
  gramm: N,PN,topn
- paradigm: Noun-num
+ paradigm: Noun-num-j
  trans_ru: Вожой
 -lexeme
  lex: Вознесенский
@@ -14200,12 +14279,14 @@
  stem: вортча.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Вортча
 -lexeme
  lex: Ворца
  stem: ворца.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Ворца
 -lexeme
  lex: Воръявай
@@ -14254,6 +14335,7 @@
  stem: вятка.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Вятка
 -lexeme
  lex: Гавана
@@ -14271,7 +14353,7 @@
  lex: Гаевой
  stem: гаево.
  gramm: N,PN,famn
- paradigm: Noun-num
+ paradigm: Noun-num-j
  trans_ru: Гаевый
 -lexeme
  lex: Газа
@@ -14305,9 +14387,9 @@
  trans_ru: Галя
 -lexeme
  lex: Галилея
- stem: галилея.
+ stem: галиле.
  gramm: N,PN,topn
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-ija
  trans_ru: Галилея
 -lexeme
  lex: Галинор
@@ -14409,7 +14491,7 @@
  lex: Гирой
  stem: гиро.
  gramm: N,PN,persn
- paradigm: Noun-num
+ paradigm: Noun-num-j
  trans_ru: Гирой
 -lexeme
  lex: Гирыш
@@ -14458,6 +14540,7 @@
  stem: гожня.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Гожня
 -lexeme
  lex: Голливуд
@@ -14587,7 +14670,7 @@
  trans_ru: Гулейшур
 -lexeme
  lex: Гулёково
- stem: гулёково.
+ stem: гулёково.//гулеково.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
  trans_ru: Гулёково
@@ -14709,7 +14792,7 @@
  lex: Дзержинской
  stem: дзержинско.
  gramm: N,PN,famn
- paradigm: Noun-num
+ paradigm: Noun-num-j
  trans_ru: Дзержинский
 -lexeme
  lex: Дзякино
@@ -14764,12 +14847,14 @@
  stem: докъя.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Докъя
 -lexeme
  lex: Докья
  stem: докья.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Докья
 -lexeme
  lex: Домокош
@@ -14823,7 +14908,7 @@
  lex: Достоевской
  stem: достоевско.
  gramm: N,PN,famn
- paradigm: Noun-num
+ paradigm: Noun-num-j
  trans_ru: Достоевский
 -lexeme
  lex: Дрезден
@@ -14869,7 +14954,7 @@
  trans_ru: Люк
 -lexeme
  lex: Дёбы
- stem: дёбы.
+ stem: дёбы.//дебы.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
  trans_ru: Дёбы
@@ -14914,6 +14999,7 @@
  stem: елабуга.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Елабуга
 -lexeme
  lex: Елиаким
@@ -15031,7 +15117,7 @@
  trans_ru: Захаровна
 -lexeme
  lex: Звёздочка
- stem: звёздочка.
+ stem: звёздочка.//звездочка.
  gramm: N,PN
  paradigm: Noun-num-vowel
  trans_ru: Звёздочка
@@ -15118,6 +15204,7 @@
  stem: зюзя.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Зюзя
 -lexeme
  lex: Зянкино
@@ -15154,6 +15241,7 @@
  stem: игра.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Игра
 -lexeme
  lex: Иерихон
@@ -15406,6 +15494,7 @@
  stem: итчидокъя.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Итчидокъя
 -lexeme
  lex: Итым
@@ -15421,9 +15510,9 @@
  trans_ru: Иуда
 -lexeme
  lex: Иудея
- stem: иудея.
+ stem: иуде.
  gramm: N,PN,topn
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-ija
  trans_ru: Иудея
 -lexeme
  lex: Йожеф
@@ -15583,7 +15672,7 @@
  trans_ru: Капур
 -lexeme
  lex: Карасёво
- stem: карасёво.
+ stem: карасёво.//карасево.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
  trans_ru: Карасёво
@@ -15778,6 +15867,7 @@
  stem: кибья.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Кибья
 -lexeme
  lex: Кигбаево
@@ -15838,6 +15928,7 @@
  stem: кирга.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Кирга
 -lexeme
  lex: Киргизия
@@ -16129,7 +16220,7 @@
  trans_ru: Кузямувыр
 -lexeme
  lex: Кузёбай
- stem: кузёба.
+ stem: кузёба.//кузеба.
  gramm: N,PN,persn
  paradigm: Noun-num-j
  trans_ru: Кузёбай
@@ -16165,7 +16256,7 @@
  trans_ru: Курегово
 -lexeme
  lex: Курнё
- stem: курнё.
+ stem: курнё.//курне.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
  trans_ru: Пустополье
@@ -16210,12 +16301,14 @@
  stem: кыква.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Кыква
 -lexeme
  lex: Кыпка
  stem: кыпка.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Кыпка
 -lexeme
  lex: Кычино
@@ -16270,6 +16363,7 @@
  stem: лекма.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Лекма (река)
 -lexeme
  lex: Лельвиж
@@ -16313,6 +16407,12 @@
  gramm: N,PN,persn
  paradigm: Noun-num-vowel
  trans_ru: Лида
+-lexeme
+ lex: Лидия
+ stem: лиди.
+ gramm: N,PN,persn
+ paradigm: Noun-num-ija
+ trans_ru: Лидия
 -lexeme
  lex: Лиза
  stem: лиза.
@@ -16360,12 +16460,14 @@
  stem: луша.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Луша
 -lexeme
  lex: Лынга
  stem: лынга.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Лынга
 -lexeme
  lex: Льӧльшур
@@ -16423,25 +16525,25 @@
  trans_ru: Ляпино
 -lexeme
  lex: Лёгор
- stem: лёгор.
+ stem: лёгор.//легор.
  gramm: N,PN,persn
  paradigm: Noun-num-consonant
  trans_ru: Егор
 -lexeme
  lex: Лёнид
- stem: лёнид.
+ stem: лёнид.//ленид.
  gramm: N,PN,persn
  paradigm: Noun-num-consonant
  trans_ru: Леонид
 -lexeme
  lex: Лёня
- stem: лёня.
+ stem: лёня.//леня.
  gramm: N,PN,persn
  paradigm: Noun-num-vowel
  trans_ru: Лёня
 -lexeme
  lex: Лёша
- stem: лёша.
+ stem: лёша.//леша.
  gramm: N,PN,persn
  paradigm: Noun-num-vowel
  trans_ru: Лёша
@@ -16524,6 +16626,12 @@
  paradigm: Noun-num-vowel
  trans_ru: Маня
 -lexeme
+ lex: Маргарита
+ stem: маргарита.
+ gramm: N,PN,persn
+ paradigm: Noun-num-vowel
+ trans_ru: Маргарита
+-lexeme
  lex: Марк
  stem: марк.
  gramm: N,PN,persn
@@ -16541,6 +16649,12 @@
  gramm: N,PN,famn
  paradigm: Noun-num-consonant
  trans_ru: Маркс
+-lexeme
+ lex: Марий
+ stem: марий.
+ gramm: N,PN,topn
+ paradigm: Empty
+ trans_ru: Марий (Эл)
 -lexeme
  lex: Марпок
  stem: марпок.
@@ -16744,6 +16858,7 @@
  stem: монья.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Монья
 -lexeme
  lex: Мопассан
@@ -16846,12 +16961,14 @@
  stem: мӧння.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Монья
 -lexeme
  lex: Мӧнья
  stem: мӧнья.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Монья
 -lexeme
  lex: Наассон
@@ -17050,12 +17167,14 @@
  stem: норья.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Норья
 -lexeme
  lex: Нылга
  stem: нылга.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Нылга
 -lexeme
  lex: Нынек
@@ -17074,6 +17193,7 @@
  stem: нырья.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Нырья
 -lexeme
  lex: Ньютон
@@ -17085,7 +17205,7 @@
  lex: Нэрой
  stem: нэро.
  gramm: N,PN,topn
- paradigm: Noun-num
+ paradigm: Noun-num-j
  trans_ru: Нэрой
 -lexeme
  lex: Обллит
@@ -17109,7 +17229,7 @@
  lex: Оддой
  stem: оддо.
  gramm: N,PN,persn
- paradigm: Noun-num
+ paradigm: Noun-num-j
  trans_ru: Евдоким
 -lexeme
  lex: Ожмос
@@ -17161,7 +17281,7 @@
  trans_ru: Олып
 -lexeme
  lex: Олёш
- stem: олёш.
+ stem: олёш.//олеш.
  gramm: N,PN,persn
  paradigm: Noun-num-consonant
  trans_ru: Алёша
@@ -17193,11 +17313,11 @@
  lex: Орлой
  stem: орло.
  gramm: N,PN,topn
- paradigm: Noun-num
+ paradigm: Noun-num-j
  trans_ru: Орлово
 -lexeme
  lex: Орлёнок
- stem: орлёнок.
+ stem: орлёнок.//орленок.
  gramm: N,PN
  paradigm: Noun-num-consonant
  trans_ru: Орлёнок
@@ -17350,12 +17470,14 @@
  stem: пельга.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Пельга
 -lexeme
  lex: Пенза
  stem: пенза.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Пенза
 -lexeme
  lex: Пеппи
@@ -17431,7 +17553,7 @@
  trans_ru: Петя
 -lexeme
  lex: Петёфи
- stem: петёфи.
+ stem: петёфи.//петефи.
  gramm: N,PN,famn
  paradigm: Noun-num-vowel
  trans_ru: Петёфи
@@ -17617,7 +17739,7 @@
  trans_ru: Пруссия
 -lexeme
  lex: Пугачёво
- stem: пугачёво.
+ stem: пугачёво.//пугачево.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
  trans_ru: Пугачёво
@@ -17626,10 +17748,11 @@
  stem: пудга.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Пудга
 -lexeme
  lex: Пуклё
- stem: пуклё.
+ stem: пуклё.//пукле.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
  trans_ru: Пуклё
@@ -17656,6 +17779,7 @@
  stem: пыбья.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Пыбья
 -lexeme
  lex: Пычас
@@ -17668,6 +17792,7 @@
  stem: пышма.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Пышма
 -lexeme
  lex: Пэйвалехт
@@ -17677,7 +17802,7 @@
  trans_ru: Пэйвалехт
 -lexeme
  lex: Пётр
- stem: пётр.
+ stem: пётр.//петр.
  gramm: N,PN,persn
  paradigm: Noun-num-consonant
  trans_ru: Пётр
@@ -17962,6 +18087,7 @@
  stem: салья.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Салья
 -lexeme
  lex: Самара
@@ -18087,7 +18213,7 @@
  lex: Свирской
  stem: свирско.
  gramm: N,PN,famn
- paradigm: Noun-num
+ paradigm: Noun-num-j
  trans_ru: Свирский
 -lexeme
  lex: Свобода
@@ -18112,12 +18238,14 @@
  stem: селта.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Селты
 -lexeme
  lex: Селычка
  stem: селычка.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Селычка
 -lexeme
  lex: Семон
@@ -18127,7 +18255,7 @@
  trans_ru: Семён
 -lexeme
  lex: Семёновна
- stem: семёновна.
+ stem: семёновна.//семеновна.
  gramm: N,PN,patrn
  paradigm: Noun-num-vowel
  trans_ru: Семёновна
@@ -18213,7 +18341,7 @@
  lex: Симой
  stem: симо.
  gramm: N,PN,persn
- paradigm: Noun-num
+ paradigm: Noun-num-j
  trans_ru: Симой
 -lexeme
  lex: Симон
@@ -18250,6 +18378,7 @@
  stem: слудка.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Слудка
 -lexeme
  lex: Современник
@@ -18286,6 +18415,7 @@
  stem: сосновка.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Сосновка
 -lexeme
  lex: София
@@ -18406,6 +18536,7 @@
  stem: сырья.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Сырья
 -lexeme
  lex: сьӧдпи
@@ -18447,7 +18578,7 @@
  lex: Таевой
  stem: таево.
  gramm: N,PN,famn
- paradigm: Noun-num
+ paradigm: Noun-num-j
  trans_ru: Таевый
 -lexeme
  lex: Таиланд
@@ -18595,7 +18726,7 @@
  trans_ru: Тольятти
 -lexeme
  lex: Тольён
- stem: тольён.
+ stem: тольён.//тольен.
  gramm: N,PN,topn
  paradigm: Noun-num-consonant
  trans_ru: Тольён
@@ -18645,7 +18776,7 @@
  lex: Трубецкой
  stem: трубецко.
  gramm: N,PN,famn
- paradigm: Noun-num
+ paradigm: Noun-num-j
  trans_ru: Трубецкий
 -lexeme
  lex: Тува
@@ -18682,12 +18813,13 @@
  stem: турья.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Турья
 -lexeme
  lex: Тутой
  stem: туто.
  gramm: N,PN,persn
- paradigm: Noun-num
+ paradigm: Noun-num-j
  trans_ru: Тутой
 -lexeme
  lex: Тыва
@@ -18705,7 +18837,7 @@
  lex: Тылой
  stem: тыло.
  gramm: N,PN,topn
- paradigm: Noun-num
+ paradigm: Noun-num-j
  trans_ru: Тылой
 -lexeme
  lex: Тэремшур
@@ -18730,6 +18862,7 @@
  stem: тяма.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Тяма
 -lexeme
  lex: Тӥгырмен
@@ -18903,7 +19036,7 @@
  lex: Уренгой
  stem: уренго.
  gramm: N,PN,topn
- paradigm: Noun-num
+ paradigm: Noun-num-j
  trans_ru: Уренгой
 -lexeme
  lex: Урняк
@@ -19009,7 +19142,7 @@
  trans_ru: Фучик
 -lexeme
  lex: Фёдоровна
- stem: фёдоровна.
+ stem: фёдоровна.//федоровна.
  gramm: N,PN,patrn
  paradigm: Noun-num-vowel
  trans_ru: Фёдоровна
@@ -19041,7 +19174,7 @@
  lex: Харачой
  stem: харачо.
  gramm: N,PN,topn
- paradigm: Noun-num
+ paradigm: Noun-num-j
  trans_ru: Харачой
 -lexeme
  lex: Харвикен
@@ -19126,12 +19259,14 @@
  stem: ципья.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Ципья
 -lexeme
  lex: Чабья
  stem: чабья.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Чабья
 -lexeme
  lex: Чавес
@@ -19143,7 +19278,7 @@
  lex: Чайковской
  stem: чайковско.
  gramm: N,PN,famn
- paradigm: Noun-num
+ paradigm: Noun-num-j
  trans_ru: Чайковский
 -lexeme
  lex: часть
@@ -19233,7 +19368,7 @@
  lex: Чинмой
  stem: чинмо.
  gramm: N,PN,famn
- paradigm: Noun-num
+ paradigm: Noun-num-j
  trans_ru: Чинмый
 -lexeme
  lex: Чокал
@@ -19258,6 +19393,7 @@
  stem: чудна.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Чиргино
 -lexeme
  lex: Чудья
@@ -19282,6 +19418,7 @@
  stem: чура.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Чура
 -lexeme
  lex: Чурашур
@@ -19300,6 +19437,7 @@
  stem: чурма.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Чурма
 -lexeme
  lex: Чутыр
@@ -19353,8 +19491,8 @@
  lex: Швыдкой
  stem: швыдко.
  gramm: N,PN,famn
- paradigm: Noun-num
- trans_ru: Швыдкий
+ paradigm: Noun-num-j
+ trans_ru: Швыдкой
 -lexeme
  lex: Шевченко
  stem: шевченко.
@@ -19408,6 +19546,7 @@
  stem: шуда.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Шуда
 -lexeme
  lex: Шудек
@@ -19420,6 +19559,7 @@
  stem: шудья.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Шудья
 -lexeme
  lex: Шуман
@@ -19474,6 +19614,7 @@
  stem: эбга.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Эбга
 -lexeme
  lex: Эграстрой
@@ -19500,6 +19641,12 @@
  paradigm: Noun-num-vowel
  trans_ru: Эктоника (название дискотеки)
 -lexeme
+ lex: Элина
+ stem: элина.
+ gramm: N,PN,persn
+ paradigm: Noun-num-vowel
+ trans_ru: Элина
+-lexeme
  lex: Эльмира
  stem: эльмира.
  gramm: N,PN,persn
@@ -19522,12 +19669,14 @@
  stem: юбера.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Юбера
 -lexeme
  lex: Югра
  stem: югра.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Югра
 -lexeme
  lex: Юдчино
@@ -19545,13 +19694,14 @@
  lex: Юльской
  stem: юльско.
  gramm: N,PN,topn
- paradigm: Noun-num
+ paradigm: Noun-num-j
  trans_ru: Юльской
 -lexeme
  lex: Юнда
  stem: юнда.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Юнда
 -lexeme
  lex: Юнды
@@ -19612,6 +19762,7 @@
  stem: яган-докъя.//яган-докья.
  gramm: N,PN,topn
  paradigm: Noun-num-consonant
+ paradigm: Noun-case-la
  trans_ru: Яган-Докъя
 -lexeme
  lex: Ягдор
@@ -19681,7 +19832,7 @@
  trans_ru: Ятчи
 -lexeme
  lex: Ёжево
- stem: ёжево.
+ stem: ёжево.//ежево.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
  trans_ru: Ёжево
@@ -19693,7 +19844,7 @@
  trans_ru: район
 -lexeme
  lex: Ёрыш
- stem: ёрыш.
+ stem: ёрыш.//ерыш.
  gramm: N,PN,persn
  paradigm: Noun-num-consonant
  trans_ru: Ёрыш
@@ -19714,6 +19865,7 @@
  stem: ӟозлуд-какся.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Зяглуд-Какся
 -lexeme
  lex: Ӟунняшур
@@ -19732,6 +19884,7 @@
  stem: ӟатча.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Варзи-Ятчи
 -lexeme
  lex: Ӟеглуд
@@ -19750,12 +19903,14 @@
  stem: ӟумъя.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Ӟумъя
 -lexeme
  lex: Ӟуння
  stem: ӟуння.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Юмга-Омга
 -lexeme
  lex: Ӟӧтым

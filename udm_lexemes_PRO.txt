@@ -467,6 +467,20 @@
  trans_ru: сколько угодно
 
 -lexeme
+ lex: олокӧня
+ stem: олокӧня.
+ gramm: PRO
+ paradigm: Comparative
+ trans_ru: не знаю сколько
+
+-lexeme
+ lex: нокӧня
+ stem: нокӧня.
+ gramm: PRO
+ paradigm: Comparative
+ trans_ru: нисколько
+
+-lexeme
  lex: сомында
  stem: сомында.
  gramm: PRO

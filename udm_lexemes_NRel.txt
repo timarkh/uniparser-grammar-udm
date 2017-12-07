@@ -200,6 +200,7 @@
  stem: пушк.
  gramm: N,rel_n
  paradigm: Noun-num-consonant
+ paradigm: Noun-num-consonant-y
  paradigm: Noun-case-ill-y
  trans_ru: внутренность; внутри
 
@@ -216,6 +217,7 @@
  stem: кусп.
  gramm: N,rel_n
  paradigm: Noun-num-consonant
+ paradigm: Noun-num-consonant-y
  paradigm: Noun-case-ill-y
  trans_ru: промежуток; между
 
