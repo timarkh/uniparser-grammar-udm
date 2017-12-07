@@ -354,7 +354,7 @@
  lex: кин
  stem: кин.
  gramm: PRO
- paradigm: Noun-num-consonant
+ paradigm: Noun-mar
  paradigm: Noun-num-soft
  trans_ru: кто
 
@@ -369,7 +369,7 @@
  lex: нокин
  stem: нокин.
  gramm: PRO
- paradigm: Noun-num-consonant
+ paradigm: Noun-mar
  paradigm: Noun-num-soft
  trans_ru: никто
 
@@ -377,7 +377,7 @@
  lex: котькин
  stem: котькин.
  gramm: PRO
- paradigm: Noun-num-consonant
+ paradigm: Noun-mar
  paradigm: Noun-num-soft
  trans_ru: кто угодно
 
@@ -385,7 +385,7 @@
  lex: олокин
  stem: олокин.
  gramm: PRO
- paradigm: Noun-num-consonant
+ paradigm: Noun-mar
  paradigm: Noun-num-soft
  trans_ru: не знаю кто
 
@@ -436,14 +436,21 @@
  stem: оломар.
  gramm: PRO
  paradigm: Noun-mar
- trans_ru: что-то
+ trans_ru: что-то, не знаю что
 
 -lexeme
  lex: ма
  stem: ма.
  gramm: PRO
- paradigm: Empty
+ paradigm: Noun-mar
  trans_ru: что
+
+-lexeme
+ lex: олома
+ stem: олома.
+ gramm: PRO
+ paradigm: Noun-mar
+ trans_ru: что-то, не знаю что
 
 -lexeme
  lex: кӧня
@@ -519,56 +526,28 @@
  lex: котькуд
  stem: котькуд.
  gramm: PRO
- paradigm: Noun-num-consonant
+ paradigm: Noun-mar
  trans_ru: который угодно
 
 -lexeme
  lex: олокуд
  stem: олокуд.
  gramm: PRO
- paradigm: Noun-num-consonant
+ paradigm: Noun-mar
  trans_ru: не знаю который
 
 -lexeme
  lex: нокуд
  stem: нокуд.
  gramm: PRO
- paradigm: Noun-num-consonant
- trans_ru: никоторый
-
--lexeme
- lex: котькуд
- stem: котькудӥз.
- gramm: PRO,sg,3sg
- paradigm: Noun-case
- trans_ru: который угодно
-
--lexeme
- lex: олокуд
- stem: олокудӥз.
- gramm: PRO,sg,3sg
- paradigm: Noun-case
- trans_ru: не знаю который
-
--lexeme
- lex: нокуд
- stem: нокудӥз.
- gramm: PRO,sg,3sg
- paradigm: Noun-case
+ paradigm: Noun-mar
  trans_ru: никоторый
 
 -lexeme
  lex: куд
  stem: куд.
  gramm: PRO
- paradigm: Noun-num-consonant
- trans_ru: который
-
--lexeme
- lex: куд
- stem: кудӥз.
- gramm: PRO,sg,3sg
- paradigm: Noun-case
+ paradigm: Noun-mar
  trans_ru: который
 
 -lexeme
@@ -625,21 +604,7 @@
  lex: та
  stem: та.
  gramm: PRO
- paradigm: Noun-num-vowel
- trans_ru: тот
-
--lexeme
- lex: та
- stem: таин.
- gramm: PRO,sg,ins
- paradigm: Empty
- trans_ru: тот
-
--lexeme
- lex: та
- stem: таиз.
- gramm: PRO,sg,3sg
- paradigm: Noun-case
+ paradigm: Noun-mar
  trans_ru: тот
 
 -lexeme
@@ -752,21 +717,21 @@
  stem: кытын.
  gramm: PRO,loc
  paradigm: Empty
- trans_ru: куда
+ trans_ru: где
 
 -lexeme
  lex: олокытын
  stem: олокытын.
  gramm: PRO,loc
  paradigm: Empty
- trans_ru: куда-то
+ trans_ru: где-то, не знаю где
 
 -lexeme
  lex: котькытын
  stem: котькытын.
  gramm: PRO,loc
  paradigm: Empty
- trans_ru: куда угодно
+ trans_ru: где угодно
 
 -lexeme
  lex: нокытын
@@ -808,7 +773,7 @@
  stem: олокытысь.//олокытӥсь.
  gramm: PRO,el
  paradigm: Empty
- trans_ru: откуда-то
+ trans_ru: откуда-то, не знаю откуда
 
 -lexeme
  lex: котькытысь
@@ -857,7 +822,7 @@
  stem: олокытысен.//олокытӥсен.
  gramm: PRO,egr
  paradigm: Empty
- trans_ru: откуда-то
+ trans_ru: откуда-то, не знаю откуда
 
 -lexeme
  lex: котькытысен
@@ -906,7 +871,7 @@
  stem: олокытчыозь.
  gramm: PRO,egr
  paradigm: Empty
- trans_ru: докуда-то
+ trans_ru: докуда-то, не знаю докуда
 
 -lexeme
  lex: котькытчыозь
@@ -955,7 +920,7 @@
  stem: олокытӥ.//олокыти.
  gramm: PRO,prol
  paradigm: Noun-num-vowel
- trans_ru: где-то
+ trans_ru: где-то, не знаю где
 
 -lexeme
  lex: нокытӥ

@@ -1372,6 +1372,7 @@
  -flex: .е<.>
   gramm: acc
   gloss: ACC
+  regex-lex: ^.*(мар?|кин|со|та|номыре)$
  -flex: .ты<.>
   gramm: acc
   gloss: ACC.PL
@@ -1385,7 +1386,7 @@
  -flex: .лы<.>
   gramm: dat
   gloss: DAT
- -flex: .ен<.>//.ин<.>
+ -flex: .ен<.>//.ин<.>//.ӥн<.>
   gramm: ins
   gloss: INS
  -flex: .тэк<.>
@@ -1471,15 +1472,15 @@
   gramm: ill
   gloss: ILL
   paradigm: Comparative
- -flex: .ас<.>
+ -flex: .ас<.>//.ыс<.>
   gramm: el
   gloss: EL
   paradigm: Noun-case-compounding-soft
- -flex: .ась<.>
+ -flex: .ась<.>//.ысь<.>
   gramm: el
   gloss: EL
   paradigm: Comparative
- -flex: .асен<.>
+ -flex: .асен<.>//.ысен<.>
   gramm: egr
   gloss: EGR
   paradigm: Noun-case-compounding
@@ -2348,10 +2349,10 @@
  -flex: .мес<.>
   gramm: acc,1pl
   gloss: P.1PL.ACC
- -flex: .ын|ымы<.>//.эн|ымы<.>
+ -flex: .ын|ымы<.>//.эн|ымы<.>//.ӥн|ымы<.>
   gramm: ins,1pl
   gloss: INS|P.1PL
- -flex: .ен|ымы<.>
+ -flex: .ен|ымы<.>//.ин|ымы<.>
   gramm: ins,1pl
   gloss: INS|P.1PL
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
@@ -2417,10 +2418,10 @@
   gramm: acc,2pl
   gloss: P.2PL.ACC
   regex-prev: ^.*[кпстфхцчӵшщ]ь?[<>.]*$
- -flex: .эн|ыды<.>//.ын|ыды<.>
+ -flex: .эн|ыды<.>//.ын|ыды<.>//.ӥн|ыды<.>
   gramm: ins,2pl
   gloss: INS|P.2PL
- -flex: .ен|ыды<.>
+ -flex: .ен|ыды<.>//.ин|ыды<.>
   gramm: ins,2pl
   gloss: INS|P.2PL
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
@@ -2486,10 +2487,10 @@
   gramm: acc,3pl
   gloss: P.3PL.ACC
   regex-prev: ^.*[кпстфхцчӵшщ]ь?[<>.]*$
- -flex: .ын|ызы<.>//.эн|ызы<.>
+ -flex: .ын|ызы<.>//.эн|ызы<.>//.ӥн|ызы<.>
   gramm: ins,3pl
   gloss: INS|P.3PL
- -flex: .ен|ызы<.>
+ -flex: .ен|ызы<.>//.ин|ызы<.>
   gramm: ins,3pl
   gloss: INS|P.3PL
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
@@ -2532,31 +2533,31 @@
 
 
 -paradigm: Noun-case-mar-poss-1,sg
- -flex: .и<.>
+ -flex: .и<.>//.ӥ<.>
   gramm: nom,1sg
   gloss: P.1SG
  -flex: .ме<.>//.име<.>
   gramm: acc,1sg
   gloss: P.1SG.ACC
- -flex: .и|лэн<.>
+ -flex: .и|лэн<.>//.ӥ|лэн<.>
   gramm: gen,1sg
   gloss: P.1SG|GEN
- -flex: .и|лэсь<.>
+ -flex: .и|лэсь<.>//.ӥ|лэсь<.>
   gramm: abl,1sg
   gloss: P.1SG|ABL
- -flex: .и|лы<.>
+ -flex: .и|лы<.>//.ӥ|лы<.>
   gramm: dat,1sg
   gloss: P.1SG|DAT
- -flex: .и|тэк<.>
+ -flex: .и|тэк<.>//.ӥ|тэк<.>
   gramm: car,1sg
   gloss: P.1SG|CAR
- -flex: .и|я<.>
+ -flex: .и|я<.>//.ӥ|я<.>
   gramm: adv,1sg
   gloss: P.1SG|ADV
- -flex: .и|лань<.>
+ -flex: .и|лань<.>//.ӥ|лань<.>
   gramm: app,1sg
   gloss: P.1SG|APP
- -flex: .ин|ым<.>
+ -flex: .ин|ым<.>//.ин|ым
   gramm: ins,1sg
   gloss: INS|P.1SG
  -flex: .а|м<.>//.я|м<.>
@@ -2580,31 +2581,31 @@
  paradigm: Comparative
 
 -paradigm: Noun-case-mar-poss-2,sg
- -flex: .ид<.>
+ -flex: .ид<.>//.ӥд<.>
   gramm: nom,2sg
   gloss: P.2SG
- -flex: .ид|лэн<.>
+ -flex: .ид|лэн<.>//.ӥд|лэн<.>
   gramm: gen,2sg
   gloss: P.2SG|GEN
- -flex: .ид|лэсь<.>
+ -flex: .ид|лэсь<.>//.ӥд|лэсь<.>
   gramm: abl,2sg
   gloss: P.2SG|ABL
- -flex: .ид|лы<.>
+ -flex: .ид|лы<.>//.ӥд|лы<.>
   gramm: dat,2sg
   gloss: P.2SG|DAT
- -flex: .ид|тэк<.>
+ -flex: .ид|тэк<.>//.ӥд|тэк<.>
   gramm: car,2sg
   gloss: P.2SG|CAR
- -flex: .ид|ъя<.>
+ -flex: .ид|ъя<.>//.ӥд|ъя<.>
   gramm: adv,2sg
   gloss: P.2SG|ADV
- -flex: .ид|лань<.>
+ -flex: .ид|лань<.>//.ӥд|лань<.>
   gramm: app,2sg
   gloss: P.2SG|APP
  -flex: .дэ<.>//.идэ<.>
   gramm: acc,2sg
   gloss: P.2SG.ACC
- -flex: .ин|ыд<.>
+ -flex: .ин|ыд<.>//.ӥн|ыд<.>
   gramm: ins,2sg
   gloss: INS|P.2SG
  -flex: .а|д<.>//.я|д<.>
@@ -2629,31 +2630,31 @@
 
   
 -paradigm: Noun-case-mar-poss-3,sg
- -flex: .из<.>
+ -flex: .из<.>//.ӥз<.>
   gramm: nom,3sg
   gloss: P.3SG
- -flex: .из|лэн<.>
+ -flex: .из|лэн<.>//.ӥз|лэн<.>
   gramm: gen,3sg
   gloss: P.3SG|GEN
- -flex: .из|лэсь<.>
+ -flex: .из|лэсь<.>//.ӥз|лэсь<.>
   gramm: abl,3sg
   gloss: P.3SG|ABL
- -flex: .из|лы<.>
+ -flex: .из|лы<.>//.ӥз|лы<.>
   gramm: dat,3sg
   gloss: P.3SG|DAT
- -flex: .из|тэк<.>
+ -flex: .из|тэк<.>//.ӥз|тэк<.>
   gramm: car,3sg
   gloss: P.3SG|CAR
- -flex: .из|ъя<.>
+ -flex: .из|ъя<.>//.ӥз|ъя<.>
   gramm: adv,3sg
   gloss: P.3SG|ADV
- -flex: .из|лань<.>
+ -flex: .из|лань<.>//.ӥз|лань<.>
   gramm: app,3sg
   gloss: P.3SG|APP
  -flex: .зэ<.>//.изэ<.>
   gramm: acc,3sg
   gloss: P.3SG.ACC
- -flex: .ин|ыз<.>
+ -flex: .ин|ыз<.>//.ӥн|ыз<.>
   gramm: ins,3sg
   gloss: INS|P.3SG
  -flex: .а|з<.>//.я|з<.>

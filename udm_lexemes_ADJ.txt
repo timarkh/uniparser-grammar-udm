@@ -4783,9 +4783,9 @@
 -lexeme
  lex: варсь
  stem: варс.
- gramm: ADJ
- paradigm: connect_adjectives-soft
- trans_ru: сусляный, сусловый
+ gramm: N
+ paradigm: Noun-num-soft
+ trans_ru: сусло
 
 -lexeme
  lex: бадӟым
@@ -6011,13 +6011,6 @@
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: лексический
-
--lexeme
- lex: миым
- stem: миым.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: в прошлый год, в прошлом году
 
 -lexeme
  lex: вӧл-вӧл

@@ -7120,7 +7120,7 @@
  stem: бустырган.
  gramm: N,supernat
  paradigm: Noun-num-consonant
- trans_ru: мифол. грязное, страшное существо
+ trans_ru: мифол. грязное, страшное существо; кошмар, кошмарный сон
 
 -lexeme
  lex: бустыри
@@ -30526,7 +30526,7 @@
  trans_ru: пороша, изморозь
 
 -lexeme
- lex: кырпӧйшуръ
+ lex: кырпӧйшур
  stem: кырпӧйшур.
  gramm: N,anim
  paradigm: Noun-num-consonant
@@ -43963,7 +43963,7 @@
  stem: пилем.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: гриб, растущий на навозе
+ trans_ru: облако, туча; гриб, растущий на навозе
 
 -lexeme
  lex: пилемолык
@@ -81703,7 +81703,7 @@
  stem: право.
  gramm: N,rus
  paradigm: Noun-num-vowel
- trans_ru: право
+ trans_ru: право; права
 -lexeme
  lex: православие
  stem: православи.

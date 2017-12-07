@@ -218,9 +218,9 @@
 -lexeme
  lex: ӝужда
  stem: ӝужда.
- gramm: POST
- paradigm: Empty
- trans_ru: высотой с…, в высоту с…, ростом с…, в рост…
+ gramm: ADJ,rel_adj
+ paradigm: connect_adjectives
+ trans_ru: высотой равный чему-то
 
 -lexeme
  lex: ӵоже
@@ -365,9 +365,9 @@
 -lexeme
  lex: зӧкта
  stem: зӧкта.
- gramm: POST
- paradigm: Empty
- trans_ru: толщиной с…, толщина с…
+ gramm: ADJ,rel_adj
+ paradigm: connect_adjectives
+ trans_ru: толщиной равный чему-то
 
 -lexeme
  lex: лэсяна
@@ -386,9 +386,9 @@
 -lexeme
  lex: мында
  stem: мында.
- gramm: POST
- paradigm: Empty
- trans_ru: около, примерно, приблизительно, с...
+ gramm: ADJ,rel_adj
+ paradigm: connect_adjectives
+ trans_ru: количеством приблизительно равный чему-то
 
 -lexeme
  lex: ёрсын
@@ -524,13 +524,6 @@
  trans_ru: на, возьми
 
 -lexeme
- lex: созь
- stem: созь.
- gramm: PART
- paradigm: Empty
- trans_ru: эдак, так
-
--lexeme
  lex: бен
  stem: бен.
  gramm: PART
@@ -652,15 +645,19 @@
 -lexeme
  lex: кулэ
  stem: кулэ.
- gramm: V
- paradigm: Empty
+ gramm: PREDIC
+ paradigm: Comparative
+ paradigm: Noun-case
+ paradigm: Noun-case-poss-3,sg
  trans_ru: надо
 
 -lexeme
  lex: укыл
  stem: укыл.
- gramm: V
- paradigm: Empty
+ gramm: PREDIC
+ paradigm: Comparative
+ paradigm: Noun-case
+ paradigm: Noun-case-poss-3,sg
  trans_ru: не надо
 
 -lexeme
@@ -680,9 +677,9 @@
 -lexeme
  lex: ка
  stem: ка.
- gramm: PART
+ gramm: PART,rus
  paradigm: Empty
- trans_ru:  -ка , усьты-ка укноез открой-ка окно
+ trans_ru: -ка
 
 -lexeme
  lex: а-а-а
@@ -694,7 +691,7 @@
 -lexeme
  lex: коть
  stem: коть.
- gramm: PART
+ gramm: PART,rus
  paradigm: Empty
  trans_ru: хоть, хотя
 
@@ -715,28 +712,28 @@
 -lexeme
  lex: даже
  stem: даже.
- gramm: PART
+ gramm: PART,rus
  paradigm: Empty
  trans_ru: даже
 
 -lexeme
  lex: тоже
  stem: тоже.
- gramm: PART
+ gramm: PART,rus
  paradigm: Empty
  trans_ru: тоже
 
 -lexeme
  lex: тожо
  stem: тожо.
- gramm: PART
+ gramm: PART,rus
  paradigm: Empty
  trans_ru: тоже
 
 -lexeme
  lex: во
  stem: во.
- gramm: PART
+ gramm: PART,rus
  paradigm: Empty
  trans_ru: во, вот
 
@@ -792,7 +789,7 @@
 -lexeme
  lex: и
  stem: и.
- gramm: CNJ
+ gramm: CNJ,rus
  paradigm: Empty
  trans_ru: и
 
@@ -911,7 +908,7 @@
 -lexeme
  lex: эшшо
  stem: эшшо.
- gramm: ADV
+ gramm: ADV,rus
  paradigm: Empty
  trans_ru: ещё
 
@@ -953,7 +950,7 @@
 -lexeme
  lex: ведь
  stem: ведь.
- gramm: PART
+ gramm: PART,rus
  paradigm: Empty
  trans_ru: усил. ведь
 
@@ -974,7 +971,7 @@
 -lexeme
  lex: как
  stem: как.
- gramm: PART
+ gramm: PART,rus
  paradigm: Empty
  trans_ru: усил., показывающая внезапность действия как, да как
 
@@ -994,8 +991,8 @@
 
 -lexeme
  lex: пожалуйста
- stem: пожалуйста.
- gramm: PART
+ stem: пожалуйста.//пожалуста.
+ gramm: PART,rus
  paradigm: Empty
  trans_ru: пожалуйста
 
@@ -1022,8 +1019,8 @@
 
 -lexeme
  lex: что
- stem: что.
- gramm: PART
+ stem: что.//што.
+ gramm: PART,rus
  paradigm: Empty
  trans_ru: что за
 
@@ -1059,15 +1056,10 @@
  lex: толон
  stem: толон.
  gramm: ADV
- paradigm: Empty
+ paradigm: Comparative
+ paradigm: Noun-case
+ paradigm: Noun-case-poss-3,sg
  trans_ru: вчера
-
--lexeme
- lex: пияла
- stem: пияла.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: стекло
 
 -lexeme
  lex: чиндыр-вандыр
@@ -1224,13 +1216,6 @@
  trans_ru: благоприятно
 
 -lexeme
- lex: бустырган
- stem: бустырган.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: 1. злой дух, домовой 2. кошмар, кошмарный сон 3. растрепавшийся 1) растрепавшиеся волосы 2) растрёпа
-
--lexeme
  lex: уръяськонтэм
  stem: уръяськонтэм.
  gramm: ADV
@@ -1282,7 +1267,7 @@
 -lexeme
  lex: точно
  stem: точно.
- gramm: ADV
+ gramm: ADV,rus
  paradigm: connect_adverbs
  trans_ru: точно, пунктуально
 
@@ -1315,13 +1300,6 @@
  trans_ru: недовольно
 
 -lexeme
- lex: кукей
- stem: кукей.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: яйцо
-
--lexeme
  lex: кир-пазь
  stem: кир-пазь.
  gramm: ADV
@@ -1334,13 +1312,6 @@
  gramm: ADV
  paradigm: connect_adverbs
  trans_ru: вкусно
-
--lexeme
- lex: майтал
- stem: майтал.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: мыло
 
 -lexeme
  lex: майтак
@@ -1380,7 +1351,7 @@
 -lexeme
  lex: материально
  stem: материально.
- gramm: ADV
+ gramm: ADV,rus
  paradigm: connect_adverbs
  trans_ru: материально
 
@@ -1403,7 +1374,7 @@
  stem: матын.
  gramm: ADV
  paradigm: connect_adverbs
- trans_ru: близко, поблизости, недалеко, вблизи, неподалёку , матынгес ближе, поближе
+ trans_ru: близко, поблизости, недалеко, вблизи, неподалёку
 
 -lexeme
  lex: паськыт
@@ -1434,13 +1405,6 @@
  trans_ru: густо
 
 -lexeme
- lex: тӧдьыос
- stem: тӧдьыос.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: только мн. ист. белые, белогвардейцы
-
--lexeme
  lex: шадыр
  stem: шадыр.
  gramm: ADV
@@ -1469,17 +1433,10 @@
  trans_ru: ненадёжно
 
 -lexeme
- lex: гопанывырыть
- stem: гопанывырыть.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: яму, сделать лунку
-
--lexeme
  lex: кӧмесь
- stem: кӧмесь.
- gramm: ADV
- paradigm: connect_adverbs
+ stem: кӧмес.
+ gramm: ADJ,oblin
+ paradigm: connect_adjectives-soft
  trans_ru: с кожурой
 
 -lexeme
@@ -1590,8 +1547,8 @@
 -lexeme
  lex: зыгыр
  stem: зыгыр.
- gramm: ADV
- paradigm: connect_adverbs
+ gramm: IMIT
+ paradigm: Empty
  trans_ru: звукоподр.
 
 -lexeme
@@ -1621,13 +1578,6 @@
  gramm: ADV
  paradigm: connect_adverbs
  trans_ru: узко, нешироко
-
--lexeme
- lex: ӟенелик
- stem: ӟенелик.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: стекло
 
 -lexeme
  lex: кӧдэктэм
@@ -1667,9 +1617,9 @@
 -lexeme
  lex: сукно
  stem: сукно.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: сукно, сукнолэсь пальто вурыны сшить пальто из сукна
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: сукно
 
 -lexeme
  lex: нод-нод
@@ -1681,9 +1631,16 @@
 -lexeme
  lex: угыёпу
  stem: угыёпу.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: угыпу бересклет
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: бересклет
+
+-lexeme
+ lex: угыпу
+ stem: угыпу.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: бересклет
 
 -lexeme
  lex: пумен
@@ -1695,8 +1652,8 @@
 -lexeme
  lex: бун
  stem: бун.
- gramm: ADV
- paradigm: connect_adverbs
+ gramm: N
+ paradigm: Noun-num-consonant
  trans_ru: мочало
 
 -lexeme
@@ -1791,13 +1748,6 @@
  trans_ru: глупо, бестолково
 
 -lexeme
- lex: мс.
- stem: мс..
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: тому подобные, т.п., др.
-
--lexeme
  lex: кежег
  stem: кежег.
  gramm: ADV
@@ -1809,7 +1759,7 @@
  stem: ӧжытэн.
  gramm: ADV
  paradigm: connect_adverbs
- trans_ru: понемногу, ӧжытэн-ӧжытэн мало-помалу
+ trans_ru: понемногу
 
 -lexeme
  lex: куальтра
@@ -1830,7 +1780,7 @@
  stem: меӵыр.
  gramm: ADV
  paradigm: connect_adverbs
- trans_ru: дыбом, торчком, йырсиосыз меӵыр-меӵыр луизы волосы поднялись дыбом
+ trans_ru: дыбом, торчком
 
 -lexeme
  lex: читыр-читыр
@@ -2059,9 +2009,16 @@
 -lexeme
  lex: гужемпу
  stem: гужемпу.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: гузэмпу жимолость
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: жимолость
+
+-lexeme
+ lex: гузэмпу
+ stem: гузэмпу.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: жимолость
 
 -lexeme
  lex: юрӟым
@@ -2136,9 +2093,9 @@
 -lexeme
  lex: интодосчи
  stem: интодосчи.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: астроном, астролог? Туннэ ӵукна милям интодосчимы таӵе малпанзэ вераз
+ gramm: N,hum
+ paradigm: Noun-num-consonant
+ trans_ru: астроном, астролог
 
 -lexeme
  lex: мыдлань
@@ -2243,7 +2200,7 @@
  stem: вылланьын.
  gramm: ADV
  paradigm: connect_adverbs
- trans_ru: вверху, наверху, повыше, гурт вылланьын в верхней стороне деревни
+ trans_ru: вверху
 
 -lexeme
  lex: кабыло
@@ -2397,7 +2354,7 @@
  stem: вылӥын.
  gramm: ADV
  paradigm: connect_adverbs
- trans_ru: 1. вверху, наверху, вылӥынгес чуть повыше 2. выше
+ trans_ru: 1. вверху, наверху 2. выше
 
 -lexeme
  lex: пезьгыт
@@ -2432,13 +2389,13 @@
  stem: тэк.
  gramm: ADV
  paradigm: connect_adverbs
- trans_ru: праздно, ничего не делая, без дела
+ trans_ru: праздно, без дела
 
 -lexeme
  lex: мылву
  stem: мылву.
- gramm: ADV
- paradigm: connect_adverbs
+ gramm: N
+ paradigm: Noun-num-vowel
  trans_ru: инву, мугву ?
 
 -lexeme
@@ -2533,13 +2490,6 @@
  trans_ru: печально, грустно
 
 -lexeme
- lex: тари
- stem: тари.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: просо, пшено
-
--lexeme
  lex: дурен
  stem: дурен.
  gramm: ADV
@@ -2551,7 +2501,7 @@
  stem: габылда.
  gramm: ADV
  paradigm: connect_adverbs
- trans_ru: незаметно, габылда шорысь мар карыны ёрмизы благодаря незаметному моменту не знали что делать
+ trans_ru: незаметно
 
 -lexeme
  lex: улыг
@@ -2570,7 +2520,7 @@
 -lexeme
  lex: единогласно
  stem: единогласно.
- gramm: ADV
+ gramm: ADV,rus
  paradigm: connect_adverbs
  trans_ru: единогласно
 
@@ -2600,7 +2550,7 @@
  stem: ладэн.
  gramm: ADV
  paradigm: connect_adverbs
- trans_ru: логично, толком, ладэн вераны сказать толком
+ trans_ru: логично, толком
 
 -lexeme
  lex: улланес
@@ -2664,13 +2614,6 @@
  gramm: ADV
  paradigm: connect_adverbs
  trans_ru: правдиво, достоверно, действительно
-
--lexeme
- lex: нин
- stem: нин.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: лыко
 
 -lexeme
  lex: толэн-тулысэн
@@ -2778,13 +2721,6 @@
  trans_ru: спокойно, неторопливо, медленно
 
 -lexeme
- lex: куд
- stem: куд.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: болото
-
--lexeme
  lex: улӥетӥ
  stem: улӥетӥ.
  gramm: ADV
@@ -2852,7 +2788,7 @@
  stem: лач.
  gramm: ADV
  paradigm: connect_adverbs
- trans_ru: плотно, наглухо, вплотную, лач-лач плотно, очень плотно, глухо-наглухо
+ trans_ru: плотно, наглухо, вплотную
 
 -lexeme
  lex: йыгмыт
@@ -2876,17 +2812,10 @@
  trans_ru: лукошко, плетёнка
 
 -lexeme
- lex: кӧшкем
- stem: кӧшкем.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: страшилище, пугало
-
--lexeme
  lex: иншыр
  stem: иншыр.
- gramm: ADV
- paradigm: connect_adverbs
+ gramm: N
+ paradigm: Noun-num-consonant
  trans_ru: гумно, ток
 
 -lexeme
@@ -2955,8 +2884,8 @@
 -lexeme
  lex: бур
  stem: бур.
- gramm: ADV
- paradigm: connect_adverbs
+ gramm: N
+ paradigm: Noun-num-consonant
  trans_ru: благо
 
 -lexeme
@@ -2988,13 +2917,6 @@
  trans_ru: потом, после, позднее
 
 -lexeme
- lex: вӧй
- stem: вӧй.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: масло
-
--lexeme
  lex: али
  stem: али.
  gramm: ADV
@@ -3009,13 +2931,6 @@
  trans_ru: неожиданно, внезапно, вдруг
 
 -lexeme
- lex: кыдёкын
- stem: кыдёкын.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: далеко
-
--lexeme
  lex: чукатэк
  stem: чукатэк.
  gramm: ADV
@@ -3028,13 +2943,6 @@
  gramm: ADV
  paradigm: connect_adverbs
  trans_ru: полдневный, полуденный полуденный
-
--lexeme
- lex: варсь
- stem: варсь.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: сусло
 
 -lexeme
  lex: ортчыт
@@ -3063,20 +2971,6 @@
  gramm: ADV
  paradigm: connect_adverbs
  trans_ru: всюду, повсюду, где угодно
-
--lexeme
- lex: ку-о
- stem: ку-о.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: ку-ось когда, именно когда
-
--lexeme
- lex: азьтэм
- stem: азьтэм.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: лениво
 
 -lexeme
  lex: арняскын
@@ -3125,14 +3019,7 @@
  stem: пыр.
  gramm: ADV
  paradigm: connect_adverbs
- trans_ru: беспрестанно, беспрерывно, всегда, постоянно, всё время
-
--lexeme
- lex: бурдоос
- stem: бурдоос.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: только мн. пернатые
+ trans_ru: беспрерывно, постоянно, всё время
 
 -lexeme
  lex: чырым
@@ -3198,13 +3085,6 @@
  trans_ru: спокойно, уравновешенно
 
 -lexeme
- lex: синучкон
- stem: синучкон.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: зеркало
-
--lexeme
  lex: тӧл-тӧл
  stem: тӧл-тӧл.
  gramm: ADV
@@ -3224,13 +3104,6 @@
  gramm: ADV
  paradigm: connect_adverbs
  trans_ru: озорно, игриво
-
--lexeme
- lex: валамон
- stem: валамон.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: доступно
 
 -lexeme
  lex: ишкал-машкал
@@ -3277,9 +3150,16 @@
 -lexeme
  lex: эльмуӵ
  stem: эльмуӵ.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: инсьӧрму астр. планета
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: планета
+
+-lexeme
+ lex: инсьӧрму
+ stem: инсьӧрму.
+ gramm: N
+ paradigm: Noun-num-vowel
+ trans_ru: планета
 
 -lexeme
  lex: тырттэмен
@@ -3359,13 +3239,6 @@
  trans_ru: мелко, неглубоко
 
 -lexeme
- lex: право
- stem: право.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: право
-
--lexeme
  lex: либыт
  stem: либыт.
  gramm: ADV
@@ -3413,13 +3286,6 @@
  gramm: ADV
  paradigm: connect_adverbs
  trans_ru: вдруг, внезапно
-
--lexeme
- lex: жаль
- stem: жаль.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: жаль, жалко
 
 -lexeme
  lex: азьпаллы
@@ -3531,7 +3397,7 @@
  stem: лашкинэн.
  gramm: ADV
  paradigm: connect_adverbs
- trans_ru: галопом, лашкинэн мыныны ехать галопом
+ trans_ru: галопом
 
 -lexeme
  lex: кабзэ
@@ -3704,7 +3570,7 @@
 -lexeme
  lex: нарошно
  stem: нарошно.
- gramm: ADV
+ gramm: ADV,rus
  paradigm: connect_adverbs
  trans_ru: нарочно
 
@@ -3884,13 +3750,6 @@
  trans_ru: дет. больно
 
 -lexeme
- lex: дугдылытэк
- stem: дугдылытэк.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: беспрерывно, постоянно
-
--lexeme
  lex: огазеям
  stem: огазеям.
  gramm: ADV
@@ -3923,7 +3782,7 @@
  stem: ялан.
  gramm: ADV
  paradigm: connect_adverbs
- trans_ru: систематически, регулярно
+ trans_ru: всегда, регулярно
 
 -lexeme
  lex: эркыт
@@ -4129,13 +3988,6 @@
  trans_ru: единогласно, дружно
 
 -lexeme
- lex: укмыснады
- stem: укмыснады.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: вдевятером, [вы, они, мы] девятеро
-
--lexeme
  lex: апать-тупать
  stem: апать-тупать.
  gramm: ADV
@@ -4182,7 +4034,7 @@
  stem: вожен-вожен.
  gramm: ADV
  paradigm: connect_adverbs
- trans_ru: попеременно, поочерёдно, меняясь друг с другом
+ trans_ru: попеременно, поочерёдно
 
 -lexeme
  lex: тепылес
@@ -4259,7 +4111,7 @@
  stem: ӵукна.
  gramm: ADV
  paradigm: connect_adverbs
- trans_ru: утро
+ trans_ru: утром
 
 -lexeme
  lex: ӧжыт-ӧжыт
@@ -4423,13 +4275,6 @@
  trans_ru: прохладно, холодно, свежо
 
 -lexeme
- lex: кунока
- stem: кунока.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: дом, куда приехали гости с ночлегом на одну или на две ночи
-
--lexeme
  lex: люко
  stem: люко.
  gramm: ADV
@@ -4502,7 +4347,7 @@
 -lexeme
  lex: жалятэк
  stem: жалятэк.
- gramm: ADV
+ gramm: ADV,rus
  paradigm: connect_adverbs
  trans_ru: безжалостно, беспощадно
 
@@ -4521,13 +4366,6 @@
  trans_ru: тихо, скромно
 
 -lexeme
- lex: том
- stem: том.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: том
-
--lexeme
  lex: быг-быг
  stem: быг-быг.
  gramm: ADV
@@ -4544,7 +4382,7 @@
 -lexeme
  lex: тырмоз
  stem: тырмоз.
- gramm: ADV
+ gramm: PREDIC
  paradigm: connect_adverbs
  trans_ru: довольно, достаточно, хватит
 
@@ -4563,18 +4401,11 @@
  trans_ru: молчаливо
 
 -lexeme
- lex: олокин
- stem: олокин.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: кто-то
-
--lexeme
  lex: оло
  stem: оло.
  gramm: CNJ
  paradigm: Empty
- trans_ru: или; вероятно
+ trans_ru: или, то ли; вероятно
 
 -lexeme
  lex: ӵошкыт
@@ -4642,16 +4473,9 @@
 -lexeme
  lex: мылпу
  stem: мылпу.
- gramm: ADV
- paradigm: connect_adverbs
+ gramm: N
+ paradigm: Noun-num-vowel
  trans_ru: инпу дерево желаний
-
--lexeme
- lex: пилем
- stem: пилем.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: облако, туча, зоро пилемъёс дождевые облака, люко-люко пилемъёс кучевые облака, тыло тусо пилемъёс перистые облака, тыло тусо люко пилемъёс перисто-кучевые облака, тыло тусо сиё пилемъёс перисто-слоистые облака
 
 -lexeme
  lex: тальк-тальк
@@ -4670,8 +4494,8 @@
 -lexeme
  lex: дунву
  stem: дунву.
- gramm: ADV
- paradigm: connect_adverbs
+ gramm: N
+ paradigm: Noun-num-vowel
  trans_ru: инву, дунчылкытву, дунневу ?
 
 -lexeme
@@ -4691,8 +4515,8 @@
 -lexeme
  lex: ымвогыри
  stem: ымвогыри.
- gramm: ADV
- paradigm: connect_adverbs
+ gramm: N,body
+ paradigm: Noun-num-vowel
  trans_ru: нёбо
 
 -lexeme
@@ -5236,9 +5060,9 @@
 
 -lexeme
  lex: кадь
- stem: кадесь.
- gramm: PART,pl
- paradigm: connect_adverbs
+ stem: кад.
+ gramm: ADJ,rel_adj
+ paradigm: connect_adjectives-soft
  trans_ru: как будто, похожий
 
 -lexeme
@@ -5247,13 +5071,6 @@
  gramm: ADV
  paradigm: connect_adverbs
  trans_ru: красиво, модно
-
--lexeme
- lex: пӧйшур
- stem: пӧйшур.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: звероловство
 
 -lexeme
  lex: азьланяз
@@ -5384,14 +5201,14 @@
 -lexeme
  lex: сорока
  stem: сорока.
- gramm: N,rus
+ gramm: N,rus,anim
  paradigm: Noun-num-vowel
  trans_ru: сорока
 
 -lexeme
  lex: сороко
  stem: сороко.
- gramm: N,rus
+ gramm: N,rus,anim
  paradigm: Noun-num-vowel
  trans_ru: сорока
 
@@ -5463,7 +5280,7 @@
  stem: байтак.
  gramm: ADV
  paradigm: connect_adverbs
- trans_ru: порядочно, достаточно, довольно много, изрядно , вдоволь, байтакгес больше, побольше
+ trans_ru: порядочно, достаточно
 
 -lexeme
  lex: люкрак
@@ -5484,7 +5301,7 @@
  stem: чебер.
  gramm: ADV
  paradigm: connect_adverbs
- trans_ru: прекрасно
+ trans_ru: красиво, прекрасно
 
 -lexeme
  lex: ӵак-ӵак
@@ -5540,7 +5357,7 @@
  stem: серемес.
  gramm: ADV
  paradigm: connect_adverbs
- trans_ru: смешно, потешно
+ trans_ru: смешно
 
 -lexeme
  lex: йырвизьмо
@@ -5552,8 +5369,8 @@
 -lexeme
  lex: пужаш
  stem: пужаш.
- gramm: ADV
- paradigm: connect_adverbs
+ gramm: N
+ paradigm: Noun-num-consonant
  trans_ru: лукошко
 
 -lexeme
@@ -5576,13 +5393,6 @@
  gramm: ADV
  paradigm: connect_adverbs
  trans_ru: быстро
-
--lexeme
- lex: дэриесь
- stem: дэриесь.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: грязно, слякотно
 
 -lexeme
  lex: улэпкын
@@ -5669,25 +5479,11 @@
  trans_ru: произвольно, свободно, сам по себе
 
 -lexeme
- lex: плотникам
- stem: плотникам.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: плотничество
-
--lexeme
  lex: сапрес
  stem: сапрес.
  gramm: ADV
  paradigm: connect_adverbs
  trans_ru: пасмурно, хмуро
-
--lexeme
- lex: кылӥськымон
- stem: кылӥськымон.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: во
 
 -lexeme
  lex: ёрег
@@ -5734,9 +5530,30 @@
 -lexeme
  lex: отау
  stem: отау.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: атау шормуӵ, вумуӵ остров
+ gramm: N
+ paradigm: Noun-num-vowel
+ trans_ru: остров
+
+-lexeme
+ lex: атау
+ stem: атау.
+ gramm: N
+ paradigm: Noun-num-vowel
+ trans_ru: остров
+
+-lexeme
+ lex: шормуӵ
+ stem: шормуӵ.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: остров
+
+-lexeme
+ lex: вумуӵ
+ stem: вумуӵ.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: остров
 
 -lexeme
  lex: тямысой
@@ -5757,7 +5574,7 @@
  stem: юн.
  gramm: ADV
  paradigm: connect_adverbs
- trans_ru: крепко, прочно, твёрдо, упруго, юн гозы прочная верёвка
+ trans_ru: крепко, прочно, твёрдо, упруго
 
 -lexeme
  lex: икыр-кукыр
@@ -5771,14 +5588,14 @@
  stem: ӝужыто-лапего.
  gramm: ADV
  paradigm: connect_adverbs
- trans_ru: то
+ trans_ru: то высоко, то низко
 
 -lexeme
  lex: дом
  stem: дом.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: дом, кирпич домъёс кирпичные дома, домысь доме из дома в дом
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: дом
 
 -lexeme
  lex: тупен
@@ -5786,13 +5603,6 @@
  gramm: ADV
  paradigm: connect_adverbs
  trans_ru: основательно, досконально
-
--lexeme
- lex: сокем
- stem: сокем.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: настолько, так, так что
 
 -lexeme
  lex: юз
@@ -5849,13 +5659,6 @@
  gramm: ADV
  paradigm: connect_adverbs
  trans_ru: лето
-
--lexeme
- lex: умой-умой
- stem: умой-умой.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: как следует, всерьёз, серьёзно, подробно, досконально, основательно, толком
 
 -lexeme
  lex: шер-вай
@@ -5944,7 +5747,7 @@
 -lexeme
  lex: провор
  stem: провор.
- gramm: ADV
+ gramm: ADV,rus
  paradigm: connect_adverbs
  trans_ru: проворно
 
@@ -6217,14 +6020,14 @@
 -lexeme
  lex: ито
  stem: ито.
- gramm: CNJ
+ gramm: CNJ,rus
  paradigm: Empty
  trans_ru: и то
 
 -lexeme
  lex: раз
  stem: раз.
- gramm: CNJ
+ gramm: CNJ,rus
  paradigm: Empty
  trans_ru: раз, если
 
@@ -6273,23 +6076,16 @@
 -lexeme
  lex: то
  stem: то.
- gramm: CNJ
+ gramm: CNJ,rus
  paradigm: Empty
  trans_ru: то
 
 -lexeme
  lex: но
  stem: но.
- gramm: CNJ
+ gramm: CNJ,rus
  paradigm: Empty
  trans_ru: но
-
--lexeme
- lex: гинэ
- stem: гинэ.
- gramm: CNJ
- paradigm: Empty
- trans_ru: только
 
 -lexeme
  lex: ке
@@ -6301,9 +6097,9 @@
 -lexeme
  lex: только
  stem: только.
- gramm: CNJ
+ gramm: CNJ,rus
  paradigm: Empty
- trans_ru: противит. только, однако, но, при условии
+ trans_ru: только, однако
 
 -lexeme
  lex: шуыса
@@ -6315,9 +6111,9 @@
 -lexeme
  lex: либо
  stem: либо.
- gramm: CNJ
+ gramm: CNJ,rus
  paradigm: Empty
- trans_ru: разд. либо
+ trans_ru: либо
 
 -lexeme
  lex: кытын
@@ -6329,7 +6125,7 @@
 -lexeme
  lex: если
  stem: если.
- gramm: CNJ
+ gramm: CNJ,rus
  paradigm: Empty
  trans_ru: если
 
@@ -6688,7 +6484,7 @@
  stem: гуж.
  gramm: IMIT
  paradigm: Empty
- trans_ru: жужжанию пчел: мушьёс ~ каро пчёлы жужжат
+ trans_ru: жужжанию пчел
 
 -lexeme
  lex: тик-так
@@ -9070,20 +8866,6 @@
  trans_ru: вежливо, спокойно
 
 -lexeme
- lex: кыдёкетӥ
- stem: кыдёкетӥ.
- gramm: ADV,prol
- paradigm: connect_adverbs
- trans_ru: поодаль, вдалеке
-
--lexeme
- lex: кыдёкысен
- stem: кыдёкысен.
- gramm: ADV,egr
- paradigm: connect_adverbs
- trans_ru: издали, издалека
-
--lexeme
  lex: ичиен-ичиен
  stem: ичиен-ичиен.
  gramm: ADV,ins
@@ -10180,7 +9962,18 @@
  stem: туэ.
  gramm: ADV
  paradigm: connect_adverbs
+ paradigm: Noun-case
+ paradigm: Noun-case-poss-3,sg
  trans_ru: нынче, в этом году
+
+-lexeme
+ lex: миым
+ stem: миым.
+ gramm: ADV
+ paradigm: connect_adverbs
+ paradigm: Noun-case
+ paradigm: Noun-case-poss-3,sg
+ trans_ru: в прошлом году
 
 -lexeme
  lex: вожвылат
@@ -11180,7 +10973,7 @@
 
 -lexeme
  lex: кыдёк-
- stem: кыдёк.
+ stem: кыдёк.//кудёк.
  gramm: ADV
  paradigm: Noun-num-consonant
  trans_ru: издалека/далеко/вдаль
@@ -11442,6 +11235,8 @@
  stem: туннэ.
  gramm: ADV
  paradigm: connect_adverbs
+ paradigm: Noun-case
+ paradigm: Noun-case-poss-3,sg
  trans_ru: сегодня
 
 -lexeme
@@ -11650,6 +11445,6 @@
 -lexeme
  lex: долой
  stem: долой.
- gramm: PRED,rus
+ gramm: PREDIC,rus
  paradigm: Comparative
  trans_ru: долой
