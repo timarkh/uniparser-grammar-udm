@@ -427,7 +427,7 @@
 
 -lexeme
  lex: йырвисёнгумы
- stem: йырвисёнгумы.
+ stem: йырвисёнгумы.//йырвисенгумы.
  gramm: N
  paradigm: Noun-num-vowel
  trans_ru: болиголов крапчатый
@@ -756,7 +756,7 @@
 
 -lexeme
  lex: ӟиллёкы
- stem: ӟиллёкы.
+ stem: ӟиллёкы.//ӟиллекы.
  gramm: ADJ
  paradigm: connect_adjectives
  trans_ru: серый
@@ -833,7 +833,7 @@
 
 -lexeme
  lex: расчётной
- stem: расчётно.
+ stem: расчётно.//расчетно.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: расчётный
@@ -917,7 +917,7 @@
 
 -lexeme
  lex: кипрей
- stem: кипрей.
+ stem: кипре.
  gramm: N
  paradigm: Noun-num-j
  trans_ru: кипрей, иван-чай
@@ -1715,7 +1715,7 @@
 
 -lexeme
  lex: подъёмной
- stem: подъёмно.
+ stem: подъёмно.//подъемно.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: подъёмный
@@ -1757,7 +1757,7 @@
 
 -lexeme
  lex: подённой
- stem: подённо.
+ stem: подённо.//поденно.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: подённый
@@ -1974,7 +1974,7 @@
 
 -lexeme
  lex: политзаключённой
- stem: политзаключённо.
+ stem: политзаключённо.//политзаключенно.
  gramm: N,rus,hum
  paradigm: Noun-num-j
  trans_ru: политзаключённый
@@ -2142,7 +2142,7 @@
 
 -lexeme
  lex: вооружённой
- stem: вооружённо.
+ stem: вооружённо.//вооруженно.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: вооружённый
@@ -2899,7 +2899,7 @@
 
 -lexeme
  lex: чумолёям
- stem: чумолёям.
+ stem: чумолёям.//чумолеям.
  gramm: ADJ
  paradigm: connect_adjectives
  trans_ru: сложенный в копну
@@ -3734,7 +3734,7 @@
  lex: партманы
  stem: партма.
  gramm: V,II
- paradigm: connect_vebrs-II
+ paradigm: connect_verbs-II
  trans_ru: покрыть тенетой
 
 -lexeme
@@ -3851,7 +3851,7 @@
 
 -lexeme
  lex: подчинённой
- stem: подчинённо.
+ stem: подчинённо.//подчиненно.
  gramm: N,rus,hum
  paradigm: Noun-num-j
  trans_ru: подчинённый
@@ -4033,7 +4033,7 @@
 
 -lexeme
  lex: проходной
- stem: проходной.
+ stem: проходно.
  gramm: N,rus
  paradigm: Noun-num-j
  trans_ru: проходная
@@ -4166,7 +4166,7 @@
 
 -lexeme
  lex: подданной
- stem: подданной.
+ stem: подданно.
  gramm: N,rus,hum
  paradigm: Noun-num-j
  trans_ru: подданный
@@ -5083,7 +5083,7 @@
 
 -lexeme
  lex: краснознамённой
- stem: краснознамённо.
+ stem: краснознамённо.//краснознаменно.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: краснознамённый
@@ -6217,7 +6217,7 @@
 
 -lexeme
  lex: ликёрной
- stem: ликёрно.
+ stem: ликёрно.//ликерно.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: ликёрный
@@ -6707,7 +6707,7 @@
 
 -lexeme
  lex: определённой
- stem: определённо.
+ stem: определённо.//определенно.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: определённый
@@ -7015,7 +7015,7 @@
 
 -lexeme
  lex: бызгылёк
- stem: бызгылёк.
+ stem: бызгылёк.//бызгылек.
  gramm: ADJ
  paradigm: connect_adjectives
  trans_ru: неуклюжий
@@ -7736,7 +7736,7 @@
 
 -lexeme
  lex: ликёро-водочной
- stem: ликёро-водочно.
+ stem: ликёро-водочно.//ликеро-водочно.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: ликёро-водочный
@@ -8366,7 +8366,7 @@
 
 -lexeme
  lex: серьёзной
- stem: серьёзно.
+ stem: серьёзно.//серьезно.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: серьёзный
@@ -8688,7 +8688,7 @@
 
 -lexeme
  lex: манёвренной
- stem: манёвренно.
+ stem: манёвренно.//маневренно.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: манёвренный
@@ -9808,7 +9808,7 @@
 
 -lexeme
  lex: вольнонаёмной
- stem: вольнонаёмно.
+ stem: вольнонаёмно.//вольнонаемно.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: вольнонаёмный
@@ -11204,7 +11204,7 @@
  lex: сэрыт
  stem: сэрыт.
  gramm: ADJ
- paradigm: connect_adjectives-consonant
+ paradigm: connect_adjectives
  trans_ru: чуткий, бойкий
 
 -lexeme
@@ -12329,7 +12329,7 @@
 
 -lexeme
  lex: миномётной
- stem: миномётно.
+ stem: миномётно.//минометно.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: миномётный
@@ -12644,7 +12644,7 @@
 
 -lexeme
  lex: сапёрной
- stem: сапёрно.
+ stem: сапёрно.//саперно.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: сапёрный
@@ -13980,20 +13980,6 @@
  trans_ru: глухой
 
 -lexeme
- lex: менё
- stem: менё.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: со снохами
-
--lexeme
- lex: кено-менё
- stem: кено-менё.
- gramm: ADJ
- paradigm: connect_adjectives
- trans_ru: со снохами
-
--lexeme
  lex: лымыесь
  stem: лымыес.
  gramm: ADJ,oblin
@@ -15280,7 +15266,7 @@
  trans_ru: азинский
 -lexeme
  lex: азотно-метановой
- stem: азотнометановой.//азотно-метаново.
+ stem: азотнометаново.//азотно-метаново.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: азотно-метановый
@@ -15334,7 +15320,7 @@
  trans_ru: актуальный
 -lexeme
  lex: актёрской
- stem: актёрско.
+ stem: актёрско.//актерско.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: актёрский
@@ -15676,7 +15662,7 @@
  trans_ru: артистический
 -lexeme
  lex: артхаусной
- stem: артхаусной.//арт-хаусно.
+ stem: артхаусно.//арт-хаусно.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: артхаусный
@@ -15700,7 +15686,7 @@
  trans_ru: архитектурный
 -lexeme
  lex: асимметричной
- stem: асимметрично.
+ stem: ассимметрично.//ассиметрично.
  gramm: ADJ,rus,missp
  paradigm: connect_adjectives-j
  trans_ru: асимметричный
@@ -16234,7 +16220,7 @@
  trans_ru: бирюзовый
 -lexeme
  lex: бирюлёвской
- stem: бирюлёвско.
+ stem: бирюлёвско.//бирюлевско.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: бирюлёвский
@@ -16372,7 +16358,7 @@
  trans_ru: боковой
 -lexeme
  lex: боксёрской
- stem: боксёрско.
+ stem: боксёрско.//боксерско.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: боксёрский
@@ -16630,7 +16616,7 @@
  trans_ru: бытовой
 -lexeme
  lex: бюджетной
- stem: бюджетной.//бюджэтно.
+ stem: бюджетно.//бюджэтно.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: бюджетный
@@ -16786,7 +16772,7 @@
  trans_ru: верный
 -lexeme
  lex: вертолётной
- stem: вертолётно.
+ stem: вертолётно.//вертолетно.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: вертолётный
@@ -16942,7 +16928,7 @@
  trans_ru: витебский
 -lexeme
  lex: вишнёвой
- stem: вишнёвой.//вишнево.
+ stem: вишнёво.//вишнево.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: вишнёвый
@@ -17110,7 +17096,7 @@
  trans_ru: возрастный
 -lexeme
  lex: возрождённой
- stem: возрождённо.
+ stem: возрождённо.//возрожденно.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: возрождённый
@@ -17170,7 +17156,7 @@
  trans_ru: вологодский
 -lexeme
  lex: волонтёрской
- stem: волонтёрско.
+ stem: волонтёрско.//волонтерско.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: волонтёрский
@@ -17200,7 +17186,7 @@
  trans_ru: вомероназальный
 -lexeme
  lex: вооружённой
- stem: вооружённой.//вооруженно.
+ stem: вооружённо.//вооруженно.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: вооружённый
@@ -17272,7 +17258,7 @@
  trans_ru: востребованный
 -lexeme
  lex: восхищённой
- stem: восхищённой.//восхищенно.
+ stem: восхищённо.//восхищенно.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: восхищённый
@@ -17314,7 +17300,7 @@
  trans_ru: временный
 -lexeme
  lex: врождённой
- stem: врождённой.//врожденно.
+ stem: врождённо.//врожденно.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: врождённый
@@ -18376,7 +18362,7 @@
  trans_ru: дециметровый
 -lexeme
  lex: дешёвой
- stem: дешёво.
+ stem: дешёво.//дешево.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: дешёвый
@@ -18484,7 +18470,7 @@
  trans_ru: дипломный
 -lexeme
  lex: дирижёрской
- stem: дирижёрско.
+ stem: дирижёрско.//дирижерско.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: дирижёрский
@@ -19078,13 +19064,13 @@
  trans_ru: журналистский
 -lexeme
  lex: жёлтой
- stem: жёлто.
+ stem: жёлто.//желто.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: жёлтый
 -lexeme
  lex: жёсткой
- stem: жёстко.
+ stem: жёстко.//жестко.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: жёсткий
@@ -19348,13 +19334,13 @@
  trans_ru: затянутый
 -lexeme
  lex: зачётной
- stem: зачётно.
+ stem: зачётно.//зачетно.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: зачётный
 -lexeme
  lex: защищённой
- stem: защищённо.
+ stem: защищённо.//защищенно.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: защищённый
@@ -19384,7 +19370,7 @@
  trans_ru: звукоподражательный
 -lexeme
  lex: звукорежиссёрской
- stem: звукорежиссёрско.
+ stem: звукорежиссёрско.//звукорежиссерско.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: звукорежиссёрский
@@ -19462,7 +19448,7 @@
  trans_ru: знаменитый
 -lexeme
  lex: знамённой
- stem: знамённо.
+ stem: знамённо.//знаменно.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: знамённый
@@ -19672,7 +19658,7 @@
  trans_ru: изобразительный
 -lexeme
  lex: изощрённой
- stem: изощрённо.
+ stem: изощрённо.//изощренно.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: изощрённый
@@ -19978,7 +19964,7 @@
  trans_ru: исетский
 -lexeme
  lex: искромётной
- stem: искромётно.
+ stem: искромётно.//искрометно.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: искромётный
@@ -20158,7 +20144,7 @@
  trans_ru: казахстанский
 -lexeme
  lex: казённой
- stem: казённо.
+ stem: казённо.//казенно.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: казённый
@@ -20436,7 +20422,7 @@
  lex: кельыт
  stem: кельыт.
  gramm: ADJ
- paradigm: connect-adjectives
+ paradigm: connect_adjectives
  trans_ru: рыжий
 -lexeme
  lex: керкмасской
@@ -20536,7 +20522,7 @@
  trans_ru: кишечный
 -lexeme
  lex: кишинёвской
- stem: кишинёвско.
+ stem: кишинёвско.//кишиневско.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: кишинёвский
@@ -20578,7 +20564,7 @@
  trans_ru: ключевой
 -lexeme
  lex: клёвой
- stem: клёво.
+ stem: клёво.//клево.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: клёвый
@@ -20698,7 +20684,7 @@
  trans_ru: кольцевой
 -lexeme
  lex: колёсной
- stem: колёсно.
+ stem: колёсно.//колесно.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: колёсный
@@ -21220,7 +21206,7 @@
  trans_ru: кредитный
 -lexeme
  lex: кремлёвской
- stem: кремлёвско.
+ stem: кремлёвско.//кремлевско.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: кремлёвский
@@ -21256,7 +21242,7 @@
  trans_ru: крестьянский
 -lexeme
  lex: крещённой
- stem: крещённо.
+ stem: крещённо.//крещенно.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: крещённый
@@ -21370,7 +21356,7 @@
  trans_ru: крымский
 -lexeme
  lex: крёстной
- stem: крёстно.
+ stem: крёстно.//крестно.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: крёстный
@@ -21526,7 +21512,7 @@
  trans_ru: кыштымский
 -lexeme
  lex: кёнигсбергской
- stem: кёнигсбергско.
+ stem: кёнигсбергско.//кенигсбергско.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: кёнигсбергский
@@ -21928,7 +21914,7 @@
  trans_ru: лютеранский
 -lexeme
  lex: лётной
- stem: лётно.
+ stem: лётно.//летно.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: лётный
@@ -22138,7 +22124,7 @@
  trans_ru: матовый
 -lexeme
  lex: матёрой
- stem: матёро.
+ stem: матёро.//матеро.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: матёрый
@@ -22576,7 +22562,7 @@
  trans_ru: молодый
 -lexeme
  lex: молодёжной
- stem: молодёжно.
+ stem: молодёжно.//молодежно.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: молодёжный
@@ -22786,7 +22772,7 @@
  trans_ru: мятный
 -lexeme
  lex: мёртвой
- stem: мёртво.
+ stem: мёртво.//мертво.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: мёртвый
@@ -22948,7 +22934,7 @@
  trans_ru: наплевательский
 -lexeme
  lex: напряжённой
- stem: напряжённо.
+ stem: напряжённо.//напряженно.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: напряжённый
@@ -22972,7 +22958,7 @@
  trans_ru: народный
 -lexeme
  lex: населённой
- stem: населённо.
+ stem: населённо.//населенно.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: населённый
@@ -23020,7 +23006,7 @@
  trans_ru: натуральный
 -lexeme
  lex: наукоёмкой
- stem: наукоёмко.
+ stem: наукоёмко.//наукоемко.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: наукоёмкий
@@ -23074,7 +23060,7 @@
  trans_ru: начитанный
 -lexeme
  lex: наёмной
- stem: наёмно.
+ stem: наёмно.//наемно.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: наёмный
@@ -23170,7 +23156,7 @@
  trans_ru: негосударственный
 -lexeme
  lex: недалёкой
- stem: недалёко.
+ stem: недалёко.//недалеко.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: недалёкий
@@ -23338,7 +23324,7 @@
  trans_ru: некорректный
 -lexeme
  lex: некрещённой
- stem: некрещённо.
+ stem: некрещённо.//некрещенно.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: некрещённый
@@ -23356,7 +23342,7 @@
  trans_ru: нелегальный
 -lexeme
  lex: нелётной
- stem: нелётно.
+ stem: нелётно.//нелетно.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: нелётный
@@ -23386,7 +23372,7 @@
  trans_ru: ненавистный
 -lexeme
  lex: ненадёжной
- stem: ненадёжно.
+ stem: ненадёжно.//ненадежно.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: ненадёжный
@@ -23446,7 +23432,7 @@
  trans_ru: неоновый
 -lexeme
  lex: неопределённой
- stem: неопределённо.
+ stem: неопределённо.//неопределенно.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: неопределённый
@@ -23578,7 +23564,7 @@
  trans_ru: непунктуальный
 -lexeme
  lex: непутёвой
- stem: непутёво.
+ stem: непутёво.//непутево.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: непутёвый
@@ -23620,7 +23606,7 @@
  trans_ru: несвязанный
 -lexeme
  lex: несерьёзной
- stem: несерьёзно.
+ stem: несерьёзно.//несерьезно.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: несерьёзный
@@ -23740,7 +23726,7 @@
  trans_ru: нечистый
 -lexeme
  lex: нечётной
- stem: нечётно.
+ stem: нечётно.//нечетно.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: нечётный
@@ -23842,7 +23828,7 @@
  trans_ru: новокрестьянский
 -lexeme
  lex: новокрещёнской
- stem: новокрещёнско.
+ stem: новокрещёнско.//новокрещенско.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: новокрещёнский
@@ -24124,7 +24110,7 @@
  trans_ru: всероссийский
 -lexeme
  lex: одарённой
- stem: одарённо.
+ stem: одарённо.//одаренно.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: одарённый
@@ -24190,7 +24176,7 @@
  trans_ru: окружный
 -lexeme
  lex: окрылённой
- stem: окрылённо.
+ stem: окрылённо.//окрыленно.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: окрылённый
@@ -24292,7 +24278,7 @@
  trans_ru: опосредствованный
 -lexeme
  lex: определённой
- stem: определённо.
+ stem: определённо.//определенно.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: определенный
@@ -24496,7 +24482,7 @@
  trans_ru: остросюжетный
 -lexeme
  lex: осуждённой
- stem: осуждённо.
+ stem: осуждённо.//осужденно.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: осуждённый
@@ -24514,7 +24500,7 @@
  trans_ru: ответственный
 -lexeme
  lex: отвлечённой
- stem: отвлечённо.
+ stem: отвлечённо.//отвлеченно.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: отвлечённый
@@ -24622,7 +24608,7 @@
  trans_ru: отсталый
 -lexeme
  lex: отчётной
- stem: отчётно.
+ stem: отчётно.//отчетно.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: отчётный
@@ -25336,7 +25322,7 @@
  trans_ru: пластмассовый
 -lexeme
  lex: платёжной
- stem: платёжно.
+ stem: платёжно.//платежно.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: платёжный
@@ -25756,13 +25742,13 @@
  trans_ru: полукарликовый
 -lexeme
  lex: полукопчёной
- stem: полукопчёно.
+ stem: полукопчёно.//полукопчено.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: полукопчёный
 -lexeme
  lex: полукопчёной
- stem: полукочёно.
+ stem: полукочёно.//полукочено.
  gramm: ADJ,rus,missp
  paradigm: connect_adjectives-j
  trans_ru: полукопчёный
@@ -25966,7 +25952,7 @@
  trans_ru: почтовый
 -lexeme
  lex: почётной
- stem: почётно.
+ stem: почётно.//почетно.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: почётный
@@ -26260,7 +26246,7 @@
  trans_ru: придомовой
 -lexeme
  lex: приземлённой
- stem: приземлённо.
+ stem: приземлённо.//приземленно.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: приземлённый
@@ -26314,7 +26300,7 @@
  trans_ru: принципиальный
 -lexeme
  lex: приобретённой
- stem: приобретённо.
+ stem: приобретённо.//приобретенно.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: приобретённый
@@ -26374,7 +26360,7 @@
  trans_ru: приятный
 -lexeme
  lex: приёмной
- stem: приёмно.
+ stem: приёмно.//приемно.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: приёмный
@@ -26422,7 +26408,7 @@
  trans_ru: продвинутый
 -lexeme
  lex: продлённой
- stem: продлённо.
+ stem: продлённо.//продленно.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: продлённый
@@ -26524,7 +26510,7 @@
  trans_ru: пролетарский
 -lexeme
  lex: пролётной
- stem: пролётно.
+ stem: пролётно.//пролетно.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: пролётный
@@ -26584,7 +26570,7 @@
  trans_ru: просветительский
 -lexeme
  lex: просвещённой
- stem: просвещённо.
+ stem: просвещённо.//просвещенно.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: просвещённый
@@ -26782,7 +26768,7 @@
  trans_ru: публичный
 -lexeme
  lex: пулемётной
- stem: пулемётно.
+ stem: пулемётно.//пулеметно.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: пулемётный
@@ -26980,7 +26966,7 @@
  trans_ru: развратный
 -lexeme
  lex: развёрнутой
- stem: развёрнуто.
+ stem: развёрнуто.//развернуто.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: развёрнутый
@@ -26998,7 +26984,7 @@
  trans_ru: разноцветный
 -lexeme
  lex: разношёрстной
- stem: разношёрстно.
+ stem: разношёрстно.//разношерстно.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: разношёрстный
@@ -27052,7 +27038,7 @@
  trans_ru: раритетный
 -lexeme
  lex: раскрепощённой
- stem: раскрепощённо.
+ stem: раскрепощённо.//раскрепощенно.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: раскрепощённый
@@ -27088,7 +27074,7 @@
  trans_ru: расфуфыренный
 -lexeme
  lex: расчётной
- stem: расчётно.
+ stem: расчётно.//расчетно.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: расчётный
@@ -27190,7 +27176,7 @@
  trans_ru: режимный
 -lexeme
  lex: режиссёрской
- stem: режиссёрско.
+ stem: режиссёрско.//режиссерско.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: режиссёрский
@@ -27633,6 +27619,12 @@
  paradigm: connect_adjectives-j
  trans_ru: самозарядный
 -lexeme
+ lex: самой
+ stem: само.
+ gramm: ADJ,rus
+ paradigm: connect_adjectives-j
+ trans_ru: самый
+-lexeme
  lex: самоплодной
  stem: самоплодно.
  gramm: ADJ,rus
@@ -27670,7 +27662,7 @@
  trans_ru: санный
 -lexeme
  lex: сапёрной
- stem: сапёрно.
+ stem: сапёрно.//саперно.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: сапёрный
@@ -27999,9 +27991,9 @@
  paradigm: connect_adjectives-j
  trans_ru: серозный
 -lexeme
- lex: серъёзной
- stem: серъёзно.
- gramm: ADJ,rus
+ lex: серьёзной
+ stem: серъёзно.//серъезно.
+ gramm: ADJ,rus,missp
  paradigm: connect_adjectives-j
  trans_ru: серъёзный
 -lexeme
@@ -28204,7 +28196,7 @@
  trans_ru: скрипичный
 -lexeme
  lex: скрупулёзной
- stem: скрупулёзно.
+ stem: скрупулёзно.//скрупулезно.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: скрупулёзный
@@ -28300,13 +28292,13 @@
  trans_ru: сложный
 -lexeme
  lex: сложноподчинённой
- stem: сложноподчинённо.
+ stem: сложноподчинённо.//сложноподчиненно.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: сложноподчинённый
 -lexeme
  lex: слоёной
- stem: слоёно.
+ stem: слоёно.//слоено.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: слоёный
@@ -28456,7 +28448,7 @@
  trans_ru: солнечный
 -lexeme
  lex: соловьёвской
- stem: соловьёвско.
+ stem: соловьёвско.//соловьевско.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: соловьёвский
@@ -29002,7 +28994,7 @@
  trans_ru: студенческий
 -lexeme
  lex: студёной
- stem: студёно.
+ stem: студёно.//студено.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: студёный
@@ -29164,19 +29156,19 @@
  trans_ru: счастливый
 -lexeme
  lex: счётной
- stem: счётно.
+ stem: счётно.//счетно.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: счётный
 -lexeme
  lex: съёмной
- stem: съёмно.
+ stem: съёмно.//съемно.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: съёмный
 -lexeme
  lex: съёмочной
- stem: съёмочно.
+ stem: съёмочно.//съемочно.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: съёмочный
@@ -29194,7 +29186,7 @@
  trans_ru: сыпной
 -lexeme
  lex: сырокопчёной
- stem: сырокопчёно.
+ stem: сырокопчёно.//сырокопчено.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: сырокопчёный
@@ -29544,7 +29536,7 @@
  lex: толло
  stem: толло.
  gramm: ADJ
- paradigm: connect-adjectives
+ paradigm: connect_adjectives
  trans_ru: вчерашний
 -lexeme
  lex: толстой
@@ -29692,7 +29684,7 @@
  trans_ru: тревожный
 -lexeme
  lex: тренажёрной
- stem: тренажёрно.
+ stem: тренажёрно.//тренажерно.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: тренажёрный
@@ -29770,13 +29762,13 @@
  trans_ru: трудовой
 -lexeme
  lex: трёхлитровой
- stem: трёхлитрово.
+ stem: трёхлитрово.//трехлитрово.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: трёхлитровый
 -lexeme
  lex: трёхсеялочной
- stem: трёхсеялочно.
+ stem: трёхсеялочно.//трехсеялочно.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: трёхсеялочный
@@ -29788,7 +29780,7 @@
  trans_ru: туалетный
 -lexeme
  lex: туберкулёзной
- stem: туберкулёзно.
+ stem: туберкулёзно.//туберкулезно.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: туберкулёзный
@@ -29884,7 +29876,7 @@
  trans_ru: тюркский
 -lexeme
  lex: тёмной
- stem: тёмно.
+ stem: тёмно.//темно.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: тёмный
@@ -30016,7 +30008,7 @@
  trans_ru: уманский
 -lexeme
  lex: умилённой
- stem: умилённо.
+ stem: умилённо.//умиленно.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: умилённый
@@ -30136,7 +30128,13 @@
  trans_ru: усть-нечкинский
 -lexeme
  lex: усть-цилёмской
- stem: усть-цилёмско.
+ stem: усть-цилёмско.//усть-цилемско.
+ gramm: ADJ,rus
+ paradigm: connect_adjectives-j
+ trans_ru: усть-цилёмский
+-lexeme
+ lex: цилёмской
+ stem: цилёмско.//цилемско.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: усть-цилёмский
@@ -30172,13 +30170,13 @@
  trans_ru: учредительный
 -lexeme
  lex: учётной
- stem: учётно.
+ stem: учётно.//учетно.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: учётный
 -lexeme
  lex: ущемлённой
- stem: ущемлённо.
+ stem: ущемлённо.//ущемленно.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: ущемлённый
@@ -30208,7 +30206,7 @@
  trans_ru: фальшивый
 -lexeme
  lex: фалёнской
- stem: фалёнско.
+ stem: фалёнско.//фаленско.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: фалёнский
@@ -30502,7 +30500,7 @@
  trans_ru: хельсинкский
 -lexeme
  lex: химикотехнологической
- stem: химикотехнологической.//химико-технологическо.
+ stem: химикотехнологическо.//химико-технологическо.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: химико-технологический
@@ -30520,7 +30518,7 @@
  trans_ru: хитрый
 -lexeme
  lex: хлебоприёмной
- stem: хлебоприёмно.
+ stem: хлебоприёмно.//хлебоприемно.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: хлебоприёмный
@@ -30664,13 +30662,13 @@
  trans_ru: цейсовский
 -lexeme
  lex: целеустремлённой
- stem: целеустремлённо.
+ stem: целеустремлённо.//целеустремленно.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: целеустремлённый
 -lexeme
  lex: целеустремлённой
- stem: целецстремлённо.
+ stem: целецстремлённо.//целецстремленно.
  gramm: ADJ,rus,missp
  paradigm: connect_adjectives-j
  trans_ru: целеустремлённый
@@ -30730,7 +30728,7 @@
  trans_ru: церковный
 -lexeme
  lex: церковноприходской
- stem: церковноприходской.//церковно-приходско.
+ stem: церковноприходско.//церковно-приходско.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: церковно-приходской
@@ -30808,7 +30806,7 @@
  trans_ru: черновой
 -lexeme
  lex: чертёжной
- stem: чертёжно.
+ stem: чертёжно.//чертежно.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: чертёжный
@@ -30832,7 +30830,7 @@
  trans_ru: четырёххлористый
 -lexeme
  lex: четырёххлористой
- stem: четырёххлористо.
+ stem: четырёххлористо.//четыреххлористо.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: четырёххлористый
@@ -30946,13 +30944,13 @@
  trans_ru: чутырский
 -lexeme
  lex: чёткой
- stem: чётко.
+ stem: чётко.//четко.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: чёткий
 -lexeme
  lex: чётной
- stem: чётно.
+ stem: чётно.//четно.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: чётный
@@ -31096,7 +31094,7 @@
  trans_ru: шушенский
 -lexeme
  lex: шёлковой
- stem: шёлково.
+ stem: шёлково.//шелково.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: шёлковый
@@ -31576,7 +31574,7 @@
  trans_ru: ядовитый
 -lexeme
  lex: ядрёной
- stem: ядрёно.
+ stem: ядрёно.//ядрено.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: ядрёный
@@ -31636,7 +31634,7 @@
  trans_ru: яшевский
 -lexeme
  lex: ёжевской
- stem: ёжевско.
+ stem: ёжевско.//ежевско.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: ёжевский
@@ -31651,17 +31649,47 @@
  lex: бадӟымос
  stem: бадӟымос.
  gramm: A
- paradigm: connect-adjectives
+ paradigm: connect_adjectives
  trans_ru: большой
 -lexeme
  lex: гожмо
  stem: гожмо.
  gramm: A
- paradigm: connect-adjectives
+ paradigm: connect_adjectives
  trans_ru: полосатый
 -lexeme
  lex: жингрес
  stem: жингрес.
  gramm: A
- paradigm: connect-adjectives
+ paradigm: connect_adjectives
  trans_ru: звонкий
+-lexeme
+ lex: блаженная
+ stem: блаженная.
+ gramm: ADJ,rus
+ paradigm: connect_adjectives
+ trans_ru: блаженная
+-lexeme
+ lex: блаженный
+ stem: блаженны.
+ gramm: ADJ,rus
+ paradigm: connect_adjectives-j
+ trans_ru: блаженный
+-lexeme
+ lex: кильтро
+ stem: кильтро.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: модный, изысканный
+-lexeme
+ lex: лусьтро
+ stem: лусьтро.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: лохматый, косматый
+-lexeme
+ lex: льӧмлет
+ stem: льӧмлет.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: черёмуховый

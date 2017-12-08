@@ -7441,7 +7441,7 @@
 
 -lexeme
  lex: ой
- stem: ой.
+ stem: ой.//оой.//ооой.//оооой.//ооооой.
  gramm: INTRJ
  paradigm: Empty
  trans_ru: ах, ой
@@ -9415,9 +9415,9 @@
 -lexeme
  lex: марым
  stem: марым.
- gramm: INTRJ
- paradigm: Empty
- trans_ru: маркер хезитации
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: это самое (маркер хезитации)
 
 -lexeme
  lex: барыбыр
@@ -9607,6 +9607,13 @@
  gramm: ADV
  paradigm: connect_adverbs
  trans_ru: весь день
+
+-lexeme
+ lex: лумбытлы
+ stem: лумбытлы.
+ gramm: ADV,dar
+ paradigm: connect_adverbs
+ trans_ru: на весь день
 
 -lexeme
  lex: чулькак
@@ -10869,6 +10876,13 @@
  trans_ru: нагишом
 
 -lexeme
+ lex: гольык
+ stem: гольык.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: голый
+
+-lexeme
  lex: гонӟыро
  stem: гонӟыро.
  gramm: ADV
@@ -11529,3 +11543,58 @@
  gramm: PREDIC,rus
  paradigm: Comparative
  trans_ru: долой
+
+-lexeme
+ lex: блеать
+ stem: блеать.
+ gramm: INTRJ,rus
+ paradigm: Comparative
+ trans_ru: блеать
+-lexeme
+ lex: видать
+ stem: видать.
+ gramm: PARENTH,rus
+ paradigm: Comparative
+ trans_ru: видать
+-lexeme
+ lex: вплоть
+ stem: вплоть.
+ gramm: ADV,rus
+ paradigm: connect_adverbs
+ trans_ru: вплоть
+-lexeme
+ lex: дескать
+ stem: дескать.
+ gramm: PARENTH,rus
+ paradigm: Comparative
+ trans_ru: дескать
+-lexeme
+ lex: обалдеть
+ stem: обалдеть.
+ gramm: INTRJ,rus
+ paradigm: Comparative
+ trans_ru: обалдеть
+-lexeme
+ lex: опеть
+ stem: опеть.
+ gramm: ADV,rus
+ paradigm: connect_adverbs
+ trans_ru: опять
+-lexeme
+ lex: опять
+ stem: опять.
+ gramm: ADV,rus
+ paradigm: Comparative
+ trans_ru: опять
+-lexeme
+ lex: офигеть
+ stem: офигеть.
+ gramm: PARENTH,rus
+ paradigm: Comparative
+ trans_ru: офигеть
+-lexeme
+ lex: охренеть
+ stem: охренеть.
+ gramm: PARENTH,rus
+ paradigm: Comparative
+ trans_ru: охренеть

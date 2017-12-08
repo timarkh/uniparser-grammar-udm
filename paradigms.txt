@@ -168,6 +168,7 @@
  -flex: .ой<.>
   gramm: period
   gloss: PERIOD
+  paradigm: Comparative
  -flex: .ой|скын<.>
   gramm: period
   gloss: PERIOD|DELIM
@@ -595,7 +596,7 @@
   paradigm: Noun-case-poss-1,pl-j
   paradigm: Noun-case-poss-2,pl-j
   paradigm: Noun-case-poss-3,pl-j
- -flex: .[й]ёс<.>
+ -flex: .[й]ёс<.>//.[й]ъёс<.>
   gramm: pl
   gloss: PL
   paradigm: Noun-case
@@ -690,7 +691,7 @@
   paradigm: Noun-case-poss-1,pl
   paradigm: Noun-case-poss-2,pl
   paradigm: Noun-case-poss-3,pl
- -flex: .ос<.>
+ -flex: .ос<.>//.[я]ос<.>
   gramm: pl
   gloss: PL
   paradigm: Noun-case
@@ -1725,31 +1726,31 @@
  -flex: .[я]<.>//.<.>
   gramm: nom
   paradigm: Comparative
- -flex: .ез<.>
+ -flex: .ез<.>//.[я]ез<.>
   gramm: acc
   gloss: ACC
   paradigm: Comparative
- -flex: .лэн<.>
+ -flex: .лэн<.>//.[я]лэн<.>
   gramm: gen
   gloss: GEN
   paradigm: Noun-case-compounding
- -flex: .лэс<.>
+ -flex: .лэс<.>//.[я]лэс<.>
   gramm: abl
   gloss: ABL
   paradigm: Noun-case-compounding-soft
- -flex: .лэсь<.>
+ -flex: .лэсь<.>//.[я]лэсь<.>
   gramm: abl
   gloss: ABL
   paradigm: Comparative
- -flex: .лы<.>
+ -flex: .лы<.>//.[я]лы<.>
   gramm: dat
   gloss: DAT
   paradigm: Noun-case-compounding
- -flex: .ен<.>
+ -flex: .ен<.>//.[я]ен<.>
   gramm: ins
   gloss: INS
   paradigm: Noun-case-compounding
- -flex: .тэк<.>
+ -flex: .тэк<.>//.[я]тэк<.>
   gramm: car
   gloss: CAR
   paradigm: Noun-case-compounding
@@ -1757,43 +1758,43 @@
   gramm: adv
   gloss: ADV
   paradigm: Comparative
- -flex: .ын<.>
+ -flex: .ын<.>//.[я]ын<.>
   gramm: loc
   gloss: LOC
   paradigm: Noun-case-compounding
- -flex: .е<.>
+ -flex: .е<.>//.[я]е<.>
   gramm: ill
   gloss: ILL
   paradigm: Comparative
- -flex: .ыс<.>
+ -flex: .ыс<.>//.[я]ыс<.>
   gramm: el
   gloss: EL
   paradigm: Noun-case-compounding-soft
- -flex: .ысь<.>
+ -flex: .ысь<.>//.[я]ысь<.>
   gramm: el
   gloss: EL
   paradigm: Comparative
- -flex: .ысен<.>
+ -flex: .ысен<.>//.[я]ысен<.>
   gramm: egr
   gloss: EGR
   paradigm: Noun-case-compounding
- -flex: .ёз<.>
+ -flex: .ёз<.>//.[я]ёз<.>
   gramm: term
   gloss: TERM
   paradigm: Noun-case-compounding-soft
- -flex: .ёзь<.>
+ -flex: .ёзь<.>//.[я]ёзь<.>
   gramm: term
   gloss: TERM
   paradigm: Comparative
- -flex: .етӥ<.>//.ытӥ<.>//.тӥ<.>
+ -flex: .етӥ<.>//.ытӥ<.>//.тӥ<.>//.[я]тӥ<.>//.[я]етӥ<.>
   gramm: prol
   gloss: PROL
   paradigm: Noun-case-compounding
- -flex: .лан<.>
+ -flex: .лан<.>//.[я]лан<.>
   gramm: app
   gloss: APP
   paradigm: Noun-case-compounding-soft
- -flex: .лань<.>
+ -flex: .лань<.>//.[я]лань<.>
   gramm: app
   gloss: APP
   paradigm: Comparative
@@ -1834,23 +1835,23 @@
   gramm: adv
   gloss: ADV
   paradigm: Comparative
- -flex: .ын<.>
+ -flex: .ын<.>//.[е]ын<.>
   gramm: loc
   gloss: LOC
   paradigm: Noun-case-compounding
- -flex: .е<.>
+ -flex: .е<.>//.[е]е<.>
   gramm: ill
   gloss: ILL
   paradigm: Comparative
- -flex: .ыс<.>
+ -flex: .ыс<.>//.[е]ыс<.>
   gramm: el
   gloss: EL
   paradigm: Noun-case-compounding-soft
- -flex: .ысь<.>
+ -flex: .ысь<.>//.[е]ысь<.>
   gramm: el
   gloss: EL
   paradigm: Comparative
- -flex: .ысен<.>
+ -flex: .ысен<.>//.[е]ысен<.>
   gramm: egr
   gloss: EGR
   paradigm: Noun-case-compounding
