@@ -9678,6 +9678,12 @@
  paradigm: Noun-num-consonant
  trans_ru: Нижневартовск
 -lexeme
+ lex: Нижний
+ stem: нижни.
+ gramm: N,PN,topn
+ paradigm: Noun-num-j
+ trans_ru: Нижний (Новгород)
+-lexeme
  lex: Никарагуа
  stem: никарагуа.
  gramm: N,PN,topn
@@ -11626,6 +11632,12 @@
  gramm: N,PN,famn
  paradigm: Noun-num-vowel
  trans_ru: Тронина
+-lexeme
+ lex: Трофим
+ stem: трофим.
+ gramm: N,PN,persn
+ paradigm: Noun-num-consonant
+ trans_ru: Трофим
 -lexeme
  lex: Троцкой
  stem: троцко.
@@ -17775,6 +17787,12 @@
  paradigm: Noun-num-consonant
  trans_ru: Пусошур
 -lexeme
+ lex: Путь
+ stem: пут.
+ gramm: N,PN
+ paradigm: Noun-num-soft
+ trans_ru: Путь (часть названия колхоза, газеты и т. п.)
+-lexeme
  lex: Пуччини
  stem: пуччини.
  gramm: N,PN,famn
@@ -20063,6 +20081,12 @@
  gramm: N,PN,patrn
  paradigm: Noun-num-consonant
  trans_ru: Антонович
+-lexeme
+ lex: Ану
+ stem: ану.
+ gramm: N,PN,persn
+ paradigm: Noun-num-consonant
+ trans_ru: Ану
 -lexeme
  lex: Ардашева
  stem: ардашева.
@@ -22790,9 +22814,15 @@
 -lexeme
  lex: Трофимович
  stem: трофимович.
- gramm: N,PN,famn
+ gramm: N,PN,patrn
  paradigm: Noun-num-consonant
  trans_ru: Трофимович
+-lexeme
+ lex: Трофимовна
+ stem: трофимовна.
+ gramm: N,PN,patrn
+ paradigm: Noun-num-vowel
+ trans_ru: Трофимовна
 -lexeme
  lex: Трубачёв
  stem: трубачёв.

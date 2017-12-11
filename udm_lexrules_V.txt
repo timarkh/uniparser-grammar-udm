@@ -21908,3 +21908,10 @@
   gloss: .*CAUS-PASS(.(?!VN))*$
  -add
   trans_ru2: соревноваться, состязаться, участвовать в соревновании
+-lex_rule
+ -search
+  stem: пыр.
+  gramm: V,.*
+  gloss: .*CAUS(.(?!VN))*$
+ -add
+  trans_ru2: ввести, ввезти

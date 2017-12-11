@@ -27,6 +27,13 @@
  trans_ru: есть
 
 -lexeme
+ lex: вань
+ stem: ван.
+ gramm: V,prs
+ paradigm: Noun-case-soft
+ trans_ru: есть
+
+-lexeme
  lex: вылымтэ
  stem: выл.
  gramm: V,ptcp,neg
@@ -151,6 +158,13 @@
  gramm: PART
  paradigm: Empty
  trans_ru: не знаю
+
+-lexeme
+ lex: ява
+ stem: ява.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: да ведь; же
 
 -lexeme
  lex: ӧжыт
@@ -2689,9 +2703,9 @@
 -lexeme
  lex: сабырлы
  stem: сабырлы.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: чинно, кроткий
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: чинный, кроткий
 
 -lexeme
  lex: нёпо
@@ -10003,9 +10017,16 @@
 -lexeme
  lex: так
  stem: так.
- gramm: ADV
+ gramm: ADV,rus
  paradigm: connect_adverbs
  trans_ru: так, просто так
+
+-lexeme
+ lex: таки
+ stem: таки.
+ gramm: ADV,rus
+ paradigm: connect_adverbs
+ trans_ru: таки
 
 -lexeme
  lex: пырак
@@ -10645,44 +10666,51 @@
 
 -lexeme
  lex: тод
+ stem: тодэ.
+ gramm: N,ill
+ paradigm: Comparative
+ trans_ru: память
+
+-lexeme
+ lex: тод
  stem: тодам.
  gramm: N,1sg,ill
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: память
 
 -lexeme
  lex: тод
  stem: тодад.
  gramm: N,2sg,ill
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: память
 
 -lexeme
  lex: тод
  stem: тодаз.
  gramm: N,3sg,ill
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: память
 
 -lexeme
  lex: тод
  stem: тодамы.
  gramm: N,1pl,ill
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: память
 
 -lexeme
  lex: тод
  stem: тодады.
  gramm: N,2pl,ill
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: память
 
 -lexeme
  lex: тод
  stem: тодазы.
  gramm: N,3pl,ill
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: память
 
 
@@ -10754,41 +10782,17 @@
  stem: аску.
  gramm: ADV
  paradigm: connect_adverbs
+ paradigm: Noun-case
+ paradigm: Noun-case-poss-3,sg
  trans_ru: завтра
 
 -lexeme
- lex: аскуяз
- stem: аскуяз.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: назавтра
-
--lexeme
- lex: аскуаз
- stem: аскуаз.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: назавтра
-
--lexeme
- lex: аскыяз
- stem: аскыяз.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: назавтра
-
--lexeme
- lex: аскыаз
- stem: аскыаз.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: назавтра
-
--lexeme
  lex: аскы
- stem: аскы.
+ stem: аскы.//аск.
  gramm: ADV
  paradigm: connect_adverbs
+ paradigm: Noun-case
+ paradigm: Noun-case-poss-3,sg
  trans_ru: завтра
 
 -lexeme
@@ -11367,6 +11371,8 @@
  stem: усьсэ.
  gramm: ADV
  paradigm: connect_adverbs
+ paradigm: Noun-case
+ paradigm: Noun-case-poss-3,sg
  trans_ru: послезавтра
 
 -lexeme

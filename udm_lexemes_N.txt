@@ -22,27 +22,27 @@
 -lexeme
  lex: Арча
  stem: арча.
- gramm: N,topn
+ gramm: N,PN,topn
  paradigm: Noun-num-vowel
  trans_ru: 1. Арск 2. фил.воршуд
 
 -lexeme
  lex: Буй
  stem: бу.
- gramm: N,topn
+ gramm: N,PN,topn
  paradigm: Noun-num-j
  trans_ru: Буй (река)
 
 -lexeme
  lex: ВЛКСМ
- stem: влксм.
+ stem: влксм.//влксм-.
  gramm: N,abbr,rus
  paradigm: Noun-num-consonant
  trans_ru: ВЛКСМ
 
 -lexeme
  lex: ВЦСПС
- stem: вцспс.
+ stem: вцспс.//вцспс-.
  gramm: N,abbr,rus
  paradigm: Noun-num-consonant
  trans_ru: ВЦСПС
@@ -50,7 +50,7 @@
 -lexeme
  lex: Вика
  stem: вика.
- gramm: N,persn
+ gramm: N,PN,persn
  paradigm: Noun-num-vowel
  trans_ru: Вика
 
@@ -78,7 +78,7 @@
 -lexeme
  lex: Дагестан
  stem: дагестан.
- gramm: N,topn
+ gramm: N,PN,topn
  paradigm: Noun-num-consonant
  trans_ru: Дагестан
 
@@ -92,7 +92,7 @@
 -lexeme
  lex: Европа
  stem: европа.
- gramm: N,topn
+ gramm: N,PN,topn
  paradigm: Noun-num-vowel
  trans_ru: Европа
 
@@ -120,7 +120,7 @@
 -lexeme
  lex: Китай
  stem: кита.
- gramm: N,topn
+ gramm: N,PN,topn
  paradigm: Noun-num-j
  trans_ru: Китай
 
@@ -162,7 +162,7 @@
 -lexeme
  lex: Матра
  stem: матра.
- gramm: N,persn
+ gramm: N,PN,persn
  paradigm: Noun-num-vowel
  trans_ru: языческое божество древних вотяков
 
@@ -197,8 +197,9 @@
 -lexeme
  lex: Пурга
  stem: пурга.
- gramm: N,topn
+ gramm: N,PN,topn
  paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
  trans_ru: Пурга (название местности, название воршуда)
 
 -lexeme
@@ -1411,6 +1412,14 @@
  stem: айы.
  gramm: N,hum
  paradigm: Noun-num-vowel
+ trans_ru: отец
+-lexeme
+ lex: айы
+ stem: ай.
+ gramm: N,hum
+ paradigm: Noun-case-mar-poss-1,sg
+ paradigm: Noun-case-mar-poss-2,sg
+ paradigm: Noun-case-mar-poss-3,sg
  trans_ru: отец
 
 -lexeme
@@ -6489,6 +6498,14 @@
  gramm: N,hum
  paradigm: Noun-num-vowel
  trans_ru: отец
+-lexeme
+ lex: бубы
+ stem: буб.
+ gramm: N,hum
+ paradigm: Noun-case-mar-poss-1,sg
+ paradigm: Noun-case-mar-poss-2,sg
+ paradigm: Noun-case-mar-poss-3,sg
+ trans_ru: отец
 
 -lexeme
  lex: бубы-мумы
@@ -7766,7 +7783,7 @@
  stem: вазиськем.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: отражение, огъя вераса
+ trans_ru: отражение
 
 -lexeme
  lex: вазь
@@ -8299,6 +8316,14 @@
  stem: вармумы.
  gramm: N,hum
  paradigm: Noun-num-vowel
+ trans_ru: тёща
+-lexeme
+ lex: вармумы
+ stem: вармум.
+ gramm: N,hum
+ paradigm: Noun-case-mar-poss-1,sg
+ paradigm: Noun-case-mar-poss-2,sg
+ paradigm: Noun-case-mar-poss-3,sg
  trans_ru: тёща
 
 -lexeme
@@ -9136,10 +9161,10 @@
 
 -lexeme
  lex: визьнод
- stem: визьнод.
+ stem: визьнод.//визь-нод.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: религ. заповедь
+ trans_ru: ум, сообразительность; заповедь
 
 -lexeme
  lex: визьнодась
@@ -12809,6 +12834,14 @@
  stem: гогымумы.
  gramm: N,hum
  paradigm: Noun-num-vowel
+ trans_ru: повивальная бабка, повитуха
+-lexeme
+ lex: гогымумы
+ stem: гогымум.
+ gramm: N,hum
+ paradigm: Noun-case-mar-poss-1,sg
+ paradigm: Noun-case-mar-poss-2,sg
+ paradigm: Noun-case-mar-poss-3,sg
  trans_ru: повивальная бабка, повитуха
 
 -lexeme
@@ -19300,6 +19333,13 @@
  trans_ru: бог, господь
 
 -lexeme
+ lex: кузё-инмар
+ stem: кузё-инмар.
+ gramm: N,supernat
+ paradigm: Noun-num-consonant
+ trans_ru: Господь
+
+-lexeme
  lex: инмаркариськон
  stem: инмаркариськон.
  gramm: N
@@ -24062,6 +24102,14 @@
  stem: киросбубы.
  gramm: N,hum
  paradigm: Noun-num-vowel
+ trans_ru: крестный отец
+-lexeme
+ lex: киросбубы
+ stem: киросбуб.
+ gramm: N,hum
+ paradigm: Noun-case-mar-poss-1,sg
+ paradigm: Noun-case-mar-poss-2,sg
+ paradigm: Noun-case-mar-poss-3,sg
  trans_ru: крестный отец
 
 -lexeme
@@ -37183,6 +37231,14 @@
  gramm: N,anim
  paradigm: Noun-num-vowel
  trans_ru: мать, мама; самка
+-lexeme
+ lex: мумы
+ stem: мум.
+ gramm: N,anim
+ paradigm: Noun-case-mar-poss-1,sg
+ paradigm: Noun-case-mar-poss-2,sg
+ paradigm: Noun-case-mar-poss-3,sg
+ trans_ru: мать, мама; самка
 
 -lexeme
  lex: мумы-айы
@@ -46739,6 +46795,13 @@
  gramm: N,rus
  paradigm: Noun-num-vowel
  trans_ru: пресс-папье
+
+-lexeme
+ lex: пресс-служба
+ stem: пресс-служба.
+ gramm: N,rus
+ paradigm: Noun-num-vowel
+ trans_ru: пресс-служба
 
 -lexeme
  lex: пресса
@@ -61419,6 +61482,13 @@
  gramm: N,hum
  paradigm: Noun-num-vowel
  trans_ru: бавл., живой труп, бавл. пренебр. недотепа, неумеха, дохлятина
+
+-lexeme
+ lex: умм
+ stem: умм.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: сон (в сочетаниях)
 
 -lexeme
  lex: умойлык

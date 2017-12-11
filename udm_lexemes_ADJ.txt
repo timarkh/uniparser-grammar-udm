@@ -7259,6 +7259,13 @@
  trans_ru: старинный, древний, прежний
 
 -lexeme
+ lex: валля
+ stem: валля.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: прошлый, прежний
+
+-lexeme
  lex: антирелигиозной
  stem: антирелигиозно.
  gramm: ADJ,rus

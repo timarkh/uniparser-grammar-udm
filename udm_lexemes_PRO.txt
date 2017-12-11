@@ -457,6 +457,7 @@
  stem: кӧня.
  gramm: PRO
  paradigm: Comparative
+ paradigm: Noun-case
  trans_ru: сколько
 
 -lexeme
@@ -464,6 +465,7 @@
  stem: котькӧня.
  gramm: PRO
  paradigm: Comparative
+ paradigm: Noun-case
  trans_ru: сколько угодно
 
 -lexeme
@@ -471,6 +473,7 @@
  stem: олокӧня.
  gramm: PRO
  paradigm: Comparative
+ paradigm: Noun-case
  trans_ru: не знаю сколько
 
 -lexeme
@@ -478,6 +481,7 @@
  stem: нокӧня.
  gramm: PRO
  paradigm: Comparative
+ paradigm: Noun-case
  trans_ru: нисколько
 
 -lexeme
@@ -622,283 +626,267 @@
  trans_ru: тот
 
 -lexeme
- lex: ваньмыз
+ lex: вань
  stem: вань.
  gramm: PRO
+ paradigm: Comparative
+ paradigm: collective
+ paradigm: Noun-case-poss-3,pl
+ paradigm: Noun-case-poss-2,pl
+ paradigm: Noun-case-poss-1,pl
+ trans_ru: все, всё
+
+-lexeme
+ lex: вань
+ stem: ваньм.
+ gramm: PRO
  paradigm: Noun-case-poss-3,sg
+ paradigm: Noun-case-poss-2,sg
  trans_ru: все, всё
-
--lexeme
- lex: ваньмыз
- stem: ваньмыз.
- gramm: PRO,3sg
- paradigm: Noun-case
- trans_ru: все, всё
-
--lexeme
- lex: ваньмы
- stem: ваньмы.
- gramm: PRO,1pl
- paradigm: Noun-case
- trans_ru: все [мы]
-
--lexeme
- lex: ваньды
- stem: ваньды.
- gramm: PRO,2pl
- paradigm: Noun-case
- trans_ru: все [вы]
-
--lexeme
- lex: ваньзы
- stem: ваньзы.
- gramm: PRO,3sg
- paradigm: Noun-case
- trans_ru: все [они]
 
 -lexeme
  lex: отчы
  stem: отчы.
  gramm: PRO,ill
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: туда
 
 -lexeme
  lex: сотчы
  stem: сотчы.
  gramm: PRO,ill
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: туда
 
 -lexeme
  lex: татчы
  stem: татчы.
  gramm: PRO,ill
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: сюда
 
 -lexeme
  lex: кытчы
  stem: кытчы.
  gramm: PRO,ill
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: куда
 
 -lexeme
  lex: котькытчы
  stem: котькытчы.
  gramm: PRO,ill
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: куда угодно
 
 -lexeme
  lex: олокытчы
  stem: олокытчы.
  gramm: PRO,ill
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: куда-то
 
 -lexeme
  lex: нокытчы
  stem: нокытчы.
  gramm: PRO,ill
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: никуда; некуда
 
 -lexeme
  lex: отын
  stem: отын.
  gramm: PRO,loc
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: там, тут
 
 -lexeme
  lex: сотын
  stem: сотын.
  gramm: PRO,loc
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: там, тут
 
 -lexeme
  lex: татын
  stem: татын.
  gramm: PRO,loc
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: здесь
 
 -lexeme
  lex: кытын
  stem: кытын.
  gramm: PRO,loc
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: где
 
 -lexeme
  lex: олокытын
  stem: олокытын.
  gramm: PRO,loc
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: где-то, не знаю где
 
 -lexeme
  lex: котькытын
  stem: котькытын.
  gramm: PRO,loc
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: где угодно
 
 -lexeme
  lex: нокытын
  stem: нокытын.
  gramm: PRO,loc
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: нигде
 
 -lexeme
  lex: отысь
  stem: отысь.//отӥсь.
  gramm: PRO,el
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: оттуда
 
 -lexeme
  lex: сотысь
  stem: сотысь.//сотӥсь.
  gramm: PRO,el
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: оттуда
 
 -lexeme
  lex: татысь
  stem: татысь.//татӥсь.
  gramm: PRO,el
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: отсюда
 
 -lexeme
  lex: кытысь
  stem: кытысь.//кытӥсь.
  gramm: PRO,el
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: откуда
 
 -lexeme
  lex: олокытысь
  stem: олокытысь.//олокытӥсь.
  gramm: PRO,el
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: откуда-то, не знаю откуда
 
 -lexeme
  lex: котькытысь
  stem: котькытысь.//котькытӥсь.
  gramm: PRO,el
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: откуда угодно
 
 -lexeme
  lex: нокытысь
  stem: нокытысь.//нокытӥсь.
  gramm: PRO,el
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: ниоткуда
 
 -lexeme
  lex: отысен
  stem: отысен.//отӥсен.
  gramm: PRO,egr
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: оттуда
 
 -lexeme
  lex: сотысен
  stem: сотысен.//сотӥсен.
  gramm: PRO,egr
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: оттуда; с тех пор
 
 -lexeme
  lex: татысен
  stem: татысен.//татӥсен.
  gramm: PRO,egr
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: отсюда
 
 -lexeme
  lex: кытысен
  stem: кытысен.//кытӥсен.
  gramm: PRO,egr
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: откуда
 
 -lexeme
  lex: олокытысен
  stem: олокытысен.//олокытӥсен.
  gramm: PRO,egr
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: откуда-то, не знаю откуда
 
 -lexeme
  lex: котькытысен
  stem: котькытысен.//котькытӥсен.
  gramm: PRO,egr
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: откуда угодно
 
 -lexeme
  lex: нокытысен
  stem: нокытысен.//нокытӥсен.
  gramm: PRO,egr
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: ниоткуда
 
 -lexeme
  lex: отчыозь
  stem: отчыозь.
  gramm: PRO,egr
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: дотуда
 
 -lexeme
  lex: сотчыозь
  stem: сотчыозь.
  gramm: PRO,egr
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: дотуда
 
 -lexeme
  lex: татчыозь
  stem: татчыозь.
  gramm: PRO,egr
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: досюда
 
 -lexeme
  lex: кытчыозь
  stem: кытчыозь.
  gramm: PRO,egr
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: докуда
 
 -lexeme
  lex: олокытчыозь
  stem: олокытчыозь.
  gramm: PRO,egr
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: докуда-то, не знаю докуда
 
 -lexeme
  lex: котькытчыозь
  stem: котькытчыозь.
  gramm: PRO,egr
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: докуда угодно
 
 -lexeme
  lex: нокытчыозь
  stem: нокытчыозь.
  gramm: PRO,egr
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: нидокуда
 
 -lexeme
@@ -947,7 +935,7 @@
  lex: котькытӥ
  stem: котькытӥ.//котькыти.
  gramm: PRO,prol,egr
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: где угодно
 
 
@@ -955,133 +943,133 @@
  lex: ас
  stem: ас.
  gramm: PRO,nom,sg
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: сам, свой
 
 -lexeme
  lex: ас
  stem: ачиз.
  gramm: PRO,3sg,nom
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: сам, свой
 
 -lexeme
  lex: ас
  stem: ачим.
  gramm: PRO,1sg,nom
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: сам, свой
 
 -lexeme
  lex: ас
  stem: ачид.
  gramm: PRO,2sg,nom
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: сам, свой
 
 -lexeme
  lex: ас
  stem: аслаз.
  gramm: PRO,3sg,gen
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: сам, свой
 
 -lexeme
  lex: ас
  stem: аслам.
  gramm: PRO,1sg,gen
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: сам, свой
 
 -lexeme
  lex: ас
  stem: аслад.
  gramm: PRO,2sg,gen
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: сам, свой
 
 -lexeme
  lex: ас
  stem: аслэсьтыз.
  gramm: PRO,3sg,abl
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: сам, свой
 
 -lexeme
  lex: ас
  stem: аслэсьтым.
  gramm: PRO,1sg,abl
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: сам, свой
 
 -lexeme
  lex: ас
  stem: аслэсьтыд.
  gramm: PRO,2sg,abl
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: сам, свой
 
 -lexeme
  lex: ас
  stem: аслыз.
  gramm: PRO,3sg,dat
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: сам, свой
 
 -lexeme
  lex: ас
  stem: аслым.
  gramm: PRO,1sg,dat
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: сам, свой
 
 -lexeme
  lex: ас
  stem: аслыд.
  gramm: PRO,2sg,dat
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: сам, свой
 
 -lexeme
  lex: ас
  stem: асэныз.
  gramm: PRO,3sg,ins
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: сам, свой
 
 -lexeme
  lex: ас
  stem: асэным.
  gramm: PRO,1sg,ins
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: сам, свой
 
 -lexeme
  lex: ас
  stem: асэныд.
  gramm: PRO,2sg,ins
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: сам, свой
 
 -lexeme
  lex: ас
  stem: ачизъя.
  gramm: PRO,3sg,adv
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: сам, свой
 
 -lexeme
  lex: ас
  stem: ачимъя.
  gramm: PRO,1sg,adv
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: сам, свой
 
 -lexeme
  lex: ас
  stem: ачидъя.
  gramm: PRO,2sg,adv
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: сам, свой
 
 
@@ -1089,70 +1077,70 @@
  lex: ас
  stem: ассэ.
  gramm: PRO,3sg,acc,nom
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: сам, свой
 
 -lexeme
  lex: ас
  stem: асме.
  gramm: PRO,1sg,acc,nom
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: сам, свой
 
 -lexeme
  lex: ас
  stem: астэ.
  gramm: PRO,2sg,acc,nom
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: сам, свой
 
 -lexeme
  lex: ас
  stem: ассэс.
  gramm: PRO,3pl,acc
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: сам, свой
 
 -lexeme
  lex: ас
- stem: асмес.
- gramm: PRO,1pl,acc
- paradigm: Empty
+ stem: асмес.//асмеос.//ачимес.
+ gramm: PRO,1pl,nom
+ paradigm: Comparative
  trans_ru: сам, свой
 
 -lexeme
  lex: ас
- stem: астэс.
- gramm: PRO,2pl,acc
- paradigm: Empty
+ stem: астэс.//астэос.//ачидэс.
+ gramm: PRO,2pl,nom
+ paradigm: Comparative
  trans_ru: сам, свой
 
 -lexeme
  lex: ас
  stem: асьсэс.
  gramm: PRO,3pl,acc
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: сам, свой
 
 -lexeme
  lex: ас
  stem: асьмемыз.
  gramm: PRO,1pl,acc
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: сам, свой
 
 -lexeme
  lex: ас
  stem: асьмеды.
  gramm: PRO,acc
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: сам, свой
 
 -lexeme
  lex: ас
  stem: асьмедыз.
  gramm: PRO,2pl,acc
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: сам, свой
 
 -lexeme
@@ -1166,14 +1154,14 @@
  lex: ас
  stem: асьме.
  gramm: PRO,1pl,nom
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: сам, свой
 
 -lexeme
  lex: ас
  stem: асьтэ.
  gramm: PRO,2pl,nom
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: сам, свой
 
 -lexeme
@@ -1187,14 +1175,14 @@
  lex: ас
  stem: асьмеос.//асьмес.
  gramm: PRO,1pl,nom
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: сам, свой
 
 -lexeme
  lex: ас
  stem: асьтэос.//асьтэс.
  gramm: PRO,2pl,nom
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: сам, свой
 
 -lexeme
@@ -1208,14 +1196,14 @@
  lex: ас
  stem: асьмелэн.
  gramm: PRO,1pl,gen
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: сам, свой
 
 -lexeme
  lex: ас
  stem: асьтэлэн.
  gramm: PRO,2pl,gen
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: сам, свой
 
 -lexeme
@@ -1229,14 +1217,14 @@
  lex: ас
  stem: асьмелэсь.
  gramm: PRO,1pl,abl
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: сам, свой
 
 -lexeme
  lex: ас
  stem: асьтэлэсь.
  gramm: PRO,2pl,abl
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: сам, свой
 
 -lexeme
@@ -1250,14 +1238,14 @@
  lex: ас
  stem: асьмелы.
  gramm: PRO,1pl,dat
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: сам, свой
 
 -lexeme
  lex: ас
  stem: асьтэлы.
  gramm: PRO,2pl,dat
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: сам, свой
 
 -lexeme
