@@ -638,10 +638,10 @@
 
 -lexeme
  lex: вань
- stem: ваньм.
+ stem: вань.//ваньм.
  gramm: PRO
- paradigm: Noun-case-poss-3,sg
- paradigm: Noun-case-poss-2,sg
+ paradigm: Noun-case-poss-y-3,sg
+ paradigm: Noun-case-poss-y-2,sg
  trans_ru: все, всё
 
 -lexeme
