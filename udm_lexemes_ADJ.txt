@@ -31700,3 +31700,16 @@
  gramm: ADJ
  paradigm: connect_adjectives
  trans_ru: черёмуховый
+
+-lexeme
+ lex: быдэсроссия
+ stem: быдэсроссия.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: всероссийский
+-lexeme
+ lex: лирической
+ stem: лирич.
+ gramm: ADJ,abbr,rus
+ paradigm: connect_adjectives
+ trans_ru: лирический

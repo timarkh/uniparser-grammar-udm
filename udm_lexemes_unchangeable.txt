@@ -11604,3 +11604,16 @@
  gramm: PARENTH,rus
  paradigm: Comparative
  trans_ru: охренеть
+
+-lexeme
+ lex: аллилуия
+ stem: аллилуия.
+ gramm: PART,rus
+ paradigm: Comparative
+ trans_ru: аллилуия
+-lexeme
+ lex: даров
+ stem: даров.
+ gramm: PART,rus
+ paradigm: Comparative
+ trans_ru: здорово

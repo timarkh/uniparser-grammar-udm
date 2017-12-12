@@ -8489,7 +8489,7 @@
  stem: котка.
  gramm: V,II
  paradigm: connect_verbs-II
- trans_ru: кудахтать, курег котка курица кудахчет
+ trans_ru: кудахтать
 
 -lexeme
  lex: котмыны
@@ -9336,7 +9336,14 @@
  stem: кург.
  gramm: V,I
  paradigm: connect_verbs-I
- trans_ru: рубить, нарезать на мелкие куски, напр., мясо
+ trans_ru: рубить, нарезать
+
+-lexeme
+ lex: курданы
+ stem: курда.
+ gramm: V,II,intr
+ paradigm: connect_verbs-II
+ trans_ru: бояться
 
 -lexeme
  lex: куректыны

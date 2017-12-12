@@ -92487,3 +92487,2122 @@
  gramm: N
  paradigm: Noun-num-vowel
  trans_ru: молозиво
+
+-lexeme
+ lex: автобиография
+ stem: автобиографи.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: автобиография
+-lexeme
+ lex: автосигнализация
+ stem: автосигнализаци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: автосигнализация
+-lexeme
+ lex: автостанция
+ stem: автгстанци.
+ gramm: N,rus,missp
+ paradigm: Noun-num-ija
+ trans_ru: автостанция
+-lexeme
+ lex: автоцинкография
+ stem: автоцинкографи.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: автоцинкография
+-lexeme
+ lex: агломерация
+ stem: агломераци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: агломерация
+-lexeme
+ lex: агроинженерия
+ stem: агроинженери.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: агроинженерия
+-lexeme
+ lex: агрономия
+ stem: агрономи.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: агрономия
+-lexeme
+ lex: адаптация
+ stem: адаптаци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: адаптация
+-lexeme
+ lex: адинамия
+ stem: адинами.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: адинамия
+-lexeme
+ lex: акация
+ stem: акаци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: акация
+-lexeme
+ lex: акватория
+ stem: акватори.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: акватория
+-lexeme
+ lex: аклиматизация
+ stem: аклиматизаци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: аклиматизация
+-lexeme
+ lex: актинидия
+ stem: актиниди.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: актинидия
+-lexeme
+ lex: аллелопатия
+ stem: аллелопати.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: аллелопатия
+-lexeme
+ lex: альголизация
+ stem: альголизаци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: альголизация
+-lexeme
+ lex: альков
+ stem: альков.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: альков
+-lexeme
+ lex: амнезия
+ stem: амнези.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: амнезия
+-lexeme
+ lex: амнистия
+ stem: амнисти.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: амнистия
+-lexeme
+ lex: ампутация
+ stem: ампутаци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: ампутация
+-lexeme
+ lex: амфибия
+ stem: амфиби.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: амфибия
+-lexeme
+ lex: анемия
+ stem: анеми.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: анемия
+-lexeme
+ lex: анестезия
+ stem: анестези.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: анестезия
+-lexeme
+ lex: антипремия
+ stem: антипреми.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: антипремия
+-lexeme
+ lex: антисанитария
+ stem: антисанитари.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: антисанитария
+-lexeme
+ lex: апатия
+ stem: апати.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: апатия
+-lexeme
+ lex: аппеляция
+ stem: аппеляци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: аппеляция
+-lexeme
+ lex: аппликация
+ stem: аппликаци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: аппликация
+-lexeme
+ lex: апробация
+ stem: апробаци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: апробация
+-lexeme
+ lex: аритмия
+ stem: аритми.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: аритмия
+-lexeme
+ lex: артикуляция
+ stem: артикуляци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: артикуляция
+-lexeme
+ lex: арттерапия
+ stem: арттерапи.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: арттерапия
+-lexeme
+ lex: артэкспедиция
+ stem: артэкспедици.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: артэкспедиция
+-lexeme
+ lex: асимметрия
+ stem: ассиметри.
+ gramm: N,rus,missp
+ paradigm: Noun-num-ija
+ trans_ru: асимметрия
+-lexeme
+ lex: астрология
+ stem: астрологи.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: астрология
+-lexeme
+ lex: аттестация
+ stem: аттастаци.
+ gramm: N,rus,missp
+ paradigm: Noun-num-ija
+ trans_ru: аттестация
+-lexeme
+ lex: аутоагрессия
+ stem: аутоагресси.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: аутоагрессия
+-lexeme
+ lex: аутомедитация
+ stem: аутомедитаци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: аутомедитация
+-lexeme
+ lex: аутрич
+ stem: аутрич.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: аутрич
+-lexeme
+ lex: аэрация
+ stem: аэраци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: аэрация
+-lexeme
+ lex: баклаборатория
+ stem: баклаборатори.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: баклаборатория
+-lexeme
+ lex: бефстроганов
+ stem: бефстроганов.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: бефстроганов
+-lexeme
+ lex: биармия
+ stem: биарми.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: биармия
+-lexeme
+ lex: бижутерия
+ stem: бижутери.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: бижутерия
+-lexeme
+ lex: билогия
+ stem: билоги.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: билогия
+-lexeme
+ lex: биоиндустрия
+ stem: биоиндустри.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: биоиндустрия
+-lexeme
+ lex: биометрия
+ stem: биометри.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: биометрия
+-lexeme
+ lex: биохимия
+ stem: биохими.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: биохимия
+-lexeme
+ lex: брахиотерапия
+ stem: брахиотерапи.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: брахиотерапия
+-lexeme
+ lex: бронхопневмония
+ stem: бронхопневмони.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: бронхопневмония
+-lexeme
+ lex: вакханалия
+ stem: вакханали.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: вакханалия
+-lexeme
+ lex: валидация
+ stem: валидаци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: валидация
+-lexeme
+ lex: ваучеризация
+ stem: ваучеризаци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: ваучеризация
+-lexeme
+ lex: верификация
+ stem: верификаци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: верификация
+-lexeme
+ lex: ветеринария
+ stem: ветеринари.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: ветеринария
+-lexeme
+ lex: ветлаборатория
+ stem: ветлаборатори.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: ветлаборатория
+-lexeme
+ lex: видеоанимация
+ stem: видеоанимаци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: видеоанимация
+-lexeme
+ lex: видеопрезентация
+ stem: видеопрезентаци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: видеопрезентация
+-lexeme
+ lex: видеопродукция
+ stem: видеопродукци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: видеопродукция
+-lexeme
+ lex: видеофиксация
+ stem: видеофиксаци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: видеофиксация
+-lexeme
+ lex: вупожанизация
+ stem: вупожанизаци.
+ gramm: N,rus_afx
+ paradigm: Noun-num-ija
+ trans_ru: вупожанизация
+-lexeme
+ lex: вызов
+ stem: вызов.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: вызов
+-lexeme
+ lex: галлюцинация
+ stem: галлюцинаци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: галлюцинация
+-lexeme
+ lex: галотерапия
+ stem: галотерапи.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: галотерапия
+-lexeme
+ lex: гармония
+ stem: гармони.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: гармония
+-lexeme
+ lex: гармония
+ stem: гаромни.
+ gramm: N,rus,missp
+ paradigm: Noun-num-ija
+ trans_ru: гармония
+-lexeme
+ lex: гемофилия
+ stem: гемофили.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: гемофилия
+-lexeme
+ lex: генеалогия
+ stem: генеалоги.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: генеалогия
+-lexeme
+ lex: генерация
+ stem: генераци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: генерация
+-lexeme
+ lex: география
+ stem: геграфи.
+ gramm: N,rus,missp
+ paradigm: Noun-num-ija
+ trans_ru: география
+-lexeme
+ lex: география
+ stem: георгафи.
+ gramm: N,rus,missp
+ paradigm: Noun-num-ija
+ trans_ru: география
+-lexeme
+ lex: геоморфология
+ stem: геоморфологи.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: геоморфология
+-lexeme
+ lex: геронтократия
+ stem: геронтократи.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: геронтократия
+-lexeme
+ lex: гидрометеорология
+ stem: гидрометеорологи.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: гидрометеорология
+-lexeme
+ lex: гинекология
+ stem: гинекологи.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: гинекология
+-lexeme
+ lex: гиперболизация
+ stem: гиперболизаци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: гиперболизация
+-lexeme
+ lex: гиперинфляция
+ stem: гиперинфляци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: гиперинфляция
+-lexeme
+ lex: гирудотерапия
+ stem: гирудотерапи.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: гирудотерапия
+-lexeme
+ lex: голография
+ stem: голографи.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: голография
+-lexeme
+ lex: гомогенизация
+ stem: гомогенизаци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: гомогенизация
+-lexeme
+ lex: гормонотерапия
+ stem: гормонотерапи.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: гормонотерапия
+-lexeme
+ lex: госгарантия
+ stem: госгаранти.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: госгарантия
+-lexeme
+ lex: госкорпорация
+ stem: госкорпораци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: госкорпорация
+-lexeme
+ lex: губадия
+ stem: губади.
+ gramm: N
+ paradigm: Noun-num-ija
+ trans_ru: губадия (сладкий пирог)
+-lexeme
+ lex: дактилоскопия
+ stem: дактилоскопи.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: дактилоскопия
+-lexeme
+ lex: дегазация
+ stem: дегазаци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: дегазация
+-lexeme
+ lex: деградация
+ stem: деградаци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: деградация
+-lexeme
+ lex: дегустация
+ stem: дегустаци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: дегустация
+-lexeme
+ lex: дезинфекция
+ stem: дезинфекци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: дезинфекция
+-lexeme
+ lex: дезориентация
+ stem: дезориентаци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: дезориентация
+-lexeme
+ lex: демобилизация
+ stem: демобилизаци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: демобилизация
+-lexeme
+ lex: деназализация
+ stem: деназализаци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: деназализация
+-lexeme
+ lex: деноминация
+ stem: деноминаци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: деноминация
+-lexeme
+ lex: деприватизация
+ stem: деприватизаци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: деприватизация
+-lexeme
+ lex: детоксикация
+ stem: детоксикаци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: детоксикация
+-lexeme
+ lex: дефектология
+ stem: дефектологи.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: дефектология
+-lexeme
+ lex: диахрония
+ stem: диахрони.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: диахрония
+-lexeme
+ lex: диверсия
+ stem: диверси.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: диверсия
+-lexeme
+ lex: дисквалификация
+ stem: дисквалификаци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: дисквалификация
+-lexeme
+ lex: дискография
+ stem: дискографи.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: дискография
+-lexeme
+ lex: диспепсия
+ stem: диспепси.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: диспепсия
+-lexeme
+ lex: дисплазия
+ stem: дисплази.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: дисплазия
+-lexeme
+ lex: диссертация
+ stem: диссераци.
+ gramm: N,rus,missp
+ paradigm: Noun-num-ija
+ trans_ru: диссертация
+-lexeme
+ lex: дистилляция
+ stem: дистилляци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: дистилляция
+-lexeme
+ lex: дистрофия
+ stem: дистрофи.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: дистрофия
+-lexeme
+ lex: дифтерия
+ stem: дифтери.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: дифтерия
+-lexeme
+ lex: дифференция
+ stem: дифференци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: дифференция
+-lexeme
+ lex: драмстудия
+ stem: драмстуди.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: драмстудия
+-lexeme
+ lex: ектения
+ stem: ектени.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: ектения
+-lexeme
+ lex: ефросиния
+ stem: ефросини.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: ефросиния
+-lexeme
+ lex: змеелов
+ stem: змеелов.
+ gramm: N,rus,hum
+ paradigm: Noun-num-consonant
+ trans_ru: змеелов
+-lexeme
+ lex: зооинженерия
+ stem: зооинженери.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: зооинженерия
+-lexeme
+ lex: зоотехния
+ stem: зоотехни.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: зоотехния
+-lexeme
+ lex: игромания
+ stem: игромани.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: игромания
+-lexeme
+ lex: идентификация
+ stem: идентификаци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: идентификация
+-lexeme
+ lex: идиллия
+ stem: идилли.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: идиллия
+-lexeme
+ lex: иерархия
+ stem: иерархи.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: иерархия
+-lexeme
+ lex: иммунизация
+ stem: иммунизаци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: иммунизация
+-lexeme
+ lex: инвентаризация
+ stem: инвентаризаци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: инвентаризация
+-lexeme
+ lex: инвентаризация
+ stem: инвертаризаци.
+ gramm: N,rus,missp
+ paradigm: Noun-num-ija
+ trans_ru: инвентаризация
+-lexeme
+ lex: ингаляция
+ stem: ингаляци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: ингаляция
+-lexeme
+ lex: индексация
+ stem: индексаци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: индексация
+-lexeme
+ lex: индукция
+ stem: индукци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: индукция
+-lexeme
+ lex: индульгенция
+ stem: индульгенци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: индульгенция
+-lexeme
+ lex: инженерия
+ stem: инженери.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: инженерия
+-lexeme
+ lex: инсталляция
+ stem: инсталляци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: инсталляция
+-lexeme
+ lex: инсталляция
+ stem: инсталяци.
+ gramm: N,rus,missp
+ paradigm: Noun-num-ija
+ trans_ru: инсталляция
+-lexeme
+ lex: интеграция
+ stem: интеграци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: интеграция
+-lexeme
+ lex: интеллигенция
+ stem: интеллегенци.
+ gramm: N,rus,missp
+ paradigm: Noun-num-ija
+ trans_ru: интеллигенция
+-lexeme
+ lex: интенсификация
+ stem: интенсификаци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: интенсификация
+-lexeme
+ lex: интервенция
+ stem: интервенци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: интервенция
+-lexeme
+ lex: интоксикация
+ stem: интоксикаци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: интоксикация
+-lexeme
+ lex: интуиция
+ stem: интуици.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: интуиция
+-lexeme
+ lex: информатизация
+ stem: информатизаци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: информатизация
+-lexeme
+ lex: иппотерапия
+ stem: иппотерапи.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: иппотерапия
+-lexeme
+ lex: истерия
+ stem: истери.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: истерия
+-lexeme
+ lex: историография
+ stem: историографи.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: историография
+-lexeme
+ lex: история
+ stem: истории.
+ gramm: N,rus,missp
+ paradigm: Noun-num-ija
+ trans_ru: история
+-lexeme
+ lex: ишемия
+ stem: ишеми.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: ишемия
+-lexeme
+ lex: каллиграфия
+ stem: калиграфи.
+ gramm: N,rus,missp
+ paradigm: Noun-num-ija
+ trans_ru: каллиграфия
+-lexeme
+ lex: кампания
+ stem: камани.
+ gramm: N,rus,missp
+ paradigm: Noun-num-ija
+ trans_ru: кампания
+-lexeme
+ lex: кандакия
+ stem: кандаки.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: кандакия
+-lexeme
+ lex: капитализация
+ stem: капитализаци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: капитализация
+-lexeme
+ lex: кардиотокография
+ stem: кардиотокографи.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: кардиотокография
+-lexeme
+ lex: категория
+ stem: катери.
+ gramm: N,rus,missp
+ paradigm: Noun-num-ija
+ trans_ru: категория
+-lexeme
+ lex: квалиметрия
+ stem: квалиметри.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: квалиметрия
+-lexeme
+ lex: кинематография
+ stem: кинемотографи.
+ gramm: N,rus,missp
+ paradigm: Noun-num-ija
+ trans_ru: кинематография
+-lexeme
+ lex: киновидеостудия
+ stem: киновидеостуди.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: киновидеостудия
+-lexeme
+ lex: кинокомпания
+ stem: кинокомпани.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: кинокомпания
+-lexeme
+ lex: кинопремия
+ stem: кинопреми.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: кинопремия
+-lexeme
+ lex: китолов
+ stem: китолов.
+ gramm: N,rus,hum
+ paradigm: Noun-num-consonant
+ trans_ru: китолов
+-lexeme
+ lex: коагуляция
+ stem: коагуляци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: коагуляция
+-lexeme
+ lex: кольпоскопия
+ stem: кольпоскопи.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: кольпоскопия
+-lexeme
+ lex: комедия
+ stem: коммеди.
+ gramm: N,rus,missp
+ paradigm: Noun-num-ija
+ trans_ru: комедия
+-lexeme
+ lex: компания
+ stem: комани.
+ gramm: N,rus,missp
+ paradigm: Noun-num-ija
+ trans_ru: компания
+-lexeme
+ lex: компрессия
+ stem: компресси.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: компрессия
+-lexeme
+ lex: конверсия
+ stem: конверси.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: конверсия
+-lexeme
+ lex: конвертация
+ stem: конвертаци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: конвертация
+-lexeme
+ lex: консервация
+ stem: консерваци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: консервация
+-lexeme
+ lex: консистория
+ stem: консистори.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: консистория
+-lexeme
+ lex: констатация
+ stem: констатаци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: констатация
+-lexeme
+ lex: контаминация
+ stem: контаминаци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: контаминация
+-lexeme
+ lex: контрибуция
+ stem: контрибуци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: контрибуция
+-lexeme
+ lex: конференция
+ stem: конференици.
+ gramm: N,rus,missp
+ paradigm: Noun-num-ija
+ trans_ru: конференция
+-lexeme
+ lex: конференция
+ stem: конфереци.
+ gramm: N,rus,missp
+ paradigm: Noun-num-ija
+ trans_ru: конференция
+-lexeme
+ lex: концентрация
+ stem: концентраци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: концентрация
+-lexeme
+ lex: координация
+ stem: координаци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: координация
+-lexeme
+ lex: королевич
+ stem: королевич.
+ gramm: N,rus,hum
+ paradigm: Noun-num-consonant
+ trans_ru: королевич
+-lexeme
+ lex: королёвна
+ stem: королёвна.
+ gramm: N,rus,hum
+ paradigm: Noun-num-vowel
+ trans_ru: королевна
+-lexeme
+ lex: криодеструкция
+ stem: криодеструкци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: криодеструкция
+-lexeme
+ lex: ксерофталмия
+ stem: ксерофталми.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: ксерофталмия
+-lexeme
+ lex: кувуклия
+ stem: кувукли.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: кувуклия
+-lexeme
+ lex: культурология
+ stem: культурологи.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: культурология
+-lexeme
+ lex: лапароскопия
+ stem: лапароскопи.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: лапароскопия
+-lexeme
+ lex: лейкемия
+ stem: лейкеми.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: лейкемия
+-lexeme
+ lex: лизология
+ stem: лизологи.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: лизология
+-lexeme
+ lex: ликвидация
+ stem: ликвидаци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: ликвидация
+-lexeme
+ lex: липосакция
+ stem: липосакци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: липосакция
+-lexeme
+ lex: локализация
+ stem: локализаци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: локализация
+-lexeme
+ lex: маммография
+ stem: маммографи.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: маммография
+-lexeme
+ lex: маскулинизация
+ stem: маскулинизаци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: маскулинизация
+-lexeme
+ lex: мастопатия
+ stem: мастопати.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: мастопатия
+-lexeme
+ lex: мастэктомия
+ stem: мастэктоми.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: мастэктомия
+-lexeme
+ lex: медитация
+ stem: медитаци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: медитация
+-lexeme
+ lex: менингококцимия
+ stem: менингококцими.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: менингококцимия
+-lexeme
+ lex: менструация
+ stem: менструаци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: менструация
+-lexeme
+ lex: микология
+ stem: микологи.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: микология
+-lexeme
+ lex: микротопонимия
+ stem: микротопоними.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: микротопонимия
+-lexeme
+ lex: миопатия
+ stem: миопати.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: миопатия
+-lexeme
+ lex: миопия
+ stem: миопи.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: миопия
+-lexeme
+ lex: мобилизация
+ stem: мобилизаци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: мобилизация
+-lexeme
+ lex: молитвослов
+ stem: молитвослов.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: молитвослов
+-lexeme
+ lex: монетизация
+ stem: монетизаци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: монетизация
+-lexeme
+ lex: москвич
+ stem: мосвкич.
+ gramm: N,rus,hum
+ paradigm: Noun-num-consonant
+ trans_ru: москвич
+-lexeme
+ lex: мотивация
+ stem: мотиваци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: мотивация
+-lexeme
+ lex: мультимедия
+ stem: мультимеди.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: мультимедия
+-lexeme
+ lex: мультипликация
+ stem: мультипликаци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: мультипликация
+-lexeme
+ lex: нарколаборатория
+ stem: нарколаборатори.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: нарколаборатория
+-lexeme
+ lex: наркология
+ stem: наркологи.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: наркология
+-lexeme
+ lex: настурция
+ stem: настурци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: настурция
+-lexeme
+ lex: неврология
+ stem: неврологи.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: неврология
+-lexeme
+ lex: нейробиология
+ stem: нейробиологи.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: нейробиология
+-lexeme
+ lex: нейрохирургия
+ stem: нейрохирурги.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: нейрохирургия
+-lexeme
+ lex: некондиция
+ stem: некондици.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: некондиция
+-lexeme
+ lex: неконференция
+ stem: неконференци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: неконференция
+-lexeme
+ lex: ностальгия
+ stem: ностальги.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: ностальгия
+-lexeme
+ lex: овация
+ stem: оваци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: овация
+-lexeme
+ lex: овуляция
+ stem: овуляци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: овуляция
+-lexeme
+ lex: онкоцитология
+ stem: онкоцитологи.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: онкоцитология
+-lexeme
+ lex: оригами
+ stem: оригами.
+ gramm: N,rus
+ paradigm: Noun-num-vowel
+ trans_ru: оригами
+-lexeme
+ lex: офтальмохирургия
+ stem: офтальмохирурги.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: офтальмохирургия
+-lexeme
+ lex: палеогеография
+ stem: палеогеографи.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: палеогеография
+-lexeme
+ lex: пандемия
+ stem: пандеми.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: пандемия
+-lexeme
+ lex: парапсихология
+ stem: парапсихологи.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: парапсихология
+-lexeme
+ lex: пастеризация
+ stem: пастеризаци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: пастеризация
+-lexeme
+ lex: патриархия
+ stem: патриархи.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: патриархия
+-lexeme
+ lex: педагогия
+ stem: педагоги.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: педагогия
+-lexeme
+ lex: педофилия
+ stem: педофили.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: педофилия
+-lexeme
+ lex: пелагония
+ stem: пелагони.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: пелагония
+-lexeme
+ lex: первооснова
+ stem: первооснова.
+ gramm: N,rus
+ paradigm: Noun-num-vowel
+ trans_ru: первооснова
+-lexeme
+ lex: перепечия
+ stem: перепечи.
+ gramm: N,rus_afx
+ paradigm: Noun-num-ija
+ trans_ru: перепечия (место, где едят перепечи)
+-lexeme
+ lex: перерегистрация
+ stem: перерегистраци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: перерегистрация
+-lexeme
+ lex: перкуссия
+ stem: перкусси.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: перкуссия
+-lexeme
+ lex: персоналия
+ stem: персонали.
+ gramm: N,rus,hum
+ paradigm: Noun-num-ija
+ trans_ru: персоналия
+-lexeme
+ lex: персонификация
+ stem: персонификаци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: персонификация
+-lexeme
+ lex: подкова
+ stem: подкова.
+ gramm: N,rus
+ paradigm: Noun-num-vowel
+ trans_ru: подкова
+-lexeme
+ lex: политология
+ stem: политологи.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: политология
+-lexeme
+ lex: популяризация
+ stem: популяризаци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: популяризация
+-lexeme
+ lex: порция
+ stem: порци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: порция
+-lexeme
+ lex: превентология
+ stem: превентологи.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: превентология
+-lexeme
+ lex: претензия
+ stem: претензи.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: претензия
+-lexeme
+ lex: претория
+ stem: претори.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: претория
+-lexeme
+ lex: продиндустрия
+ stem: продиндустри.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: продиндустрия
+-lexeme
+ lex: прокрастинация
+ stem: прокрастинаци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: прокрастинация
+-lexeme
+ lex: пролетаризация
+ stem: пролетаризаци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: пролетаризация
+-lexeme
+ lex: проституция
+ stem: проституци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: проституция
+-lexeme
+ lex: профориентация
+ stem: профориентаци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: профориентация
+-lexeme
+ lex: психиатрия
+ stem: психиатри.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: психиатрия
+-lexeme
+ lex: пульмонология
+ stem: пульмонологи.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: пульмонология
+-lexeme
+ lex: пункция
+ stem: пункци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: пункция
+-lexeme
+ lex: радикализация
+ stem: радикализаи.
+ gramm: N,rus,missp
+ paradigm: Noun-num-ija
+ trans_ru: радикализация
+-lexeme
+ lex: радиолиния
+ stem: радиолини.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: радиолиния
+-lexeme
+ lex: радиоредакция
+ stem: радиоредакци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: радиоредакция
+-lexeme
+ lex: радиорецензия
+ stem: радиорецензи.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: радиорецензия
+-lexeme
+ lex: рапсодия
+ stem: рапсоди.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: рапсодия
+-lexeme
+ lex: реабилитация
+ stem: реабилитаци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: реабилитация
+-lexeme
+ lex: реакция
+ stem: ревкци.
+ gramm: N,rus,missp
+ paradigm: Noun-num-ija
+ trans_ru: реакция
+-lexeme
+ lex: реализация
+ stem: реализаци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: реализация
+-lexeme
+ lex: ревакцинация
+ stem: ревакцинаци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: ревакцинация
+-lexeme
+ lex: ревматология
+ stem: ревматологи.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: ревматология
+-lexeme
+ lex: резиденция
+ stem: резеденци.
+ gramm: N,rus,missp
+ paradigm: Noun-num-ija
+ trans_ru: резиденция
+-lexeme
+ lex: реконструкция
+ stem: реконстукци.
+ gramm: N,rus,missp
+ paradigm: Noun-num-ija
+ trans_ru: реконструкция
+-lexeme
+ lex: рекреация
+ stem: рекреаци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: рекреация
+-lexeme
+ lex: релаксация
+ stem: релаксаци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: релаксация
+-lexeme
+ lex: реликвия
+ stem: реликви.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: реликвия
+-lexeme
+ lex: реорганизация
+ stem: реорганизаци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: реорганизация
+-lexeme
+ lex: реструктуризация
+ stem: реструктуризаци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: реструктуризация
+-lexeme
+ lex: рефлексия
+ stem: рефлекси.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: рефлексия
+-lexeme
+ lex: рецессия
+ stem: рецесси.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: рецессия
+-lexeme
+ lex: самоирония
+ stem: самоирони.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: самоирония
+-lexeme
+ lex: сантерия
+ stem: сантери.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: сантерия
+-lexeme
+ lex: секвенция
+ stem: секвенци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: секвенция
+-lexeme
+ lex: сенсация
+ stem: сенсаци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: сенсация
+-lexeme
+ lex: слингомания
+ stem: слингомани.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: слингомания
+-lexeme
+ lex: социализация
+ stem: социализаци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: социализация
+-lexeme
+ lex: социология
+ stem: социологи.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: социология
+-lexeme
+ lex: спелеотерапия
+ stem: спелеотерапи.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: спелеотерапия
+-lexeme
+ lex: спецоперация
+ stem: спецопераци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: спецоперация
+-lexeme
+ lex: спирография
+ stem: спирографи.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: спирография
+-lexeme
+ lex: стабилизация
+ stem: стабилизаци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: стабилизация
+-lexeme
+ lex: стагнация
+ stem: стагнаци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: стагнация
+-lexeme
+ lex: станция
+ stem: странци.
+ gramm: N,rus,missp
+ paradigm: Noun-num-ija
+ trans_ru: станция
+-lexeme
+ lex: стенокардия
+ stem: стенокарди.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: стенокардия
+-lexeme
+ lex: стерилизация
+ stem: стерилизаци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: стерилизация
+-lexeme
+ lex: стимуляция
+ stem: стимуляци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: стимуляция
+-lexeme
+ lex: стипендия
+ stem: стипендни.
+ gramm: N,rus,missp
+ paradigm: Noun-num-ija
+ trans_ru: стипендия
+-lexeme
+ lex: стипендия
+ stem: стипени.
+ gramm: N,rus,missp
+ paradigm: Noun-num-ija
+ trans_ru: стипендия
+-lexeme
+ lex: стихия
+ stem: стихи.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: стихия
+-lexeme
+ lex: стратификация
+ stem: стратификаци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: стратификация
+-lexeme
+ lex: стрессотерапия
+ stem: стрессотерапи.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: стрессотерапия
+-lexeme
+ lex: структурализация
+ stem: структурализаци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: структурализация
+-lexeme
+ lex: сублимация
+ stem: сублимаци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: сублимация
+-lexeme
+ lex: субординация
+ stem: субординаци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: субординация
+-lexeme
+ lex: сценография
+ stem: сценографи.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: сценография
+-lexeme
+ lex: таксидермия
+ stem: таксидерми.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: таксидермия
+-lexeme
+ lex: текстология
+ stem: текстологи.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: текстология
+-lexeme
+ lex: телеверсия
+ stem: телеверси.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: телеверсия
+-lexeme
+ lex: телегония
+ stem: телегони.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: телегония
+-lexeme
+ lex: телеметрия
+ stem: телеметри.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: телеметрия
+-lexeme
+ lex: телепатия
+ stem: телепати.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: телепатия
+-lexeme
+ lex: телестанция
+ stem: телестанци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: телестанция
+-lexeme
+ lex: терапия
+ stem: терапи.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: терапия
+-lexeme
+ lex: техинвентаризация
+ stem: техинвентаризаци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: техинвентаризация
+-lexeme
+ lex: технология
+ stem: технилоги.
+ gramm: N,rus,missp
+ paradigm: Noun-num-ija
+ trans_ru: технология
+-lexeme
+ lex: тимпатия
+ stem: тимпати.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: тимпатия
+-lexeme
+ lex: токсикомания
+ stem: токсикомни.
+ gramm: N,rus,missp
+ paradigm: Noun-num-ija
+ trans_ru: токсикомания
+-lexeme
+ lex: томография
+ stem: томографи.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: томография
+-lexeme
+ lex: травматология
+ stem: травмотологи.
+ gramm: N,rus,missp
+ paradigm: Noun-num-ija
+ trans_ru: травматология
+-lexeme
+ lex: трансплантация
+ stem: трансплантаци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: трансплантация
+-lexeme
+ lex: туляремия
+ stem: тулереми.
+ gramm: N,rus,missp
+ paradigm: Noun-num-ija
+ trans_ru: туляремия
+-lexeme
+ lex: туляремия
+ stem: туляреми.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: туляремия
+-lexeme
+ lex: тӥлинко
+ stem: тӥлинко.
+ gramm: N
+ paradigm: Noun-num-vowel
+ trans_ru: тинка (венгерский музыкальный инструмент)
+-lexeme
+ lex: удмуртология
+ stem: удмуртологи.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: удмуртология
+-lexeme
+ lex: утилизация
+ stem: утилизаци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: утилизация
+-lexeme
+ lex: утопия
+ stem: утопи.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: утопия
+-lexeme
+ lex: фацелия
+ stem: фацели.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: фацелия
+-lexeme
+ lex: федерализация
+ stem: федерализаци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: федерализация
+-lexeme
+ lex: феерия
+ stem: феери.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: феерия
+-lexeme
+ lex: феминизация
+ stem: феминизаци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: феминизация
+-lexeme
+ lex: физиотерапия
+ stem: физиотерапи.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: физиотерапия
+-lexeme
+ lex: филателия
+ stem: филатели.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: филателия
+-lexeme
+ lex: филология
+ stem: филилоги.
+ gramm: N,rus,missp
+ paradigm: Noun-num-ija
+ trans_ru: филология
+-lexeme
+ lex: фильтрация
+ stem: фильтраци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: фильтрация
+-lexeme
+ lex: фламенко
+ stem: фламенко.
+ gramm: N,rus
+ paradigm: Noun-num-vowel
+ trans_ru: фламенко
+-lexeme
+ lex: флексия
+ stem: флекси.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: флексия
+-lexeme
+ lex: флюорография
+ stem: флюорографи.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: флюорография
+-lexeme
+ lex: флюорография
+ stem: флюрографи.
+ gramm: N,rus,missp
+ paradigm: Noun-num-ija
+ trans_ru: флюорография
+-lexeme
+ lex: фотоистория
+ stem: фотоистори.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: фотоистория
+-lexeme
+ lex: фотолаборатория
+ stem: фотолаборатори.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: фотолаборатория
+-lexeme
+ lex: фотометрия
+ stem: фотометри.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: фотометрия
+-lexeme
+ lex: фрамбезия
+ stem: фрамбези.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: фрамбезия
+-lexeme
+ lex: фрезия
+ stem: фрези.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: фрезия
+-lexeme
+ lex: френулотомия
+ stem: френулотоми.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: френулотомия
+-lexeme
+ lex: хартия
+ stem: харти.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: хартия
+-lexeme
+ lex: химизация
+ stem: химизаци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: химизация
+-lexeme
+ lex: химиотерапия
+ stem: химиотерапи.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: химиотерапия
+-lexeme
+ lex: христианизация
+ stem: христианизаци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: христианизация
+-lexeme
+ lex: хунгарология
+ stem: хунгарологи.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: хунгарология
+-lexeme
+ lex: царевич
+ stem: царевич.
+ gramm: N,rus,hum
+ paradigm: Noun-num-consonant
+ trans_ru: царевич
+-lexeme
+ lex: царевна
+ stem: царевна.
+ gramm: N,rus,hum
+ paradigm: Noun-num-vowel
+ trans_ru: царевна
+-lexeme
+ lex: централизация
+ stem: централизаци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: централизация
+-lexeme
+ lex: цинерария
+ stem: цинерари.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: цинерария
+-lexeme
+ lex: часослов
+ stem: часослов.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: часослов
+-lexeme
+ lex: шизофрения
+ stem: шизофрени.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: шизофрения
+-lexeme
+ lex: шихлич
+ stem: шихлич.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: чуващская свистулька
+-lexeme
+ lex: шопотерапия
+ stem: шопотерапи.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: шопотерапия
+-lexeme
+ lex: эвакуция
+ stem: эвакуци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: эвакуция
+-lexeme
+ lex: эйфория
+ stem: эйфори.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: эйфория
+-lexeme
+ lex: эксгумация
+ stem: эксгумаци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: эксгумация
+-lexeme
+ lex: экскурсия
+ stem: эскурси.
+ gramm: N,rus,missp
+ paradigm: Noun-num-ija
+ trans_ru: экскурсия
+-lexeme
+ lex: элегия
+ stem: элеги.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: элегия
+-lexeme
+ lex: электроподстанция
+ stem: электроподстанци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: электроподстанция
+-lexeme
+ lex: электрофикация
+ stem: электрофикаци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: электрофикация
+-lexeme
+ lex: эмкомиссия
+ stem: эмкомисси.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: медкомиссия
+-lexeme
+ lex: эндоскопия
+ stem: эндоскопи.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: эндоскопия
+-lexeme
+ lex: энцефалопатия
+ stem: энцефалопати.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: энцефалопатия
+-lexeme
+ lex: энциклопедия
+ stem: энцикопеди.
+ gramm: N,rus,missp
+ paradigm: Noun-num-ija
+ trans_ru: энциклопедия
+-lexeme
+ lex: эпидемиология
+ stem: эпидемиологи.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: эпидемиология
+-lexeme
+ lex: этнодемография
+ stem: этнодемографи.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: этнодемография
+-lexeme
+ lex: этнология
+ stem: этнологи.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: этнология
+-lexeme
+ lex: этнопсихология
+ stem: этнопсихологи.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: этнопсихология
+-lexeme
+ lex: этносоциология
+ stem: этносоциологи.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: этносоциология
+-lexeme
+ lex: эхокардиография
+ stem: эхокардиографи.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: эхокардиография
+-lexeme
+ lex: эякуляция
+ stem: эякуляци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: эякуляция
