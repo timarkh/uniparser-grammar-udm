@@ -3205,7 +3205,7 @@
  -flex: .ьмес<.>
   gramm: acc,1pl
   gloss: P.1PL.ACC
- -flex: .ьын|ымы<.>
+ -flex: .ен|ымы<.>//.ьын|ымы<.>
   gramm: ins,1pl
   gloss: INS|P.1PL
  -flex: .я|мы<.>
@@ -3253,7 +3253,7 @@
  -flex: .ьтэс<.>//.ьдэс<.>
   gramm: acc,2pl
   gloss: P.2PL.ACC
- -flex: .ьын|ыды<.>
+ -flex: .ен|ыды<.>//.ьын|ыды<.>
   gramm: ins,2pl
   gloss: INS|P.2PL
  -flex: .я|ды<.>
@@ -3301,7 +3301,7 @@
  -flex: .ьсэс<.>//.ьзэс<.>
   gramm: acc,3pl
   gloss: P.3PL.ACC
- -flex: .ьын|ызы<.>
+ -flex: .ен|ызы<.>//.ьын|ызы<.>
   gramm: ins,3pl
   gloss: INS|P.3PL
  -flex: .я|зы<.>
