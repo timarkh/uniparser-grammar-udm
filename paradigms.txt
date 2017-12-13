@@ -4,6 +4,7 @@
   paradigm: Aspect-I
   paradigm: Aspect-I-to-II
   paradigm: Verb-pres-I-positive-j
+  paradigm: Verb-past-I-positive
   paradigm: Verb-future-I-positive-j
   paradigm: Verb-pres-I-negative-j
   paradigm: Verb-I-negative-j
@@ -15,7 +16,6 @@
   gramm:
   paradigm: Infinitive-I
   paradigm: Verb-pres-I-positive
-  paradigm: Verb-past-I-positive
   paradigm: Verb-future-I-positive
   paradigm: Verb-pres-I-negative
   paradigm: Verb-I-negative
@@ -80,6 +80,32 @@
   paradigm: Noun-case-poss-1,pl
   paradigm: Noun-case-poss-2,pl
   paradigm: Noun-case-poss-3,pl
+ -flex: .ос<.>
+  regex-prev: ^.*[аеёиӥоӧуыэюя][<>.]*$
+  gramm: adj_nmlz,pl
+  gloss: PL
+  paradigm: Noun-case
+  paradigm: Noun-case-y
+  paradigm: Noun-case-ill-y
+  paradigm: Noun-case-poss-y-1,sg
+  paradigm: Noun-case-poss-y-2,sg
+  paradigm: Noun-case-poss-y-3,sg
+  paradigm: Noun-case-poss-1,pl
+  paradigm: Noun-case-poss-2,pl
+  paradigm: Noun-case-poss-3,pl
+ -flex: .ъёс<.>
+  regex-prev: ^.*[^аеёиӥоӧуыэюя<>.][<>.]*$
+  gramm: adj_nmlz,pl
+  gloss: PL
+  paradigm: Noun-case
+  paradigm: Noun-case-y
+  paradigm: Noun-case-ill-y
+  paradigm: Noun-case-poss-y-1,sg
+  paradigm: Noun-case-poss-y-2,sg
+  paradigm: Noun-case-poss-y-3,sg
+  paradigm: Noun-case-poss-1,pl
+  paradigm: Noun-case-poss-2,pl
+  paradigm: Noun-case-poss-3,pl
 
 # This is mostly for Russian adjectives in -ой
 -paradigm: connect_adjectives-j
@@ -90,6 +116,18 @@
  -flex: .[й]<.>
   gramm:
   paradigm: Comparative
+ -flex: .[й]ёс<.>//.[й]ъёс<.>
+  gramm: adj_nmlz,pl
+  gloss: PL
+  paradigm: Noun-case
+  paradigm: Noun-case-y
+  paradigm: Noun-case-ill-y
+  paradigm: Noun-case-poss-y-1,sg
+  paradigm: Noun-case-poss-y-2,sg
+  paradigm: Noun-case-poss-y-3,sg
+  paradigm: Noun-case-poss-1,pl
+  paradigm: Noun-case-poss-2,pl
+  paradigm: Noun-case-poss-3,pl
 
 -paradigm: connect_adjectives-soft
  -flex: .[ь]<.>
@@ -99,6 +137,18 @@
   gramm:
   paradigm: Adjectives_Pl-soft
   paradigm: Noun-case-compounding-soft
+ -flex: .[ь]ёс<.>
+  gramm: adj_nmlz,pl
+  gloss: PL
+  paradigm: Noun-case
+  paradigm: Noun-case-y
+  paradigm: Noun-case-ill-y
+  paradigm: Noun-case-poss-y-1,sg
+  paradigm: Noun-case-poss-y-2,sg
+  paradigm: Noun-case-poss-y-3,sg
+  paradigm: Noun-case-poss-1,pl
+  paradigm: Noun-case-poss-2,pl
+  paradigm: Noun-case-poss-3,pl
 
 -paradigm: connect_adjectives-soft-ptcp
  -flex: .<.>
@@ -1553,6 +1603,100 @@
   gramm: app
   gloss: APP
   paradigm: Comparative
+
+-paradigm: Noun-case-pydlo
+ -flex: .<.>
+  gramm: nom
+  paradigm: Comparative
+ -flex: .ез<.>
+  gramm: acc
+  gloss: ACC
+  paradigm: Comparative
+ -flex: .зэ<.>
+  gramm: acc,3sg
+  gloss: P.3SG.ACC
+  paradigm: Comparative
+ -flex: .лэн<.>
+  gramm: gen
+  gloss: GEN
+  paradigm: Noun-case-compounding
+ -flex: .лэс<.>
+  gramm: abl
+  gloss: ABL
+  paradigm: Noun-case-compounding-soft
+ -flex: .лэсь<.>
+  gramm: abl
+  gloss: ABL
+  paradigm: Comparative
+ -flex: .лы<.>
+  gramm: dat
+  gloss: DAT
+  paradigm: Noun-case-compounding
+ -flex: .ен<.>
+  gramm: ins
+  gloss: INS
+  paradigm: Noun-case-compounding
+ -flex: .тэк<.>
+  gramm: car
+  gloss: CAR
+  paradigm: Noun-case-compounding
+ -flex: .я<.>
+  gramm: adv
+  gloss: ADV
+  paradigm: Comparative
+ -flex: .я|з<.>
+  gramm: loc,3sg
+  gloss: LOC|P.3SG
+  paradigm: Comparative
+ -flex: .я|з<.>
+  gramm: ill
+  gloss: ILL|P.3SG
+  paradigm: Comparative
+ -flex: .н<.>
+  gramm: loc
+  gloss: LOC
+  paradigm: Noun-case-compounding
+ -flex: .е<.>
+  gramm: ill
+  gloss: ILL
+  paradigm: Comparative
+ -flex: .с<.>//.ыс<.>
+  gramm: el
+  gloss: EL
+  paradigm: Noun-case-compounding-soft
+ -flex: .сь<.>//.ысь<.>
+  gramm: el
+  gloss: EL
+  paradigm: Comparative
+ -flex: .сен<.>//.ысен<.>
+  gramm: egr
+  gloss: EGR
+  paradigm: Noun-case-compounding
+ -flex: .з<.>
+  gramm: term
+  gloss: TERM
+  paradigm: Noun-case-compounding-soft
+ -flex: .зя|з<.>
+  gramm: term,3sg
+  gloss: TERM|P.3SG
+  paradigm: Noun-case-compounding-soft
+ -flex: .зь<.>
+  gramm: term
+  gloss: TERM
+  paradigm: Comparative
+ -flex: .этӥ<.>//.ытӥ<.>//.тӥ<.>
+  gramm: prol
+  gloss: PROL
+  paradigm: Noun-case-compounding
+ -flex: .лан<.>
+  gramm: app
+  gloss: APP
+  paradigm: Noun-case-compounding-soft
+ -flex: .лань<.>
+  gramm: app
+  gloss: APP
+  paradigm: Comparative
+
 
 -paradigm: Noun-case-soft
  -flex: .ез<.>
@@ -3886,6 +4030,17 @@
   gloss: PTCP.NEG
   paradigm: Noun-num-vowel
   paradigm: Adjectives_Pl
+ -flex: .ӥлля|мтэ<.>
+  gramm: ptcp,neg,pl
+  gloss: PL23|PTCP.NEG
+  paradigm: Noun-num-vowel
+  paradigm: Adjectives_Pl
+ -flex: .илля|мтэ<.>
+  gramm: ptcp,neg,pl
+  gloss: PL23|PTCP.NEG
+  paradigm: Noun-num-vowel
+  paradigm: Adjectives_Pl
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
 
 -paradigm: Participles-neg-I-soft
  -flex: .ьымтэ<.>
@@ -3893,11 +4048,21 @@
   gloss: PTCP.NEG
   paradigm: Noun-num-vowel
   paradigm: Adjectives_Pl
+ -flex: .илля|мтэ<.>
+  gramm: ptcp,neg,pl
+  gloss: PL23|PTCP.NEG
+  paradigm: Noun-num-vowel
+  paradigm: Adjectives_Pl
 
 -paradigm: Participles-neg-II
  -flex: .мтэ<.>
   gramm: ptcp,neg
   gloss: PTCP.NEG
+  paradigm: Noun-num-vowel
+  paradigm: Adjectives_Pl
+ -flex: .лля|мтэ<.>
+  gramm: ptcp,neg,pl
+  gloss: PL23|PTCP.NEG
   paradigm: Noun-num-vowel
   paradigm: Adjectives_Pl
 

@@ -24477,6 +24477,13 @@
  trans_ru: класс
 
 -lexeme
+ lex: мастер-класс
+ stem: мастер-класс.//мастеркласс.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: мастер-класс
+
+-lexeme
  lex: классик
  stem: классик.
  gramm: N,rus,hum
@@ -94606,3 +94613,430 @@
  gramm: N,rus
  paradigm: Noun-num-ija
  trans_ru: эякуляция
+
+-lexeme
+ lex: агропром
+ stem: агропром.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: агропром
+-lexeme
+ lex: агропромышленность
+ stem: агропромышленност.
+ gramm: N,rus
+ paradigm: Noun-num-soft
+ trans_ru: агропромышленность
+-lexeme
+ lex: акрил
+ stem: акрил.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: акрил
+-lexeme
+ lex: альтернатива
+ stem: альтернатива.
+ gramm: N,rus
+ paradigm: Noun-num-vowel
+ trans_ru: альтернатива
+-lexeme
+ lex: аналитика
+ stem: аналитика.
+ gramm: N,rus
+ paradigm: Noun-num-vowel
+ trans_ru: аналитика
+-lexeme
+ lex: арт-экспедиция
+ stem: арт-экспедици.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: арт-экспедиция
+-lexeme
+ lex: аудио
+ stem: аудио.
+ gramm: N,rus
+ paradigm: Noun-num-vowel
+ trans_ru: аудио
+-lexeme
+ lex: баррель
+ stem: баррел.
+ gramm: N,rus
+ paradigm: Noun-num-soft
+ trans_ru: баррель
+-lexeme
+ lex: бекон
+ stem: бекон.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: бекон
+-lexeme
+ lex: бизнес-инкубатор
+ stem: бизнес-инкубатор.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: бизнес-инкубатор
+-lexeme
+ lex: бизнес-план
+ stem: бизнес-план.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: бизнес-план
+-lexeme
+ lex: битва
+ stem: битва.
+ gramm: N,rus
+ paradigm: Noun-num-vowel
+ trans_ru: битва
+-lexeme
+ lex: благоустройство
+ stem: благоустройство.
+ gramm: N,rus
+ paradigm: Noun-num-vowel
+ trans_ru: благоустройство
+-lexeme
+ lex: братство
+ stem: братство.
+ gramm: N,rus
+ paradigm: Noun-num-vowel
+ trans_ru: братство
+-lexeme
+ lex: видеоискусство
+ stem: видеоискусство.
+ gramm: N,rus
+ paradigm: Noun-num-vowel
+ trans_ru: видеоискусство
+-lexeme
+ lex: водь
+ stem: вод.
+ gramm: N,rus
+ paradigm: Noun-num-soft
+ trans_ru: водь
+-lexeme
+ lex: воскресенье
+ stem: воскресенье.
+ gramm: N,rus,time_meas
+ paradigm: Noun-num-vowel
+ trans_ru: воскресенье
+-lexeme
+ lex: время
+ stem: время.
+ gramm: N,rus
+ paradigm: Noun-num-vowel
+ trans_ru: время
+-lexeme
+ lex: гала-концерт
+ stem: гала-концерт.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: гала-концерт
+-lexeme
+ lex: гармонь
+ stem: гармон.
+ gramm: N,rus
+ paradigm: Noun-num-soft
+ trans_ru: гармонь
+-lexeme
+ lex: гармошка
+ stem: гармошка.
+ gramm: N,rus
+ paradigm: Noun-num-vowel
+ trans_ru: гармошка
+-lexeme
+ lex: гран-при
+ stem: гран-при.
+ gramm: N,rus
+ paradigm: Noun-num-vowel
+ trans_ru: гран-при
+-lexeme
+ lex: дедовщина
+ stem: дедовщина.
+ gramm: N,rus
+ paradigm: Noun-num-vowel
+ trans_ru: дедовщина
+-lexeme
+ lex: жмых
+ stem: жмых.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: жмых
+-lexeme
+ lex: инвентарь
+ stem: инвентар.
+ gramm: N,rus
+ paradigm: Noun-num-soft
+ trans_ru: инвентарь
+-lexeme
+ lex: интеграл
+ stem: интеграл.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: интеграл
+-lexeme
+ lex: ислам
+ stem: ислам.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: ислам
+-lexeme
+ lex: кылем-мылем
+ stem: кылем-мылем.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: остатки
+-lexeme
+ lex: кыстыбей
+ stem: кыстыбе.
+ gramm: N
+ paradigm: Noun-num-j
+ trans_ru: кыстыбей (татарское и башкирское блюдо)
+-lexeme
+ lex: минута
+ stem: минута.
+ gramm: N,rus,time_meas
+ paradigm: Noun-num-vowel
+ trans_ru: минута
+-lexeme
+ lex: неофолк
+ stem: неофолк.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: неофолк
+-lexeme
+ lex: онлайн
+ stem: онлайн.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: онлайн
+-lexeme
+ lex: опека
+ stem: опека.
+ gramm: N,rus
+ paradigm: Noun-num-vowel
+ trans_ru: опека
+-lexeme
+ lex: патронат
+ stem: патронат.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: патронат
+-lexeme
+ lex: первомай
+ stem: первома.
+ gramm: N,rus,time_meas
+ paradigm: Noun-num-j
+ trans_ru: первомай
+-lexeme
+ lex: плов
+ stem: плов.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: плов
+-lexeme
+ lex: пои
+ stem: пои.
+ gramm: N,rus
+ paradigm: Noun-num-vowel
+ trans_ru: пои
+-lexeme
+ lex: попечительство
+ stem: попечительство.
+ gramm: N,rus
+ paradigm: Noun-num-vowel
+ trans_ru: попечительство
+-lexeme
+ lex: пресс-конференция
+ stem: пресс-конференци.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: пресс-конференция
+-lexeme
+ lex: престиж
+ stem: престиж.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: престиж
+-lexeme
+ lex: проектирование
+ stem: проектировани.
+ gramm: N,rus
+ paradigm: Noun-num-ije
+ trans_ru: проектирование
+-lexeme
+ lex: прощение
+ stem: прощени.
+ gramm: N,rus
+ paradigm: Noun-num-ije
+ trans_ru: прощение
+-lexeme
+ lex: рок
+ stem: рок.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: рок
+-lexeme
+ lex: рок-н-ролл
+ stem: рок-н-ролл.//рокнролл.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: рок-н-ролл
+-lexeme
+ lex: рэп
+ stem: рэп.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: рэп
+-lexeme
+ lex: смс
+ stem: смс.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: смс
+-lexeme
+ lex: сюрприз
+ stem: сюрприз.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: сюрприз
+-lexeme
+ lex: толык
+ stem: толык.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: толк
+-lexeme
+ lex: фэшн
+ stem: фэшн.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: фэшн
+-lexeme
+ lex: хайп
+ stem: хайп.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: хайп
+-lexeme
+ lex: хип-хоп
+ stem: хип-хоп.//хипхоп.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: хип-хоп
+-lexeme
+ lex: шоу
+ stem: шоу.
+ gramm: N,rus
+ paradigm: Noun-num-vowel
+ trans_ru: шоу
+-lexeme
+ lex: газель
+ stem: газел.
+ gramm: N,transport,rus
+ paradigm: Noun-num-soft
+ trans_ru: газель
+-lexeme
+ lex: киа
+ stem: киа.
+ gramm: N,transport,rus
+ paradigm: Noun-num-vowel
+ trans_ru: киа
+-lexeme
+ lex: лада-гранта
+ stem: лада-гранта.
+ gramm: N,transport,rus
+ paradigm: Noun-num-vowel
+ trans_ru: лада-гранта
+-lexeme
+ lex: ниссан
+ stem: ниссан.
+ gramm: N,transport,rus
+ paradigm: Noun-num-consonant
+ trans_ru: ниссан
+-lexeme
+ lex: рено
+ stem: рено.
+ gramm: N,transport,rus
+ paradigm: Noun-num-vowel
+ trans_ru: рено
+-lexeme
+ lex: акушер-гинеколог
+ stem: акушер-гинеколог.
+ gramm: N,hum,rus
+ paradigm: Noun-num-consonant
+ trans_ru: акушер-гинеколог
+-lexeme
+ lex: вице-премьер
+ stem: вице-премьер.
+ gramm: N,hum,rus
+ paradigm: Noun-num-consonant
+ trans_ru: вице-премьер
+-lexeme
+ lex: генерал-лейтенант
+ stem: генерал-лейтенант.
+ gramm: N,hum,rus
+ paradigm: Noun-num-consonant
+ trans_ru: генерал-лейтенант
+-lexeme
+ lex: генерал-майор
+ stem: генерал-майор.
+ gramm: N,hum,rus
+ paradigm: Noun-num-consonant
+ trans_ru: генерал-майор
+-lexeme
+ lex: зоотехник-селекционер
+ stem: зоотехник-селекционер.
+ gramm: N,hum,rus
+ paradigm: Noun-num-consonant
+ trans_ru: зоотехник-селекционер
+-lexeme
+ lex: иудей
+ stem: иуде.
+ gramm: N,hum,rus
+ paradigm: Noun-num-j
+ trans_ru: иудей
+-lexeme
+ lex: мистер
+ stem: мистер.
+ gramm: N,hum,rus
+ paradigm: Noun-num-consonant
+ trans_ru: мистер
+-lexeme
+ lex: отец
+ stem: отец.
+ gramm: N,hum,rus
+ paradigm: Noun-num-consonant
+ trans_ru: отец (священник)
+-lexeme
+ lex: парламентарий
+ stem: парламентари.
+ gramm: N,hum,rus
+ paradigm: Noun-num-j
+ trans_ru: парламентарий
+-lexeme
+ lex: следж-хоккеист
+ stem: следж-хоккеист.
+ gramm: N,hum,rus
+ paradigm: Noun-num-consonant
+ trans_ru: следж-хоккеист
+-lexeme
+ lex: стоматолог
+ stem: стоматолог.
+ gramm: N,hum,rus
+ paradigm: Noun-num-consonant
+ trans_ru: стоматолог
+-lexeme
+ lex: фельдшер-акушер
+ stem: фельдшер-акушер.
+ gramm: N,hum,rus
+ paradigm: Noun-num-consonant
+ trans_ru: фельдшер-акушер
+-lexeme
+ lex: фермер-крестьян
+ stem: фермер-крестьян.
+ gramm: N,hum,rus
+ paradigm: Noun-num-consonant
+ trans_ru: фермер-крестьянин
+-lexeme
+ lex: человек
+ stem: человек.
+ gramm: N,hum,rus
+ paradigm: Noun-num-consonant
+ trans_ru: человек

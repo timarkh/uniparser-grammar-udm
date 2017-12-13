@@ -1139,6 +1139,20 @@
 -lexeme
  lex: ас
  stem: асьмедыз.
+ gramm: PRO,1pl,acc
+ paradigm: Comparative
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: асьтэды.
+ gramm: PRO,2pl,acc
+ paradigm: Comparative
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: асьтэдыз.
  gramm: PRO,2pl,acc
  paradigm: Comparative
  trans_ru: сам, свой
@@ -1245,6 +1259,27 @@
  lex: ас
  stem: асьтэлы.
  gramm: PRO,2pl,dat
+ paradigm: Comparative
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: асьсэя.
+ gramm: PRO,3pl,adv
+ paradigm: Noun-num-vowel
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: асьмея.
+ gramm: PRO,1pl,adv
+ paradigm: Comparative
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: асьтэя.
+ gramm: PRO,2pl,adv
  paradigm: Comparative
  trans_ru: сам, свой
 

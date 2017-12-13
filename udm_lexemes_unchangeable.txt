@@ -156,14 +156,14 @@
  lex: ӧйтӧд
  stem: ӧйтӧд.
  gramm: PART
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: не знаю
 
 -lexeme
  lex: ява
  stem: ява.
  gramm: PART
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: да ведь; же
 
 -lexeme
@@ -198,7 +198,7 @@
  lex: луэмен
  stem: луэмен.
  gramm: POST
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: из-за, вследствие; благодаря
 
 -lexeme
@@ -212,21 +212,21 @@
  lex: вамен
  stem: вамен.
  gramm: POST
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: поперёк
 
 -lexeme
  lex: куре
  stem: куре.
  gramm: POST
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: по, смотря по обстоятельствам, сообразно
 
 -lexeme
  lex: ёрсытӥ
  stem: ёрсытӥ.
  gramm: POST
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: около, возле, мимо
 
 -lexeme
@@ -240,49 +240,49 @@
  lex: ӵоже
  stem: ӵоже.
  gramm: POST
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: за, в течение, в продолжение
 
 -lexeme
  lex: ӵоже
  stem: ӵожелы.
  gramm: POST,dat
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: за, в течение, в продолжение
 
 -lexeme
  lex: луытозь
  stem: луытозь.
  gramm: POST
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: до
 
 -lexeme
  lex: луытозь
  stem: луытозям.
  gramm: POST,1sg
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: до
 
 -lexeme
  lex: луытозь
  stem: луытозяд.
  gramm: POST,2sg
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: до
 
 -lexeme
  lex: луытозь
  stem: луытозяз.
  gramm: POST,3sg
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: до
 
 -lexeme
  lex: пумтӥ
  stem: пумтӥ.
  gramm: POST
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: по
 
 -lexeme
@@ -298,49 +298,49 @@
  lex: сярысь
  stem: сярысь.
  gramm: POST
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: об
 
 -lexeme
  lex: палозь
  stem: палозь.
  gramm: POST
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: приблизительно, примерно
 
 -lexeme
  lex: пӧрат
  stem: пӧрат.
  gramm: POST
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: через
 
 -lexeme
  lex: пумозь
  stem: пумозь.
  gramm: POST
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: на, до
 
 -lexeme
  lex: башка
  stem: башка.
  gramm: POST
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: без, кроме, помимо
 
 -lexeme
  lex: ёрсы
  stem: ёрсы.
  gramm: POST
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: примерно до
 
 -lexeme
  lex: сямен
  stem: сямен.
  gramm: POST
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: по
 
 -lexeme
@@ -361,21 +361,21 @@
  lex: пыр
  stem: пыр.
  gramm: POST
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: сквозь, через, по
 
 -lexeme
  lex: аркаын
  stem: аркаын.
  gramm: POST
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: благодаря
 
 -lexeme
  lex: ӵожозь
  stem: ӵожозь.
  gramm: POST
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: по
 
 -lexeme
@@ -389,14 +389,14 @@
  lex: лэсяна
  stem: лэсяна.
  gramm: POST
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: кроме
 
 -lexeme
  lex: ӵож
  stem: ӵож.
  gramm: POST
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: по
 
 -lexeme
@@ -410,119 +410,119 @@
  lex: ёрсын
  stem: ёрсын.
  gramm: POST
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: около, примерно
 
 -lexeme
  lex: нялтэ
  stem: нялтэ.
  gramm: POST
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: попутно
 
 -lexeme
  lex: быдэ
  stem: быдэ.
  gramm: POST
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: на, по, еже-, каждый
 
 -lexeme
  lex: ана
  stem: ана.
  gramm: POST
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: кроме
 
 -lexeme
  lex: сяна
  stem: сяна.
  gramm: POST
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: кроме
 
 -lexeme
  lex: палан
  stem: палан.
  gramm: POST
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: около, близ, на
 
 -lexeme
  lex: сэрен
  stem: сэрен.
  gramm: POST
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: из-за, в силу, вследствие
 
 -lexeme
  lex: палтӥ
  stem: палтӥ.
  gramm: POST
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: близ, около, по... стороне
 
 -lexeme
  lex: вияла
  stem: вияла.
  gramm: POST
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: вдоль, по
 
 -lexeme
  lex: калэ
  stem: калэ.
  gramm: POST
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: до
 
 -lexeme
  lex: пыртӥ
  stem: пыртӥ.
  gramm: POST
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: сквозь, через
 
 -lexeme
  lex: кемысен
  stem: кемысен.
  gramm: POST,egr
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: послелог [с расстояния], приблизительно с
 
 -lexeme
  lex: кемысь
  stem: кемысь.
  gramm: POST,el
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: послелог [с расстояния], приблизительно с
 
 -lexeme
  lex: тӥни
  stem: тӥни.
  gramm: PART
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: вот, вон
 
 -lexeme
  lex: тӥнь
  stem: тӥнь.
  gramm: PART
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: вон
 
 -lexeme
  lex: тэнь
  stem: тэнь.
  gramm: PART
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: вот
 
 -lexeme
  lex: оведь
  stem: оведь.
  gramm: PART
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: не так ли?
 
 -lexeme
@@ -543,77 +543,77 @@
  lex: бен
  stem: бен.
  gramm: PART
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: утв. да
 
 -lexeme
  lex: бон
  stem: бон.
  gramm: PART
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: да, хоть
 
 -lexeme
  lex: марошлы
  stem: марошлы.
  gramm: PART
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: до чего, как
 
 -lexeme
  lex: озьы
  stem: озьы.
  gramm: PART
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: так, таким образом
 
 -lexeme
  lex: созьы
  stem: созьы.
  gramm: PART
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: так, таким образом
 
 -lexeme
  lex: озь
  stem: озь.
  gramm: PART
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: так, таким образом
 
 -lexeme
  lex: созь
  stem: созь.
  gramm: PART
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: так, таким образом
 
 -lexeme
  lex: тазьы
  stem: тазьы.
  gramm: PART
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: так, эдак
 
 -lexeme
  lex: тазь
  stem: тазь.
  gramm: PART
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: так, эдак
 
 -lexeme
  lex: озьыен
  stem: озьыен.
  gramm: PART,ins
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: итак, значит, стало быть
 
 -lexeme
  lex: созьыен
  stem: созьыен.
  gramm: PART,ins
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: итак, значит, стало быть
 
 -lexeme
@@ -634,28 +634,28 @@
  lex: малай
  stem: малай.
  gramm: PART
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: ведь, же
 
 -lexeme
  lex: око
  stem: око.
  gramm: PART
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: утверд. да, ага
 
 -lexeme
  lex: кылсярысь
  stem: кылсярысь.
  gramm: PARENTH
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: например
 
 -lexeme
  lex: кемыз
  stem: кемыз.
  gramm: PART
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: пусть, так и надо, поделом
 
 -lexeme
@@ -680,14 +680,14 @@
  lex: тото
  stem: тото.
  gramm: PART
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: то-то, вот почему
 
 -lexeme
  lex: ага
  stem: ага.
  gramm: PART
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: да
 
 -lexeme
@@ -708,42 +708,42 @@
  lex: коть
  stem: коть.
  gramm: PART,rus
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: хоть, хотя
 
 -lexeme
  lex: эке
  stem: эке.
  gramm: PART
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: утверд.-усил. да, да ведь, ведь, значит, ну и
 
 -lexeme
  lex: отэ
  stem: отэ.
  gramm: PART
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: утверд. да, да ведь
 
 -lexeme
  lex: даже
  stem: даже.
  gramm: PART,rus
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: даже
 
 -lexeme
  lex: тоже
  stem: тоже.
  gramm: PART,rus
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: тоже
 
 -lexeme
  lex: тожо
  stem: тожо.
  gramm: PART,rus
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: тоже
 
 -lexeme
@@ -827,28 +827,21 @@
  lex: яра
  stem: яра.
  gramm: PART
- paradigm: Empty
- trans_ru: утверд. хорошо, да, можно, разрешается, ладно
-
--lexeme
- lex: кытӥозь
- stem: кытӥозь.
- gramm: PART
- paradigm: Empty
- trans_ru: до какого места
+ paradigm: Comparative
+ trans_ru: хорошо, ладно
 
 -lexeme
  lex: медось
  stem: медось.
  gramm: PART
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: да... же
 
 -lexeme
  lex: дак
  stem: дак.
  gramm: PART
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: так
 
 -lexeme
@@ -890,7 +883,7 @@
  lex: медам
  stem: медам.
  gramm: PART
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: показатель прохибитива (пусть не); в знач. усил. частицы же
 
 -lexeme
@@ -904,14 +897,14 @@
  lex: медаз
  stem: медаз.
  gramm: PART,3
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: показатель прохибитива (пусть не)
 
 -lexeme
  lex: медад
  stem: медад.
  gramm: PART,2
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: показатель прохибитива (пусть не)
 
 -lexeme
@@ -960,21 +953,21 @@
  lex: ярам
  stem: ярам.
  gramm: PART
- paradigm: Empty
- trans_ru: утверд. хорошо, ладно
+ paradigm: Comparative
+ trans_ru: хорошо, ладно
 
 -lexeme
  lex: яралоз
  stem: яралоз.
  gramm: PART
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: хорошо, ладно
 
 -lexeme
  lex: ведь
  stem: ведь.
  gramm: PART,rus
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: усил. ведь
 
 -lexeme
@@ -1002,70 +995,70 @@
  lex: эсьма
  stem: эсьма.
  gramm: PART
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: даже, ведь; зато
 
 -lexeme
  lex: эсьмаса
  stem: эсьмаса.
  gramm: PART
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: даже, ведь; зато
 
 -lexeme
  lex: абага
  stem: абага.
  gramm: PART
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: утверд. хорошо, ладно  1. таволга, лабазник,2. папоротник
 
 -lexeme
  lex: пожалуйста
  stem: пожалуйста.//пожалуста.
  gramm: PART,rus
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: пожалуйста
 
 -lexeme
  lex: лабаса
  stem: лабаса.
  gramm: PART
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: усил. ведь
 
 -lexeme
  lex: дари
  stem: дари.
  gramm: PART
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: или, может
 
 -lexeme
  lex: мед
  stem: мед.
  gramm: PART
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: да, пусть
 
 -lexeme
  lex: что
  stem: что.//што.
  gramm: PART,rus
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: что за
 
 -lexeme
  lex: шат
  stem: шат.
  gramm: PART
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: вопр. ли, разве 2. вводн. сл. может быть
 
 -lexeme
  lex: али
  stem: али.
  gramm: PART
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: 1. -ка 2. усил. же 3. ещё и
 
 -lexeme
@@ -1073,7 +1066,7 @@
  stem: ась.
  gramm: PART
  paradigm: Empty
- trans_ru: ведь, а ведь, уд-ась ачид но ужаськы а ведь и сам не работаешь
+ trans_ru: ведь, а ведь
 
 -lexeme
  lex: эсь
@@ -1232,7 +1225,7 @@
  lex: ласянь
  stem: ласянь.
  gramm: POST
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: по направлению к
 
 -lexeme
@@ -1318,6 +1311,62 @@
  gramm: ADV,rus
  paradigm: connect_adverbs
  trans_ru: точно, пунктуально
+
+-lexeme
+ lex: сразу
+ stem: сразу.
+ gramm: ADV,rus
+ paradigm: connect_adverbs
+ trans_ru: сразу
+
+-lexeme
+ lex: можно
+ stem: можно.
+ gramm: PREDIC,rus
+ paradigm: Comparative
+ trans_ru: можно
+
+-lexeme
+ lex: хоть
+ stem: хоть.
+ gramm: PART,rus
+ paradigm: Comparative
+ trans_ru: хоть
+
+-lexeme
+ lex: же
+ stem: же.
+ gramm: PART,rus
+ paradigm: Comparative
+ trans_ru: же
+
+-lexeme
+ lex: будто
+ stem: будто.
+ gramm: PART,rus
+ paradigm: Comparative
+ trans_ru: будто
+
+-lexeme
+ lex: бы
+ stem: бы.
+ gramm: PART,rus
+ paradigm: Comparative
+ trans_ru: бы
+
+-lexeme
+ lex: заочно
+ stem: заочно.
+ gramm: ADV,rus
+ paradigm: Comparative
+ trans_ru: заочно
+
+-lexeme
+ lex: пока
+ stem: пока.
+ gramm: CNJ,rus
+ paradigm: Comparative
+ trans_ru: пока
 
 -lexeme
  lex: кудмында
@@ -1429,9 +1478,9 @@
 -lexeme
  lex: паськыт
  stem: паськыт.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: широко, обширно
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: широкий
 
 -lexeme
  lex: аман
@@ -2974,6 +3023,13 @@
  trans_ru: сейчас
 
 -lexeme
+ lex: каль
+ stem: каль.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: сейчас
+
+-lexeme
  lex: дурчак
  stem: дурчак.
  gramm: ADV
@@ -3937,6 +3993,7 @@
  stem: пыдло.
  gramm: ADV
  paradigm: connect_adverbs
+ paradigm: Noun-case-pydlo
  trans_ru: глубоко, вглубь
 
 -lexeme
@@ -6071,7 +6128,7 @@
  lex: айкась
  stem: айкась.
  gramm: CNJ
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: хотя, несмотря на то что...
 
 -lexeme
@@ -6080,6 +6137,13 @@
  gramm: CNJ,rus
  paradigm: Empty
  trans_ru: и то
+
+-lexeme
+ lex: ато
+ stem: ато.
+ gramm: CNJ,rus
+ paradigm: Empty
+ trans_ru: а то
 
 -lexeme
  lex: раз
@@ -6099,35 +6163,35 @@
  lex: сокутэк
  stem: сокутэк.
  gramm: CNJ
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: если не... то, до тех пор ...
 
 -lexeme
  lex: бере
  stem: бере.
  gramm: CNJ
- paradigm: Empty
- trans_ru: раз, если, поскольку
+ paradigm: Comparative
+ trans_ru: после
 
 -lexeme
  lex: алай
  stem: алай.
  gramm: CNJ
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: или
 
 -lexeme
  lex: агар
  stem: агар.
  gramm: CNJ
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: если
 
 -lexeme
  lex: нош
  stem: нош.
  gramm: CNJ
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: а
 
 -lexeme
@@ -6155,35 +6219,35 @@
  lex: только
  stem: только.
  gramm: CNJ,rus
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: только, однако
 
 -lexeme
  lex: шуыса
  stem: шуыса.//шуса.
  gramm: CNJ
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: 1. изъяснит. что 2. причинно-целевой потому что, чтобы
 
 -lexeme
  lex: либо
  stem: либо.
  gramm: CNJ,rus
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: либо
 
 -lexeme
  lex: кытын
  stem: кытын.
  gramm: CNJ
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: где, в каком месте
 
 -lexeme
  lex: если
  stem: если.
  gramm: CNJ,rus
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: если
 
 -lexeme
@@ -6219,7 +6283,7 @@
  stem: угу-гу-у.
  gramm: IMIT
  paradigm: Empty
- trans_ru: крику филина и мифического лесного существа – лесовика
+ trans_ru: крику филина или лесовика
 
 -lexeme
  lex: чин-пан
@@ -7939,14 +8003,14 @@
 -lexeme
  lex: воксё
  stem: воксё.
- gramm: ADV
+ gramm: ADV,rus
  paradigm: connect_adverbs
  trans_ru: совсем
 
 -lexeme
  lex: воксёлы
  stem: воксёлы.
- gramm: ADV
+ gramm: ADV,rus
  paradigm: connect_adverbs
  trans_ru: насовсем, навсегда
 
@@ -7955,6 +8019,7 @@
  stem: азьло.
  gramm: ADV
  paradigm: connect_adverbs
+ paradigm: Noun-case-pydlo
  trans_ru: раньше
 
 -lexeme
@@ -7962,7 +8027,8 @@
  stem: берло.
  gramm: ADV
  paradigm: connect_adverbs
- trans_ru: потом, после, впоследствии, затем
+ paradigm: Noun-case-pydlo
+ trans_ru: потом, затем
 
 -lexeme
  lex: котыра
@@ -9403,7 +9469,7 @@
  stem: вылды.
  gramm: PART
  paradigm: Empty
- trans_ru: может быть, вероятно, по-видимому, наверно, должно быть
+ trans_ru: может быть, наверно
 
 -lexeme
  lex: иське
@@ -10245,6 +10311,13 @@
 -lexeme
  lex: ганьылак
  stem: ганьылак.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: спокойно, легко, облегчённо
+
+-lexeme
+ lex: ганяк
+ stem: ганяк.
  gramm: ADV
  paradigm: connect_adverbs
  trans_ru: спокойно, легко, облегчённо
@@ -11575,6 +11648,12 @@
  paradigm: Comparative
  trans_ru: дескать
 -lexeme
+ lex: возможно
+ stem: возможно.
+ gramm: PARENTH,rus
+ paradigm: Comparative
+ trans_ru: возможно
+-lexeme
  lex: обалдеть
  stem: обалдеть.
  gramm: INTRJ,rus
@@ -11593,15 +11672,33 @@
  paradigm: Comparative
  trans_ru: опять
 -lexeme
+ lex: очень
+ stem: очень.
+ gramm: ADV,rus
+ paradigm: Comparative
+ trans_ru: очень
+-lexeme
+ lex: скоро
+ stem: скоро.
+ gramm: ADV,rus
+ paradigm: Comparative
+ trans_ru: скоро
+-lexeme
+ lex: почти
+ stem: почти.
+ gramm: ADV,rus
+ paradigm: Comparative
+ trans_ru: почти
+-lexeme
  lex: офигеть
  stem: офигеть.
- gramm: PARENTH,rus
+ gramm: INTRJ,rus
  paradigm: Comparative
  trans_ru: офигеть
 -lexeme
  lex: охренеть
  stem: охренеть.
- gramm: PARENTH,rus
+ gramm: INTRJ,rus
  paradigm: Comparative
  trans_ru: охренеть
 
@@ -11617,3 +11714,418 @@
  gramm: PART,rus
  paradigm: Comparative
  trans_ru: здорово
+
+-lexeme
+ lex: айда
+ stem: айда.
+ gramm: PREDIC
+ paradigm: Comparative
+ trans_ru: айда
+-lexeme
+ lex: аминь
+ stem: аминь.
+ gramm: PART,rus
+ paradigm: Comparative
+ trans_ru: аминь
+-lexeme
+ lex: беда
+ stem: беда.
+ gramm: PART,rus
+ paradigm: Comparative
+ trans_ru: беда
+-lexeme
+ lex: блин
+ stem: блин.
+ gramm: INTRJ,rus
+ paradigm: Comparative
+ trans_ru: блин
+-lexeme
+ lex: везде
+ stem: везде.
+ gramm: ADV,rus
+ paradigm: Comparative
+ trans_ru: везде
+-lexeme
+ lex: видимо
+ stem: видимо.
+ gramm: PARENTH,rus
+ paradigm: Comparative
+ trans_ru: видимо
+-lexeme
+ lex: вместе
+ stem: вместе.
+ gramm: ADV,rus
+ paradigm: Comparative
+ trans_ru: вместе
+-lexeme
+ lex: воксё
+ stem: вокщё.
+ gramm: PARENTH,rus,missp
+ paradigm: Comparative
+ trans_ru: вообще
+-lexeme
+ lex: вроде
+ stem: вроде.
+ gramm: PARENTH,rus
+ paradigm: Comparative
+ trans_ru: вроде
+-lexeme
+ lex: всегда
+ stem: всегда.
+ gramm: ADV,rus
+ paradigm: Comparative
+ trans_ru: всегда
+-lexeme
+ lex: давай
+ stem: давай.
+ gramm: PREDIC,rus
+ paradigm: Comparative
+ trans_ru: давай
+-lexeme
+ lex: дальше
+ stem: дальше.
+ gramm: ADV,rus
+ paradigm: Comparative
+ trans_ru: дальше
+-lexeme
+ lex: должен
+ stem: должен.
+ gramm: PREDIC,rus
+ paradigm: Comparative
+ trans_ru: должен
+-lexeme
+ lex: зар-зар
+ stem: зар-зар.
+ gramm: IMIT
+ paradigm: Comparative
+ trans_ru: 
+-lexeme
+ lex: здесь
+ stem: здесь.
+ gramm: ADV,rus
+ paradigm: Comparative
+ trans_ru: здесь
+-lexeme
+ lex: здравствуйте
+ stem: здравствуйте.
+ gramm: PART,rus
+ paradigm: Comparative
+ trans_ru: здравствуйте
+-lexeme
+ lex: значит
+ stem: значит.
+ gramm: PARENTH,rus
+ paradigm: Comparative
+ trans_ru: значит
+-lexeme
+ lex: зыл-зыл
+ stem: зыл-зыл.
+ gramm: IMIT
+ paradigm: Comparative
+ trans_ru: 
+-lexeme
+ lex: именно
+ stem: именно.
+ gramm: ADV,rus
+ paradigm: Comparative
+ trans_ru: именно
+-lexeme
+ lex: интересно
+ stem: интересно.
+ gramm: ADV,rus
+ paradigm: Comparative
+ trans_ru: интересно
+-lexeme
+ lex: капец
+ stem: капец.
+ gramm: PART,rus
+ paradigm: Comparative
+ trans_ru: капец
+-lexeme
+ lex: кемаласен
+ stem: кемаласен.
+ gramm: ADV
+ paradigm: Comparative
+ trans_ru: издавна
+-lexeme
+ lex: классно
+ stem: классно.
+ gramm: PART,rus
+ paradigm: Comparative
+ trans_ru: классно
+-lexeme
+ lex: короче
+ stem: короче.
+ gramm: PARENTH,rus
+ paradigm: Comparative
+ trans_ru: короче
+-lexeme
+ lex: кстати
+ stem: кстати.
+ gramm: PARENTH,rus
+ paradigm: Comparative
+ trans_ru: кстати
+-lexeme
+ lex: куаляк
+ stem: куаляк.
+ gramm: IMIT
+ paradigm: Comparative
+ trans_ru: 
+-lexeme
+ lex: ладно
+ stem: ладно.
+ gramm: ADV,rus
+ paradigm: Comparative
+ trans_ru: ладно
+-lexeme
+ lex: лач-лач
+ stem: лач-лач.
+ gramm: IMIT
+ paradigm: Comparative
+ trans_ru: 
+-lexeme
+ lex: луӵӵе
+ stem: луӵӵе.
+ gramm: PART,rus
+ paradigm: Comparative
+ trans_ru: лучше
+-lexeme
+ lex: много
+ stem: много.
+ gramm: ADV,rus
+ paradigm: Comparative
+ trans_ru: много
+-lexeme
+ lex: модно
+ stem: модно.
+ gramm: ADV,rus
+ paradigm: Comparative
+ trans_ru: модно
+-lexeme
+ lex: наверно
+ stem: наверно.
+ gramm: PARENTH,rus
+ paradigm: Comparative
+ trans_ru: наверно
+-lexeme
+ lex: наконец-то
+ stem: наконец-то.
+ gramm: ADV,rus
+ paradigm: Comparative
+ trans_ru: наконец-то
+-lexeme
+ lex: наоборот
+ stem: наоборот.
+ gramm: PARENTH,rus
+ paradigm: Comparative
+ trans_ru: наоборот
+-lexeme
+ lex: например
+ stem: например.
+ gramm: PARENTH,rus
+ paradigm: Comparative
+ trans_ru: например
+-lexeme
+ lex: неважно
+ stem: неважно.
+ gramm: PREDIC,rus
+ paradigm: Comparative
+ trans_ru: неважно
+-lexeme
+ lex: нормально
+ stem: нормально.
+ gramm: ADV,rus
+ paradigm: Comparative
+ trans_ru: нормально
+-lexeme
+ lex: нясь-нясь
+ stem: нясь-нясь.
+ gramm: IMIT
+ paradigm: Comparative
+ trans_ru: 
+-lexeme
+ lex: нёшто
+ stem: нёшто.
+ gramm: ADV,rus
+ paradigm: Comparative
+ trans_ru: неужто
+-lexeme
+ lex: обратно
+ stem: обратно.
+ gramm: ADV,rus
+ paradigm: Comparative
+ trans_ru: обратно
+-lexeme
+ lex: обычно
+ stem: обычно.
+ gramm: ADV,rus
+ paradigm: Comparative
+ trans_ru: обычно
+-lexeme
+ lex: обязательно
+ stem: обязательно.
+ gramm: ADV,rus
+ paradigm: Comparative
+ trans_ru: обязательно
+-lexeme
+ lex: однако
+ stem: однако.
+ gramm: PARENTH,rus
+ paradigm: Comparative
+ trans_ru: однако
+-lexeme
+ lex: особенно
+ stem: особенно.
+ gramm: ADV,rus
+ paradigm: Comparative
+ trans_ru: особенно
+-lexeme
+ lex: остэ
+ stem: остэ.
+ gramm: INTRJ
+ paradigm: Comparative
+ trans_ru: господи помилуй
+-lexeme
+ lex: очно
+ stem: очно.
+ gramm: ADV,rus
+ paradigm: Comparative
+ trans_ru: очно
+-lexeme
+ lex: примерно
+ stem: примерно.
+ gramm: ADV,rus
+ paradigm: Comparative
+ trans_ru: примерно
+-lexeme
+ lex: приятно
+ stem: приятно.
+ gramm: ADV,rus
+ paradigm: Comparative
+ trans_ru: приятно
+-lexeme
+ lex: прямо
+ stem: прямо.
+ gramm: ADV,rus
+ paradigm: Comparative
+ trans_ru: прямо
+-lexeme
+ lex: пуж-пуж
+ stem: пуж-пуж.
+ gramm: IMIT
+ paradigm: Comparative
+ trans_ru: 
+-lexeme
+ lex: пусть
+ stem: пусть.
+ gramm: PART,rus
+ paradigm: Comparative
+ trans_ru: пусть
+-lexeme
+ lex: резко
+ stem: резко.
+ gramm: ADV,rus
+ paradigm: Comparative
+ trans_ru: резко
+-lexeme
+ lex: сейчас
+ stem: сейчас.
+ gramm: ADV,rus
+ paradigm: Comparative
+ trans_ru: сейчас
+-lexeme
+ lex: спасибо
+ stem: спасибо.
+ gramm: PART,rus
+ paradigm: Comparative
+ trans_ru: спасибо
+-lexeme
+ lex: странно
+ stem: странно.
+ gramm: ADV,rus
+ paradigm: Comparative
+ trans_ru: странно
+-lexeme
+ lex: типа
+ stem: типа.
+ gramm: PART,rus
+ paradigm: Comparative
+ trans_ru: типа
+-lexeme
+ lex: унь-мань
+ stem: унь-мань.
+ gramm: IMIT
+ paradigm: Comparative
+ trans_ru: искалечить, обидеть (с карыны)
+-lexeme
+ lex: условно
+ stem: условно.
+ gramm: ADV,rus
+ paradigm: Comparative
+ trans_ru: условно
+-lexeme
+ lex: хорошо
+ stem: хорошо.
+ gramm: PART,rus
+ paradigm: Comparative
+ trans_ru: хорошо
+-lexeme
+ lex: чисто
+ stem: чисто.
+ gramm: ADV,rus
+ paradigm: Comparative
+ trans_ru: чисто
+-lexeme
+ lex: чтобы
+ stem: чтобы.
+ gramm: CNJ,rus
+ paradigm: Comparative
+ trans_ru: чтобы
+-lexeme
+ lex: чупыр-чупыр
+ stem: чупыр-чупыр.
+ gramm: IMIT
+ paradigm: Comparative
+ trans_ru: 
+-lexeme
+ lex: чуть
+ stem: чуть.
+ gramm: PART,rus
+ paradigm: Comparative
+ trans_ru: чуть
+-lexeme
+ lex: шал-шал
+ stem: шал-шал.
+ gramm: IMIT
+ paradigm: Comparative
+ trans_ru: 
+-lexeme
+ lex: шальк-шальк
+ stem: шальк-шальк.
+ gramm: IMIT
+ paradigm: Comparative
+ trans_ru: 
+-lexeme
+ lex: шенгыль-пенгыль
+ stem: шенгыль-пенгыль.
+ gramm: IMIT
+ paradigm: Comparative
+ trans_ru: 
+-lexeme
+ lex: ӝик-ӝик
+ stem: ӝик-ӝик.
+ gramm: IMIT
+ paradigm: Comparative
+ trans_ru: 
+-lexeme
+ lex: ӝытбыт
+ stem: ӝытбыт.
+ gramm: ADV
+ paradigm: Comparative
+ trans_ru: весь вечер
+-lexeme
+ lex: ӟечбуресь
+ stem: ӟечбуресь.
+ gramm: PART
+ paradigm: Comparative
+ trans_ru: здравствуйте

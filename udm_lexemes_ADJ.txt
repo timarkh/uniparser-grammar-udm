@@ -11653,7 +11653,14 @@
  stem: кынмам.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: 1. простуженный, простудный, кынмамен висён простудное заболевание 2. подмороженный, прихваченный морозом
+ trans_ru: простуженный; подмороженный
+
+-lexeme
+ lex: кын
+ stem: кын.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: мёрзлый, смёрзшийся
 
 -lexeme
  lex: европейской
@@ -12762,6 +12769,20 @@
  trans_ru: невиданный, незнакомый
 
 -lexeme
+ lex: адӟемпотостэм
+ stem: адӟемпотостэм.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: ненавистный
+
+-lexeme
+ lex: синазькыль
+ stem: синазькыл.
+ gramm: ADJ
+ paradigm: connect_adjectives-soft
+ trans_ru: ненавистный
+
+-lexeme
  lex: румбыко
  stem: румбыко.
  gramm: ADJ
@@ -13714,6 +13735,13 @@
  trans_ru: прозрачный
 
 -lexeme
+ lex: чибориё
+ stem: чибориё.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: узорчатый, пёстрый
+
+-lexeme
  lex: север
  stem: север.
  gramm: N,rus
@@ -13897,10 +13925,17 @@
 
 -lexeme
  lex: кузь
- stem: кузь.
+ stem: куз.
+ gramm: ADJ
+ paradigm: connect_adjectives-soft
+ trans_ru: длинный
+
+-lexeme
+ lex: кунпуш
+ stem: кунпуш.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: длинный
+ trans_ru: внутригосударственный
 
 -lexeme
  lex: таза
@@ -14111,6 +14146,20 @@
  gramm: ADJ
  paradigm: connect_adjectives
  trans_ru: о человеке: широкоглазый
+
+-lexeme
+ lex: валинэс
+ stem: валинэс.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: яровой
+
+-lexeme
+ lex: ваменэс
+ stem: ваменэс.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: упрямый
 
 -lexeme
  lex: торкет
@@ -31713,3 +31762,94 @@
  gramm: ADJ,abbr,rus
  paradigm: connect_adjectives
  trans_ru: лирический
+
+-lexeme
+ lex: великий
+ stem: велики.
+ gramm: ADJ,rus
+ paradigm: connect-adjectives-j
+ trans_ru: великий
+-lexeme
+ lex: военно-медицинской
+ stem: военно-медицинско.
+ gramm: ADJ,rus
+ paradigm: connect-adjectives-j
+ trans_ru: военно-медицинской
+-lexeme
+ lex: военно-патриотической
+ stem: военно-патриотическо.
+ gramm: ADJ,rus
+ paradigm: connect-adjectives-j
+ trans_ru: военно-патриотической
+-lexeme
+ lex: восточно-европейской
+ stem: восточно-европейско.
+ gramm: ADJ,rus
+ paradigm: connect-adjectives-j
+ trans_ru: восточно-европейской
+-lexeme
+ lex: декоративно-прикладной
+ stem: декоративно-прикладно.
+ gramm: ADJ,rus
+ paradigm: connect-adjectives-j
+ trans_ru: декоративно-прикладной
+-lexeme
+ lex: жилищно-коммунальной
+ stem: жилищно-коммунально.
+ gramm: ADJ,rus
+ paradigm: connect-adjectives-j
+ trans_ru: жилищно-коммунальной
+-lexeme
+ lex: медико-социальной
+ stem: медико-социально.
+ gramm: ADJ,rus
+ paradigm: connect-adjectives-j
+ trans_ru: медико-социальной
+-lexeme
+ lex: научно-исследовательской
+ stem: научно-исследовательско.
+ gramm: ADJ,rus
+ paradigm: connect-adjectives-j
+ trans_ru: научно-исследовательской
+-lexeme
+ lex: научно-практической
+ stem: научно-практическо.
+ gramm: ADJ,rus
+ paradigm: connect-adjectives-j
+ trans_ru: научно-практической
+-lexeme
+ lex: национально-культурной
+ stem: национально-культурно.
+ gramm: ADJ,rus
+ paradigm: connect-adjectives-j
+ trans_ru: национально-культурной
+-lexeme
+ lex: нерад
+ stem: нерад.
+ gramm: ADJ,rus
+ paradigm: connect-adjectives
+ trans_ru: не рад
+-lexeme
+ lex: нюко-гопо
+ stem: нюко-гоп.
+ gramm: ADJ
+ paradigm: connect-adjectives-j
+ trans_ru: с оврагами и лощинами
+-lexeme
+ lex: русский
+ stem: русски.
+ gramm: ADJ,rus
+ paradigm: connect-adjectives-j
+ trans_ru: русский
+-lexeme
+ lex: свято-михайловской
+ stem: свято-михайловско.
+ gramm: ADJ,rus
+ paradigm: connect-adjectives-j
+ trans_ru: свято-михайловской
+-lexeme
+ lex: фельдшерско-акушерской
+ stem: фельдшерско-акушерско.
+ gramm: ADJ,rus
+ paradigm: connect-adjectives-j
+ trans_ru: фельдшерско-акушерской
