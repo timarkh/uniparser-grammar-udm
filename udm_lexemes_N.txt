@@ -70708,7 +70708,7 @@
 -lexeme
  lex: юалляськон
  stem: юалляськон.
- gramm: N1
+ gramm: N
  paradigm: Noun-num-consonant
  trans_ru: расспросы, опрос, опрашивание, допрашивание
 
@@ -75690,7 +75690,7 @@
 -lexeme
  lex: воргорон
  stem: ворогорон.
- gramm: N,rus,missp,hum
+ gramm: N,missp,hum
  paradigm: Noun-num-consonant
  trans_ru: мужчина
 -lexeme
@@ -86322,7 +86322,7 @@
 -lexeme
  lex: элькун
  stem: элькн.
- gramm: N,rus,missp
+ gramm: N,missp
  paradigm: Noun-num-consonant
  trans_ru: государство
 -lexeme

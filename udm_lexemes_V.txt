@@ -8620,9 +8620,23 @@
 -lexeme
  lex: кошкыны
  stem: кошк.
- gramm: V,I,intr,with_el,with_ill,imp,2,sg
+ gramm: V,I,intr,with_el,with_ill
  paradigm: connect_verbs-I
- trans_ru: 1. уйти, уходить 2. течь, струиться 3. отстираться
+ trans_ru: уйти
+
+-lexeme
+ lex: кошкыны
+ stem: кош.
+ gramm: V,I,intr,with_el,with_ill,imp,2,sg
+ paradigm: Comparative
+ trans_ru: уйти
+
+-lexeme
+ lex: кошкыны
+ stem: кош.
+ gramm: V,I,intr,with_el,with_ill,neg
+ paradigm: Comparative
+ trans_ru: уйти
 
 -lexeme
  lex: коштанъяськыны
@@ -8657,14 +8671,14 @@
  stem: кроккет.
  gramm: V,I
  paradigm: connect_verbs-I
- trans_ru: каркать, кырныж корккетэ ворон каркает
+ trans_ru: каркать
 
 -lexeme
  lex: куаданы
  stem: куада.
  gramm: V,II
  paradigm: connect_verbs-II
- trans_ru: 1. лущить, рушить 2. вянуть,гнить, греть
+ trans_ru: 1. лущить, рушить 2. вянуть, гнить, греть
 
 -lexeme
  lex: куажгатъяны
@@ -8692,7 +8706,7 @@
  stem: куажырт.
  gramm: V,I
  paradigm: connect_verbs-I
- trans_ru: трещать, треснуть, хрустеть, хрустнуть производить шум
+ trans_ru: трещать, треснуть, хрустеть
 
 -lexeme
  lex: куайыны
@@ -11561,9 +11575,23 @@
 -lexeme
  lex: лыктыны
  stem: лыкт.
- gramm: V,I,intr,with_el,with_ill,imp,2,sg
+ gramm: V,I,intr,with_el,with_ill
  paradigm: connect_verbs-I
- trans_ru: 1. прийти, приходить 2. прийтись, приходиться
+ trans_ru: прийти
+
+-lexeme
+ lex: лыктыны
+ stem: лык.
+ gramm: V,I,intr,with_el,with_ill,imp,2,sg
+ paradigm: Comparative
+ trans_ru: прийти
+
+-lexeme
+ lex: лыктыны
+ stem: лык.
+ gramm: V,I,intr,with_el,with_ill,neg
+ paradigm: Comparative
+ trans_ru: прийти
 
 -lexeme
  lex: лымшораны

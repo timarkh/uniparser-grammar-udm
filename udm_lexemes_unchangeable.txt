@@ -712,6 +712,13 @@
  trans_ru: хоть, хотя
 
 -lexeme
+ lex: хотя
+ stem: хотя.
+ gramm: CNJ,rus
+ paradigm: Comparative
+ trans_ru: хотя
+
+-lexeme
  lex: эке
  stem: эке.
  gramm: PART
@@ -10997,14 +11004,14 @@
 -lexeme
  lex: жаль
  stem: жал.
- gramm: PREDIC
+ gramm: PREDIC,rus
  paradigm: connect_adverbs
  trans_ru: жаль
 
 -lexeme
  lex: соглаш
  stem: соглаш.
- gramm: PREDIC
+ gramm: PREDIC,rus
  paradigm: connect_adverbs
  trans_ru: согласен, договорились
 
