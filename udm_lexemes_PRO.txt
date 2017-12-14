@@ -63,7 +63,7 @@
 
 -lexeme
  lex: ми
- stem: ми.
+ stem: ми.//миос.
  gramm: PRO,nom,pl
  paradigm: Comparative
  trans_ru: мы
@@ -485,6 +485,22 @@
  trans_ru: нисколько
 
 -lexeme
+ lex: кӧняке
+ stem: кӧняке.
+ gramm: PRO
+ paradigm: Comparative
+ paradigm: Noun-case
+ trans_ru: сколько-то
+
+-lexeme
+ lex: кӧнякелы
+ stem: кӧнякелы.
+ gramm: PRO,dat
+ paradigm: Comparative
+ paradigm: Noun-case
+ trans_ru: на сколько-то
+
+-lexeme
  lex: сомында
  stem: сомында.
  gramm: PRO
@@ -695,98 +711,98 @@
 
 -lexeme
  lex: отын
- stem: отын.
+ stem: отын.//отчын.
  gramm: PRO,loc
  paradigm: Comparative
  trans_ru: там, тут
 
 -lexeme
  lex: сотын
- stem: сотын.
+ stem: сотын.//сотчын.
  gramm: PRO,loc
  paradigm: Comparative
  trans_ru: там, тут
 
 -lexeme
  lex: татын
- stem: татын.
+ stem: татын.//татчын.
  gramm: PRO,loc
  paradigm: Comparative
  trans_ru: здесь
 
 -lexeme
  lex: кытын
- stem: кытын.
+ stem: кытын.//кытчын.
  gramm: PRO,loc
  paradigm: Comparative
  trans_ru: где
 
 -lexeme
  lex: олокытын
- stem: олокытын.
+ stem: олокытын.//олокытчын.
  gramm: PRO,loc
  paradigm: Comparative
  trans_ru: где-то, не знаю где
 
 -lexeme
  lex: котькытын
- stem: котькытын.
+ stem: котькытын.//котькытчын.
  gramm: PRO,loc
  paradigm: Comparative
  trans_ru: где угодно
 
 -lexeme
  lex: нокытын
- stem: нокытын.
+ stem: нокытын.//нокытчын.
  gramm: PRO,loc
  paradigm: Comparative
  trans_ru: нигде
 
 -lexeme
  lex: отысь
- stem: отысь.//отӥсь.
+ stem: отысь.//отӥсь.//отись.
  gramm: PRO,el
  paradigm: Comparative
  trans_ru: оттуда
 
 -lexeme
  lex: сотысь
- stem: сотысь.//сотӥсь.
+ stem: сотысь.//сотӥсь.//сотись.
  gramm: PRO,el
  paradigm: Comparative
  trans_ru: оттуда
 
 -lexeme
  lex: татысь
- stem: татысь.//татӥсь.
+ stem: татысь.//татӥсь.//татись.
  gramm: PRO,el
  paradigm: Comparative
  trans_ru: отсюда
 
 -lexeme
  lex: кытысь
- stem: кытысь.//кытӥсь.
+ stem: кытысь.//кытӥсь.//кытись.
  gramm: PRO,el
  paradigm: Comparative
  trans_ru: откуда
 
 -lexeme
  lex: олокытысь
- stem: олокытысь.//олокытӥсь.
+ stem: олокытысь.//олокытӥсь.//олокытись.
  gramm: PRO,el
  paradigm: Comparative
  trans_ru: откуда-то, не знаю откуда
 
 -lexeme
  lex: котькытысь
- stem: котькытысь.//котькытӥсь.
+ stem: котькытысь.//котькытӥсь.//котькытись.
  gramm: PRO,el
  paradigm: Comparative
  trans_ru: откуда угодно
 
 -lexeme
  lex: нокытысь
- stem: нокытысь.//нокытӥсь.
+ stem: нокытысь.//нокытӥсь.//нокытись.
  gramm: PRO,el
  paradigm: Comparative
  trans_ru: ниоткуда
@@ -842,35 +858,35 @@
 
 -lexeme
  lex: отчыозь
- stem: отчыозь.
+ stem: отчыозь.//отчиёзь.
  gramm: PRO,egr
  paradigm: Comparative
  trans_ru: дотуда
 
 -lexeme
  lex: сотчыозь
- stem: сотчыозь.
+ stem: сотчыозь.//сотчиёзь.
  gramm: PRO,egr
  paradigm: Comparative
  trans_ru: дотуда
 
 -lexeme
  lex: татчыозь
- stem: татчыозь.
+ stem: татчыозь.//татчиёзь.
  gramm: PRO,egr
  paradigm: Comparative
  trans_ru: досюда
 
 -lexeme
  lex: кытчыозь
- stem: кытчыозь.
+ stem: кытчыозь.//кытчиёзь.
  gramm: PRO,egr
  paradigm: Comparative
  trans_ru: докуда
 
 -lexeme
  lex: олокытчыозь
- stem: олокытчыозь.
+ stem: олокытчыозь.//олокытчиёзь.
  gramm: PRO,egr
  paradigm: Comparative
  trans_ru: докуда-то, не знаю докуда
@@ -1208,7 +1224,7 @@
 
 -lexeme
  lex: ас
- stem: асьмелэн.
+ stem: асьмелэн.//асьмен.//асьмэн.
  gramm: PRO,1pl,gen
  paradigm: Comparative
  trans_ru: сам, свой

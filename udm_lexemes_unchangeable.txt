@@ -866,6 +866,13 @@
  trans_ru: уже, значит
 
 -lexeme
+ lex: инь
+ stem: инь.
+ gramm: ADV
+ paradigm: Empty
+ trans_ru: уже, значит
+
+-lexeme
  lex: на
  stem: на.
  gramm: ADV
@@ -930,7 +937,7 @@
 
 -lexeme
  lex: эшшо
- stem: эшшо.
+ stem: эшшо.//ешшо.
  gramm: ADV,rus
  paradigm: Empty
  trans_ru: ещё
@@ -3546,6 +3553,13 @@
  gramm: ADV
  paradigm: connect_adverbs
  trans_ru: впереди
+
+-lexeme
+ lex: актык
+ stem: актык.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: совсем, окончательно; наконец
 
 -lexeme
  lex: чик
@@ -7596,7 +7610,7 @@
 
 -lexeme
  lex: ага
- stem: ага.
+ stem: ага.//аха.
  gramm: INTRJ
  paradigm: Empty
  trans_ru: ага
@@ -7663,6 +7677,13 @@
  gramm: INTRJ
  paradigm: Empty
  trans_ru: ам
+
+-lexeme
+ lex: алла
+ stem: алла.
+ gramm: INTRJ
+ paradigm: Empty
+ trans_ru: господи!
 
 -lexeme
  lex: уаллахи
@@ -10102,6 +10123,13 @@
  trans_ru: таки
 
 -lexeme
+ lex: больше
+ stem: больше.
+ gramm: ADV,rus
+ paradigm: connect_adverbs
+ trans_ru: больше
+
+-lexeme
  lex: пырак
  stem: пырак.
  gramm: ADV
@@ -10933,7 +10961,7 @@
 
 -lexeme
  lex: выльысь
- stem: выльыс.
+ stem: выльысь.//вились.
  gramm: ADV
  paradigm: connect_adverbs
  trans_ru: снова, вновь, заново
@@ -11003,10 +11031,17 @@
 
 -lexeme
  lex: жаль
- stem: жал.
+ stem: жаль.
  gramm: PREDIC,rus
  paradigm: connect_adverbs
  trans_ru: жаль
+
+-lexeme
+ lex: жалко
+ stem: жалко.
+ gramm: PREDIC,rus
+ paradigm: connect_adverbs
+ trans_ru: жалко
 
 -lexeme
  lex: соглаш
@@ -11150,7 +11185,7 @@
 
 -lexeme
  lex: кыдёк-
- stem: кыдёк.//кудёк.
+ stem: кыдёк.//кудёк.//кидёк.
  gramm: ADV
  paradigm: Noun-num-consonant
  trans_ru: издалека/далеко/вдаль
@@ -11814,10 +11849,16 @@
  trans_ru: здесь
 -lexeme
  lex: здравствуйте
- stem: здравствуйте.
+ stem: здравствуйте.//здрасьте.//здрасте.
  gramm: PART,rus
  paradigm: Comparative
  trans_ru: здравствуйте
+-lexeme
+ lex: здравствуй
+ stem: здравствуй.
+ gramm: PART,rus
+ paradigm: Comparative
+ trans_ru: здравствуй
 -lexeme
  lex: значит
  stem: значит.

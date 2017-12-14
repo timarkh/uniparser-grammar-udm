@@ -448,6 +448,13 @@
  trans_ru: Екатерина
 
 -lexeme
+ lex: Экатэрина
+ stem: экатэрина.
+ gramm: N,PN,persn
+ paradigm: Noun-num-vowel
+ trans_ru: Экатэрина
+
+-lexeme
  lex: Лариса
  stem: лариса.
  gramm: N,PN,persn
@@ -7851,12 +7858,6 @@
  paradigm: Noun-num-consonant
  trans_ru: Кадыров
 -lexeme
- lex: Казакгурт
- stem: казакгурт.
- gramm: N,PN,topn
- paradigm: Noun-num-consonant
- trans_ru: Казакгурт
--lexeme
  lex: Казьмас
  stem: казьмас.
  gramm: N,PN,topn
@@ -8286,6 +8287,13 @@
  gramm: N,PN,topn
  paradigm: Noun-num-consonant
  trans_ru: Кисальгурт
+-lexeme
+ lex: Кисса
+ stem: кисса.
+ gramm: N,PN,topn
+ paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
+ trans_ru: Кисса
 -lexeme
  lex: Кияик
  stem: кияик.
@@ -14421,6 +14429,12 @@
  gramm: N,PN,persn
  paradigm: Noun-num-vowel
  trans_ru: Галя
+-lexeme
+ lex: Галяпай
+ stem: галяпа.
+ gramm: N,PN,persn
+ paradigm: Noun-num-j
+ trans_ru: тётя Галя
 -lexeme
  lex: Гаранян
  stem: гаранян.
@@ -23843,6 +23857,12 @@
  gramm: N,PN,patrn
  paradigm: Noun-num-vowel
  trans_ru: Георгиевна
+-lexeme
+ lex: Георгиева
+ stem: георгиева.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Георгиева
 -lexeme
  lex: Геракл
  stem: геракл.

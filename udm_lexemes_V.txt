@@ -934,14 +934,14 @@
  stem: байм.
  gramm: V,I,intr
  paradigm: connect_verbs-I
- trans_ru: разбогатеть, обогатиться, стать богатым
+ trans_ru: разбогатеть
 
 -lexeme
  lex: бакасыны
  stem: бакас.
  gramm: V,I,intr
  paradigm: connect_verbs-I
- trans_ru: спорить, поспорить, вступать в спор
+ trans_ru: спорить
 
 -lexeme
  lex: бакелляны
@@ -1032,7 +1032,7 @@
  stem: бастыр.
  gramm: V,I,intr
  paradigm: connect_verbs-I
- trans_ru: бавл. погнаться, гнаться, бастырыны кутскиллям
+ trans_ru: бавл. погнаться, гнаться
 
 -lexeme
  lex: басыланы
@@ -1259,6 +1259,13 @@
  trans_ru: 1. завершить, завершать 2. замкнуть, замыкать
 
 -lexeme
+ lex: бертаны
+ stem: берта.
+ gramm: V,II,intr,with_ill
+ paradigm: connect_verbs-II
+ trans_ru: возвращаться
+
+-lexeme
  lex: бертыны
  stem: берт.
  gramm: V,I,intr,with_ill
@@ -1299,13 +1306,6 @@
  gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: 1. усвоить татарский язык 2. соблюдать обычай татар
-
--lexeme
- lex: бизьыны
- stem: биз.
- gramm: V,I,intr,with_dat,with_ill
- paradigm: connect_verbs-I-soft
- trans_ru: бежать, течь; выйти замуж
 
 -lexeme
  lex: билёуаны
@@ -2073,7 +2073,7 @@
 
 -lexeme
  lex: бызьыны
- stem: быз.
+ stem: быз.//биз.
  gramm: V,I,intr,with_ill
  paradigm: connect_verbs-I-soft
  trans_ru: бежать, течь; выйти замуж
@@ -9613,10 +9613,10 @@
 
 -lexeme
  lex: кутскыны
- stem: кутск.
+ stem: кутск.//кучк.
  gramm: V,I
  paradigm: connect_verbs-I
- trans_ru: 1. начать, начинать 2. взяться, браться 3. прилипнуть
+ trans_ru: начать; прилипнуть
 
 -lexeme
  lex: кутчаны
@@ -10841,14 +10841,14 @@
  stem: кӧчырт.
  gramm: V,I
  paradigm: connect_verbs-I
- trans_ru: 1. скопировать, снять копию 2. списать, переписать 3. перенести
+ trans_ru: скопировать; списать; перенести
 
 -lexeme
  lex: кӧчырыны
  stem: кӧчыр.
  gramm: V,I
  paradigm: connect_verbs-I
- trans_ru: 1. копировать, скопировать 2. списать, списывать 3. перенести
+ trans_ru: копировать; списывать; перенести
 
 -lexeme
  lex: кӧшаны
@@ -21003,7 +21003,7 @@
 
 -lexeme
  lex: учкыны
- stem: учк.
+ stem: учк.//уськ.
  gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: смотреть, глядеть
@@ -23734,7 +23734,7 @@
 -lexeme
  lex: шуыны
  stem: шу.
- gramm: V,I,tr
+ gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: вянуть
 
@@ -23743,6 +23743,34 @@
  stem: шу.
  gramm: V,I,tr
  paradigm: connect_verbs-I
+ trans_ru: сказать
+
+-lexeme
+ lex: шуыны
+ stem: шко.
+ gramm: V,I,tr,1,sg,prs
+ paradigm: Comparative
+ trans_ru: сказать
+
+-lexeme
+ lex: шуыны
+ stem: шком.//шкомы.
+ gramm: V,I,tr,1,pl,prs
+ paradigm: Comparative
+ trans_ru: сказать
+
+-lexeme
+ lex: шуыны
+ stem: шкод.
+ gramm: V,I,tr,2,sg,prs
+ paradigm: Comparative
+ trans_ru: сказать
+
+-lexeme
+ lex: шуыны
+ stem: шкоды.
+ gramm: V,I,tr,2,pl,prs
+ paradigm: Comparative
  trans_ru: сказать
 
 -lexeme
@@ -27285,6 +27313,12 @@
  paradigm: Comparative
  trans_ru: вдохновлять
 -lexeme
+ lex: везти
+ stem: везти.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: везти
+-lexeme
  lex: венчать
  stem: венчать.
  gramm: V,rus,rus_inf,rus_ipfv
@@ -27332,6 +27366,12 @@
  gramm: V,rus,rus_inf,rus_ipfv
  paradigm: Comparative
  trans_ru: вершить
+-lexeme
+ lex: вести
+ stem: вести.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: вести
 -lexeme
  lex: вещать
  stem: вещать.

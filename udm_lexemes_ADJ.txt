@@ -6112,28 +6112,28 @@
 
 -lexeme
  lex: быдӟа
- stem: быдӟа.
+ stem: быдӟа.//быдӟ.
  gramm: ADJ,rel_adj
  paradigm: connect_adjectives
  trans_ru: величиной равный чему-то
 
 -lexeme
  lex: кузьда
- stem: кузьда.
+ stem: кузьда.//кузьд.
  gramm: ADJ,rel_adj
  paradigm: connect_adjectives
  trans_ru: длиной равный чему-то
 
 -lexeme
  lex: пасьта
- stem: пасьта.
+ stem: пасьта.//пасьт.
  gramm: ADJ,rel_adj
  paradigm: connect_adjectives
  trans_ru: шириной равный чему-то
 
 -lexeme
  lex: кызда
- stem: кызда.
+ stem: кызда.//кызд.
  gramm: ADJ,rel_adj
  paradigm: connect_adjectives
  trans_ru: толщиной равный чему-то
@@ -31831,9 +31831,9 @@
  trans_ru: не рад
 -lexeme
  lex: нюко-гопо
- stem: нюко-гоп.
+ stem: нюко-гопо.
  gramm: ADJ
- paradigm: connect_adjectives-j
+ paradigm: connect_adjectives
  trans_ru: с оврагами и лощинами
 -lexeme
  lex: русский
@@ -31853,3 +31853,10 @@
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: фельдшерско-акушерской
+
+-lexeme
+ lex: актык
+ stem: актык.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: последний; заключительный

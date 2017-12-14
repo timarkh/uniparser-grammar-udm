@@ -9497,6 +9497,13 @@
  trans_ru: пять
 
 -lexeme
+ lex: вить
+ stem: 5.//5-.
+ gramm: NUM
+ paradigm: connect_num
+ trans_ru: пять
+
+-lexeme
  lex: витьлык
  stem: витьлык.
  gramm: N
@@ -9512,7 +9519,7 @@
 
 -lexeme
  lex: витьтон
- stem: витьтон.
+ stem: витьтон.//50.//50-.
  gramm: NUM
  paradigm: connect_num
  trans_ru: пятьдесят
@@ -14521,7 +14528,7 @@
 
 -lexeme
  lex: дас
- stem: дас.
+ stem: дас.//10.//10-.
  gramm: NUM
  paradigm: connect_num
  trans_ru: десять
@@ -27355,7 +27362,7 @@
 
 -lexeme
  lex: куамын
- stem: куамын.
+ stem: куамын.//30.//30-.
  gramm: NUM
  paradigm: connect_num
  trans_ru: тридцать
@@ -27557,6 +27564,13 @@
  trans_ru: шесть
 
 -lexeme
+ lex: куать
+ stem: 6.//6-.
+ gramm: NUM
+ paradigm: connect_num
+ trans_ru: шесть
+
+-lexeme
  lex: куатьдас
  stem: куатьдас.
  gramm: NUM
@@ -27572,7 +27586,7 @@
 
 -lexeme
  lex: куатьтон
- stem: куатьтон.
+ stem: куатьтон.//60.//60-.
  gramm: NUM
  paradigm: connect_num
  trans_ru: шестьдесят
@@ -27743,7 +27757,7 @@
  stem: куж.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: сила, мочь
+ trans_ru: кудель, пакля
 
 -lexeme
  lex: кужым
@@ -27952,9 +27966,16 @@
 
 -lexeme
  lex: куинь
- stem: куин.//куиньм.
+ stem: куин.//кун.//куиньм.
  gramm: NUM
  paradigm: connect_num-soft
+ trans_ru: три
+
+-lexeme
+ lex: куинь
+ stem: 3.//3-.
+ gramm: NUM
+ paradigm: connect_num
  trans_ru: три
 
 -lexeme
@@ -29767,7 +29788,7 @@
 
 -lexeme
  lex: кык
- stem: кык.//кыкт.
+ stem: кык.//кыкт.//2.//2-.
  gramm: NUM
  paradigm: connect_num
  trans_ru: два
@@ -29778,13 +29799,6 @@
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: вторая часть
-
--lexeme
- lex: кыкназы
- stem: кыкназы.
- gramm: NUM
- paradigm: Noun-num-vowel
- trans_ru: [они] оба
 
 -lexeme
  lex: кыкто
@@ -30244,7 +30258,7 @@
 
 -lexeme
  lex: кылтӥрлык
- stem: кылтӥрлык.
+ stem: кылтӥрлык.//кылтирлык.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: 1. языковые средства 2. лексика, лексикон
@@ -37536,11 +37550,18 @@
  trans_ru: мочалка, тряпка
 
 -lexeme
- lex: мучоло
- stem: мучоло.
- gramm: N
+ lex: мочало
+ stem: мочало.
+ gramm: N,rus
  paradigm: Noun-num-vowel
- trans_ru: мочалка, тряпка
+ trans_ru: мочало
+
+-lexeme
+ lex: мочалка
+ stem: мочалка.
+ gramm: N,rus
+ paradigm: Noun-num-vowel
+ trans_ru: мочалка
 
 -lexeme
  lex: мушбыдтӥсь
@@ -38853,13 +38874,6 @@
  trans_ru: никотин
 
 -lexeme
- lex: ниль
- stem: нил.
- gramm: NUM
- paradigm: connect_num-soft
- trans_ru: четыре
-
--lexeme
  lex: ним
  stem: ним.
  gramm: N
@@ -39191,7 +39205,7 @@
 
 -lexeme
  lex: нунал
- stem: нунал.
+ stem: нунал.//ннал.//нал.
  gramm: N,time_meas
  paradigm: Noun-num-consonant
  paradigm: Noun-num-consonant-y
@@ -39496,14 +39510,21 @@
 
 -lexeme
  lex: ньыль
- stem: ньыл.
+ stem: ньыл.//нил.
  gramm: NUM
  paradigm: connect_num-soft
  trans_ru: четыре
 
 -lexeme
+ lex: ньыль
+ stem: 4.//4-.
+ gramm: NUM
+ paradigm: connect_num
+ trans_ru: четыре
+
+-lexeme
  lex: ньыльдон
- stem: ньыльдон.
+ stem: ньыльдон.//40.//40-.
  gramm: NUM
  paradigm: connect_num
  trans_ru: сорок
@@ -40570,7 +40591,7 @@
 
 -lexeme
  lex: одӥг
- stem: одӥг.
+ stem: одӥг.//1.//1-.
  gramm: NUM
  paradigm: connect_num
  trans_ru: один
@@ -40683,7 +40704,7 @@
 
 -lexeme
  lex: ожтӥрлык
- stem: ожтӥрлык.
+ stem: ожтӥрлык.//ожтирлык.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: военное оружие
@@ -44149,7 +44170,7 @@
 
 -lexeme
  lex: пинал
- stem: пинал.
+ stem: пинал.//пинял.
  gramm: N,hum
  paradigm: Noun-num-consonant
  paradigm: Noun-num-consonant-y
@@ -44190,14 +44211,6 @@
  gramm: N
  paradigm: Noun-num-soft
  trans_ru: посуда
-
--lexeme
- lex: пинял
- stem: пинял.
- gramm: N,hum
- paradigm: Noun-num-consonant
- paradigm: Noun-num-consonant-y
- trans_ru: ребёнок, дитя
 
 -lexeme
  lex: пион
@@ -49340,7 +49353,7 @@
 
 -lexeme
  lex: пыӵал-тӥрлык
- stem: пыӵал-тӥрлык.
+ stem: пыӵал-тӥрлык.//пыӵалтӥрлык.//пыӵал-тирлык.//пыӵалтирлык.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: собир. оружие
@@ -53038,7 +53051,7 @@
 
 -lexeme
  lex: сиес-тӥрлык
- stem: сиес-тӥрлык.
+ stem: сиес-тӥрлык.//сиес-тирлык.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: сбруя, упряжь
@@ -53073,14 +53086,14 @@
 
 -lexeme
  lex: сизьым
- stem: сизьым.
+ stem: сизьым.//7.//7-.
  gramm: NUM
  paradigm: connect_num
  trans_ru: семь
 
 -lexeme
  lex: сизьымдон
- stem: сизьымдон.
+ stem: сизьымдон.//70.//70-.
  gramm: NUM
  paradigm: connect_num
  trans_ru: семьдесят
@@ -53238,6 +53251,7 @@
  stem: синбыгыли.
  gramm: N,body
  paradigm: Noun-num-vowel
+ paradigm: Noun-num-consonant-y
  trans_ru: глазное яблоко
 
 -lexeme
@@ -53266,6 +53280,7 @@
  stem: сингыр.
  gramm: N,body
  paradigm: Noun-num-consonant
+ paradigm: Noun-num-consonant-y
  trans_ru: сухожилье, связка костей
 
 -lexeme
@@ -53295,6 +53310,7 @@
  stem: синкабак.
  gramm: N,body
  paradigm: Noun-num-consonant
+ paradigm: Noun-num-consonant-y
  trans_ru: веко, веки
 
 -lexeme
@@ -53302,6 +53318,7 @@
  stem: синкаӵ.
  gramm: N,body
  paradigm: Noun-num-consonant
+ paradigm: Noun-num-consonant-y
  trans_ru: бровь, брови
 
 -lexeme
@@ -53330,6 +53347,7 @@
  stem: синкӧльы.
  gramm: N,body
  paradigm: Noun-num-vowel
+ paradigm: Noun-num-consonant-y
  trans_ru: глазное яблоко
 
 -lexeme
@@ -53344,6 +53362,7 @@
  stem: синлыс.
  gramm: N,body
  paradigm: Noun-num-consonant
+ paradigm: Noun-num-consonant-y
  trans_ru: ресница, ресницы
 
 -lexeme
@@ -55780,7 +55799,7 @@
 
 -lexeme
  lex: сю
- stem: сю.
+ stem: сю.//100.//100-.
  gramm: NUM
  paradigm: connect_num
  trans_ru: сто
@@ -56083,7 +56102,7 @@
 
 -lexeme
  lex: сюрс
- stem: сюрс.
+ stem: сюрс.//100.//100-.
  gramm: NUM
  paradigm: Noun-num-consonant
  paradigm: connect_num
@@ -60034,14 +60053,14 @@
 
 -lexeme
  lex: тямыс
- stem: тямыс.
+ stem: тямыс.//8.//8-.
  gramm: NUM
  paradigm: connect_num
  trans_ru: восемь
 
 -lexeme
  lex: тямыстон
- stem: тямыстон.
+ stem: тямыстон.//80.//80-.
  gramm: NUM
  paradigm: connect_num
  trans_ru: восемьдесят
@@ -60118,7 +60137,7 @@
 
 -lexeme
  lex: тӥрлык
- stem: тӥрлык.
+ stem: тӥрлык.//тирлык.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: инструмент, орудие; изделие, вещь
@@ -61044,14 +61063,14 @@
 
 -lexeme
  lex: укмыс
- stem: укмыс.
+ stem: укмыс.//9.//9-.
  gramm: NUM
  paradigm: connect_num
  trans_ru: девять
 
 -lexeme
  lex: укмыстон
- stem: укмыстон.
+ stem: укмыстон.//90.//90-.
  gramm: NUM
  paradigm: connect_num
  trans_ru: девяносто
@@ -74969,7 +74988,7 @@
  trans_ru: болонья
 -lexeme
  lex: больничной
- stem: больнично.
+ stem: больнично.//больничны.
  gramm: N,rus
  paradigm: Noun-num-j
  trans_ru: больничный
@@ -80512,6 +80531,12 @@
  paradigm: Noun-num-consonant
  trans_ru: образ, икона
 -lexeme
+ lex: обростӥрлык
+ stem: обростӥрлык.//обростирлык.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: рушник
+-lexeme
  lex: обряд
  stem: обряд.
  gramm: N,rus
@@ -82217,7 +82242,7 @@
  trans_ru: крапива
 -lexeme
  lex: пуштӥрлык
- stem: пуштӥрлык.
+ stem: пуштӥрлык.//пуштирлык.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: внутренности
@@ -85085,7 +85110,7 @@
  trans_ru: Украинец
 -lexeme
  lex: уксётӥрлык
- stem: уксётӥрлык.
+ stem: уксётӥрлык.//уксётирлык.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: женское нагрудное украшение из монет
@@ -90839,6 +90864,12 @@
  paradigm: Noun-num-consonant
  trans_ru: сосед
 -lexeme
+ lex: соседка
+ stem: соседка.
+ gramm: N,rus,anim
+ paradigm: Noun-num-vowel
+ trans_ru: соседка
+-lexeme
  lex: сосиска
  stem: сосиска.
  gramm: N,rus
@@ -91572,7 +91603,7 @@
  trans_ru: порядок
 -lexeme
  lex: ужтӥрлык
- stem: ужтӥрлык.
+ stem: ужтӥрлык.//ужтирлык.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: рабочий инструмент
@@ -92232,7 +92263,7 @@
  trans_ru: электросирена
 -lexeme
  lex: электротӥрлык
- stem: электротӥрлык.
+ stem: электротӥрлык.//электротирлык.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: электроинструмент
@@ -92262,7 +92293,7 @@
  trans_ru: эмбрион
 -lexeme
  lex: эмтӥрлык
- stem: эмтӥрлык.
+ stem: эмтӥрлык.//эмтирлык.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: мединструмент
