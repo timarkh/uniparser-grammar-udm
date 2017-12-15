@@ -1324,10 +1324,15 @@
   gramm: car
   gloss: CAR
   paradigm: Noun-case-compounding
- -flex: .я<.>//.ъя<.>
+ -flex: .ъя<.>
   gramm: adv
   gloss: ADV
   paradigm: Comparative
+ -flex: .я<.>
+  gramm: adv
+  gloss: ADV
+  paradigm: Comparative
+  regex-prev: ^.*[ьйаеёиӥоӧуыэюя][<>.]*$
  -flex: .ын<.>
   gramm: loc
   gloss: LOC
@@ -2059,7 +2064,7 @@
  -flex: .э<.>
   gramm: nom,1sg
   gloss: P.1SG
- -flex: .e<.>
+ -flex: .е<.>
   gramm: nom,1sg
   gloss: P.1SG
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$

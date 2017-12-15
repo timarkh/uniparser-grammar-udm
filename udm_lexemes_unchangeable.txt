@@ -2183,13 +2183,6 @@
  trans_ru: на будущее
 
 -lexeme
- lex: котькытысен
- stem: котькытысен.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: отовсюду, откуда угодно
-
--lexeme
  lex: пӧртэм
  stem: пӧртэм.
  gramm: ADV
@@ -2206,7 +2199,7 @@
 -lexeme
  lex: интодосчи
  stem: интодосчи.
- gramm: N,hum
+ gramm: N,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: астроном, астролог
 
@@ -2743,13 +2736,6 @@
  trans_ru: кропотливо
 
 -lexeme
- lex: котькытысь
- stem: котькытысь.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: отовсюду, откуда угодно
-
--lexeme
  lex: задор
  stem: задор.
  gramm: ADV
@@ -3084,13 +3070,6 @@
  gramm: ADV
  paradigm: connect_adverbs
  trans_ru: неспокойно
-
--lexeme
- lex: котькытын
- stem: котькытын.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: всюду, повсюду, где угодно
 
 -lexeme
  lex: арняскын
@@ -4176,7 +4155,7 @@
  stem: шыпыт.
  gramm: ADV
  paradigm: connect_adverbs
- trans_ru: тихо, молчаливо
+ trans_ru: тихо, спокойно
 
 -lexeme
  lex: ӵошак
@@ -4933,13 +4912,6 @@
  gramm: ADV
  paradigm: connect_adverbs
  trans_ru: в низовьях, в низовье
-
--lexeme
- lex: котькӧня
- stem: котькӧня.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: сколько угодно
 
 -lexeme
  lex: батырлыко
@@ -6256,13 +6228,6 @@
  gramm: CNJ,rus
  paradigm: Comparative
  trans_ru: либо
-
--lexeme
- lex: кытын
- stem: кытын.
- gramm: CNJ
- paradigm: Comparative
- trans_ru: где, в каком месте
 
 -lexeme
  lex: если
@@ -10563,13 +10528,6 @@
 -lexeme
  lex: шупыт
  stem: шупыт.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: спокойно
-
--lexeme
- lex: шыпыт
- stem: шыпыт.
  gramm: ADV
  paradigm: connect_adverbs
  trans_ru: спокойно

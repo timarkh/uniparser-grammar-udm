@@ -8716,7 +8716,7 @@
 
 -lexeme
  lex: семилетней
- stem: семилетне.
+ stem: семилетне.//семилетни.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: семилетний
@@ -21814,7 +21814,7 @@
  trans_ru: лицевой
 -lexeme
  lex: лишной
- stem: лишно.
+ stem: лишно.//лишни.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: лишний
@@ -22750,7 +22750,7 @@
  trans_ru: музейный
 -lexeme
  lex: музыкальной
- stem: музыкально.
+ stem: музыкально.//музыкальны.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: музыкальный
@@ -25923,8 +25923,8 @@
  paradigm: connect_adjectives-j
  trans_ru: посессивный
 -lexeme
- lex: последной
- stem: последно.
+ lex: последний
+ stem: последни.//последно.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: последний
@@ -27832,7 +27832,7 @@
  trans_ru: светский
 -lexeme
  lex: свободной
- stem: свободно.
+ stem: свободно.//свободны.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: свободный

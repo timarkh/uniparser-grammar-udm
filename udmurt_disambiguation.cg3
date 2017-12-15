@@ -4,8 +4,8 @@ LIST NegVerbs = "уг" ("уд" V) "уз" ("ум" V) "ӧй" ("ӧд" V) "ӧз" ("�
 LIST NegVerbs1 = ("ӧм" V) "ӧй";
 LIST NegVerbs2 = ("уд" V) ("ӧд" V);
 LIST NegVerbs3 = "уз" ("ум" V) "ӧз" ("ӧм" V);
-LIST Clitics = "но" "ни" "ини" "на" "пе" "пӧй" "а" "о" "ук" "ик" "ке" "ма" "гинэ" "гынэ" "гынэк" "лэся" "вылды";
-LIST VerbalClitics = "ни" "ини" "на" "ук" "лэся" "вылды";
+LIST Clitics = "но" "ни" "ини" "инь" "на" "пе" "пӧй" "а" "о" "ук" "ик" "ке" "ма" "гинэ" "гынэ" "гынэк" "лэся" "вылды";
+LIST VerbalClitics = "ни" "ини" "инь" "на" "ук" "лэся" "вылды";
 SET NotClitics = (*) - Clitics;
 LIST Poss = 1sg 2sg 3sg 1pl 2pl 3pl;
 LIST PossNot3sg = 1sg 2sg 1pl 2pl 3pl;
@@ -13,10 +13,10 @@ SET NN = (N sg nom) - Poss;
 SET NomPoss = (N sg nom 1sg) OR (N sg nom 2sg) OR (N sg nom 3sg) OR (N sg nom 1pl) OR (N sg nom 2pl) OR (N sg nom 3pl);
 LIST DemPersPro = "<со>" "<та>";
 LIST NAdj = N A;
-LIST VPred = V PRED;
+LIST VPred = V PREDIC;
 SET VTr1 = (V tr) OR (V caus);
 SET VTr2 = VTr1 - (pass);
-SET VTr = VTr2 OR ("вераны");
+SET VTr = VTr2 OR ("вераны") OR ("шуккыны") OR ("пырыны") OR ("вазьыны") OR ("оскыны");
 LIST BOS = (>>>);
 SET BOSPunct = (punct) | BOS;
 LIST WhQuestions = "кызьы" "ку" "кӧня" "кытын" "кытысь" "кытысен" "кытӥ" "кытчы";
@@ -91,6 +91,9 @@ REMOVE (V imp) IF (0 (V prs 3 sg))
                   (0C (V intr) - (caus))
                   (*-1 (N sg nom) - NomPoss BARRIER NotClitics - (ADV))
                   (NEGATE *0 (V tr) BARRIER BOSPunct);
+REMOVE (V imp) IF (0 (V prs 3 sg))
+                  (0C ("потыны"i) OR ("кельшыны"i))
+                  (*-1C (N dat) OR (PRO dat) BARRIER BOSPunct OR VPred);
 
 
 SECTION    # Nouns
@@ -100,12 +103,18 @@ SECTION    # Nouns
 REMOVE (N ill sg) IF (0 (N anim 1sg))
                      (-1 ("<мынам>"i))
                      (NOT 0 (N ill Poss));
+# If the noun is animate and there is no possessor to the left,
+# but no verb requiring the illative either (but there are other verbs),
+# it still could hardly be in the illative.
+REMOVE (N ill sg) IF (0 (N anim 1sg))
+                     (NEGATE 0*C (V with_ill) BARRIER BOS)
+                     (0*C VPred BARRIER BOS);
 # Time measurement units and months are usually in the illative.
 REMOVE (N nom sg 1sg) IF (0 (N time_meas sg ill))
                          (NEGATE *-1 ("<мынам>"i) BARRIER BOSPunct);
 # Exclamations starting with "e" or "oj" are in nom.1sg.
 REMOVE (N sg ill) IF (0 (N nom sg 1sg))
-                     (-1 ("<э>"i) OR ("<ой>"i));
+                     (-1 ("<э>"i) OR ("<ой>"i) OR ("<эй>"i));
 # If there is a verb that requires illative and no "mənam" around,
 # this is also probably the illative.
 REMOVE (N nom sg 1sg) IF (0 (N sg ill))
@@ -116,10 +125,10 @@ REMOVE (N sg ill) IF (0 (N nom sg 1sg))
                      (*0 ("<мынам>"i) BARRIER BOSPunct)
                      (NEGATE *0 (V with_ill) BARRIER BOS);
 # Couple of cases that are almost never either of the two.
-REMOVE (N sg ill) IF (0 ("<номыре>") OR ("<нокине>") OR ("<гынэ>"))
+REMOVE (N sg ill) IF (0 ("<номыре>") OR ("<нокинэ>") OR ("<нокине>") OR ("<гынэ>"))
                      (NEGATE *0 ("<мынам>"i) BARRIER BOSPunct)
                      (NEGATE *0 (V with_ill) BARRIER BOS);
-REMOVE (N nom sg 1sg) IF (0 ("<номыре>") OR ("<нокине>") OR ("<гынэ>"))
+REMOVE (N nom sg 1sg) IF (0 ("<номыре>") OR ("<нокинэ>") OR ("<нокине>") OR ("<гынэ>"))
                          (NEGATE *0 ("<мынам>"i) BARRIER BOSPunct)
                          (NEGATE *0 (V with_ill) BARRIER BOS);
 
@@ -133,6 +142,17 @@ REMOVE (N) IF (0 ("<вуэ>"i))
 REMOVE (N) IF (0 ("<гынэ>"i))
               (-1 (NUM) OR ("<каллен>"i) OR ("<озь>"i) OR ("<ыжыт>"i));
 
+# Accusative vs. 3sg
+# Choose 3sg if there is a genitive possessor to the left.
+SELECT (N sg nom 3sg) IF (0 (N sg acc))
+                         (-1C (N gen) OR (PRO gen) OR (vn gen))
+                         (NOT 1 (V tr));
+# Remove acc in -ez if there are no transitive verbs but there is
+# an intransitive verb or predicative.
+REMOVE (N sg acc) IF (0 ("<.*[еэ]з>"r))
+                     (0 (N sg nom 3sg))
+                     (NEGATE *0 VTr BARRIER BOS)
+                     (*0 (V intr) - (V ptcp prs) OR (PREDIC));
 
 # Remove pl.nom.2sg in -tə if there is a transitive verb
 # around and no other accusative candidates.
@@ -144,17 +164,22 @@ REMOVE (PRO pl nom 2pl) IF (0 ("<соосты>i") OR ("<таосты>"i) OR ("<�
 REMOVE (PRO pl nom 2pl) IF (0 ("<вылды>i"))
                            (1 (punct));
 
+# Proper nouns vs. non-proper: look if capitalized
+REMOVE (N PN) IF (0 (N) - (PN))
+                 (0 ("<[^А-ЯЁӞӜӴӦA-Z0-9].*>"r));
+
 
 SECTION    # Adjectives
 # Most adjectives can also work as adverbs. If an adjective
 # precedes a noun, it is not an adverb. If an adverb precedes
 # a verb, it is not an adjective.
-REMOVE (ADV) IF (0 (A))
-                (*1C (N) BARRIER (*) - (A));
+REMOVE (ADV) IF (0 (ADJ))
+                (*1C (N) BARRIER (*) - (ADJ));
 REMOVE (A) IF (0 (ADV))
               (*1C (V) - ("шуыны") - ("вераны") - ("луыны") BARRIER (*) - (ADV));
-SELECT (ADV) IF (0 ("<туж>"))
-                (1C (A) OR (PRED) OR (ADV));
+REMOVE (N) IF (-1 ("<туж>"i))
+              (0 (ADV) OR (ADJ))
+              (0 (N));
 
 # adj_nmlz actually happens very infrequently
 REMOVE (adj_nmlz) IF (0 (attr_o adj_nmlz))
@@ -185,12 +210,12 @@ REMOVE (rus) IF (0 ("а"))
                 (NOT -1 BOSPunct);
 REMOVE (PART rus) IF (0 ("а"))
                      (NOT 1 BOSPunct);
-SELECT (CONJ) IF (0 ("но"))
+SELECT (CNJ) IF (0 ("но"))
                 (-1 BOSPunct);
-SELECT (CONJ) IF (0 ("но"))
+SELECT (CNJ) IF (0 ("но"))
                 (*-1 BOS BARRIER (*) - (punct));
-REMOVE (CONJ) IF (0 ("но"))
-                 (NOT -1 BOSPunct);
+REMOVE (CNJ) IF (0 ("но"))
+                (NOT -1 BOSPunct);
 
 # med V.fut
 SELECT (PART) IF (0 ("<мед>"i))
@@ -203,10 +228,9 @@ SECTION    # Other inter-POS homonymy
 
 # kare: city-ill vs. do-prs.3sg
 SELECT (V) IF (0 ("<каре>"i) OR ("<кар>"i))
-              (-1 ("марым"));
-REMOVE (N) IF (0 ("<кар>"i))
-              (NEGATE *-1 VPred BARRIER NotClitics)
-              (NEGATE *1 VPred BARRIER NotClitics);
+              (-1 ("марым"i) OR (V rus_inf) OR ("<эн>"i) OR ("<тау>"i) OR ("<бакель>"i) OR ("<котьмар>"i) OR ("<котьма>"i) OR ("<оломар>"i));
+SELECT (N) IF (0 ("<каре>"i) OR ("<кар>"i))
+              (-1 ("<кузьыли>"i) OR (N topn) OR ("<дуринчи>"i) OR ("<муш>"i) OR ("<пуны>"i));
 
 
 # ule: down-ill vs. live-prs.3sg
@@ -253,5 +277,21 @@ REMOVE (V) IF (0 ("<кия[мдз]ы?>"r))
               (*-1 ("паллян") OR ("бур") OR ("мукет") BARRIER NotClitics);
 
 # pənə: dog
-SELECT (N) IF (0 ("<пыны>"i))
+SELECT (N) IF (0 ("<пуны>"i) OR ("<пыны>"i))
               (NOT 0 (V neg));
+
+# Алла: name vs. interjection
+SELECT (INTRJ) IF (0 ("<алла>"i))
+                  (-1 ("<э>"i) OR ("<ой>"i) OR ("<эй>"i));
+SELECT (N persn) IF (0 ("<алла>"i))
+                    (NOT -1 ("<э>"i) OR ("<ой>"i) OR ("<эй>"i));
+
+# шуыны: "сказать" vs. "вять"
+SELECT (V tr) IF (0 ("шуыны"i))
+                 (0 (V 1) OR (V deb));
+
+# кызь: 20 vs. "urine"
+SELECT (NUM) IF (0 ("<кызь>"i) OR ("<кызьгес>"))
+                (1 (NUM) OR (N nom));
+
+
