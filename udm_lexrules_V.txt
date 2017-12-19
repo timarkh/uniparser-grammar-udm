@@ -3269,6 +3269,13 @@
   trans_ru2: учиться
 -lex_rule
  -search
+  stem: ваньм.
+  gramm: V,.*
+  gloss: .*CAUS-PASS(.(?!VN))*$
+ -add
+  trans_ru2: освободиться, быть свободным
+-lex_rule
+ -search
   stem: ыш.
   gramm: V,.*
   gloss: .*CAUS(.(?!VN))*$
@@ -5929,6 +5936,13 @@
   trans_ru2: 1. переходить, переправляться 2. запинаться, заплетаться 3. болтать
 -lex_rule
  -search
+  stem: выж.
+  gramm: V,.*
+  gloss: .*CAUS(.(?!VN))*$
+ -add
+  trans_ru2: переправить, перевезти, перенести
+-lex_rule
+ -search
   stem: шыпытм.
   gramm: V,.*
   gloss: .*ITER(.(?!VN))*$
@@ -7873,6 +7887,13 @@
   gloss: .*PASS(.(?!VN))*$
  -add
   trans_ru2: 1. спутаться, путаться 2. разрушиться, разрушаться 
+-lex_rule
+ -search
+  stem: куажга.
+  gramm: V,.*
+  gloss: .*CAUS(.(?!VN))*$
+ -add
+  trans_ru2: разрушить
 -lex_rule
  -search
   stem: кезьыта.

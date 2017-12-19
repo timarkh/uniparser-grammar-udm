@@ -2790,6 +2790,15 @@
 
 -lex_rule
  -search
+  lex: кезегъяны
+  gramm: V,.*
+  gloss: STEM-VN.*
+ -add
+  lex2: кезегъян
+  trans_ru2: малярия
+
+-lex_rule
+ -search
   lex: кезьытаны
   gramm: V,.*
   gloss: STEM-VN.*
@@ -2804,7 +2813,7 @@
   gloss: STEM-VN.*
  -add
   lex2: келян
-  trans_ru2: проигрывание, проигрыш
+  trans_ru2: проводы; проигрыш
 
 -lex_rule
  -search
@@ -2813,7 +2822,7 @@
   gloss: STEM-PASS-VN.*
  -add
   lex2: келяськон
-  trans_ru2: проводы, провожание
+  trans_ru2: проводы
 
 -lex_rule
  -search

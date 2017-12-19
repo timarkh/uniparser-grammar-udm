@@ -2738,7 +2738,7 @@
 -lexeme
  lex: задор
  stem: задор.
- gramm: ADV
+ gramm: ADV,rus
  paradigm: connect_adverbs
  trans_ru: бодро
 
@@ -8823,7 +8823,7 @@
 -lexeme
  lex: кругом
  stem: кругом.
- gramm: ADV
+ gramm: ADV,rus
  paradigm: connect_adverbs
  trans_ru: везде
 
@@ -9411,14 +9411,14 @@
 -lexeme
  lex: наизусть
  stem: наизусть.
- gramm: ADV
+ gramm: ADV,rus
  paradigm: connect_adverbs
  trans_ru: наизусть
 
 -lexeme
  lex: пожалуй
  stem: пожалуй.
- gramm: PART
+ gramm: PART,rus
  paradigm: Empty
  trans_ru: пожалуй
 
@@ -9445,15 +9445,15 @@
 
 -lexeme
  lex: сёровно
- stem: сёровно.
- gramm: PART
+ stem: сёровно.//всёровно.//сёравно.//всёравно.
+ gramm: PART,rus
  paradigm: Empty
  trans_ru: всё равно
 
 -lexeme
  lex: погоди
  stem: погоди.
- gramm: PART
+ gramm: PART,rus
  paradigm: Empty
  trans_ru: погоди, подожди
 
@@ -9481,7 +9481,7 @@
 -lexeme
  lex: кылпумысь
  stem: кылпумысь.
- gramm: PART
+ gramm: PARENTH
  paradigm: Empty
  trans_ru: к слову, кстати, например
 
@@ -9502,7 +9502,7 @@
 -lexeme
  lex: всё
  stem: всё.
- gramm: PART
+ gramm: PART,rus
  paradigm: Empty
  trans_ru: всё, хватит, достаточно
 
@@ -9530,7 +9530,7 @@
 -lexeme
  lex: небось
  stem: небось.
- gramm: PART
+ gramm: PART,rus
  paradigm: Empty
  trans_ru: вводн. сл. небось
 
@@ -9641,8 +9641,8 @@
 
 -lexeme
  lex: прочь
- stem: проч.
- gramm: ADV
+ stem: прочь.
+ gramm: ADV,rus
  paradigm: connect_adverbs
  trans_ru: совсем, навсегда, совершенно
 
@@ -9656,7 +9656,7 @@
 -lexeme
  lex: вдруг
  stem: вдруг.
- gramm: ADV
+ gramm: ADV,rus
  paradigm: connect_adverbs
  trans_ru: вдруг, неожиданно
 
@@ -9871,13 +9871,6 @@
  trans_ru: немного, недолго
 
 -lexeme
- lex: каль
- stem: кал.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: сейчас, теперь
-
--lexeme
  lex: мырдэм
  stem: мырдэм.
  gramm: ADV
@@ -9978,7 +9971,7 @@
 -lexeme
  lex: огсутка
  stem: огсутка.
- gramm: ADV
+ gramm: ADV,rus
  paradigm: connect_adverbs
  trans_ru: [примерно] одни сутки
 
@@ -9992,7 +9985,7 @@
 -lexeme
  lex: ещё
  stem: ещё.
- gramm: ADV
+ gramm: ADV,rus
  paradigm: connect_adverbs
  trans_ru: ещё
 
@@ -10360,7 +10353,7 @@
 -lexeme
  lex: вот-вот
  stem: вот-вот.
- gramm: ADV
+ gramm: ADV,rus
  paradigm: connect_adverbs
  trans_ru: вот-вот, скоро-скоро
 
@@ -10416,9 +10409,9 @@
 -lexeme
  lex: лучше
  stem: лучше.
- gramm: ADV
+ gramm: ADV,rus
  paradigm: connect_adverbs
- trans_ru: лучше бы, лучше
+ trans_ru: лучше
 
 -lexeme
  lex: эриксыр
@@ -10570,7 +10563,7 @@
 -lexeme
  lex: вокурат
  stem: вокурат.
- gramm: ADV
+ gramm: ADV,rus
  paradigm: connect_adverbs
  trans_ru: точь-в-точь, как раз
 
@@ -10734,6 +10727,13 @@
  lex: тод
  stem: тодэ.
  gramm: N,ill
+ paradigm: Comparative
+ trans_ru: память
+
+-lexeme
+ lex: тод
+ stem: тодын.
+ gramm: N,loc
  paradigm: Comparative
  trans_ru: память
 
