@@ -3311,18 +3311,18 @@
   trans_ru2: 1. успевать, поспевать 2. преуспевать
 -lex_rule
  -search
-  stem: пӧзьт.
+  stem: пӧзь.
   gramm: V,.*
-  gloss: .*PASS(.(?!VN))*$
+  gloss: .*CAUS(.(?!PA|VN))*$
  -add
-  trans_ru2: 1. вариться, кипятиться 2. завариться 3. тех. выплавляться
+  trans_ru2: варить; готовить; расплавить
 -lex_rule
  -search
-  stem: кисыра.
+  stem: пӧзь.
   gramm: V,.*
-  gloss: .*ITER(.(?!VN))*$
+  gloss: .*CAUS-PASS(.(?!VN))*$
  -add
-  trans_ru2: от кисыраны
+  trans_ru2: вариться, кипятиться; завариться; тех. выплавляться
 -lex_rule
  -search
   stem: порт.
@@ -12166,11 +12166,11 @@
   trans_ru2: доводить до слез
 -lex_rule
  -search
-  stem: сётск.
+  stem: сёт.
   gramm: V,.*
-  gloss: .*ITER(.(?!VN))*$
+  gloss: .*PASS(.(?!VN))*$
  -add
-  trans_ru2: поддаваться, сдаваться, покоряться, подчиняться
+  trans_ru2: поддаться, сдаться
 -lex_rule
  -search
   stem: шайм.
@@ -12479,13 +12479,6 @@
   gloss: .*ITER(.(?!VN))*$
  -add
   trans_ru2: 1. отбирать, отнимать 2. захватывать, отторгать 3. грабить
--lex_rule
- -search
-  stem: тырмыт.
-  gramm: V,.*
-  gloss: .*ITER(.(?!VN))*$
- -add
-  trans_ru2: 1.заполнять, наполнять 2. выполнять, завершать 3. наполнять
 -lex_rule
  -search
   stem: йӧнатск.
@@ -12864,13 +12857,6 @@
   gloss: .*ITER(.(?!VN))*$
  -add
   trans_ru2: 1. переправлять, перевозить 2. переносить
--lex_rule
- -search
-  stem: тырмытск.
-  gramm: V,.*
-  gloss: .*ITER(.(?!VN))*$
- -add
-  trans_ru2: 1. получать удовольствие, удовлетворяться 2. ограничиваться, обходиться
 -lex_rule
  -search
   stem: котт.
@@ -18529,13 +18515,6 @@
   trans_ru2: 1. обуздывать, взнуздывать 2. перен. укрощать, усмирять
 -lex_rule
  -search
-  stem: тырм.
-  gramm: V,.*
-  gloss: .*ITER(.(?!VN))*$
- -add
-  trans_ru2: 1. заполняться, становиться полным 2. хватать, становиться достаточным 
--lex_rule
- -search
   stem: ыльӟект.
   gramm: V,.*
   gloss: .*ITER(.(?!VN))*$
@@ -20986,11 +20965,18 @@
   trans_ru2: 1. сделать здоровым, вылечить 2. улучшить, сделать лучше
 -lex_rule
  -search
-  stem: тодматск.
+  stem: тодма.
   gramm: V,.*
-  gloss: .*CAUS(.(?!VN))*$
+  gloss: .*CAUS(.(?!PA|VN))*$
  -add
-  trans_ru2: знакомить, познакомить, ознакомить
+  trans_ru2: познакомить
+-lex_rule
+ -search
+  stem: тодма.
+  gramm: V,.*
+  gloss: .*CAUS-PASS(.(?!VN))*$
+ -add
+  trans_ru2: познакомиться
 -lex_rule
  -search
   stem: тод.
@@ -21114,9 +21100,16 @@
  -search
   stem: тырм.
   gramm: V,.*
-  gloss: .*CAUS(.(?!VN))*$
+  gloss: .*CAUS(.(?!PA|VN))*$
  -add
-  trans_ru2: 1. заполнить, наполнить 2. выполнить, завершить 3. наполнить
+  trans_ru2: заполнить; выполнить, завершить
+-lex_rule
+ -search
+  stem: тырм.
+  gramm: V,.*
+  gloss: .*CAUS-PASS(.(?!VN))*$
+ -add
+  trans_ru2: удовольствоваться, обойтись
 -lex_rule
  -search
   stem: тырттэмм.
