@@ -4018,6 +4018,13 @@
  trans_ru: написать
 
 -lexeme
+ lex: гоӵкыны
+ stem: гоӵк.
+ gramm: V,I,intr,with_instr
+ paradigm: connect_verbs-I
+ trans_ru: расписаться
+
+-lexeme
  lex: гожъяны
  stem: гожъя.
  gramm: V,II,tr,with_instr,with_ill,mult
@@ -11904,6 +11911,13 @@
 -lexeme
  lex: мадьыны
  stem: мад.
+ gramm: V,I,tr
+ paradigm: connect_verbs-I-soft
+ trans_ru: 1. рассказать 2. загадать загадку 3. спеть 
+
+-lexeme
+ lex: мачкыны
+ stem: мачк.
  gramm: V,I,tr
  paradigm: connect_verbs-I-soft
  trans_ru: 1. рассказать 2. загадать загадку 3. спеть 

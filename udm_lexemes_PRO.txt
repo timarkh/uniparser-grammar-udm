@@ -859,49 +859,49 @@
 -lexeme
  lex: отчыозь
  stem: отчыозь.//отчиёзь.
- gramm: ADVPRO,egr
+ gramm: ADVPRO,term
  paradigm: Comparative
  trans_ru: дотуда
 
 -lexeme
  lex: сотчыозь
  stem: сотчыозь.//сотчиёзь.
- gramm: ADVPRO,egr
+ gramm: ADVPRO,term
  paradigm: Comparative
  trans_ru: дотуда
 
 -lexeme
  lex: татчыозь
  stem: татчыозь.//татчиёзь.
- gramm: ADVPRO,egr
+ gramm: ADVPRO,term
  paradigm: Comparative
  trans_ru: досюда
 
 -lexeme
  lex: кытчыозь
  stem: кытчыозь.//кытчиёзь.
- gramm: ADVPRO,egr
+ gramm: ADVPRO,term
  paradigm: Comparative
  trans_ru: докуда
 
 -lexeme
  lex: олокытчыозь
  stem: олокытчыозь.//олокытчиёзь.
- gramm: ADVPRO,egr
+ gramm: ADVPRO,term
  paradigm: Comparative
  trans_ru: докуда-то, не знаю докуда
 
 -lexeme
  lex: котькытчыозь
  stem: котькытчыозь.
- gramm: ADVPRO,egr
+ gramm: ADVPRO,term
  paradigm: Comparative
  trans_ru: докуда угодно
 
 -lexeme
  lex: нокытчыозь
  stem: нокытчыозь.
- gramm: ADVPRO,egr
+ gramm: ADVPRO,term
  paradigm: Comparative
  trans_ru: нидокуда
 
