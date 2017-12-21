@@ -9006,7 +9006,7 @@
   gramm: V,.*
   gloss: .*PASS(.(?!VN))*$
  -add
-  trans_ru2: возвыситься
+  trans_ru2: подняться, встать; возвыситься
 -lex_rule
  -search
   stem: умоя.
@@ -12551,9 +12551,9 @@
   trans_ru2: попросить ставить кол
 -lex_rule
  -search
-  stem: шумпотт.
+  stem: шумпот.
   gramm: V,.*
-  gloss: .*ITER(.(?!VN))*$
+  gloss: .*CAUS(.(?!VN))*$
  -add
   trans_ru2: радовать
 -lex_rule
@@ -15862,11 +15862,11 @@
   trans_ru2: 1. чувствоваться 2. предчувствовать 3. догадываться
 -lex_rule
  -search
-  stem: ӵошкат.
+  stem: ӵошка.
   gramm: V,.*
-  gloss: .*PASS(.(?!VN))*$
+  gloss: .*CAUS(.(?!VN))*$
  -add
-  trans_ru2: выровняться, подравняться
+  trans_ru2: выровнять, подравнять
 -lex_rule
  -search
   stem: вачея.
@@ -17274,13 +17274,6 @@
   gloss: .*ITER(.(?!VN))*$
  -add
   trans_ru2: 1.облепляться репьями 2. появляться - о соцветии репейника
--lex_rule
- -search
-  stem: шумпот.
-  gramm: V,.*
-  gloss: .*ITER(.(?!VN))*$
- -add
-  trans_ru2: радоваться
 -lex_rule
  -search
   stem: венча.
@@ -21529,7 +21522,7 @@
   gramm: V,.*
   gloss: .*CAUS(.(?!VN))*$
  -add
-  trans_ru2: 1. осветить, светить 2. перен. просветить, просвещать
+  trans_ru2: осветить; просвещать
 -lex_rule
  -search
   stem: юзгом.
