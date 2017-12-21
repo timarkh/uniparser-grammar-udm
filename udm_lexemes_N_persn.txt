@@ -24177,14 +24177,14 @@
  trans_ru: Изольда
 -lexeme
  lex: Илия
- stem: или.
+ stem: илия.
  gramm: N,PN,persn
- paradigm: Noun-num-ija
+ paradigm: Noun-num-vowel
  trans_ru: Илия
 -lexeme
  lex: Ильвес
  stem: ильвес.
- gramm: N,PN,persn
+ gramm: N,PN,famn
  paradigm: Noun-num-consonant
  trans_ru: Ильвес
 -lexeme

@@ -817,6 +817,13 @@
  trans_ru: и
 
 -lexeme
+ lex: или
+ stem: или.
+ gramm: CNJ,rus
+ paradigm: Empty
+ trans_ru: и
+
+-lexeme
  lex: ӵап
  stem: ӵап.
  gramm: ADV
