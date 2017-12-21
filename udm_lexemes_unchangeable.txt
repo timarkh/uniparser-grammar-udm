@@ -8249,20 +8249,14 @@
  paradigm: Empty
  trans_ru: пожалуйста
 -lexeme
- lex: табыдча
- stem: табыдча.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: такого размера, столько
--lexeme
  lex: табыдӟа
- stem: табыдӟа.
+ stem: табыдӟа.//табыдча.//табыдца.
  gramm: ADV
  paradigm: connect_adverbs
  trans_ru: такого размера, столько
 -lexeme
  lex: собыдӟа
- stem: собыдӟа.
+ stem: собыдӟа.//собыдча.//собыдца.
  gramm: ADV
  paradigm: connect_adverbs
  trans_ru: такого размера, столько
@@ -10818,7 +10812,7 @@
 -lexeme
  lex: аминь
  stem: амин.
- gramm: INTERJ,rus
+ gramm: INTRJ,rus
  paradigm: Comparative
  trans_ru: аминь
 
@@ -10898,17 +10892,24 @@
 
 -lexeme
  lex: валлян
- stem: валлян.
+ stem: валлян.//уаллян.
  gramm: ADV
  paradigm: connect_adverbs
  trans_ru: позавчера
 
 -lexeme
  lex: валлё
- stem: валлё.
+ stem: валлё.//уаллё.
  gramm: ADV
  paradigm: connect_adverbs
- trans_ru: валлён сч., нч. раньше, прежде, старину
+ trans_ru: раньше, прежде
+
+-lexeme
+ lex: валлён
+ stem: валлён.//уаллён.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: раньше, прежде
 
 -lexeme
  lex: вукылмылон
@@ -11363,14 +11364,14 @@
 -lexeme
  lex: тау
  stem: тау.
- gramm: INTERJ
+ gramm: PART
  paradigm: Comparative
  trans_ru: спасибо, благодарю
 
 -lexeme
  lex: тауэлэ
  stem: тауэлэ.
- gramm: INTERJ
+ gramm: PART
  paradigm: Comparative
  trans_ru: спасибо всем
 

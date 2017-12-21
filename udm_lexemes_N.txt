@@ -3822,6 +3822,13 @@
  trans_ru: верба, ива, ветла, ракита
 
 -lexeme
+ lex: верба
+ stem: верба.
+ gramm: N,rus
+ paradigm: Noun-num-vowel
+ trans_ru: верба
+
+-lexeme
  lex: бадьян
  stem: бадьян.
  gramm: N
@@ -79291,6 +79298,12 @@
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: лорд
+-lexeme
+ lex: лоскуток
+ stem: лоскуток.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: лоскуток
 -lexeme
  lex: лудкеч
  stem: лудкеч.

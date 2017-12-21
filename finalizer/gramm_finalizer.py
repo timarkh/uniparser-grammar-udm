@@ -12,10 +12,10 @@ def collect_lemmata():
             f.close()
         elif fname.endswith('.txt') and fname.startswith('udm_lexrules_'):
             f = open(os.path.join('..', fname), 'r', encoding='utf-8-sig')
-            lemmata += f.read() + '\n'
+            lexrules += f.read() + '\n'
             f.close()
     lemmataSet = set(re.findall('-lexeme\n(?: [^\r\n]*\n)+', lemmata, flags=re.DOTALL))
-    lemmata = '\n\n'.join(sorted(list(lemmataSet)))
+    lemmata = '\n'.join(sorted(list(lemmataSet)))
     return lemmata, lexrules
 
 

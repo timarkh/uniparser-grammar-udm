@@ -6105,14 +6105,14 @@
 
 -lexeme
  lex: огбыдӟа
- stem: огбыдӟа.
+ stem: огбыдӟа.//огбыдча.//огбыдца.
  gramm: ADJ
  paradigm: connect_adjectives
  trans_ru: одинаковый по величине
 
 -lexeme
  lex: быдӟа
- stem: быдӟа.//быдӟ.
+ stem: быдӟа.//быдца.//быдча.//быдӟ.
  gramm: ADJ,rel_adj
  paradigm: connect_adjectives
  trans_ru: величиной равный чему-то
@@ -20176,13 +20176,13 @@
  trans_ru: кадровый
 -lexeme
  lex: каждой
- stem: каждо.
+ stem: каждо.//кажды.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: каждый
 -lexeme
  lex: кажной
- stem: кажно.
+ stem: кажно.//кажны.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: каждый
@@ -20722,7 +20722,7 @@
  trans_ru: колтоминский
 -lexeme
  lex: колхозной
- stem: колхозно.
+ stem: колхозно.//колхозны.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: колхозный
@@ -21166,7 +21166,7 @@
  trans_ru: крабовый
 -lexeme
  lex: краеведческой
- stem: краведческо.
+ stem: краведческо.//краведчески.
  gramm: ADJ,rus,missp
  paradigm: connect_adjectives-j
  trans_ru: краеведческий
@@ -23104,7 +23104,7 @@
  trans_ru: национальный
 -lexeme
  lex: начальной
- stem: начально.
+ stem: начально.//начальны.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: начальный

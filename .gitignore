@@ -1,4 +1,7 @@
 noun_rus.py
+noun_cleaner.py
 udm_lexemes_N_old.txt
 verb_cleaner.py
 udm_lexemes_V_old.txt
+finalizer/lex_rules.txt
+finalizer/lexemes.txt

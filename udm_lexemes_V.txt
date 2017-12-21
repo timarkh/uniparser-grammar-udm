@@ -11919,8 +11919,8 @@
  lex: мачкыны
  stem: мачк.
  gramm: V,I,tr
- paradigm: connect_verbs-I-soft
- trans_ru: 1. рассказать 2. загадать загадку 3. спеть 
+ paradigm: connect_verbs-I
+ trans_ru: рассказывать; петь 
 
 -lexeme
  lex: мажсаны
@@ -18168,10 +18168,10 @@
 
 -lexeme
  lex: сётъяны
- stem: сётъя.
+ stem: сётъя.//сёття.//сётча.
  gramm: V,II,mult,tr
  paradigm: connect_verbs-II
- trans_ru: 1. давать, отдавать 2. подавать 3. перен. бить, избивать
+ trans_ru: давать, раздавать; перен. бить
 
 -lexeme
  lex: сётыны
@@ -27120,6 +27120,12 @@
  paradigm: Comparative
  trans_ru: выколоть
 -lexeme
+ lex: выкупать
+ stem: выкупать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: выкупать
+-lexeme
  lex: выписать
  stem: выписать.
  gramm: V,rus,rus_inf,rus_pfv
@@ -28632,6 +28638,12 @@
  paradigm: Comparative
  trans_ru: монтировать
 -lexeme
+ lex: мотать
+ stem: мотать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: мотать
+-lexeme
  lex: мотивировать
  stem: мотивировать.
  gramm: V,rus,rus_inf,rus_ipfv
@@ -28725,6 +28737,12 @@
  lex: наказывать
  stem: наказывать.
  gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: наказывать
+-lexeme
+ lex: накрыть
+ stem: накрыть.
+ gramm: V,rus,rus_inf,rus_pfv
  paradigm: Comparative
  trans_ru: наказывать
 -lexeme
@@ -30599,6 +30617,12 @@
  gramm: V,rus,rus_inf,rus_pfv
  paradigm: Comparative
  trans_ru: распечатать
+-lexeme
+ lex: расписаться
+ stem: расписаться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: расписаться
 -lexeme
  lex: располагать
  stem: располагать.

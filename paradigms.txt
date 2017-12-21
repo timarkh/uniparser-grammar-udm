@@ -29,7 +29,7 @@
  -flex: <0>.<.>
   gramm:
   paradigm: Infinitive-I-dial-short
-  regex-stem: ^(пот|пыр|лыкт|учк|ну|кошк|ортч|лу|адӟ|мын|берт|гожт|тыр|экт|ветл|бӧрд|шу|кынм)[.<>]*$
+  regex-stem: ^(пот|пыр|лыкт|учк|усьт|ну|кошк|ортч|лу|адӟ|мын|берт|гожт|тыр|экт|ветл|бӧрд|шу|кынм)[.<>]*$
 
 -paradigm: connect_verbs-I-soft
  -flex: .<.>
@@ -5039,10 +5039,10 @@
   gramm: pass
   gloss: PASS
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
- -flex: <0>.ыл<.>
+ -flex: <0>.ыл<.>//<0>.ылл<.>
   gramm: iter
   gloss: ITER
- -flex: <0>.ыл|ыл<.>
+ -flex: <0>.ыл|ыл<.>//<0>.ылл|ыл<.>//<0>.ылл|ылл<.>//<0>.ыл|ылл<.>
   gramm: iter
   gloss: ITER|ITER
  -flex: <0>.эм|ъя|ськ<.>
@@ -5059,27 +5059,27 @@
   gramm: caus
   gloss: CAUS
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
- -flex: <0>.ск|ыл<.>//<0>.ӥськ|ыл<.>//<0>.ыськ|ыл<.>
+ -flex: <0>.ск|ыл<.>//<0>.ӥськ|ыл<.>//<0>.ыськ|ыл<.>//<0>.ск|ылл<.>//<0>.ӥськ|ылл<.>//<0>.ыськ|ылл<.>
   gramm: pass,iter
   gloss: PASS|ITER
- -flex: <0>.ск|ыл|ыл<.>//<0>.ӥськ|ыл|ыл<.>//<0>.ыськ|ыл|ыл<.>
+ -flex: <0>.ск|ыл|ыл<.>//<0>.ӥськ|ыл|ыл<.>//<0>.ыськ|ыл|ыл<.>//<0>.ск|ыл|ылл<.>//<0>.ӥськ|ыл|ылл<.>//<0>.ыськ|ыл|ылл<.>
   gramm: pass,iter
   gloss: PASS|ITER|ITER
- -flex: <0>.иськ|ыл<.>
+ -flex: <0>.иськ|ыл<.>//<0>.иськ|ылл<.>
   gramm: pass,iter
   gloss: PASS|ITER
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
- -flex: <0>.иськ|ыл|ыл<.>
+ -flex: <0>.иськ|ыл|ыл<.>//<0>.иськ|ыл|ылл<.>
   gramm: pass,iter
   gloss: PASS|ITER|ITER
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
- -flex: <0>.ыл|ӥськ<.>
+ -flex: <0>.ыл|ӥськ<.>//<0>.ылл|ӥськ<.>
   gramm: iter,pass
   gloss: ITER|PASS
- -flex: <0>.ыл|ыл|ӥськ<.>
+ -flex: <0>.ыл|ыл|ӥськ<.>//<0>.ылл|ыл|ӥськ<.>
   gramm: iter,pass
   gloss: ITER|ITER|PASS
- -flex: <0>.ыл|эм|ъя|ськ<.>
+ -flex: <0>.ыл|эм|ъя|ськ<.>//<0>.ылл|эм|ъя|ськ<.>
   gramm: iter,fict
   gloss: ITER|PTCP.PST|MULT|PASS
  -flex: <0>.ыт|эм|ъя|ськ<.>//<0>.т|эм|ъя|ськ<.>
@@ -5106,27 +5106,27 @@
   gramm: caus,pass
   gloss: CAUS|PASS
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
- -flex: <0>.ыл|ыт<.>//<0>.ыл|т<.>
+ -flex: <0>.ыл|ыт<.>//<0>.ыл|т<.>//<0>.ылл|ыт<.>//<0>.ылл|т<.>
   gramm: iter,caus
   gloss: ITER|CAUS
- -flex: <0>.ыт|ыл<.>//<0>.эт|ыл<.>//<0>.т|ыл<.>
+ -flex: <0>.ыт|ыл<.>//<0>.эт|ыл<.>//<0>.т|ыл<.>//<0>.ыт|ылл<.>//<0>.эт|ылл<.>//<0>.т|ылл<.>
   gramm: caus,iter
   gloss: CAUS|ITER
- -flex: <0>.ыт|ыл|ыл<.>//<0>.эт|ыл|ыл<.>//<0>.т|ыл|ыл<.>
+ -flex: <0>.ыт|ыл|ыл<.>//<0>.эт|ыл|ыл<.>//<0>.т|ыл|ыл<.>//<0>.ыт|ыл|ылл<.>//<0>.эт|ыл|ылл<.>//<0>.т|ыл|ылл<.>
   gramm: caus,iter
   gloss: CAUS|ITER|ITER
- -flex: <0>.ыт|ыл|ӥськ<.>//<0>.эт|ыл|ӥськ<.>//<0>.т|ыл|ӥськ<.>
+ -flex: <0>.ыт|ыл|ӥськ<.>//<0>.эт|ыл|ӥськ<.>//<0>.т|ыл|ӥськ<.>//<0>.ыт|ылл|ӥськ<.>//<0>.эт|ылл|ӥськ<.>//<0>.т|ылл|ӥськ<.>
   gramm: caus,iter,pass
   gloss: CAUS|ITER|PASS
- -flex: .ет|ыл<.>
+ -flex: .ет|ыл<.>//.ет|ылл<.>
   gramm: caus,iter
   gloss: CAUS|ITER
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
- -flex: .ет|ыл|ыл<.>
+ -flex: .ет|ыл|ыл<.>//.ет|ыл|ылл<.>
   gramm: caus,iter
   gloss: CAUS|ITER|ITER
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
- -flex: .ет|ыл|ӥськ<.>
+ -flex: .ет|ыл|ӥськ<.>//.ет|ылл|ӥськ<.>
   gramm: caus,iter,pass
   gloss: CAUS|ITER|PASS
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
@@ -5153,6 +5153,13 @@
   gramm: caus,mult
   gloss: CAUS|MULT
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+ -flex: <0>.ыт|ъя|лля<.>//<0>.эт|ъя|лля<.>//<0>.т|ъя|лля<.>
+  gramm: caus,mult,iter
+  gloss: CAUS|MULT|ITER
+ -flex: .ет|ъя|лля<.>
+  gramm: caus,mult,iter
+  gloss: CAUS|MULT|ITER
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
  -flex: <0>.ск|ыт|ъя<.>//<0>.ӥськ|ыт|ъя<.>//<0>.ыськ|ыт|ъя<.>
   gramm: pass,caus,mult
   gloss: PASS|CAUS|MULT
@@ -5178,7 +5185,7 @@
  -flex: .[ь]ськ<.>//.[ь]ск<.>//.иськ<.>
   gramm: pass
   gloss: PASS
- -flex: .[ь]ыл<.>
+ -flex: .[ь]ыл<.>//.[ь]ылл<.>
   gramm: iter
   gloss: ITER
  -flex: .ем|ъя|ськ<.>
@@ -5187,19 +5194,19 @@
  -flex: .[ь]ыт<.>//.ет<.>//.[ь]т<.>
   gramm: caus
   gloss: CAUS
- -flex: .[ь]ск|ыл<.>//.иськ|ыл<.>
+ -flex: .[ь]ск|ыл<.>//.иськ|ыл<.>//.[ь]ск|ылл<.>//.иськ|ылл<.>
   gramm: pass,iter
   gloss: PASS|ITER
- -flex: .[ь]ск|ыл|ыл<.>//.иськ|ыл|ыл<.>
+ -flex: .[ь]ск|ыл|ыл<.>//.иськ|ыл|ыл<.>//.[ь]ск|ыл|ылл<.>//.иськ|ыл|ылл<.>
   gramm: pass,iter
   gloss: PASS|ITER|ITER
- -flex: .[ь]ыл|ӥськ<.>
+ -flex: .[ь]ыл|ӥськ<.>//.[ь]ылл|ӥськ<.>
   gramm: iter,pass
   gloss: ITER|PASS
- -flex: .[ь]ыл|ыл|ӥськ<.>
+ -flex: .[ь]ыл|ыл|ӥськ<.>//.[ь]ыл|ылл|ӥськ<.>
   gramm: iter,pass
   gloss: ITER|ITER|PASS
- -flex: .[ь]ыл|эм|ъя|ськ<.>
+ -flex: .[ь]ыл|эм|ъя|ськ<.>//.[ь]ылл|эм|ъя|ськ<.>
   gramm: iter,fict
   gloss: ITER|PTCP.PST|MULT|PASS
  -flex: .[ь]ыт|эм|ъя|ськ<.>//.[ь]т|эм|ъя|ськ<.>
@@ -5214,13 +5221,13 @@
  -flex: .[ь]ыт|ск<.>//.[ь]т|ск<.>//.ет|ск<.>//.[ь]ыт|ӥськ<.>//.[ь]т|ӥськ<.>//.ет|ӥськ<.>
   gramm: caus,pass
   gloss: CAUS|PASS
- -flex: .[ь]ыл|ыт<.>//.[ь]ыл|т<.>
+ -flex: .[ь]ыл|ыт<.>//.[ь]ыл|т<.>//.[ь]ылл|ыт<.>//.[ь]ылл|т<.>
   gramm: iter,caus
   gloss: ITER|CAUS
- -flex: .[ь]ыт|ыл<.>//.[ь]т|ыл<.>
+ -flex: .[ь]ыт|ыл<.>//.[ь]т|ыл<.>//.[ь]ыт|ылл<.>//.[ь]т|ылл<.>
   gramm: caus,iter
   gloss: CAUS|ITER
- -flex: .[ь]ыт|ыл|ӥськ<.>//.[ь]т|ыл|ӥськ<.>
+ -flex: .[ь]ыт|ыл|ӥськ<.>//.[ь]т|ыл|ӥськ<.>//.[ь]ыт|ылл|ӥськ<.>//.[ь]т|ылл|ӥськ<.>
   gramm: caus,iter,pass
   gloss: CAUS|ITER|PASS
  paradigm: Infinitive-I
@@ -5242,6 +5249,9 @@
  -flex: .[ь]ыт|ъя<.>//.ет|ъя<.>//.[ь]т|ъя<.>
   gramm: caus,mult
   gloss: CAUS|MULT
+ -flex: .[ь]ыт|ъя|лля<.>//.ет|ъя|лля<.>//.[ь]т|ъя|лля<.>
+  gramm: caus,mult,iter
+  gloss: CAUS|MULT|ITER
  -flex: .[ь]ск|ыт|ъя<.>//.иськ|ыт|ъя<.>//.[ь]ыськ|ыт|ъя<.>
   gramm: pass,caus,mult
   gloss: PASS|CAUS|MULT
@@ -5358,7 +5368,23 @@
   paradigm: Participles-neg-II
   paradigm: Verb-imp-II
   paradigm: Verbal-noun-II
- -flex: .ськ|ыл<.>//.ск|ыл<.>
+ -flex: .т|ъя|лля<.>
+  gramm: caus,mult,iter
+  gloss: CAUS|MULT|ITER
+  paradigm: Infinitive-II
+  paradigm: Verb-pres-II-positive
+  paradigm: Verb-past-II-positive
+  paradigm: Verb-future-II-positive
+  paradigm: Verb-pres-II-negative
+  paradigm: Verb-II-negative
+  paradigm: Verb-subj-II
+  paradigm: Converbs-II
+  paradigm: Evidentiality-II
+  paradigm: Participles-II
+  paradigm: Participles-neg-II
+  paradigm: Verb-imp-II
+  paradigm: Verbal-noun-II
+ -flex: .ськ|ыл<.>//.ск|ыл<.>//.ськ|ылл<.>//.ск|ылл<.>
   gramm: pass,iter
   gloss: PASS|ITER
   paradigm: Infinitive-I
@@ -5375,7 +5401,7 @@
   paradigm: Participles-neg-I
   paradigm: Verb-imp-I
   paradigm: Verbal-noun-I
- -flex: .ськ|ыл|ыл<.>//.ск|ыл|ыл<.>
+ -flex: .ськ|ыл|ыл<.>//.ск|ыл|ыл<.>//.ськ|ыл|ылл<.>//.ск|ыл|ылл<.>
   gramm: pass,iter
   gloss: PASS|ITER|ITER
   paradigm: Infinitive-I
@@ -5528,7 +5554,7 @@
   paradigm: Participles-neg-I
   paradigm: Verb-imp-I
   paradigm: Verbal-noun-I
- -flex: .т|ыл<.>
+ -flex: .т|ыл<.>//.т|ылл<.>
   gramm: caus,iter
   gloss: CAUS|ITER
   paradigm: Infinitive-I
@@ -5545,7 +5571,7 @@
   paradigm: Participles-neg-I
   paradigm: Verb-imp-I
   paradigm: Verbal-noun-I
- -flex: .т|ыл|ыл<.>
+ -flex: .т|ыл|ыл<.>//.т|ыл|ылл<.>
   gramm: caus,iter
   gloss: CAUS|ITER|ITER
   paradigm: Infinitive-I
@@ -5562,7 +5588,7 @@
   paradigm: Participles-neg-I
   paradigm: Verb-imp-I
   paradigm: Verbal-noun-I
- -flex: .т|ыл|ӥськ<.>
+ -flex: .т|ыл|ӥськ<.>//.т|ылл|ӥськ<.>
   gramm: caus,iter,pass
   gloss: CAUS|ITER|PASS
   paradigm: Infinitive-I
@@ -5756,7 +5782,7 @@
  -flex: .ын<.>
   gramm: inf
   gloss: INF
-  regex-prev: ^.*(ськ|ыл|тск|пот|пыр|лыкт|учк|ну|кошк|ортч|лу|адӟ|мын|берт|гожт|тыр|экт|ветл|бӧрд|шу|кынм)[<>.]*$
+  regex-prev: ^.*(ськ|ыл|тск|пот|пыр|лыкт|учк|усьт|ну|кошк|ортч|лу|адӟ|мын|берт|гожт|тыр|экт|ветл|бӧрд|шу|кынм)[<>.]*$
  paradigm: Comparative
 
 -paradigm: Infinitive-I-soft-dial-short
