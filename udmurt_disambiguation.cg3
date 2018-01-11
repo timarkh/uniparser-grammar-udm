@@ -115,6 +115,16 @@ REMOVE (N nom sg 1sg) IF (0 (N time_meas sg ill))
 # Exclamations starting with "e" or "oj" are in nom.1sg.
 REMOVE (N sg ill) IF (0 (N nom sg 1sg))
                      (-1 ("<э>"i) OR ("<ой>"i) OR ("<эй>"i));
+# Some constructions require a participle with possessives.
+REMOVE (sg ill) IF (0 (V ptcp pst sg 1sg))
+                   (*1 ("<потэ>"i) OR ("<потӥз>"i) OR ("<вань>"i) OR ("<ӧвӧл>"i) BARRIER NotClitics);
+REMOVE (sg ill) IF (0 (V ptcp pst sg 1sg))
+                   (*-1 ("<потэ>"i) OR ("<потӥз>"i) OR ("<вань>"i) OR ("<ӧвӧл>"i) BARRIER NotClitics - (PRO sg gen) - ("<->"));
+REMOVE (evid 2 sg) IF (0 (V ptcp pst sg 2sg))
+                      (*1 ("<потэ>"i) OR ("<потӥз>"i) OR ("<вань>"i) OR ("<ӧвӧл>"i) BARRIER NotClitics);
+REMOVE (evid 2 sg) IF (0 (V ptcp pst sg 2sg))
+                      (*-1 ("<потэ>"i) OR ("<потӥз>"i) OR ("<вань>"i) OR ("<ӧвӧл>"i) BARRIER NotClitics - (PRO sg gen) - ("<->"));
+
 # If there is a verb that requires illative and no "mənam" around,
 # this is also probably the illative.
 REMOVE (N nom sg 1sg) IF (0 (N sg ill))
@@ -267,6 +277,12 @@ SELECT (N) IF (0 ("<бер>"i))
 SELECT (V) IF (0 ("<вите>"i))
               (1 VerbalClitics);
 
+# vitʼ: five vs. wait.imp.2sg
+SELECT (NUM) IF (0 ("<вить>"i))
+                (-1 (NUM));
+SELECT (NUM) IF (0 ("<вить>"i))
+                (1 (time_meas) OR ("километр") OR ("килограмм") OR ("грамм") OR ("метр") OR ("сантиметр"));
+
 # vera: N vs. V
 REMOVE (N) IF (0 ("вера"i))
               (0 (V))
@@ -275,6 +291,8 @@ REMOVE (N) IF (0 ("вера"i))
 # kijaz[ə]: "in the hand" vs. "broke"
 REMOVE (V) IF (0 ("<кия[мдз]ы?>"r))
               (*-1 ("паллян") OR ("бур") OR ("мукет") BARRIER NotClitics);
+REMOVE ("кий") IF (0 ("<ки(е|ын|я[мдз]ы?)>"r))
+                  (*-1 ("паллян") OR ("бур") OR ("мукет") BARRIER NotClitics);
 
 # pənə: dog
 SELECT (N) IF (0 ("<пуны>"i) OR ("<пыны>"i))
