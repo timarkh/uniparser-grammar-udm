@@ -1,6 +1,14 @@
 import re
 import os
 
+rxDiacritics = re.compile('[ӥӧӵӟӝё]')
+rxDiaPartsStem = re.compile('( stem:)( *[^\r\n]+)')
+rxDiaPartsFlex = re.compile('(-flex:)( *[^\r\n]+)')
+rxStemVariants = re.compile('[^ |/]+')
+rxFlexVariants = re.compile('[^ /]+')
+dictDiacritics = {'ӥ': 'и', 'ӧ': 'о', 'ӝ': 'ж',
+                  'ӟ': 'з', 'ӵ': 'ч', 'ё': 'е'}
+
 
 def collect_lemmata():
     lemmata = ''
@@ -19,18 +27,63 @@ def collect_lemmata():
     return lemmata, lexrules
 
 
+def add_diacriticless(morph):
+    """
+    Add a diacriticless variant to a stem or an inflection
+    """
+    morph = morph.group(0)
+    if rxDiacritics.search(morph) is None:
+        return morph
+    return morph + '//' + rxDiacritics.sub(lambda m: dictDiacritics[m.group(0)], morph)
+
+
+def process_diacritics_stem(line):
+    """
+    Remove diacritics from one line that contains stems.
+    """
+    morphCorrected = rxStemVariants.sub(add_diacriticless, line.group(2))
+    return line.group(1) + morphCorrected
+
+
+def process_diacritics_flex(line):
+    """
+    Remove diacritics from one line that contains inflextions.
+    """
+    morphCorrected = rxFlexVariants.sub(add_diacriticless, line.group(2))
+    return line.group(1) + morphCorrected
+
+
+def russify(text):
+    """
+    Add diacriticless variants for stems and inflections.
+    """
+    text = rxDiaPartsStem.sub(process_diacritics_stem, text)
+    text = rxDiaPartsFlex.sub(process_diacritics_flex, text)
+    return text
+
+
 def main():
     """
     Put all the lemmata to lexemes.txt. Put all the lexical
-    rules to lexical_rules.txt.
+    rules to lexical_rules.txt. Create separate versions of
+    relevant files for diacriticless texts.
     """
     lemmata, lexrules = collect_lemmata()
     fOutLemmata = open('lexemes.txt', 'w', encoding='utf-8')
     fOutLemmata.write(lemmata)
     fOutLemmata.close()
-    fOutLemmata = open('lex_rules.txt', 'w', encoding='utf-8')
-    fOutLemmata.write(lexrules)
-    fOutLemmata.close()
+    fOutLemmataRus = open('lexemes_rus.txt', 'w', encoding='utf-8')
+    fOutLemmataRus.write(russify(lemmata))
+    fOutLemmataRus.close()
+    fInParadigms = open('../paradigms.txt', 'r', encoding='utf-8-sig')
+    paradigms = fInParadigms.read()
+    fInParadigms.close()
+    fOutParadigmsRus = open('paradigms_rus.txt', 'w', encoding='utf-8')
+    fOutParadigmsRus.write(russify(paradigms))
+    fOutParadigmsRus.close()
+    fOutLexrules = open('lex_rules.txt', 'w', encoding='utf-8')
+    fOutLexrules.write(lexrules)
+    fOutLexrules.close()
 
 
 if __name__ == '__main__':
