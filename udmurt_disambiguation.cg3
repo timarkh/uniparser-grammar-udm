@@ -120,6 +120,11 @@ REMOVE (sg ill) IF (0 (V ptcp pst sg 1sg))
                    (*1 ("<потэ>"i) OR ("<потӥз>"i) OR ("<вань>"i) OR ("<ӧвӧл>"i) BARRIER NotClitics);
 REMOVE (sg ill) IF (0 (V ptcp pst sg 1sg))
                    (*-1 ("<потэ>"i) OR ("<потӥз>"i) OR ("<вань>"i) OR ("<ӧвӧл>"i) BARRIER NotClitics - (PRO sg gen) - ("<->"));
+# Dialectal hortative in -оме
+REMOVE (V hort) IF (0 (V ptcp pst sg 1sg))
+                   (*1 ("<потэ>"i) OR ("<потӥз>"i) OR ("<вань>"i) OR ("<ӧвӧл>"i) BARRIER NotClitics);
+REMOVE (V hort) IF (0 (V ptcp pst sg 1sg))
+                   (*-1 ("<потэ>"i) OR ("<потӥз>"i) OR ("<вань>"i) OR ("<ӧвӧл>"i) BARRIER NotClitics - (PRO sg gen) - ("<->"));
 REMOVE (evid 2 sg) IF (0 (V ptcp pst sg 2sg))
                       (*1 ("<потэ>"i) OR ("<потӥз>"i) OR ("<вань>"i) OR ("<ӧвӧл>"i) BARRIER NotClitics);
 REMOVE (evid 2 sg) IF (0 (V ptcp pst sg 2sg))
