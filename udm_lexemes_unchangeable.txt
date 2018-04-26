@@ -12169,3 +12169,15 @@
  paradigm: Comparative
  trans_ru: круто
 
+-lexeme
+ lex: досвидания
+ stem: досвидани.
+ gramm: PART,rus
+ paradigm: Empty
+ trans_ru: до свидания
+-lexeme
+ lex: звонко
+ stem: звонко.
+ gramm: ADV,rus
+ paradigm: connect_adverbs
+ trans_ru: звонко
