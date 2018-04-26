@@ -5449,6 +5449,20 @@
  trans_ru: татарин
 
 -lexeme
+ lex: бидер
+ stem: бидер.
+ gramm: N,anim,hum
+ paradigm: Noun-num-consonant
+ trans_ru: татарин
+
+-lexeme
+ lex: тюрк
+ stem: тюрк.
+ gramm: N,anim,hum
+ paradigm: Noun-num-consonant
+ trans_ru: тюрк
+
+-lexeme
  lex: бигермайтал
  stem: бигермайтал.
  gramm: N
@@ -46353,6 +46367,13 @@
  gramm: N,rus
  paradigm: Noun-num-consonant
  trans_ru: пост
+
+-lexeme
+ lex: репост
+ stem: репост.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: репост
 
 -lexeme
  lex: постромка

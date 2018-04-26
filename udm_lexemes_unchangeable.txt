@@ -951,7 +951,7 @@
 
 -lexeme
  lex: гинэ
- stem: гинэ.
+ stem: гинэ.//гине.
  gramm: PART
  paradigm: Empty
  trans_ru: только
@@ -9172,6 +9172,13 @@
  trans_ru: самостоятельно
 
 -lexeme
+ lex: уин
+ stem: уин.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: ночью
+
+-lexeme
  lex: огуе
  stem: огуе.
  gramm: ADV,ill
@@ -11370,7 +11377,7 @@
 
 -lexeme
  lex: тау
- stem: тау.
+ stem: тау.//таау.//тааау.//тауу.//таууу.
  gramm: PART
  paradigm: Comparative
  trans_ru: спасибо, благодарю
@@ -12096,6 +12103,12 @@
  paradigm: Comparative
  trans_ru: чтобы
 -lexeme
+ lex: чтоб
+ stem: чтоб.
+ gramm: CNJ,rus
+ paradigm: Comparative
+ trans_ru: чтоб
+-lexeme
  lex: чупыр-чупыр
  stem: чупыр-чупыр.
  gramm: IMIT
@@ -12143,3 +12156,16 @@
  gramm: PART
  paradigm: Comparative
  trans_ru: здравствуйте
+-lexeme
+ lex: каммон
+ stem: каммон.//камон.
+ gramm: PREDIC,rus
+ paradigm: Comparative
+ trans_ru: come on
+-lexeme
+ lex: круто
+ stem: круто.
+ gramm: PREDIC,rus
+ paradigm: Comparative
+ trans_ru: круто
+

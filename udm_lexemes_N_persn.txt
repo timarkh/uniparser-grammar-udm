@@ -511,6 +511,13 @@
  trans_ru: Оля
 
 -lexeme
+ lex: Оли
+ stem: оли.
+ gramm: N,PN,persn
+ paradigm: Noun-num-vowel
+ trans_ru: Оля
+
+-lexeme
  lex: Катя
  stem: катя.
  gramm: N,PN,persn
@@ -15413,6 +15420,12 @@
  gramm: N,PN,persn
  paradigm: Noun-num-vowel
  trans_ru: Инна
+-lexeme
+ lex: Яна
+ stem: яна.
+ gramm: N,PN,persn
+ paradigm: Noun-num-vowel
+ trans_ru: Яна
 -lexeme
  lex: Иоанн
  stem: иоанн.
@@ -47481,6 +47494,12 @@
  paradigm: Noun-num-consonant
  trans_ru: Юмшанов
 -lexeme
+ lex: Юмшан57
+ stem: юмшан57.
+ gramm: N,PN
+ paradigm: Noun-num-consonant
+ trans_ru: Юмшан-57 (название группы вконтакте)
+-lexeme
  lex: Юмшанова
  stem: юмшанова.
  gramm: N,PN,famn
@@ -49677,3 +49696,9 @@
  gramm: N,abbr,rus
  paradigm: Noun-num-consonant
  trans_ru: ЮНЕСКО
+-lexeme
+ lex: ДК
+ stem: дк.//дк-.
+ gramm: N,abbr,rus
+ paradigm: Noun-num-consonant
+ trans_ru: дом культуры

@@ -4682,6 +4682,14 @@
  -flex: .ӥськ|ы<.>
   gramm: 2,sg,prs,neg
   gloss: PRS12|NEG.SG
+ -flex: .к|ы<.>
+  gramm: 1,sg,prs,neg
+  gloss: PRS12|NEG.SG
+  regex-prev: ^(.*[бвгджзӟӝйклмнпртфхцчӵшщ]|шу)[<>.]*$
+ -flex: .к|ы<.>
+  gramm: 2,sg,prs,neg
+  gloss: PRS12|NEG.SG
+  regex-prev: ^(.*[бвгджзӟӝйклмнпртфхцчӵшщ]|шу)[<>.]*$
  -flex: .<.>
   gramm: 3,sg,prs,neg
  -flex: .ы<.>

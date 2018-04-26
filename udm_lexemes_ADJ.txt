@@ -2808,7 +2808,7 @@
 
 -lexeme
  lex: тӧдьы
- stem: тӧдьы.
+ stem: тӧдьы.//тӧдь.//тэдьы.//тэдь.
  gramm: ADJ
  paradigm: connect_adjectives
  trans_ru: белый
@@ -4817,7 +4817,7 @@
 
 -lexeme
  lex: бадӟым
- stem: бадӟым.
+ stem: бадӟым.//бадзьым.//баӟым.
  gramm: ADJ
  paradigm: connect_adjectives
  trans_ru: большой
@@ -31860,3 +31860,10 @@
  gramm: ADJ
  paradigm: connect_adjectives
  trans_ru: последний; заключительный
+
+-lexeme
+ lex: супер
+ stem: супер.
+ gramm: ADJ,rus
+ paradigm: connect_adjectives
+ trans_ru: супер
