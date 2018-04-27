@@ -7396,7 +7396,7 @@
  stem: быгатонлык.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: 1. умение, способность, дар 2. возможность 3. гениальность, гений
+ trans_ru: возможность; умение
 
 -lexeme
  lex: быгатос
@@ -11120,7 +11120,7 @@
  stem: выжыкыл.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: предание
+ trans_ru: сказка, предание
 
 -lexeme
  lex: выжыкылчи
@@ -96549,3 +96549,10 @@
  gramm: N,rus
  paradigm: Noun-num-ija
  trans_ru: русофобия
+
+-lexeme
+ lex: нэ
+ stem: нэ.
+ gramm: N
+ paradigm: Empty
+ trans_ru: дорогая, дорогой

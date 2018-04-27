@@ -1058,21 +1058,21 @@
  lex: ас
  stem: аслаз.
  gramm: PRO,3sg,gen
- paradigm: Comparative
+ paradigm: Noun-case-compounding
  trans_ru: сам, свой
 
 -lexeme
  lex: ас
  stem: аслам.
  gramm: PRO,1sg,gen
- paradigm: Comparative
+ paradigm: Noun-case-compounding
  trans_ru: сам, свой
 
 -lexeme
  lex: ас
  stem: аслад.
  gramm: PRO,2sg,gen
- paradigm: Comparative
+ paradigm: Noun-case-compounding
  trans_ru: сам, свой
 
 -lexeme
@@ -1162,50 +1162,43 @@
 
 -lexeme
  lex: ас
- stem: ассэ.
+ stem: ассэ.//асьсэ.//ащсэ.
  gramm: PRO,3sg,acc,nom
  paradigm: Comparative
  trans_ru: сам, свой
 
 -lexeme
  lex: ас
- stem: асме.
+ stem: асме.//асьме.//ащме.
  gramm: PRO,1sg,acc,nom
  paradigm: Comparative
  trans_ru: сам, свой
 
 -lexeme
  lex: ас
- stem: астэ.
+ stem: астэ.//асьтэ.//ащтэ.
  gramm: PRO,2sg,acc,nom
  paradigm: Comparative
  trans_ru: сам, свой
 
 -lexeme
  lex: ас
- stem: ассэс.
+ stem: ассэс.//асьсэс.//ащсэс.
  gramm: PRO,3pl,acc
  paradigm: Comparative
  trans_ru: сам, свой
 
 -lexeme
  lex: ас
- stem: асмес.//асмеос.//ачимес.
+ stem: асмес.//асмеос.//ачимес.//асьмес.//ащмес.
  gramm: PRO,1pl,nom
  paradigm: Comparative
  trans_ru: сам, свой
 
 -lexeme
  lex: ас
- stem: астэс.//астэос.//ачидэс.
+ stem: астэс.//астэос.//ачидэс.//асьтэс.//ащтэс.
  gramm: PRO,2pl,nom
- paradigm: Comparative
- trans_ru: сам, свой
-
--lexeme
- lex: ас
- stem: асьсэс.
- gramm: PRO,3pl,acc
  paradigm: Comparative
  trans_ru: сам, свой
 
@@ -1269,7 +1262,7 @@
  lex: ас
  stem: асьсэос.//асьсэс.
  gramm: PRO,3pl,nom
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-consonant
  trans_ru: сам, свой
 
 -lexeme
@@ -1290,7 +1283,7 @@
  lex: ас
  stem: асьсэлэн.
  gramm: PRO,3pl,gen
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-consonant
  trans_ru: сам, свой
 
 -lexeme
@@ -1367,6 +1360,27 @@
  lex: ас
  stem: асьтэя.
  gramm: PRO,2pl,adv
+ paradigm: Comparative
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: асьсэтэк.
+ gramm: PRO,3pl,car
+ paradigm: Noun-num-vowel
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: асьметэк.
+ gramm: PRO,1pl,car
+ paradigm: Comparative
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: асьтэтэк.
+ gramm: PRO,2pl,car
  paradigm: Comparative
  trans_ru: сам, свой
 

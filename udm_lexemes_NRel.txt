@@ -133,7 +133,7 @@
 
 -lexeme
  lex: вадес
- stem: вадьс.
+ stem: вадьс.//вадс.
  gramm: N,rel_n
  paradigm: Noun-num-consonant
  paradigm: Noun-case-ill-y
