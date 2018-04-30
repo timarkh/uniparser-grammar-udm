@@ -12470,7 +12470,7 @@
  stem: герӟет.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: завязка, узел, петля, союз, соединение, связь
+ trans_ru: узел, петля, союз, соединение, связь
 
 -lexeme
  lex: герӟос
@@ -14839,6 +14839,7 @@
  stem: декабр.
  gramm: N,rus,time_meas
  paradigm: Noun-num-soft
+ paradigm: Noun-num-consonant
  trans_ru: декабрь
 
 -lexeme
@@ -19054,7 +19055,7 @@
 
 -lexeme
  lex: ин
- stem: ин.//инм.
+ stem: ин.//инм.//иньм.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: небо, небеса
@@ -23973,7 +23974,7 @@
 
 -lexeme
  lex: кион
- stem: кион.
+ stem: кион.//киён.
  gramm: N,anim
  paradigm: Noun-num-consonant
  trans_ru: волк
@@ -27927,7 +27928,7 @@
  stem: кузьым.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: 1. подарок, дар, гостинец  2. перен. взятка
+ trans_ru: подарок; взятка
 
 -lexeme
  lex: кузьым-салам
@@ -27969,7 +27970,7 @@
  stem: кузё.
  gramm: N,anim,hum
  paradigm: Noun-num-vowel
- trans_ru: начальник
+ trans_ru: начальник; дух-хозяин
 
 -lexeme
  lex: кузёйыр
@@ -36480,6 +36481,7 @@
  stem: монастыр.
  gramm: N,rus
  paradigm: Noun-num-soft
+ paradigm: Noun-num-consonant
  trans_ru: монастырь
 
 -lexeme
@@ -40840,6 +40842,7 @@
  stem: октябр.
  gramm: N,rus,time_meas
  paradigm: Noun-num-soft
+ paradigm: Noun-num-consonant
  trans_ru: октябрь
 
 -lexeme
@@ -51794,7 +51797,7 @@
  stem: салам.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: подарок, гостинец
+ trans_ru: привет; подарок, гостинец
 
 -lexeme
  lex: салдат
@@ -55163,7 +55166,7 @@
  stem: суред.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: 1. картина, рисунок 2. чучело, пугало
+ trans_ru: картина, рисунок; пугало
 
 -lexeme
  lex: суредпужы
@@ -65935,7 +65938,7 @@
 
 -lexeme
  lex: чыжы-выжы
- stem: чыжы-выжы.
+ stem: чыжы-выжы.//чыжывыжы.
  gramm: N,anim,hum
  paradigm: Noun-num-vowel
  trans_ru: дальний родственник
@@ -67352,7 +67355,7 @@
 
 -lexeme
  lex: шоркусып
- stem: шоркусып.
+ stem: шоркусып.//шоркусп.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: взаимоотношения, связь
@@ -67773,7 +67776,7 @@
 
 -lexeme
  lex: шуг-секыт
- stem: шуг-секыт.
+ stem: шуг-секыт.//шугсекыт.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: трудность, препятствие, преграда
@@ -71844,7 +71847,7 @@
  stem: ёзэт.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: 1. статья, пункт, часть, раздел, абзац 2. отдел, отделение
+ trans_ru: 1. статья, пункт, раздел, абзац 2. отдел
 
 -lexeme
  lex: ёлка

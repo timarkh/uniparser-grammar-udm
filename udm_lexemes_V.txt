@@ -13288,6 +13288,13 @@
  trans_ru: носить; водить
 
 -lexeme
+ lex: нулдыны
+ stem: нулд.
+ gramm: V,I,tr,with_instr,with_ill
+ paradigm: connect_verbs-I
+ trans_ru: носить; водить
+
+-lexeme
  lex: нумырӟыны
  stem: нумырӟ.
  gramm: V,I,intr
@@ -26194,6 +26201,13 @@
  gramm: V,II,tr
  paradigm: connect_verbs-II
  trans_ru: закрыть; залатать; запрудить
+
+-lexeme
+ lex: ӵоктаны
+ stem: ӵокса.
+ gramm: V,II,tr
+ paradigm: connect_verbs-II
+ trans_ru: закрыть; заткнуть
 
 -lexeme
  lex: ӵоксузьыны

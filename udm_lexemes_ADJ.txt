@@ -20187,6 +20187,28 @@
  paradigm: connect_adjectives-j
  trans_ru: каждый
 -lexeme
+ lex: каждой
+ stem: каждо.//кажды.
+ gramm: PRO,rus
+ paradigm: Noun-case-poss-1,sg-j
+ paradigm: Noun-case-poss-2,sg-j
+ paradigm: Noun-case-poss-3,sg-j
+ paradigm: Noun-case-poss-1,pl-j
+ paradigm: Noun-case-poss-2,pl-j
+ paradigm: Noun-case-poss-3,pl-j
+ trans_ru: каждый
+-lexeme
+ lex: кажной
+ stem: кажно.//кажны.
+ gramm: PRO,rus
+ paradigm: Noun-case-poss-1,sg-j
+ paradigm: Noun-case-poss-2,sg-j
+ paradigm: Noun-case-poss-3,sg-j
+ paradigm: Noun-case-poss-1,pl-j
+ paradigm: Noun-case-poss-2,pl-j
+ paradigm: Noun-case-poss-3,pl-j
+ trans_ru: каждый
+-lexeme
  lex: казанской
  stem: казанско.
  gramm: ADJ,rus

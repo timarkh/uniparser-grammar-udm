@@ -1877,9 +1877,16 @@
 -lexeme
  lex: ӧжытэн
  stem: ӧжытэн.
- gramm: ADV
+ gramm: ADV,ins
  paradigm: connect_adverbs
  trans_ru: понемногу
+
+-lexeme
+ lex: ӧжытлы
+ stem: ӧжытлы.
+ gramm: ADV,ins
+ paradigm: connect_adverbs
+ trans_ru: ненамного
 
 -lexeme
  lex: куальтра
@@ -3793,13 +3800,6 @@
  trans_ru: с излишком, с избытком, избыточно, обильно
 
 -lexeme
- lex: улӥёзь
- stem: улӥёзь.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: 1. донизу, вылӥысен улӥёзяз учкыны оглядеть сверху донизу 2. до низа
-
--lexeme
  lex: эли-кеби
  stem: эли-кеби.
  gramm: ADV
@@ -4079,6 +4079,13 @@
  gramm: ADV
  paradigm: connect_adverbs
  trans_ru: высоко
+
+-lexeme
+ lex: йылӥ
+ stem: йылӥ.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: на верхушке
 
 -lexeme
  lex: шимес
@@ -5434,6 +5441,13 @@
 -lexeme
  lex: умой
  stem: умой.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: правильно, верно, точно
+
+-lexeme
+ lex: умояк
+ stem: умояк.
  gramm: ADV
  paradigm: connect_adverbs
  trans_ru: правильно, верно, точно
@@ -10380,6 +10394,13 @@
  trans_ru: однажды, один раз
 
 -lexeme
+ lex: огполлы
+ stem: огполлы.
+ gramm: ADV,dat
+ paradigm: connect_adverbs
+ trans_ru: на один раз
+
+-lexeme
  lex: йыриновыл
  stem: йыриновыл.
  gramm: ADV
@@ -10945,6 +10966,13 @@
  gramm: ADV
  paradigm: Noun-num-vowel
  trans_ru: выше
+
+-lexeme
+ lex: йылӥ
+ stem: вылӥ.
+ gramm: ADV
+ paradigm: Noun-num-vowel
+ trans_ru: на верхушке
 
 -lexeme
  lex: гаскар

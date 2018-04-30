@@ -389,6 +389,22 @@
  trans_ru: никто
 
 -lexeme
+ lex: некин
+ stem: некин.
+ gramm: PRO
+ paradigm: Noun-mar
+ paradigm: Noun-num-soft
+ trans_ru: никто
+
+-lexeme
+ lex: ненокин
+ stem: ненокин.
+ gramm: PRO
+ paradigm: Noun-mar
+ paradigm: Noun-num-soft
+ trans_ru: никто
+
+-lexeme
  lex: котькин
  stem: котькин.
  gramm: PRO
@@ -753,10 +769,26 @@
  trans_ru: там, тут
 
 -lexeme
+ lex: отын
+ stem: отына.//отчына.
+ gramm: ADVPRO,loc
+ paradigm: poss-sg
+ paradigm: poss-pl
+ trans_ru: там, тут
+
+-lexeme
  lex: сотын
  stem: сотын.//сотчын.
  gramm: ADVPRO,loc
  paradigm: Comparative
+ trans_ru: там, тут
+
+-lexeme
+ lex: сотын
+ stem: сотына.//сотчына.
+ gramm: ADVPRO,loc
+ paradigm: poss-sg
+ paradigm: poss-pl
  trans_ru: там, тут
 
 -lexeme
@@ -767,10 +799,26 @@
  trans_ru: здесь
 
 -lexeme
+ lex: татын
+ stem: татына.//татчына.
+ gramm: ADVPRO,loc
+ paradigm: poss-sg
+ paradigm: poss-pl
+ trans_ru: здесь
+
+-lexeme
  lex: кытын
  stem: кытын.//кытчын.
  gramm: ADVPRO,loc
  paradigm: Comparative
+ trans_ru: где
+
+-lexeme
+ lex: кытын
+ stem: кытына.//кытчына.
+ gramm: ADVPRO,loc
+ paradigm: poss-sg
+ paradigm: poss-pl
  trans_ru: где
 
 -lexeme
@@ -788,6 +836,14 @@
  trans_ru: где-то, не знаю где
 
 -lexeme
+ lex: олокытын
+ stem: олокытына.//олокытчына.
+ gramm: ADVPRO,loc
+ paradigm: poss-sg
+ paradigm: poss-pl
+ trans_ru: где-то, не знаю где
+
+-lexeme
  lex: котькытын
  stem: котькытын.//котькытчын.
  gramm: ADVPRO,loc
@@ -795,10 +851,26 @@
  trans_ru: где угодно
 
 -lexeme
+ lex: котькытын
+ stem: котькытына.//котькытчына.
+ gramm: ADVPRO,loc
+ paradigm: poss-sg
+ paradigm: poss-pl
+ trans_ru: где угодно
+
+-lexeme
  lex: нокытын
  stem: нокытын.//нокытчын.
  gramm: ADVPRO,loc
  paradigm: Comparative
+ trans_ru: нигде
+
+-lexeme
+ lex: нокытына
+ stem: нокытына.//нокытчына.
+ gramm: ADVPRO,loc
+ paradigm: poss-sg
+ paradigm: poss-pl
  trans_ru: нигде
 
 -lexeme
@@ -1386,14 +1458,14 @@
 
 -lexeme
  lex: ог-огзы
- stem: ог-ог.
+ stem: ог-ог.//огог.
  gramm: PRO
  paradigm: Noun-num-consonant
  trans_ru: друг друга
 
 -lexeme
  lex: куд-ог
- stem: куд-ог.
+ stem: куд-ог.//кудог.
  gramm: ADJPRO
  paradigm: Noun-num-consonant
  trans_ru: некоторый

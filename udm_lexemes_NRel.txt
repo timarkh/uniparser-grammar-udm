@@ -157,7 +157,7 @@
 
 -lexeme
  lex: котыр
- stem: котыр.
+ stem: котыр.//котр.
  gramm: N,rel_n
  paradigm: Noun-num-consonant
  paradigm: Noun-case-ill-y
@@ -197,7 +197,7 @@
 
 -lexeme
  lex: пуш
- stem: пушк.
+ stem: пушк.//пуӵк.
  gramm: N,rel_n
  paradigm: Noun-num-consonant
  paradigm: Noun-num-consonant-y
@@ -214,8 +214,17 @@
 
 -lexeme
  lex: кусып
- stem: кусп.
+ stem: кусп.//кысп.
  gramm: N,rel_n
+ paradigm: Noun-num-consonant
+ paradigm: Noun-num-consonant-y
+ paradigm: Noun-case-ill-y
+ trans_ru: промежуток; между
+
+-lexeme
+ lex: кусып
+ stem: кузп.
+ gramm: N,rel_n,missp
  paradigm: Noun-num-consonant
  paradigm: Noun-num-consonant-y
  paradigm: Noun-case-ill-y
