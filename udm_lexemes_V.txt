@@ -50,7 +50,7 @@
 -lexeme
  lex: адресаны
  stem: адреса.
- gramm: V,II,tr
+ gramm: V,II,tr,rus
  paradigm: connect_verbs-II
  trans_ru: адресовать
 
@@ -6893,6 +6893,13 @@
  stem: каллена.
  gramm: V,II,intr
  paradigm: connect_verbs-II
+ trans_ru: замедлиться
+
+-lexeme
+ lex: калленомыны
+ stem: калленом.
+ gramm: V,I,intr
+ paradigm: connect_verbs-I
  trans_ru: замедлиться
 
 -lexeme
@@ -31993,3 +32000,8218 @@
  gramm: V,rus,rus_inf,rus_ipfv
  paradigm: Comparative
  trans_ru: язвить
+
+-lexeme
+ lex: авторизоваться
+ stem: авторизоваться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: авторизоваться
+-lexeme
+ lex: агитировать
+ stem: агитировать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: агитировать
+-lexeme
+ lex: агитироватьтыны
+ stem: агитироватьт.
+ gramm: V,I,rus,rus_ipfv
+ paradigm: connect_verbs-I
+ trans_ru: агитировать
+-lexeme
+ lex: адаптировать
+ stem: адаптировать.
+ gramm: V,rus,rus_inf,rus_pfv_ipfv
+ paradigm: Comparative
+ trans_ru: адаптировать
+-lexeme
+ lex: админить
+ stem: админить.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: админить
+-lexeme
+ lex: адресовать
+ stem: адресовать.
+ gramm: V,rus,rus_inf,rus_pfv_ipfv
+ paradigm: Comparative
+ trans_ru: адресовать
+-lexeme
+ lex: азьлантьтыны
+ stem: азьланьт.
+ gramm: V,I,tr,with_ill,missp
+ paradigm: connect_verbs-I
+ trans_ru: продвинуть вперёд; развивать
+-lexeme
+ lex: аккомпанировать
+ stem: аккомпанировать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: аккомпанировать
+-lexeme
+ lex: аккомпанировать
+ stem: аккомпонировать.
+ gramm: V,rus,rus_inf,rus_ipfv,missp
+ paradigm: Comparative
+ trans_ru: аккомпанировать
+-lexeme
+ lex: активничать
+ stem: активничать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: активничать
+-lexeme
+ lex: американизировать
+ stem: американизровать.
+ gramm: V,rus,rus_inf,rus_pfv_ipfv,missp
+ paradigm: Comparative
+ trans_ru: американизировать
+-lexeme
+ lex: анонсировать
+ stem: анонсировать.
+ gramm: V,rus,rus_inf,rus_pfv_ipfv
+ paradigm: Comparative
+ trans_ru: анонсировать
+-lexeme
+ lex: аргументировать
+ stem: аргументировать.
+ gramm: V,rus,rus_inf,rus_pfv_ipfv
+ paradigm: Comparative
+ trans_ru: аргументировать
+-lexeme
+ lex: ассимилироваться
+ stem: ассимилироваться.
+ gramm: V,rus,rus_inf,refl,rus_pfv_ipfv
+ paradigm: Comparative
+ trans_ru: ассимилироваться
+-lexeme
+ lex: атаковать
+ stem: атаковать.
+ gramm: V,rus,rus_inf,rus_pfv_ipfv
+ paradigm: Comparative
+ trans_ru: атаковать
+-lexeme
+ lex: балдеть
+ stem: балдеть.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: балдеть
+-lexeme
+ lex: балдетьтыны
+ stem: балдетьт.
+ gramm: V,I,rus,rus_ipfv
+ paradigm: connect_verbs-I
+ trans_ru: балдеть
+-lexeme
+ lex: баловать
+ stem: баловать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: баловать
+-lexeme
+ lex: бастьтыны
+ stem: басьт.
+ gramm: V,I,tr,with_el,with_ill,missp
+ paradigm: connect_verbs-I
+ trans_ru: взять, брать; купить
+-lexeme
+ lex: баюкать
+ stem: баюкать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: баюкать
+-lexeme
+ lex: бежать
+ stem: бежать.
+ gramm: V,rus,rus_inf,rus_pfv_ipfv
+ paradigm: Comparative
+ trans_ru: бежать
+-lexeme
+ lex: бездельничать
+ stem: бездельничать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: бездельничать
+-lexeme
+ lex: белить
+ stem: белить.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: белить
+-lexeme
+ lex: бесить
+ stem: бесить.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: бесить
+-lexeme
+ lex: беситьтыны
+ stem: беситьт.
+ gramm: V,I,rus,rus_ipfv
+ paradigm: connect_verbs-I
+ trans_ru: бесить
+-lexeme
+ lex: беспокоиться
+ stem: беспокоиться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: беспокоиться
+-lexeme
+ lex: благодарить
+ stem: благодарить.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: благодарить
+-lexeme
+ lex: благословить
+ stem: благославить.
+ gramm: V,rus,rus_inf,rus_pfv,missp
+ paradigm: Comparative
+ trans_ru: благословить
+-lexeme
+ lex: блестеть
+ stem: блестеть.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: блестеть
+-lexeme
+ lex: блядовать
+ stem: блядовать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: блядовать
+-lexeme
+ lex: богатеть
+ stem: богатеть.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: богатеть
+-lexeme
+ lex: бойкотировать
+ stem: байкотировать.
+ gramm: V,rus,rus_inf,rus_pfv_ipfv
+ paradigm: Comparative
+ trans_ru: бойкотировать
+-lexeme
+ lex: болванить
+ stem: болванить.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: болванить
+-lexeme
+ lex: болетьтыны
+ stem: болетьт.
+ gramm: V,I,rus,rus_ipfv
+ paradigm: connect_verbs-I
+ trans_ru: болеть (за кого-либо)
+-lexeme
+ lex: болтать
+ stem: болтать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: болтать
+-lexeme
+ lex: бороться
+ stem: бороться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: бороться
+-lexeme
+ lex: бояться
+ stem: бояться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: бояться
+-lexeme
+ lex: брезговать
+ stem: брезговать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: брезговать
+-lexeme
+ lex: брендировать
+ stem: брендировать.
+ gramm: V,rus,rus_inf,rus_pfv_ipfv
+ paradigm: Comparative
+ trans_ru: брендировать
+-lexeme
+ lex: бронироваться
+ stem: бронироваться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: бронироваться
+-lexeme
+ lex: бросать
+ stem: бросать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: бросать
+-lexeme
+ lex: бросить
+ stem: бросить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: бросить
+-lexeme
+ lex: брызнуть
+ stem: брызнуть.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: брызнуть
+-lexeme
+ lex: бухнуть
+ stem: бухнуть.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: бухнуть
+-lexeme
+ lex: бушеватьтыны
+ stem: бушеватьт.
+ gramm: V,I,rus,rus_ipfv
+ paradigm: connect_verbs-I
+ trans_ru: бушевать
+-lexeme
+ lex: бывать
+ stem: бывать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: бывать
+-lexeme
+ lex: быковать
+ stem: быковать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: быковать
+-lexeme
+ lex: бычить
+ stem: бычить.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: бычить
+-lexeme
+ lex: валамонить
+ stem: валамонить.
+ gramm: V,rus_afx,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: валамонить
+-lexeme
+ lex: валэктынить
+ stem: валэктынить.
+ gramm: V,rus_afx,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: валэктынить
+-lexeme
+ lex: варить
+ stem: варить.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: варить
+-lexeme
+ lex: вбивать
+ stem: вбивать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: вбивать
+-lexeme
+ lex: вдохнуть
+ stem: вдохнуть.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: вдохнуть
+-lexeme
+ lex: величать
+ stem: величать.
+ gramm: V,rus,rus_inf
+ paradigm: Comparative
+ trans_ru: величать
+-lexeme
+ lex: вераськонить
+ stem: вераськонить.
+ gramm: V,rus_afx,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: вераськонить
+-lexeme
+ lex: верстатьтыны
+ stem: верстатьт.
+ gramm: V,I,rus,rus_ipfv
+ paradigm: connect_verbs-I
+ trans_ru: верстать
+-lexeme
+ lex: веселиться
+ stem: веселиться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: веселиться
+-lexeme
+ lex: вешать
+ stem: вешать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: вешать
+-lexeme
+ lex: взглянуть
+ stem: взгянуть.
+ gramm: V,rus,rus_inf,rus_pfv,missp
+ paradigm: Comparative
+ trans_ru: взглянуть
+-lexeme
+ lex: вздохнуть
+ stem: вздохнуть.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: вздохнуть
+-lexeme
+ lex: вздремнуть
+ stem: вздремнуть.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: вздремнуть
+-lexeme
+ lex: вздрогнуть
+ stem: вздрогнуть.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: вздрогнуть
+-lexeme
+ lex: взломать
+ stem: взломать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: взломать
+-lexeme
+ lex: взъерошиться
+ stem: взъерошиться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: взъерошиться
+-lexeme
+ lex: видеть
+ stem: видеть.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: видеть
+-lexeme
+ lex: виднеться
+ stem: виднеться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: виднеться
+-lexeme
+ lex: висеть
+ stem: висеть.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: висеть
+-lexeme
+ lex: виться
+ stem: виться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: виться
+-lexeme
+ lex: вложить
+ stem: вложить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: вложить
+-lexeme
+ lex: влюбиться
+ stem: влюбиться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: влюбиться
+-lexeme
+ lex: вмещаться
+ stem: вмещаться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: вмещаться
+-lexeme
+ lex: внедрять
+ stem: внедрять.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: внедрять
+-lexeme
+ lex: воевать
+ stem: воевать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: воевать
+-lexeme
+ lex: возвратиться
+ stem: возвратиться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: возвратиться
+-lexeme
+ lex: возглавлять
+ stem: возглавлять.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: возглавлять
+-lexeme
+ lex: возить
+ stem: возить.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: возить
+-lexeme
+ lex: возмужаться
+ stem: возмужаться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: возмужаться
+-lexeme
+ lex: возмущаться
+ stem: возмущаться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: возмущаться
+-lexeme
+ lex: возникнуть
+ stem: возникнуть.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: возникнуть
+-lexeme
+ lex: возобновить
+ stem: возобновить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: возобновить
+-lexeme
+ lex: возразить
+ stem: возразить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: возразить
+-lexeme
+ lex: возродить
+ stem: возродить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: возродить
+-lexeme
+ lex: возродиться
+ stem: возродиться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: возродиться
+-lexeme
+ lex: возрождаться
+ stem: возрождаться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: возрождаться
+-lexeme
+ lex: воплотить
+ stem: воплотить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: воплотить
+-lexeme
+ lex: воскресать
+ stem: воскресать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: воскресать
+-lexeme
+ lex: воскреснуть
+ stem: воскреснуть.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: воскреснуть
+-lexeme
+ lex: воспитываться
+ stem: воспитваться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv,missp
+ paradigm: Comparative
+ trans_ru: воспитываться
+-lexeme
+ lex: воспламениться
+ stem: воспламениться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: воспламениться
+-lexeme
+ lex: восприниматься
+ stem: восприниматься.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: восприниматься
+-lexeme
+ lex: восстановить
+ stem: востановить.
+ gramm: V,rus,rus_inf,rus_pfv,missp
+ paradigm: Comparative
+ trans_ru: восстановить
+-lexeme
+ lex: восстановиться
+ stem: востановиться.
+ gramm: V,rus,rus_inf,refl,rus_pfv,missp
+ paradigm: Comparative
+ trans_ru: восстановиться
+-lexeme
+ lex: впадаться
+ stem: впадаться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: впадаться
+-lexeme
+ lex: впарить
+ stem: впарить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: впарить
+-lexeme
+ lex: вписываться
+ stem: вписываться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: вписываться
+-lexeme
+ lex: впустить
+ stem: впустить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: впустить
+-lexeme
+ lex: врать
+ stem: врать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: врать
+-lexeme
+ lex: вручать
+ stem: вручать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: вручать
+-lexeme
+ lex: вручить
+ stem: вручить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: вручить
+-lexeme
+ lex: вскружить
+ stem: вскружить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: вскружить
+-lexeme
+ lex: вскрыть
+ stem: вскрыть.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: вскрыть
+-lexeme
+ lex: всмотреться
+ stem: всмотреться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: всмотреться
+-lexeme
+ lex: всосать
+ stem: всосать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: всосать
+-lexeme
+ lex: вспоминать
+ stem: вспоминать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: вспоминать
+-lexeme
+ lex: вспомниться
+ stem: вспомниться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: вспомниться
+-lexeme
+ lex: вспыхнуть
+ stem: вспыхнуть.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: вспыхнуть
+-lexeme
+ lex: вставать
+ stem: вставать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: вставать
+-lexeme
+ lex: вставлять
+ stem: вставлять.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: вставлять
+-lexeme
+ lex: встать
+ stem: встать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: встать
+-lexeme
+ lex: встретиться
+ stem: встретиться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: встретиться
+-lexeme
+ lex: встретиться
+ stem: встречиться.
+ gramm: V,rus,rus_inf,refl,rus_pfv,missp
+ paradigm: Comparative
+ trans_ru: встретиться
+-lexeme
+ lex: встречать
+ stem: встречать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: встречать
+-lexeme
+ lex: вступатьтыны
+ stem: вступатьт.
+ gramm: V,I,rus,rus_ipfv
+ paradigm: connect_verbs-I
+ trans_ru: вступать
+-lexeme
+ lex: вступить
+ stem: вступить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: вступить
+-lexeme
+ lex: всхлипывать
+ stem: всхлипывать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: всхлипывать
+-lexeme
+ lex: втачать
+ stem: втачать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: втачать
+-lexeme
+ lex: втиратьтыны
+ stem: втиратьт.
+ gramm: V,I,rus,rus_ipfv
+ paradigm: connect_verbs-I
+ trans_ru: втирать
+-lexeme
+ lex: вцепиться
+ stem: вцепиться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: вцепиться
+-lexeme
+ lex: выбиваться
+ stem: выбиваться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: выбиваться
+-lexeme
+ lex: выбирать
+ stem: выбирать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: выбирать
+-lexeme
+ lex: выбрать
+ stem: выбрать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: выбрать
+-lexeme
+ lex: выбросить
+ stem: выбросить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: выбросить
+-lexeme
+ lex: вывешиваться
+ stem: вывешиваться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: вывешиваться
+-lexeme
+ lex: выгравировать
+ stem: выгравировать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: выгравировать
+-lexeme
+ lex: выдавить
+ stem: выдавить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: выдавить
+-lexeme
+ lex: выдвигать
+ stem: выдвигать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: выдвигать
+-lexeme
+ lex: выдвинуть
+ stem: выдвинуть.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: выдвинуть
+-lexeme
+ lex: выделиться
+ stem: выделиться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: выделиться
+-lexeme
+ lex: выделываться
+ stem: выделываться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: выделываться
+-lexeme
+ lex: выделяться
+ stem: выделяться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: выделяться
+-lexeme
+ lex: выдумать
+ stem: выдумать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: выдумать
+-lexeme
+ lex: выжидать
+ stem: выжидать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: выжидать
+-lexeme
+ lex: выжимать
+ stem: выжимать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: выжимать
+-lexeme
+ lex: выжить
+ stem: выжить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: выжить
+-lexeme
+ lex: выздороветь
+ stem: выздороветь.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: выздороветь
+-lexeme
+ lex: вызывать
+ stem: вызывать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: вызывать
+-lexeme
+ lex: выключить
+ stem: выключить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: выключить
+-lexeme
+ lex: выкроить
+ stem: выкроить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: выкроить
+-lexeme
+ lex: выкупить
+ stem: выкупить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: выкупить
+-lexeme
+ lex: вылечить
+ stem: вылечить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: вылечить
+-lexeme
+ lex: выложить
+ stem: выложить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: выложить
+-lexeme
+ lex: выложитьтыны
+ stem: выложитьт.
+ gramm: V,I,rus,rus_pfv
+ paradigm: connect_verbs-I
+ trans_ru: выложить
+-lexeme
+ lex: выморозить
+ stem: выморозить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: выморозить
+-lexeme
+ lex: вымыть
+ stem: вымыть.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: вымыть
+-lexeme
+ lex: выносить
+ stem: выносить.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: выносить
+-lexeme
+ lex: выпендриваться
+ stem: выпендриваться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: выпендриваться
+-lexeme
+ lex: выписаться
+ stem: выписаться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: выписаться
+-lexeme
+ lex: выполнить
+ stem: вполнить.
+ gramm: V,rus,rus_inf,rus_pfv,missp
+ paradigm: Comparative
+ trans_ru: выполнить
+-lexeme
+ lex: выполнить
+ stem: выполнить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: выполнить
+-lexeme
+ lex: выпрямить
+ stem: выпрямить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: выпрямить
+-lexeme
+ lex: выпустить
+ stem: выпустить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: выпустить
+-lexeme
+ lex: выражать
+ stem: выражать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: выражать
+-lexeme
+ lex: выражаться
+ stem: выражаться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: выражаться
+-lexeme
+ lex: вырвать
+ stem: вырвать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: вырвать
+-lexeme
+ lex: вырождаться
+ stem: вырождаться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: вырождаться
+-lexeme
+ lex: выругать
+ stem: выругать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: выругать
+-lexeme
+ lex: высказаться
+ stem: высказаться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: высказаться
+-lexeme
+ lex: высмеять
+ stem: высмеять.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: высмеять
+-lexeme
+ lex: высморкаться
+ stem: высморкаться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: высморкаться
+-lexeme
+ lex: высохнуть
+ stem: высохнуть.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: высохнуть
+-lexeme
+ lex: выспаться
+ stem: выспаться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: выспаться
+-lexeme
+ lex: выстрелить
+ stem: выстрелить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: выстрелить
+-lexeme
+ lex: выступать
+ stem: выстыпать.
+ gramm: V,rus,rus_inf,rus_ipfv,missp
+ paradigm: Comparative
+ trans_ru: выступать
+-lexeme
+ lex: высушить
+ stem: высушить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: высушить
+-lexeme
+ lex: вытворяться
+ stem: вытворяться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: вытворяться
+-lexeme
+ lex: вытереть
+ stem: вытереть.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: вытереть
+-lexeme
+ lex: вытерпеть
+ stem: вытерпеть.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: вытерпеть
+-lexeme
+ lex: выходить
+ stem: выходить.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: выходить
+-lexeme
+ lex: выёпываться
+ stem: выёпываться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: выёпываться
+-lexeme
+ lex: вэйпить
+ stem: вэйпить.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: вэйпить
+-lexeme
+ lex: вязать
+ stem: вязать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: вязать
+-lexeme
+ lex: гастролировать
+ stem: гастролировать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: гастролировать
+-lexeme
+ lex: глюкнуть
+ stem: глюкнуть.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: глюкнуть
+-lexeme
+ lex: глянуть
+ stem: глянуть.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: глянуть
+-lexeme
+ lex: говориться
+ stem: говориться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: говориться
+-lexeme
+ lex: годиться
+ stem: годиться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: годиться
+-lexeme
+ lex: гореть
+ stem: гореть.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: гореть
+-lexeme
+ lex: готовиться
+ stem: готовиться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: готовиться
+-lexeme
+ lex: греть
+ stem: греть.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: греть
+-lexeme
+ lex: грустить
+ stem: грустить.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: грустить
+-lexeme
+ lex: гуглить
+ stem: гуглить.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: гуглить
+-lexeme
+ lex: гуглитьтыны
+ stem: гуглитьт.
+ gramm: V,I,rus,rus_ipfv
+ paradigm: connect_verbs-I
+ trans_ru: гуглить
+-lexeme
+ lex: гудеть
+ stem: гудеть.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: гудеть
+-lexeme
+ lex: гулятьтыны
+ stem: гулятьт.
+ gramm: V,I,rus,rus_ipfv
+ paradigm: connect_verbs-I
+ trans_ru: гулять
+-lexeme
+ lex: даваться
+ stem: даваться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: даваться
+-lexeme
+ lex: давить
+ stem: давить.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: давить
+-lexeme
+ lex: дарить
+ stem: дарить.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: дарить
+-lexeme
+ lex: двигать
+ stem: двигать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: двигать
+-lexeme
+ lex: действовать
+ stem: действовать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: действовать
+-lexeme
+ lex: делаться
+ stem: делаться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: делаться
+-lexeme
+ lex: делегировать
+ stem: делегировать.
+ gramm: V,rus,rus_inf,rus_pfv_ipfv
+ paradigm: Comparative
+ trans_ru: делегировать
+-lexeme
+ lex: делить
+ stem: делить.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: делить
+-lexeme
+ lex: делиться
+ stem: делиться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: делиться
+-lexeme
+ lex: деморализовать
+ stem: деморализовать.
+ gramm: V,rus,rus_inf,rus_pfv_ipfv
+ paradigm: Comparative
+ trans_ru: деморализовать
+-lexeme
+ lex: демотивировать
+ stem: демотивировать.
+ gramm: V,rus,rus_inf,rus_pfv_ipfv
+ paradigm: Comparative
+ trans_ru: демотивировать
+-lexeme
+ lex: держаться
+ stem: держаться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: держаться
+-lexeme
+ lex: дерзить
+ stem: дерзить.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: дерзить
+-lexeme
+ lex: деформировать
+ stem: деформировать.
+ gramm: V,rus,rus_inf,rus_pfv_ipfv
+ paradigm: Comparative
+ trans_ru: деформировать
+-lexeme
+ lex: дигитализировать
+ stem: дигитализировать.
+ gramm: V,rus,rus_inf,rus_pfv_ipfv
+ paradigm: Comparative
+ trans_ru: дигитализировать
+-lexeme
+ lex: дискредитировать
+ stem: дискредитировать.
+ gramm: V,rus,rus_inf,rus_pfv_ipfv
+ paradigm: Comparative
+ trans_ru: дискредитировать
+-lexeme
+ lex: добавиться
+ stem: добавиться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: добавиться
+-lexeme
+ lex: добавитьтыны
+ stem: добавитьт.
+ gramm: V,I,rus,rus_pfv
+ paradigm: connect_verbs-I
+ trans_ru: добавить
+-lexeme
+ lex: добавлять
+ stem: добавлять.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: добавлять
+-lexeme
+ lex: добавляться
+ stem: добавляться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: добавляться
+-lexeme
+ lex: добиваться
+ stem: добиваться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: добиваться
+-lexeme
+ lex: добирать
+ stem: добирать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: добирать
+-lexeme
+ lex: доверить
+ stem: доверить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: доверить
+-lexeme
+ lex: доверитьтыны
+ stem: доверитьт.
+ gramm: V,I,rus,rus_pfv
+ paradigm: connect_verbs-I
+ trans_ru: доверить
+-lexeme
+ lex: доверять
+ stem: доверять.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: доверять
+-lexeme
+ lex: догадываться
+ stem: догадываться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: догадываться
+-lexeme
+ lex: догнать
+ stem: догнать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: догнать
+-lexeme
+ lex: догнаться
+ stem: догнаться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: догнаться
+-lexeme
+ lex: договариваться
+ stem: договариваться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: договариваться
+-lexeme
+ lex: договорить
+ stem: договорить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: договорить
+-lexeme
+ lex: дождаться
+ stem: дожтаться.
+ gramm: V,rus,rus_inf,refl,rus_pfv,missp
+ paradigm: Comparative
+ trans_ru: дождаться
+-lexeme
+ lex: доить
+ stem: доить.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: доить
+-lexeme
+ lex: доказатьтыны
+ stem: доказатьт.
+ gramm: V,I,rus,rus_pfv
+ paradigm: connect_verbs-I
+ trans_ru: доказать
+-lexeme
+ lex: докладывать
+ stem: докладывать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: докладывать
+-lexeme
+ lex: долбить
+ stem: долбить.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: долбить
+-lexeme
+ lex: доминировать
+ stem: доминировать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: доминировать
+-lexeme
+ lex: домысливать
+ stem: домысливать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: домысливать
+-lexeme
+ lex: донимать
+ stem: донимать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: донимать
+-lexeme
+ lex: доносить
+ stem: доносить.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: доносить
+-lexeme
+ lex: доплачивать
+ stem: доплачивать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: доплачивать
+-lexeme
+ lex: дополнить
+ stem: дополнить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: дополнить
+-lexeme
+ lex: допрашивать
+ stem: допрашвать.
+ gramm: V,rus,rus_inf,rus_ipfv,missp
+ paradigm: Comparative
+ trans_ru: допрашивать
+-lexeme
+ lex: допрашивать
+ stem: допрашивать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: допрашивать
+-lexeme
+ lex: допустить
+ stem: допустить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: допустить
+-lexeme
+ lex: доставать
+ stem: доставать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: доставать
+-lexeme
+ lex: доставатьтыны
+ stem: доставатьт.
+ gramm: V,I,rus,rus_ipfv
+ paradigm: connect_verbs-I
+ trans_ru: доставать
+-lexeme
+ lex: дотянуться
+ stem: дотянуться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: дотянуться
+-lexeme
+ lex: доябывать
+ stem: доябывать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: доёбывать
+-lexeme
+ lex: драматизировать
+ stem: драматизировать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: драматизировать
+-lexeme
+ lex: драться
+ stem: драться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: драться
+-lexeme
+ lex: дружить
+ stem: дружить.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: дружить
+-lexeme
+ lex: дубить
+ stem: дубить.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: дубить
+-lexeme
+ lex: дублировать
+ stem: диблировать.
+ gramm: V,rus,rus_inf,rus_ipfv,missp
+ paradigm: Comparative
+ trans_ru: дублировать
+-lexeme
+ lex: душить
+ stem: душить.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: душить
+-lexeme
+ lex: ехать
+ stem: ехать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: ехать
+-lexeme
+ lex: жаловать
+ stem: жаловать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: жаловать
+-lexeme
+ lex: жаловаться
+ stem: жаловаться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: жаловаться
+-lexeme
+ lex: жаловатьтыны
+ stem: жаловатьт.
+ gramm: V,I,rus,rus_ipfv
+ paradigm: connect_verbs-I
+ trans_ru: жаловать
+-lexeme
+ lex: жевать
+ stem: жевать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: жевать
+-lexeme
+ lex: желтеть
+ stem: желтеть.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: желтеть
+-lexeme
+ lex: жертвовать
+ stem: жертововать.
+ gramm: V,rus,rus_inf,rus_ipfv,missp
+ paradigm: Comparative
+ trans_ru: жертвовать
+-lexeme
+ lex: жиреть
+ stem: жиреть.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: жиреть
+-lexeme
+ lex: забить
+ stem: забить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: забить
+-lexeme
+ lex: заблокироватьтыны
+ stem: заблокироватьт.
+ gramm: V,I,rus,rus_pfv
+ paradigm: connect_verbs-I
+ trans_ru: заблокировать
+-lexeme
+ lex: заболеть
+ stem: заболеть.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: заболеть
+-lexeme
+ lex: забронировать
+ stem: забронировать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: забронировать
+-lexeme
+ lex: заваривать
+ stem: заваривать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: заваривать
+-lexeme
+ lex: заварить
+ stem: заварить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: заварить
+-lexeme
+ lex: завербовать
+ stem: завербовать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: завербовать
+-lexeme
+ lex: завершить
+ stem: завершить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: завершить
+-lexeme
+ lex: завершиться
+ stem: завершиться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: завершиться
+-lexeme
+ lex: завидоватьтыны
+ stem: завидоватьт.
+ gramm: V,I,rus,rus_ipfv
+ paradigm: connect_verbs-I
+ trans_ru: завидовать
+-lexeme
+ lex: заводить
+ stem: заводить.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: заводить
+-lexeme
+ lex: завоевать
+ stem: завоевать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: завоевать
+-lexeme
+ lex: заглушить
+ stem: заглушить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: заглушить
+-lexeme
+ lex: заглядывать
+ stem: заглядывать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: заглядывать
+-lexeme
+ lex: загнать
+ stem: загнать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: загнать
+-lexeme
+ lex: загнуть
+ stem: загнуть.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: загнуть
+-lexeme
+ lex: заговорить
+ stem: заговорить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: заговорить
+-lexeme
+ lex: загорать
+ stem: загограть.
+ gramm: V,rus,rus_inf,rus_pfv,missp
+ paradigm: Comparative
+ trans_ru: загорать
+-lexeme
+ lex: загоратьтыны
+ stem: зыгоратьт.
+ gramm: V,I,rus,rus_ipfv,missp
+ paradigm: connect_verbs-I
+ trans_ru: загорать
+-lexeme
+ lex: загореться
+ stem: загореться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: загореться
+-lexeme
+ lex: заготавливать
+ stem: заготавливать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: заготавливать
+-lexeme
+ lex: загрузить
+ stem: загрузить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: загрузить
+-lexeme
+ lex: загрязниться
+ stem: загрязниться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: загрязниться
+-lexeme
+ lex: задабривать
+ stem: задабривать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: задабривать
+-lexeme
+ lex: задержаться
+ stem: задержаться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: задержаться
+-lexeme
+ lex: задерживать
+ stem: задерживать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: задерживать
+-lexeme
+ lex: задерживаться
+ stem: задерживаться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: задерживаться
+-lexeme
+ lex: задеть
+ stem: задеть.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: задеть
+-lexeme
+ lex: зажигать
+ stem: зажигать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: зажигать
+-lexeme
+ lex: зажигатьтыны
+ stem: зажигатьт.
+ gramm: V,I,rus,rus_ipfv
+ paradigm: connect_verbs-I
+ trans_ru: зажигать
+-lexeme
+ lex: заиметь
+ stem: заиметь.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: заиметь
+-lexeme
+ lex: заинтересовать
+ stem: заинтэресовать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: заинтересовать
+-lexeme
+ lex: заказатьтыны
+ stem: заказатьт.
+ gramm: V,I,rus,rus_pfv
+ paradigm: connect_verbs-I
+ trans_ru: заказать
+-lexeme
+ lex: закатить
+ stem: закатить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: закатить
+-lexeme
+ lex: закиснуть
+ stem: закиснуть.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: закиснуть
+-lexeme
+ lex: заколебать
+ stem: заколёбать.//заколёбать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: заколебать
+-lexeme
+ lex: закончить
+ stem: закончить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: закончить
+-lexeme
+ lex: закрашивать
+ stem: закрашивать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: закрашивать
+-lexeme
+ lex: закрепить
+ stem: закрепить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: закрепить
+-lexeme
+ lex: закрыть
+ stem: закрыть.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: закрыть
+-lexeme
+ lex: закрыться
+ stem: закрыться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: закрыться
+-lexeme
+ lex: залатать
+ stem: залатать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: залатать
+-lexeme
+ lex: залипать
+ stem: залипать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: залипать
+-lexeme
+ lex: залить
+ stem: залить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: залить
+-lexeme
+ lex: замазать
+ stem: замазать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: замазать
+-lexeme
+ lex: заманить
+ stem: заманить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: заманить
+-lexeme
+ lex: заменить
+ stem: заменить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: заменить
+-lexeme
+ lex: замесить
+ stem: замесить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: замесить
+-lexeme
+ lex: заморачиваться
+ stem: заморачиваться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: заморачиваться
+-lexeme
+ lex: заморозить
+ stem: заморозить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: заморозить
+-lexeme
+ lex: замуровать
+ stem: замуровать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: замуровать
+-lexeme
+ lex: замутить
+ stem: замутить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: замутить
+-lexeme
+ lex: занимать
+ stem: занимать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: занимать
+-lexeme
+ lex: занять
+ stem: занять.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: занять
+-lexeme
+ lex: запереться
+ stem: запереться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: запереться
+-lexeme
+ lex: записатьтыны
+ stem: зписатьт.
+ gramm: V,I,rus,rus_pfv,missp
+ paradigm: connect_verbs-I
+ trans_ru: записать
+-lexeme
+ lex: заплатить
+ stem: заплатить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: заплатить
+-lexeme
+ lex: запомниться
+ stem: запомниться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: запомниться
+-lexeme
+ lex: заправитьтыны
+ stem: заправитьт.
+ gramm: V,I,rus,rus_pfv
+ paradigm: connect_verbs-I
+ trans_ru: заправить
+-lexeme
+ lex: заправляться
+ stem: заправляться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: заправляться
+-lexeme
+ lex: запретить
+ stem: запретить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: запретить
+-lexeme
+ lex: запрещаться
+ stem: запрещаться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: запрещаться
+-lexeme
+ lex: запрудиться
+ stem: запрудиться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: запрудиться
+-lexeme
+ lex: запустить
+ stem: запустить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: запустить
+-lexeme
+ lex: запутаться
+ stem: запутаться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: запутаться
+-lexeme
+ lex: зарегистрироваться
+ stem: зарегистрироваться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: зарегистрироваться
+-lexeme
+ lex: засветиться
+ stem: засветиться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: засветиться
+-lexeme
+ lex: заскирдовать
+ stem: заскирдовать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: заскирдовать
+-lexeme
+ lex: засорять
+ stem: зосорять.
+ gramm: V,rus,rus_inf,rus_ipfv,missp
+ paradigm: Comparative
+ trans_ru: засорять
+-lexeme
+ lex: застрять
+ stem: застрять.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: застрять
+-lexeme
+ lex: заступаться
+ stem: заступаться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: заступаться
+-lexeme
+ lex: застыдиться
+ stem: застыдиться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: застыдиться
+-lexeme
+ lex: заткнуться
+ stem: заткнуться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: заткнуться
+-lexeme
+ lex: затопить
+ stem: затопить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: затопить
+-lexeme
+ lex: затуманиться
+ stem: затуманиться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: затуманиться
+-lexeme
+ lex: затусить
+ stem: затусить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: затусить
+-lexeme
+ lex: зафиксировать
+ stem: зафиксировать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: зафиксировать
+-lexeme
+ lex: зафрендить
+ stem: зафрендить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: зафрендить
+-lexeme
+ lex: заценить
+ stem: заценить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: заценить
+-lexeme
+ lex: заштопать
+ stem: заштопать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: заштопать
+-lexeme
+ lex: защититьтыны
+ stem: защититьт.
+ gramm: V,I,rus,rus_pfv
+ paradigm: connect_verbs-I
+ trans_ru: защитить
+-lexeme
+ lex: защищатьтыны
+ stem: защищатьт.
+ gramm: V,I,rus,rus_ipfv
+ paradigm: connect_verbs-I
+ trans_ru: защищать
+-lexeme
+ lex: звать
+ stem: звать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: звать
+-lexeme
+ lex: звенеть
+ stem: звенеть.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: звенеть
+-lexeme
+ lex: здороваться
+ stem: здороваться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: здороваться
+-lexeme
+ lex: знакомиться
+ stem: знакомиться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: знакомиться
+-lexeme
+ lex: значить
+ stem: значить.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: значить
+-lexeme
+ lex: значиться
+ stem: значиться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: значиться
+-lexeme
+ lex: знобить
+ stem: знобить.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: знобить
+-lexeme
+ lex: зулить
+ stem: зулить.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: зулить
+-lexeme
+ lex: игнорировать
+ stem: игнорировать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: игнорировать
+-lexeme
+ lex: игнорить
+ stem: игнорить.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: игнорить
+-lexeme
+ lex: избавиться
+ stem: избавиться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: избавиться
+-lexeme
+ lex: избежать
+ stem: избежать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: избежать
+-lexeme
+ lex: издаваться
+ stem: издаваться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: издаваться
+-lexeme
+ lex: издеваться
+ stem: издеваться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: издеваться
+-lexeme
+ lex: изматывать
+ stem: изматывать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: изматывать
+-lexeme
+ lex: измениться
+ stem: измениться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: измениться
+-lexeme
+ lex: изменять
+ stem: изменять.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: изменять
+-lexeme
+ lex: изменятьтыны
+ stem: изменятьт.
+ gramm: V,I,rus,rus_ipfv
+ paradigm: connect_verbs-I
+ trans_ru: изменять
+-lexeme
+ lex: износиться
+ stem: износиться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: износиться
+-lexeme
+ lex: изображать
+ stem: изображать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: изображать
+-lexeme
+ lex: изобразить
+ stem: изобразить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: изобразить
+-lexeme
+ lex: изолировать
+ stem: изолировать.
+ gramm: V,rus,rus_inf,rus_pfv_ipfv
+ paradigm: Comparative
+ trans_ru: изолировать
+-lexeme
+ lex: изорваться
+ stem: изорваться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: изорваться
+-lexeme
+ lex: икатьтыны
+ stem: икатьт.
+ gramm: V,I,rus,rus_ipfv
+ paradigm: connect_verbs-I
+ trans_ru: икать
+-lexeme
+ lex: интересоваться
+ stem: интересоваться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: интересоваться
+-lexeme
+ lex: интересоватьтыны
+ stem: интересоватьт.
+ gramm: V,I,rus,rus_ipfv
+ paradigm: connect_verbs-I
+ trans_ru: интересовать
+-lexeme
+ lex: интерпретировать
+ stem: интепретировать.
+ gramm: V,rus,rus_inf,rus_pfv_ipfv,missp
+ paradigm: Comparative
+ trans_ru: интерпретировать
+-lexeme
+ lex: интерпретировать
+ stem: интерпретировать.
+ gramm: V,rus,rus_inf,rus_pfv_ipfv
+ paradigm: Comparative
+ trans_ru: интерпретировать
+-lexeme
+ lex: иронизировать
+ stem: иронизировать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: иронизировать
+-lexeme
+ lex: искажать
+ stem: искажать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: искажать
+-lexeme
+ lex: испачкать
+ stem: искачкать.
+ gramm: V,rus,rus_inf,rus_pfv,missp
+ paradigm: Comparative
+ trans_ru: испачкать
+-lexeme
+ lex: испортить
+ stem: испортить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: испортить
+-lexeme
+ lex: исправить
+ stem: исправить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: исправить
+-lexeme
+ lex: исправиться
+ stem: исправиться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: исправиться
+-lexeme
+ lex: исправлять
+ stem: исправлять.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: исправлять
+-lexeme
+ lex: испугаться
+ stem: испугаться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: испугаться
+-lexeme
+ lex: испытыватьтыны
+ stem: испытыватьт.
+ gramm: V,I,rus,rus_ipfv
+ paradigm: connect_verbs-I
+ trans_ru: испытывать
+-lexeme
+ lex: истерить
+ stem: истерить.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: истерить
+-lexeme
+ lex: истолковывать
+ stem: истолковывать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: истолковывать
+-lexeme
+ lex: исчезнуть
+ stem: исчезнуть.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: исчезнуть
+-lexeme
+ lex: Кадырметь
+ stem: кадырметь.
+ gramm: V_inf,PN,famn
+ paradigm: Comparative
+ trans_ru: Кадырметь
+-lexeme
+ lex: кайфовать
+ stem: кайфовать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: кайфовать
+-lexeme
+ lex: капитанить
+ stem: капитанить.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: капитанить
+-lexeme
+ lex: картавить
+ stem: картавить.//картррртавить.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: картавить
+-lexeme
+ lex: кваситьтыны
+ stem: кваситьт.
+ gramm: V,I,rus,rus_ipfv
+ paradigm: connect_verbs-I
+ trans_ru: квасить
+-lexeme
+ lex: кинуть
+ stem: кинуть.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: кинуть
+-lexeme
+ lex: кинутьтыны
+ stem: кинутьт.
+ gramm: V,I,rus,rus_pfv
+ paradigm: connect_verbs-I
+ trans_ru: кинуть
+-lexeme
+ lex: клеить
+ stem: клеить.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: клеить
+-lexeme
+ lex: клонировать
+ stem: клонировать.
+ gramm: V,rus,rus_inf,rus_pfv_ipfv
+ paradigm: Comparative
+ trans_ru: клонировать
+-lexeme
+ lex: клонироватьтыны
+ stem: клонироватьт.
+ gramm: V,I,rus,rus_pfv_ipfv
+ paradigm: connect_verbs-I
+ trans_ru: клонировать
+-lexeme
+ lex: ключитьтыны
+ stem: ключитьт.
+ gramm: V,I,rus,rus_pfv
+ paradigm: connect_verbs-I
+ trans_ru: ключить
+-lexeme
+ lex: ковать
+ stem: ковать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: ковать
+-lexeme
+ lex: кодироваться
+ stem: кодироваться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: кодироваться
+-lexeme
+ lex: кокетничать
+ stem: кокетничать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: кокетничать
+-lexeme
+ lex: кокотать
+ stem: кокотать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: кокотать
+-lexeme
+ lex: колдовать
+ stem: колдовать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: колдовать
+-lexeme
+ lex: колонизировать
+ stem: колонизировать.
+ gramm: V,rus,rus_inf,rus_pfv_ipfv
+ paradigm: Comparative
+ trans_ru: колонизировать
+-lexeme
+ lex: колоть
+ stem: колоть.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: колоть
+-lexeme
+ lex: комментировать
+ stem: коммнетировать.
+ gramm: V,rus,rus_inf,rus_ipfv,missp
+ paradigm: Comparative
+ trans_ru: комментировать
+-lexeme
+ lex: комментить
+ stem: комментить.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: комментить
+-lexeme
+ lex: компрометировать
+ stem: компрометировать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: компрометировать
+-lexeme
+ lex: конкурировать
+ stem: конкурировать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: конкурировать
+-lexeme
+ lex: контактировать
+ stem: контактировать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: контактировать
+-lexeme
+ lex: конфликтовать
+ stem: конфликтовать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: конфликтовать
+-lexeme
+ lex: копошиться
+ stem: копошиться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: копошиться
+-lexeme
+ lex: кормить
+ stem: кормить.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: кормить
+-lexeme
+ lex: кормитьтыны
+ stem: кормитьт.
+ gramm: V,I,rus,rus_ipfv
+ paradigm: connect_verbs-I
+ trans_ru: кормить
+-lexeme
+ lex: короновать
+ stem: короновать.
+ gramm: V,rus,rus_inf,rus_pfv_ipfv
+ paradigm: Comparative
+ trans_ru: короновать
+-lexeme
+ lex: корректировать
+ stem: корректировать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: корректировать
+-lexeme
+ lex: коснуться
+ stem: коснуться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: коснуться
+-lexeme
+ lex: косячить
+ stem: косячить.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: косячить
+-lexeme
+ lex: кремироватьтыны
+ stem: кремироватьт.
+ gramm: V,I,rus,rus_pfv_ipfv
+ paradigm: connect_verbs-I
+ trans_ru: кремировать
+-lexeme
+ lex: криативить
+ stem: криативить.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: криативить
+-lexeme
+ lex: крикнуть
+ stem: крикнуть.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: крикнуть
+-lexeme
+ lex: крионить
+ stem: крионить.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: крионить
+-lexeme
+ lex: кричать
+ stem: кричать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: кричать
+-lexeme
+ lex: кружить
+ stem: кружить.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: кружить
+-lexeme
+ lex: крутить
+ stem: крутить.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: крутить
+-lexeme
+ lex: крышевать
+ stem: крышевать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: крышевать
+-lexeme
+ lex: купаться
+ stem: купаться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: купаться
+-lexeme
+ lex: курить
+ stem: курить.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: курить
+-lexeme
+ lex: кутитьтыны
+ stem: кутитьт.
+ gramm: V,I,rus,rus_ipfv
+ paradigm: connect_verbs-I
+ trans_ru: кутить
+-lexeme
+ lex: кышкать
+ stem: кышкать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: кышкать
+-lexeme
+ lex: ладить
+ stem: ладить.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: ладить
+-lexeme
+ lex: лажатьтыны
+ stem: лажатьт.
+ gramm: V,I,rus,rus_ipfv
+ paradigm: connect_verbs-I
+ trans_ru: лажать
+-lexeme
+ lex: лайкать
+ stem: лайкать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: лайкать
+-lexeme
+ lex: лайкатьтыны
+ stem: лайкатьт.
+ gramm: V,I,rus,rus_ipfv
+ paradigm: connect_verbs-I
+ trans_ru: лайкать
+-lexeme
+ lex: лаковать
+ stem: лаковать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: лаковать
+-lexeme
+ lex: ласкаться
+ stem: ласкаться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: ласкаться
+-lexeme
+ lex: лаять
+ stem: лаять.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: лаять
+-lexeme
+ lex: лежать
+ stem: лежать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: лежать
+-lexeme
+ lex: литься
+ stem: литься.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: литься
+-lexeme
+ lex: лоббировать
+ stem: лоббировать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: лоббировать
+-lexeme
+ lex: ловить
+ stem: ловить.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: ловить
+-lexeme
+ lex: ломаться
+ stem: ломаться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: ломаться
+-lexeme
+ lex: лоховать
+ stem: лоховать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: лоховать
+-lexeme
+ lex: лыбиться
+ stem: лыбиться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: лыбиться
+-lexeme
+ lex: льстить
+ stem: льстить.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: льстить
+-lexeme
+ lex: ляпнуть
+ stem: ляпнуть.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: ляпнуть
+-lexeme
+ lex: макать
+ stem: макать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: макать
+-lexeme
+ lex: мандражить
+ stem: мандражить.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: мандражить
+-lexeme
+ lex: материться
+ stem: материться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: материться
+-lexeme
+ lex: материтьтыны
+ stem: материтьт.
+ gramm: V,I,rus,rus_ipfv
+ paradigm: connect_verbs-I
+ trans_ru: материть
+-lexeme
+ lex: медлить
+ stem: медлить.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: медлить
+-lexeme
+ lex: меняться
+ stem: меняться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: меняться
+-lexeme
+ lex: мерещиться
+ stem: мерещиться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: мерещиться
+-lexeme
+ lex: месить
+ stem: месить.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: месить
+-lexeme
+ lex: метать
+ stem: метать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: метать
+-lexeme
+ lex: метнуть
+ stem: метнуть.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: метнуть
+-lexeme
+ lex: мешатьтыны
+ stem: мещатьт.
+ gramm: V,I,rus,rus_ipfv,missp
+ paradigm: connect_verbs-I
+ trans_ru: мешать
+-lexeme
+ lex: митинговать
+ stem: митинговать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: митинговать
+-lexeme
+ lex: мифологизировать
+ stem: мифологизировать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: мифологизировать
+-lexeme
+ lex: модифицировать
+ stem: модифицировать.
+ gramm: V,rus,rus_inf,rus_pfv_ipfv
+ paradigm: Comparative
+ trans_ru: модифицировать
+-lexeme
+ lex: монтировать
+ stem: мантировать.
+ gramm: V,rus,rus_inf,rus_ipfv,missp
+ paradigm: Comparative
+ trans_ru: монтировать
+-lexeme
+ lex: моросить
+ stem: моросить.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: моросить
+-lexeme
+ lex: мочитьтыны
+ stem: мочитьт.
+ gramm: V,I,rus,rus_ipfv
+ paradigm: connect_verbs-I
+ trans_ru: мочить
+-lexeme
+ lex: мстить
+ stem: мстить.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: мстить
+-lexeme
+ lex: мутитьтыны
+ stem: мутитьт.
+ gramm: V,I,rus,rus_ipfv
+ paradigm: connect_verbs-I
+ trans_ru: мутить
+-lexeme
+ lex: мучитьтыны
+ stem: мучитьт.
+ gramm: V,I,rus,rus_ipfv
+ paradigm: connect_verbs-I
+ trans_ru: мучить
+-lexeme
+ lex: мыться
+ stem: мыться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: мыться
+-lexeme
+ lex: мёрзнуть
+ stem: мёрзнуть.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: мёрзнуть
+-lexeme
+ lex: набегаться
+ stem: набегаться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: набегаться
+-lexeme
+ lex: набирать
+ stem: набирать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: набирать
+-lexeme
+ lex: навестить
+ stem: навестить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: навестить
+-lexeme
+ lex: навредить
+ stem: навредить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: навредить
+-lexeme
+ lex: навязывать
+ stem: навязывать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: навязывать
+-lexeme
+ lex: наглядеться
+ stem: наглядеться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: наглядеться
+-lexeme
+ lex: нагревать
+ stem: нагревать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: нагревать
+-lexeme
+ lex: нагреть
+ stem: нагреть.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: нагреть
+-lexeme
+ lex: надеяться
+ stem: надеяться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: надеяться
+-lexeme
+ lex: надоедать
+ stem: надоедать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: надоедать
+-lexeme
+ lex: надсадиться
+ stem: надсадиться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: надсадиться
+-lexeme
+ lex: надышаться
+ stem: надышаться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: надышаться
+-lexeme
+ lex: наезжать
+ stem: наежать.
+ gramm: V,rus,rus_inf,rus_ipfv,missp
+ paradigm: Comparative
+ trans_ru: наезжать
+-lexeme
+ lex: назвать
+ stem: назвать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: назвать
+-lexeme
+ lex: назначать
+ stem: назначать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: назначать
+-lexeme
+ lex: накладывать
+ stem: накладывать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: накладывать
+-lexeme
+ lex: наклонять
+ stem: наклонять.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: наклонять
+-lexeme
+ lex: накормить
+ stem: накормить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: накормить
+-lexeme
+ lex: накрошить
+ stem: накрошить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: накрошить
+-lexeme
+ lex: налаживать
+ stem: налаживать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: налаживать
+-lexeme
+ lex: наливать
+ stem: наливать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: наливать
+-lexeme
+ lex: налить
+ stem: налить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: налить
+-lexeme
+ lex: наложить
+ stem: наложить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: наложить
+-lexeme
+ lex: наложить
+ stem: наложтить.
+ gramm: V,rus,rus_inf,rus_pfv,missp
+ paradigm: Comparative
+ trans_ru: наложить
+-lexeme
+ lex: намекать
+ stem: намекать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: намекать
+-lexeme
+ lex: намереваться
+ stem: намереваться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: намереваться
+-lexeme
+ lex: нанизать
+ stem: нанизать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: нанизать
+-lexeme
+ lex: нанимать
+ stem: нанимать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: нанимать
+-lexeme
+ lex: нападать
+ stem: нападать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: нападать
+-lexeme
+ lex: напирать
+ stem: нипарать.
+ gramm: V,rus,rus_inf,rus_ipfv,missp
+ paradigm: Comparative
+ trans_ru: напирать
+-lexeme
+ lex: напиться
+ stem: напиться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: напиться
+-lexeme
+ lex: напомнить
+ stem: напомнить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: напомнить
+-lexeme
+ lex: направить
+ stem: направить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: направить
+-lexeme
+ lex: наработаться
+ stem: наработаться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: наработаться
+-lexeme
+ lex: нарадоваться
+ stem: нарадоваться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: нарадоваться
+-lexeme
+ lex: нарисовать
+ stem: нарисовать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: нарисовать
+-lexeme
+ lex: нарубить
+ stem: нарубить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: нарубить
+-lexeme
+ lex: нарушить
+ stem: нарушить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: нарушить
+-lexeme
+ lex: насладиться
+ stem: насладиться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: насладиться
+-lexeme
+ lex: настлать
+ stem: настлать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: настлать
+-lexeme
+ lex: настраивать
+ stem: настраивать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: настраивать
+-lexeme
+ lex: настраиватьтыны
+ stem: настраиватьт.
+ gramm: V,I,rus,rus_ipfv
+ paradigm: connect_verbs-I
+ trans_ru: настраивать
+-lexeme
+ lex: настроить
+ stem: настроить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: настроить
+-lexeme
+ lex: насытиться
+ stem: насытиться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: насытиться
+-lexeme
+ lex: натаскивать
+ stem: натаскивать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: натаскивать
+-lexeme
+ lex: национализировать
+ stem: национализировать.
+ gramm: V,rus,rus_inf,rus_pfv_ipfv
+ paradigm: Comparative
+ trans_ru: национализировать
+-lexeme
+ lex: начинать
+ stem: начинать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: начинать
+-lexeme
+ lex: начинаться
+ stem: начинаться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: начинаться
+-lexeme
+ lex: нашинковать
+ stem: нашинковать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: нашинковать
+-lexeme
+ lex: наябыватьтыны
+ stem: наябыватьт.
+ gramm: V,I,rus,rus_ipfv
+ paradigm: connect_verbs-I
+ trans_ru: наябывать
+-lexeme
+ lex: недовольствовать
+ stem: недовольствовать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: недовольствовать
+-lexeme
+ lex: нервировать
+ stem: нервировать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: нервировать
+-lexeme
+ lex: нервничать
+ stem: нерничать.
+ gramm: V,rus,rus_inf,rus_ipfv,missp
+ paradigm: Comparative
+ trans_ru: нервничать
+-lexeme
+ lex: нервничатьтыны
+ stem: нервничатьт.
+ gramm: V,I,rus,rus_ipfv
+ paradigm: connect_verbs-I
+ trans_ru: нервничать
+-lexeme
+ lex: носить
+ stem: носить.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: носить
+-lexeme
+ lex: ностальгировать
+ stem: ностальгировать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: ностальгировать
+-lexeme
+ lex: ночевать
+ stem: ночевать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: ночевать
+-lexeme
+ lex: нырять
+ stem: нырять.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: нырять
+-lexeme
+ lex: няшкать
+ stem: няшкать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: няшкать
+-lexeme
+ lex: обанкротиться
+ stem: обанкротиться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: обанкротиться
+-lexeme
+ lex: обвинить
+ stem: обвинить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: обвинить
+-lexeme
+ lex: обвинять
+ stem: обвинять.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: обвинять
+-lexeme
+ lex: обеспечивать
+ stem: обеспечивать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: обеспечивать
+-lexeme
+ lex: обессилеть
+ stem: обессилеть.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: обессилеть
+-lexeme
+ lex: обещать
+ stem: обещать.
+ gramm: V,rus,rus_inf,rus_pfv_ipfv
+ paradigm: Comparative
+ trans_ru: обещать
+-lexeme
+ lex: обидеться
+ stem: обидеться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: обидеться
+-lexeme
+ lex: обижаться
+ stem: обижаться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: обижаться
+-lexeme
+ lex: обламыватьтыны
+ stem: обламыватьт.
+ gramm: V,I,rus,rus_ipfv
+ paradigm: connect_verbs-I
+ trans_ru: обламывать
+-lexeme
+ lex: облетать
+ stem: облетать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: облетать
+-lexeme
+ lex: обложить
+ stem: обложить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: обложить
+-lexeme
+ lex: обманывать
+ stem: обманывать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: обманывать
+-lexeme
+ lex: обманывать
+ stem: обманывыать.
+ gramm: V,rus,rus_inf,rus_ipfv,missp
+ paradigm: Comparative
+ trans_ru: обманывать
+-lexeme
+ lex: обмениваться
+ stem: обмениваться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: обмениваться
+-lexeme
+ lex: обнародовать
+ stem: обнародовать.
+ gramm: V,rus,rus_inf,rus_pfv_ipfv
+ paradigm: Comparative
+ trans_ru: обнародовать
+-lexeme
+ lex: обнимать
+ stem: обнимать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: обнимать
+-lexeme
+ lex: обновитьтыны
+ stem: обновитьт.
+ gramm: V,I,rus,rus_pfv
+ paradigm: connect_verbs-I
+ trans_ru: обновить
+-lexeme
+ lex: обновлять
+ stem: обновлять.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: обновлять
+-lexeme
+ lex: обнять
+ stem: обнять.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: обнять
+-lexeme
+ lex: обобщить
+ stem: обобщить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: обобщить
+-lexeme
+ lex: обогащать
+ stem: обогощать.
+ gramm: V,rus,rus_inf,rus_ipfv,missp
+ paradigm: Comparative
+ trans_ru: обогащать
+-lexeme
+ lex: оборвать
+ stem: оборвать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: оборвать
+-lexeme
+ lex: оборваться
+ stem: оборваться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: оборваться
+-lexeme
+ lex: обосновать
+ stem: обосновать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: обосновать
+-lexeme
+ lex: обосноваться
+ stem: обосноваться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: обосноваться
+-lexeme
+ lex: обосрать
+ stem: обосрать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: обосрать
+-lexeme
+ lex: обостряться
+ stem: обостряться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: обостряться
+-lexeme
+ lex: обработатьтыны
+ stem: обработатьт.
+ gramm: V,I,rus,rus_pfv
+ paradigm: connect_verbs-I
+ trans_ru: обработать
+-lexeme
+ lex: образоваться
+ stem: образоваться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: образоваться
+-lexeme
+ lex: образовываться
+ stem: образовываться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: образовываться
+-lexeme
+ lex: обрезать
+ stem: обрезать.
+ gramm: V,rus,rus_inf,rus_pfv_ipfv
+ paradigm: Comparative
+ trans_ru: обрезать
+-lexeme
+ lex: обрусеть
+ stem: обрусеть.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: обрусеть
+-lexeme
+ lex: обрываться
+ stem: обрываться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: обрываться
+-lexeme
+ lex: обсирать
+ stem: обсирать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: обсирать
+-lexeme
+ lex: обсуждать
+ stem: обсужать.
+ gramm: V,rus,rus_inf,rus_ipfv,missp
+ paradigm: Comparative
+ trans_ru: обсуждать
+-lexeme
+ lex: обуть
+ stem: обуть.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: обуть
+-lexeme
+ lex: обучать
+ stem: обучать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: обучать
+-lexeme
+ lex: объяснить
+ stem: объяснить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: объяснить
+-lexeme
+ lex: объяснять
+ stem: объяснять.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: объяснять
+-lexeme
+ lex: огорчаться
+ stem: огорчаться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: огорчаться
+-lexeme
+ lex: ограничивать
+ stem: ограничивать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: ограничивать
+-lexeme
+ lex: ограничиватьтыны
+ stem: ограничиватьт.
+ gramm: V,I,rus,rus_ipfv
+ paradigm: connect_verbs-I
+ trans_ru: ограничивать
+-lexeme
+ lex: одеваться
+ stem: одеваться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: одеваться
+-lexeme
+ lex: одеть
+ stem: одеть.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: одеть
+-lexeme
+ lex: одеться
+ stem: одеться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: одеться
+-lexeme
+ lex: ожидать
+ stem: ожидать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: ожидать
+-lexeme
+ lex: озвучивать
+ stem: озвучивать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: озвучивать
+-lexeme
+ lex: оказаться
+ stem: оказаться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: оказаться
+-lexeme
+ lex: окончить
+ stem: окончить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: окончить
+-lexeme
+ lex: олицетворять
+ stem: олицетворять.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: олицетворять
+-lexeme
+ lex: омертветь
+ stem: омертветь.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: омертветь
+-lexeme
+ lex: опаздывать
+ stem: опаздывать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: опаздывать
+-lexeme
+ lex: опалить
+ stem: опалить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: опалить
+-lexeme
+ lex: опереться
+ stem: опереться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: опереться
+-lexeme
+ lex: опираться
+ stem: опираться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: опираться
+-lexeme
+ lex: оповестить
+ stem: оповестить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: оповестить
+-lexeme
+ lex: опоздать
+ stem: опаздать.
+ gramm: V,rus,rus_inf,rus_pfv,missp
+ paradigm: Comparative
+ trans_ru: опоздать
+-lexeme
+ lex: опоздатьтыны
+ stem: опоздатьт.
+ gramm: V,I,rus,rus_pfv
+ paradigm: connect_verbs-I
+ trans_ru: опоздать
+-lexeme
+ lex: опозориться
+ stem: опозориться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: опозориться
+-lexeme
+ lex: ополоснуть
+ stem: ополоснуть.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: ополоснуть
+-lexeme
+ lex: определиться
+ stem: определиться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: определиться
+-lexeme
+ lex: определять
+ stem: определять.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: определять
+-lexeme
+ lex: опреснить
+ stem: опреснить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: опреснить
+-lexeme
+ lex: опрокинуть
+ stem: опрокинуть.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: опрокинуть
+-lexeme
+ lex: опрокинуться
+ stem: опрокинуться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: опрокинуться
+-lexeme
+ lex: опростоволоситьтыны
+ stem: опростоволоситьт.
+ gramm: V,I,rus,rus_pfv
+ paradigm: connect_verbs-I
+ trans_ru: опростоволосить
+-lexeme
+ lex: опубликовать
+ stem: обубликовать.
+ gramm: V,rus,rus_inf,rus_pfv,missp
+ paradigm: Comparative
+ trans_ru: опубликовать
+-lexeme
+ lex: опубликовать
+ stem: опубликовать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: опубликовать
+-lexeme
+ lex: опьянеть
+ stem: опьянеть.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: опьянеть
+-lexeme
+ lex: организоваться
+ stem: организоваться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: организоваться
+-lexeme
+ lex: организоватьтыны
+ stem: организоватьт.
+ gramm: V,I,rus,rus_pfv_ipfv
+ paradigm: connect_verbs-I
+ trans_ru: организовать
+-lexeme
+ lex: освежить
+ stem: освежить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: освежить
+-lexeme
+ lex: освободиться
+ stem: освободиться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: освободиться
+-lexeme
+ lex: освоить
+ stem: освоить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: освоить
+-lexeme
+ lex: осилить
+ stem: осилить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: осилить
+-lexeme
+ lex: оскорбить
+ stem: оскорбить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: оскорбить
+-lexeme
+ lex: оскорбиться
+ stem: оскорбиться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: оскорбиться
+-lexeme
+ lex: ослабеть
+ stem: ослабеть.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: ослабеть
+-lexeme
+ lex: ослабнуть
+ stem: ослабнуть.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: ослабнуть
+-lexeme
+ lex: осмеять
+ stem: осмеять.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: осмеять
+-lexeme
+ lex: оставить
+ stem: оставить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: оставить
+-lexeme
+ lex: оставитьтыны
+ stem: оставитьт.
+ gramm: V,I,rus,rus_pfv
+ paradigm: connect_verbs-I
+ trans_ru: оставить
+-lexeme
+ lex: остановиться
+ stem: остановиться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: остановиться
+-lexeme
+ lex: остаться
+ stem: остаться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: остаться
+-lexeme
+ lex: остроить
+ stem: остроить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: остроить
+-lexeme
+ lex: оступиться
+ stem: оступиться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: оступиться
+-lexeme
+ lex: остыть
+ stem: остыть.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: остыть
+-lexeme
+ lex: осуждать
+ stem: осуждать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: осуждать
+-lexeme
+ lex: осуществлять
+ stem: осуществлять.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: осуществлять
+-lexeme
+ lex: отатарить
+ stem: отатарить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: отатарить
+-lexeme
+ lex: отбитьтыны
+ stem: отбитьт.
+ gramm: V,I,rus,rus_pfv
+ paradigm: connect_verbs-I
+ trans_ru: отбить
+-lexeme
+ lex: отблагодарить
+ stem: отблагодарить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: отблагодарить
+-lexeme
+ lex: отбросить
+ stem: отбросить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: отбросить
+-lexeme
+ lex: отважиться
+ stem: отважиться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: отважиться
+-lexeme
+ lex: отведать
+ stem: отведать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: отведать
+-lexeme
+ lex: ответитьтыны
+ stem: ответитьт.
+ gramm: V,I,rus,rus_pfv
+ paradigm: connect_verbs-I
+ trans_ru: ответить
+-lexeme
+ lex: отгадать
+ stem: отгадать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: отгадать
+-lexeme
+ lex: отделить
+ stem: отделить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: отделить
+-lexeme
+ lex: отдохнуть
+ stem: отдохнуть.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: отдохнуть
+-lexeme
+ lex: отжиматься
+ stem: отжиматься.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: отжиматься
+-lexeme
+ lex: отказаться
+ stem: отказаться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: отказаться
+-lexeme
+ lex: отказываться
+ stem: отказываться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: отказываться
+-lexeme
+ lex: откачивать
+ stem: откачивать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: откачивать
+-lexeme
+ lex: отключатьтыны
+ stem: отключатьт.
+ gramm: V,I,rus,rus_ipfv
+ paradigm: connect_verbs-I
+ trans_ru: отключать
+-lexeme
+ lex: откопатьтыны
+ stem: откопатьт.
+ gramm: V,I,rus,rus_pfv
+ paradigm: connect_verbs-I
+ trans_ru: откопать
+-lexeme
+ lex: отложить
+ stem: отложить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: отложить
+-lexeme
+ lex: отмазаться
+ stem: отмазаться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: отмазаться
+-lexeme
+ lex: отметить
+ stem: отметить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: отметить
+-lexeme
+ lex: отметиться
+ stem: отметиться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: отметиться
+-lexeme
+ lex: отмечатьтыны
+ stem: отмечатьт.
+ gramm: V,I,rus,rus_ipfv
+ paradigm: connect_verbs-I
+ trans_ru: отмечать
+-lexeme
+ lex: отмывать
+ stem: отмывать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: отмывать
+-lexeme
+ lex: отмыть
+ stem: отмыть.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: отмыть
+-lexeme
+ lex: отозваться
+ stem: отозваться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: отозваться
+-lexeme
+ lex: отомстить
+ stem: отомстить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: отомстить
+-lexeme
+ lex: оторвать
+ stem: оторвать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: оторвать
+-lexeme
+ lex: оторваться
+ stem: оторваться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: оторваться
+-lexeme
+ lex: отоспаться
+ stem: отоспаться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: отоспаться
+-lexeme
+ lex: отписаться
+ stem: отписаться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: отписаться
+-lexeme
+ lex: отплясывать
+ stem: отплясывать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: отплясывать
+-lexeme
+ lex: отправиться
+ stem: отправиться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: отправиться
+-lexeme
+ lex: отправлять
+ stem: отправлять.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: отправлять
+-lexeme
+ lex: отпустить
+ stem: отпустить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: отпустить
+-lexeme
+ lex: отравлять
+ stem: отравлять.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: отравлять
+-lexeme
+ lex: отрастить
+ stem: отрастить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: отрастить
+-lexeme
+ lex: отрезать
+ stem: отрезать.
+ gramm: V,rus,rus_inf,rus_pfv_ipfv
+ paradigm: Comparative
+ trans_ru: отрезать
+-lexeme
+ lex: отрицать
+ stem: отрицать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: отрицать
+-lexeme
+ lex: отстаивать
+ stem: отсаивать.
+ gramm: V,rus,rus_inf,rus_ipfv,missp
+ paradigm: Comparative
+ trans_ru: отстаивать
+-lexeme
+ lex: отстать
+ stem: отстать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: отстать
+-lexeme
+ lex: отстоять
+ stem: отстоять.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: отстоять
+-lexeme
+ lex: отстранить
+ stem: отстранить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: отстранить
+-lexeme
+ lex: отстраняться
+ stem: отстраняться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: отстраняться
+-lexeme
+ lex: отступиться
+ stem: отступиться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: отступиться
+-lexeme
+ lex: оттачивать
+ stem: оттачивать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: оттачивать
+-lexeme
+ lex: отчитать
+ stem: отчитать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: отчитать
+-lexeme
+ lex: отчитаться
+ stem: отчитаться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: отчитаться
+-lexeme
+ lex: отчитываться
+ stem: отчитываться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: отчитываться
+-lexeme
+ lex: отшведить
+ stem: отшведить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: отшведить
+-lexeme
+ lex: отшведитьтыны
+ stem: отшведитьт.
+ gramm: V,I,rus,rus_pfv
+ paradigm: connect_verbs-I
+ trans_ru: отшведить
+-lexeme
+ lex: отыграть
+ stem: отыграть.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: отыграть
+-lexeme
+ lex: охватить
+ stem: охватить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: охватить
+-lexeme
+ lex: охиреть
+ stem: охиреть.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: охиреть
+-lexeme
+ lex: охладить
+ stem: охладить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: охладить
+-lexeme
+ lex: охотиться
+ stem: охотиться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: охотиться
+-lexeme
+ lex: охранять
+ stem: охранять.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: охранять
+-lexeme
+ lex: охуевать
+ stem: охуевать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: охуевать
+-lexeme
+ lex: оцениватьтыны
+ stem: оцениватьт.
+ gramm: V,I,rus,rus_ipfv
+ paradigm: connect_verbs-I
+ trans_ru: оценивать
+-lexeme
+ lex: очистить
+ stem: очистить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: очистить
+-lexeme
+ lex: очутиться
+ stem: очутиться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: очутиться
+-lexeme
+ lex: ошибаться
+ stem: ошибаться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: ошибаться
+-lexeme
+ lex: ошибиться
+ stem: ошибиться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: ошибиться
+-lexeme
+ lex: ощетиниться
+ stem: ощетиниться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: ощетиниться
+-lexeme
+ lex: падать
+ stem: падать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: падать
+-lexeme
+ lex: паковатьтыны
+ stem: паковатьт.
+ gramm: V,I,rus,rus_ipfv
+ paradigm: connect_verbs-I
+ trans_ru: паковать
+-lexeme
+ lex: палиться
+ stem: палиться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: палиться
+-lexeme
+ lex: палитьтыны
+ stem: палитьт.
+ gramm: V,I,rus,rus_ipfv
+ paradigm: connect_verbs-I
+ trans_ru: палить
+-lexeme
+ lex: парализовать
+ stem: парализовать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: парализовать
+-lexeme
+ lex: пачкать
+ stem: пачкать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: пачкать
+-lexeme
+ lex: перебить
+ stem: перебить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: перебить
+-lexeme
+ lex: переводить
+ stem: перводить.
+ gramm: V,rus,rus_inf,rus_ipfv,missp
+ paradigm: Comparative
+ trans_ru: переводить
+-lexeme
+ lex: переводиться
+ stem: переводиться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: переводиться
+-lexeme
+ lex: переводитьтыны
+ stem: переводитьт.
+ gramm: V,I,rus,rus_ipfv
+ paradigm: connect_verbs-I
+ trans_ru: переводить
+-lexeme
+ lex: перевоспитать
+ stem: перевоспитать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: перевоспитать
+-lexeme
+ lex: передавать
+ stem: передавать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: передавать
+-lexeme
+ lex: передаваться
+ stem: передаваться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: передаваться
+-lexeme
+ lex: передаватьтыны
+ stem: передаватьт.
+ gramm: V,I,rus,rus_ipfv
+ paradigm: connect_verbs-I
+ trans_ru: передавать
+-lexeme
+ lex: передатьтыны
+ stem: передатьт.
+ gramm: V,I,rus,rus_pfv
+ paradigm: connect_verbs-I
+ trans_ru: передать
+-lexeme
+ lex: переделать
+ stem: переделать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: переделать
+-lexeme
+ lex: переживатьтыны
+ stem: переживатьт.
+ gramm: V,I,rus,rus_ipfv
+ paradigm: connect_verbs-I
+ trans_ru: переживать
+-lexeme
+ lex: перезалить
+ stem: перезалить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: перезалить
+-lexeme
+ lex: перезаписать
+ stem: перезаписать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: перезаписать
+-lexeme
+ lex: переиздать
+ stem: переиздать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: переиздать
+-lexeme
+ lex: перекантоваться
+ stem: перекантоваться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: перекантоваться
+-lexeme
+ lex: перекрутить
+ stem: перекрутить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: перекрутить
+-lexeme
+ lex: переместить
+ stem: переместить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: переместить
+-lexeme
+ lex: перениматьтыны
+ stem: перениматьт.
+ gramm: V,I,rus,rus_ipfv
+ paradigm: connect_verbs-I
+ trans_ru: перенимать
+-lexeme
+ lex: переносить
+ stem: переносить.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: переносить
+-lexeme
+ lex: переодеваться
+ stem: переодеваться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: переодеваться
+-lexeme
+ lex: переодеться
+ stem: переодеться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: переодеться
+-lexeme
+ lex: переписать
+ stem: переписать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: переписать
+-lexeme
+ lex: переплыть
+ stem: переплыть.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: переплыть
+-lexeme
+ lex: перепостить
+ stem: перепостить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: перепостить
+-lexeme
+ lex: перерисовывать
+ stem: перерисовывать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: перерисовывать
+-lexeme
+ lex: переродиться
+ stem: переродиться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: переродиться
+-lexeme
+ lex: переснимать
+ stem: переснимать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: переснимать
+-lexeme
+ lex: перестараться
+ stem: перестараться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: перестараться
+-lexeme
+ lex: перестроить
+ stem: перестроить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: перестроить
+-lexeme
+ lex: переубеждать
+ stem: переубеждать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: переубеждать
+-lexeme
+ lex: перечислять
+ stem: перечислять.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: перечислять
+-lexeme
+ lex: перечить
+ stem: перечить.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: перечить
+-lexeme
+ lex: перфекционировать
+ stem: перфекционировать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: перфекционировать
+-lexeme
+ lex: пестритьтыны
+ stem: пестритьт.
+ gramm: V,I,rus,rus_ipfv
+ paradigm: connect_verbs-I
+ trans_ru: пестрить
+-lexeme
+ lex: пиаритьтыны
+ stem: пиаритьт.
+ gramm: V,I,rus,rus_ipfv
+ paradigm: connect_verbs-I
+ trans_ru: пиарить
+-lexeme
+ lex: пиздеть
+ stem: пиздеть.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: пиздеть
+-lexeme
+ lex: пилить
+ stem: пилить.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: пилить
+-lexeme
+ lex: плавать
+ stem: плавать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: плавать
+-lexeme
+ lex: плагиатить
+ stem: плагиатить.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: плагиатить
+-lexeme
+ lex: плакать
+ stem: плакать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: плакать
+-lexeme
+ lex: платить
+ stem: платить.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: платить
+-lexeme
+ lex: плевать
+ stem: плевать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: плевать
+-lexeme
+ lex: плюнуть
+ stem: плюнуть.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: плюнуть
+-lexeme
+ lex: плясать
+ stem: плясать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: плясать
+-lexeme
+ lex: победить
+ stem: победить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: победить
+-lexeme
+ lex: побледнеть
+ stem: побледнеть.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: побледнеть
+-lexeme
+ lex: поблёкнуть
+ stem: поблёкнуть.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: поблёкнуть
+-lexeme
+ lex: повернуть
+ stem: повернуть.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: повернуть
+-lexeme
+ lex: повернуться
+ stem: повернуться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: повернуться
+-lexeme
+ lex: повеселиться
+ stem: повеселиться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: повеселиться
+-lexeme
+ lex: повесить
+ stem: повесить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: повесить
+-lexeme
+ lex: повидать
+ stem: повидать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: повидать
+-lexeme
+ lex: повиснуть
+ stem: повиснуть.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: повиснуть
+-lexeme
+ lex: повторить
+ stem: повторить.//повториить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: повторить
+-lexeme
+ lex: повторитьтыны
+ stem: повторитьт.
+ gramm: V,I,rus,rus_pfv
+ paradigm: connect_verbs-I
+ trans_ru: повторить
+-lexeme
+ lex: повышать
+ stem: повышать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: повышать
+-lexeme
+ lex: погасить
+ stem: погасить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: погасить
+-lexeme
+ lex: погаснуть
+ stem: погаснуть.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: погаснуть
+-lexeme
+ lex: погибнуть
+ stem: погиднуть.
+ gramm: V,rus,rus_inf,rus_pfv,missp
+ paradigm: Comparative
+ trans_ru: погибнуть
+-lexeme
+ lex: погладить
+ stem: погладить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: погладить
+-lexeme
+ lex: поглощать
+ stem: поглощать.
+ gramm: V,rus,rus_inf
+ paradigm: Comparative
+ trans_ru: поглощать
+-lexeme
+ lex: погматьтыны
+ stem: погматьт.
+ gramm: V,I
+ paradigm: connect_verbs-I
+ trans_ru: 
+-lexeme
+ lex: поговорить
+ stem: поговорить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: поговорить
+-lexeme
+ lex: погрузить
+ stem: погрузить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: погрузить
+-lexeme
+ lex: погрузиться
+ stem: погрузиться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: погрузиться
+-lexeme
+ lex: подавлять
+ stem: подавлять.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: подавлять
+-lexeme
+ lex: подарить
+ stem: подарить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: подарить
+-lexeme
+ lex: подаритьтыны
+ stem: подаритьт.
+ gramm: V,I,rus,rus_pfv
+ paradigm: connect_verbs-I
+ trans_ru: подарить
+-lexeme
+ lex: подбирать
+ stem: подбирать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: подбирать
+-lexeme
+ lex: подглядывать
+ stem: подглядывать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: подглядывать
+-lexeme
+ lex: подгружать
+ stem: подгружать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: подгружать
+-lexeme
+ lex: поддаваться
+ stem: поддаваться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: поддаваться
+-lexeme
+ lex: поддакивать
+ stem: поддакивать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: поддакивать
+-lexeme
+ lex: поддержатьтыны
+ stem: поддержатьт.
+ gramm: V,I,rus,rus_pfv
+ paradigm: connect_verbs-I
+ trans_ru: поддержать
+-lexeme
+ lex: поддерживать
+ stem: потдерживать.
+ gramm: V,rus,rus_inf,rus_ipfv,missp
+ paradigm: Comparative
+ trans_ru: поддерживать
+-lexeme
+ lex: поддерживатьтыны
+ stem: поддерживатьт.
+ gramm: V,I,rus,rus_ipfv
+ paradigm: connect_verbs-I
+ trans_ru: поддерживать
+-lexeme
+ lex: подеградировать
+ stem: подеградировать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: подеградировать
+-lexeme
+ lex: поделиться
+ stem: поделиться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: поделиться
+-lexeme
+ lex: подержать
+ stem: подержать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: подержать
+-lexeme
+ lex: подзадеть
+ stem: подзадеть.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: подзадеть
+-lexeme
+ lex: подзадоривать
+ stem: подзадоривать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: подзадоривать
+-lexeme
+ lex: подкачать
+ stem: подкачать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: подкачать
+-lexeme
+ lex: подключать
+ stem: подключать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: подключать
+-lexeme
+ lex: подключаться
+ stem: подключаться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: подключаться
+-lexeme
+ lex: подключить
+ stem: подключить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: подключить
+-lexeme
+ lex: подкрепить
+ stem: подкрепить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: подкрепить
+-lexeme
+ lex: подниматься
+ stem: подниматься.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: подниматься
+-lexeme
+ lex: поднять
+ stem: поднять.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: поднять
+-lexeme
+ lex: подняться
+ stem: подняться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: подняться
+-lexeme
+ lex: подождать
+ stem: подождать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: подождать
+-lexeme
+ lex: подозревать
+ stem: подозревать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: подозревать
+-lexeme
+ lex: подписаться
+ stem: подписаться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: подписаться
+-lexeme
+ lex: подписывать
+ stem: подписывать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: подписывать
+-lexeme
+ lex: подписываться
+ stem: подписываться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: подписываться
+-lexeme
+ lex: подражать
+ stem: подражать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: подражать
+-lexeme
+ lex: подрезать
+ stem: подрезать.
+ gramm: V,rus,rus_inf,rus_pfv_ipfv
+ paradigm: Comparative
+ trans_ru: подрезать
+-lexeme
+ lex: подружиться
+ stem: подружиться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: подружиться
+-lexeme
+ lex: подсчитать
+ stem: подсчитать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: подсчитать
+-lexeme
+ lex: подтверждатьтыны
+ stem: подтверждатьт.
+ gramm: V,I,rus,rus_ipfv
+ paradigm: connect_verbs-I
+ trans_ru: подтверждать
+-lexeme
+ lex: подтягиваться
+ stem: подтягиваться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: подтягиваться
+-lexeme
+ lex: подчеркнуть
+ stem: подчеркнуть.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: подчеркнуть
+-lexeme
+ lex: подчинить
+ stem: подчинить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: подчинить
+-lexeme
+ lex: подчиняться
+ stem: подчиняться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: подчиняться
+-lexeme
+ lex: подшить
+ stem: подшить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: подшить
+-lexeme
+ lex: подъёбывать
+ stem: подъёбывать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: подъёбывать
+-lexeme
+ lex: подыгрыватьтыны
+ stem: подыгрыватьт.
+ gramm: V,I,rus,rus_ipfv
+ paradigm: connect_verbs-I
+ trans_ru: подыгрывать
+-lexeme
+ lex: поебать
+ stem: поебать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: поебать
+-lexeme
+ lex: поехать
+ stem: поехать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: поехать
+-lexeme
+ lex: пожить
+ stem: пожить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: пожить
+-lexeme
+ lex: позавидовать
+ stem: позавидовать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: позавидовать
+-lexeme
+ lex: позвать
+ stem: позвать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: позвать
+-lexeme
+ lex: позволить
+ stem: позволить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: позволить
+-lexeme
+ lex: позвонить
+ stem: позвонить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: позвонить
+-lexeme
+ lex: поздравлять
+ stem: поздравлять.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: поздравлять
+-lexeme
+ lex: позироватьтыны
+ stem: позирватьт.
+ gramm: V,I,rus,rus_ipfv,missp
+ paradigm: connect_verbs-I
+ trans_ru: позировать
+-lexeme
+ lex: позиционировать
+ stem: позиционировать.
+ gramm: V,rus,rus_inf,rus_pfv_ipfv
+ paradigm: Comparative
+ trans_ru: позиционировать
+-lexeme
+ lex: познакомить
+ stem: познакомить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: познакомить
+-lexeme
+ lex: позориться
+ stem: позориться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: позориться
+-lexeme
+ lex: поинстаграмиться
+ stem: поинстаграмиться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: поинстаграмиться
+-lexeme
+ lex: поискать
+ stem: поискать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: поискать
+-lexeme
+ lex: поймать
+ stem: поймать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: поймать
+-lexeme
+ lex: показать
+ stem: показать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: показать
+-lexeme
+ lex: показывать
+ stem: показывать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: показывать
+-lexeme
+ lex: покинуть
+ stem: поинуть.
+ gramm: V,rus,rus_inf,rus_pfv,missp
+ paradigm: Comparative
+ trans_ru: покинуть
+-lexeme
+ lex: поклониться
+ stem: поклониться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: поклониться
+-lexeme
+ lex: покоритьтыны
+ stem: покоритьт.
+ gramm: V,I,rus,rus_pfv
+ paradigm: connect_verbs-I
+ trans_ru: покорить
+-lexeme
+ lex: покрываться
+ stem: покрываться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: покрываться
+-lexeme
+ lex: покрыться
+ stem: покрыться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: покрыться
+-lexeme
+ lex: полететь
+ stem: полететь.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: полететь
+-lexeme
+ lex: поливать
+ stem: поливать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: поливать
+-lexeme
+ lex: полить
+ stem: полить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: полить
+-lexeme
+ lex: положить
+ stem: положить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: положить
+-lexeme
+ lex: полоть
+ stem: полоть.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: полоть
+-lexeme
+ lex: получаться
+ stem: получаться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: получаться
+-lexeme
+ lex: помещаться
+ stem: помещаться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: помещаться
+-lexeme
+ lex: понравиться
+ stem: понравиться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: понравиться
+-lexeme
+ lex: понтоваться
+ stem: понтоваться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: понтоваться
+-lexeme
+ lex: понять
+ stem: понять.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: понять
+-lexeme
+ lex: пообедать
+ stem: пообедать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: пообедать
+-lexeme
+ lex: поодержать
+ stem: поодержать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: поодержать
+-lexeme
+ lex: попадаться
+ stem: попадаться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: попадаться
+-lexeme
+ lex: попить
+ stem: попить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: попить
+-lexeme
+ lex: пополнить
+ stem: пополнить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: пополнить
+-lexeme
+ lex: поприветствовать
+ stem: поприветствовать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: поприветствовать
+-lexeme
+ lex: попробовать
+ stem: попробовать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: попробовать
+-lexeme
+ lex: поработить
+ stem: поработить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: поработить
+-lexeme
+ lex: породниться
+ stem: породниться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: породниться
+-lexeme
+ lex: портить
+ stem: портить.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: портить
+-lexeme
+ lex: портиться
+ stem: портиться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: портиться
+-lexeme
+ lex: порхать
+ stem: порхать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: порхать
+-lexeme
+ lex: посадить
+ stem: посадить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: посадить
+-lexeme
+ lex: поселиться
+ stem: поселиться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: поселиться
+-lexeme
+ lex: посетить
+ stem: посетить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: посетить
+-lexeme
+ lex: посещать
+ stem: посещать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: посещать
+-lexeme
+ lex: послушать
+ stem: послушать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: послушать
+-lexeme
+ lex: посоветоваться
+ stem: посоветоваться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: посоветоваться
+-lexeme
+ lex: поспеть
+ stem: поспеть.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: поспеть
+-lexeme
+ lex: посрать
+ stem: посрать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: посрать
+-lexeme
+ lex: поставить
+ stem: поставить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: поставить
+-lexeme
+ lex: постановить
+ stem: постановить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: постановить
+-lexeme
+ lex: постебать
+ stem: постебать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: постебать
+-lexeme
+ lex: пострадать
+ stem: пострадать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: пострадать
+-lexeme
+ lex: построить
+ stem: построить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: построить
+-lexeme
+ lex: поступать
+ stem: потупать.
+ gramm: V,rus,rus_inf,rus_ipfv,missp
+ paradigm: Comparative
+ trans_ru: поступать
+-lexeme
+ lex: поступатьтыны
+ stem: поступатьт.
+ gramm: V,I,rus,rus_ipfv
+ paradigm: connect_verbs-I
+ trans_ru: поступать
+-lexeme
+ lex: поступитьтыны
+ stem: поступитьт.
+ gramm: V,I,rus,rus_pfv
+ paradigm: connect_verbs-I
+ trans_ru: поступить
+-lexeme
+ lex: посыпать
+ stem: посыпать.
+ gramm: V,rus,rus_inf,rus_pfv_ipfv
+ paradigm: Comparative
+ trans_ru: посыпать
+-lexeme
+ lex: потеплеть
+ stem: потеплеть.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: потеплеть
+-lexeme
+ lex: потерять
+ stem: потерять.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: потерять
+-lexeme
+ lex: потеть
+ stem: потеть.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: потеть
+-lexeme
+ lex: потушить
+ stem: потушить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: потушить
+-lexeme
+ lex: потягиваться
+ stem: потягиваться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: потягиваться
+-lexeme
+ lex: похмеляться
+ stem: похмеляться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: похмеляться
+-lexeme
+ lex: похолодать
+ stem: похолодать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: похолодать
+-lexeme
+ lex: похоронить
+ stem: похоронить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: похоронить
+-lexeme
+ lex: поцарапаться
+ stem: поцарапаться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: поцарапаться
+-lexeme
+ lex: поцеловать
+ stem: поцеловать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: поцеловать
+-lexeme
+ lex: почитать
+ stem: почитать.
+ gramm: V,rus,rus_inf,rus_pfv_ipfv
+ paradigm: Comparative
+ trans_ru: почитать
+-lexeme
+ lex: почтить
+ stem: почтить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: почтить
+-lexeme
+ lex: пошевелиться
+ stem: пошевелиться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: пошевелиться
+-lexeme
+ lex: пошулдыръяськонить
+ stem: пошулдыръяськонить.
+ gramm: V,rus_afx,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: пошулдыръяськонить
+-lexeme
+ lex: пошуметь
+ stem: пошуметь.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: пошуметь
+-lexeme
+ lex: праздновать
+ stem: праздновать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: праздновать
+-lexeme
+ lex: превратить
+ stem: превратить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: превратить
+-lexeme
+ lex: предложитьтыны
+ stem: предложитьт.
+ gramm: V,I,rus,rus_pfv
+ paradigm: connect_verbs-I
+ trans_ru: предложить
+-lexeme
+ lex: предохраняться
+ stem: предохраняться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: предохраняться
+-lexeme
+ lex: предполагать
+ stem: предполагать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: предполагать
+-lexeme
+ lex: представитьтыны
+ stem: представитьт.
+ gramm: V,I,rus,rus_pfv
+ paradigm: connect_verbs-I
+ trans_ru: представить
+-lexeme
+ lex: представляться
+ stem: представляться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: представляться
+-lexeme
+ lex: представлятьтыны
+ stem: представлятьт.
+ gramm: V,I,rus,rus_ipfv
+ paradigm: connect_verbs-I
+ trans_ru: представлять
+-lexeme
+ lex: предупредить
+ stem: предупредить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: предупредить
+-lexeme
+ lex: предусматривать
+ stem: предусматривать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: предусматривать
+-lexeme
+ lex: предчувствовать
+ stem: предчувствовать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: предчувствовать
+-lexeme
+ lex: презентировать
+ stem: презентировать.
+ gramm: V,rus,rus_inf,rus_pfv_ipfv
+ paradigm: Comparative
+ trans_ru: презентировать
+-lexeme
+ lex: презентовать
+ stem: перзентовать.
+ gramm: V,rus,rus_inf,rus_pfv_ipfv,missp
+ paradigm: Comparative
+ trans_ru: презентовать
+-lexeme
+ lex: презентоватьтыны
+ stem: презентоватьт.
+ gramm: V,I,rus,rus_pfv_ipfv
+ paradigm: connect_verbs-I
+ trans_ru: презентовать
+-lexeme
+ lex: преодолеть
+ stem: преодолеть.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: преодолеть
+-lexeme
+ lex: прервать
+ stem: прервать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: прервать
+-lexeme
+ lex: претендовать
+ stem: претендовать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: претендовать
+-lexeme
+ lex: преуспеть
+ stem: преуспеть.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: преуспеть
+-lexeme
+ lex: прибежать
+ stem: прибежать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: прибежать
+-lexeme
+ lex: прибить
+ stem: прибить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: прибить
+-lexeme
+ lex: приблизиться
+ stem: приблизиться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: приблизиться
+-lexeme
+ lex: привередничать
+ stem: привередничать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: привередничать
+-lexeme
+ lex: привлекать
+ stem: привлекать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: привлекать
+-lexeme
+ lex: привязать
+ stem: привязать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: привязать
+-lexeme
+ lex: привязаться
+ stem: привязаться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: привязаться
+-lexeme
+ lex: пригласить
+ stem: пригласить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: пригласить
+-lexeme
+ lex: пригубить
+ stem: пригубить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: пригубить
+-lexeme
+ lex: приехать
+ stem: приехать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: приехать
+-lexeme
+ lex: прижать
+ stem: прижать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: прижать
+-lexeme
+ lex: признавать
+ stem: признавать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: признавать
+-lexeme
+ lex: призывать
+ stem: призывать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: призывать
+-lexeme
+ lex: прикоснуться
+ stem: прикоснуться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: прикоснуться
+-lexeme
+ lex: прилететь
+ stem: прилететь.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: прилететь
+-lexeme
+ lex: применить
+ stem: применить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: применить
+-lexeme
+ lex: примерить
+ stem: примерить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: примерить
+-lexeme
+ lex: приметить
+ stem: приметить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: приметить
+-lexeme
+ lex: примчать
+ stem: примчать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: примчать
+-lexeme
+ lex: принижать
+ stem: принижать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: принижать
+-lexeme
+ lex: приносить
+ stem: приносить.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: приносить
+-lexeme
+ lex: приостановить
+ stem: приостановить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: приостановить
+-lexeme
+ lex: приписать
+ stem: приписать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: приписать
+-lexeme
+ lex: приплющить
+ stem: приплющить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: приплющить
+-lexeme
+ lex: прислушиваться
+ stem: прислушиваться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: прислушиваться
+-lexeme
+ lex: приспосабливаться
+ stem: приспасабливаться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv,missp
+ paradigm: Comparative
+ trans_ru: приспосабливаться
+-lexeme
+ lex: приспосабливаться
+ stem: приспосабливаться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: приспосабливаться
+-lexeme
+ lex: приспособиться
+ stem: приспособиться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: приспособиться
+-lexeme
+ lex: пристыдить
+ stem: пристыдить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: пристыдить
+-lexeme
+ lex: приурочить
+ stem: приурочить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: приурочить
+-lexeme
+ lex: приходить
+ stem: приходить.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: приходить
+-lexeme
+ lex: пробитьтыны
+ stem: пробитьт.
+ gramm: V,I,rus,rus_pfv
+ paradigm: connect_verbs-I
+ trans_ru: пробить
+-lexeme
+ lex: пробовать
+ stem: пробовать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: пробовать
+-lexeme
+ lex: провалиться
+ stem: провалиться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: провалиться
+-lexeme
+ lex: проварить
+ stem: проварить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: проварить
+-lexeme
+ lex: проветриться
+ stem: проветриться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: проветриться
+-lexeme
+ lex: проводить
+ stem: проводить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: проводить
+-lexeme
+ lex: провонять
+ stem: провонять.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: провонять
+-lexeme
+ lex: прогневить
+ stem: прогневить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: прогневить
+-lexeme
+ lex: проговориться
+ stem: проговориться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: проговориться
+-lexeme
+ lex: проголодаться
+ stem: проголодаться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: проголодаться
+-lexeme
+ lex: проголосовать
+ stem: проголосовать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: проголосовать
+-lexeme
+ lex: прогонять
+ stem: прогонять.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: прогонять
+-lexeme
+ lex: прогуляться
+ stem: прогуляться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: прогуляться
+-lexeme
+ lex: продолжаться
+ stem: продолжаться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: продолжаться
+-lexeme
+ lex: продолжить
+ stem: продолжить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: продолжить
+-lexeme
+ lex: продумать
+ stem: продумать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: продумать
+-lexeme
+ lex: продырявить
+ stem: продырявить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: продырявить
+-lexeme
+ lex: прозвонить
+ stem: прозвонить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: прозвонить
+-lexeme
+ lex: прозвучать
+ stem: прозвучать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: прозвучать
+-lexeme
+ lex: проигнорировать
+ stem: проигнорировать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: проигнорировать
+-lexeme
+ lex: производить
+ stem: производить.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: производить
+-lexeme
+ lex: проказничать
+ stem: проказничать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: проказничать
+-lexeme
+ lex: прокатиться
+ stem: прокатиться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: прокатиться
+-lexeme
+ lex: прокачиватьтыны
+ stem: прокачиватьт.
+ gramm: V,I,rus,rus_ipfv
+ paradigm: connect_verbs-I
+ trans_ru: прокачивать
+-lexeme
+ lex: прокомментировать
+ stem: прокомментировать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: прокомментировать
+-lexeme
+ lex: промочить
+ stem: промочить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: промочить
+-lexeme
+ lex: пропагандировать
+ stem: пропогандировать.
+ gramm: V,rus,rus_inf,rus_ipfv,missp
+ paradigm: Comparative
+ trans_ru: пропагандировать
+-lexeme
+ lex: пропеть
+ stem: пропеть.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: пропеть
+-lexeme
+ lex: пропиарить
+ stem: пропиарить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: пропиарить
+-lexeme
+ lex: прорастать
+ stem: прорастать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: прорастать
+-lexeme
+ lex: просветляться
+ stem: просветляться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: просветляться
+-lexeme
+ lex: просить
+ stem: просить.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: просить
+-lexeme
+ lex: прославиться
+ stem: прославиться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: прославиться
+-lexeme
+ lex: прослеживаться
+ stem: прослеживаться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: прослеживаться
+-lexeme
+ lex: проститьтыны
+ stem: проститьт.
+ gramm: V,I,rus,rus_pfv
+ paradigm: connect_verbs-I
+ trans_ru: простить
+-lexeme
+ lex: просунуться
+ stem: просунуться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: просунуться
+-lexeme
+ lex: просыпать
+ stem: просыпать.
+ gramm: V,rus,rus_inf,rus_pfv_ipfv
+ paradigm: Comparative
+ trans_ru: просыпать
+-lexeme
+ lex: проталкивать
+ stem: проталкивать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: проталкивать
+-lexeme
+ lex: противопоставить
+ stem: противопоставить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: противопоставить
+-lexeme
+ lex: противопоставлять
+ stem: противопоставлять.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: противопоставлять
+-lexeme
+ lex: противостоять
+ stem: противостоять.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: противостоять
+-lexeme
+ lex: протолкнуть
+ stem: протолкнуть.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: протолкнуть
+-lexeme
+ lex: процедить
+ stem: процедить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: процедить
+-lexeme
+ lex: процитировать
+ stem: процитировать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: процитировать
+-lexeme
+ lex: прочитать
+ stem: прочитать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: прочитать
+-lexeme
+ lex: прочувствовать
+ stem: прочувствовать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: прочувствовать
+-lexeme
+ lex: прощать
+ stem: прощать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: прощать
+-lexeme
+ lex: прощатьтыны
+ stem: прощатьт.
+ gramm: V,I,rus,rus_ipfv
+ paradigm: connect_verbs-I
+ trans_ru: прощать
+-lexeme
+ lex: прояснить
+ stem: прояснить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: прояснить
+-lexeme
+ lex: прыгнуть
+ stem: прыгнуть.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: прыгнуть
+-lexeme
+ lex: прятаться
+ stem: прятаться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: прятаться
+-lexeme
+ lex: пускать
+ stem: пускать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: пускать
+-lexeme
+ lex: пустодельничать
+ stem: пустодельничать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: пустодельничать
+-lexeme
+ lex: путать
+ stem: путать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: путать
+-lexeme
+ lex: путаться
+ stem: путаться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: путаться
+-lexeme
+ lex: пфыкатьтыны
+ stem: пфыкатьт.
+ gramm: V,I,rus,rus_ipfv
+ paradigm: connect_verbs-I
+ trans_ru: пфыкать
+-lexeme
+ lex: пытаться
+ stem: пытаться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: пытаться
+-lexeme
+ lex: пьянеть
+ stem: пьянеть.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: пьянеть
+-lexeme
+ lex: работать
+ stem: работыть.
+ gramm: V,rus,rus_inf,rus_ipfv,missp
+ paradigm: Comparative
+ trans_ru: работать
+-lexeme
+ lex: радоваться
+ stem: радоваться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: радоваться
+-lexeme
+ lex: разбазаривать
+ stem: разбазаривать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: разбазаривать
+-lexeme
+ lex: разбаловать
+ stem: разбаловать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: разбаловать
+-lexeme
+ lex: разбаловаться
+ stem: разбаловаться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: разбаловаться
+-lexeme
+ lex: разбить
+ stem: разбить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: разбить
+-lexeme
+ lex: разбиться
+ stem: разбиться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: разбиться
+-lexeme
+ lex: разбросать
+ stem: разбросать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: разбросать
+-lexeme
+ lex: развариваться
+ stem: развариваться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: развариваться
+-lexeme
+ lex: развесить
+ stem: развесить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: развесить
+-lexeme
+ lex: развешиваться
+ stem: развешиваться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: развешиваться
+-lexeme
+ lex: развить
+ stem: развить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: развить
+-lexeme
+ lex: развлекаться
+ stem: развлекаться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: развлекаться
+-lexeme
+ lex: раздваиватьтыны
+ stem: раздваиватьт.
+ gramm: V,I,rus,rus_ipfv
+ paradigm: connect_verbs-I
+ trans_ru: раздваивать
+-lexeme
+ lex: раздеваться
+ stem: раздеваться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: раздеваться
+-lexeme
+ lex: разделить
+ stem: разделить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: разделить
+-lexeme
+ lex: разделять
+ stem: разделять.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: разделять
+-lexeme
+ lex: раздеть
+ stem: раздеть.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: раздеть
+-lexeme
+ lex: раздражать
+ stem: раздражать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: раздражать
+-lexeme
+ lex: разлагаться
+ stem: разлагаться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: разлагаться
+-lexeme
+ lex: разложить
+ stem: разложить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: разложить
+-lexeme
+ lex: разлучаться
+ stem: разлучаться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: разлучаться
+-lexeme
+ lex: разместить
+ stem: разместить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: разместить
+-lexeme
+ lex: размораживать
+ stem: размораживать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: размораживать
+-lexeme
+ lex: размораживаться
+ stem: размораживаться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: размораживаться
+-lexeme
+ lex: размять
+ stem: размять.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: размять
+-lexeme
+ lex: разнимать
+ stem: разнимать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: разнимать
+-lexeme
+ lex: разносить
+ stem: разносить.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: разносить
+-lexeme
+ lex: разобидеться
+ stem: разобидеться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: разобидеться
+-lexeme
+ lex: разоблачить
+ stem: разоблачить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: разоблачить
+-lexeme
+ lex: разобрать
+ stem: разобрать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: разобрать
+-lexeme
+ lex: разобраться
+ stem: разобраться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: разобраться
+-lexeme
+ lex: разогнать
+ stem: разогнать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: разогнать
+-lexeme
+ lex: разочаровать
+ stem: разочаровать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: разочаровать
+-lexeme
+ lex: разочароваться
+ stem: разочароваться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: разочароваться
+-lexeme
+ lex: разочароватьтыны
+ stem: разочароватьт.
+ gramm: V,I,rus,rus_ipfv
+ paradigm: connect_verbs-I
+ trans_ru: разочаровать
+-lexeme
+ lex: разрешать
+ stem: разрешать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: разрешать
+-lexeme
+ lex: разрубить
+ stem: разрубить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: разрубить
+-lexeme
+ lex: разрулить
+ stem: разрулить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: разрулить
+-lexeme
+ lex: разрушить
+ stem: разрушить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: разрушить
+-lexeme
+ lex: разъяриться
+ stem: разъяриться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: разъяриться
+-lexeme
+ lex: разыграть
+ stem: разыграть.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: разыграть
+-lexeme
+ lex: разыгрыватьтыны
+ stem: разыгрыватьт.
+ gramm: V,I,rus,rus_ipfv
+ paradigm: connect_verbs-I
+ trans_ru: разыгрывать
+-lexeme
+ lex: рапространять
+ stem: рапространять.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: рапространять
+-lexeme
+ lex: раскатать
+ stem: раскатать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: раскатать
+-lexeme
+ lex: расклеить
+ stem: расклеить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: расклеить
+-lexeme
+ lex: расколоться
+ stem: расколоться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: расколоться
+-lexeme
+ lex: раскрыться
+ stem: раскрыться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: раскрыться
+-lexeme
+ lex: распаковать
+ stem: распаковать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: распаковать
+-lexeme
+ lex: распиариться
+ stem: распиариться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: распиариться
+-lexeme
+ lex: распороть
+ stem: распороть.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: распороть
+-lexeme
+ lex: распоряжаться
+ stem: распоряжаться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: распоряжаться
+-lexeme
+ lex: распределить
+ stem: распределить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: распределить
+-lexeme
+ lex: распродаваться
+ stem: распродаваться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: распродаваться
+-lexeme
+ lex: распускаться
+ stem: распускаться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: распускаться
+-lexeme
+ lex: распустить
+ stem: распустить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: распустить
+-lexeme
+ lex: распутать
+ stem: распутать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: распутать
+-lexeme
+ lex: рассердиться
+ stem: рассердиться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: рассердиться
+-lexeme
+ lex: рассказать
+ stem: рассказать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: рассказать
+-lexeme
+ lex: рассказывать
+ stem: рассказывать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: рассказывать
+-lexeme
+ lex: расслабить
+ stem: раслабить.
+ gramm: V,rus,rus_inf,rus_pfv,missp
+ paradigm: Comparative
+ trans_ru: расслабить
+-lexeme
+ lex: расслабиться
+ stem: расслабиться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: расслабиться
+-lexeme
+ lex: расспрашивать
+ stem: расспрашивать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: расспрашивать
+-lexeme
+ lex: расставаться
+ stem: расставаться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: расставаться
+-lexeme
+ lex: расстилаться
+ stem: расстилаться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: расстилаться
+-lexeme
+ lex: расстраивать
+ stem: расстраивать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: расстраивать
+-lexeme
+ lex: расстрелять
+ stem: расстрелять.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: расстрелять
+-lexeme
+ lex: расстроить
+ stem: расстроить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: расстроить
+-lexeme
+ lex: рассуждатьтыны
+ stem: рассуждатьт.
+ gramm: V,I,rus,rus_ipfv
+ paradigm: connect_verbs-I
+ trans_ru: рассуждать
+-lexeme
+ lex: рассылать
+ stem: рассылать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: рассылать
+-lexeme
+ lex: раствориться
+ stem: раствориться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: раствориться
+-lexeme
+ lex: растопить
+ stem: растопить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: растопить
+-lexeme
+ lex: растянуться
+ stem: растянуться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: растянуться
+-lexeme
+ lex: расцеловать
+ stem: расцеловать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: расцеловать
+-lexeme
+ lex: расшириться
+ stem: расшириться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: расшириться
+-lexeme
+ lex: расширяться
+ stem: расширяться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: расширяться
+-lexeme
+ lex: расшифровать
+ stem: расшифровать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: расшифровать
+-lexeme
+ lex: ратифицировать
+ stem: ратифицировать.
+ gramm: V,rus,rus_inf,rus_pfv_ipfv
+ paradigm: Comparative
+ trans_ru: ратифицировать
+-lexeme
+ lex: рвать
+ stem: рвать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: рвать
+-lexeme
+ lex: реабилитировать
+ stem: реабелитировать.
+ gramm: V,rus,rus_inf,rus_pfv_ipfv,missp
+ paradigm: Comparative
+ trans_ru: реабилитировать
+-lexeme
+ lex: реализоваться
+ stem: реализоваться.
+ gramm: V,rus,rus_inf,refl,rus_pfv_ipfv
+ paradigm: Comparative
+ trans_ru: реализоваться
+-lexeme
+ lex: реанимировать
+ stem: реанимировать.
+ gramm: V,rus,rus_inf,rus_pfv_ipfv
+ paradigm: Comparative
+ trans_ru: реанимировать
+-lexeme
+ lex: резать
+ stem: резать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: резать
+-lexeme
+ lex: рекламироватьтыны
+ stem: рекламироватьт.
+ gramm: V,I,rus,rus_ipfv
+ paradigm: connect_verbs-I
+ trans_ru: рекламировать
+-lexeme
+ lex: рекомендовать
+ stem: рекомендовать.
+ gramm: V,rus,rus_inf,rus_pfv_ipfv
+ paradigm: Comparative
+ trans_ru: рекомендовать
+-lexeme
+ lex: рекомендоватьтыны
+ stem: рекомендаватьт.
+ gramm: V,I,rus,rus_ipfv,missp
+ paradigm: connect_verbs-I
+ trans_ru: рекомендовать
+-lexeme
+ lex: репостить
+ stem: репостить.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: репостить
+-lexeme
+ lex: репостнуть
+ stem: репостнуть.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: репостнуть
+-lexeme
+ lex: решить
+ stem: решить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: решить
+-lexeme
+ lex: ржать
+ stem: ржать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: ржать
+-lexeme
+ lex: рисоватьтыны
+ stem: рисоватьт.
+ gramm: V,I,rus,rus_ipfv
+ paradigm: connect_verbs-I
+ trans_ru: рисовать
+-lexeme
+ lex: родиться
+ stem: родиться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: родиться
+-lexeme
+ lex: рождаться
+ stem: рождаться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: рождаться
+-lexeme
+ lex: рубить
+ stem: рубить.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: рубить
+-lexeme
+ lex: ругать
+ stem: ругать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: ругать
+-lexeme
+ lex: руководить
+ stem: руководить.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: руководить
+-lexeme
+ lex: рулить
+ stem: рулить.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: рулить
+-lexeme
+ lex: рулитьтыны
+ stem: рулитьт.
+ gramm: V,I,rus,rus_ipfv
+ paradigm: connect_verbs-I
+ trans_ru: рулить
+-lexeme
+ lex: рядиться
+ stem: рядиться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: рядиться
+-lexeme
+ lex: сагитировать
+ stem: сагитировать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: сагитировать
+-lexeme
+ lex: садить
+ stem: садить.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: садить
+-lexeme
+ lex: самоорганизоваться
+ stem: самоорганизоваться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: самоорганизоваться
+-lexeme
+ lex: саморазвиваться
+ stem: саморазвиваться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: саморазвиваться
+-lexeme
+ lex: самоутвердиться
+ stem: самоутвердиться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: самоутвердиться
+-lexeme
+ lex: сбалансировать
+ stem: сбалансировать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: сбалансировать
+-lexeme
+ lex: сбивать
+ stem: сбивать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: сбивать
+-lexeme
+ lex: сбываться
+ stem: сбываться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: сбываться
+-lexeme
+ lex: сварить
+ stem: сварить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: сварить
+-lexeme
+ lex: свататьтыны
+ stem: свататьт.
+ gramm: V,I,rus,rus_ipfv
+ paradigm: connect_verbs-I
+ trans_ru: сватать
+-lexeme
+ lex: сверлить
+ stem: сверлить.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: сверлить
+-lexeme
+ lex: свеситься
+ stem: свеситься.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: свеситься
+-lexeme
+ lex: светиться
+ stem: светиться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: светиться
+-lexeme
+ lex: свиснуть
+ stem: свиснуть.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: свиснуть
+-lexeme
+ lex: связаться
+ stem: связаться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: связаться
+-lexeme
+ lex: сглазить
+ stem: сглазить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: сглазить
+-lexeme
+ lex: сгореть
+ stem: сгореть.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: сгореть
+-lexeme
+ lex: сдавать
+ stem: здавать.
+ gramm: V,rus,rus_inf,rus_ipfv,missp
+ paradigm: Comparative
+ trans_ru: сдавать
+-lexeme
+ lex: сдаваться
+ stem: сдаваться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: сдаваться
+-lexeme
+ lex: сдаватьтыны
+ stem: здаватьт.
+ gramm: V,I,rus,rus_ipfv,missp
+ paradigm: connect_verbs-I
+ trans_ru: сдавать
+-lexeme
+ lex: сдаватьтыны
+ stem: сдаватьт.
+ gramm: V,I,rus,rus_ipfv
+ paradigm: connect_verbs-I
+ trans_ru: сдавать
+-lexeme
+ lex: сдвинуться
+ stem: сдвинуться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: сдвинуться
+-lexeme
+ lex: сеять
+ stem: сеять.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: сеять
+-lexeme
+ lex: силосовать
+ stem: силосовать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: силосовать
+-lexeme
+ lex: синтезировать
+ stem: синтезировать.
+ gramm: V,rus,rus_inf,rus_pfv_ipfv
+ paradigm: Comparative
+ trans_ru: синтезировать
+-lexeme
+ lex: сиять
+ stem: сиять.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: сиять
+-lexeme
+ lex: скандировать
+ stem: скандировать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: скандировать
+-lexeme
+ lex: скачатьтыны
+ stem: скачатьт.
+ gramm: V,I,rus,rus_pfv
+ paradigm: connect_verbs-I
+ trans_ru: скачать
+-lexeme
+ lex: скачиватьтыны
+ stem: скачиватьт.
+ gramm: V,I,rus,rus_ipfv
+ paradigm: connect_verbs-I
+ trans_ru: скачивать
+-lexeme
+ lex: скинуть
+ stem: скунуть.
+ gramm: V,rus,rus_inf,rus_pfv,missp
+ paradigm: Comparative
+ trans_ru: скинуть
+-lexeme
+ lex: скинутьтыны
+ stem: скинутьт.
+ gramm: V,I,rus,rus_pfv
+ paradigm: connect_verbs-I
+ trans_ru: скинуть
+-lexeme
+ lex: склонять
+ stem: склонять.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: склонять
+-lexeme
+ lex: скопипастить
+ stem: скопипастить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: скопипастить
+-lexeme
+ lex: скопировать
+ stem: скопировать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: скопировать
+-lexeme
+ lex: скрестить
+ stem: скрестить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: скрестить
+-lexeme
+ lex: скрипеть
+ stem: скрипеть.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: скрипеть
+-lexeme
+ lex: скрывать
+ stem: скрывать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: скрывать
+-lexeme
+ lex: скучать
+ stem: скучать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: скучать
+-lexeme
+ lex: слабнуть
+ stem: слабнуть.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: слабнуть
+-lexeme
+ lex: славиться
+ stem: славиться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: славиться
+-lexeme
+ lex: следить
+ stem: следить.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: следить
+-lexeme
+ lex: следовать
+ stem: следовать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: следовать
+-lexeme
+ lex: сложить
+ stem: сложить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: сложить
+-lexeme
+ lex: сломать
+ stem: сломать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: сломать
+-lexeme
+ lex: слушаться
+ stem: слушаться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: слушаться
+-lexeme
+ lex: слышаться
+ stem: слышаться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: слышаться
+-lexeme
+ lex: смешать
+ stem: смешать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: смешать
+-lexeme
+ lex: смешить
+ stem: смешить.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: смешить
+-lexeme
+ lex: смеяться
+ stem: смеяться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: смеяться
+-lexeme
+ lex: смотреться
+ stem: смотреться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: смотреться
+-lexeme
+ lex: смотретьтыны
+ stem: смотретьт.
+ gramm: V,I,rus,rus_ipfv
+ paradigm: connect_verbs-I
+ trans_ru: смотреть
+-lexeme
+ lex: сниматьтыны
+ stem: сниматьт.
+ gramm: V,I,rus,rus_ipfv
+ paradigm: connect_verbs-I
+ trans_ru: снимать
+-lexeme
+ lex: сниться
+ stem: сниться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: сниться
+-lexeme
+ lex: собирать
+ stem: собирать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: собирать
+-lexeme
+ lex: соблазнить
+ stem: соблазнить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: соблазнить
+-lexeme
+ lex: соблазнять
+ stem: соблазнять.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: соблазнять
+-lexeme
+ lex: совершенствовать
+ stem: совершенствовать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: совершенствовать
+-lexeme
+ lex: совершенствоваться
+ stem: совершенствоваться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: совершенствоваться
+-lexeme
+ lex: совместить
+ stem: совместить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: совместить
+-lexeme
+ lex: совратить
+ stem: совратить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: совратить
+-lexeme
+ lex: согласиться
+ stem: согласиться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: согласиться
+-lexeme
+ lex: согласоватьтыны
+ stem: согласоватьт.
+ gramm: V,I,rus,rus_pfv
+ paradigm: connect_verbs-I
+ trans_ru: согласовать
+-lexeme
+ lex: соглашаться
+ stem: соглашаться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: соглашаться
+-lexeme
+ lex: согреть
+ stem: согреть.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: согреть
+-lexeme
+ lex: согрешить
+ stem: согрешить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: согрешить
+-lexeme
+ lex: содержать
+ stem: содержать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: содержать
+-lexeme
+ lex: созвониться
+ stem: созвониться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: созвониться
+-lexeme
+ lex: созреть
+ stem: созреть.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: созреть
+-lexeme
+ lex: сокращать
+ stem: сокращать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: сокращать
+-lexeme
+ lex: сокращатьтыны
+ stem: сокращатьт.
+ gramm: V,I,rus,rus_ipfv
+ paradigm: connect_verbs-I
+ trans_ru: сокращать
+-lexeme
+ lex: солить
+ stem: солить.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: солить
+-lexeme
+ lex: сомневаться
+ stem: сомневаться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: сомневаться
+-lexeme
+ lex: соображать
+ stem: соображать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: соображать
+-lexeme
+ lex: сообщить
+ stem: сообщить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: сообщить
+-lexeme
+ lex: сопеть
+ stem: сопеть.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: сопеть
+-lexeme
+ lex: сопоставить
+ stem: сопоставить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: сопоставить
+-lexeme
+ lex: сопротивляться
+ stem: сопротивляться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: сопротивляться
+-lexeme
+ lex: сорвать
+ stem: сорвать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: сорвать
+-lexeme
+ lex: сорваться
+ stem: сорваться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: сорваться
+-lexeme
+ lex: сортироватьтыны
+ stem: сортироватьт.
+ gramm: V,I,rus,rus_ipfv
+ paradigm: connect_verbs-I
+ trans_ru: сортировать
+-lexeme
+ lex: сосать
+ stem: сосать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: сосать
+-lexeme
+ lex: соскабливать
+ stem: соскабливать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: соскабливать
+-lexeme
+ lex: соскользнуть
+ stem: соскользнуть.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: соскользнуть
+-lexeme
+ lex: составитьтыны
+ stem: составитьт.
+ gramm: V,I,rus,rus_pfv
+ paradigm: connect_verbs-I
+ trans_ru: составить
+-lexeme
+ lex: состариться
+ stem: состариться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: состариться
+-lexeme
+ lex: сотворить
+ stem: сотворить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: сотворить
+-lexeme
+ lex: сотрудничать
+ stem: сотрудничать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: сотрудничать
+-lexeme
+ lex: сотрудничатьтыны
+ stem: сотрудничатьт.
+ gramm: V,I,rus,rus_ipfv
+ paradigm: connect_verbs-I
+ trans_ru: сотрудничать
+-lexeme
+ lex: сочетать
+ stem: сочетать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: сочетать
+-lexeme
+ lex: спаивать
+ stem: спаивать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: спаивать
+-lexeme
+ lex: спалить
+ stem: спалить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: спалить
+-lexeme
+ lex: спалиться
+ stem: спалиться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: спалиться
+-lexeme
+ lex: спамить
+ stem: спамить.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: спамить
+-lexeme
+ lex: спарить
+ stem: спарить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: спарить
+-lexeme
+ lex: спекулировать
+ stem: спекулировать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: спекулировать
+-lexeme
+ lex: специализироваться
+ stem: специализироваться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: специализироваться
+-lexeme
+ lex: спешить
+ stem: спешить.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: спешить
+-lexeme
+ lex: списывать
+ stem: списывать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: списывать
+-lexeme
+ lex: сплотить
+ stem: сплотить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: сплотить
+-lexeme
+ lex: спойлерить
+ stem: спойлерить.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: спойлерить
+-lexeme
+ lex: спонсировать
+ stem: спонсировать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: спонсировать
+-lexeme
+ lex: споритьтыны
+ stem: споритьт.
+ gramm: V,I,rus,rus_ipfv
+ paradigm: connect_verbs-I
+ trans_ru: спорить
+-lexeme
+ lex: споритьтыны
+ stem: спроритьт.
+ gramm: V,I,rus,rus_ipfv,missp
+ paradigm: connect_verbs-I
+ trans_ru: спорить
+-lexeme
+ lex: способствовать
+ stem: способствовать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: способствовать
+-lexeme
+ lex: справить
+ stem: справить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: справить
+-lexeme
+ lex: спрашивать
+ stem: спрашивать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: спрашивать
+-lexeme
+ lex: спросить
+ stem: спросить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: спросить
+-lexeme
+ lex: спрятать
+ stem: спрятать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: спрятать
+-lexeme
+ lex: спускаться
+ stem: спускаться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: спускаться
+-lexeme
+ lex: сравнитьтыны
+ stem: сравнитьт.
+ gramm: V,I,rus,rus_pfv
+ paradigm: connect_verbs-I
+ trans_ru: сравнить
+-lexeme
+ lex: ссориться
+ stem: ссориться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: ссориться
+-lexeme
+ lex: сталкиваться
+ stem: сталкиваться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: сталкиваться
+-lexeme
+ lex: стараться
+ stem: стараться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: стараться
+-lexeme
+ lex: стареть
+ stem: стареть.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: стареть
+-lexeme
+ lex: стебать
+ stem: стебать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: стебать
+-lexeme
+ lex: стереть
+ stem: стереть.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: стереть
+-lexeme
+ lex: стимулировать
+ stem: стимулировать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: стимулировать
+-lexeme
+ lex: стирать
+ stem: стирать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: стирать
+-lexeme
+ lex: стоить
+ stem: стоить.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: стоить
+-lexeme
+ lex: стоять
+ stem: стоять.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: стоять
+-lexeme
+ lex: стрекотать
+ stem: стрекотать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: стрекотать
+-lexeme
+ lex: строиться
+ stem: строиться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: строиться
+-lexeme
+ lex: строчитьтыны
+ stem: строчитьт.
+ gramm: V,I,rus,rus_ipfv
+ paradigm: connect_verbs-I
+ trans_ru: строчить
+-lexeme
+ lex: стругать
+ stem: стругать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: стругать
+-lexeme
+ lex: стряпать
+ stem: стряпать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: стряпать
+-lexeme
+ lex: стучать
+ stem: стучать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: стучать
+-lexeme
+ lex: сушить
+ stem: сушить.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: сушить
+-lexeme
+ lex: существоватьтыны
+ stem: существоватьт.
+ gramm: V,I,rus,rus_ipfv
+ paradigm: connect_verbs-I
+ trans_ru: существовать
+-lexeme
+ lex: сформироваться
+ stem: сформироваться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: сформироваться
+-lexeme
+ lex: сфоткать
+ stem: сфоткать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: сфоткать
+-lexeme
+ lex: сфотографироваться
+ stem: сфотографироваться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: сфотографироваться
+-lexeme
+ lex: сходить
+ stem: сходить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: сходить
+-lexeme
+ lex: сыпать
+ stem: сыпать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: сыпать
+-lexeme
+ lex: сэкономить
+ stem: сэкономить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: сэкономить
+-lexeme
+ lex: танцевать
+ stem: танцевать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: танцевать
+-lexeme
+ lex: твориться
+ stem: твориться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: твориться
+-lexeme
+ lex: телепортироваться
+ stem: телепортироваться.
+ gramm: V,rus,rus_inf,refl,rus_pfv_ipfv
+ paradigm: Comparative
+ trans_ru: телепортироваться
+-lexeme
+ lex: терроризировать
+ stem: терорризировать.
+ gramm: V,rus,rus_inf,rus_ipfv,missp
+ paradigm: Comparative
+ trans_ru: терроризировать
+-lexeme
+ lex: терроризировать
+ stem: терроризировать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: терроризировать
+-lexeme
+ lex: терять
+ stem: терять.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: терять
+-lexeme
+ lex: тесать
+ stem: тесать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: тесать
+-lexeme
+ lex: тестировать
+ stem: тестировать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: тестировать
+-lexeme
+ lex: ткать
+ stem: ткать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: ткать
+-lexeme
+ lex: токаритьтыны
+ stem: токаритьт.
+ gramm: V,I,rus,rus_ipfv
+ paradigm: connect_verbs-I
+ trans_ru: токарить
+-lexeme
+ lex: толкнуть
+ stem: толкнуть.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: толкнуть
+-lexeme
+ lex: топать
+ stem: топать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: топать
+-lexeme
+ lex: топтать
+ stem: топтать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: топтать
+-lexeme
+ lex: торговать
+ stem: торговать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: торговать
+-lexeme
+ lex: тормозитьтыны
+ stem: тормозитьт.
+ gramm: V,I,rus,rus_ipfv
+ paradigm: connect_verbs-I
+ trans_ru: тормозить
+-lexeme
+ lex: торопить
+ stem: торопить.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: торопить
+-lexeme
+ lex: торопиться
+ stem: торопиться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: торопиться
+-lexeme
+ lex: точить
+ stem: точить.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: точить
+-lexeme
+ lex: точитьтыны
+ stem: точитьт.
+ gramm: V,I,rus,rus_ipfv
+ paradigm: connect_verbs-I
+ trans_ru: точить
+-lexeme
+ lex: тошнить
+ stem: тошнить.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: тошнить
+-lexeme
+ lex: травить
+ stem: травить.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: травить
+-lexeme
+ lex: трактоватьтыны
+ stem: трактоватьт.
+ gramm: V,I,rus,rus_ipfv
+ paradigm: connect_verbs-I
+ trans_ru: трактовать
+-lexeme
+ lex: транслировать
+ stem: транслировать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: транслировать
+-lexeme
+ lex: трелевать
+ stem: трелевать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: трелевать
+-lexeme
+ lex: трещать
+ stem: трещать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: трещать
+-lexeme
+ lex: трогатьтыны
+ stem: трогатьт.
+ gramm: V,I,rus,rus_ipfv
+ paradigm: connect_verbs-I
+ trans_ru: трогать
+-lexeme
+ lex: троллить
+ stem: троллить.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: троллить
+-lexeme
+ lex: троллитьтыны
+ stem: тролитьт.
+ gramm: V,I,rus,rus_ipfv,missp
+ paradigm: connect_verbs-I
+ trans_ru: троллить
+-lexeme
+ lex: троллитьтыны
+ stem: троллитьт.
+ gramm: V,I,rus,rus_ipfv
+ paradigm: connect_verbs-I
+ trans_ru: троллить
+-lexeme
+ lex: тронуть
+ stem: тронуть.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: тронуть
+-lexeme
+ lex: тупить
+ stem: тупить.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: тупить
+-lexeme
+ lex: тупитьтыны
+ stem: тупитьт.
+ gramm: V,I,rus,rus_ipfv
+ paradigm: connect_verbs-I
+ trans_ru: тупить
+-lexeme
+ lex: тусить
+ stem: тусить.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: тусить
+-lexeme
+ lex: туситьтыны
+ stem: туситьт.
+ gramm: V,I,rus,rus_ipfv
+ paradigm: connect_verbs-I
+ trans_ru: тусить
+-lexeme
+ lex: тыпыртонить
+ stem: тыпыртонить.
+ gramm: V,rus_afx,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: тыпыртонить
+-lexeme
+ lex: тютёшкать
+ stem: тютёшкать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: тютёшкать
+-lexeme
+ lex: тягаться
+ stem: тягаться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: тягаться
+-lexeme
+ lex: убавить
+ stem: убавить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: убавить
+-lexeme
+ lex: убавлятьтыны
+ stem: убавлятьт.
+ gramm: V,I,rus,rus_ipfv
+ paradigm: connect_verbs-I
+ trans_ru: убавлять
+-lexeme
+ lex: убаюкать
+ stem: убаюкать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: убаюкать
+-lexeme
+ lex: убаюкивать
+ stem: убаюкивать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: убаюкивать
+-lexeme
+ lex: убегать
+ stem: убегать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: убегать
+-lexeme
+ lex: убедить
+ stem: убедить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: убедить
+-lexeme
+ lex: убежать
+ stem: убежать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: убежать
+-lexeme
+ lex: убеждать
+ stem: убеждать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: убеждать
+-lexeme
+ lex: убирать
+ stem: убирать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: убирать
+-lexeme
+ lex: убиться
+ stem: убиться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: убиться
+-lexeme
+ lex: уважить
+ stem: уважить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: уважить
+-lexeme
+ lex: уверять
+ stem: уверять.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: уверять
+-lexeme
+ lex: увидеться
+ stem: увидеться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: увидеться
+-lexeme
+ lex: уволить
+ stem: уволить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: уволить
+-lexeme
+ lex: увольнять
+ stem: увольнять.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: увольнять
+-lexeme
+ lex: углубить
+ stem: углубить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: углубить
+-lexeme
+ lex: углубиться
+ stem: углубиться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: углубиться
+-lexeme
+ lex: уговаривать
+ stem: уговаривать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: уговаривать
+-lexeme
+ lex: угождать
+ stem: угождать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: угождать
+-lexeme
+ lex: угрожать
+ stem: угрожать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: угрожать
+-lexeme
+ lex: удалиться
+ stem: удалиться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: удалиться
+-lexeme
+ lex: удалитьтыны
+ stem: удалитьт.
+ gramm: V,I,rus,rus_pfv
+ paradigm: connect_verbs-I
+ trans_ru: удалить
+-lexeme
+ lex: удалять
+ stem: удалять.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: удалять
+-lexeme
+ lex: ударить
+ stem: ударить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: ударить
+-lexeme
+ lex: удариться
+ stem: удариться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: удариться
+-lexeme
+ lex: уделатьтыны
+ stem: уделатьт.
+ gramm: V,I,rus,rus_pfv
+ paradigm: connect_verbs-I
+ trans_ru: уделать
+-lexeme
+ lex: удержать
+ stem: удержать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: удержать
+-lexeme
+ lex: удивляться
+ stem: удивляться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: удивляться
+-lexeme
+ lex: удлинить
+ stem: удлинить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: удлинить
+-lexeme
+ lex: удовлетворить
+ stem: удовлетворить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: удовлетворить
+-lexeme
+ lex: указывать
+ stem: указывать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: указывать
+-lexeme
+ lex: укачивать
+ stem: укачивать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: укачивать
+-lexeme
+ lex: уколоть
+ stem: уколоть.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: уколоть
+-lexeme
+ lex: укоротить
+ stem: укоротить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: укоротить
+-lexeme
+ lex: укрепить
+ stem: укрепить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: укрепить
+-lexeme
+ lex: укрыться
+ stem: укрыться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: укрыться
+-lexeme
+ lex: укусить
+ stem: укусить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: укусить
+-lexeme
+ lex: улаживать
+ stem: улаживать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: улаживать
+-lexeme
+ lex: уложить
+ stem: уложить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: уложить
+-lexeme
+ lex: улыбаться
+ stem: улыбаться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: улыбаться
+-lexeme
+ lex: улыбнуться
+ stem: улыбнуться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: улыбнуться
+-lexeme
+ lex: уместиться
+ stem: уместиться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: уместиться
+-lexeme
+ lex: уметь
+ stem: уметь.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: уметь
+-lexeme
+ lex: умиротворяться
+ stem: умиротворяться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: умиротворяться
+-lexeme
+ lex: умолять
+ stem: умолять.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: умолять
+-lexeme
+ lex: умыться
+ stem: умыться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: умыться
+-lexeme
+ lex: унижать
+ stem: унижать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: унижать
+-lexeme
+ lex: унизить
+ stem: унизить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: унизить
+-lexeme
+ lex: уничтожить
+ stem: уничтожить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: уничтожить
+-lexeme
+ lex: уплетать
+ stem: уплетать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: уплетать
+-lexeme
+ lex: употребить
+ stem: употребить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: употребить
+-lexeme
+ lex: упрекать
+ stem: упрекать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: упрекать
+-lexeme
+ lex: упрощать
+ stem: упрощать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: упрощать
+-lexeme
+ lex: упрямиться
+ stem: упрямиться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: упрямиться
+-lexeme
+ lex: урегулировать
+ stem: урегулировать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: урегулировать
+-lexeme
+ lex: уродиться
+ stem: уродиться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: уродиться
+-lexeme
+ lex: уродовать
+ stem: уродовать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: уродовать
+-lexeme
+ lex: уронить
+ stem: уронить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: уронить
+-lexeme
+ lex: усвоить
+ stem: усвоить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: усвоить
+-lexeme
+ lex: усилить
+ stem: усилить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: усилить
+-lexeme
+ lex: ускорять
+ stem: ускорять.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: ускорять
+-lexeme
+ lex: успеть
+ stem: успеть.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: успеть
+-lexeme
+ lex: успокаивать
+ stem: успокаивать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: успокаивать
+-lexeme
+ lex: успокоить
+ stem: успокоить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: успокоить
+-lexeme
+ lex: уставать
+ stem: уставать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: уставать
+-lexeme
+ lex: устанавливать
+ stem: устанавливать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: устанавливать
+-lexeme
+ lex: установить
+ stem: установить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: установить
+-lexeme
+ lex: установиться
+ stem: установиться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: установиться
+-lexeme
+ lex: установитьтыны
+ stem: установитьт.
+ gramm: V,I,rus,rus_pfv
+ paradigm: connect_verbs-I
+ trans_ru: установить
+-lexeme
+ lex: устать
+ stem: устать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: устать
+-lexeme
+ lex: устоять
+ stem: устоять.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: устоять
+-lexeme
+ lex: устраивать
+ stem: устраивать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: устраивать
+-lexeme
+ lex: устроить
+ stem: устроить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: устроить
+-lexeme
+ lex: уступать
+ stem: уступать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: уступать
+-lexeme
+ lex: устьтыны
+ stem: усьт.
+ gramm: V,I,tr,with_instr,missp
+ paradigm: connect_verbs-I
+ trans_ru: открыть
+-lexeme
+ lex: усугублять
+ stem: усугублять.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: усугублять
+-lexeme
+ lex: утаить
+ stem: утаить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: утаить
+-lexeme
+ lex: утвердить
+ stem: удтвердить.
+ gramm: V,rus,rus_inf,rus_pfv,missp
+ paradigm: Comparative
+ trans_ru: утвердить
+-lexeme
+ lex: утвердить
+ stem: утвердить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: утвердить
+-lexeme
+ lex: утеплить
+ stem: утеплить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: утеплить
+-lexeme
+ lex: утешить
+ stem: утешить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: утешить
+-lexeme
+ lex: уточнить
+ stem: уточнить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: уточнить
+-lexeme
+ lex: уточнять
+ stem: уточнять.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: уточнять
+-lexeme
+ lex: утратить
+ stem: утратить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: утратить
+-lexeme
+ lex: утрировать
+ stem: утрировать.
+ gramm: V,rus,rus_inf,rus_pfv_ipfv
+ paradigm: Comparative
+ trans_ru: утрировать
+-lexeme
+ lex: участвоватьтыны
+ stem: участвоватьт.
+ gramm: V,I,rus,rus_ipfv
+ paradigm: connect_verbs-I
+ trans_ru: участвовать
+-lexeme
+ lex: учитывать
+ stem: учитывать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: учитывать
+-lexeme
+ lex: ушить
+ stem: ушить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: ушить
+-lexeme
+ lex: фелировать
+ stem: фелировать.
+ gramm: V,rus,rus_inf,rus_pfv_ipfv
+ paradigm: Comparative
+ trans_ru: фелировать
+-lexeme
+ lex: фиксироваться
+ stem: фиксироваться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: фиксироваться
+-lexeme
+ lex: фиксироватьтыны
+ stem: фиксироватьт.
+ gramm: V,I,rus,rus_ipfv
+ paradigm: connect_verbs-I
+ trans_ru: фиксировать
+-lexeme
+ lex: фильтроватьтыны
+ stem: фильтроватьт.
+ gramm: V,I,rus,rus_ipfv
+ paradigm: connect_verbs-I
+ trans_ru: фильтровать
+-lexeme
+ lex: финансировать
+ stem: финанщировать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: финансировать
+-lexeme
+ lex: финишировать
+ stem: финишировать.
+ gramm: V,rus,rus_inf,rus_pfv_ipfv
+ paradigm: Comparative
+ trans_ru: финишировать
+-lexeme
+ lex: фонить
+ stem: фонить.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: фонить
+-lexeme
+ lex: формализовать
+ stem: формализовать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: формализовать
+-lexeme
+ lex: фоткаться
+ stem: фоткаться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: фоткаться
+-lexeme
+ lex: фоткатьтыны
+ stem: фоткатьт.
+ gramm: V,I,rus,rus_ipfv
+ paradigm: connect_verbs-I
+ trans_ru: фоткать
+-lexeme
+ lex: фотожопить
+ stem: фотожопить.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: фотожопить
+-lexeme
+ lex: фотошопить
+ stem: фотошопить.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: фотошопить
+-lexeme
+ lex: фристайлить
+ stem: фристайлить.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: фристайлить
+-lexeme
+ lex: функционировать
+ stem: функционировать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: функционировать
+-lexeme
+ lex: хавать
+ stem: хавать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: хавать
+-lexeme
+ lex: хамить
+ stem: хамить.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: хамить
+-lexeme
+ lex: хандрить
+ stem: хандрить.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: хандрить
+-lexeme
+ lex: хвастаться
+ stem: хвастаться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: хвастаться
+-lexeme
+ lex: хватить
+ stem: хватить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: хватить
+-lexeme
+ lex: хозяйничать
+ stem: хозяйничать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: хозяйничать
+-lexeme
+ lex: хохотать
+ stem: хохотать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: хохотать
+-lexeme
+ lex: храпеть
+ stem: храпеть.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: храпеть
+-lexeme
+ lex: худеть
+ stem: худеть.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: худеть
+-lexeme
+ lex: царапать
+ stem: царапать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: царапать
+-lexeme
+ lex: целоваться
+ stem: целоваться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: целоваться
+-lexeme
+ lex: цепляться
+ stem: цепляться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: цепляться
+-lexeme
+ lex: церомониться
+ stem: церомониться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: церомониться
+-lexeme
+ lex: цитироватьтыны
+ stem: цитироватьт.
+ gramm: V,I,rus,rus_ipfv
+ paradigm: connect_verbs-I
+ trans_ru: цитировать
+-lexeme
+ lex: чавкать
+ stem: чавкать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: чавкать
+-lexeme
+ lex: чибасить
+ stem: чибасить.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: чибасить
+-lexeme
+ lex: чистить
+ stem: чистить.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: чистить
+-lexeme
+ lex: чмокать
+ stem: чмокать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: чмокать
+-lexeme
+ lex: чувствоваться
+ stem: чувствоваться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: чувствоваться
+-lexeme
+ lex: шагнуть
+ stem: шагнуть.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: шагнуть
+-lexeme
+ lex: шалить
+ stem: шалить.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: шалить
+-lexeme
+ lex: шалитьтыны
+ stem: шалитьт.
+ gramm: V,I,rus,rus_ipfv
+ paradigm: connect_verbs-I
+ trans_ru: шалить
+-lexeme
+ lex: шататься
+ stem: шататься.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: шататься
+-lexeme
+ lex: шевелить
+ stem: шевелить.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: шевелить
+-lexeme
+ lex: шевельнуться
+ stem: шевельнуться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: шевельнуться
+-lexeme
+ lex: шепелявить
+ stem: шепелявить.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: шепелявить
+-lexeme
+ lex: шеритьтыны
+ stem: шеритьт.
+ gramm: V,I,rus,rus_ipfv
+ paradigm: connect_verbs-I
+ trans_ru: шерить
+-lexeme
+ lex: шетьтыны
+ stem: шетьт.
+ gramm: V,I,tr,with_el,missp
+ paradigm: connect_verbs-I
+ trans_ru: найти
+-lexeme
+ lex: шокироватьтыны
+ stem: шокироватьт.
+ gramm: V,I,rus,rus_pfv
+ paradigm: connect_verbs-I
+ trans_ru: шокировать
+-lexeme
+ lex: штамповать
+ stem: штамповать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: штамповать
+-lexeme
+ lex: штрафовать
+ stem: штрафовать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: штрафовать
+-lexeme
+ lex: шуршать
+ stem: шуршать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: шуршать
+-lexeme
+ lex: шутить
+ stem: шутить.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: шутить
+-lexeme
+ lex: щекотить
+ stem: щекотить.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: щекотить
+-lexeme
+ lex: щёлкнутьтыны
+ stem: щёлкнутьт.
+ gramm: V,I,rus,rus_pfv
+ paradigm: connect_verbs-I
+ trans_ru: щёлкнуть
+-lexeme
+ lex: ыкать
+ stem: ыкать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: ыкать
+-lexeme
+ lex: экономить
+ stem: экономить.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: экономить
+-lexeme
+ lex: эктонить
+ stem: эктонить.
+ gramm: V,rus_afx,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: эктонить
+-lexeme
+ lex: эмигрировать
+ stem: эмигрировать.
+ gramm: V,rus,rus_inf,rus_pfv_ipfv
+ paradigm: Comparative
+ trans_ru: эмигрировать
+-lexeme
+ lex: юзать
+ stem: юзать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: юзать
+-lexeme
+ lex: ягниться
+ stem: ягниться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: ягниться
+-lexeme
+ lex: яракелнить
+ stem: яракелнить.
+ gramm: V,rus_afx,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: яракелнить
+-lexeme
+ lex: ёкнуть
+ stem: ёкнуть.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: ёкнуть

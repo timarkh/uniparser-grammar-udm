@@ -31889,3 +31889,34 @@
  gramm: ADJ,rus
  paradigm: connect_adjectives
  trans_ru: супер
+
+-lexeme
+ lex: алама
+ stem: алама.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: плохой, дурной, некрасивый
+-lexeme
+ lex: берпуметӥ
+ stem: берпуметӥ.
+ gramm: ADJ,ord
+ paradigm: connect_adjectives
+ trans_ru: последний
+-lexeme
+ lex: егит
+ stem: еит.
+ gramm: ADJ,missp
+ paradigm: connect_adjectives
+ trans_ru: молодой
+-lexeme
+ lex: кечато
+ stem: кечато.
+ gramm: ADJ,rus
+ paradigm: connect_adjectives
+ trans_ru: клетчатый
+-lexeme
+ lex: коштан
+ stem: коштан.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: высокомерный, заносчивый

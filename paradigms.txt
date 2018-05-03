@@ -186,6 +186,17 @@
   gloss: ORD
   paradigm: Noun-case-compounding
   paradigm: Comparative
+ -flex: .еть<.>
+  gramm: distr
+  gloss: DISTR
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  paradigm: Noun-case-compounding
+  paradigm: Comparative
+ -flex: .эть<.>
+  gramm: distr
+  gloss: DISTR
+  paradigm: Noun-case-compounding
+  paradigm: Comparative
  -flex: .ос<.>//.ёс<.>
   regex-prev: ^.*[аеёиӥоӧуыэюя][<>.]*$
   gramm: pl
@@ -250,6 +261,11 @@
  -flex: .етӥ<.>
   gramm: ord
   gloss: ORD
+  paradigm: Noun-case-compounding
+  paradigm: Comparative
+ -flex: .еть<.>
+  gramm: distr
+  gloss: DISTR
   paradigm: Noun-case-compounding
   paradigm: Comparative
  -flex: .[ь]ёс<.>

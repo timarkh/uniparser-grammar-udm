@@ -12209,3 +12209,220 @@
  gramm: ADV,rus
  paradigm: connect_adverbs
  trans_ru: звонко
+
+-lexeme
+ lex: абалдеть
+ stem: абалдеть.
+ gramm: PART,rus
+ paradigm: Comparative
+ trans_ru: абалдеть
+-lexeme
+ lex: афигеть
+ stem: аффффигеть.
+ gramm: PART,rus
+ paradigm: Comparative
+ trans_ru: афигеть
+-lexeme
+ lex: билять
+ stem: билять.
+ gramm: PART,rus
+ paradigm: Comparative
+ trans_ru: билять
+-lexeme
+ lex: блеать
+ stem: блаеть.
+ gramm: PART,rus,missp
+ paradigm: Comparative
+ trans_ru: блеать
+-lexeme
+ lex: блеать
+ stem: блеать.//блеаать.//блеааать.//блеаааать.//блееать.//блиать.//былять.
+ gramm: PART,rus
+ paradigm: Comparative
+ trans_ru: блеаааать
+-lexeme
+ lex: блять
+ stem: блять.
+ gramm: PART,rus
+ paradigm: Comparative
+ trans_ru: блять
+-lexeme
+ lex: бытьто
+ stem: бытьто.
+ gramm: CNJ,rus
+ paradigm: Comparative
+ trans_ru: будто
+-lexeme
+ lex: даветь
+ stem: даветь.
+ gramm: PART,rus
+ paradigm: Comparative
+ trans_ru: да ведь
+-lexeme
+ lex: даить
+ stem: даить.
+ gramm: PART,rus
+ paradigm: Comparative
+ trans_ru: да ведь
+-lexeme
+ lex: едрить
+ stem: едрить.
+ gramm: PART,rus
+ paradigm: Comparative
+ trans_ru: едрить
+-lexeme
+ lex: епомать
+ stem: епомать.
+ gramm: PART,rus
+ paradigm: Comparative
+ trans_ru: епомать
+-lexeme
+ lex: еппоймать
+ stem: еппоймать.
+ gramm: PART,rus
+ paradigm: Comparative
+ trans_ru: еппоймать
+-lexeme
+ lex: кстать
+ stem: кстать.
+ gramm: PART,rus
+ paradigm: Comparative
+ trans_ru: кстати
+-lexeme
+ lex: млять
+ stem: млять.
+ gramm: PART,rus
+ paradigm: Comparative
+ trans_ru: млять
+-lexeme
+ lex: можетбыть
+ stem: можетбыть.
+ gramm: PART,rus
+ paradigm: Comparative
+ trans_ru: может быть
+-lexeme
+ lex: можеть
+ stem: можеть.
+ gramm: PART,rus
+ paradigm: Comparative
+ trans_ru: может
+-lexeme
+ lex: можить
+ stem: можить.
+ gramm: PART,rus
+ paradigm: Comparative
+ trans_ru: может
+-lexeme
+ lex: можоть
+ stem: можоть.
+ gramm: PART,rus
+ paradigm: Comparative
+ trans_ru: может
+-lexeme
+ lex: оветь
+ stem: оветь.
+ gramm: PART,rus
+ paradigm: Comparative
+ trans_ru: так ведь
+-lexeme
+ lex: опять
+ stem: апять.
+ gramm: ADV,rus,missp
+ paradigm: Comparative
+ trans_ru: опять
+-lexeme
+ lex: офигеть
+ stem: ооофигеть.
+ gramm: PART,rus
+ paradigm: Comparative
+ trans_ru: офигеть
+-lexeme
+ lex: офигеть
+ stem: офигееть.//офигеееть.//офигееееть.//офигеееееть.//офигеееееееееееть.
+ gramm: PART,rus
+ paradigm: Comparative
+ trans_ru: офигеть
+-lexeme
+ lex: очешуеть
+ stem: очешуеть.
+ gramm: PART,rus
+ paradigm: Comparative
+ trans_ru: очешуеть
+-lexeme
+ lex: пелять
+ stem: пелять.
+ gramm: PART,rus
+ paradigm: Comparative
+ trans_ru: пелять
+-lexeme
+ lex: пилять
+ stem: пилять.
+ gramm: PART,rus
+ paradigm: Comparative
+ trans_ru: пилять
+-lexeme
+ lex: полять
+ stem: полять.
+ gramm: PART,rus
+ paradigm: Comparative
+ trans_ru: полять
+-lexeme
+ lex: приветь
+ stem: приветь.
+ gramm: PART,rus
+ paradigm: Comparative
+ trans_ru: привет
+-lexeme
+ lex: таксказать
+ stem: таксказать.
+ gramm: PART,rus
+ paradigm: Comparative
+ trans_ru: так сказать
+-lexeme
+ lex: фьюить
+ stem: фьюить.
+ gramm: IMIT,rus
+ paradigm: Comparative
+ trans_ru: фьюить
+-lexeme
+ lex: хвать
+ stem: хвать.
+ gramm: IMIT,rus
+ paradigm: Comparative
+ trans_ru: хвать
+-lexeme
+ lex: ёбтэть
+ stem: ёбтэть.
+ gramm: PART,rus
+ paradigm: Comparative
+ trans_ru: ёбтэть
+-lexeme
+ lex: ёпомать
+ stem: ёпомать.
+ gramm: PART,rus
+ paradigm: Comparative
+ trans_ru: ёпомать
+-lexeme
+ lex: ёппоймать
+ stem: ёппоймать.
+ gramm: PART,rus
+ paradigm: Comparative
+ trans_ru: ёппоймать
+-lexeme
+ lex: ёптить
+ stem: ёптить.
+ gramm: PART,rus
+ paradigm: Comparative
+ trans_ru: ёптить
+-lexeme
+ lex: ёптить
+ stem: ёптить.
+ gramm: PART,rus
+ paradigm: Comparative
+ trans_ru: ёптить
+-lexeme
+ lex: ёптыть
+ stem: ёптыть.
+ gramm: PART,rus
+ paradigm: Comparative
+ trans_ru: ёптыть
