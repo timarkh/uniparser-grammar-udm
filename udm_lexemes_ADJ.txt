@@ -762,6 +762,13 @@
  trans_ru: серый
 
 -lexeme
+ lex: чупырес
+ stem: чупырес.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: бойкий, расторопный
+
+-lexeme
  lex: чупрес
  stem: чупрес.
  gramm: ADJ
@@ -4817,7 +4824,14 @@
 
 -lexeme
  lex: бадӟым
- stem: бадӟым.//бадзьым.//баӟым.
+ stem: бадӟым.//бадзьым.//баӟым.//бадьым.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: большой
+
+-lexeme
+ lex: бадӟын
+ stem: бадӟын.//бадзьын.//баӟын.
  gramm: ADJ
  paradigm: connect_adjectives
  trans_ru: большой
@@ -6197,6 +6211,13 @@
 -lexeme
  lex: горд
  stem: горд.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: красный, розовый
+
+-lexeme
+ lex: гордо
+ stem: гордо.
  gramm: ADJ
  paradigm: connect_adjectives
  trans_ru: красный, розовый
@@ -8877,7 +8898,7 @@
 
 -lexeme
  lex: самой
- stem: само.
+ stem: само.//самы.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: самый
@@ -9528,7 +9549,7 @@
 
 -lexeme
  lex: чебер
- stem: чебер.
+ stem: чебер.//чебеер.//чебееер.
  gramm: ADJ
  paradigm: connect_adjectives
  trans_ru: красивый
@@ -13658,6 +13679,13 @@
  trans_ru: кудрявый, курчавый
 
 -lexeme
+ lex: баблес
+ stem: баблес.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: кудрявый, курчавый
+
+-lexeme
  lex: ышем-бырем
  stem: ышем-бырем.
  gramm: ADJ
@@ -13737,6 +13765,20 @@
 -lexeme
  lex: чибориё
  stem: чибориё.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: узорчатый, пёстрый
+
+-lexeme
+ lex: чибор
+ stem: чибор.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: узорчатый, пёстрый
+
+-lexeme
+ lex: чибори
+ stem: чибори.
  gramm: ADJ
  paradigm: connect_adjectives
  trans_ru: узорчатый, пёстрый
@@ -31920,3 +31962,68 @@
  gramm: ADJ
  paradigm: connect_adjectives
  trans_ru: высокомерный, заносчивый
+-lexeme
+ lex: ӝожмыт
+ stem: ӝожмыт.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: грустный, печальный
+-lexeme
+ lex: айбат
+ stem: айбат.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: хороший
+
+-lexeme
+ lex: ненег
+ stem: ненег.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: капризный
+
+-lexeme
+ lex: ческыт
+ stem: ческыт.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: вкусный
+
+-lexeme
+ lex: куанык
+ stem: куанык.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: весёлый, приятный
+
+-lexeme
+ lex: бадзим
+ stem: бадзим.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: большой
+-lexeme
+ lex: шоръёзо
+ stem: шоръёзо.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: средний
+-lexeme
+ lex: курдыт
+ stem: курдыт.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: страшный
+-lexeme
+ lex: пуштрес
+ stem: пуштрес.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: пушистый
+-lexeme
+ lex: тодослыко
+ stem: тодослыко.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: научный
+

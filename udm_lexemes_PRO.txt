@@ -456,6 +456,13 @@
  trans_ru: ничто
 
 -lexeme
+ lex: немар
+ stem: немар.
+ gramm: PRO
+ paradigm: Noun-mar
+ trans_ru: нечего
+
+-lexeme
  lex: котьмар
  stem: котьмар.
  gramm: PRO
@@ -1304,8 +1311,22 @@
 
 -lexeme
  lex: ас
- stem: асьтэдыз.
+ stem: асьтэдыз.//асьтэдыс.
  gramm: PRO,2pl,acc
+ paradigm: Comparative
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: асьсэдыз.//асьсэдыс.
+ gramm: PRO,3pl,acc
+ paradigm: Comparative
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: асьсэзыз.
+ gramm: PRO,3pl,acc
  paradigm: Comparative
  trans_ru: сам, свой
 

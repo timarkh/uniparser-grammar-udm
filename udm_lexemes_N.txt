@@ -1045,7 +1045,7 @@
 
 -lexeme
  lex: азинлык
- stem: азинлык.
+ stem: азинлык.//азьынлык.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: успех, плодотворность, продуктивность, производительность
@@ -19349,7 +19349,7 @@
 
 -lexeme
  lex: инмар
- stem: инмар.
+ stem: инмар.//иньмар.
  gramm: N,supernat
  paradigm: Noun-num-consonant
  trans_ru: бог, господь
@@ -99565,3 +99565,520 @@
  gramm: N,anim
  paradigm: Noun-num-vowel
  trans_ru: ежонок
+
+-lexeme
+ lex: Бигерд
+ stem: бигерд.
+ gramm: N,PN
+ paradigm: Noun-num-consonant
+ trans_ru: Бигерд
+-lexeme
+ lex: эм
+ stem: эм.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: лечение
+-lexeme
+ lex: эру
+ stem: эру.
+ gramm: N,PN
+ paradigm: Noun-num-vowel
+ trans_ru: эру
+-lexeme
+ lex: блоглук
+ stem: блоглук.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: блоглук
+-lexeme
+ lex: фм
+ stem: фм.
+ gramm: N,abbr,rus
+ paradigm: Noun-num-consonant
+ trans_ru: фм
+-lexeme
+ lex: мурмурточка
+ stem: мурмурточка.
+ gramm: N,PN
+ paradigm: Noun-num-vowel
+ trans_ru: мурмурточка
+-lexeme
+ lex: Усо
+ stem: усо.
+ gramm: N,PN,topn
+ paradigm: Noun-num-vowel
+ trans_ru: Усо
+-lexeme
+ lex: Кынкорт
+ stem: кынкорт.
+ gramm: N,PN
+ paradigm: Noun-num-consonant
+ trans_ru: Кынкорт
+-lexeme
+ lex: Амисо
+ stem: амисо.
+ gramm: N,PN,persn
+ paradigm: Noun-num-vowel
+ trans_ru: Амисо
+-lexeme
+ lex: Чёкал
+ stem: чёкал.
+ gramm: N,PN,topn
+ paradigm: Noun-num-consonant
+ trans_ru: Чёкал
+-lexeme
+ lex: Юльчик
+ stem: юльчик.
+ gramm: N,PN,persn
+ paradigm: Noun-num-consonant
+ trans_ru: Юльчик
+-lexeme
+ lex: личка
+ stem: личка.
+ gramm: N,rus
+ paradigm: Noun-num-vowel
+ trans_ru: личка
+-lexeme
+ lex: слэм
+ stem: слэм.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: слэм
+-lexeme
+ lex: тв
+ stem: тв.
+ gramm: N,abbr,rus
+ paradigm: Noun-num-consonant
+ trans_ru: тв
+-lexeme
+ lex: шок
+ stem: шок.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: шок
+-lexeme
+ lex: фотоотчёт
+ stem: фотоотчёт.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: фотоотчёт
+-lexeme
+ lex: Курчум-Норья
+ stem: курчум-норья.
+ gramm: N,PN,topn
+ paradigm: Noun-num-vowel
+ trans_ru: Курчум-Норья
+-lexeme
+ lex: респект
+ stem: респект.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: респект
+-lexeme
+ lex: псалтирь
+ stem: псалтир.
+ gramm: N,rus
+ paradigm: Noun-num-soft
+ trans_ru: псалтирь
+-lexeme
+ lex: арт-пространство
+ stem: арт-пространство.
+ gramm: N,rus
+ paradigm: Noun-num-vowel
+ trans_ru: арт-пространство
+-lexeme
+ lex: Зюзино
+ stem: зюзино.
+ gramm: N,PN,topn
+ paradigm: Noun-num-vowel
+ trans_ru: Зюзино
+-lexeme
+ lex: Геля
+ stem: геля.
+ gramm: N,PN,persn
+ paradigm: Noun-num-vowel
+ trans_ru: Геля
+-lexeme
+ lex: покчиарня
+ stem: покчиарня.
+ gramm: N,time_meas
+ paradigm: Noun-num-vowel
+ trans_ru: четверг
+-lexeme
+ lex: постэффект
+ stem: постэффект.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: постэффект
+-lexeme
+ lex: астуспуктэм
+ stem: астуспуктэм.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: селфи
+-lexeme
+ lex: вк
+ stem: вк.//вк.-
+ gramm: N,abbr,rus
+ paradigm: Noun-num-consonant
+ trans_ru: вконтакте
+-lexeme
+ lex: инстаалфавит
+ stem: инстаалфавит.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: инстаалфавит
+-lexeme
+ lex: Регинчик
+ stem: регинчик.
+ gramm: N,PN,persn
+ paradigm: Noun-num-consonant
+ trans_ru: Регинчик
+-lexeme
+ lex: Лени
+ stem: лени.
+ gramm: N,PN,persn
+ paradigm: Noun-num-vowel
+ trans_ru: Лени
+-lexeme
+ lex: Петруш
+ stem: петруш.
+ gramm: N,PN,persn
+ paradigm: Noun-num-consonant
+ trans_ru: Петруш
+-lexeme
+ lex: запись
+ stem: запис.
+ gramm: N,rus
+ paradigm: Noun-num-soft
+ trans_ru: запись
+-lexeme
+ lex: Каенсар
+ stem: каенсар.
+ gramm: N,PN,topn
+ paradigm: Noun-num-consonant
+ trans_ru: Каенсар
+-lexeme
+ lex: мусонька
+ stem: мусонька.
+ gramm: N,rus_afx,anim,hum
+ paradigm: Noun-num-vowel
+ trans_ru: мусонька
+-lexeme
+ lex: Юли
+ stem: юли.
+ gramm: N,PN,persn
+ paradigm: Noun-num-vowel
+ trans_ru: Юли
+-lexeme
+ lex: поэтри
+ stem: поэтри.
+ gramm: N,rus
+ paradigm: Noun-num-vowel
+ trans_ru: поэтри
+-lexeme
+ lex: реп
+ stem: реп.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: рэп
+-lexeme
+ lex: селфи
+ stem: селфи.
+ gramm: N,rus
+ paradigm: Noun-num-vowel
+ trans_ru: селфи
+-lexeme
+ lex: Бия
+ stem: бия.
+ gramm: N,PN,topn
+ paradigm: Noun-num-vowel
+ trans_ru: Бия
+-lexeme
+ lex: Пуро-Можга
+ stem: пуро-можга.
+ gramm: N,PN,topn
+ paradigm: Noun-num-vowel
+ trans_ru: Пуро-Можга
+-lexeme
+ lex: Бажан
+ stem: бажан.
+ gramm: N,PN,topn
+ paradigm: Noun-num-consonant
+ trans_ru: Бажан
+-lexeme
+ lex: Дашик
+ stem: дашик.
+ gramm: N,PN,persn
+ paradigm: Noun-num-consonant
+ trans_ru: Дашик
+-lexeme
+ lex: капчилык
+ stem: капчилык.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: лёгкость
+-lexeme
+ lex: куа
+ stem: куа.
+ gramm: N
+ paradigm: Noun-num-vowel
+ trans_ru: святилище
+-lexeme
+ lex: свэг
+ stem: свэг.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: свэг
+-lexeme
+ lex: Варзибаш
+ stem: варзибаш.
+ gramm: N,PN,topn
+ paradigm: Noun-num-consonant
+ trans_ru: Варзибаш
+-lexeme
+ lex: Виолетта
+ stem: виолетта.
+ gramm: N,PN,persn
+ paradigm: Noun-num-vowel
+ trans_ru: Виолетта
+-lexeme
+ lex: кыпчак
+ stem: кыпчак.
+ gramm: N,anim,hum
+ paradigm: Noun-num-consonant
+ trans_ru: кыпчак
+-lexeme
+ lex: млн
+ stem: млн.
+ gramm: NUM,abbr,rus
+ paradigm: Comparative
+ trans_ru: миллион
+-lexeme
+ lex: Тоймобаш
+ stem: тоймобаш.
+ gramm: N,PN,topn
+ paradigm: Noun-num-consonant
+ trans_ru: Тоймобаш
+-lexeme
+ lex: опен-эйр
+ stem: опен-эйр.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: опен-эйр
+-lexeme
+ lex: битбокс
+ stem: битбокс.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: битбокс
+-lexeme
+ lex: бред
+ stem: бред.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: бред
+-lexeme
+ lex: мусонька
+ stem: мусонька.
+ gramm: N,rus_afx,anim,hum
+ paradigm: Noun-num-vowel
+ trans_ru: мусонька
+-lexeme
+ lex: перепост
+ stem: перепост.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: перепост
+-lexeme
+ lex: рок-группа
+ stem: рок-группа.
+ gramm: N,rus
+ paradigm: Noun-num-vowel
+ trans_ru: рок-группа
+-lexeme
+ lex: сюлэмчик
+ stem: сюлэмчик.
+ gramm: N,rus_afx
+ paradigm: Noun-num-consonant
+ trans_ru: сердечко
+-lexeme
+ lex: Танаева
+ stem: танаева.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Танаева
+-lexeme
+ lex: экнэ
+ stem: экнэ.
+ gramm: N,PN
+ paradigm: Noun-num-vowel
+ trans_ru: экнэ
+-lexeme
+ lex: Эли
+ stem: эли.
+ gramm: N,PN,persn
+ paradigm: Noun-num-vowel
+ trans_ru: Эли
+-lexeme
+ lex: Зар-медла
+ stem: зар-медла.
+ gramm: N,PN,topn
+ paradigm: Noun-num-vowel
+ trans_ru: Заречная Медла
+-lexeme
+ lex: Костылева
+ stem: костылева.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Костылева
+-lexeme
+ lex: Ленӥ
+ stem: ленӥ.
+ gramm: N,PN,persn
+ paradigm: Noun-num-vowel
+ trans_ru: Ленӥ
+-lexeme
+ lex: Мираева
+ stem: мираева.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Мираева
+-lexeme
+ lex: Пичи-пурга
+ stem: пичи-пурга.
+ gramm: N,PN,topn
+ paradigm: Noun-num-vowel
+ trans_ru: Малая Пурга
+-lexeme
+ lex: Тыжма
+ stem: тыжма.
+ gramm: N,PN,topn
+ paradigm: Noun-num-vowel
+ trans_ru: Тыжма
+-lexeme
+ lex: Варзи
+ stem: варзи.
+ gramm: N,PN,topn
+ paradigm: Noun-num-vowel
+ trans_ru: Варзи
+-lexeme
+ lex: Йоханна
+ stem: йоханна.
+ gramm: N,PN,persn
+ paradigm: Noun-num-vowel
+ trans_ru: Йоханна
+-lexeme
+ lex: Кечёво
+ stem: кечёво.
+ gramm: N,PN,topn
+ paradigm: Noun-num-vowel
+ trans_ru: Кечёво
+-lexeme
+ lex: ник
+ stem: ник.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: ник
+-lexeme
+ lex: посткроссинг
+ stem: посткроссинг.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: посткроссинг
+-lexeme
+ lex: свадьба
+ stem: свадьба.
+ gramm: N,rus
+ paradigm: Noun-num-vowel
+ trans_ru: свадьба
+-lexeme
+ lex: ТЦ
+ stem: тц.
+ gramm: N,abbr,rus
+ paradigm: Noun-num-consonant
+ trans_ru: торговый центр
+-lexeme
+ lex: Алганча-Игра
+ stem: алганча-игра.
+ gramm: N,PN,topn
+ paradigm: Noun-num-vowel
+ trans_ru: Алганча-Игра
+-lexeme
+ lex: блоглык
+ stem: блоглык.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: блогерство
+-lexeme
+ lex: ДР
+ stem: др.
+ gramm: N,abbr,rus
+ paradigm: Noun-num-consonant
+ trans_ru: день рождения
+-lexeme
+ lex: ӝытпал
+ stem: ӝытпал.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: вечер
+-lexeme
+ lex: Ганеев
+ stem: ганеев.
+ gramm: N,PN,famn
+ paradigm: Noun-num-consonant
+ trans_ru: Ганеев
+-lexeme
+ lex: Мари-Турек
+ stem: мари-турек.
+ gramm: N,PN,topn
+ paradigm: Noun-num-consonant
+ trans_ru: Мари-Турек
+-lexeme
+ lex: Машик
+ stem: машик.
+ gramm: N,PN,persn
+ paradigm: Noun-num-consonant
+ trans_ru: Машик
+-lexeme
+ lex: Милана
+ stem: милана.
+ gramm: N,PN,persn
+ paradigm: Noun-num-vowel
+ trans_ru: Милана
+-lexeme
+ lex: Надюшик
+ stem: надюшик.
+ gramm: N,PN,persn
+ paradigm: Noun-num-consonant
+ trans_ru: Надюшик
+-lexeme
+ lex: начало
+ stem: начало.
+ gramm: N,rus
+ paradigm: Noun-num-vowel
+ trans_ru: начало
+-lexeme
+ lex: случай
+ stem: случа.
+ gramm: N,rus
+ paradigm: Noun-num-j
+ trans_ru: случай
+-lexeme
+ lex: тыкыляй
+ stem: тыкыля.
+ gramm: N,anim,hum
+ paradigm: Noun-num-j
+ trans_ru: тыкыляй
+-lexeme
+ lex: Алеся
+ stem: алеся.
+ gramm: N,PN,persn
+ paradigm: Noun-num-vowel
+ trans_ru: Алеся
+-lexeme
+ lex: вай-фай
+ stem: вай-фа.//вайфа.
+ gramm: N,rus
+ paradigm: Noun-num-j
+ trans_ru: вай-фай

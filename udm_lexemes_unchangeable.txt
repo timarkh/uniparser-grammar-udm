@@ -119,7 +119,7 @@
 
 -lexeme
  lex: ӧвӧл
- stem: ӧвӧл.
+ stem: ӧвӧл.//ӧвол.//эвӧл.//эвэл.
  gramm: V
  paradigm: Comparative
  paradigm: Noun-case
@@ -652,6 +652,13 @@
  trans_ru: 1. же, только 2. ли, или
 
 -lexeme
+ lex: медак
+ stem: медак.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: 1. же, только 2. ли, или
+
+-lexeme
  lex: малай
  stem: малай.
  gramm: PART
@@ -690,7 +697,7 @@
 
 -lexeme
  lex: укыл
- stem: укыл.
+ stem: укыл.//укул.
  gramm: PREDIC
  paradigm: Comparative
  paradigm: Noun-case
@@ -992,6 +999,13 @@
  trans_ru: только
 
 -lexeme
+ lex: гинэк
+ stem: гинэк.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: только
+
+-lexeme
  lex: ярам
  stem: ярам.
  gramm: PART
@@ -1007,10 +1021,10 @@
 
 -lexeme
  lex: ведь
- stem: ведь.
+ stem: ведь.//веть.
  gramm: PART,rus
  paradigm: Comparative
- trans_ru: усил. ведь
+ trans_ru: ведь
 
 -lexeme
  lex: э-э
@@ -6125,6 +6139,13 @@
  trans_ru: быстро, скоро, живо
 
 -lexeme
+ lex: чале
+ stem: чале.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: быстро, скоро, живо
+
+-lexeme
  lex: ӝакыт
  stem: ӝакыт.
  gramm: ADV
@@ -6472,7 +6493,14 @@
  stem: куаштыр.
  gramm: IMIT
  paradigm: Empty
- trans_ru: шороху, шуршанию шелесту: ~ карыны шуршать
+ trans_ru: о шорохе, шуршании, шелесте
+
+-lexeme
+ lex: куаш-куаш
+ stem: куаш-куаш.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: (поговорить) по душам
 
 -lexeme
  lex: дымбыр-дамбыр
@@ -7592,14 +7620,21 @@
  stem: ойдо.
  gramm: PREDIC,imp,sg
  paradigm: Comparative
- trans_ru: пускай, пусть
+ trans_ru: давай; пускай, пусть
 
 -lexeme
  lex: ойдолэ
  stem: ойдолэ.
  gramm: PREDIC,imp,pl
  paradigm: Comparative
- trans_ru: пускай, пусть
+ trans_ru: давайте; пускай, пусть
+
+-lexeme
+ lex: олле
+ stem: олле.
+ gramm: PREDIC,imp,pl
+ paradigm: Comparative
+ trans_ru: давайте
 
 -lexeme
  lex: тюк-тёк
@@ -8017,6 +8052,13 @@
 -lexeme
  lex: таре
  stem: таре.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: потом
+
+-lexeme
+ lex: табре
+ stem: табре.
  gramm: ADV
  paradigm: connect_adverbs
  trans_ru: потом
@@ -8623,21 +8665,28 @@
 -lexeme
  lex: вообще
  stem: вообще.//вобще.
- gramm: ADV
+ gramm: ADV,rus
  paradigm: connect_adverbs
  trans_ru: вообще
 
 -lexeme
+ lex: вобщем
+ stem: вообщем.//вобщем.
+ gramm: ADV,rus
+ paradigm: connect_adverbs
+ trans_ru: в общем
+
+-lexeme
  lex: вообще-то
  stem: вообще-то.//вобще-то.
- gramm: ADV
+ gramm: ADV,rus
  paradigm: connect_adverbs
  trans_ru: вообще-то
 
 -lexeme
  lex: конечно
  stem: конечно.//конешно.
- gramm: ADV
+ gramm: ADV,rus
  paradigm: connect_adverbs
  trans_ru: конечно
 
@@ -9553,7 +9602,7 @@
 
 -lexeme
  lex: всё
- stem: всё.
+ stem: всё.//вщо.//вщё.
  gramm: PART,rus
  paradigm: Empty
  trans_ru: всё, хватит, достаточно
@@ -11435,8 +11484,15 @@
 
 -lexeme
  lex: тау
- stem: тау.//таау.//тааау.//тауу.//таууу.
+ stem: тау.//таау.//тааау.//тауу.//таууу.//тауууу.
  gramm: PART
+ paradigm: Comparative
+ trans_ru: спасибо, благодарю
+
+-lexeme
+ lex: тауэ
+ stem: тауэ.
+ gramm: PART,pl
  paradigm: Comparative
  trans_ru: спасибо, благодарю
 
@@ -11479,6 +11535,15 @@
  lex: туннэ
  stem: туннэ.
  gramm: ADV
+ paradigm: connect_adverbs
+ paradigm: Noun-case
+ paradigm: Noun-case-poss-3,sg
+ trans_ru: сегодня
+
+-lexeme
+ lex: туннэ
+ stem: тунне.
+ gramm: ADV,missp
  paradigm: connect_adverbs
  paradigm: Noun-case
  paradigm: Noun-case-poss-3,sg
@@ -12487,3 +12552,340 @@
  gramm: PART,rus
  paradigm: Comparative
  trans_ru: ёптэ
+
+-lexeme
+ lex: так-то
+ stem: так-то.
+ gramm: ADV,rus
+ paradigm: connect_adverbs
+ trans_ru: так-то
+-lexeme
+ lex: прям
+ stem: прям.
+ gramm: PART,rus
+ paradigm: Comparative
+ trans_ru: прям
+-lexeme
+ lex: наконец
+ stem: наконец.
+ gramm: ADV,rus
+ paradigm: connect_adverbs
+ trans_ru: наконец
+-lexeme
+ lex: щас
+ stem: щас.
+ gramm: ADV,rus
+ paradigm: connect_adverbs
+ trans_ru: щас
+-lexeme
+ lex: наверное
+ stem: наверное.
+ gramm: PART,rus
+ paradigm: Comparative
+ trans_ru: наверное
+-lexeme
+ lex: лишь
+ stem: лишь.
+ gramm: PART,rus
+ paradigm: Comparative
+ trans_ru: лишь
+-lexeme
+ lex: оказывается
+ stem: оказывается.
+ gramm: PART,rus
+ paradigm: Comparative
+ trans_ru: оказывается
+-lexeme
+ lex: хм
+ stem: хм.
+ gramm: INTERJ
+ paradigm: Comparative
+ trans_ru: хм
+-lexeme
+ lex: скорее
+ stem: скорее.
+ gramm: ADV,rus
+ paradigm: connect_adverbs
+ trans_ru: скорее
+-lexeme
+ lex: реально
+ stem: реально.
+ gramm: ADV,rus
+ paradigm: connect_adverbs
+ trans_ru: реально
+-lexeme
+ lex: полностью
+ stem: полностью.
+ gramm: ADV,rus
+ paradigm: connect_adverbs
+ trans_ru: полностью
+-lexeme
+ lex: честно
+ stem: честно.
+ gramm: ADV,rus
+ paradigm: connect_adverbs
+ trans_ru: честно
+-lexeme
+ lex: дык
+ stem: дык.
+ gramm: PART
+ paradigm: Comparative
+ trans_ru: дык
+-lexeme
+ lex: причём
+ stem: причём.
+ gramm: CONJ,rus
+ paradigm: Noun-num-consonant
+ trans_ru: причём
+-lexeme
+ lex: слишком
+ stem: слишком.
+ gramm: ADV,rus
+ paradigm: connect_adverbs
+ trans_ru: слишком
+-lexeme
+ lex: ахаха
+ stem: ахаха.
+ gramm: INTERJ
+ paradigm: Comparative
+ trans_ru: ахаха
+-lexeme
+ lex: надеюсь
+ stem: надеюсь.
+ gramm: PART,rus
+ paradigm: Comparative
+ trans_ru: надеюсь
+-lexeme
+ lex: правильно
+ stem: правильно.
+ gramm: ADV,rus
+ paradigm: connect_adverbs
+ trans_ru: правильно
+-lexeme
+ lex: ок
+ stem: ок.
+ gramm: PART,rus
+ paradigm: Comparative
+ trans_ru: ок
+-lexeme
+ lex: специально
+ stem: специально.
+ gramm: ADV,rus
+ paradigm: connect_adverbs
+ trans_ru: специально
+-lexeme
+ lex: абсолютно
+ stem: абсолютно.
+ gramm: ADV,rus
+ paradigm: connect_adverbs
+ trans_ru: абсолютно
+-lexeme
+ lex: ахахах
+ stem: ахахах.
+ gramm: INTERJ
+ paradigm: Comparative
+ trans_ru: ахахах
+-lexeme
+ lex: важно
+ stem: важно.
+ gramm: ADV,rus
+ paradigm: Noun-num-consonant
+ trans_ru: важно
+-lexeme
+ lex: заранее
+ stem: заранее.
+ gramm: ADV,rus
+ paradigm: connect_adverbs
+ trans_ru: заранее
+-lexeme
+ lex: обидно
+ stem: обидно.
+ gramm: ADV,rus
+ paradigm: connect_adverbs
+ trans_ru: обидно
+-lexeme
+ lex: теперь
+ stem: теперь.
+ gramm: ADV,rus
+ paradigm: connect_adverbs
+ trans_ru: теперь
+-lexeme
+ lex: официально
+ stem: официально.
+ gramm: ADV,rus
+ paradigm: connect_adverbs
+ trans_ru: официально
+-lexeme
+ lex: действительно
+ stem: действительно.
+ gramm: ADV,rus
+ paradigm: connect_adverbs
+ trans_ru: действительно
+-lexeme
+ lex: итак
+ stem: итак.
+ gramm: PART,rus
+ paradigm: Comparative
+ trans_ru: итак
+-lexeme
+ lex: рахмат
+ stem: рахмат.
+ gramm: PART
+ paradigm: Comparative
+ trans_ru: спасибо
+-lexeme
+ lex: явно
+ stem: явно.
+ gramm: ADV,rus
+ paradigm: connect_adverbs
+ trans_ru: явно
+-lexeme
+ lex: ахах
+ stem: ахах.
+ gramm: PART
+ paradigm: Comparative
+ trans_ru: ахах
+-lexeme
+ lex: однозначно
+ stem: однозначно.
+ gramm: ADV,rus
+ paradigm: connect_adverbs
+ trans_ru: однозначно
+-lexeme
+ lex: пофиг
+ stem: пофиг.
+ gramm: PREDIC,rus
+ paradigm: Comparative
+ trans_ru: пофиг
+-lexeme
+ lex: таушки
+ stem: таушки.
+ gramm: PART,rus_afx
+ paradigm: Noun-num-consonant
+ trans_ru: таушки
+-lexeme
+ lex: хех
+ stem: хех.
+ gramm: PART
+ paradigm: Comparative
+ trans_ru: хех
+-lexeme
+ lex: естественно
+ stem: естественно.
+ gramm: PART,rus
+ paradigm: Comparative
+ trans_ru: естественно
+-lexeme
+ lex: збс
+ stem: збс.
+ gramm: PART,abbr,rus
+ paradigm: Noun-num-consonant
+ trans_ru: заебись
+-lexeme
+ lex: по-любому
+ stem: по-любому.
+ gramm: ADV,rus
+ paradigm: connect_adverbs
+ trans_ru: по-любому
+-lexeme
+ lex: неожиданно
+ stem: неожиданно.
+ gramm: ADV,rus
+ paradigm: connect_adverbs
+ trans_ru: неожиданно
+-lexeme
+ lex: отдельно
+ stem: отдельно.
+ gramm: ADV,rus
+ paradigm: connect_adverbs
+ trans_ru: отдельно
+-lexeme
+ lex: точнее
+ stem: точнее.
+ gramm: PART,rus
+ paradigm: Comparative
+ trans_ru: точнее
+-lexeme
+ lex: кажется
+ stem: кажется.
+ gramm: PART,rus
+ paradigm: Comparative
+ trans_ru: кажется
+-lexeme
+ lex: мимими
+ stem: мимими.
+ gramm: INTERJ,rus
+ paradigm: Comparative
+ trans_ru: мимими
+-lexeme
+ lex: ровно
+ stem: ровно.
+ gramm: ADV,rus
+ paradigm: connect_adverbs
+ trans_ru: ровно
+-lexeme
+ lex: прикольно
+ stem: прикольно.
+ gramm: ADV,rus
+ paradigm: connect_adverbs
+ trans_ru: прикольно
+-lexeme
+ lex: совершенно
+ stem: совершенно.
+ gramm: ADV,rus
+ paradigm: connect_adverbs
+ trans_ru: совершенно
+-lexeme
+ lex: активно
+ stem: активно.
+ gramm: ADV,rus
+ paradigm: connect_adverbs
+ trans_ru: активно
+-lexeme
+ lex: вечно
+ stem: вечно.
+ gramm: ADV,rus
+ paradigm: connect_adverbs
+ trans_ru: вечно
+-lexeme
+ lex: вполне
+ stem: вполне.
+ gramm: ADV,rus
+ paradigm: connect_adverbs
+ trans_ru: вполне
+-lexeme
+ lex: ибо
+ stem: ибо.
+ gramm: CONJ,rus
+ paradigm: Noun-num-consonant
+ trans_ru: ибо
+-lexeme
+ lex: постоянно
+ stem: постоянно.
+ gramm: ADV,rus
+ paradigm: connect_adverbs
+ trans_ru: постоянно
+-lexeme
+ lex: быстро
+ stem: быстро.
+ gramm: ADV,rus
+ paradigm: connect_adverbs
+ trans_ru: быстро
+-lexeme
+ lex: снова
+ stem: снова.
+ gramm: ADV,rus
+ paradigm: connect_adverbs
+ trans_ru: снова
+-lexeme
+ lex: ха-ха
+ stem: ха-ха.
+ gramm: INTERJ
+ paradigm: Comparative
+ trans_ru: ха-ха
+-lexeme
+ lex: хах
+ stem: хах.
+ gramm: INTERJ
+ paradigm: Comparative
+ trans_ru: хах

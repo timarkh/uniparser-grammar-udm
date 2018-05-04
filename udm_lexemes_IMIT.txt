@@ -426,6 +426,13 @@
  trans_ru: 
 
 -lexeme
+ lex: огыр-бугыр
+ stem: огыр-бугыр.//огырбугыр.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: возбуждённо, в суматохе
+
+-lexeme
  lex: гичыр-гичыр
  stem: гичыр-гичыр.
  gramm: IMIT
@@ -2036,6 +2043,13 @@
  trans_ru: ~ луыны -- вздрогнуть
 
 -lexeme
+ lex: юзыр-кезьыр
+ stem: юзыр-кезьыр.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: ~ луыны -- знобить, дрожать
+
+-lexeme
  lex: зурак
  stem: зурак.
  gramm: IMIT
@@ -2181,3 +2195,10 @@
  gramm: IMIT
  paradigm: Comparative
  trans_ru: прохладный, свежий – воздухе
+
+-lexeme
+ lex: пань-пань
+ stem: пань-пань.
+ gramm: IMIT
+ paradigm: Comparative
+ trans_ru: о расплющенном предмете
