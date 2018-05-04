@@ -20,6 +20,20 @@
  trans_ru: был, было
 
 -lexeme
+ lex: вылӥз
+ stem: вылӥз.
+ gramm: V,pst,3,sg
+ paradigm: Comparative
+ trans_ru: был
+
+-lexeme
+ lex: вылӥзы
+ stem: вылӥзы.
+ gramm: V,pst,3,pl
+ paradigm: Comparative
+ trans_ru: были
+
+-lexeme
  lex: вань
  stem: вань.
  gramm: V,prs
@@ -297,6 +311,13 @@
 -lexeme
  lex: сярысь
  stem: сярысь.
+ gramm: POST
+ paradigm: Comparative
+ trans_ru: об
+
+-lexeme
+ lex: сярись
+ stem: сярись.
  gramm: POST
  paradigm: Comparative
  trans_ru: об
@@ -1056,7 +1077,7 @@
 
 -lexeme
  lex: мед
- stem: мед.
+ stem: мед.//мёд.
  gramm: PART
  paradigm: Comparative
  trans_ru: да, пусть
@@ -6238,7 +6259,7 @@
 
 -lexeme
  lex: шуыса
- stem: шуыса.//шуса.
+ stem: шуыса.//шуса.//шса.
  gramm: CNJ
  paradigm: Comparative
  trans_ru: 1. изъяснит. что 2. причинно-целевой потому что, чтобы
@@ -7512,8 +7533,8 @@
 
 -lexeme
  lex: сябась
- stem: сябас.
- gramm: INTRJ
+ stem: сябась.
+ gramm: PART
  paradigm: Empty
  trans_ru: за здоровье!
 
@@ -8181,6 +8202,15 @@
  lex: дыръя
  stem: дыръя.
  gramm: POST
+ paradigm: Comparative
+ paradigm: poss-sg
+ paradigm: poss-pl
+ trans_ru: во время
+
+-lexeme
+ lex: дыръя
+ stem: дырья.
+ gramm: POST,missp
  paradigm: Comparative
  paradigm: poss-sg
  paradigm: poss-pl
@@ -10969,7 +10999,7 @@
 
 -lexeme
  lex: йылӥ
- stem: вылӥ.
+ stem: йылӥ.
  gramm: ADV
  paradigm: Noun-num-vowel
  trans_ru: на верхушке
@@ -12209,6 +12239,31 @@
  gramm: ADV,rus
  paradigm: connect_adverbs
  trans_ru: звонко
+-lexeme
+ lex: срочно
+ stem: срочно.
+ gramm: ADV,rus
+ paradigm: connect_adverbs
+ trans_ru: срочно
+-lexeme
+ lex: особо
+ stem: особо.
+ gramm: ADV,rus
+ paradigm: connect_adverbs
+ trans_ru: особо
+-lexeme
+ lex: совсем
+ stem: совсем.
+ gramm: ADV,rus
+ paradigm: connect_adverbs
+ trans_ru: совсем
+-lexeme
+ lex: ваще
+ stem: ваще.
+ gramm: ADV,rus
+ paradigm: connect_adverbs
+ trans_ru: вообще
+
 
 -lexeme
  lex: абалдеть
@@ -12426,3 +12481,9 @@
  gramm: PART,rus
  paradigm: Comparative
  trans_ru: ёптыть
+-lexeme
+ lex: ёптэ
+ stem: ёптэ.
+ gramm: PART,rus
+ paradigm: Comparative
+ trans_ru: ёптэ

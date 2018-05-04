@@ -57054,6 +57054,13 @@
  trans_ru: татуировка
 
 -lexeme
+ lex: татулык
+ stem: татулык.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: согласие и мир
+
+-lexeme
  lex: тау-сагыз
  stem: тау-сагыз.
  gramm: N,rus
@@ -97787,6 +97794,12 @@
  paradigm: Noun-num-consonant
  trans_ru: кустарник
 -lexeme
+ lex: кыккылолык
+ stem: кыккылолык.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: двуязычие
+-lexeme
  lex: кыккылъемлык
  stem: кыккылъемлык.
  gramm: N
@@ -99134,10 +99147,10 @@
  trans_ru: ультраудмурт
 -lexeme
  lex: университет
- stem: университет.
+ stem: универистет.
  gramm: N,rus,missp
  paradigm: Noun-num-consonant
- trans_ru: универистет
+ trans_ru: университет
 -lexeme
  lex: унитаз
  stem: унитаз.
