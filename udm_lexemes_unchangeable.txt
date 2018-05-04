@@ -12598,7 +12598,7 @@
 -lexeme
  lex: хм
  stem: хм.
- gramm: INTERJ
+ gramm: INTRJ
  paradigm: Comparative
  trans_ru: хм
 -lexeme
@@ -12634,7 +12634,7 @@
 -lexeme
  lex: причём
  stem: причём.
- gramm: CONJ,rus
+ gramm: CNJ,rus
  paradigm: Noun-num-consonant
  trans_ru: причём
 -lexeme
@@ -12646,7 +12646,7 @@
 -lexeme
  lex: ахаха
  stem: ахаха.
- gramm: INTERJ
+ gramm: INTRJ
  paradigm: Comparative
  trans_ru: ахаха
 -lexeme
@@ -12682,7 +12682,7 @@
 -lexeme
  lex: ахахах
  stem: ахахах.
- gramm: INTERJ
+ gramm: INTRJ
  paradigm: Comparative
  trans_ru: ахахах
 -lexeme
@@ -12814,7 +12814,7 @@
 -lexeme
  lex: мимими
  stem: мимими.
- gramm: INTERJ,rus
+ gramm: INTRJ,rus
  paradigm: Comparative
  trans_ru: мимими
 -lexeme
@@ -12856,7 +12856,7 @@
 -lexeme
  lex: ибо
  stem: ибо.
- gramm: CONJ,rus
+ gramm: CNJ,rus
  paradigm: Noun-num-consonant
  trans_ru: ибо
 -lexeme
@@ -12880,12 +12880,12 @@
 -lexeme
  lex: ха-ха
  stem: ха-ха.
- gramm: INTERJ
+ gramm: INTRJ
  paradigm: Comparative
  trans_ru: ха-ха
 -lexeme
  lex: хах
  stem: хах.
- gramm: INTERJ
+ gramm: INTRJ
  paradigm: Comparative
  trans_ru: хах

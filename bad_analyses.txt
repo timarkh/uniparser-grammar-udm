@@ -84,7 +84,7 @@
   {"lemma": "^(быганы|яраны)$", "gramm": ".*caus.*"},
   {"gramm": "V.*intr(.(?!caus))*pass,([12]|3,pl).*", "lemma": "^.*(?<!пырын|оскын|азьын|уккын|юлман)ы$"},
   {"gramm": ".*,vn,.*attr_o.*"},
-  {"wfGlossed": ".*ӟ-ем?[еы]?$", "gramm": ".*(fut|3,pl,prs).*"},
+  {"wfGlossed": ".*ӟ-е-?м?[еы]?$", "gramm": ".*(fut(?!,neg)|3,pl,prs).*"},
   {"wfGlossed": "^[^-]*з-?ь($|-.*)", "lemma": ".*ӟ$"}
 ]
 

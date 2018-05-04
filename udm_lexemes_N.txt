@@ -100082,3 +100082,9 @@
  gramm: N,rus
  paradigm: Noun-num-j
  trans_ru: вай-фай
+-lexeme
+ lex: админ
+ stem: админ.
+ gramm: N,PN,anim,hum
+ paradigm: Noun-num-consonant
+ trans_ru: админ
