@@ -16815,11 +16815,23 @@
  paradigm: Noun-num-j
  trans_ru: Миколай
 -lexeme
- lex: Миктапия
+ lex: Миктапи
  stem: миктапи.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
  trans_ru: Нововолково
+-lexeme
+ lex: Нововолково
+ stem: нововолково.
+ gramm: N,PN,topn
+ paradigm: Noun-num-vowel
+ trans_ru: Нововолково
+-lexeme
+ lex: Котегово
+ stem: котегово.
+ gramm: N,PN,topn
+ paradigm: Noun-num-vowel
+ trans_ru: Котегово
 -lexeme
  lex: Микул
  stem: микул.
@@ -19757,6 +19769,12 @@
 -lexeme
  lex: Юнды
  stem: юнды.
+ gramm: N,PN,topn
+ paradigm: Noun-num-vowel
+ trans_ru: Юнда
+-lexeme
+ lex: Юндӥ
+ stem: юндӥ.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
  trans_ru: Юнда
@@ -52898,11 +52916,11 @@
  paradigm: Noun-num-consonant
  trans_ru: Ижевск
 -lexeme
- lex: Падера
- stem: падера.
+ lex: Падёра
+ stem: падёра.//падера.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
- trans_ru: Падера
+ trans_ru: Падёра
 -lexeme
  lex: Паздерина
  stem: паздерина.
@@ -53822,11 +53840,35 @@
  paradigm: Noun-num-vowel
  trans_ru: Юмья
 -lexeme
- lex: якшур-бодья
+ lex: Якшур-бодья
  stem: якшурбодья.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
  trans_ru: Якшур-Бодья
+-lexeme
+ lex: Ахмади
+ stem: ахмади.
+ gramm: N,PN,topn
+ paradigm: Noun-num-vowel
+ trans_ru: Ахмади
+-lexeme
+ lex: Потён
+ stem: потён.
+ gramm: N,PN,topn
+ paradigm: Noun-num-consonant
+ trans_ru: Потён
+-lexeme
+ lex: Конюк
+ stem: конюк.
+ gramm: N,PN,topn
+ paradigm: Noun-num-consonant
+ trans_ru: Конюк
+-lexeme
+ lex: Детово
+ stem: детово.
+ gramm: N,PN,topn
+ paradigm: Noun-num-vowel
+ trans_ru: Детово
 -lexeme
  lex: Ялыке
  stem: ялыке.
