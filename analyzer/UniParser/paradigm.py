@@ -248,7 +248,8 @@ class Inflexion:
         bStemForcedRepeat = False
         for flexPart in flexParts:
             # 1. Look at the gloss.
-            if '.' not in flexPart:
+            if ('.' not in flexPart and not (flexPart.startswith('[')
+                                             and flexPart.endswith(']'))):
                 if iGlossPart >= len(glossParts):
                     self.raise_error('No correspondence between the inflexion ' +
                                      '(' + self.flex + ') and the glosses ' +

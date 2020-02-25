@@ -414,10 +414,12 @@ class Parser:
             curLevel = state.inflLevels[iLevel]
             paradigm.Paradigm.join_inflexions(infl, copy.deepcopy(curLevel['curInfl']),
                                               curLevel['paraLink'])
+
         if infl is None:
             return None
         wf = wordform.Wordform(state.sl, infl)
         if wf is None or wf.wf != state.wf:
+            # print(infl, wf, state.wf)
             return None
         if self.verbose > 0:
             print(state)

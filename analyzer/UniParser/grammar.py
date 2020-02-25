@@ -48,6 +48,15 @@ class Grammar:
                 Grammar.errorHandler = ErrorHandler()
         else:
             Grammar.errorHandler = errorHandler
+        Grammar.lexemes = []
+        Grammar.lexRulesByStem = {}
+        Grammar.lexRulesByLemma = {}
+        Grammar.clitics = []
+        Grammar.paradigms = {}
+        Grammar.lexByParadigm = {}
+        Grammar.stemConversions = {}
+        Grammar.derivations = {}
+        Grammar.badAnalyses = []
 
     @staticmethod
     def raise_error(message, data=None):
