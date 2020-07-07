@@ -79,7 +79,7 @@ def main():
     fOutLemmataRus = open('lexemes_rus.txt', 'w', encoding='utf-8')
     fOutLemmataRus.write(russify(lemmata))
     fOutLemmataRus.close()
-    fInParadigms = open('../paradigms.txt', 'r', encoding='utf-8-sig')
+    fInParadigms = open('../../paradigms.txt', 'r', encoding='utf-8-sig')
     paradigms = fInParadigms.read()
     fInParadigms.close()
     fOutParadigmsRus = open('paradigms_rus.txt', 'w', encoding='utf-8')

@@ -82,13 +82,13 @@ def analyze(freqListFile, paradigmFile, lexFile, lexRulesFile,
 
 
 if __name__ == '__main__':
-    paradigmFile = '../paradigms.txt'
-    lexFile = '../lexemes.txt'
-    lexRulesFile = '../lex_rules.txt'
-    derivFile = '../derivations.txt'
-    conversionFile = '../stem_conversions.txt'
-    cliticFile = '../clitics.txt'
-    delAnaFile = '../bad_analyses.txt'
+    paradigmFile = 'paradigms.txt'
+    lexFile = 'lexemes.txt'
+    lexRulesFile = 'lex_rules.txt'
+    derivFile = 'derivations.txt'
+    conversionFile = 'stem_conversions.txt'
+    cliticFile = 'clitics.txt'
+    delAnaFile = 'bad_analyses.txt'
     freqListFile = '../wordlist.csv'
     freqListSeparator = '\t'
     parserVerbosity = 0
