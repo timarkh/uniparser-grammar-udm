@@ -1,5 +1,5 @@
 import re
-import grammar
+from . import grammar
 
 
 class MorphFSTState:

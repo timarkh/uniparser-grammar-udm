@@ -1,6 +1,6 @@
-import grammar
-import reduplication
-import wordform
+from . import grammar
+from . import reduplication
+from . import wordform
 
 SIDE_PROCLITIC = 0
 SIDE_ENCLITIC = 1

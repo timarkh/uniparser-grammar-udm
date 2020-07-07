@@ -1,5 +1,5 @@
-import reduplication
-import lexeme
+from . import reduplication
+from . import lexeme
 import copy
 
 

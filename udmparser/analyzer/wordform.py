@@ -1,6 +1,6 @@
-﻿import grammar
-import lexeme
-import paradigm
+﻿from . import grammar
+from . import lexeme
+from . import paradigm
 import re
 import copy
 

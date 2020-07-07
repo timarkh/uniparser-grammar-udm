@@ -1,15 +1,15 @@
 ﻿import copy
 import json
 import re
-from ErrorHandler import ErrorHandler
-import lexeme
-import lex_rule
-import clitic
-from stem_conversion import StemConversion
-import paradigm
-import derivations
-import periphrastic
-import yamlReader
+from . ErrorHandler import ErrorHandler
+from . import lexeme
+from . import lex_rule
+from . import clitic
+from . stem_conversion import StemConversion
+from . import paradigm
+from . import derivations
+from . import periphrastic
+from . import yamlReader
 
 
 class Grammar:

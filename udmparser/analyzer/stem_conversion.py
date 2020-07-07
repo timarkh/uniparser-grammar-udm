@@ -1,5 +1,5 @@
 import re
-from reduplication import Replacement
+from . reduplication import Replacement
 
 class StemConversion:
     def __init__(self, dictDescr, errorHandler=None):

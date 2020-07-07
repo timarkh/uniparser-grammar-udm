@@ -1,6 +1,6 @@
-﻿import grammar
-from reduplication import RegexTest, Reduplication, REDUPL_SIDE_RIGHT, REDUPL_SIDE_LEFT
-import lexeme
+﻿from . import grammar
+from . reduplication import RegexTest, Reduplication, REDUPL_SIDE_RIGHT, REDUPL_SIDE_LEFT
+from . import lexeme
 import re
 import copy
 import time

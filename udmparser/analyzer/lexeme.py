@@ -1,8 +1,8 @@
 import copy
 import json
 import re
-import grammar
-import wordform
+from . import grammar
+from . import wordform
 
 rxStemParts = re.compile('(\\.|[^.]+)')
 

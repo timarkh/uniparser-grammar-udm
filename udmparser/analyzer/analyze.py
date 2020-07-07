@@ -2,8 +2,8 @@
 
 import sys
 import os
-import grammar
-import morph_parser
+from . import grammar
+from . import morph_parser
 import time
 
 

@@ -1,10 +1,10 @@
 import re
 import copy
-import grammar
-import paradigm
-import wordform
-import clitic
-import morph_fst
+from . import grammar
+from . import paradigm
+from . import wordform
+from . import clitic
+from . import morph_fst
 import time
 
 

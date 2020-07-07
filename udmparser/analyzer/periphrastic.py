@@ -1,6 +1,6 @@
 import re
-import grammar
-import reduplication
+from . import grammar
+from . import reduplication
 
 
 class PeriphrasticPart:

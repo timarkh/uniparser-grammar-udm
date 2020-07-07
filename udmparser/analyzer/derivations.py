@@ -1,8 +1,8 @@
-import grammar
+from . import grammar
 import copy
 import json
 import re
-from paradigm import Paradigm
+from . paradigm import Paradigm
 
 
 def deriv_for_paradigm(paradigm):
