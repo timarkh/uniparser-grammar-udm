@@ -8,6 +8,6 @@ setup(
     license='',
     author='timarkh',
     author_email='',
-    description=''
+    description='',
     include_package_data=True
 )
