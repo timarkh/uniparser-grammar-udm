@@ -25,10 +25,9 @@ def collect_filenames(s):
             filenames = [s]
     return filenames
 
-
-def analyze(freqListFile, paradigmFile, lexFile, lexRulesFile,
-            derivFile, conversionFile, cliticFile, delAnaFile,
-            parsedFile, unparsedFile, errorFile,
+def analyze(freqListFile=None, paradigmFile='paradigms.txt', lexFile='lexemes.txt', lexRulesFile='lex_rules.txt',
+            derivFile='derivations.txt', conversionFile='stem_conversions.txt', cliticFile='clitics.txt',
+            delAnaFile='bad_analyses.txt', parsedFile=None, unparsedFile=None, errorFile=None,
             xmlOutput=True, verboseGrammar=False, parserVerbosity=0,
             freqListSeparator='\t', glossing=True,
             parsingMethod='fst', partialCompile=True,
