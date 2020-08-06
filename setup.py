@@ -9,4 +9,5 @@ setup(
     author='timarkh',
     author_email='',
     description=''
+    include_package_data=True
 )
