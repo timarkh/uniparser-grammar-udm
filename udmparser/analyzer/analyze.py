@@ -5,7 +5,7 @@ import os
 from . import grammar
 from . import morph_parser
 import time
-
+import pathlib
 
 def collect_filenames(s):
     """
@@ -32,6 +32,11 @@ def analyze(freqListFile=None, paradigmFile='paradigms.txt', lexFile='lexemes.tx
             freqListSeparator='\t', glossing=True,
             parsingMethod='fst', partialCompile=True,
             minFlexLen=4, maxCompileTime=60):
+
+    old_working_dir = os.getcwd()
+    working_dir = pathlib.Path(__file__).parent.absolute()
+    os.chdir(str(working_dir))
+
     t1 = time.time()
     g = grammar.Grammar(verbose=verboseGrammar)
     grammar.Grammar.PARTIAL_COMPILE = partialCompile
@@ -79,6 +84,7 @@ def analyze(freqListFile=None, paradigmFile='paradigms.txt', lexFile='lexemes.tx
     print('Frequency list processed,', parsedRate * 100, '% tokens parsed.')
     print('Average speed:', nTokens / (time.time() - t1), 'tokens per second.')
 
+    os.chdir(str(old_working_dir))
 
 if __name__ == '__main__':
     paradigmFile = 'paradigms.txt'
