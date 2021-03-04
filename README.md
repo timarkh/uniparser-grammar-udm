@@ -1,5 +1,5 @@
 # Udmurt morphological analyzer
-This is a rule-based morphological analyzer for Udmurt (udm; Uralic > Permic). It is based on a formalized description of literary Udmurt morphology, which also includes a number of dialectal elements, and uses [uniparser-morph](https://github.com/timarkh/uniparser-morph) for parsing.
+This is a rule-based morphological analyzer for Udmurt (``udm``; Uralic > Permic). It is based on a formalized description of literary Udmurt morphology, which also includes a number of dialectal elements, and uses [uniparser-morph](https://github.com/timarkh/uniparser-morph) for parsing. It performs full morphological analysis of Udmurt words (lemmatization, POS tagging, grammatical tagging, glossing).
 
 ## How to use
 ### Python package
@@ -15,7 +15,7 @@ Import the module and create an instance of ``UdmurtAnalyzer`` class. Set ``mode
 from uniparser_udmurt import UdmurtAnalyzer
 a = UdmurtAnalyzer(mode='strict')
 
-analyses = a.analyze_words('Морфологияез')
+analyses = a.analyze_words('Морфологиез')
 # The parser is initialized before first use, so expect
 # some delay here (usually several seconds)
 
@@ -44,4 +44,4 @@ Alternatively, you can use a preprocessed word list. The ``wordlists`` directory
 The description is carried out in the ``uniparser-morph`` format and involves a description of the inflection (paradigms.txt), a grammatical dictionary (udm_lexemes_XXX.txt files), a list of rules that annotate combinations of lexemes and grammatical values with additional Russian translations (lex_rules.txt), and a short list of analyses that should be avoided (bad_analyses.txt). The dictionary contains descriptions of individual lexemes, each of which is accompanied by information about its stem, its part-of-speech tag and some other grammatical/borrowing information, its inflectional type (paradigm), and Russian translation. See more about the format [in the uniparser-morph documentation](https://uniparser-morph.readthedocs.io/en/latest/format.html).
 
 ## Disambiguation rules
-Apart from the analyzer, this repository contains a set of [Constraint Grammar](https://visl.sdu.dk/constraint_grammar.html) rules that can be used to partial disambiguation of analyzed Udmurt texts. They reduce the average number of different analyses per analyzed token from about 1.6 to about 1.3. As of now, they are **not** taken into account by the Python module; you will have to apply them yourself to the data analyzed by ``uniparser_udmurt``.
+Apart from the analyzer, this repository contains a set of [Constraint Grammar](https://visl.sdu.dk/constraint_grammar.html) rules that can be used for partial disambiguation of analyzed Udmurt texts. They reduce the average number of different analyses per analyzed token from about 1.6 to about 1.3. As of now, they are **not** taken into account by the Python module; you will have to apply them yourself to the data analyzed by ``uniparser_udmurt``.
