@@ -1,7 +1,34 @@
-uniparser-grammar-udm
-=====================
+# Udmurt morphological analyzer
+This is a rule-based morphological analyzer for Udmurt (udm; Uralic > Permic). It is based on a formalized description of literary Udmurt morphology, which also includes a number of dialectal elements, and uses [uniparser-morph](https://github.com/timarkh/uniparser-morph) for parsing.
 
-This is a formalized description of literary Udmurt morphology, which also includes a number of dialectal elements. The description is carried out in the UniParser format and involves a description of the inflection (paradigms.txt), a grammatical dictionary (udm_lexemes_XXX.txt files), a list of rules that annotate combinations of lexemes and grammatical values with additional Russian translations (lex_rules.txt), and a short list of analyses that should be avoided (bad_analyses.txt). The dictionary contains descriptions of individual lexemes, each of which is accompanied by information about its stem, its part-of-speech tag and some other grammatical/borrowing information, its inflectional type (paradigm), and Russian translation.
+## How to use
+The analyzer is available as a Python package. If you want to analyze Udmurt texts in Python, install the module:
+
+```
+pip3 install uniparser-udmurt
+```
+
+After that, you can either parse tokens or list of tokens with ``analyze_words()``, or parse a frequency list with ``analyze_wordlist()``. Here is an example of the former:
+
+```python
+from uniparser_morph import Analyzer
+a = Analyzer()
+
+# Put your grammar files in the current folder or set paths as properties of the Analyzer class (see below)
+a.load_grammar()
+
+analyses = a.analyze_words('Морфологияез')
+# The parser is initialized before first use, so expect some delay here (usually several seconds)
+# You will get a list of Wordform objects
+
+# You can also pass lists (even nested lists) and specify output format ('xml' or 'json'):
+analyses = a.analyze_words([['А'], ['Мон', 'тонэ', 'яратӥсько', '.']], format='xml')
+analyses = a.analyze_words(['Морфологияез', [['А'], ['Мон', 'тонэ', 'яратӥсько', '.']]], format='json')
+```
+
+Refer to the [uniparser-morph documentation](https://uniparser-morph.readthedocs.io/en/latest/) for the full list of options.
+
+The description is carried out in the UniParser format and involves a description of the inflection (paradigms.txt), a grammatical dictionary (udm_lexemes_XXX.txt files), a list of rules that annotate combinations of lexemes and grammatical values with additional Russian translations (lex_rules.txt), and a short list of analyses that should be avoided (bad_analyses.txt). The dictionary contains descriptions of individual lexemes, each of which is accompanied by information about its stem, its part-of-speech tag and some other grammatical/borrowing information, its inflectional type (paradigm), and Russian translation.
 
 This description can be used for morphological analysis of Udmurt texts in the following ways:
 
