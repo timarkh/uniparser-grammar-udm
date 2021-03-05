@@ -106,6 +106,8 @@ def prepare_files():
     fOutLexrules.close()
     shutil.copy2('bad_analyses.txt', 'uniparser_udmurt/data_strict/')
     shutil.copy2('bad_analyses.txt', 'uniparser_udmurt/data_nodiacritics/')
+    shutil.copy2('udmurt_disambiguation.cg3', 'uniparser_udmurt/data_strict/')
+    shutil.copy2('udmurt_disambiguation.cg3', 'uniparser_udmurt/data_nodiacritics/')
 
 
 def parse_wordlists():
