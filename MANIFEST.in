@@ -1,2 +1,4 @@
 include uniparser_udmurt/data_strict/*.txt
 include uniparser_udmurt/data_nodiacritics/*.txt
+include uniparser_udmurt/data_strict/*.cg3
+include uniparser_udmurt/data_nodiacritics/*.cg3
