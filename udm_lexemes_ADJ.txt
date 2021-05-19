@@ -32002,24 +32002,28 @@
  gramm: ADJ
  paradigm: connect_adjectives
  trans_ru: большой
+
 -lexeme
  lex: шоръёзо
  stem: шоръёзо.
  gramm: ADJ
  paradigm: connect_adjectives
  trans_ru: средний
+
 -lexeme
  lex: курдыт
  stem: курдыт.
  gramm: ADJ
  paradigm: connect_adjectives
  trans_ru: страшный
+
 -lexeme
  lex: пуштрес
  stem: пуштрес.
  gramm: ADJ
  paradigm: connect_adjectives
  trans_ru: пушистый
+
 -lexeme
  lex: тодослыко
  stem: тодослыко.
@@ -32027,3 +32031,23 @@
  paradigm: connect_adjectives
  trans_ru: научный
 
+-lexeme
+ lex: пеймыт
+ stem: пеймыт.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: тёмный
+
+-lexeme
+ lex: кезьыт
+ stem: кезьыт.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: холодный
+
+-lexeme
+ lex: муспотон
+ stem: муспотон.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: милый

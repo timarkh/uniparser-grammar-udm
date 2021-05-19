@@ -418,7 +418,7 @@
  gramm: PRO
  paradigm: Noun-mar
  paradigm: Noun-num-soft
- trans_ru: не знаю кто
+ trans_ru: кто-то, не знаю кто
 
 -lexeme
  lex: мар
@@ -1051,58 +1051,58 @@
 -lexeme
  lex: кытӥ
  stem: кытӥ.//кыти.
- gramm: ADVPRO,prol
+ gramm: ADVPRO
  paradigm: Noun-num-vowel
  trans_ru: где
 
 -lexeme
  lex: кытӥке
  stem: кытӥке.//кытике.
- gramm: ADVPRO,prol
+ gramm: ADVPRO
  paradigm: Noun-num-vowel
  trans_ru: где-то
 
 -lexeme
  lex: отӥ
  stem: отӥ.//оти.
- gramm: ADVPRO,prol
+ gramm: ADVPRO
  paradigm: Noun-num-vowel
  trans_ru: там
 
 -lexeme
  lex: сотӥ
  stem: сотӥ.//соти.
- gramm: ADVPRO,prol
+ gramm: ADVPRO
  paradigm: Noun-num-vowel
  trans_ru: там
 
 -lexeme
+ lex: татӥ
+ stem: татӥ.//тати.
+ gramm: ADVPRO
+ paradigm: Noun-num-vowel
+ trans_ru: тут
+
+-lexeme
  lex: котькытӥ
  stem: котькытӥ.//котькыти.
- gramm: ADVPRO,prol
+ gramm: ADVPRO
  paradigm: Noun-num-vowel
  trans_ru: где угодно
 
 -lexeme
  lex: олокытӥ
  stem: олокытӥ.//олокыти.
- gramm: ADVPRO,prol
+ gramm: ADVPRO
  paradigm: Noun-num-vowel
  trans_ru: где-то, не знаю где
 
 -lexeme
  lex: нокытӥ
  stem: нокытӥ.//нокыти.
- gramm: ADVPRO,prol
+ gramm: ADVPRO
  paradigm: Noun-num-vowel
  trans_ru: нигде; негде
-
--lexeme
- lex: котькытӥ
- stem: котькытӥ.//котькыти.
- gramm: ADVPRO,prol,egr
- paradigm: Comparative
- trans_ru: где угодно
 
 
 -lexeme

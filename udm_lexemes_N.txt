@@ -5291,6 +5291,7 @@
  stem: берпум.
  gramm: N
  paradigm: Noun-num-consonant
+ paradigm: Noun-num-consonant-y
  trans_ru: конец, остаток
 
 -lexeme
@@ -16108,7 +16109,7 @@
  lex: дуриськонкуала
  stem: дуриськонкуала.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-korka
  trans_ru: кузница
 
 -lexeme
@@ -20382,11 +20383,11 @@
 
 -lexeme
  lex: йырпыдэс
- stem: йырпыдэс.//йырпыдэск.
+ stem: йырпыдэс.//йырпыдэск.//йырпыдс.
  gramm: N,body
  paradigm: Noun-num-consonant
  paradigm: Noun-num-consonant-y
- trans_ru: 1. макушка 2. перен. бессовестный
+ trans_ru: макушка; бессовестный
 
 -lexeme
  lex: йырсазь
@@ -20464,6 +20465,7 @@
  stem: йыртыш.//йыртышк.
  gramm: N,body
  paradigm: Noun-num-consonant
+ paradigm: Noun-num-consonant-y
  trans_ru: затылок
 
 -lexeme
@@ -23774,7 +23776,7 @@
  stem: кимыж.
  gramm: N,body
  paradigm: Noun-num-consonant
- trans_ru: 1. кулак 2. анат. пясть
+ trans_ru: кулак; пясть
 
 -lexeme
  lex: кимызь
@@ -23785,9 +23787,10 @@
 
 -lexeme
  lex: кимыш
- stem: кимыш.
+ stem: кимыш.//кимышк.
  gramm: N,body
  paradigm: Noun-num-consonant
+ paradigm: Noun-num-consonant-y
  trans_ru: тыльная часть руки
 
 -lexeme
@@ -26343,21 +26346,7 @@
  lex: корка
  stem: корка.
  gramm: N
- paradigm: Noun-num-vowel
- trans_ru: изба, дом
-
--lexeme
- lex: корка
- stem: коркан.
- gramm: N,sg,loc
- paradigm: Empty
- trans_ru: изба, дом
-
--lexeme
- lex: корка
- stem: коркась.
- gramm: N,sg,el
- paradigm: Empty
+ paradigm: Noun-num-korka
  trans_ru: изба, дом
 
 -lexeme
@@ -27337,7 +27326,7 @@
  lex: куала
  stem: куала.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-korka
  trans_ru: куала (культовая постройка, святилище)
 
 -lexeme
@@ -33516,6 +33505,7 @@
  stem: лым.
  gramm: N
  paradigm: Noun-num-consonant
+ paradigm: Noun-num-consonant-y
  trans_ru: 1. бульон 2. рассол
 
 -lexeme
@@ -37189,7 +37179,7 @@
  lex: мукорка
  stem: мукорка.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-korka
  trans_ru: землянка
 
 -lexeme
@@ -37766,6 +37756,7 @@
  stem: мылаз.
  gramm: N,body
  paradigm: Noun-num-soft
+ paradigm: Noun-num-soft-y
  trans_ru: грудь
 
 -lexeme
@@ -42010,9 +42001,9 @@
 -lexeme
  lex: палар
  stem: палар.
- gramm: N
+ gramm: N,time_meas
  paradigm: Noun-num-consonant
- trans_ru: погода
+ trans_ru: полугодие
 
 -lexeme
  lex: палас
@@ -43202,7 +43193,7 @@
  stem: пеймыт.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: темнота, тьма, мрак
+ trans_ru: темнота
 
 -lexeme
  lex: пека
@@ -56469,6 +56460,7 @@
  stem: сӥныр.
  gramm: N,body
  paradigm: Noun-num-consonant
+ paradigm: Noun-num-consonant-y
  trans_ru: сухожилие, жила
 
 -lexeme
@@ -71879,10 +71871,10 @@
 
 -lexeme
  lex: ёрос
- stem: ёрос.
+ stem: ёрос.//ёроск.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: район, область, участок
+ trans_ru: район, область, участок; примерно
 
 -lexeme
  lex: ӝаба
@@ -74397,6 +74389,7 @@
  stem: ангес.
  gramm: N,body
  paradigm: Noun-num-consonant
+ paradigm: Noun-num-consonant-y
  trans_ru: челюсть
 -lexeme
  lex: англичан
@@ -77661,6 +77654,7 @@
  stem: йылол.
  gramm: N
  paradigm: Noun-num-consonant
+ paradigm: Noun-num-consonant-y
  trans_ru: обычай, традиция
 -lexeme
  lex: йырвиым
@@ -78525,7 +78519,7 @@
  stem: коркакузё.
  gramm: N,supernat
  paradigm: Noun-num-vowel
- trans_ru: коркакузё
+ trans_ru: коркакузё (дух-хозяин дома)
 -lexeme
  lex: королевство
  stem: королевство.
@@ -79071,6 +79065,7 @@
  stem: кырымпыдэс.//кырымпыдс.
  gramm: N,body
  paradigm: Noun-num-consonant
+ paradigm: Noun-num-consonant-y
  trans_ru: ладонь
 -lexeme
  lex: кышнопал
@@ -79128,9 +79123,10 @@
  trans_ru: пир
 -lexeme
  lex: кӧтурдэс
- stem: кӧтурдэс.//кӧтурдс.
+ stem: кӧтурдэс.//кӧтурдс.//кӧтурдэск.
  gramm: N,body
  paradigm: Noun-num-consonant
+ paradigm: Noun-num-consonant-y
  trans_ru: бок
 -lexeme
  lex: лабаз
@@ -80415,6 +80411,7 @@
  stem: нимтул.
  gramm: N
  paradigm: Noun-num-consonant
+ paradigm: Noun-num-consonant-y
  trans_ru: фамилия, имя и отчество
 -lexeme
  lex: нитрат
@@ -81219,6 +81216,7 @@
  stem: пельпум.
  gramm: N,body
  paradigm: Noun-num-consonant
+ paradigm: Noun-num-consonant-y
  trans_ru: плечо
 -lexeme
  lex: пельсьӧр
@@ -86289,18 +86287,21 @@
  stem: ымпуш.//ымпушк.
  gramm: N,body
  paradigm: Noun-num-consonant
+ paradigm: Noun-num-consonant-y
  trans_ru: полость рта
 -lexeme
  lex: ымтрос
  stem: ымтрос.//ымтроск.
  gramm: N
  paradigm: Noun-num-consonant
+ paradigm: Noun-num-consonant-y
  trans_ru: полный рот
 -lexeme
  lex: ымтырос
  stem: ымтырос.//ымтыроск.
  gramm: N
  paradigm: Noun-num-consonant
+ paradigm: Noun-num-consonant-y
  trans_ru: полный рот
 -lexeme
  lex: ымусьтон

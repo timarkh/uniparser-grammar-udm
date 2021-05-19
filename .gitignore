@@ -22,6 +22,7 @@ paradigms.txt
 bad_analyses.txt
 derivations.txt
 lex_rules.txt
+add_lex/
 .Python
 env/
 build/
