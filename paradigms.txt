@@ -1,14 +1,17 @@
 ﻿-paradigm: connect_verbs-I
  -flex: .<.>
   gramm:
-  paradigm: Aspect-I
-  paradigm: Aspect-I-to-II
+  paradigm: Aspect-I-y
+  paradigm: Aspect-I-a
   paradigm: Verb-pres-I-positive-j
+  paradigm: Verb-pres-I-positive-i
   paradigm: Verb-past-I-positive
   paradigm: Verb-future-I-positive-j
   paradigm: Verb-pres-I-negative-j
+  paradigm: Verb-pres-I-negative-i
   paradigm: Verb-I-negative-j
   paradigm: Evidentiality-I-j
+  paradigm: Evidentiality-I-i
   paradigm: Participles-I-j
   paradigm: Verb-imp-I-j
   paradigm: Verbal-noun-I-j
@@ -29,13 +32,13 @@
  -flex: <0>.<.>
   gramm:
   paradigm: Infinitive-I-dial-short
-  regex-stem: ^(пот|пыр|лыкт|учк|усьт|ну|кошк|ортч|лу|адӟ|мын|берт|гожт|тыр|экт|ветл|бӧрд|шу|кынм)[.<>]*$
+  regex-stem: ^(пот|пыр|лыкт|учк|усьт|ну|кошк|ортч|лу|адӟ|мын|берт|гожт|тыр|экт|ветл|бӧрд|шу|кынм|басьт)[.<>]*$
 
 -paradigm: connect_verbs-I-soft
  -flex: .<.>
   gramm:
-  paradigm: Aspect-I-soft
-  paradigm: Aspect-I-to-II-soft
+  paradigm: Aspect-I-soft-y
+  paradigm: Aspect-I-soft-a
   paradigm: Infinitive-I-soft
   paradigm: Verb-pres-I-positive-soft
   paradigm: Verb-past-I-positive-soft
@@ -57,7 +60,8 @@
 -paradigm: connect_verbs-II
  -flex: .<.>
   gramm:
- paradigm: Aspect-II
+ paradigm: Aspect-II-y
+ paradigm: Aspect-II-a
  paradigm: Infinitive-II
  paradigm: Verb-pres-II-positive
  paradigm: Verb-past-II-positive
@@ -127,6 +131,34 @@
   paradigm: Noun-case-poss-1,pl
   paradigm: Noun-case-poss-2,pl
   paradigm: Noun-case-poss-3,pl
+ -flex: .гес|ъёс<.>//.гем|ъёс<.>
+  gramm: comp,adj_nmlz,pl
+  gloss: COMP|PL
+  paradigm: Noun-case
+  paradigm: Noun-case-y
+  paradigm: Noun-case-ill-y
+  paradigm: Noun-case-poss-y-1,sg
+  paradigm: Noun-case-poss-y-2,sg
+  paradigm: Noun-case-poss-y-3,sg
+  paradigm: Noun-case-poss-1,pl
+  paradigm: Noun-case-poss-2,pl
+  paradigm: Noun-case-poss-3,pl
+
+-paradigm: connect_adjectives-y
+ -flex: .<.>
+  gramm: adj_nmlz
+  paradigm: Noun-case-poss-y-1,sg
+  paradigm: Noun-case-poss-y-2,sg
+  paradigm: Noun-case-poss-y-3,sg
+
+
+-paradigm: connect_adjectives-soft-y
+ -flex: .[ь]<.>
+  gramm: adj_nmlz
+  paradigm: Noun-case-poss-y-1,sg
+  paradigm: Noun-case-poss-y-2,sg
+  paradigm: Noun-case-poss-y-3,sg
+
 
 # This is mostly for Russian adjectives in -ой
 -paradigm: connect_adjectives-j
@@ -149,6 +181,18 @@
   paradigm: Noun-case-poss-1,pl
   paradigm: Noun-case-poss-2,pl
   paradigm: Noun-case-poss-3,pl
+ -flex: .[й]гес|ъёс<.>//.[й]гем|ъёс<.>
+  gramm: comp,adj_nmlz,pl
+  gloss: COMP|PL
+  paradigm: Noun-case
+  paradigm: Noun-case-y
+  paradigm: Noun-case-ill-y
+  paradigm: Noun-case-poss-y-1,sg
+  paradigm: Noun-case-poss-y-2,sg
+  paradigm: Noun-case-poss-y-3,sg
+  paradigm: Noun-case-poss-1,pl
+  paradigm: Noun-case-poss-2,pl
+  paradigm: Noun-case-poss-3,pl
 
 -paradigm: connect_adjectives-soft
  -flex: .[ь]<.>
@@ -161,6 +205,18 @@
  -flex: .[ь]ёс<.>
   gramm: adj_nmlz,pl
   gloss: PL
+  paradigm: Noun-case
+  paradigm: Noun-case-y
+  paradigm: Noun-case-ill-y
+  paradigm: Noun-case-poss-y-1,sg
+  paradigm: Noun-case-poss-y-2,sg
+  paradigm: Noun-case-poss-y-3,sg
+  paradigm: Noun-case-poss-1,pl
+  paradigm: Noun-case-poss-2,pl
+  paradigm: Noun-case-poss-3,pl
+ -flex: .[ь]гес|ъёс<.>//.[ь]гем|ъёс<.>
+  gramm: comp,adj_nmlz,pl
+  gloss: COMP|PL
   paradigm: Noun-case
   paradigm: Noun-case-y
   paradigm: Noun-case-ill-y
@@ -370,6 +426,10 @@
   gramm: attr,attr_tem
   gloss: NEG.ATTR
   paradigm: connect_adjectives
+ -flex: .ос|тэм<.>//.ёс|тэм<.>
+  gramm: pl,attr,attr_tem
+  gloss: PL|NEG.ATTR
+  paradigm: connect_adjectives
  -flex: .скын<.>
   gramm: period
   gloss: DELIM
@@ -398,7 +458,7 @@
   paradigm: Noun-case-poss-1,pl
   paradigm: Noun-case-poss-2,pl
   paradigm: Noun-case-poss-3,pl
- -flex: .ё<.>
+ -flex: .о<.>//.ё<.>
   gramm: attr,attr_o
   gloss: ATTR
   paradigm: connect_adjectives
@@ -409,6 +469,10 @@
  -flex: .тэм<.>
   gramm: attr,attr_tem
   gloss: NEG.ATTR
+  paradigm: connect_adjectives
+ -flex: .ос|тэм<.>//.ёс|тэм<.>
+  gramm: pl,attr,attr_tem
+  gloss: PL|NEG.ATTR
   paradigm: connect_adjectives
  -flex: .скын<.>
   gramm: period
@@ -456,6 +520,10 @@
  -flex: .тэм<.>
   gramm: attr,attr_tem
   gloss: NEG.ATTR
+  paradigm: connect_adjectives
+ -flex: .ос|тэм<.>//.ёс|тэм<.>
+  gramm: pl,attr,attr_tem
+  gloss: PL|NEG.ATTR
   paradigm: connect_adjectives
  -flex: .скын<.>
   gramm: period
@@ -512,6 +580,15 @@
   gramm: attr,attr_tem
   gloss: NEG.ATTR
   paradigm: connect_adjectives
+ -flex: .ъёс|тэм<.>
+  gramm: pl,attr,attr_tem
+  gloss: PL|NEG.ATTR
+  paradigm: connect_adjectives
+ -flex: .ьёс|тэм<.>
+  regex-prev: ^.*[бвгжӝкмпрфчӵшщ][<>.]*$
+  gramm: pl,attr,attr_tem
+  gloss: PL|NEG.ATTR
+  paradigm: connect_adjectives
  -flex: .скын<.>
   gramm: period
   gloss: DELIM
@@ -542,6 +619,10 @@
  -flex: .тэм<.>
   gramm: attr,attr_tem
   gloss: NEG.ATTR
+  paradigm: connect_adjectives
+ -flex: .ъёс|тэм<.>
+  gramm: pl,attr,attr_tem
+  gloss: PL|NEG.ATTR
   paradigm: connect_adjectives
 
 -paradigm: Noun-num-consonant-y
@@ -574,6 +655,11 @@
   regex-stem: ^.*([^<>.н]|[^<>.аяоё][^<>.]|фон)[<>.]*$
   regex-gramm: ^(.(?!rel_n))*$
   paradigm: connect_adjectives
+ -flex: .о<.>
+  gramm: attr,attr_o
+  gloss: ATTR
+  regex-lex: ^бер$
+  paradigm: connect_adjectives
  -flex: .ъем<.>
   gramm: attr,attr_em
   gloss: ATTR
@@ -581,6 +667,10 @@
  -flex: .тэм<.>
   gramm: attr,attr_tem
   gloss: NEG.ATTR
+  paradigm: connect_adjectives
+ -flex: .ъёс|тэм<.>
+  gramm: pl,attr,attr_tem
+  gloss: PL|NEG.ATTR
   paradigm: connect_adjectives
  -flex: .скын<.>
   gramm: period
@@ -686,6 +776,11 @@
   gloss: ATTR
   regex-gramm: ^(.(?!rel_n))*$
   paradigm: connect_adjectives
+ -flex: .ё<.>
+  gramm: attr,attr_o
+  gloss: ATTR
+  regex-lex: ^азь$
+  paradigm: connect_adjectives
  -flex: .[ь]ем<.>
   gramm: attr,attr_em
   gloss: ATTR
@@ -693,6 +788,10 @@
  -flex: .[ь]тэм<.>
   gramm: attr,attr_tem
   gloss: NEG.ATTR
+  paradigm: connect_adjectives
+ -flex: .[ь]ёс|тэм<.>
+  gramm: pl,attr,attr_tem
+  gloss: PL|NEG.ATTR
   paradigm: connect_adjectives
  -flex: .[ь]скын<.>
   gramm: period
@@ -724,6 +823,10 @@
  -flex: .ьтэм<.>
   gramm: attr,attr_tem
   gloss: NEG.ATTR
+  paradigm: connect_adjectives
+ -flex: .ьёс|тэм<.>
+  gramm: pl,attr,attr_tem
+  gloss: PL|NEG.ATTR
   paradigm: connect_adjectives
 
 -paradigm: Noun-num-soft-y
@@ -763,6 +866,10 @@
   gramm: attr,attr_tem
   gloss: NEG.ATTR
   paradigm: connect_adjectives
+ -flex: .[ь]ёс|тэм<.>
+  gramm: pl,attr,attr_tem
+  gloss: PL|NEG.ATTR
+  paradigm: connect_adjectives
  -flex: .[ь]скын<.>
   gramm: period
   gloss: DELIM
@@ -793,7 +900,7 @@
  -flex: .ос<.>//.ёс<.>
   gramm: pl
   gloss: PL
-  regex-stem: .*и[.<>]*$
+  regex-stem: .*[иӥ][.<>]*$
   paradigm: Noun-case
   paradigm: Noun-case-y
   paradigm: Noun-case-ill-y
@@ -815,6 +922,15 @@
  -flex: .[й]тэм<.>
   gramm: attr,attr_tem
   gloss: NEG.ATTR
+  paradigm: connect_adjectives
+ -flex: .[й]ёс|тэм<.>//.[й]ъёс|тэм<.>
+  gramm: pl,attr,attr_tem
+  gloss: PL|NEG.ATTR
+  paradigm: connect_adjectives
+ -flex: .ёс|тэм<.>//.ос|тэм<.>
+  regex-stem: .*[иӥ][.<>]*$
+  gramm: pl,attr,attr_tem
+  gloss: PL|NEG.ATTR
   paradigm: connect_adjectives
  -flex: .[й]скын<.>
   gramm: period
@@ -832,9 +948,22 @@
   paradigm: Noun-case-poss-1,pl-j
   paradigm: Noun-case-poss-2,pl-j
   paradigm: Noun-case-poss-3,pl-j
- -flex: .[й]ёс<.>
+ -flex: .[й]ёс<.>//.[й]ъёс<.>
   gramm: pl
   gloss: PL
+  paradigm: Noun-case
+  paradigm: Noun-case-y
+  paradigm: Noun-case-ill-y
+  paradigm: Noun-case-poss-y-1,sg
+  paradigm: Noun-case-poss-y-2,sg
+  paradigm: Noun-case-poss-y-3,sg
+  paradigm: Noun-case-poss-1,pl
+  paradigm: Noun-case-poss-2,pl
+  paradigm: Noun-case-poss-3,pl
+ -flex: .ос<.>//.ёс<.>
+  gramm: pl
+  gloss: PL
+  regex-stem: .*[иӥ][.<>]*$
   paradigm: Noun-case
   paradigm: Noun-case-y
   paradigm: Noun-case-ill-y
@@ -856,6 +985,15 @@
  -flex: .[й]тэм<.>
   gramm: attr,attr_tem
   gloss: NEG.ATTR
+  paradigm: connect_adjectives
+ -flex: .[й]ёс|тэм<.>//.[й]ъёс|тэм<.>
+  gramm: pl,attr,attr_tem
+  gloss: PL|NEG.ATTR
+  paradigm: connect_adjectives
+ -flex: .ёс|тэм<.>//.ос|тэм<.>
+  regex-stem: .*[иӥ][.<>]*$
+  gramm: pl,attr,attr_tem
+  gloss: PL|NEG.ATTR
   paradigm: connect_adjectives
  -flex: .[й]скын<.>
   gramm: period
@@ -897,6 +1035,10 @@
   gramm: attr,attr_tem
   gloss: NEG.ATTR
   paradigm: connect_adjectives
+ -flex: .ос|тэм<.>//.ёс|тэм<.>//.[я]ос|тэм<.>//.[я]ёс|тэм<.>
+  gramm: pl,attr,attr_tem
+  gloss: PL|NEG.ATTR
+  paradigm: connect_adjectives
 
 -paradigm: Noun-num-ije
  -flex: .<.>
@@ -932,6 +1074,10 @@
   gramm: attr,attr_tem
   gloss: NEG.ATTR
   paradigm: connect_adjectives
+ -flex: .ос|тэм<.>//.ёс|тэм<.>//.[е]ос|тэм<.>//.[е]ёс|тэм<.>
+  gramm: pl,attr,attr_tem
+  gloss: PL|NEG.ATTR
+  paradigm: connect_adjectives
 
 -paradigm: Noun-num-pal
  -flex: .<.>
@@ -946,6 +1092,99 @@
  paradigm: Noun-case-poss-1,pl
  paradigm: Noun-case-poss-2,pl
  paradigm: Noun-case-poss-3,pl
+
+
+
+-paradigm: Noun-case-compounding-core
+ -flex: .<.>
+  gramm: 
+ -flex: .эз<.>
+  gramm: case_comp,acc
+  gloss: ACC
+ -flex: .ез<.>
+  gramm: case_comp,acc
+  gloss: ACC
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+ -flex: .лэн<.>
+  gramm: case_comp,gen
+  gloss: GEN
+ -flex: .лэсь<.>
+  gramm: case_comp,abl
+  gloss: ABL
+ -flex: .лы<.>
+  gramm: case_comp,dat
+  gloss: DAT
+ -flex: .эн<.>
+  gramm: case_comp,ins
+  gloss: INS
+ -flex: .ен<.>
+  gramm: case_comp,ins
+  gloss: INS
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+ -flex: .тэк<.>
+  gramm: case_comp,car
+  gloss: CAR
+  regex-prev: ^.*[^<>.ыя][<>.]*$
+ -flex: .я<.>
+  regex-prev: ^.*[йаеёиӥоӧуыэюя][<>.]*$
+  gramm: case_comp,adv
+  gloss: ADV
+ -flex: .ъя<.>
+  gramm: case_comp,adv
+  gloss: ADV
+ -flex: .эз<.>
+  gramm: case_comp,poss_comp,nom
+  gloss: P.3SG
+ -flex: .ез<.>
+  gramm: case_comp,poss_comp,nom
+  gloss: P.3SG
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+ -flex: .эз|лэн<.>
+  gloss: P.3SG|GEN
+  gramm: case_comp,poss_comp,gen
+ -flex: .ез|лэн<.>
+  gloss: P.3SG|GEN
+  gramm: case_comp,poss_comp,gen
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+ -flex: .эз|лэсь<.>
+  gloss: P.3SG|ABL
+  gramm: case_comp,poss_comp,abl
+ -flex: .ез|лэсь<.>
+  gloss: P.3SG|ABL
+  gramm: case_comp,poss_comp,abl
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+ -flex: .эз|лы<.>
+  gloss: P.3SG|DAT
+  gramm: case_comp,poss_comp,dat
+ -flex: .ез|лы<.>
+  gloss: P.3SG|DAT
+  gramm: case_comp,poss_comp,dat
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+ -flex: .эз|тэк<.>
+  gloss: P.3SG|CAR
+  gramm: case_comp,poss_comp,car
+ -flex: .ез|тэк<.>
+  gloss: P.3SG|CAR
+  gramm: case_comp,poss_comp,car
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+ -flex: .эз|ъя<.>
+  gloss: P.3SG|ADV
+  gramm: case_comp,poss_comp,adv
+ -flex: .ез|ъя<.>
+  gloss: P.3SG|ADV
+  gramm: case_comp,poss_comp,adv
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+ -flex: .зэ<.>//.сэ<.>
+  gloss: P.3SG.ACC
+  gramm: case_comp,poss_comp,acc
+ -flex: .эн|ыз<.>
+  gloss: INS|P.3SG
+  gramm: case_comp,poss_comp,ins
+ -flex: .ен|ыз<.>
+  gloss: INS|P.3SG
+  gramm: case_comp,poss_comp,ins
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+ paradigm: Comparative
 
 
 -paradigm: Noun-case-compounding
@@ -1322,7 +1561,7 @@
  -flex: .ы<.>
   gramm: ill
   gloss: ILL
-  paradigm: Comparative
+  paradigm: Noun-case-compounding
   regex-gramm: ^.*rel_n.*$
 
 -paradigm: Noun-case-ill-y
@@ -1339,7 +1578,7 @@
  -flex: .[ь]ы<.>
   gramm: ill
   gloss: ILL
-  paradigm: Comparative
+  paradigm: Noun-case-compounding
   regex-gramm: ^.*rel_n.*$
 
 -paradigm: Noun-case-soft-ill-y
@@ -1361,13 +1600,13 @@
  -flex: .[й]ы<.>
   gramm: ill
   gloss: ILL
-  paradigm: Comparative
+  paradigm: Noun-case-compounding
   regex-gramm: ^.*rel_n.*$
  -flex: .ы<.>
   gramm: ill
   gloss: ILL
   regex-stem: .*и[.<>]*$
-  paradigm: Comparative
+  paradigm: Noun-case-compounding
   regex-gramm: ^.*rel_n.*$
 
 -paradigm: Noun-case-la
@@ -1390,6 +1629,10 @@
  -flex: .ласен<.>
   gramm: egr
   gloss: EGR
+  paradigm: Noun-case-compounding
+ -flex: .латӥ<.>
+  gramm: prol
+  gloss: PROL
   paradigm: Noun-case-compounding
 
 -paradigm: Noun-case-korka
@@ -1526,6 +1769,16 @@
  -flex: .озь<.>
   gramm: term
   gloss: TERM
+  paradigm: Comparative
+ -flex: .ёз<.>
+  gramm: term
+  gloss: TERM
+  regex-prev: ^.*[йаеёиӥоӧуыэюя][<>.]*$
+  paradigm: Noun-case-compounding-soft
+ -flex: .ёзь<.>
+  gramm: term
+  gloss: TERM
+  regex-prev: ^.*[йаеёиӥоӧуыэюя][<>.]*$
   paradigm: Comparative
  -flex: .этӥ<.>//.эти<.>
   gramm: prol
@@ -2103,7 +2356,7 @@
   gramm: term
   gloss: TERM
   paradigm: Noun-case-compounding-soft
- -flex: .ёзь<.>//.[я]ёзь<.>
+ -flex: .ёзь<.>//.[я]ёзь<.>//.озь<.>//.[я]озь<.>
   gramm: term
   gloss: TERM
   paradigm: Comparative
@@ -2180,7 +2433,7 @@
   gramm: term
   gloss: TERM
   paradigm: Noun-case-compounding-soft
- -flex: .ёзь<.>
+ -flex: .ёзь<.>//.озь<.>
   gramm: term
   gloss: TERM
   paradigm: Comparative
@@ -2793,7 +3046,7 @@
  -flex: .озя|мы<.>
   gramm: term,1pl
   gloss: TERM|P.1PL
- -flex: .ытӥ|мы<.>//.тӥ|мы<.>//.ыти|мы<.>//.ти|мы<.>
+ -flex: .ытӥ|мы<.>//.тӥ|мы<.>//.ыти|мы<.>//.ти|мы<.>//.этӥ|мы<.>
   gramm: prol,1pl
   gloss: PROL|P.1PL
  paradigm: Comparative
@@ -2884,7 +3137,7 @@
  -flex: .озя|ды<.>
   gramm: term,2pl
   gloss: TERM|P.2PL
- -flex: .ытӥ|ды<.>//.тӥ|ды<.>//.ыти|ды<.>//.ти|ды<.>
+ -flex: .ытӥ|ды<.>//.тӥ|ды<.>//.ыти|ды<.>//.ти|ды<.>//.этӥ|ды<.>
   gramm: prol,2pl
   gloss: PROL|P.2PL
  paradigm: Comparative
@@ -2974,7 +3227,7 @@
  -flex: .озя|зы<.>
   gramm: term,3pl
   gloss: TERM|P.3PL
- -flex: .ытӥ|зы<.>//.тӥ|зы<.>//.ыти|зы<.>//.ти|зы<.>
+ -flex: .ытӥ|зы<.>//.тӥ|зы<.>//.ыти|зы<.>//.ти|зы<.>//.этӥ|зы<.>
   gramm: prol,3pl
   gloss: PROL|P.3PL
  paradigm: Comparative
@@ -3103,31 +3356,31 @@
 
   
 -paradigm: Noun-case-mar-poss-3,sg
- -flex: .из<.>//.ӥз<.>
+ -flex: .из<.>//.ӥз<.>//.йиз<.>
   gramm: nom,3sg
   gloss: P.3SG
- -flex: .из|лэн<.>//.ӥз|лэн<.>
+ -flex: .из|лэн<.>//.ӥз|лэн<.>//.йиз|лэн<.>
   gramm: gen,3sg
   gloss: P.3SG|GEN
- -flex: .из|лэсь<.>//.ӥз|лэсь<.>
+ -flex: .из|лэсь<.>//.ӥз|лэсь<.>//.йиз|лэсь<.>
   gramm: abl,3sg
   gloss: P.3SG|ABL
- -flex: .из|лы<.>//.ӥз|лы<.>
+ -flex: .из|лы<.>//.ӥз|лы<.>//.йиз|лы<.>
   gramm: dat,3sg
   gloss: P.3SG|DAT
- -flex: .из|тэк<.>//.ӥз|тэк<.>
+ -flex: .из|тэк<.>//.ӥз|тэк<.>//.йиз|тэк<.>
   gramm: car,3sg
   gloss: P.3SG|CAR
- -flex: .из|ъя<.>//.ӥз|ъя<.>
+ -flex: .из|ъя<.>//.ӥз|ъя<.>//.йиз|ъя<.>
   gramm: adv,3sg
   gloss: P.3SG|ADV
- -flex: .из|лань<.>//.ӥз|лань<.>
+ -flex: .из|лань<.>//.ӥз|лань<.>//.йиз|лань<.>
   gramm: app,3sg
   gloss: P.3SG|APP
- -flex: .зэ<.>//.изэ<.>
+ -flex: .зэ<.>//.изэ<.>//.йизэ<.>//.йзэ<.>
   gramm: acc,3sg
   gloss: P.3SG.ACC
- -flex: .ин|ыз<.>//.ӥн|ыз<.>
+ -flex: .ин|ыз<.>//.ӥн|ыз<.>//.йин|ыз<.>
   gramm: ins,3sg
   gloss: INS|P.3SG
  -flex: .а|з<.>//.я|з<.>
@@ -3136,10 +3389,10 @@
  -flex: .а|з<.>//.я|з<.>
   gramm: ill,3sg
   gloss: ILL|P.3SG
- -flex: .ысьт|ыз<.>
+ -flex: .ысьт|ыз<.>//.исьт|ыз<.>
   gramm: el,3sg
   gloss: EL|P.3SG
- -flex: .ысен|ыз<.>
+ -flex: .ысен|ыз<.>//.исен|ыз<.>
   gramm: egr,3sg
   gloss: EGR|P.3SG
  -flex: .озя|з<.>
@@ -4377,6 +4630,27 @@
   gloss: PL.ADJ
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
   paradigm: Comparative
+ -flex: .эсь<.>
+  gramm: pl,adj_nmlz
+  gloss: PL.ADJ
+  paradigm: Noun-case
+  paradigm: Noun-case-poss-1,sg
+  paradigm: Noun-case-poss-2,sg
+  paradigm: Noun-case-poss-3,sg
+  paradigm: Noun-case-poss-1,pl
+  paradigm: Noun-case-poss-2,pl
+  paradigm: Noun-case-poss-3,pl
+ -flex: .есь<.>
+  gramm: pl,adj_nmlz
+  gloss: PL.ADJ
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  paradigm: Noun-case
+  paradigm: Noun-case-poss-1,sg
+  paradigm: Noun-case-poss-2,sg
+  paradigm: Noun-case-poss-3,sg
+  paradigm: Noun-case-poss-1,pl
+  paradigm: Noun-case-poss-2,pl
+  paradigm: Noun-case-poss-3,pl
  -flex: .эсь|ёс<.>
   gramm: pl,adj_nmlz
   gloss: PL.ADJ|PL
@@ -4431,6 +4705,16 @@
   gramm: pl
   gloss: PL.ADJ
   paradigm: Comparative
+ -flex: .есь<.>//.[й]есь<.>
+  gramm: pl,adj_nmlz
+  gloss: PL.ADJ
+  paradigm: Noun-case
+  paradigm: Noun-case-poss-1,sg
+  paradigm: Noun-case-poss-2,sg
+  paradigm: Noun-case-poss-3,sg
+  paradigm: Noun-case-poss-1,pl
+  paradigm: Noun-case-poss-2,pl
+  paradigm: Noun-case-poss-3,pl
  -flex: .ёс<.>//.[й]ёс<.>//.[й]ос<.>
   gramm: pl
   gloss: PL
@@ -4455,6 +4739,16 @@
   gramm: pl
   gloss: PL.ADJ
   paradigm: Comparative
+ -flex: .есь<.>
+  gramm: pl,adj_nmlz
+  gloss: PL.ADJ
+  paradigm: Noun-case
+  paradigm: Noun-case-poss-1,sg
+  paradigm: Noun-case-poss-2,sg
+  paradigm: Noun-case-poss-3,sg
+  paradigm: Noun-case-poss-1,pl
+  paradigm: Noun-case-poss-2,pl
+  paradigm: Noun-case-poss-3,pl
  -flex: .есь|ёс<.>
   gramm: pl,adj_nmlz
   gloss: PL.ADJ|PL
@@ -4482,6 +4776,22 @@
  -flex: .
   gramm: 
 
+-paradigm: Comparative_Dative
+ -flex: .гес//.гем
+  gramm: comp
+  gloss: COMP
+ -flex: .лы
+  gramm: dat
+  gloss: DAT
+ -flex: .лы|гес//.лы|гем
+  gramm: dat,comp
+  gloss: DAT|COMP
+ -flex: .гес|лы//.гем|лы
+  gramm: dat.comp
+  gloss: DAT|COMP
+ -flex: .
+  gramm: 
+
 
 -paradigm: cvb_pers
  -flex: .м<.>
@@ -4502,7 +4812,7 @@
  -flex: .зы<.>
   gramm: 3,pl
   gloss: 3PL
- paradigm: Comparative
+ paradigm: Comparative_Dative
 
 
 
@@ -4512,6 +4822,10 @@
   gramm: cvb,gen
   gloss: CVB
   paradigm: Comparative
+ -flex: .ысаа<.>//.саа<.>
+  gramm: cvb,gen
+  gloss: CVB
+  paradigm: cvb_pers
  -flex: .ытэк<.>
   gramm: cvb,neg
   gloss: CVB.NEG
@@ -4519,12 +4833,12 @@
  -flex: .ыку<.>//.ыкы<.>
   gramm: cvb,simult
   gloss: CVB.SIM
-  paradigm: Comparative
+  paradigm: Comparative_Dative
   paradigm: cvb_pers
  -flex: .ытозь<.>
   gramm: cvb,lim
   gloss: CVB.LIM
-  paradigm: Comparative
+  paradigm: Comparative_Dative
  -flex: .ытозя<.>
   gramm: cvb,lim
   gloss: CVB.LIM
@@ -4535,6 +4849,10 @@
   gramm: cvb,gen
   gloss: CVB
   paradigm: Comparative
+ -flex: .[ь]ысаа<.>//.[ь]саа<.>
+  gramm: cvb,gen
+  gloss: CVB
+  paradigm: cvb_pers
  -flex: .[ь]ытэк<.>
   gramm: cvb,neg
   gloss: CVB.NEG
@@ -4542,12 +4860,12 @@
  -flex: .[ь]ыку<.>//.[ь]ыкы<.>
   gramm: cvb,simult
   gloss: CVB.SIM
-  paradigm: Comparative
+  paradigm: Comparative_Dative
   paradigm: cvb_pers
  -flex: .[ь]ытозь<.>
   gramm: cvb,lim
   gloss: CVB.LIM
-  paradigm: Comparative
+  paradigm: Comparative_Dative
  -flex: .[ь]ытозя<.>
   gramm: cvb,lim
   gloss: CVB.LIM
@@ -4558,6 +4876,10 @@
   gramm: cvb,gen
   gloss: CVB
   paradigm: Comparative
+ -flex: .саа<.>
+  gramm: cvb,gen
+  gloss: CVB
+  paradigm: cvb_pers
  -flex: .тэк<.>
   gramm: cvb,neg
   gloss: CVB.NEG
@@ -4565,12 +4887,12 @@
  -flex: .ку<.>//.кы<.>
   gramm: cvb,simult
   gloss: CVB.SIM
-  paradigm: Comparative
+  paradigm: Comparative_Dative
   paradigm: cvb_pers
  -flex: .тозь<.>
   gramm: cvb,lim
   gloss: CVB.LIM
-  paradigm: Comparative
+  paradigm: Comparative_Dative
  -flex: .тозя<.>
   gramm: cvb,lim
   gloss: CVB.LIM
@@ -4718,6 +5040,25 @@
   regex-stem: ^.*[аеёиӥоӧуыэюяьъ][<>.]*$
  paradigm: Comparative
 
+-paradigm: Verb-pres-I-positive-i
+ -flex: <1>.исько<.>
+  gramm: 1,sg,prs
+  gloss: PRS.12
+  regex-stem: ^.*[аеёиӥоӧуыэюяьъ][<>.]*$
+ -flex: <1>.исько|д<.>
+  gramm: 2,sg,prs
+  gloss: PRS.12|2SG
+  regex-stem: ^.*[аеёиӥоӧуыэюяьъ][<>.]*$
+ -flex: <1>.исько|м<.>//<1>.исько|мы<.>
+  gramm: 1,pl,prs
+  gloss: PRS.12|1PL
+  regex-stem: ^.*[аеёиӥоӧуыэюяьъ][<>.]*$
+ -flex: <1>.исько|ды<.>
+  gramm: 2,pl,prs
+  gloss: PRS.12|2PL
+  regex-stem: ^.*[аеёиӥоӧуыэюяьъ][<>.]*$
+ paradigm: Comparative
+
 -paradigm: Verb-pres-I-positive-soft
  -flex: .исько<.>
   gramm: 1,sg,prs
@@ -4738,6 +5079,7 @@
   gramm: 3,pl,prs
   gloss: PRS.3PL
  paradigm: Comparative
+
 
 -paradigm: Verb-past-I-positive
  -flex: .ӥ<.>
@@ -4782,6 +5124,33 @@
   gramm: 3,pl,pst
   gloss: PST|3PL
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+ paradigm: Comparative
+
+-paradigm: Verb-past-I-positive-i
+ -flex: <1>.и<.>
+  gramm: 1,sg,pst
+  gloss: PST|1SG
+  regex-stem: ^.*[аеёиӥоӧуыэюяьъ][<>.]*$
+ -flex: <1>.и|д<.>
+  gramm: 2,sg,pst
+  gloss: PST|2SG
+  regex-stem: ^.*[аеёиӥоӧуыэюяьъ][<>.]*$
+ -flex: <1>.и|з<.>
+  gramm: 3,sg,pst
+  gloss: PST|3SG
+  regex-stem: ^.*[аеёиӥоӧуыэюяьъ][<>.]*$
+ -flex: <1>.и|м<.>//<1>.и|мы<.>
+  gramm: 1,pl,pst
+  gloss: PST|1PL
+  regex-stem: ^.*[аеёиӥоӧуыэюяьъ][<>.]*$
+ -flex: <1>.и|ды<.>
+  gramm: 2,pl,pst
+  gloss: PST|2PL
+  regex-stem: ^.*[аеёиӥоӧуыэюяьъ][<>.]*$
+ -flex: <1>.и|зы<.>
+  gramm: 3,pl,pst
+  gloss: PST|3PL
+  regex-stem: ^.*[аеёиӥоӧуыэюяьъ][<>.]*$
  paradigm: Comparative
 
 -paradigm: Verb-past-I-positive-soft
@@ -4929,6 +5298,25 @@
   gramm: 3,pl,prs,neg
   gloss: PRS.3PL
   regex-prev: ^.*[аеёиӥоӧуыэюяьъ][<>.]*$
+
+-paradigm: Verb-pres-I-negative-i
+ -flex: <1>.иськ|ы<.>
+  gramm: 1,sg,prs,neg
+  gloss: PRS12|NEG.SG
+  regex-prev: ^.*[аеёиӥоӧуыэюяьъ][<>.]*$
+ -flex: <1>.иськ|ы<.>
+  gramm: 2,sg,prs,neg
+  gloss: PRS12|NEG.SG
+  regex-prev: ^.*[аеёиӥоӧуыэюяьъ][<>.]*$
+ -flex: <1>.иськ|е<.>
+  gramm: 1,pl,prs,neg
+  gloss: PRS12|NEG.PL
+  regex-prev: ^.*[аеёиӥоӧуыэюяьъ][<>.]*$
+ -flex: <1>.иськ|е<.>
+  gramm: 2,pl,prs,neg
+  gloss: PRS12|NEG.PL
+  regex-prev: ^.*[аеёиӥоӧуыэюяьъ][<>.]*$
+ paradigm: Comparative
 
 -paradigm: Verb-pres-I-negative-soft
  -flex: .иськ|ы<.>
@@ -5244,7 +5632,197 @@
  paradigm: Comparative
 
 
--paradigm: Aspect-I
+# ******  ASPECT 1st SLOT  ******
+
+-paradigm: Aspect-I-y
+ -flex: <0>.ськ<.>//<0>.ск<.>//<0>.ӥськ<.>//<0>.ыськ<.>
+  gramm: pass
+  gloss: PASS
+ -flex: <0>.иськ<.>
+  gramm: pass
+  gloss: PASS
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+ -flex: <0>.ыл<.>//<0>.ылл<.>
+  gramm: iter
+  gloss: ITER
+ -flex: <0>.ыл|ыл<.>//<0>.ылл|ыл<.>//<0>.ылл|ылл<.>//<0>.ыл|ылл<.>
+  gramm: iter
+  gloss: ITER|ITER
+ -flex: <0>.эм|ъя|ськ<.>
+  gramm: fict
+  gloss: PTCP.PST|MULT|PASS
+ -flex: .ем|ъя|ськ<.>
+  gramm: fict
+  gloss: PTCP.PST|MULT|PASS
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюяъ][<>.]*$
+ -flex: <0>.ымтэ|я|ськ<.>
+  gramm: fict_neg
+  gloss: PTCP.NEG|MULT|PASS
+ -flex: <0>.ыт<.>//<0>.эт<.>//<0>.т<.>
+  gramm: caus
+  gloss: CAUS
+ -flex: .ет<.>
+  gramm: caus
+  gloss: CAUS
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюяъ][<>.]*$
+ paradigm: Aspect-y2-y
+ paradigm: Aspect-y2-a
+ paradigm: Infinitive-I
+ paradigm: Infinitive-I-dial-short
+ paradigm: Verb-pres-I-positive
+ paradigm: Verb-past-I-positive
+ paradigm: Verb-future-I-positive
+ paradigm: Verb-pres-I-negative
+ paradigm: Verb-I-negative
+ paradigm: Verb-subj-I
+ paradigm: Converbs-I
+ paradigm: Evidentiality-I
+ paradigm: Participles-I
+ paradigm: Participles-neg-I
+ paradigm: Verb-imp-I
+ paradigm: Verbal-noun-I
+
+-paradigm: Aspect-I-a
+ -flex: <0>.ыт|ъя<.>//<0>.эт|ъя<.>//<0>.т|ъя<.>
+  gramm: caus,mult
+  gloss: CAUS|MULT
+ -flex: .ет|ъя<.>
+  gramm: caus,mult
+  gloss: CAUS|MULT
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюяъ][<>.]*$
+ paradigm: Aspect-a2-y
+ paradigm: Aspect-a2-a
+ paradigm: Infinitive-II
+ paradigm: Verb-pres-II-positive
+ paradigm: Verb-past-II-positive
+ paradigm: Verb-future-II-positive
+ paradigm: Verb-pres-II-negative
+ paradigm: Verb-II-negative
+ paradigm: Verb-subj-II
+ paradigm: Converbs-II
+ paradigm: Evidentiality-II
+ paradigm: Participles-II
+ paradigm: Participles-neg-II
+ paradigm: Verb-imp-II
+ paradigm: Verbal-noun-II
+
+
+
+-paradigm: Aspect-I-soft-y
+ -flex: .[ь]ськ<.>//.[ь]ск<.>//.иськ<.>
+  gramm: pass
+  gloss: PASS
+ -flex: .[ь]ыл<.>//.[ь]ылл<.>
+  gramm: iter
+  gloss: ITER
+ -flex: .ем|ъя|ськ<.>
+  gramm: fict
+  gloss: PTCP.PST|MULT|PASS
+ -flex: .[ь]ымтэ|я|ськ<.>
+  gramm: fict_neg
+  gloss: PTCP.NEG|MULT|PASS
+ -flex: .[ь]ыт<.>//.ет<.>//.[ь]т<.>
+  gramm: caus
+  gloss: CAUS
+ paradigm: Aspect-y2-y
+ paradigm: Aspect-y2-a
+ paradigm: Infinitive-I
+ paradigm: Infinitive-I-dial-short
+ paradigm: Verb-pres-I-positive
+ paradigm: Verb-past-I-positive
+ paradigm: Verb-future-I-positive
+ paradigm: Verb-pres-I-negative
+ paradigm: Verb-I-negative
+ paradigm: Verb-subj-I
+ paradigm: Converbs-I
+ paradigm: Evidentiality-I
+ paradigm: Participles-I
+ paradigm: Participles-neg-I
+ paradigm: Verb-imp-I
+ paradigm: Verbal-noun-I
+
+-paradigm: Aspect-I-soft-a
+ -flex: .[ь]ыт|ъя<.>//.ет|ъя<.>//.[ь]т|ъя<.>
+  gramm: caus,mult
+  gloss: CAUS|MULT
+ paradigm: Aspect-a2-y
+ paradigm: Aspect-a2-a
+ paradigm: Infinitive-II
+ paradigm: Verb-pres-II-positive
+ paradigm: Verb-past-II-positive
+ paradigm: Verb-future-II-positive
+ paradigm: Verb-pres-II-negative
+ paradigm: Verb-II-negative
+ paradigm: Verb-subj-II
+ paradigm: Converbs-II
+ paradigm: Evidentiality-II
+ paradigm: Participles-II
+ paradigm: Participles-neg-II
+ paradigm: Verb-imp-II
+ paradigm: Verbal-noun-II
+
+
+-paradigm: Aspect-II-y
+ -flex: .ськ<.>//.ск<.>
+  gramm: pass
+  gloss: PASS
+ -flex: .м|ъя|ськ<.>
+  gramm: fict
+  gloss: PTCP.PST|MULT|PASS
+ -flex: .мтэ|я|ськ<.>
+  gramm: fict_neg
+  gloss: PTCP.NEG|MULT|PASS
+ -flex: .т<.>
+  gramm: caus
+  gloss: CAUS
+ paradigm: Aspect-y2-y
+ paradigm: Aspect-y2-a
+ paradigm: Infinitive-I
+ paradigm: Infinitive-I-dial-short
+ paradigm: Verb-pres-I-positive
+ paradigm: Verb-past-I-positive
+ paradigm: Verb-future-I-positive
+ paradigm: Verb-pres-I-negative
+ paradigm: Verb-I-negative
+ paradigm: Verb-subj-I
+ paradigm: Converbs-I
+ paradigm: Evidentiality-I
+ paradigm: Participles-I
+ paradigm: Participles-neg-I
+ paradigm: Verb-imp-I
+ paradigm: Verbal-noun-I
+
+-paradigm: Aspect-II-a
+ -flex: .т|ъя<.>
+  gramm: caus,mult
+  gloss: CAUS|MULT
+ -flex: .лля<.>
+  gramm: iter
+  gloss: ITER
+ -flex: .лля|лля<.>
+  gramm: iter
+  gloss: ITER|ITER
+ paradigm: Aspect-a2-y
+ paradigm: Aspect-a2-a
+ paradigm: Infinitive-II
+ paradigm: Verb-pres-II-positive
+ paradigm: Verb-past-II-positive
+ paradigm: Verb-future-II-positive
+ paradigm: Verb-pres-II-negative
+ paradigm: Verb-II-negative
+ paradigm: Verb-subj-II
+ paradigm: Converbs-II
+ paradigm: Evidentiality-II
+ paradigm: Participles-II
+ paradigm: Participles-neg-II
+ paradigm: Verb-imp-II
+ paradigm: Verbal-noun-II
+
+
+
+# ******  ASPECT 2nd SLOT  ******
+
+-paradigm: Aspect-y2-y
  -flex: <0>.ськ<.>//<0>.ск<.>//<0>.ӥськ<.>//<0>.ыськ<.>
   gramm: pass
   gloss: PASS
@@ -5265,84 +5843,14 @@
   gramm: fict
   gloss: PTCP.PST|MULT|PASS
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
- -flex: <0>.ыт<.>//<0>.эт<.>//<0>.т<.>
+ -flex: <0>.ымтэ|я|ськ<.>
+  gramm: fict_neg
+  gloss: PTCP.NEG|MULT|PASS
+ -flex: <0>.ыт<.>//<0>.т<.>
   gramm: caus
   gloss: CAUS
- -flex: .ет<.>
-  gramm: caus
-  gloss: CAUS
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
- -flex: <0>.ск|ыл<.>//<0>.ӥськ|ыл<.>//<0>.ыськ|ыл<.>//<0>.ск|ылл<.>//<0>.ӥськ|ылл<.>//<0>.ыськ|ылл<.>
-  gramm: pass,iter
-  gloss: PASS|ITER
- -flex: <0>.ск|ыл|ыл<.>//<0>.ӥськ|ыл|ыл<.>//<0>.ыськ|ыл|ыл<.>//<0>.ск|ыл|ылл<.>//<0>.ӥськ|ыл|ылл<.>//<0>.ыськ|ыл|ылл<.>
-  gramm: pass,iter
-  gloss: PASS|ITER|ITER
- -flex: <0>.иськ|ыл<.>//<0>.иськ|ылл<.>
-  gramm: pass,iter
-  gloss: PASS|ITER
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
- -flex: <0>.иськ|ыл|ыл<.>//<0>.иськ|ыл|ылл<.>
-  gramm: pass,iter
-  gloss: PASS|ITER|ITER
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
- -flex: <0>.ыл|ӥськ<.>//<0>.ылл|ӥськ<.>
-  gramm: iter,pass
-  gloss: ITER|PASS
- -flex: <0>.ыл|ыл|ӥськ<.>//<0>.ылл|ыл|ӥськ<.>
-  gramm: iter,pass
-  gloss: ITER|ITER|PASS
- -flex: <0>.ыл|эм|ъя|ськ<.>//<0>.ылл|эм|ъя|ськ<.>
-  gramm: iter,fict
-  gloss: ITER|PTCP.PST|MULT|PASS
- -flex: <0>.ыт|эм|ъя|ськ<.>//<0>.т|эм|ъя|ськ<.>
-  gramm: caus,fict
-  gloss: CAUS|PTCP.PST|MULT|PASS
- -flex: <0>.ск|эм|ъя|ськ<.>//<0>.ӥськ|эм|ъя|ськ<.>
-  gramm: pass,fict
-  gloss: PASS|PTCP.PST|MULT|PASS
- -flex: <0>.иськ|эм|ъя|ськ<.>
-  gramm: pass,fict
-  gloss: PASS|PTCP.PST|MULT|PASS
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
- -flex: <0>.ск|ыт<.>//<0>.ӥськ|ыт<.>//<0>.ыськ|ыт<.>
-  gramm: pass,caus
-  gloss: PASS|CAUS
- -flex: <0>.иськ|ыт<.>
-  gramm: pass,caus
-  gloss: PASS|CAUS
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
- -flex: <0>.ыт|ск<.>//<0>.т|ск<.>//<0>.эт|ск<.>//<0>.ыт|ӥськ<.>//<0>.т|ӥськ<.>//<0>.эт|ӥськ<.>
-  gramm: caus,pass
-  gloss: CAUS|PASS
- -flex: .ет|ск<.>//.ет|ӥськ<.>
-  gramm: caus,pass
-  gloss: CAUS|PASS
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
- -flex: <0>.ыл|ыт<.>//<0>.ыл|т<.>//<0>.ылл|ыт<.>//<0>.ылл|т<.>
-  gramm: iter,caus
-  gloss: ITER|CAUS
- -flex: <0>.ыт|ыл<.>//<0>.эт|ыл<.>//<0>.т|ыл<.>//<0>.ыт|ылл<.>//<0>.эт|ылл<.>//<0>.т|ылл<.>
-  gramm: caus,iter
-  gloss: CAUS|ITER
- -flex: <0>.ыт|ыл|ыл<.>//<0>.эт|ыл|ыл<.>//<0>.т|ыл|ыл<.>//<0>.ыт|ыл|ылл<.>//<0>.эт|ыл|ылл<.>//<0>.т|ыл|ылл<.>
-  gramm: caus,iter
-  gloss: CAUS|ITER|ITER
- -flex: <0>.ыт|ыл|ӥськ<.>//<0>.эт|ыл|ӥськ<.>//<0>.т|ыл|ӥськ<.>//<0>.ыт|ылл|ӥськ<.>//<0>.эт|ылл|ӥськ<.>//<0>.т|ылл|ӥськ<.>
-  gramm: caus,iter,pass
-  gloss: CAUS|ITER|PASS
- -flex: .ет|ыл<.>//.ет|ылл<.>
-  gramm: caus,iter
-  gloss: CAUS|ITER
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
- -flex: .ет|ыл|ыл<.>//.ет|ыл|ылл<.>
-  gramm: caus,iter
-  gloss: CAUS|ITER|ITER
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
- -flex: .ет|ыл|ӥськ<.>//.ет|ылл|ӥськ<.>
-  gramm: caus,iter,pass
-  gloss: CAUS|ITER|PASS
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+ paradigm: Aspect-y3-y
+ paradigm: Aspect-y3-a
  paradigm: Infinitive-I
  paradigm: Infinitive-I-dial-short
  paradigm: Verb-pres-I-positive
@@ -5358,28 +5866,12 @@
  paradigm: Verb-imp-I
  paradigm: Verbal-noun-I
 
--paradigm: Aspect-I-to-II
- -flex: <0>.ыт|ъя<.>//<0>.эт|ъя<.>//<0>.т|ъя<.>
+-paradigm: Aspect-y2-a
+ -flex: <0>.ыт|ъя<.>//<0>.т|ъя<.>
   gramm: caus,mult
   gloss: CAUS|MULT
- -flex: .ет|ъя<.>
-  gramm: caus,mult
-  gloss: CAUS|MULT
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
- -flex: <0>.ыт|ъя|лля<.>//<0>.эт|ъя|лля<.>//<0>.т|ъя|лля<.>
-  gramm: caus,mult,iter
-  gloss: CAUS|MULT|ITER
- -flex: .ет|ъя|лля<.>
-  gramm: caus,mult,iter
-  gloss: CAUS|MULT|ITER
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
- -flex: <0>.ск|ыт|ъя<.>//<0>.ӥськ|ыт|ъя<.>//<0>.ыськ|ыт|ъя<.>
-  gramm: pass,caus,mult
-  gloss: PASS|CAUS|MULT
- -flex: <0>.иськ|ыт|ъя<.>
-  gramm: pass,caus,mult
-  gloss: PASS|CAUS|MULT
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+ paradigm: Aspect-a3-y
+ paradigm: Aspect-a3-a
  paradigm: Infinitive-II
  paradigm: Verb-pres-II-positive
  paradigm: Verb-past-II-positive
@@ -5394,431 +5886,304 @@
  paradigm: Verb-imp-II
  paradigm: Verbal-noun-II
 
--paradigm: Aspect-I-soft
- -flex: .[ь]ськ<.>//.[ь]ск<.>//.иськ<.>
+-paradigm: Aspect-a2-y
+ -flex: .ськ<.>
   gramm: pass
   gloss: PASS
- -flex: .[ь]ыл<.>//.[ь]ылл<.>
-  gramm: iter
-  gloss: ITER
- -flex: .ем|ъя|ськ<.>
-  gramm: fict
-  gloss: PTCP.PST|MULT|PASS
- -flex: .[ь]ыт<.>//.ет<.>//.[ь]т<.>
-  gramm: caus
-  gloss: CAUS
- -flex: .[ь]ск|ыл<.>//.иськ|ыл<.>//.[ь]ск|ылл<.>//.иськ|ылл<.>
-  gramm: pass,iter
-  gloss: PASS|ITER
- -flex: .[ь]ск|ыл|ыл<.>//.иськ|ыл|ыл<.>//.[ь]ск|ыл|ылл<.>//.иськ|ыл|ылл<.>
-  gramm: pass,iter
-  gloss: PASS|ITER|ITER
- -flex: .[ь]ыл|ӥськ<.>//.[ь]ылл|ӥськ<.>
-  gramm: iter,pass
-  gloss: ITER|PASS
- -flex: .[ь]ыл|ыл|ӥськ<.>//.[ь]ыл|ылл|ӥськ<.>
-  gramm: iter,pass
-  gloss: ITER|ITER|PASS
- -flex: .[ь]ыл|эм|ъя|ськ<.>//.[ь]ылл|эм|ъя|ськ<.>
-  gramm: iter,fict
-  gloss: ITER|PTCP.PST|MULT|PASS
- -flex: .[ь]ыт|эм|ъя|ськ<.>//.[ь]т|эм|ъя|ськ<.>
-  gramm: caus,fict
-  gloss: CAUS|PTCP.PST|MULT|PASS
- -flex: .[ь]ск|эм|ъя|ськ<.>//.иськ|эм|ъя|ськ<.>
-  gramm: pass,fict
-  gloss: PASS|PTCP.PST|MULT|PASS
- -flex: .[ь]ск|ыт<.>//.иськ|ыт<.>
-  gramm: pass,caus
-  gloss: PASS|CAUS
- -flex: .[ь]ыт|ск<.>//.[ь]т|ск<.>//.ет|ск<.>//.[ь]ыт|ӥськ<.>//.[ь]т|ӥськ<.>//.ет|ӥськ<.>
-  gramm: caus,pass
-  gloss: CAUS|PASS
- -flex: .[ь]ыл|ыт<.>//.[ь]ыл|т<.>//.[ь]ылл|ыт<.>//.[ь]ылл|т<.>
-  gramm: iter,caus
-  gloss: ITER|CAUS
- -flex: .[ь]ыт|ыл<.>//.[ь]т|ыл<.>//.[ь]ыт|ылл<.>//.[ь]т|ылл<.>
-  gramm: caus,iter
-  gloss: CAUS|ITER
- -flex: .[ь]ыт|ыл|ӥськ<.>//.[ь]т|ыл|ӥськ<.>//.[ь]ыт|ылл|ӥськ<.>//.[ь]т|ылл|ӥськ<.>
-  gramm: caus,iter,pass
-  gloss: CAUS|ITER|PASS
- paradigm: Infinitive-I
- paradigm: Infinitive-I-dial-short
- paradigm: Verb-pres-I-positive
- paradigm: Verb-past-I-positive
- paradigm: Verb-future-I-positive
- paradigm: Verb-pres-I-negative
- paradigm: Verb-I-negative
- paradigm: Verb-subj-I
- paradigm: Converbs-I
- paradigm: Evidentiality-I
- paradigm: Participles-I
- paradigm: Participles-neg-I
- paradigm: Verb-imp-I
- paradigm: Verbal-noun-I
-
--paradigm: Aspect-I-to-II-soft
- -flex: .[ь]ыт|ъя<.>//.ет|ъя<.>//.[ь]т|ъя<.>
-  gramm: caus,mult
-  gloss: CAUS|MULT
- -flex: .[ь]ыт|ъя|лля<.>//.ет|ъя|лля<.>//.[ь]т|ъя|лля<.>
-  gramm: caus,mult,iter
-  gloss: CAUS|MULT|ITER
- -flex: .[ь]ск|ыт|ъя<.>//.иськ|ыт|ъя<.>//.[ь]ыськ|ыт|ъя<.>
-  gramm: pass,caus,mult
-  gloss: PASS|CAUS|MULT
- paradigm: Infinitive-II
- paradigm: Verb-pres-II-positive
- paradigm: Verb-past-II-positive
- paradigm: Verb-future-II-positive
- paradigm: Verb-pres-II-negative
- paradigm: Verb-II-negative
- paradigm: Verb-subj-II
- paradigm: Converbs-II
- paradigm: Evidentiality-II
- paradigm: Participles-II
- paradigm: Participles-neg-II
- paradigm: Verb-imp-II
- paradigm: Verbal-noun-II
-
--paradigm: Aspect-II
- -flex: .ськ<.>//.ск<.>
-  gramm: pass
-  gloss: PASS
-  paradigm: Infinitive-I
-  paradigm: Infinitive-I-dial-short
-  paradigm: Verb-pres-I-positive
-  paradigm: Verb-past-I-positive
-  paradigm: Verb-future-I-positive
-  paradigm: Verb-pres-I-negative
-  paradigm: Verb-I-negative
-  paradigm: Verb-subj-I
-  paradigm: Converbs-I
-  paradigm: Evidentiality-I
-  paradigm: Participles-I
-  paradigm: Participles-neg-I
-  paradigm: Verb-imp-I
-  paradigm: Verbal-noun-I
- -flex: .лля<.>
-  gramm: iter
-  gloss: ITER
-  paradigm: Infinitive-II
-  paradigm: Verb-pres-II-positive
-  paradigm: Verb-past-II-positive
-  paradigm: Verb-future-II-positive
-  paradigm: Verb-pres-II-negative
-  paradigm: Verb-II-negative
-  paradigm: Verb-subj-II
-  paradigm: Converbs-II
-  paradigm: Evidentiality-II
-  paradigm: Participles-II
-  paradigm: Participles-neg-II
-  paradigm: Verb-imp-II
-  paradigm: Verbal-noun-II
- -flex: .лля|лля<.>
-  gramm: iter
-  gloss: ITER|ITER
-  paradigm: Infinitive-II
-  paradigm: Verb-pres-II-positive
-  paradigm: Verb-past-II-positive
-  paradigm: Verb-future-II-positive
-  paradigm: Verb-pres-II-negative
-  paradigm: Verb-II-negative
-  paradigm: Verb-subj-II
-  paradigm: Converbs-II
-  paradigm: Evidentiality-II
-  paradigm: Participles-II
-  paradigm: Participles-neg-II
-  paradigm: Verb-imp-II
-  paradigm: Verbal-noun-II
  -flex: .м|ъя|ськ<.>
   gramm: fict
   gloss: PTCP.PST|MULT|PASS
-  paradigm: Infinitive-I
-  paradigm: Infinitive-I-dial-short
-  paradigm: Verb-pres-I-positive
-  paradigm: Verb-past-I-positive
-  paradigm: Verb-future-I-positive
-  paradigm: Verb-pres-I-negative
-  paradigm: Verb-I-negative
-  paradigm: Verb-subj-I
-  paradigm: Converbs-I
-  paradigm: Evidentiality-I
-  paradigm: Participles-I
-  paradigm: Participles-neg-I
-  paradigm: Verb-imp-I
-  paradigm: Verbal-noun-I
+ -flex: .мтэ|я|ськ<.>
+  gramm: fict_neg
+  gloss: PTCP.NEG|MULT|PASS
  -flex: .т<.>
   gramm: caus
   gloss: CAUS
-  paradigm: Infinitive-I
-  paradigm: Verb-pres-I-positive
-  paradigm: Verb-past-I-positive
-  paradigm: Verb-future-I-positive
-  paradigm: Verb-pres-I-negative
-  paradigm: Verb-I-negative
-  paradigm: Verb-subj-I
-  paradigm: Converbs-I
-  paradigm: Evidentiality-I
-  paradigm: Participles-I
-  paradigm: Participles-neg-I
-  paradigm: Verb-imp-I
-  paradigm: Verbal-noun-I
+ paradigm: Aspect-y3-y
+ paradigm: Aspect-y3-a
+ paradigm: Infinitive-I
+ paradigm: Verb-pres-I-positive
+ paradigm: Verb-past-I-positive
+ paradigm: Verb-future-I-positive
+ paradigm: Verb-pres-I-negative
+ paradigm: Verb-I-negative
+ paradigm: Verb-subj-I
+ paradigm: Converbs-I
+ paradigm: Evidentiality-I
+ paradigm: Participles-I
+ paradigm: Participles-neg-I
+ paradigm: Verb-imp-I
+ paradigm: Verbal-noun-I
+
+-paradigm: Aspect-a2-a
  -flex: .т|ъя<.>
   gramm: caus,mult
   gloss: CAUS|MULT
-  paradigm: Infinitive-II
-  paradigm: Verb-pres-II-positive
-  paradigm: Verb-past-II-positive
-  paradigm: Verb-future-II-positive
-  paradigm: Verb-pres-II-negative
-  paradigm: Verb-II-negative
-  paradigm: Verb-subj-II
-  paradigm: Converbs-II
-  paradigm: Evidentiality-II
-  paradigm: Participles-II
-  paradigm: Participles-neg-II
-  paradigm: Verb-imp-II
-  paradigm: Verbal-noun-II
- -flex: .т|ъя|лля<.>
-  gramm: caus,mult,iter
-  gloss: CAUS|MULT|ITER
-  paradigm: Infinitive-II
-  paradigm: Verb-pres-II-positive
-  paradigm: Verb-past-II-positive
-  paradigm: Verb-future-II-positive
-  paradigm: Verb-pres-II-negative
-  paradigm: Verb-II-negative
-  paradigm: Verb-subj-II
-  paradigm: Converbs-II
-  paradigm: Evidentiality-II
-  paradigm: Participles-II
-  paradigm: Participles-neg-II
-  paradigm: Verb-imp-II
-  paradigm: Verbal-noun-II
- -flex: .ськ|ыл<.>//.ск|ыл<.>//.ськ|ылл<.>//.ск|ылл<.>
-  gramm: pass,iter
-  gloss: PASS|ITER
-  paradigm: Infinitive-I
-  paradigm: Infinitive-I-dial-short
-  paradigm: Verb-pres-I-positive
-  paradigm: Verb-past-I-positive
-  paradigm: Verb-future-I-positive
-  paradigm: Verb-pres-I-negative
-  paradigm: Verb-I-negative
-  paradigm: Verb-subj-I
-  paradigm: Converbs-I
-  paradigm: Evidentiality-I
-  paradigm: Participles-I
-  paradigm: Participles-neg-I
-  paradigm: Verb-imp-I
-  paradigm: Verbal-noun-I
- -flex: .ськ|ыл|ыл<.>//.ск|ыл|ыл<.>//.ськ|ыл|ылл<.>//.ск|ыл|ылл<.>
-  gramm: pass,iter
-  gloss: PASS|ITER|ITER
-  paradigm: Infinitive-I
-  paradigm: Infinitive-I-dial-short
-  paradigm: Verb-pres-I-positive
-  paradigm: Verb-past-I-positive
-  paradigm: Verb-future-I-positive
-  paradigm: Verb-pres-I-negative
-  paradigm: Verb-I-negative
-  paradigm: Verb-subj-I
-  paradigm: Converbs-I
-  paradigm: Evidentiality-I
-  paradigm: Participles-I
-  paradigm: Participles-neg-I
-  paradigm: Verb-imp-I
-  paradigm: Verbal-noun-I
- -flex: .лля|ськ<.>
-  gramm: iter,pass
-  gloss: ITER|PASS
-  paradigm: Infinitive-I
-  paradigm: Infinitive-I-dial-short
-  paradigm: Verb-pres-I-positive
-  paradigm: Verb-past-I-positive
-  paradigm: Verb-future-I-positive
-  paradigm: Verb-pres-I-negative
-  paradigm: Verb-I-negative
-  paradigm: Verb-subj-I
-  paradigm: Converbs-I
-  paradigm: Evidentiality-I
-  paradigm: Participles-I
-  paradigm: Participles-neg-I
-  paradigm: Verb-imp-I
-  paradigm: Verbal-noun-I
- -flex: .лля|лля|ськ<.>
-  gramm: iter,pass
-  gloss: ITER|ITER|PASS
-  paradigm: Infinitive-I
-  paradigm: Infinitive-I-dial-short
-  paradigm: Verb-pres-I-positive
-  paradigm: Verb-past-I-positive
-  paradigm: Verb-future-I-positive
-  paradigm: Verb-pres-I-negative
-  paradigm: Verb-I-negative
-  paradigm: Verb-subj-I
-  paradigm: Converbs-I
-  paradigm: Evidentiality-I
-  paradigm: Participles-I
-  paradigm: Participles-neg-I
-  paradigm: Verb-imp-I
-  paradigm: Verbal-noun-I
- -flex: .лля|м|ъя|ськ<.>
-  gramm: iter,fict
-  gloss: ITER|PTCP.PST|MULT|PASS
-  paradigm: Infinitive-I
-  paradigm: Infinitive-I-dial-short
-  paradigm: Verb-pres-I-positive
-  paradigm: Verb-past-I-positive
-  paradigm: Verb-future-I-positive
-  paradigm: Verb-pres-I-negative
-  paradigm: Verb-I-negative
-  paradigm: Verb-subj-I
-  paradigm: Converbs-I
-  paradigm: Evidentiality-I
-  paradigm: Participles-I
-  paradigm: Participles-neg-I
-  paradigm: Verb-imp-I
-  paradigm: Verbal-noun-I
- -flex: .т|эм|ъя|ськ<.>
-  gramm: caus,fict
-  gloss: CAUS|PTCP.PST|MULT|PASS
-  paradigm: Infinitive-I
-  paradigm: Infinitive-I-dial-short
-  paradigm: Verb-pres-I-positive
-  paradigm: Verb-past-I-positive
-  paradigm: Verb-future-I-positive
-  paradigm: Verb-pres-I-negative
-  paradigm: Verb-I-negative
-  paradigm: Verb-subj-I
-  paradigm: Converbs-I
-  paradigm: Evidentiality-I
-  paradigm: Participles-I
-  paradigm: Participles-neg-I
-  paradigm: Verb-imp-I
-  paradigm: Verbal-noun-I
- -flex: .ськ|ем|ъя|ськ<.>//.ск|ем|ъя|ськ<.>
-  gramm: pass,fict
-  gloss: PASS|PTCP.PST|MULT|PASS
-  paradigm: Infinitive-I
-  paradigm: Infinitive-I-dial-short
-  paradigm: Verb-pres-I-positive
-  paradigm: Verb-past-I-positive
-  paradigm: Verb-future-I-positive
-  paradigm: Verb-pres-I-negative
-  paradigm: Verb-I-negative
-  paradigm: Verb-subj-I
-  paradigm: Converbs-I
-  paradigm: Evidentiality-I
-  paradigm: Participles-I
-  paradigm: Participles-neg-I
-  paradigm: Verb-imp-I
-  paradigm: Verbal-noun-I
- -flex: .ськ|ыт<.>//.ск|ыт<.>
-  gramm: pass,caus
-  gloss: PASS|CAUS
-  paradigm: Infinitive-I
-  paradigm: Infinitive-I-dial-short
-  paradigm: Verb-pres-I-positive
-  paradigm: Verb-past-I-positive
-  paradigm: Verb-future-I-positive
-  paradigm: Verb-pres-I-negative
-  paradigm: Verb-I-negative
-  paradigm: Verb-subj-I
-  paradigm: Converbs-I
-  paradigm: Evidentiality-I
-  paradigm: Participles-I
-  paradigm: Participles-neg-I
-  paradigm: Verb-imp-I
-  paradigm: Verbal-noun-I
- -flex: .т|ск<.>//.т|ӥськ<.>
-  gramm: caus,pass
-  gloss: CAUS|PASS
-  paradigm: Infinitive-I
-  paradigm: Infinitive-I-dial-short
-  paradigm: Verb-pres-I-positive
-  paradigm: Verb-past-I-positive
-  paradigm: Verb-future-I-positive
-  paradigm: Verb-pres-I-negative
-  paradigm: Verb-I-negative
-  paradigm: Verb-subj-I
-  paradigm: Converbs-I
-  paradigm: Evidentiality-I
-  paradigm: Participles-I
-  paradigm: Participles-neg-I
-  paradigm: Verb-imp-I
-  paradigm: Verbal-noun-I
- -flex: .лля|т<.>
-  gramm: iter,caus
-  gloss: ITER|CAUS
-  paradigm: Infinitive-I
-  paradigm: Infinitive-I-dial-short
-  paradigm: Verb-pres-I-positive
-  paradigm: Verb-past-I-positive
-  paradigm: Verb-future-I-positive
-  paradigm: Verb-pres-I-negative
-  paradigm: Verb-I-negative
-  paradigm: Verb-subj-I
-  paradigm: Converbs-I
-  paradigm: Evidentiality-I
-  paradigm: Participles-I
-  paradigm: Participles-neg-I
-  paradigm: Verb-imp-I
-  paradigm: Verbal-noun-I
- -flex: .т|ыл<.>//.т|ылл<.>
-  gramm: caus,iter
-  gloss: CAUS|ITER
-  paradigm: Infinitive-I
-  paradigm: Infinitive-I-dial-short
-  paradigm: Verb-pres-I-positive
-  paradigm: Verb-past-I-positive
-  paradigm: Verb-future-I-positive
-  paradigm: Verb-pres-I-negative
-  paradigm: Verb-I-negative
-  paradigm: Verb-subj-I
-  paradigm: Converbs-I
-  paradigm: Evidentiality-I
-  paradigm: Participles-I
-  paradigm: Participles-neg-I
-  paradigm: Verb-imp-I
-  paradigm: Verbal-noun-I
- -flex: .т|ыл|ыл<.>//.т|ыл|ылл<.>
-  gramm: caus,iter
-  gloss: CAUS|ITER|ITER
-  paradigm: Infinitive-I
-  paradigm: Infinitive-I-dial-short
-  paradigm: Verb-pres-I-positive
-  paradigm: Verb-past-I-positive
-  paradigm: Verb-future-I-positive
-  paradigm: Verb-pres-I-negative
-  paradigm: Verb-I-negative
-  paradigm: Verb-subj-I
-  paradigm: Converbs-I
-  paradigm: Evidentiality-I
-  paradigm: Participles-I
-  paradigm: Participles-neg-I
-  paradigm: Verb-imp-I
-  paradigm: Verbal-noun-I
- -flex: .т|ыл|ӥськ<.>//.т|ылл|ӥськ<.>
-  gramm: caus,iter,pass
-  gloss: CAUS|ITER|PASS
-  paradigm: Infinitive-I
-  paradigm: Infinitive-I-dial-short
-  paradigm: Verb-pres-I-positive
-  paradigm: Verb-past-I-positive
-  paradigm: Verb-future-I-positive
-  paradigm: Verb-pres-I-negative
-  paradigm: Verb-I-negative
-  paradigm: Verb-subj-I
-  paradigm: Converbs-I
-  paradigm: Evidentiality-I
-  paradigm: Participles-I
-  paradigm: Participles-neg-I
-  paradigm: Verb-imp-I
-  paradigm: Verbal-noun-I
+ -flex: .лля<.>
+  gramm: iter
+  gloss: ITER
+ -flex: .лля|лля<.>
+  gramm: iter
+  gloss: ITER|ITER
+ paradigm: Aspect-a3-y
+ paradigm: Aspect-a3-a
+ paradigm: Infinitive-II
+ paradigm: Verb-pres-II-positive
+ paradigm: Verb-past-II-positive
+ paradigm: Verb-future-II-positive
+ paradigm: Verb-pres-II-negative
+ paradigm: Verb-II-negative
+ paradigm: Verb-subj-II
+ paradigm: Converbs-II
+ paradigm: Evidentiality-II
+ paradigm: Participles-II
+ paradigm: Participles-neg-II
+ paradigm: Verb-imp-II
+ paradigm: Verbal-noun-II
 
+
+
+# ******  ASPECT 3rd SLOT  ******
+
+-paradigm: Aspect-y3-y
+ -flex: <0>.ськ<.>//<0>.ск<.>//<0>.ӥськ<.>//<0>.ыськ<.>
+  gramm: pass
+  gloss: PASS
+ -flex: <0>.иськ<.>
+  gramm: pass
+  gloss: PASS
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+ -flex: <0>.ыл<.>//<0>.ылл<.>
+  gramm: iter
+  gloss: ITER
+ -flex: <0>.ыл|ыл<.>//<0>.ылл|ыл<.>//<0>.ылл|ылл<.>//<0>.ыл|ылл<.>
+  gramm: iter
+  gloss: ITER|ITER
+ -flex: <0>.эм|ъя|ськ<.>
+  gramm: fict
+  gloss: PTCP.PST|MULT|PASS
+ -flex: .ем|ъя|ськ<.>
+  gramm: fict
+  gloss: PTCP.PST|MULT|PASS
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+ -flex: <0>.ымтэ|я|ськ<.>
+  gramm: fict_neg
+  gloss: PTCP.NEG|MULT|PASS
+ -flex: <0>.ыт<.>//<0>.т<.>
+  gramm: caus
+  gloss: CAUS
+ paradigm: Aspect-y4-y
+ paradigm: Aspect-y4-a
+ paradigm: Infinitive-I
+ paradigm: Infinitive-I-dial-short
+ paradigm: Verb-pres-I-positive
+ paradigm: Verb-past-I-positive
+ paradigm: Verb-future-I-positive
+ paradigm: Verb-pres-I-negative
+ paradigm: Verb-I-negative
+ paradigm: Verb-subj-I
+ paradigm: Converbs-I
+ paradigm: Evidentiality-I
+ paradigm: Participles-I
+ paradigm: Participles-neg-I
+ paradigm: Verb-imp-I
+ paradigm: Verbal-noun-I
+
+-paradigm: Aspect-y3-a
+ -flex: <0>.ыт|ъя<.>//<0>.т|ъя<.>
+  gramm: caus,mult
+  gloss: CAUS|MULT
+ paradigm: Aspect-a4-y
+ paradigm: Aspect-a4-a
+ paradigm: Infinitive-II
+ paradigm: Verb-pres-II-positive
+ paradigm: Verb-past-II-positive
+ paradigm: Verb-future-II-positive
+ paradigm: Verb-pres-II-negative
+ paradigm: Verb-II-negative
+ paradigm: Verb-subj-II
+ paradigm: Converbs-II
+ paradigm: Evidentiality-II
+ paradigm: Participles-II
+ paradigm: Participles-neg-II
+ paradigm: Verb-imp-II
+ paradigm: Verbal-noun-II
+
+-paradigm: Aspect-a3-y
+ -flex: .ськ<.>
+  gramm: pass
+  gloss: PASS
+ -flex: .м|ъя|ськ<.>
+  gramm: fict
+  gloss: PTCP.PST|MULT|PASS
+ -flex: .мтэ|я|ськ<.>
+  gramm: fict_neg
+  gloss: PTCP.NEG|MULT|PASS
+ -flex: .т<.>
+  gramm: caus
+  gloss: CAUS
+ paradigm: Aspect-y4-y
+ paradigm: Aspect-y4-a
+ paradigm: Infinitive-I
+ paradigm: Verb-pres-I-positive
+ paradigm: Verb-past-I-positive
+ paradigm: Verb-future-I-positive
+ paradigm: Verb-pres-I-negative
+ paradigm: Verb-I-negative
+ paradigm: Verb-subj-I
+ paradigm: Converbs-I
+ paradigm: Evidentiality-I
+ paradigm: Participles-I
+ paradigm: Participles-neg-I
+ paradigm: Verb-imp-I
+ paradigm: Verbal-noun-I
+
+-paradigm: Aspect-a3-a
+ -flex: .т|ъя<.>
+  gramm: caus,mult
+  gloss: CAUS|MULT
+ -flex: .лля<.>
+  gramm: iter
+  gloss: ITER
+ -flex: .лля|лля<.>
+  gramm: iter
+  gloss: ITER|ITER
+ paradigm: Aspect-a4-y
+ paradigm: Aspect-a4-a
+ paradigm: Infinitive-II
+ paradigm: Verb-pres-II-positive
+ paradigm: Verb-past-II-positive
+ paradigm: Verb-future-II-positive
+ paradigm: Verb-pres-II-negative
+ paradigm: Verb-II-negative
+ paradigm: Verb-subj-II
+ paradigm: Converbs-II
+ paradigm: Evidentiality-II
+ paradigm: Participles-II
+ paradigm: Participles-neg-II
+ paradigm: Verb-imp-II
+ paradigm: Verbal-noun-II
+
+
+
+# ******  ASPECT 4th SLOT (LAST)  ******
+
+-paradigm: Aspect-y4-y
+ -flex: <0>.ськ<.>//<0>.ск<.>//<0>.ӥськ<.>//<0>.ыськ<.>
+  gramm: pass
+  gloss: PASS
+ -flex: <0>.иськ<.>
+  gramm: pass
+  gloss: PASS
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+ -flex: <0>.ыл<.>//<0>.ылл<.>
+  gramm: iter
+  gloss: ITER
+ -flex: <0>.ыл|ыл<.>//<0>.ылл|ыл<.>//<0>.ылл|ылл<.>//<0>.ыл|ылл<.>
+  gramm: iter
+  gloss: ITER|ITER
+ -flex: <0>.эм|ъя|ськ<.>
+  gramm: fict
+  gloss: PTCP.PST|MULT|PASS
+ -flex: .ем|ъя|ськ<.>
+  gramm: fict
+  gloss: PTCP.PST|MULT|PASS
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+ -flex: <0>.ымтэ|я|ськ<.>
+  gramm: fict_neg
+  gloss: PTCP.NEG|MULT|PASS
+ -flex: <0>.ыт<.>//<0>.т<.>
+  gramm: caus
+  gloss: CAUS
+ paradigm: Infinitive-I
+ paradigm: Infinitive-I-dial-short
+ paradigm: Verb-pres-I-positive
+ paradigm: Verb-past-I-positive
+ paradigm: Verb-future-I-positive
+ paradigm: Verb-pres-I-negative
+ paradigm: Verb-I-negative
+ paradigm: Verb-subj-I
+ paradigm: Converbs-I
+ paradigm: Evidentiality-I
+ paradigm: Participles-I
+ paradigm: Participles-neg-I
+ paradigm: Verb-imp-I
+ paradigm: Verbal-noun-I
+
+-paradigm: Aspect-y4-a
+ -flex: <0>.ыт|ъя<.>//<0>.т|ъя<.>
+  gramm: caus,mult
+  gloss: CAUS|MULT
+ paradigm: Infinitive-II
+ paradigm: Verb-pres-II-positive
+ paradigm: Verb-past-II-positive
+ paradigm: Verb-future-II-positive
+ paradigm: Verb-pres-II-negative
+ paradigm: Verb-II-negative
+ paradigm: Verb-subj-II
+ paradigm: Converbs-II
+ paradigm: Evidentiality-II
+ paradigm: Participles-II
+ paradigm: Participles-neg-II
+ paradigm: Verb-imp-II
+ paradigm: Verbal-noun-II
+
+-paradigm: Aspect-a4-y
+ -flex: .ськ<.>
+  gramm: pass
+  gloss: PASS
+ -flex: .м|ъя|ськ<.>
+  gramm: fict
+  gloss: PTCP.PST|MULT|PASS
+ -flex: .мтэ|я|ськ<.>
+  gramm: fict_neg
+  gloss: PTCP.NEG|MULT|PASS
+ -flex: .т<.>
+  gramm: caus
+  gloss: CAUS
+ paradigm: Infinitive-I
+ paradigm: Verb-pres-I-positive
+ paradigm: Verb-past-I-positive
+ paradigm: Verb-future-I-positive
+ paradigm: Verb-pres-I-negative
+ paradigm: Verb-I-negative
+ paradigm: Verb-subj-I
+ paradigm: Converbs-I
+ paradigm: Evidentiality-I
+ paradigm: Participles-I
+ paradigm: Participles-neg-I
+ paradigm: Verb-imp-I
+ paradigm: Verbal-noun-I
+
+-paradigm: Aspect-a4-a
+ -flex: .т|ъя<.>
+  gramm: caus,mult
+  gloss: CAUS|MULT
+ -flex: .лля<.>
+  gramm: iter
+  gloss: ITER
+ -flex: .лля|лля<.>
+  gramm: iter
+  gloss: ITER|ITER
+ paradigm: Aspect-a4-y
+ paradigm: Aspect-a4-a
+ paradigm: Infinitive-II
+ paradigm: Verb-pres-II-positive
+ paradigm: Verb-past-II-positive
+ paradigm: Verb-future-II-positive
+ paradigm: Verb-pres-II-negative
+ paradigm: Verb-II-negative
+ paradigm: Verb-subj-II
+ paradigm: Converbs-II
+ paradigm: Evidentiality-II
+ paradigm: Participles-II
+ paradigm: Participles-neg-II
+ paradigm: Verb-imp-II
+ paradigm: Verbal-noun-II
+
+
+
+# ******  EVIDENTIALITY  ******
 
 -paradigm: Evidentiality-I
  -flex: .ӥськ|ем<.>
@@ -5910,6 +6275,33 @@
   gramm: evid,3,sg
   gloss: EVID|3SG
   regex-prev: ^.*[аеёиӥоӧуыэюяъь][<>.]*$
+
+-paradigm: Evidentiality-I-i
+ -flex: <1>.иськ|ем<.>
+  gramm: evid,1,sg
+  gloss: PL23|EVID
+  regex-prev: ^.*[аеёиӥоӧуыэюяъь][<>.]*$
+ -flex: <1>.иськ|ем|мы<.>
+  gramm: evid,1,pl
+  gloss: PRS1|EVID|1PL
+  regex-prev: ^.*[аеёиӥоӧуыэюяъь][<>.]*$
+ -flex: <1>.илля|м<.>
+  gramm: evid,2,pl
+  gloss: PL23|EVID
+  regex-prev: ^.*[аеёиӥоӧуыэюяъь][<>.]*$
+ -flex: <1>.илля|м|ды<.>
+  gramm: evid,2,pl
+  gloss: PL23|EVID|2PL
+  regex-prev: ^.*[аеёиӥоӧуыэюяъь][<>.]*$
+ -flex: <1>.илля|м<.>
+  gramm: evid,3,pl
+  gloss: PL23|EVID
+  regex-prev: ^.*[аеёиӥоӧуыэюяъь][<>.]*$
+ -flex: <1>.илля|м|зы<.>
+  gramm: evid,3,pl
+  gloss: PL23|EVID|3PL
+  regex-prev: ^.*[аеёиӥоӧуыэюяъь][<>.]*$
+ paradigm: Comparative
 
 -paradigm: Evidentiality-I-soft
  -flex: .иськ|ем<.>

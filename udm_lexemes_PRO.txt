@@ -713,6 +713,39 @@
  trans_ru: все, всё
 
 -lexeme
+ lex: вичак
+ stem: вичак.
+ gramm: PRO
+ paradigm: Comparative
+ paradigm: collective
+ paradigm: Noun-case-poss-3,pl
+ paradigm: Noun-case-poss-2,pl
+ paradigm: Noun-case-poss-1,pl
+ trans_ru: все, всё
+
+-lexeme
+ lex: вочак
+ stem: вочак.
+ gramm: PRO
+ paradigm: Comparative
+ paradigm: collective
+ paradigm: Noun-case-poss-3,pl
+ paradigm: Noun-case-poss-2,pl
+ paradigm: Noun-case-poss-1,pl
+ trans_ru: все, всё
+
+-lexeme
+ lex: чисто
+ stem: чисто.
+ gramm: PRO,rus
+ paradigm: Comparative
+ paradigm: collective
+ paradigm: Noun-case-poss-3,pl
+ paradigm: Noun-case-poss-2,pl
+ paradigm: Noun-case-poss-1,pl
+ trans_ru: все, всё
+
+-lexeme
  lex: отчы
  stem: отчы.//отцы.
  gramm: ADVPRO,ill
@@ -737,7 +770,7 @@
  lex: кытчы
  stem: кытчы.//кытцы.
  gramm: ADVPRO,ill
- paradigm: Comparative
+ paradigm: Noun-case-compounding-core
  trans_ru: куда
 
 -lexeme
@@ -817,7 +850,7 @@
  lex: кытын
  stem: кытын.//кытчын.
  gramm: ADVPRO,loc
- paradigm: Comparative
+ paradigm: Noun-case-compounding-core
  trans_ru: где
 
 -lexeme
@@ -905,7 +938,7 @@
  lex: кытысь
  stem: кытысь.//кытӥсь.//кытись.
  gramm: ADVPRO,el
- paradigm: Comparative
+ paradigm: Noun-case-compounding-core
  trans_ru: откуда
 
 -lexeme
@@ -961,7 +994,7 @@
  lex: кытысен
  stem: кытысен.//кытӥсен.
  gramm: ADVPRO,egr
- paradigm: Comparative
+ paradigm: Noun-case-compounding-core
  trans_ru: откуда
 
 -lexeme
@@ -1269,7 +1302,7 @@
 
 -lexeme
  lex: ас
- stem: асмес.//асмеос.//ачимес.//асьмес.//ащмес.
+ stem: асмес.//асмеос.//асмеёс.//ачимес.//асьмес.//ащмес.
  gramm: PRO,1pl,nom
  paradigm: Comparative
  trans_ru: сам, свой
@@ -1490,3 +1523,62 @@
  gramm: ADJPRO
  paradigm: Noun-num-consonant
  trans_ru: некоторый
+
+
+
+-lexeme
+ lex: кудбыдӟа
+ gramm: ADJPRO
+ stem: кудбыдӟа.
+ paradigm: connect_adjectives
+ trans_ru: какой величины, какого размера
+
+
+-lexeme
+ lex: некыӵе
+ gramm: PRO
+ stem: некыӵе.
+ paradigm: Comparative
+ trans_ru: никакой
+
+-lexeme
+ lex: нема
+ gramm: PRO
+ stem: нема.
+ paradigm: Noun-mar
+ trans_ru: ничего, нечего
+
+-lexeme
+ lex: неномыр
+ gramm: PRO
+ stem: неномыр.
+ paradigm: Noun-mar
+ trans_ru: ничего
+
+-lexeme
+ lex: окмар
+ gramm: PRO
+ stem: окмар.
+ paradigm: Noun-mar
+ trans_ru: диал. ничего
+
+-lexeme
+ lex: олошай
+ gramm: PRO
+ stem: олоша.
+ paradigm: Noun-num-j
+ trans_ru: разг. не знаю что, чёрт знает что; неизвестно что
+
+-lexeme
+ lex: ома
+ gramm: PRO
+ stem: ома.
+ paradigm: Noun-mar
+ trans_ru: неизвестно что, что-то, что только
+
+-lexeme
+ lex: омар
+ gramm: PRO
+ stem: омар.
+ paradigm: Noun-mar
+ trans_ru: неизвестно что, что-то, что только

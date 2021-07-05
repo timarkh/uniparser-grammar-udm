@@ -224,10 +224,10 @@
 
 -lexeme
  lex: быз
- stem: быз.
+ stem: быз.//бызз.//быззз.
  gramm: IMIT
  paradigm: Empty
- trans_ru: о жужжании
+ trans_ru: о жужжании; о плаче
 
 -lexeme
  lex: жульк
@@ -1001,7 +1001,7 @@
 
 -lexeme
  lex: тр-р-р
- stem: тр-р-р.
+ stem: тр-р.//тр-р-р.//тр-р-р-р.
  gramm: IMIT
  paradigm: Empty
  trans_ru: тпру; о треске трещотки и т. п.
@@ -2202,3 +2202,3000 @@
  gramm: IMIT
  paradigm: Comparative
  trans_ru: о расплющенном предмете
+
+-lexeme
+ lex: ази-гизи
+ gramm: IMIT
+ stem: ази-гизи.
+ paradigm: Comparative
+ trans_ru: о нервном состоянии
+
+-lexeme
+ lex: ба-бах
+ gramm: IMIT,rus
+ stem: ба-бах.
+ paradigm: Comparative
+ trans_ru: ба-бах
+
+-lexeme
+ lex: бӝинг
+ gramm: IMIT
+ stem: бӝинг.
+ paradigm: Comparative
+ trans_ru: о выстреле
+
+-lexeme
+ lex: боз-боз
+ gramm: IMIT
+ stem: боз-боз.
+ paradigm: Comparative
+ trans_ru: басистый, низкий (о звуке, голосе)
+
+-lexeme
+ lex: бозыр-бозыр
+ gramm: IMIT
+ stem: бозыр-бозыр.
+ paradigm: Comparative
+ trans_ru: басистый, низкий (о звуке, голосе)
+
+-lexeme
+ lex: бом-бом
+ gramm: IMIT
+ stem: бом-бом.
+ paradigm: Comparative
+ trans_ru: неизменно, постоянно
+
+-lexeme
+ lex: буграк-буграк
+ gramm: IMIT
+ stem: буграк-буграк.
+ paradigm: Comparative
+ trans_ru: о густых клубах дыма, пара, туч, идущих с перебоями
+
+-lexeme
+ lex: бугыр
+ gramm: IMIT
+ stem: бугыр.
+ paradigm: Comparative
+ trans_ru: валить клубами (бугыр потыны)
+
+-lexeme
+ lex: бультыр
+ gramm: IMIT
+ stem: бультыр.
+ paradigm: Comparative
+ trans_ru: о бульканье
+
+-lexeme
+ lex: быгыль-могыль
+ gramm: IMIT
+ stem: быгыль-могыль.
+ paradigm: Comparative
+ trans_ru: невнятно, неразборчиво
+
+-lexeme
+ lex: быд-быд
+ gramm: IMIT
+ stem: быд-быд.
+ paradigm: Comparative
+ trans_ru: серьёзно, всерьёз; деловито, важно
+
+-lexeme
+ lex: быкыр-быкыр
+ gramm: IMIT
+ stem: быкыр-быкыр.
+ paradigm: Comparative
+ trans_ru: косо-криво, криво-косо
+
+-lexeme
+ lex: быле-быле
+ gramm: IMIT
+ stem: быле-быле.
+ paradigm: Comparative
+ trans_ru: подзыв овец
+
+-lexeme
+ lex: быле
+ gramm: IMIT
+ stem: быле.
+ paradigm: Comparative
+ trans_ru: подзыв овец
+
+-lexeme
+ lex: быльк
+ gramm: IMIT
+ stem: быльк.
+ paradigm: Comparative
+ trans_ru: о выпучивании глаз
+
+-lexeme
+ lex: быльк-быльк
+ gramm: IMIT
+ stem: быльк-быльк.
+ paradigm: Comparative
+ trans_ru: о выпучивании глаз
+
+-lexeme
+ lex: быльыр
+ gramm: IMIT
+ stem: быльыр.
+ paradigm: Comparative
+ trans_ru: слёзы так и катятся, слёзы ручьём бегут (синвуосыз быльыр вияло)
+
+-lexeme
+ lex: быльыр-быльыр
+ gramm: IMIT
+ stem: быльыр-быльыр.
+ paradigm: Comparative
+ trans_ru: на глазах выступили слёзы (синъёсыз быльыр-быльыр вуӟектӥзы)
+
+-lexeme
+ lex: бырк-бырк
+ gramm: IMIT
+ stem: бырк-бырк.
+ paradigm: Comparative
+ trans_ru: тук-тук
+
+-lexeme
+ lex: быч-бач
+ gramm: IMIT
+ stem: быч-бач.
+ paradigm: Comparative
+ trans_ru: туда-сюда, по сторонам
+
+-lexeme
+ lex: вальк
+ gramm: IMIT
+ stem: вальк.
+ paradigm: Comparative
+ trans_ru: переливаясь блестеть (вальк кисьтаськыны)
+
+-lexeme
+ lex: вальк-вальк
+ gramm: IMIT
+ stem: вальк-вальк.
+ paradigm: Comparative
+ trans_ru: переливаясь блестеть (вальк-вальк кисьтаськыны)
+
+-lexeme
+ lex: вальтыр
+ gramm: IMIT
+ stem: вальтыр.
+ paradigm: Comparative
+ trans_ru: повсюду тонким слоем
+
+-lexeme
+ lex: вжик
+ gramm: IMIT,rus
+ stem: вжик.
+ paradigm: Comparative
+ trans_ru: вжик
+
+-lexeme
+ lex: вжин
+ gramm: IMIT
+ stem: вжин.
+ paradigm: Comparative
+ trans_ru: о резком звонком звуке
+
+-lexeme
+ lex: вжинь
+ gramm: IMIT
+ stem: вжинь.
+ paradigm: Comparative
+ trans_ru: о резком звонком звуке
+
+-lexeme
+ lex: вжиуч
+ gramm: IMIT
+ stem: вжиуч.
+ paradigm: Comparative
+ trans_ru: со свистом
+
+-lexeme
+ lex: вжич
+ gramm: IMIT
+ stem: вжич.
+ paradigm: Comparative
+ trans_ru: о звуке при косьбе
+
+-lexeme
+ lex: вжич-вжич
+ gramm: IMIT
+ stem: вжич-вжич.
+ paradigm: Comparative
+ trans_ru: о звуке при косьбе
+
+-lexeme
+ lex: вжуич
+ gramm: IMIT
+ stem: вжуич.
+ paradigm: Comparative
+ trans_ru: резко, со свистом
+
+-lexeme
+ lex: вик-вак
+ gramm: IMIT
+ stem: вик-вак.
+ paradigm: Comparative
+ trans_ru: дышать с трудом, задыхаться (вик-вак шоканы)
+
+-lexeme
+ lex: вогыр-вогыр
+ gramm: IMIT
+ stem: вогыр-вогыр.
+ paradigm: Comparative
+ trans_ru: шершавый, шероховатый; неровный; негладкий
+
+-lexeme
+ lex: вонгыр
+ gramm: IMIT
+ stem: вонгыр.
+ paradigm: Comparative
+ trans_ru: клокоча
+
+-lexeme
+ lex: ворак
+ gramm: IMIT
+ stem: ворак.
+ paradigm: Comparative
+ trans_ru: дружно (напр. вылететь)
+
+-lexeme
+ lex: вуӵ
+ gramm: IMIT
+ stem: вуӵ.
+ paradigm: Comparative
+ trans_ru: о мгновенном глухом звуке; сидеть неподвижно (вуӵ пукыны)
+
+-lexeme
+ lex: габыр
+ gramm: IMIT
+ stem: габыр.
+ paradigm: Comparative
+ trans_ru: неуклюже
+
+-lexeme
+ lex: гаӵ
+ gramm: IMIT
+ stem: гаӵ.
+ paradigm: Comparative
+ trans_ru: прямо; выпятив грудь
+
+-lexeme
+ lex: гень-гень
+ gramm: IMIT
+ stem: гень-гень.
+ paradigm: Comparative
+ trans_ru: кишмя кишеть (гень-гень вырыны)
+
+-lexeme
+ lex: гизь-гизь
+ gramm: IMIT
+ stem: гизь-гизь.
+ paradigm: Comparative
+ trans_ru: крепко-накрепко обнять (гизь-гизь ӟыгыртыны); что-то скрипит на зубах (гизь-гизь пинь улэ шеде)
+
+-lexeme
+ lex: гизьыр
+ gramm: IMIT
+ stem: гизьыр.
+ paradigm: Comparative
+ trans_ru: о скрежете, хрусте
+
+-lexeme
+ lex: гитыр-гитыр
+ gramm: IMIT
+ stem: гитыр-гитыр.
+ paradigm: Comparative
+ trans_ru: о переливчатом хихикании
+
+-lexeme
+ lex: гужыр
+ gramm: IMIT
+ stem: гужыр.
+ paradigm: Comparative
+ trans_ru: с шумом
+
+-lexeme
+ lex: гузьыр-гузьыр
+ gramm: IMIT
+ stem: гузьыр-гузьыр.
+ paradigm: Comparative
+ trans_ru: кишмя
+
+-lexeme
+ lex: гульк-гульк
+ gramm: IMIT
+ stem: гульк-гульк.
+ paradigm: Comparative
+ trans_ru: о бульканье жидкости при питье, переливании
+
+-lexeme
+ lex: гум
+ gramm: IMIT
+ stem: гум.
+ paradigm: Comparative
+ trans_ru: о глухом звуке
+
+-lexeme
+ lex: гумп
+ gramm: IMIT
+ stem: гумп.
+ paradigm: Comparative
+ trans_ru: о глухом звуке
+
+-lexeme
+ lex: гунь
+ gramm: IMIT
+ stem: гунь.
+ paradigm: Comparative
+ trans_ru: надавать тумаков (гунь мыжгыны)
+
+-lexeme
+ lex: гунь-гунь
+ gramm: IMIT
+ stem: гунь-гунь.
+ paradigm: Comparative
+ trans_ru: надавать тумаков (гунь-гунь мыжгыны)
+
+-lexeme
+ lex: гуп
+ gramm: IMIT
+ stem: гуп.
+ paradigm: Comparative
+ trans_ru: о глухом звуке
+
+-lexeme
+ lex: гуп-гуп
+ gramm: IMIT
+ stem: гуп-гуп.
+ paradigm: Comparative
+ trans_ru: диал. мигать (о лампе, коптилке) (гуп-гуп басьтыны)
+
+-lexeme
+ lex: гурк
+ gramm: IMIT
+ stem: гурк.
+ paradigm: Comparative
+ trans_ru: о резком звуке
+
+-lexeme
+ lex: гур
+ gramm: IMIT
+ stem: гур.
+ paradigm: Comparative
+ trans_ru: громко смеяться (гур серекъяны)
+
+-lexeme
+ lex: гус-гус
+ gramm: IMIT
+ stem: гус-гус.
+ paradigm: Comparative
+ trans_ru: плотно поесть (гус-гус сиськыны)
+
+-lexeme
+ lex: гуч-гуч
+ gramm: IMIT
+ stem: гуч-гуч.
+ paradigm: Comparative
+ trans_ru: пить наслаждаясь (гуч-гуч юыны)
+
+-lexeme
+ lex: гуӵ-гуӵ
+ gramm: IMIT
+ stem: гуӵ-гуӵ.
+ paradigm: Comparative
+ trans_ru: пить наслаждаясь (гуӵ-гуӵ юыны)
+
+-lexeme
+ lex: гыб
+ gramm: IMIT
+ stem: гыб.
+ paradigm: Comparative
+ trans_ru: о глухом звуке
+
+-lexeme
+ lex: гыж
+ gramm: IMIT
+ stem: гыж.
+ paradigm: Comparative
+ trans_ru: гудеть, шуметь (гыж карыны); тащить волоком (гыж кыскыны)
+
+-lexeme
+ lex: гыж-кал
+ gramm: IMIT
+ stem: гыж-кал.
+ paradigm: Comparative
+ trans_ru: волочить, тащить юзом (ныж-кал кыскыса нуыны)
+
+-lexeme
+ lex: гызмыль
+ gramm: IMIT
+ stem: гызмыль.
+ paradigm: Comparative
+ trans_ru: медленно, еле-еле
+
+-lexeme
+ lex: гызыр-гызыр
+ gramm: IMIT
+ stem: гызыр-гызыр.
+ paradigm: Comparative
+ trans_ru: об ощущении зуда
+
+-lexeme
+ lex: гызь
+ gramm: IMIT
+ stem: гызь.
+ paradigm: Comparative
+ trans_ru: о скрежете
+
+-lexeme
+ lex: гыл
+ gramm: IMIT
+ stem: гыл.
+ paradigm: Comparative
+ trans_ru: сползти, сползать (гыл кошкыны)
+
+-lexeme
+ lex: гыльым-гальым
+ gramm: IMIT
+ stem: гыльым-гальым.
+ paradigm: Comparative
+ trans_ru: лениво, медлительно, спустя рукава
+
+-lexeme
+ lex: гып
+ gramm: IMIT
+ stem: гып.
+ paradigm: Comparative
+ trans_ru: о глухом звуке
+
+-lexeme
+ lex: гып-гып
+ gramm: IMIT
+ stem: гып-гып.
+ paradigm: Comparative
+ trans_ru: ласково похлопывать по его спине (гып-гып тыбырзэ вешаны)
+
+-lexeme
+ lex: дин
+ gramm: IMIT,rus
+ stem: дин.
+ paradigm: Comparative
+ trans_ru: динь
+
+-lexeme
+ lex: дин-бом
+ gramm: IMIT,rus
+ stem: дин-бом.
+ paradigm: Comparative
+ trans_ru: динь-бом
+
+-lexeme
+ lex: дин-дон
+ gramm: IMIT,rus
+ stem: дин-дон.
+ paradigm: Comparative
+ trans_ru: динь-дон
+
+-lexeme
+ lex: динь-динь
+ gramm: IMIT,rus
+ stem: динь-динь.
+ paradigm: Comparative
+ trans_ru: динь-динь; пинь-пинь
+
+-lexeme
+ lex: дол
+ gramm: IMIT
+ stem: дол.
+ paradigm: Comparative
+ trans_ru: смотреть в упор (дол учкыны)
+
+-lexeme
+ lex: дол-дол
+ gramm: IMIT
+ stem: дол-дол.
+ paradigm: Comparative
+ trans_ru: стоять неподвижно (дол-дол сылыны)
+
+-lexeme
+ lex: доллы
+ gramm: IMIT
+ stem: доллы.
+ paradigm: Comparative
+ trans_ru: уставиться на кого-л. (доллы учкыны)
+
+-lexeme
+ lex: дон-дон-дон
+ gramm: IMIT,rus
+ stem: дон-дон-дон.
+ paradigm: Comparative
+ trans_ru: дон-дон-дон
+
+-lexeme
+ lex: дринь
+ gramm: IMIT
+ stem: дринь.
+ paradigm: Comparative
+ trans_ru: дринь
+
+-lexeme
+ lex: дуп-дуп
+ gramm: IMIT
+ stem: дуп-дуп.
+ paradigm: Comparative
+ trans_ru: о глухом звуке
+
+-lexeme
+ lex: дыбрак
+ gramm: IMIT
+ stem: дыбрак.
+ paradigm: Comparative
+ trans_ru: об одиночном стуке, грохоте со стуком, с грохотом
+
+-lexeme
+ lex: дын-дын
+ gramm: IMIT
+ stem: дын-дын.
+ paradigm: Comparative
+ trans_ru: о гулком звуке
+
+-lexeme
+ lex: дырк-дырк
+ gramm: IMIT
+ stem: дырк-дырк.
+ paradigm: Comparative
+ trans_ru: сердце бьётся учащённо (сюлмыз дырк-дырк тэтча)
+
+-lexeme
+ lex: емыр-емыр
+ gramm: IMIT
+ stem: емыр-емыр.
+ paradigm: Comparative
+ trans_ru: усердно, с усердием; настойчиво
+
+-lexeme
+ lex: ӝаб
+ gramm: IMIT
+ stem: ӝаб.
+ paradigm: Comparative
+ trans_ru: цап
+
+-lexeme
+ lex: ӝаб-ӝаб
+ gramm: IMIT
+ stem: ӝаб-ӝаб.
+ paradigm: Comparative
+ trans_ru: крепко
+
+-lexeme
+ lex: ӝабыр
+ gramm: IMIT
+ stem: ӝабыр.
+ paradigm: Comparative
+ trans_ru: цепко схватить (ӝабыр кырмыны)
+
+-lexeme
+ lex: жаль
+ gramm: IMIT
+ stem: жаль.
+ paradigm: Comparative
+ trans_ru: звукоподр. падению дождя, воды
+
+-lexeme
+ lex: жигыль-жигыль
+ gramm: IMIT
+ stem: жигыль-жигыль.
+ paradigm: Comparative
+ trans_ru: полный, упитанный
+
+-lexeme
+ lex: жик-жак
+ gramm: IMIT
+ stem: жик-жак.
+ paradigm: Comparative
+ trans_ru: о звуке гармони
+
+-lexeme
+ lex: жик-жик
+ gramm: IMIT
+ stem: жик-жик.
+ paradigm: Comparative
+ trans_ru: звукоподр. свисту (напр. пуль)
+
+-lexeme
+ lex: жиль
+ gramm: IMIT
+ stem: жиль.
+ paradigm: Comparative
+ trans_ru: о звуке льющейся жидкости
+
+-lexeme
+ lex: жиль-жаль
+ gramm: IMIT
+ stem: жиль-жаль.
+ paradigm: Comparative
+ trans_ru: о звуке льющейся жидкости
+
+-lexeme
+ lex: жиль-жиль
+ gramm: IMIT
+ stem: жиль-жиль.
+ paradigm: Comparative
+ trans_ru: ноги подкосились (пыдъёсыз жиль-жил луизы)
+
+-lexeme
+ lex: жильтыр
+ gramm: IMIT
+ stem: жильтыр.
+ paradigm: Comparative
+ trans_ru: с лязгом, со звоном; о журчании воды
+
+-lexeme
+ lex: жин-жан
+ gramm: IMIT
+ stem: жин-жан.
+ paradigm: Comparative
+ trans_ru: со звоном; звонко
+
+-lexeme
+ lex: жир
+ gramm: IMIT
+ stem: жир.
+ paradigm: Comparative
+ trans_ru: кричать во весь голос (жир кесяськыны)
+
+-lexeme
+ lex: ӝом-ӝом
+ gramm: IMIT
+ stem: ӝом-ӝом.
+ paradigm: Comparative
+ trans_ru: темно, темным-темно
+
+-lexeme
+ lex: ӝот
+ gramm: IMIT
+ stem: ӝот.
+ paradigm: Comparative
+ trans_ru: наотрез; напрямик; резко
+
+-lexeme
+ lex: ӝот-ӝот
+ gramm: IMIT
+ stem: ӝот-ӝот.
+ paradigm: Comparative
+ trans_ru: наотрез; напрямик
+
+-lexeme
+ lex: ӝукыр
+ gramm: IMIT
+ stem: ӝукыр.
+ paradigm: Comparative
+ trans_ru: кишмя; кучно, группами
+
+-lexeme
+ lex: жуль-жаль
+ gramm: IMIT
+ stem: жуль-жаль.
+ paradigm: Comparative
+ trans_ru: о плеске воды
+
+-lexeme
+ lex: жульыр-жальыр
+ gramm: IMIT
+ stem: жульыр-жальыр.
+ paradigm: Comparative
+ trans_ru: о шуме прибоя, сильном плеске
+
+-lexeme
+ lex: жумбыль-жамбыль
+ gramm: IMIT
+ stem: жумбыль-жамбыль.
+ paradigm: Comparative
+ trans_ru: о плеске воды
+
+-lexeme
+ lex: ӝыбыр
+ gramm: IMIT
+ stem: ӝыбыр.
+ paradigm: Comparative
+ trans_ru: цепко, ловко и крепко хватаясь
+
+-lexeme
+ lex: ӝыбыр-ӝабыр
+ gramm: IMIT
+ stem: ӝыбыр-ӝабыр.
+ paradigm: Comparative
+ trans_ru: цепко, ловко и крепко хватаясь
+
+-lexeme
+ lex: ӟабыль
+ gramm: IMIT
+ stem: ӟабыль.
+ paradigm: Comparative
+ trans_ru: плескаться; чиликать, щебетать (ӟабыль поттыны)
+
+-lexeme
+ lex: ӟар
+ gramm: IMIT
+ stem: ӟар.
+ paradigm: Comparative
+ trans_ru: оскалить зубы (пиньёсты ӟар поттыны)
+
+-lexeme
+ lex: зӥр
+ gramm: IMIT
+ stem: зӥр.
+ paradigm: Comparative
+ trans_ru: стремительно вращаться (зӥр берганы)
+
+-lexeme
+ lex: ӟикыр
+ gramm: IMIT
+ stem: ӟикыр.
+ paradigm: Comparative
+ trans_ru: о скрипе
+
+-lexeme
+ lex: ӟильык
+ gramm: IMIT
+ stem: ӟильык.
+ paradigm: Comparative
+ trans_ru: о чириканье воробья
+
+-lexeme
+ lex: зӥрк-дурк
+ gramm: IMIT
+ stem: зӥрк-дурк.
+ paradigm: Comparative
+ trans_ru: резко, быстро
+
+-lexeme
+ lex: зонь-зонь
+ gramm: IMIT
+ stem: зонь-зонь.
+ paradigm: Comparative
+ trans_ru: разлечься, растянуться (зонь-зонь выдыны)
+
+-lexeme
+ lex: зрич
+ gramm: IMIT
+ stem: зрич.
+ paradigm: Comparative
+ trans_ru: о звуке плевка сквозь зубы
+
+-lexeme
+ lex: зубыр
+ gramm: IMIT
+ stem: зубыр.
+ paradigm: Comparative
+ trans_ru: дружно, бодро, бойко
+
+-lexeme
+ lex: зуг
+ gramm: IMIT
+ stem: зуг.
+ paradigm: Comparative
+ trans_ru: без малейшего движения (зуг но, зыг но вырӟытэк)
+
+-lexeme
+ lex: зугыр
+ gramm: IMIT
+ stem: зугыр.
+ paradigm: Comparative
+ trans_ru: о состоянии дрожи
+
+-lexeme
+ lex: зугыр-зугыр
+ gramm: IMIT
+ stem: зугыр-зугыр.
+ paradigm: Comparative
+ trans_ru: сильно зудеть (зугыр-зугыр луыны)
+
+-lexeme
+ lex: ӟуз
+ gramm: IMIT
+ stem: ӟуз.
+ paradigm: Comparative
+ trans_ru: истекать кровью (ӟуз вир кошкыны)
+
+-lexeme
+ lex: ӟузыр
+ gramm: IMIT
+ stem: ӟузыр.
+ paradigm: Comparative
+ trans_ru: обильно течь (ӟузыр вияны)
+
+-lexeme
+ lex: ӟузыр-ӟузыр
+ gramm: IMIT
+ stem: ӟузыр-ӟузыр.
+ paradigm: Comparative
+ trans_ru: изорваться в клочья (ӟузыр-ӟузыр кесяськыны)
+
+-lexeme
+ lex: ӟукыр-ӟакыр
+ gramm: IMIT
+ stem: ӟукыр-ӟакыр.
+ paradigm: Comparative
+ trans_ru: о скрипе
+
+-lexeme
+ lex: зун-зун
+ gramm: IMIT
+ stem: зун-зун.
+ paradigm: Comparative
+ trans_ru: сильно заморозить (зун-зун кынтыны)
+
+-lexeme
+ lex: зунь
+ gramm: IMIT
+ stem: зунь.
+ paradigm: Comparative
+ trans_ru: разлечься, растянуться (зунь выдыны)
+
+-lexeme
+ lex: зунь-зунь
+ gramm: IMIT
+ stem: зунь-зунь.
+ paradigm: Comparative
+ trans_ru: разлечься, растянуться (зунь-зунь выдыны)
+
+-lexeme
+ lex: зуп
+ gramm: IMIT
+ stem: зуп.
+ paradigm: Comparative
+ trans_ru: о глухом звуке
+
+-lexeme
+ lex: зур
+ gramm: IMIT
+ stem: зур.
+ paradigm: Comparative
+ trans_ru: его тело сильно дрожит (мугорыз зур куалекъя)
+
+-lexeme
+ lex: зур-зур
+ gramm: IMIT
+ stem: зур-зур.
+ paradigm: Comparative
+ trans_ru: глухо дребезжать (зур-зур вазьыны)
+
+-lexeme
+ lex: зурк
+ gramm: IMIT
+ stem: зурк.
+ paradigm: Comparative
+ trans_ru: вздрогнуть (зурк луыны)
+
+-lexeme
+ lex: зурк-дурк
+ gramm: IMIT
+ stem: зурк-дурк.
+ paradigm: Comparative
+ trans_ru: резко
+
+-lexeme
+ lex: зурк-зурк
+ gramm: IMIT
+ stem: зурк-зурк.
+ paradigm: Comparative
+ trans_ru: вздрогнуть (зурк-зурк луыны)
+
+-lexeme
+ lex: зуч
+ gramm: IMIT
+ stem: зуч.
+ paradigm: Comparative
+ trans_ru: шлёп
+
+-lexeme
+ lex: зуч-зуч
+ gramm: IMIT
+ stem: зуч-зуч.
+ paradigm: Comparative
+ trans_ru: звучный, зычный (о голосе)
+
+-lexeme
+ lex: зыл
+ gramm: IMIT
+ stem: зыл.
+ paradigm: Comparative
+ trans_ru: плавно
+
+-lexeme
+ lex: зып
+ gramm: IMIT
+ stem: зып.
+ paradigm: Comparative
+ trans_ru: о глухом звуке
+
+-lexeme
+ lex: ӟырк
+ gramm: IMIT
+ stem: ӟырк.
+ paradigm: Comparative
+ trans_ru: диал. аккуратно сложить (ӟырк карыны)
+
+-lexeme
+ lex: кар
+ gramm: IMIT
+ stem: кар.
+ paradigm: Comparative
+ trans_ru: о крике вороны
+
+-lexeme
+ lex: кваш
+ gramm: IMIT
+ stem: кваш.
+ paradigm: Comparative
+ trans_ru: о глухом звуке при косьбе
+
+-lexeme
+ lex: кепыр
+ gramm: IMIT
+ stem: кепыр.
+ paradigm: Comparative
+ trans_ru: снесняться; смущаться (кепыр вайыны)
+
+-lexeme
+ lex: кир-мир
+ gramm: IMIT
+ stem: кир-мир.
+ paradigm: Comparative
+ trans_ru: ссориться (кир-мир карыны)
+
+-lexeme
+ lex: клач
+ gramm: IMIT
+ stem: клач.
+ paradigm: Comparative
+ trans_ru: дать пощёчину (клач сётыны
+
+-lexeme
+ lex: клёп
+ gramm: IMIT
+ stem: клёп.
+ paradigm: Comparative
+ trans_ru: шлёп
+
+-lexeme
+ lex: клоп
+ gramm: IMIT
+ stem: клоп.
+ paradigm: Comparative
+ trans_ru: хлоп
+
+-lexeme
+ lex: ко-ко
+ gramm: IMIT
+ stem: ко-ко.
+ paradigm: Comparative
+ trans_ru: ко-ко
+
+-lexeme
+ lex: ко-ко-ри-ко
+ gramm: IMIT
+ stem: ко-ко-ри-ко.
+ paradigm: Comparative
+ trans_ru: ку-ка-ре-ку
+
+-lexeme
+ lex: корк
+ gramm: IMIT
+ stem: корк.
+ paradigm: Comparative
+ trans_ru: о глухом стуке
+
+-lexeme
+ lex: корс-корс
+ gramm: IMIT
+ stem: корс-корс.
+ paradigm: Comparative
+ trans_ru: о треске
+
+-lexeme
+ lex: кот-котӥк
+ gramm: IMIT
+ stem: кот-котӥк.
+ paradigm: Comparative
+ trans_ru: куд-кудах
+
+-lexeme
+ lex: кочыр-кочыр
+ gramm: IMIT
+ stem: кочыр-кочыр.
+ paradigm: Comparative
+ trans_ru: озираясь
+
+-lexeme
+ lex: крич
+ gramm: IMIT
+ stem: крич.
+ paradigm: Comparative
+ trans_ru: со всей силы
+
+-lexeme
+ lex: крич-крич
+ gramm: IMIT
+ stem: крич-крич.
+ paradigm: Comparative
+ trans_ru: со всей силы
+
+-lexeme
+ lex: крок
+ gramm: IMIT
+ stem: крок.
+ paradigm: Comparative
+ trans_ru: о звуке, издаваемом коршуном
+
+-lexeme
+ lex: крон-крон
+ gramm: IMIT
+ stem: крон-крон.
+ paradigm: Comparative
+ trans_ru: о звуке, издаваемом вороном
+
+-lexeme
+ lex: куаж
+ gramm: IMIT
+ stem: куаж.
+ paradigm: Comparative
+ trans_ru: о скрипучем крике коростеля; о хрусте
+
+-lexeme
+ lex: куал-куал
+ gramm: IMIT
+ stem: куал-куал.
+ paradigm: Comparative
+ trans_ru: вдоволь поговорить (куал-куал вераськыны)
+
+-lexeme
+ lex: куальк
+ gramm: IMIT
+ stem: куальк.
+ paradigm: Comparative
+ trans_ru: о шуме бьющихся предметов
+
+-lexeme
+ lex: куальтыр
+ gramm: IMIT
+ stem: куальтыр.
+ paradigm: Comparative
+ trans_ru: о бульканье
+
+-lexeme
+ lex: куанянь
+ gramm: IMIT
+ stem: куанянь.
+ paradigm: Comparative
+ trans_ru: звукоподр. скулёжу, визгу, писку щенят (собак)
+
+-lexeme
+ lex: куаӵ
+ gramm: IMIT
+ stem: куаӵ.
+ paradigm: Comparative
+ trans_ru: с удовольствием
+
+-lexeme
+ lex: куаӵ-куаӵ
+ gramm: IMIT
+ stem: куаӵ-куаӵ.
+ paradigm: Comparative
+ trans_ru: отрезать, не жалея материал (куаӵ-куаӵ вандыны)
+
+-lexeme
+ lex: куаӵырак
+ gramm: IMIT
+ stem: куаӵырак.
+ paradigm: Comparative
+ trans_ru: быстро, мгновенно
+
+-lexeme
+ lex: куаш
+ gramm: IMIT
+ stem: куаш.
+ paradigm: Comparative
+ trans_ru: шуметь (куаш карыны)
+
+-lexeme
+ lex: кужыр
+ gramm: IMIT
+ stem: кужыр.
+ paradigm: Comparative
+ trans_ru: об урчании в животе
+
+-lexeme
+ lex: кузьыр-мазьыр
+ gramm: IMIT
+ stem: кузьыр-мазьыр.
+ paradigm: Comparative
+ trans_ru: скиснуть (кузьыр-мазьыр луыны)
+
+-lexeme
+ lex: куть-куть
+ gramm: IMIT
+ stem: куть-куть.
+ paradigm: Comparative
+ trans_ru: очень сильно
+
+-lexeme
+ lex: кучер-куачер
+ gramm: IMIT
+ stem: кучер-куачер.
+ paradigm: Comparative
+ trans_ru: кругом, в разные стороны
+
+-lexeme
+ lex: кычыль-качыль
+ gramm: IMIT
+ stem: кычыль-качыль.
+ paradigm: Comparative
+ trans_ru: из стороны в сторону
+
+-lexeme
+ lex: кыӵыль-каӵыль
+ gramm: IMIT
+ stem: кыӵыль-каӵыль.
+ paradigm: Comparative
+ trans_ru: из стороны в сторону
+
+-lexeme
+ lex: лангыр
+ gramm: IMIT
+ stem: лангыр.
+ paradigm: Comparative
+ trans_ru: звукоподр. звону
+
+-lexeme
+ lex: ларк
+ gramm: IMIT
+ stem: ларк.
+ paradigm: Comparative
+ trans_ru: о резком звуке
+
+-lexeme
+ lex: лать
+ gramm: IMIT
+ stem: лать.
+ paradigm: Comparative
+ trans_ru: идти вразвалку (лать кошкыны)
+
+-lexeme
+ lex: лать-лать
+ gramm: IMIT
+ stem: лать-лать.
+ paradigm: Comparative
+ trans_ru: идти вразвалку (лать-лать вамышъяны)
+
+-lexeme
+ lex: лаӵ-лаӵ
+ gramm: IMIT
+ stem: лаӵ-лаӵ.
+ paradigm: Comparative
+ trans_ru: от души
+
+-lexeme
+ lex: лаш
+ gramm: IMIT
+ stem: лаш.
+ paradigm: Comparative
+ trans_ru: шлёпнуться (лаш усьыны)
+
+-lexeme
+ lex: лаш-лаш
+ gramm: IMIT
+ stem: лаш-лаш.
+ paradigm: Comparative
+ trans_ru: основательно
+
+-lexeme
+ lex: либыр
+ gramm: IMIT
+ stem: либыр.
+ paradigm: Comparative
+ trans_ru: о состоянии слабости
+
+-lexeme
+ lex: либыр-либыр
+ gramm: IMIT
+ stem: либыр-либыр.
+ paradigm: Comparative
+ trans_ru: обессилеть, ослабнуть (либыр-либыр луыны)
+
+-lexeme
+ lex: либыр-лябыр
+ gramm: IMIT
+ stem: либыр-лябыр.
+ paradigm: Comparative
+ trans_ru: о состоянии слабости
+
+-lexeme
+ lex: ликыр-лякыр
+ gramm: IMIT
+ stem: ликыр-лякыр.
+ paradigm: Comparative
+ trans_ru: шататься (ликыр-лякыр вырыны)
+
+-lexeme
+ lex: лингыр
+ gramm: IMIT
+ stem: лингыр.
+ paradigm: Comparative
+ trans_ru: звукоподр. звону
+
+-lexeme
+ lex: лӧй-лӧй
+ gramm: IMIT
+ stem: лӧй-лӧй.
+ paradigm: Comparative
+ trans_ru: спокойно, уверенно
+
+-lexeme
+ lex: лӧп
+ gramm: IMIT
+ stem: лӧп.
+ paradigm: Comparative
+ trans_ru: о глухом звуке
+
+-lexeme
+ lex: лӧп-лӧп
+ gramm: IMIT
+ stem: лӧп-лӧп.
+ paradigm: Comparative
+ trans_ru: о глухом звуке
+
+-lexeme
+ lex: лорк
+ gramm: IMIT
+ stem: лорк.
+ paradigm: Comparative
+ trans_ru: выражает резкое движение, дёрганье
+
+-lexeme
+ lex: лӧсыр
+ gramm: IMIT
+ stem: лӧсыр.
+ paradigm: Comparative
+ trans_ru: о хрусте
+
+-lexeme
+ lex: лунгыр-лангыр
+ gramm: IMIT
+ stem: лунгыр-лангыр.
+ paradigm: Comparative
+ trans_ru: с грохотом
+
+-lexeme
+ lex: лурк
+ gramm: IMIT
+ stem: лурк.
+ paradigm: Comparative
+ trans_ru: резко
+
+-lexeme
+ lex: лурк-ларк
+ gramm: IMIT
+ stem: лурк-ларк.
+ paradigm: Comparative
+ trans_ru: о пульсации
+
+-lexeme
+ lex: лурк-лурк
+ gramm: IMIT
+ stem: лурк-лурк.
+ paradigm: Comparative
+ trans_ru: о пульсации
+
+-lexeme
+ lex: лусьтыр-ласьтыр
+ gramm: IMIT
+ stem: лусьтыр-ласьтыр.
+ paradigm: Comparative
+ trans_ru: лохматый, взлохмаченный; оборванный
+
+-lexeme
+ lex: луть-лать
+ gramm: IMIT
+ stem: луть-лать.
+ paradigm: Comparative
+ trans_ru: ходить вразвалку (луть-лать ветлыны)
+
+-lexeme
+ lex: луть-луть
+ gramm: IMIT
+ stem: луть-луть.
+ paradigm: Comparative
+ trans_ru: ходить не спеша (луть-луть ветлыны)
+
+-lexeme
+ lex: лучыр-лачыр
+ gramm: IMIT
+ stem: лучыр-лачыр.
+ paradigm: Comparative
+ trans_ru: с треском, треща
+
+-lexeme
+ lex: луштыр-лаштыр
+ gramm: IMIT
+ stem: луштыр-лаштыр.
+ paradigm: Comparative
+ trans_ru: клочьями
+
+-lexeme
+ lex: лушыр-лашыр
+ gramm: IMIT
+ stem: лушыр-лашыр.
+ paradigm: Comparative
+ trans_ru: переваливаясь из стороны в сторону
+
+-lexeme
+ lex: лыжжы
+ gramm: IMIT
+ stem: лыжжы.
+ paradigm: Comparative
+ trans_ru: одиноко
+
+-lexeme
+ lex: лыньыр-ланьыр
+ gramm: IMIT
+ stem: лыньыр-ланьыр.
+ paradigm: Comparative
+ trans_ru: выражает ветхое состояние предметов или неровную походку человека
+
+-lexeme
+ lex: лып
+ gramm: IMIT
+ stem: лып.
+ paradigm: Comparative
+ trans_ru: успокоиться (лып кариськыны)
+
+-lexeme
+ lex: лып-лоп
+ gramm: IMIT
+ stem: лып-лоп.
+ paradigm: Comparative
+ trans_ru: вразвалку
+
+-lexeme
+ lex: лысыр-лосыр
+ gramm: IMIT
+ stem: лысыр-лосыр.
+ paradigm: Comparative
+ trans_ru: с треском, треща
+
+-lexeme
+ lex: люгыр-лягыр
+ gramm: IMIT
+ stem: люгыр-лягыр.
+ paradigm: Comparative
+ trans_ru: шататься (люгыр-лягыр луыны)
+
+-lexeme
+ lex: люкыр-лякыр
+ gramm: IMIT
+ stem: люкыр-лякыр.
+ paradigm: Comparative
+ trans_ru: шататься (люкыр-лякыр вырыны)
+
+-lexeme
+ lex: межыр-межыр
+ gramm: IMIT
+ stem: межыр-межыр.
+ paradigm: Comparative
+ trans_ru: стоять дыбом (торчком)
+
+-lexeme
+ lex: мольк
+ gramm: IMIT
+ stem: мольк.
+ paradigm: Comparative
+ trans_ru: пристально смотреть (мольк учкыны)
+
+-lexeme
+ lex: муг-маг
+ gramm: IMIT
+ stem: муг-маг.
+ paradigm: Comparative
+ trans_ru: еле-еле
+
+-lexeme
+ lex: мугыль-могыль
+ gramm: IMIT
+ stem: мугыль-могыль.
+ paradigm: Comparative
+ trans_ru: промямлив
+
+-lexeme
+ lex: мульыр-мульыр
+ gramm: IMIT
+ stem: мульыр-мульыр.
+ paradigm: Comparative
+ trans_ru: обильно
+
+-lexeme
+ lex: мыг-маг
+ gramm: IMIT
+ stem: мыг-маг.
+ paradigm: Comparative
+ trans_ru: уничижительно
+
+-lexeme
+ lex: мынь
+ gramm: IMIT
+ stem: мынь.
+ paradigm: Comparative
+ trans_ru: улыбаться (мынь потыны)
+
+-lexeme
+ lex: мырк-мырк
+ gramm: IMIT
+ stem: мырк-мырк.
+ paradigm: Comparative
+ trans_ru: изумлённо, удивлённо
+
+-lexeme
+ lex: мяк
+ gramm: IMIT
+ stem: мяк.
+ paradigm: Comparative
+ trans_ru: тяф
+
+-lexeme
+ lex: наш-наш
+ gramm: IMIT
+ stem: наш-наш.
+ paradigm: Comparative
+ trans_ru: густо, плотно
+
+-lexeme
+ lex: нёрк
+ gramm: IMIT
+ stem: нёрк.
+ paradigm: Comparative
+ trans_ru: вздрогнуть (нёрк луыны)
+
+-lexeme
+ lex: нир-няр
+ gramm: IMIT
+ stem: нир-няр.
+ paradigm: Comparative
+ trans_ru: кое-как, еле-еле
+
+-lexeme
+ lex: нис-нис
+ gramm: IMIT
+ stem: нис-нис.
+ paradigm: Comparative
+ trans_ru: о писке, визге; спокойно
+
+-lexeme
+ lex: норс
+ gramm: IMIT
+ stem: норс.
+ paradigm: Comparative
+ trans_ru: о хрюканье поросёнка, свиньи
+
+-lexeme
+ lex: нуй-нуй
+ gramm: IMIT
+ stem: нуй-нуй.
+ paradigm: Comparative
+ trans_ru: о тягучем состоянии
+
+-lexeme
+ lex: нурк-вуӵ
+ gramm: IMIT
+ stem: нурк-вуӵ.
+ paradigm: Comparative
+ trans_ru: всхлипывая
+
+-lexeme
+ lex: нуӵ
+ gramm: IMIT
+ stem: нуӵ.
+ paradigm: Comparative
+ trans_ru: с наслаждением
+
+-lexeme
+ lex: нуч-нуч
+ gramm: IMIT
+ stem: нуч-нуч.
+ paradigm: Comparative
+ trans_ru: основательно
+
+-lexeme
+ lex: нуш-нуш
+ gramm: IMIT
+ stem: нуш-нуш.
+ paradigm: Comparative
+ trans_ru: уверенно шагая (нуш-нуш вамышъяса)
+
+-lexeme
+ lex: ныг-ныг
+ gramm: IMIT
+ stem: ныг-ныг.
+ paradigm: Comparative
+ trans_ru: крепкий, здоровый; кругленький; пухленький
+
+-lexeme
+ lex: ныг-пог
+ gramm: IMIT
+ stem: ныг-пог.
+ paradigm: Comparative
+ trans_ru: обижать (ныг-пог карыны); насильно
+
+-lexeme
+ lex: ныс-ныс
+ gramm: IMIT
+ stem: ныс-ныс.
+ paradigm: Comparative
+ trans_ru: обнюхивать (ныс-ныс зынъяськыны)
+
+-lexeme
+ lex: ныс-пуль
+ gramm: IMIT
+ stem: ныс-пуль.
+ paradigm: Comparative
+ trans_ru: спокойно; задыхаясь
+
+-lexeme
+ lex: ньыс-ньыс
+ gramm: IMIT
+ stem: ньыс-ньыс.
+ paradigm: Comparative
+ trans_ru: спокойно
+
+-lexeme
+ lex: ньыс-пуль
+ gramm: IMIT
+ stem: ньыс-пуль.
+ paradigm: Comparative
+ trans_ru: спокойно
+
+-lexeme
+ lex: нэж-куаж
+ gramm: IMIT
+ stem: нэж-куаж.
+ paradigm: Comparative
+ trans_ru: с треском, с хрустом
+
+-lexeme
+ lex: нюж
+ gramm: IMIT
+ stem: нюж.
+ paradigm: Comparative
+ trans_ru: ползать; пресмыкаться; угодничать (нюж ветлыны)
+
+-lexeme
+ lex: нюж-няж
+ gramm: IMIT
+ stem: нюж-няж.
+ paradigm: Comparative
+ trans_ru: медленно, не торопясь; кое-как
+
+-lexeme
+ lex: нюш-нюш
+ gramm: IMIT
+ stem: нюш-нюш.
+ paradigm: Comparative
+ trans_ru: неуклюже, неповоротливо
+
+-lexeme
+ lex: нюш-няш
+ gramm: IMIT
+ stem: нюш-няш.
+ paradigm: Comparative
+ trans_ru: волоча
+
+-lexeme
+ lex: няж
+ gramm: IMIT
+ stem: няж.
+ paradigm: Comparative
+ trans_ru: слабеньким голосом (няж куараен)
+
+-lexeme
+ lex: няп-няп
+ gramm: IMIT
+ stem: няп-няп.
+ paradigm: Comparative
+ trans_ru: полностью, вылитый
+
+-lexeme
+ lex: няпыль-няпыль
+ gramm: IMIT
+ stem: няпыль-няпыль.
+ paradigm: Comparative
+ trans_ru: о жидком, мягком состоянии предмета
+
+-lexeme
+ lex: пазь-пазь
+ gramm: IMIT
+ stem: пазь-пазь.
+ paradigm: Comparative
+ trans_ru: раскидистая липа (пазь-пазь беризь)
+
+-lexeme
+ lex: паль
+ gramm: IMIT
+ stem: паль.
+ paradigm: Comparative
+ trans_ru: улыбаться (паль потыны)
+
+-lexeme
+ lex: пальк-пальк
+ gramm: IMIT
+ stem: пальк-пальк.
+ paradigm: Comparative
+ trans_ru: о плеске
+
+-lexeme
+ lex: пальыш
+ gramm: IMIT
+ stem: пальыш.
+ paradigm: Comparative
+ trans_ru: улыбнуться (пальыш потыны)
+
+-lexeme
+ lex: паляк
+ gramm: IMIT
+ stem: паляк.
+ paradigm: Comparative
+ trans_ru: улыбнуться (паляк потыны)
+
+-lexeme
+ lex: пежыр
+ gramm: IMIT
+ stem: пежыр.
+ paradigm: Comparative
+ trans_ru: пежыр йырсиос (взъерошенные волосы)
+
+-lexeme
+ lex: пезь-пезь
+ gramm: IMIT
+ stem: пезь-пезь.
+ paradigm: Comparative
+ trans_ru: приободриться (пезь-пезь кариськыны)
+
+-lexeme
+ lex: питыр-питыр
+ gramm: IMIT
+ stem: питыр-питыр.
+ paradigm: Comparative
+ trans_ru: кружась
+
+-lexeme
+ lex: погыль
+ gramm: IMIT
+ stem: погыль.
+ paradigm: Comparative
+ trans_ru: шепеляво, картаво
+
+-lexeme
+ lex: польтыр
+ gramm: IMIT
+ stem: польтыр.
+ paradigm: Comparative
+ trans_ru: болтать (польтыр карыны)
+
+-lexeme
+ lex: пуж-паж
+ gramm: IMIT
+ stem: пуж-паж.
+ paradigm: Comparative
+ trans_ru: о шуме воды
+
+-lexeme
+ lex: пукыль-пакыль
+ gramm: IMIT
+ stem: пукыль-пакыль.
+ paradigm: Comparative
+ trans_ru: неуклюже
+
+-lexeme
+ lex: пукыль-пукыль
+ gramm: IMIT
+ stem: пукыль-пукыль.
+ paradigm: Comparative
+ trans_ru: пухлый
+
+-lexeme
+ lex: пултыр-пултыр
+ gramm: IMIT
+ stem: пултыр-пултыр.
+ paradigm: Comparative
+ trans_ru: развеваясь
+
+-lexeme
+ lex: пуньыр
+ gramm: IMIT
+ stem: пуньыр.
+ paradigm: Comparative
+ trans_ru: трястись (пуньыр луыны)
+
+-lexeme
+ lex: пурк
+ gramm: IMIT
+ stem: пурк.
+ paradigm: Comparative
+ trans_ru: клубами
+
+-lexeme
+ lex: пух-пух
+ gramm: IMIT
+ stem: пух-пух.
+ paradigm: Comparative
+ trans_ru: бах-бах
+
+-lexeme
+ lex: пуч-пуч
+ gramm: IMIT
+ stem: пуч-пуч.
+ paradigm: Comparative
+ trans_ru: навострить уши (пелез пуч-пуч золтыны)
+
+-lexeme
+ lex: пуш-паш
+ gramm: IMIT
+ stem: пуш-паш.
+ paradigm: Comparative
+ trans_ru: он идёт задыхаясь (пуш-паш шокаса мынэ)
+
+-lexeme
+ lex: пырс
+ gramm: IMIT
+ stem: пырс.
+ paradigm: Comparative
+ trans_ru: быстро выйти (пырс потыны)
+
+-lexeme
+ lex: пых-пах
+ gramm: IMIT
+ stem: пых-пах.
+ paradigm: Comparative
+ trans_ru: чух-чух
+
+-lexeme
+ lex: резь
+ gramm: IMIT
+ stem: резь.
+ paradigm: Comparative
+ trans_ru: галдеть, шуметь (резь поттыны)
+
+-lexeme
+ lex: сапыль-сапыль
+ gramm: IMIT
+ stem: сапыль-сапыль.
+ paradigm: Comparative
+ trans_ru: о жидкой грязи
+
+-lexeme
+ lex: сач
+ gramm: IMIT
+ stem: сач.
+ paradigm: Comparative
+ trans_ru: шлёп
+
+-lexeme
+ lex: сопыр
+ gramm: IMIT
+ stem: сопыр.
+ paradigm: Comparative
+ trans_ru: часто
+
+-lexeme
+ lex: сор-сор
+ gramm: IMIT
+ stem: сор-сор.
+ paradigm: Comparative
+ trans_ru: крепко заснуть (сор-сор умме усьыны)
+
+-lexeme
+ lex: суль
+ gramm: IMIT
+ stem: суль.
+ paradigm: Comparative
+ trans_ru: развариться (суль пӧзьыны)
+
+-lexeme
+ lex: суль-суль
+ gramm: IMIT
+ stem: суль-суль.
+ paradigm: Comparative
+ trans_ru: развариться (суль-суль пӧзьыны)
+
+-lexeme
+ lex: сульыр
+ gramm: IMIT
+ stem: сульыр.
+ paradigm: Comparative
+ trans_ru: с шипением
+
+-lexeme
+ lex: супыль-супыль
+ gramm: IMIT
+ stem: супыль-супыль.
+ paradigm: Comparative
+ trans_ru: слякоть; мокрый липкий снег (супыль-супыль лымы)
+
+-lexeme
+ lex: супыр
+ gramm: IMIT
+ stem: супыр.
+ paradigm: Comparative
+ trans_ru: каплями
+
+-lexeme
+ lex: суть-суть
+ gramm: IMIT
+ stem: суть-суть.
+ paradigm: Comparative
+ trans_ru: промокнуть насквозь (до нитки) (суть-суть котмыны)
+
+-lexeme
+ lex: суч
+ gramm: IMIT
+ stem: суч.
+ paradigm: Comparative
+ trans_ru: хлюп-хлюп
+
+-lexeme
+ lex: суч-суч
+ gramm: IMIT
+ stem: суч-суч.
+ paradigm: Comparative
+ trans_ru: промокнуть насквозь (суч-суч котмыны)
+
+-lexeme
+ lex: сучыр
+ gramm: IMIT
+ stem: сучыр.
+ paradigm: Comparative
+ trans_ru: о промокшем насквозь состоянии
+
+-lexeme
+ lex: сучыр-сучыр
+ gramm: IMIT
+ stem: сучыр-сучыр.
+ paradigm: Comparative
+ trans_ru: промокнуть насквозь (сучыр-сучыр котмыны)
+
+-lexeme
+ lex: суп-сап
+ gramm: IMIT
+ stem: суп-сап.
+ paradigm: Comparative
+ trans_ru: истратить зря, растранжирить (суп-сап карыны)
+
+-lexeme
+ lex: сыр-р
+ gramm: IMIT
+ stem: сыр-р.
+ paradigm: Comparative
+ trans_ru: дрожать (сыр-р куалекъяны)
+
+-lexeme
+ lex: сэзь-пезь
+ gramm: IMIT
+ stem: сэзь-пезь.
+ paradigm: Comparative
+ trans_ru: бодро, бойко, быстро, шустро, живо
+
+-lexeme
+ lex: сюлтыр
+ gramm: IMIT
+ stem: сюлтыр.
+ paradigm: Comparative
+ trans_ru: за ним по земле тянется верёвка (сьӧраз гозы сюлтыр кыстӥське)
+
+-lexeme
+ lex: сюлтыр-калтыр
+ gramm: IMIT
+ stem: сюлтыр-калтыр.
+ paradigm: Comparative
+ trans_ru: разбросать как попало (сюлтыр-калтыр куяны)
+
+-lexeme
+ lex: тасыр
+ gramm: IMIT
+ stem: тасыр.
+ paradigm: Comparative
+ trans_ru: о треске
+
+-lexeme
+ lex: тач
+ gramm: IMIT
+ stem: тач.
+ paradigm: Comparative
+ trans_ru: о треске, шлепках (ударах) по щеке
+
+-lexeme
+ lex: таш
+ gramm: IMIT
+ stem: таш.
+ paradigm: Comparative
+ trans_ru: шумно
+
+-lexeme
+ lex: тёк-тёк
+ gramm: IMIT
+ stem: тёк-тёк.
+ paradigm: Comparative
+ trans_ru: о движении поплавка
+
+-lexeme
+ lex: тём
+ gramm: IMIT
+ stem: тём.
+ paradigm: Comparative
+ trans_ru: тьма, темнота; тёмный; темно (тём пеймыт)
+
+-lexeme
+ lex: тёпыр
+ gramm: IMIT
+ stem: тёпыр.
+ paradigm: Comparative
+ trans_ru: звукоподр. капанью воды
+
+-lexeme
+ lex: тики-так
+ gramm: IMIT
+ stem: тики-так.
+ paradigm: Comparative
+ trans_ru: о стуке колёс поезда
+
+-lexeme
+ lex: тик-тик
+ gramm: IMIT
+ stem: тик-тик.
+ paradigm: Comparative
+ trans_ru: о стуке
+
+-lexeme
+ lex: тинь
+ gramm: IMIT
+ stem: тинь.
+ paradigm: Comparative
+ trans_ru: о звуке молоточка
+
+-lexeme
+ lex: токоль-токоль
+ gramm: IMIT
+ stem: токоль-токоль.
+ paradigm: Comparative
+ trans_ru: пухлый
+
+-lexeme
+ lex: тольк
+ gramm: IMIT
+ stem: тольк.
+ paradigm: Comparative
+ trans_ru: грузно
+
+-lexeme
+ lex: тольк-тольк
+ gramm: IMIT
+ stem: тольк-тольк.
+ paradigm: Comparative
+ trans_ru: без дела
+
+-lexeme
+ lex: топ
+ gramm: IMIT,rus
+ stem: топ.
+ paradigm: Comparative
+ trans_ru: топ
+
+-lexeme
+ lex: трын-тык-тык
+ gramm: IMIT
+ stem: трын-тык-тык.
+ paradigm: Comparative
+ trans_ru: о звуке работы двигателя
+
+-lexeme
+ lex: тук
+ gramm: IMIT
+ stem: тук.
+ paradigm: Comparative
+ trans_ru: тук
+
+-lexeme
+ lex: тупыр-тап
+ gramm: IMIT
+ stem: тупыр-тап.
+ paradigm: Comparative
+ trans_ru: наскоро
+
+-lexeme
+ lex: тупыр-тапыр
+ gramm: IMIT
+ stem: тупыр-тапыр.
+ paradigm: Comparative
+ trans_ru: наскоро, неаккуратно, небрежно, как попало
+
+-lexeme
+ lex: турк
+ gramm: IMIT
+ stem: турк.
+ paradigm: Comparative
+ trans_ru: вдруг
+
+-lexeme
+ lex: турк-парк
+ gramm: IMIT
+ stem: турк-парк.
+ paradigm: Comparative
+ trans_ru: суетиться (турк-парк вырыны)
+
+-lexeme
+ lex: турк-тарк
+ gramm: IMIT
+ stem: турк-тарк.
+ paradigm: Comparative
+ trans_ru: наскоро, неаккуратно, небрежно, как попало
+
+-lexeme
+ lex: тус-тас
+ gramm: IMIT
+ stem: тус-тас.
+ paradigm: Comparative
+ trans_ru: растранжирить, истратить; растащить (тус-тас карыны)
+
+-lexeme
+ lex: ту-ту-ут
+ gramm: IMIT
+ stem: ту-ту-ут.
+ paradigm: Comparative
+ trans_ru: о звуке дудки
+
+-lexeme
+ lex: туть-тать
+ gramm: IMIT
+ stem: туть-тать.
+ paradigm: Comparative
+ trans_ru: вразвалку, неуклюже
+
+-lexeme
+ lex: тучыр-тач
+ gramm: IMIT
+ stem: тучыр-тач.
+ paradigm: Comparative
+ trans_ru: о треске
+
+-lexeme
+ lex: тыкыль-тыкыль
+ gramm: IMIT
+ stem: тыкыль-тыкыль.
+ paradigm: Comparative
+ trans_ru: пухлый
+
+-lexeme
+ lex: тып
+ gramm: IMIT
+ stem: тып.
+ paradigm: Comparative
+ trans_ru: резко остановиться (тып дугдыны)
+
+-lexeme
+ lex: тып-топ
+ gramm: IMIT
+ stem: тып-топ.
+ paradigm: Comparative
+ trans_ru: о топоте
+
+-lexeme
+ lex: тыпыр
+ gramm: IMIT
+ stem: тыпыр.
+ paradigm: Comparative
+ trans_ru: топать, цокать, плясать притопывая (тыпыр карыны)
+
+-lexeme
+ lex: тыпыр-тап
+ gramm: IMIT
+ stem: тыпыр-тап.
+ paradigm: Comparative
+ trans_ru: о притопывании
+
+-lexeme
+ lex: тыпыр-тапыр
+ gramm: IMIT
+ stem: тыпыр-тапыр.
+ paradigm: Comparative
+ trans_ru: наскоро, неаккуратно, небрежно, как попало
+
+-lexeme
+ lex: тыпыр-топ
+ gramm: IMIT
+ stem: тыпыр-топ.
+ paradigm: Comparative
+ trans_ru: о притопывании
+
+-lexeme
+ lex: тыпыр-тып
+ gramm: IMIT
+ stem: тыпыр-тып.
+ paradigm: Comparative
+ trans_ru: о притопывании
+
+-lexeme
+ lex: тырк-тарк
+ gramm: IMIT
+ stem: тырк-тарк.
+ paradigm: Comparative
+ trans_ru: о стуке
+
+-lexeme
+ lex: тырс
+ gramm: IMIT
+ stem: тырс.
+ paradigm: Comparative
+ trans_ru: с треском
+
+-lexeme
+ lex: тырс-тэрс
+ gramm: IMIT
+ stem: тырс-тэрс.
+ paradigm: Comparative
+ trans_ru: ёкать (тырс-тэрс карыны)
+
+-lexeme
+ lex: тыч-тач
+ gramm: IMIT
+ stem: тыч-тач.
+ paradigm: Comparative
+ trans_ru: шлёп
+
+-lexeme
+ lex: тыӵ-таӵ
+ gramm: IMIT
+ stem: тыӵ-таӵ.
+ paradigm: Comparative
+ trans_ru: об ударе кулаком
+
+-lexeme
+ lex: тычыр-тачыр
+ gramm: IMIT
+ stem: тычыр-тачыр.
+ paradigm: Comparative
+ trans_ru: с треском
+
+-lexeme
+ lex: тыш-таш
+ gramm: IMIT
+ stem: тыш-таш.
+ paradigm: Comparative
+ trans_ru: об ударах и шлепках
+
+-lexeme
+ lex: тэрс
+ gramm: IMIT
+ stem: тэрс.
+ paradigm: Comparative
+ trans_ru: треснуть, дать трещину (тэрс кошкыны)
+
+-lexeme
+ lex: тэтэ
+ gramm: IMIT
+ stem: тэтэ.
+ paradigm: Comparative
+ trans_ru: делать первые шаги (тэтэ карыны)
+
+-lexeme
+ lex: тэчыр-тэчыр
+ gramm: IMIT
+ stem: тэчыр-тэчыр.
+ paradigm: Comparative
+ trans_ru: часто, много
+
+-lexeme
+ lex: тюпыр-тяпыр
+ gramm: IMIT
+ stem: тюпыр-тяпыр.
+ paradigm: Comparative
+ trans_ru: наскоро, неаккуратно, небрежно, как попало
+
+-lexeme
+ lex: тюр
+ gramm: IMIT
+ stem: тюр.
+ paradigm: Comparative
+ trans_ru: петь; пищать (тюр карыны)
+
+-lexeme
+ lex: тюр-тюр
+ gramm: IMIT
+ stem: тюр-тюр.
+ paradigm: Comparative
+ trans_ru: вразвалку, переваливаясь с боку на бок
+
+-lexeme
+ lex: тють-меть
+ gramm: IMIT
+ stem: тють-меть.
+ paradigm: Comparative
+ trans_ru: о крике
+
+-lexeme
+ lex: тю-тю
+ gramm: IMIT
+ stem: тю-тю.
+ paradigm: Comparative
+ trans_ru: звук подзывания цыплят
+
+-lexeme
+ lex: тю-тю-тю
+ gramm: IMIT
+ stem: тю-тю-тю.
+ paradigm: Comparative
+ trans_ru: муси-пуси
+
+-lexeme
+ lex: тю-ю
+ gramm: IMIT
+ stem: тю-ю.
+ paradigm: Comparative
+ trans_ru: плавно
+
+-lexeme
+ lex: тю-ю-ю
+ gramm: IMIT
+ stem: тю-ю-ю.
+ paradigm: Comparative
+ trans_ru: плавно
+
+-lexeme
+ lex: тяпыр
+ gramm: IMIT
+ stem: тяпыр.
+ paradigm: Comparative
+ trans_ru: неаккуратный, небрежный
+
+-lexeme
+ lex: уггу
+ gramm: IMIT
+ stem: уггу.
+ paradigm: Comparative
+ trans_ru: о звуках голубей
+
+-lexeme
+ lex: уить
+ gramm: IMIT
+ stem: уить.
+ paradigm: Comparative
+ trans_ru: о свисте птиц
+
+-lexeme
+ lex: усыр-усыр
+ gramm: IMIT
+ stem: усыр-усыр.
+ paradigm: Comparative
+ trans_ru: сильно, основательно
+
+-lexeme
+ lex: хлоп
+ gramm: IMIT
+ stem: хлоп.
+ paradigm: Comparative
+ trans_ru: хлоп
+
+-lexeme
+ lex: хлоп-хлоп
+ gramm: IMIT
+ stem: хлоп-хлоп.
+ paradigm: Comparative
+ trans_ru: хлоп-хлоп
+
+-lexeme
+ lex: хоп
+ gramm: IMIT
+ stem: хоп.
+ paradigm: Comparative
+ trans_ru: хоп
+
+-lexeme
+ lex: чакыр
+ gramm: IMIT
+ stem: чакыр.
+ paradigm: Comparative
+ trans_ru: хрусткий, хрустящий
+
+-lexeme
+ lex: ӵаш
+ gramm: IMIT
+ stem: ӵаш.
+ paradigm: Comparative
+ trans_ru: шуметь (ӵаш карыны)
+
+-lexeme
+ lex: чёт
+ gramm: IMIT
+ stem: чёт.
+ paradigm: Comparative
+ trans_ru: прямо
+
+-lexeme
+ lex: чёт-чёт
+ gramm: IMIT
+ stem: чёт-чёт.
+ paradigm: Comparative
+ trans_ru: прямо
+
+-lexeme
+ lex: чив-рик
+ gramm: IMIT
+ stem: чив-рик.
+ paradigm: Comparative
+ trans_ru: о писке цыплят
+
+-lexeme
+ lex: чиж-чаж
+ gramm: IMIT
+ stem: чиж-чаж.
+ paradigm: Comparative
+ trans_ru: с треском
+
+-lexeme
+ lex: чизыр-чизыр
+ gramm: IMIT
+ stem: чизыр-чизыр.
+ paradigm: Comparative
+ trans_ru: брызгами
+
+-lexeme
+ lex: чилин-долӥн
+ gramm: IMIT
+ stem: чилин-долӥн.
+ paradigm: Comparative
+ trans_ru: переливаясь
+
+-lexeme
+ lex: чиль
+ gramm: IMIT
+ stem: чиль.
+ paradigm: Comparative
+ trans_ru: блестеть (чиль чиляны)
+
+-lexeme
+ lex: чиль-вай
+ gramm: IMIT
+ stem: чиль-вай.
+ paradigm: Comparative
+ trans_ru: переливаясь
+
+-lexeme
+ lex: чиль-валь
+ gramm: IMIT
+ stem: чиль-валь.
+ paradigm: Comparative
+ trans_ru: о переливах красок в воде или отражении блеска
+
+-lexeme
+ lex: чиль-выль
+ gramm: IMIT
+ stem: чиль-выль.
+ paradigm: Comparative
+ trans_ru: совершенно новый
+
+-lexeme
+ lex: чиль-дол
+ gramm: IMIT
+ stem: чиль-дол.
+ paradigm: Comparative
+ trans_ru: о переливах красок в воде или отражении блеска
+
+-lexeme
+ lex: чильк
+ gramm: IMIT
+ stem: чильк.
+ paradigm: Comparative
+ trans_ru: поблёскивать (чильк кисьтаськыны)
+
+-lexeme
+ lex: чильк-долк
+ gramm: IMIT
+ stem: чильк-долк.
+ paradigm: Comparative
+ trans_ru: очень хорошо
+
+-lexeme
+ lex: чильк-чильк
+ gramm: IMIT
+ stem: чильк-чильк.
+ paradigm: Comparative
+ trans_ru: очень
+
+-lexeme
+ lex: чильтыр-вальтыр
+ gramm: IMIT
+ stem: чильтыр-вальтыр.
+ paradigm: Comparative
+ trans_ru: переливаясь
+
+-lexeme
+ lex: чиль-чиль
+ gramm: IMIT
+ stem: чиль-чиль.
+ paradigm: Comparative
+ trans_ru: очень; ярко
+
+-lexeme
+ lex: чильыр
+ gramm: IMIT
+ stem: чильыр.
+ paradigm: Comparative
+ trans_ru: поблёскивая, переливаясь, с переливами
+
+-lexeme
+ lex: чильыр-чильыр
+ gramm: IMIT
+ stem: чильыр-чильыр.
+ paradigm: Comparative
+ trans_ru: поблёскивая, переливаясь, с переливами
+
+-lexeme
+ lex: чин-пань
+ gramm: IMIT
+ stem: чин-пань.
+ paradigm: Comparative
+ trans_ru: звукоподр. визгливому или звонкому голосу
+
+-lexeme
+ lex: чинь-пань
+ gramm: IMIT
+ stem: чинь-пань.
+ paradigm: Comparative
+ trans_ru: звукоподр. визгливому или звонкому голосу
+
+-lexeme
+ lex: чип-чип
+ gramm: IMIT
+ stem: чип-чип.
+ paradigm: Comparative
+ trans_ru: цып-цып, цыпа-цыпа
+
+-lexeme
+ lex: чирик
+ gramm: IMIT
+ stem: чирик.
+ paradigm: Comparative
+ trans_ru: о птичьем чириканьи
+
+-lexeme
+ lex: чис-чис
+ gramm: IMIT
+ stem: чис-чис.
+ paradigm: Comparative
+ trans_ru: безмятежно, спокойно
+
+-lexeme
+ lex: читыр-купыр
+ gramm: IMIT
+ stem: читыр-купыр.
+ paradigm: Comparative
+ trans_ru: извилисто
+
+-lexeme
+ lex: читыр-чатыр
+ gramm: IMIT
+ stem: читыр-чатыр.
+ paradigm: Comparative
+ trans_ru: извилисто
+
+-lexeme
+ lex: чмок
+ gramm: IMIT
+ stem: чмок.
+ paradigm: Comparative
+ trans_ru: чмок
+
+-lexeme
+ lex: ӵогыр
+ gramm: IMIT
+ stem: ӵогыр.
+ paradigm: Comparative
+ trans_ru: дыбом, торчком, ершисто
+
+-lexeme
+ lex: ӵогыр-ӵогыр
+ gramm: IMIT
+ stem: ӵогыр-ӵогыр.
+ paradigm: Comparative
+ trans_ru: волосы как щетина (йырсиез ӵогыр-ӵогыр)
+
+-lexeme
+ lex: ӵок-вонь
+ gramm: IMIT
+ stem: ӵок-вонь.
+ paradigm: Comparative
+ trans_ru: подавиться, поперхнуться, захлебнуться (ӵок-вонь луыны)
+
+-lexeme
+ lex: чокыр-чокыр
+ gramm: IMIT
+ stem: чокыр-чокыр.
+ paradigm: Comparative
+ trans_ru: прямо
+
+-lexeme
+ lex: чол
+ gramm: IMIT
+ stem: чол.
+ paradigm: Comparative
+ trans_ru: сплошь, совсем
+
+-lexeme
+ lex: чольк
+ gramm: IMIT
+ stem: чольк.
+ paradigm: Comparative
+ trans_ru: совсем; резко
+
+-lexeme
+ lex: чонь
+ gramm: IMIT
+ stem: чонь.
+ paradigm: Comparative
+ trans_ru: прямо
+
+-lexeme
+ lex: чонь-чонь
+ gramm: IMIT
+ stem: чонь-чонь.
+ paradigm: Comparative
+ trans_ru: затвердеть (чонь-чонь луыны)
+
+-lexeme
+ lex: чоп
+ gramm: IMIT
+ stem: чоп.
+ paradigm: Comparative
+ trans_ru: причмокнуть, поцеловать; чавкать (чоп карыны)
+
+-lexeme
+ lex: чоп-чоп
+ gramm: IMIT
+ stem: чоп-чоп.
+ paradigm: Comparative
+ trans_ru: чмокать (чоп-чоп карыны)
+
+-lexeme
+ lex: чорк
+ gramm: IMIT
+ stem: чорк.
+ paradigm: Comparative
+ trans_ru: прямо
+
+-lexeme
+ lex: чорк-чорк
+ gramm: IMIT
+ stem: чорк-чорк.
+ paradigm: Comparative
+ trans_ru: прямо; внимательно
+
+-lexeme
+ lex: ӵужыр
+ gramm: IMIT
+ stem: ӵужыр.
+ paradigm: Comparative
+ trans_ru: обильно
+
+-lexeme
+ lex: ӵужыр-ӵужыр
+ gramm: IMIT
+ stem: ӵужыр-ӵужыр.
+ paradigm: Comparative
+ trans_ru: обжигающий
+
+-lexeme
+ lex: чуки-беки
+ gramm: IMIT
+ stem: чуки-беки.
+ paradigm: Comparative
+ trans_ru: вразвалку; шатаясь из стороны в сторону
+
+-lexeme
+ lex: чульк-чальк
+ gramm: IMIT
+ stem: чульк-чальк.
+ paradigm: Comparative
+ trans_ru: кругом, повсюду
+
+-lexeme
+ lex: чульык-чульык
+ gramm: IMIT
+ stem: чульык-чульык.
+ paradigm: Comparative
+ trans_ru: чик-чирик
+
+-lexeme
+ lex: чупыр
+ gramm: IMIT
+ stem: чупыр.
+ paradigm: Comparative
+ trans_ru: живо, быстро, расторопно, бойко
+
+-lexeme
+ lex: чурс
+ gramm: IMIT
+ stem: чурс.
+ paradigm: Comparative
+ trans_ru: о вонзании острого предмета
+
+-lexeme
+ lex: чурс-парс
+ gramm: IMIT
+ stem: чурс-парс.
+ paradigm: Comparative
+ trans_ru: делая резкие движения
+
+-lexeme
+ lex: ӵуштым-пуштым
+ gramm: IMIT
+ stem: ӵуштым-пуштым.
+ paradigm: Comparative
+ trans_ru: о шушукании
+
+-lexeme
+ lex: ӵыж-важ
+ gramm: IMIT
+ stem: ӵыж-важ.
+ paradigm: Comparative
+ trans_ru: о звуке пилы
+
+-lexeme
+ lex: ӵыжыр
+ gramm: IMIT
+ stem: ӵыжыр.
+ paradigm: Comparative
+ trans_ru: о лице, наливающемся кровью
+
+-lexeme
+ lex: ӵыжыр-ӵажыр
+ gramm: IMIT
+ stem: ӵыжыр-ӵажыр.
+ paradigm: Comparative
+ trans_ru: об интенсивном треске, шарканье
+
+-lexeme
+ lex: чыз-быз
+ gramm: IMIT
+ stem: чыз-быз.
+ paradigm: Comparative
+ trans_ru: о тонких струйках жидкости
+
+-lexeme
+ lex: чыпыр-чыпыр
+ gramm: IMIT
+ stem: чыпыр-чыпыр.
+ paradigm: Comparative
+ trans_ru: живо, быстро, расторопно, бойко
+
+-lexeme
+ lex: шагыр-шагыр
+ gramm: IMIT
+ stem: шагыр-шагыр.
+ paradigm: Comparative
+ trans_ru: о шероховатости
+
+-lexeme
+ lex: шальтыр
+ gramm: IMIT
+ stem: шальтыр.
+ paradigm: Comparative
+ trans_ru: о звоне монет, железных подвесок и других звенящих металлических предметов
+
+-lexeme
+ lex: шаттыр
+ gramm: IMIT
+ stem: шаттыр.
+ paradigm: Comparative
+ trans_ru: с громким шумом
+
+-lexeme
+ lex: шатыр
+ gramm: IMIT
+ stem: шатыр.
+ paradigm: Comparative
+ trans_ru: суетиться; шуметь, греметь (шатыр карыны)
+
+-lexeme
+ lex: шачыр
+ gramm: IMIT
+ stem: шачыр.
+ paradigm: Comparative
+ trans_ru: о мокром, грязном состояним предмета, а также брызгах грязи, потока воды
+
+-lexeme
+ lex: шенгыль
+ gramm: IMIT
+ stem: шенгыль.
+ paradigm: Comparative
+ trans_ru: картавый; шепелявый; мёрзнущий, коченеющий
+
+-lexeme
+ lex: шеньыль
+ gramm: IMIT
+ stem: шеньыль.
+ paradigm: Comparative
+ trans_ru: шепеляво; картаво
+
+-lexeme
+ lex: шильк-шильк
+ gramm: IMIT
+ stem: шильк-шильк.
+ paradigm: Comparative
+ trans_ru: как на подбор
+
+-lexeme
+ lex: шильтыр-шальтыр
+ gramm: IMIT
+ stem: шильтыр-шальтыр.
+ paradigm: Comparative
+ trans_ru: о стучании, бряцании мелких металлических предметов
+
+-lexeme
+ lex: шильыр
+ gramm: IMIT
+ stem: шильыр.
+ paradigm: Comparative
+ trans_ru: о шелесте
+
+-lexeme
+ lex: шич
+ gramm: IMIT
+ stem: шич.
+ paradigm: Comparative
+ trans_ru: об ударе плетью, прутом
+
+-lexeme
+ lex: шлоп
+ gramm: IMIT
+ stem: шлоп.
+ paradigm: Comparative
+ trans_ru: шлёп, хлоп
+
+-lexeme
+ lex: шлоч
+ gramm: IMIT
+ stem: шлоч.
+ paradigm: Comparative
+ trans_ru: шлёп
+
+-lexeme
+ lex: шок
+ gramm: IMIT
+ stem: шок.
+ paradigm: Comparative
+ trans_ru: задыхаться; запыхаться (шок потыны)
+
+-lexeme
+ lex: шок-вонь
+ gramm: IMIT
+ stem: шок-вонь.
+ paradigm: Comparative
+ trans_ru: запыхаясь (шок-воль потыны)
+
+-lexeme
+ lex: шок-поль
+ gramm: IMIT
+ stem: шок-поль.
+ paradigm: Comparative
+ trans_ru: запыхаться (шок-поль луыны)
+
+-lexeme
+ lex: шок-пуль
+ gramm: IMIT
+ stem: шок-пуль.
+ paradigm: Comparative
+ trans_ru: запыхаться (шок-пуль луыны)
+
+-lexeme
+ lex: шӧл-пал
+ gramm: IMIT
+ stem: шӧл-пал.
+ paradigm: Comparative
+ trans_ru: диал. шатаясь
+
+-lexeme
+ lex: шӧл-шӧл
+ gramm: IMIT
+ stem: шӧл-шӧл.
+ paradigm: Comparative
+ trans_ru: бледный
+
+-lexeme
+ lex: шольк
+ gramm: IMIT
+ stem: шольк.
+ paradigm: Comparative
+ trans_ru: щёлк
+
+-lexeme
+ lex: шӧнгыль
+ gramm: IMIT
+ stem: шӧнгыль.
+ paradigm: Comparative
+ trans_ru: картаво; шепеляво
+
+-lexeme
+ lex: шонгыль-пенгыль
+ gramm: IMIT
+ stem: шонгыль-пенгыль.
+ paradigm: Comparative
+ trans_ru: картаво; шепеляво
+
+-lexeme
+ lex: шопыль
+ gramm: IMIT
+ stem: шопыль.
+ paradigm: Comparative
+ trans_ru: о шлепанье по грязи, по воде
+
+-lexeme
+ lex: шопыль-шопыль
+ gramm: IMIT
+ stem: шопыль-шопыль.
+ paradigm: Comparative
+ trans_ru: о шлепанье по грязи, по воде
+
+-lexeme
+ lex: шорк
+ gramm: IMIT
+ stem: шорк.
+ paradigm: Comparative
+ trans_ru: о глухом звуке
+
+-lexeme
+ lex: шроп
+ gramm: IMIT
+ stem: шроп.
+ paradigm: Comparative
+ trans_ru: о глухом ударе
+
+-lexeme
+ lex: шуй-шуй
+ gramm: IMIT
+ stem: шуй-шуй.
+ paradigm: Comparative
+ trans_ru: об обессиливании
+
+-lexeme
+ lex: шул-шул
+ gramm: IMIT
+ stem: шул-шул.
+ paradigm: Comparative
+ trans_ru: побледнеть, измениться в лице (от испуга, болезни) (шул-шул луыны)
+
+-lexeme
+ lex: шульк-шульк
+ gramm: IMIT
+ stem: шульк-шульк.
+ paradigm: Comparative
+ trans_ru: о мокром состоянии
+
+-lexeme
+ lex: шупыль
+ gramm: IMIT
+ stem: шупыль.
+ paradigm: Comparative
+ trans_ru: насквозь промокнуть (шупыль-шупыль котмыны)
+
+-lexeme
+ lex: шупыль-шупыль
+ gramm: IMIT
+ stem: шупыль-шупыль.
+ paradigm: Comparative
+ trans_ru: насквозь промокнуть (шупыль-шупыль котмыны)
+
+-lexeme
+ lex: шур-р
+ gramm: IMIT
+ stem: шур-р.
+ paradigm: Comparative
+ trans_ru: о гудении
+
+-lexeme
+ lex: шуч-шач
+ gramm: IMIT
+ stem: шуч-шач.
+ paradigm: Comparative
+ trans_ru: об ударе прутьями, кнутом
+
+-lexeme
+ lex: шыгыр-шыгыр
+ gramm: IMIT
+ stem: шыгыр-шыгыр.
+ paradigm: Comparative
+ trans_ru: неровно, шероховато
+
+-lexeme
+ lex: шымыр-кепыр
+ gramm: IMIT
+ stem: шымыр-кепыр.
+ paradigm: Comparative
+ trans_ru: о неловком состоянии
+
+-lexeme
+ lex: шыпыль-шопыль
+ gramm: IMIT
+ stem: шыпыль-шопыль.
+ paradigm: Comparative
+ trans_ru: о хлюпании
+
+-lexeme
+ lex: шыпыр
+ gramm: IMIT
+ stem: шыпыр.
+ paradigm: Comparative
+ trans_ru: дождь моросит (куазь шыпыр зоре)
+
+-lexeme
+ lex: шырк-шорт
+ gramm: IMIT
+ stem: шырк-шорт.
+ paradigm: Comparative
+ trans_ru: о шоркании
+
+-lexeme
+ lex: шыр
+ gramm: IMIT
+ stem: шыр.
+ paradigm: Comparative
+ trans_ru: об интенсивном слюновыделении
+
+-lexeme
+ lex: ыр-ры
+ gramm: IMIT
+ stem: ыр-ры.
+ paradigm: Comparative
+ trans_ru: о рычании
+
+-lexeme
+ lex: эзэр-безэр
+ gramm: IMIT
+ stem: эзэр-безэр.
+ paradigm: Comparative
+ trans_ru: уйти в неизвестном направлении (эзэр-безэр кошкыны)
+
+-lexeme
+ lex: югак
+ gramm: IMIT
+ stem: югак.
+ paradigm: Comparative
+ trans_ru: ярко вспыхнуть; озарить (югак луыны)
+
+-lexeme
+ lex: юзыр-позыр
+ gramm: IMIT
+ stem: юзыр-позыр.
+ paradigm: Comparative
+ trans_ru: извилисто
+
+-lexeme
+ lex: юр-куаж
+ gramm: IMIT
+ stem: юр-куаж.
+ paradigm: Comparative
+ trans_ru: о шуме, гаме
+
+-lexeme
+ lex: юр
+ gramm: IMIT
+ stem: юр.
+ paradigm: Comparative
+ trans_ru: шуметь, галдеть (юр карыны)
+
+-lexeme
+ lex: бычыр-бычыр
+ gramm: IMIT
+ stem: бычыр-бычыр.
+ paradigm: Comparative
+ trans_ru: бурно распускаться (бычыр-бычыр потыны)
+

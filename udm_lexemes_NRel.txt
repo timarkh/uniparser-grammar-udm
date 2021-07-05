@@ -3,6 +3,7 @@
  stem: азьвыл.
  gramm: N,rel_n
  paradigm: Noun-num-consonant
+ paradigm: Noun-num-consonant-y
  trans_ru: раньше, прежде
 
 -lexeme
@@ -10,7 +11,7 @@
  stem: вӧз.
  gramm: N,rel_n
  paradigm: Noun-num-consonant
- paradigm: Noun-case-ill-y
+ paradigm: Noun-num-consonant-y
  trans_ru: около
 
 -lexeme
@@ -18,7 +19,7 @@
  stem: сьӧр.
  gramm: N,rel_n
  paradigm: Noun-num-consonant
- paradigm: Noun-case-ill-y
+ paradigm: Noun-num-consonant-y
  trans_ru: за, сзади (у задней части ориентира)
 
 -lexeme
@@ -26,7 +27,7 @@
  stem: сьӧрк.
  gramm: N,rel_n
  paradigm: Noun-num-consonant
- paradigm: Noun-case-ill-y
+ paradigm: Noun-num-consonant-y
  trans_ru: за, сзади (у задней части ориентира)
 
 -lexeme
@@ -34,7 +35,7 @@
  stem: бер.
  gramm: N,rel_n
  paradigm: Noun-num-consonant
- paradigm: Noun-case-ill-y
+ paradigm: Noun-num-consonant-y
  trans_ru: за, сзади (ориентир находится между объектом и говорящим)
 
 -lexeme
@@ -49,7 +50,7 @@
  stem: аз.
  gramm: N,rel_n
  paradigm: Noun-num-soft
- paradigm: Noun-case-soft-ill-y
+ paradigm: Noun-num-soft-y
  trans_ru: перед
 
 -lexeme
@@ -64,7 +65,7 @@
  stem: борд.
  gramm: N,rel_n
  paradigm: Noun-num-consonant
- paradigm: Noun-case-ill-y
+ paradigm: Noun-num-consonant-y
  trans_ru: около
 
 -lexeme
@@ -88,7 +89,7 @@
  stem: вис.
  gramm: N,rel_n
  paradigm: Noun-num-consonant
- paradigm: Noun-case-ill-y
+ paradigm: Noun-num-consonant-y
  trans_ru: промежуток; между
 
 -lexeme
@@ -96,7 +97,7 @@
  stem: виск.
  gramm: N,rel_n
  paradigm: Noun-num-consonant
- paradigm: Noun-case-ill-y
+ paradigm: Noun-num-consonant-y
  trans_ru: промежуток; между
 
 -lexeme
@@ -104,7 +105,7 @@
  stem: урдэс.
  gramm: N,rel_n
  paradigm: Noun-num-consonant
- paradigm: Noun-case-ill-y
+ paradigm: Noun-num-consonant-y
  trans_ru: бок, сторона; сбоку
 
 -lexeme
@@ -112,7 +113,7 @@
  stem: урдэск.
  gramm: N,rel_n
  paradigm: Noun-num-consonant
- paradigm: Noun-case-ill-y
+ paradigm: Noun-num-consonant-y
  trans_ru: бок, сторона; сбоку
 
 -lexeme
@@ -120,7 +121,7 @@
  stem: урдс.
  gramm: N,rel_n
  paradigm: Noun-num-consonant
- paradigm: Noun-case-ill-y
+ paradigm: Noun-num-consonant-y
  trans_ru: бок, сторона; сбоку
 
 -lexeme
@@ -128,7 +129,7 @@
  stem: вадес.
  gramm: N,rel_n
  paradigm: Noun-num-consonant
- paradigm: Noun-case-ill-y
+ paradigm: Noun-num-consonant-y
  trans_ru: напротив
 
 -lexeme
@@ -136,7 +137,7 @@
  stem: вадьс.//вадс.
  gramm: N,rel_n
  paradigm: Noun-num-consonant
- paradigm: Noun-case-ill-y
+ paradigm: Noun-num-consonant-y
  trans_ru: напротив
 
 -lexeme
@@ -144,7 +145,7 @@
  stem: вадеск.
  gramm: N,rel_n
  paradigm: Noun-num-consonant
- paradigm: Noun-case-ill-y
+ paradigm: Noun-num-consonant-y
  trans_ru: напротив
 
 -lexeme
@@ -156,11 +157,27 @@
  trans_ru: следом за
 
 -lexeme
+ lex: шӧлк
+ stem: шӧлк.
+ gramm: N,rel_n
+ paradigm: Noun-num-consonant
+ paradigm: Noun-num-consonant-y
+ trans_ru: вслед за
+
+-lexeme
+ lex: шӧлыс
+ stem: шӧлыс.//шӧлс.
+ gramm: N,rel_n
+ paradigm: Noun-num-consonant
+ paradigm: Noun-num-consonant-y
+ trans_ru: вслед за
+
+-lexeme
  lex: котыр
  stem: котыр.//котр.
  gramm: N,rel_n
  paradigm: Noun-num-consonant
- paradigm: Noun-case-ill-y
+ paradigm: Noun-num-consonant-y
  trans_ru: окрестность; вокруг
 
 -lexeme
@@ -168,7 +185,7 @@
  stem: улс.
  gramm: N,rel_n
  paradigm: Noun-num-consonant
- paradigm: Noun-case-ill-y
+ paradigm: Noun-num-consonant-y
  trans_ru: расстояние; под
 
 -lexeme
@@ -176,7 +193,7 @@
  stem: йыл.
  gramm: N,rel_n
  paradigm: Noun-num-consonant
- paradigm: Noun-case-ill-y
+ paradigm: Noun-num-consonant-y
  trans_ru: вершина, верхушка
 
 -lexeme
@@ -184,7 +201,7 @@
  stem: пӧл.
  gramm: N,rel_n
  paradigm: Noun-num-consonant
- paradigm: Noun-case-ill-y
+ paradigm: Noun-num-consonant-y
  trans_ru: среди
 
 -lexeme
@@ -192,7 +209,7 @@
  stem: пуш.
  gramm: N,rel_n
  paradigm: Noun-num-consonant
- paradigm: Noun-case-ill-y
+ paradigm: Noun-num-consonant-y
  trans_ru: внутренность; внутри
 
 -lexeme
@@ -201,7 +218,6 @@
  gramm: N,rel_n
  paradigm: Noun-num-consonant
  paradigm: Noun-num-consonant-y
- paradigm: Noun-case-ill-y
  trans_ru: внутренность; внутри
 
 -lexeme
@@ -209,7 +225,7 @@
  stem: кусып.
  gramm: N,rel_n
  paradigm: Noun-num-consonant
- paradigm: Noun-case-ill-y
+ paradigm: Noun-num-consonant-y
  trans_ru: промежуток; между
 
 -lexeme
@@ -218,7 +234,6 @@
  gramm: N,rel_n
  paradigm: Noun-num-consonant
  paradigm: Noun-num-consonant-y
- paradigm: Noun-case-ill-y
  trans_ru: промежуток; между
 
 -lexeme
@@ -227,7 +242,6 @@
  gramm: N,rel_n,missp
  paradigm: Noun-num-consonant
  paradigm: Noun-num-consonant-y
- paradigm: Noun-case-ill-y
  trans_ru: промежуток; между
 
 -lexeme
@@ -235,7 +249,7 @@
  stem: пулс.
  gramm: N,rel_n
  paradigm: Noun-num-consonant
- paradigm: Noun-case-ill-y
+ paradigm: Noun-num-consonant-y
  trans_ru: промежуток; между
 
 -lexeme
@@ -243,13 +257,14 @@
  stem: выл.
  gramm: N,rel_n
  paradigm: Noun-num-consonant
- paradigm: Noun-case-ill-y
+ paradigm: Noun-num-consonant-y
  trans_ru: верх, поверхность; сверху
 
 -lexeme
  lex: выллапал
  stem: выллапал.
  gramm: N,rel_n
+ paradigm: Noun-num-consonant
  paradigm: Noun-num-pal
  trans_ru: верхняя сторона
 
@@ -258,13 +273,14 @@
  stem: ул.
  gramm: N,rel_n
  paradigm: Noun-num-consonant
- paradigm: Noun-case-ill-y
+ paradigm: Noun-num-consonant-y
  trans_ru: низ; снизу
 
 -lexeme
  lex: уллапал
  stem: уллапал.
  gramm: N,rel_n
+ paradigm: Noun-num-consonant
  paradigm: Noun-num-pal
  trans_ru: нижняя сторона
 
@@ -273,7 +289,7 @@
  stem: дор.
  gramm: N,rel_n
  paradigm: Noun-num-consonant
- paradigm: Noun-case-ill-y
+ paradigm: Noun-num-consonant-y
  trans_ru: около
 
 -lexeme
@@ -288,7 +304,7 @@
  stem: пумит.
  gramm: N,rel_n
  paradigm: Noun-num-consonant
- paradigm: Noun-case-ill-y
+ paradigm: Noun-num-consonant-y
  trans_ru: напротив
 
 -lexeme
@@ -296,7 +312,7 @@
  stem: мыш.
  gramm: N,rel_n
  paradigm: Noun-num-consonant
- paradigm: Noun-case-ill-y
+ paradigm: Noun-num-consonant-y
  trans_ru: зад, тыл; сзади
 
 -lexeme
@@ -304,5 +320,5 @@
  stem: мышк.
  gramm: N,rel_n
  paradigm: Noun-num-consonant
- paradigm: Noun-case-ill-y
+ paradigm: Noun-num-consonant-y
  trans_ru: зад, тыл; сзади
