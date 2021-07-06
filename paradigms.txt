@@ -1553,6 +1553,98 @@
   gloss: PROL|P.3SG
  paradigm: Comparative
 
+-paradigm: Noun-case-compounding-pl-soft
+ -flex: .ьёс|ыз<.>
+  gramm: case_comp,pl_comp,pl,acc
+  gloss: PL|ACC
+ -flex: .ьёс|ты<.>
+  gramm: case_comp,pl_comp,pl,acc
+  gloss: PL|ACC.PL
+ -flex: .ьёс|лэн<.>
+  gramm: case_comp,pl_comp,pl,gen
+  gloss: PL|GEN
+ -flex: .ьёс|лэсь<.>
+  gramm: case_comp,pl_comp,pl,abl
+  gloss: PL|ABL
+ -flex: .ьёс|лы<.>
+  gramm: case_comp,pl_comp,pl,dat
+  gloss: PL|DAT
+ -flex: .ьёс|тэк<.>
+  gramm: case_comp,pl_comp,pl,car
+  gloss: PL|CAR
+ -flex: .ьёс|ъя<.>
+  gramm: case_comp,pl_comp,pl,adv
+  gloss: PL|ADV
+ -flex: .ьёс|ын<.>
+  gramm: case_comp,pl_comp,pl,loc
+  gloss: PL|LOC
+ -flex: .ьёс|ы<.>
+  gramm: case_comp,pl_comp,pl,ill
+  gloss: PL|ILL
+ -flex: .ьёс|ысь<.>
+  gramm: case_comp,pl_comp,pl,el
+  gloss: PL|EL
+ -flex: .ьёс|ысен<.>
+  gramm: case_comp,pl_comp,pl,egr
+  gloss: PL|EGR
+ -flex: .ёс|озь<.>
+  gramm: case_comp,pl_comp,pl,term
+  gloss: PL|TERM
+ -flex: .ьёс|ытӥ<.>//.ьёс|тӥ<.>//.ьёс|этӥ<.>//.ьёс|ыти<.>//.ьёс|ти<.>//.ьёс|эти<.>
+  gramm: case_comp,pl_comp,pl,prol
+  gloss: PL|PROL
+ -flex: .ьёс|лань<.>
+  gramm: case_comp,pl_comp,pl,app
+  gloss: PL|APP
+ -flex: .ьёс|ыз<.>
+  gramm: case_comp,pl_comp,pl,poss_comp,nom
+  gloss: PL|P.3SG
+ -flex: .ьёс|ыз|лэн<.>
+  gramm: case_comp,pl_comp,pl,poss_comp,gen
+  gloss: PL|P.3SG|GEN
+ -flex: .ьёс|ыз|лэсь<.>
+  gramm: case_comp,pl_comp,pl,poss_comp,abl
+  gloss: PL|P.3SG|ABL
+ -flex: .ьёс|ыз|лы<.>
+  gramm: case_comp,pl_comp,pl,poss_comp,dat
+  gloss: PL|P.3SG|DAT
+ -flex: .ьёс|ыз|тэк<.>
+  gramm: case_comp,pl_comp,pl,poss_comp,car
+  gloss: PL|P.3SG|CAR
+ -flex: .ьёс|ыз|ъя<.>
+  gramm: case_comp,pl_comp,pl,poss_comp,adv
+  gloss: PL|P.3SG|ADV
+ -flex: .ьёс|ыз|лань<.>
+  gramm: case_comp,pl_comp,pl,poss_comp,app
+  gloss: PL|P.3SG|APP
+ -flex: .ьёс|сэ<.>
+  gramm: case_comp,pl_comp,pl,poss_comp,acc
+  gloss: PL|P.3SG.ACC
+ -flex: .ьёс|ын|ыз<.>
+  gramm: case_comp,pl_comp,pl,poss_comp,ins
+  gloss: PL|INS|P.3SG
+ -flex: .ьёс|а|з<.>
+  regex-prev: ^.*[^<>.з][<>.]*$
+  gramm: case_comp,pl_comp,pl,poss_comp,loc
+  gloss: PL|LOC|P.3SG
+ -flex: .ьёс|а|з<.>
+  regex-prev: ^.*[^<>.з][<>.]*$
+  gramm: case_comp,pl_comp,pl,poss_comp,ill
+  gloss: PL|ILL|P.3SG
+ -flex: .ьёс|ысьт|ыз<.>
+  gramm: case_comp,pl_comp,pl,poss_comp,el
+  gloss: PL|EL|P.3SG
+ -flex: .ьёс|ысен|ыз<.>
+  gramm: case_comp,pl_comp,pl,poss_comp,egr
+  gloss: PL|EGR|P.3SG
+ -flex: .ьёс|озя|з<.>
+  gramm: case_comp,pl_comp,pl,poss_comp,term
+  gloss: PL|TERM|P.3SG
+ -flex: .ьёс|ытӥ|з<.>//.ьёс|тӥ|з<.>//.ьёс|этӥ|з<.>//.ьёс|ыти|з<.>//.ьёс|ти|з<.>//.ьёс|эти|з<.>
+  gramm: case_comp,pl_comp,pl,poss_comp,prol
+  gloss: PL|PROL|P.3SG
+ paradigm: Comparative
+
 -paradigm: Noun-case-y
  -flex: .ын<.>
   gramm: ins
@@ -1736,6 +1828,7 @@
   gramm: el
   gloss: EL
   paradigm: Noun-case-compounding-soft
+  paradigm: Noun-case-compounding-pl-soft
  -flex: .ысь<.>
   gramm: el
   gloss: EL
@@ -1744,6 +1837,7 @@
   gramm: el
   gloss: EL
   paradigm: Noun-case-compounding-soft
+  paradigm: Noun-case-compounding-pl-soft
  -flex: .ӥсь<.>
   gramm: el
   gloss: EL
@@ -1752,6 +1846,7 @@
   gramm: el
   gloss: EL
   paradigm: Noun-case-compounding-soft
+  paradigm: Noun-case-compounding-pl-soft
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
  -flex: .ись<.>
   gramm: el
@@ -2002,6 +2097,7 @@
   gramm: el
   gloss: EL
   paradigm: Noun-case-compounding-soft
+  paradigm: Noun-case-compounding-pl-soft
  -flex: .ась<.>//.ысь<.>
   gramm: el
   gloss: EL
@@ -2091,6 +2187,7 @@
   gramm: el
   gloss: EL
   paradigm: Noun-case-compounding-soft
+  paradigm: Noun-case-compounding-pl-soft
  -flex: .сь<.>//.ысь<.>
   gramm: el
   gloss: EL
@@ -2170,6 +2267,7 @@
   gramm: el
   gloss: EL
   paradigm: Noun-case-compounding-soft
+  paradigm: Noun-case-compounding-pl-soft
  -flex: .ьысь<.>
   gramm: el
   gloss: EL
@@ -2252,6 +2350,7 @@
   gramm: el
   gloss: EL
   paradigm: Noun-case-compounding-soft
+  paradigm: Noun-case-compounding-pl-soft
  -flex: .[й]ысь<.>
   gramm: el
   gloss: EL
@@ -2344,6 +2443,7 @@
   gramm: el
   gloss: EL
   paradigm: Noun-case-compounding-soft
+  paradigm: Noun-case-compounding-pl-soft
  -flex: .ысь<.>//.[я]ысь<.>
   gramm: el
   gloss: EL
@@ -2421,6 +2521,7 @@
   gramm: el
   gloss: EL
   paradigm: Noun-case-compounding-soft
+  paradigm: Noun-case-compounding-pl-soft
  -flex: .ысь<.>//.[е]ысь<.>
   gramm: el
   gloss: EL

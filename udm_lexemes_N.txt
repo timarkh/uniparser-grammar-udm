@@ -79547,7 +79547,7 @@
 -lexeme
  lex: магистратура
  stem: магистратура.
- gramm: N,rud
+ gramm: N,rus
  paradigm: Noun-num-vowel
  trans_ru: магистратура
 -lexeme
@@ -83957,9 +83957,9 @@
 -lexeme
  lex: ссуз
  stem: ссуз.
- gramm: N,abr,rus
+ gramm: N,abbr,rus
  paradigm: Noun-num-consonant
- trans_ru: ссуз
+ trans_ru: ссуз (средне-специальное учебное заведение)
 -lexeme
  lex: ставка
  stem: ставка.
