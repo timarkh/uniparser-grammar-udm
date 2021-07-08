@@ -1,8 +1,8 @@
 ﻿-lexeme
  lex: мон
  stem: мон.
- gramm: PRO,nom,sg
- paradigm: Comparative
+ gramm: PRO
+ paradigm: PRO-pers
  trans_ru: я
 
 -lexeme
@@ -148,8 +148,8 @@
 -lexeme
  lex: тон
  stem: тон.
- gramm: PRO,nom,sg
- paradigm: Comparative
+ gramm: PRO
+ paradigm: PRO-pers
  trans_ru: ты
 
 -lexeme
