@@ -5199,3 +5199,59 @@
  paradigm: Comparative
  trans_ru: бурно распускаться (бычыр-бычыр потыны)
 
+-lexeme
+ lex: бок
+ gramm: IMIT
+ stem: бок.
+ paradigm: Comparative
+ trans_ru: му
+
+-lexeme
+ lex: гудыр
+ gramm: IMIT
+ stem: гудыр.
+ paradigm: Comparative
+ trans_ru: с грохотом, грохоча
+
+-lexeme
+ lex: жиу-у
+ gramm: IMIT
+ stem: жиу-у.
+ paradigm: Comparative
+ trans_ru: вжиу
+
+-lexeme
+ lex: кок
+ gramm: IMIT
+ stem: кок.
+ paradigm: Comparative
+ trans_ru: о стуке
+
+-lexeme
+ lex: кукурикук
+ gramm: IMIT
+ stem: кукурикук.
+ paradigm: Comparative
+ trans_ru: кукареку
+
+-lexeme
+ lex: муу
+ gramm: IMIT,rus
+ stem: муу.
+ paradigm: Comparative
+ trans_ru: му
+
+-lexeme
+ lex: тяп-тяп
+ gramm: IMIT
+ stem: тяп-тяп.
+ paradigm: Comparative
+ trans_ru: насквозь промокнуть (тяп-тяп котмыны)
+
+-lexeme
+ lex: чырр
+ gramm: IMIT
+ stem: чырр.
+ paradigm: Comparative
+ trans_ru: о чириканье
+

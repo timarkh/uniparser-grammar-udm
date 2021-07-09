@@ -695,10 +695,10 @@
 
 -lexeme
  lex: агент
- stem: агент.
+ stem: агент.//аген.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
- trans_ru: в разн. знач. агент
+ trans_ru: агент
 
 -lexeme
  lex: агентура
@@ -1408,7 +1408,7 @@
  trans_ru: отец
 -lexeme
  lex: айы
- stem: ай.
+ stem: ай.//а.
  gramm: N,anim,hum
  paradigm: Noun-case-mar-poss-1,sg
  paradigm: Noun-case-mar-poss-2,sg
@@ -75270,7 +75270,7 @@
  trans_ru: величие
 -lexeme
  lex: быдӟымнунал
- stem: быдӟымнунал.
+ stem: быдӟымнунал.//будӟынал.
  gramm: N,time_meas
  paradigm: Noun-num-consonant
  trans_ru: Пасха
@@ -80749,7 +80749,7 @@
  lex: огпал
  stem: огпал.
  gramm: N
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-pal
  trans_ru: одна сторона
 -lexeme
  lex: оград
@@ -111319,6 +111319,13 @@
  trans_ru: переулок
 
 -lexeme
+ lex: проулок
+ gramm: N,rus
+ stem: проулка.
+ paradigm: Noun-num-vowel
+ trans_ru: переулок
+
+-lexeme
  lex: профессура
  gramm: N,rus
  stem: профессура.
@@ -117092,4 +117099,74 @@
  stem: сюрсмос.
  paradigm: Comparative
  trans_ru: тысячный; тысячная часть
+
+-lexeme
+ lex: арбайттэм
+ gramm: N,anim,hum,rus
+ stem: арбайттэм.
+ paradigm: Noun-num-consonant
+ trans_ru: безработный
+
+-lexeme
+ lex: арбайтэр
+ gramm: N,anim,hum,rus
+ stem: арбайтэр.
+ paradigm: Noun-num-consonant
+ trans_ru: рабочий
+
+-lexeme
+ lex: граб
+ gramm: N,rus
+ stem: граб.
+ paradigm: Noun-num-consonant
+ trans_ru: граб
+
+-lexeme
+ lex: дӥралэс
+ gramm: N
+ stem: дӥралэс.
+ paradigm: Noun-num-consonant
+ trans_ru: своенравие
+
+-lexeme
+ lex: лушкаськись
+ gramm: N,anim,hum
+ stem: лушкаськис.
+ paradigm: Noun-num-soft
+ trans_ru: вор, похититель
+
+-lexeme
+ lex: КРАЗ
+ gramm: N,rus,transport
+ stem: краз.
+ paradigm: Noun-num-consonant
+ trans_ru: КРАЗ
+
+-lexeme
+ lex: огдышем
+ gramm: N
+ stem: огдышем.
+ paradigm: Noun-num-consonant
+ trans_ru: привычка
+
+-lexeme
+ lex: райпром-комбинат
+ gramm: N,rus
+ stem: райпром-комбинат.
+ paradigm: Noun-num-consonant
+ trans_ru: райпромкомбинат
+
+-lexeme
+ lex: трали-вали
+ gramm: N,rus
+ stem: трали-вали.
+ paradigm: Noun-num-vowel
+ trans_ru: трали-вали
+
+-lexeme
+ lex: фызыу
+ gramm: N,abbr,rus
+ stem: фызыу.
+ paradigm: Noun-num-vowel
+ trans_ru: ФЗУ
 

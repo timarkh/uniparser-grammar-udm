@@ -3271,6 +3271,10 @@
  -flex: .ытӥ|мы<.>//.тӥ|мы<.>//.ыти|мы<.>//.ти|мы<.>//.этӥ|мы<.>
   gramm: prol,1pl
   gloss: PROL|P.1PL
+ -flex: .етӥ|мы<.>
+  gramm: prol,1pl
+  gloss: PROL|P.1PL
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
  paradigm: Comparative
 
 -paradigm: Noun-case-poss-1,pl-korka
@@ -3371,6 +3375,10 @@
  -flex: .ытӥ|ды<.>//.тӥ|ды<.>//.ыти|ды<.>//.ти|ды<.>//.этӥ|ды<.>
   gramm: prol,2pl
   gloss: PROL|P.2PL
+ -flex: .етӥ|ды<.>
+  gramm: prol,2pl
+  gloss: PROL|P.2PL
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
  paradigm: Comparative
 
 -paradigm: Noun-case-poss-2,pl-korka
@@ -3471,6 +3479,10 @@
  -flex: .ытӥ|зы<.>//.тӥ|зы<.>//.ыти|зы<.>//.ти|зы<.>//.этӥ|зы<.>
   gramm: prol,3pl
   gloss: PROL|P.3PL
+ -flex: .етӥ|зы<.>
+  gramm: prol,3pl
+  gloss: PROL|P.3PL
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
  paradigm: Comparative
 
 -paradigm: Noun-case-poss-3,pl-korka
@@ -3992,7 +4004,7 @@
  -flex: .ёзя|мы<.>
   gramm: term,1pl
   gloss: TERM|P.1PL
- -flex: .ьытӥ|мы<.>//.ьтӥ|мы<.>//.ьыти|мы<.>//.ьти|мы<.>
+ -flex: .ьытӥ|мы<.>//.ьтӥ|мы<.>//.ьыти|мы<.>//.ьти|мы<.>//.етӥ|мы<.>
   gramm: prol,1pl
   gloss: PROL|P.1PL
  paradigm: Comparative
@@ -4040,7 +4052,7 @@
  -flex: .ёзя|ды<.>
   gramm: term,2pl
   gloss: TERM|P.2PL
- -flex: .ьытӥ|ды<.>//.ьтӥ|ды<.>//.ьыти|ды<.>//.ьти|ды<.>
+ -flex: .ьытӥ|ды<.>//.ьтӥ|ды<.>//.ьыти|ды<.>//.ьти|ды<.>//.етӥ|ды<.>
   gramm: prol,2pl
   gloss: PROL|P.2PL
  paradigm: Comparative
@@ -4088,7 +4100,7 @@
  -flex: .ёзя|зы<.>
   gramm: term,3pl
   gloss: TERM|P.3PL
- -flex: .ьытӥ|зы<.>//.ьтӥ|зы<.>//.ьыти|зы<.>//.ьти|зы<.>
+ -flex: .ьытӥ|зы<.>//.ьтӥ|зы<.>//.ьыти|зы<.>//.ьти|зы<.>//.етӥ|зы<.>
   gramm: prol,3pl
   gloss: PROL|P.3PL
  paradigm: Comparative
@@ -4713,8 +4725,7 @@
  -flex: .ымон<.>
   gramm: ptcp,prs,pass
   gloss: PTCP.PASS
-  paradigm: Comparative
-  paradigm: Adjectives_Pl
+  paradigm: connect_adjectives
  -flex: .эмын<.>//.ымын<.>
   gramm: ptcp,res
   gloss: RES
@@ -4789,8 +4800,7 @@
  -flex: .ьмон<.>//.ьымон<.>
   gramm: ptcp,prs,pass
   gloss: PTCP.PASS
-  paradigm: Comparative
-  paradigm: Adjectives_Pl
+  paradigm: connect_adjectives
  -flex: .ьымын<.>//.емын<.>
   gramm: ptcp,res
   gloss: RES
@@ -4825,8 +4835,7 @@
  -flex: .мон<.>
   gramm: ptcp,prs,pass
   gloss: PTCP.PASS
-  paradigm: Comparative
-  paradigm: Adjectives_Pl
+  paradigm: connect_adjectives
  -flex: .мын<.>
   gramm: ptcp,res
   gloss: RES

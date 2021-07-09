@@ -69378,3 +69378,80 @@
  paradigm: Noun-num-consonant
  trans_ru: Яшок
 
+-lexeme
+ lex: Акагурт
+ gramm: N,PN,topn
+ stem: акагурт.
+ paradigm: Noun-num-consonant
+ trans_ru: Акагурт
+
+-lexeme
+ lex: Арйыл
+ gramm: N,PN,topn
+ stem: арйыл.
+ paradigm: Noun-num-consonant
+ trans_ru: Арйыл
+
+-lexeme
+ lex: Костьян
+ gramm: N,persn,PN
+ stem: костьян.
+ paradigm: Noun-num-consonant
+ trans_ru: Костьян
+
+-lexeme
+ lex: Котельнича
+ gramm: N,PN,topn
+ stem: котельнича.
+ paradigm: Noun-num-vowel
+ trans_ru: Котельница
+
+-lexeme
+ lex: Лекандыр
+ gramm: N,persn,PN
+ stem: лекандыр.
+ paradigm: Noun-num-consonant
+ trans_ru: Александр
+
+-lexeme
+ lex: Оркаш
+ gramm: N,PN,topn
+ stem: оркаш.
+ paradigm: Noun-num-consonant
+ trans_ru: Оркаш
+
+-lexeme
+ lex: Очи
+ gramm: N,persn,PN
+ stem: очи.
+ paradigm: Noun-num-vowel
+ trans_ru: Очи
+
+-lexeme
+ lex: Пахарь
+ gramm: N,persn,PN
+ stem: пахар.
+ paradigm: Noun-num-soft
+ trans_ru: Пахарь
+
+-lexeme
+ lex: Педи
+ gramm: N,persn,PN
+ stem: педи.
+ paradigm: Noun-num-vowel
+ trans_ru: Педи
+
+-lexeme
+ lex: Сильмем
+ gramm: N,PN,topn
+ stem: сильмем.
+ paradigm: Noun-num-consonant
+ trans_ru: Сильмем
+
+-lexeme
+ lex: Тавдеев
+ gramm: N,famn,PN
+ stem: тавдеев.
+ paradigm: Noun-num-consonant
+ trans_ru: Тавдеев
+

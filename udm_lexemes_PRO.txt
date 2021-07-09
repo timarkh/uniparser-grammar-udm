@@ -1274,6 +1274,27 @@
 
 -lexeme
  lex: ас
+ stem: ачизтэк.
+ gramm: PRO,3sg,car
+ paradigm: Comparative
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: ачимтэк.
+ gramm: PRO,1sg,car
+ paradigm: Comparative
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: ачидтэк.
+ gramm: PRO,2sg,car
+ paradigm: Comparative
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
  stem: ассэ.//асьсэ.//ащсэ.
  gramm: PRO,3sg,acc,nom
  paradigm: Comparative

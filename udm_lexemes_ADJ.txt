@@ -32760,7 +32760,7 @@
 -lexeme
  lex: виноват
  gramm: ADJ
- stem: виноват.
+ stem: виноват.//виномат.
  paradigm: connect_adjectives
  trans_ru: виновный, виноватый
 
@@ -38566,4 +38566,81 @@
  stem: ячеисто.
  paradigm: connect_adjectives-j
  trans_ru: ячеистый
+
+-lexeme
+ lex: быдо
+ gramm: ADJ
+ stem: быдо.
+ paradigm: connect_adjectives
+ trans_ru: до совершеннолетия (быдо аресозь)
+
+-lexeme
+ lex: валлян
+ gramm: ADJ
+ stem: валлян.
+ paradigm: connect_adjectives
+ trans_ru: позапрошлый
+
+-lexeme
+ lex: дӥралэс
+ gramm: ADJ
+ stem: дӥралэс.
+ paradigm: connect_adjectives
+ trans_ru: диал. капризный; своенравный, своевольный; нервный
+
+-lexeme
+ lex: жаль
+ gramm: ADJ,rus
+ stem: жал.
+ paradigm: connect_adjectives-soft
+ trans_ru: жалкий
+
+-lexeme
+ lex: жин-жин
+ gramm: ADJ
+ stem: жин-жин.
+ paradigm: connect_adjectives
+ trans_ru: звонкий
+
+-lexeme
+ lex: изэсь
+ gramm: ADJ,oblin
+ stem: изэс.
+ paradigm: connect_adjectives-soft
+ trans_ru: каменный
+
+-lexeme
+ lex: камфарный
+ gramm: ADJ,rus
+ stem: камфарны.
+ paradigm: connect_adjectives-j
+ trans_ru: камфорный
+
+-lexeme
+ lex: кечат
+ gramm: ADJ
+ stem: кечат.
+ paradigm: connect_adjectives
+ trans_ru: перекрёстный
+
+-lexeme
+ lex: кулой
+ gramm: ADJ
+ stem: куло.
+ paradigm: connect_adjectives-j
+ trans_ru: саврасый (масть лошади)
+
+-lexeme
+ lex: лэймыт
+ gramm: ADJ
+ stem: лэймыт.
+ paradigm: connect_adjectives
+ trans_ru: плавно покачивающийся; зыбкий
+
+-lexeme
+ lex: токыль-токыль
+ gramm: ADJ
+ stem: токыль-токыл.
+ paradigm: connect_adjectives-soft
+ trans_ru: пухлый
 

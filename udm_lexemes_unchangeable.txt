@@ -9882,6 +9882,13 @@
  trans_ru: второпях, торопливо, наскоро, на скорую руку
 
 -lexeme
+ lex: дыртӥд
+ stem: дыртӥд.//дыртӥт.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: второпях, торопливо, наскоро, на скорую руку
+
+-lexeme
  lex: ӵукна-ӵук
  stem: ӵукна-ӵук.
  gramm: ADV
@@ -17860,4 +17867,178 @@
  paradigm: Comparative
  trans_ru: не надо
 
+-lexeme
+ lex: копаксэ
+ gramm: ADV
+ stem: копаксэ.
+ paradigm: connect_adverbs
+ trans_ru: полностью, совсем, всё
+
+-lexeme
+ lex: лекпыр
+ gramm: ADV
+ stem: лекпыр.
+ paradigm: connect_adverbs
+ trans_ru: зло, сердито; жестоко, свирепо; гневно, люто
+
+-lexeme
+ lex: лумбытэн
+ gramm: ADV
+ stem: лумбытэн.
+ paradigm: connect_adverbs
+ trans_ru: целыми днями
+
+-lexeme
+ lex: огпаласен
+ gramm: ADV
+ stem: огпаласен.
+ paradigm: connect_adverbs
+ trans_ru: с одной стороны
+
+-lexeme
+ lex: огпалась
+ gramm: ADV
+ stem: огпалась.
+ paradigm: connect_adverbs
+ trans_ru: с одной стороны
+
+-lexeme
+ lex: огполаз
+ gramm: ADV
+ stem: огполаз.
+ paradigm: connect_adverbs
+ trans_ru: однажды, один раз
+
+-lexeme
+ lex: огшаплы
+ gramm: ADV
+ stem: огшаплы.
+ paradigm: connect_adverbs
+ trans_ru: ненадолго
+
+-lexeme
+ lex: огшапсэ
+ gramm: ADV
+ stem: огшапсэ.
+ paradigm: connect_adverbs
+ trans_ru: немного, недолго
+
+-lexeme
+ lex: ӧжытсэ
+ gramm: ADV
+ stem: ӧжытсэ.
+ paradigm: connect_adverbs
+ trans_ru: по меньшей мере
+
+-lexeme
+ lex: алё
+ gramm: INTRJ,rus
+ stem: алё.
+ paradigm: Comparative
+ trans_ru: алё
+
+-lexeme
+ lex: кхе-кхе
+ gramm: INTRJ
+ stem: кхе-кхе.
+ paradigm: Comparative
+ trans_ru: кхе-кхе
+
+-lexeme
+ lex: кхм
+ gramm: INTRJ
+ stem: кхм.
+ paradigm: Comparative
+ trans_ru: гм
+
+-lexeme
+ lex: м-мм
+ gramm: INTRJ
+ stem: м-мм.
+ paradigm: Comparative
+ trans_ru: м-м-м
+
+-lexeme
+ lex: н-да-а
+ gramm: INTRJ,rus
+ stem: н-да-а.
+ paradigm: Comparative
+ trans_ru: н-да
+
+-lexeme
+ lex: ой-ёй
+ gramm: INTRJ,rus
+ stem: ой-ёй.
+ paradigm: Comparative
+ trans_ru: ой-ёй
+
+-lexeme
+ lex: ой-ёй-ёй
+ gramm: INTRJ,rus
+ stem: ой-ёй-ёй.
+ paradigm: Comparative
+ trans_ru: ой-ёй-ёй
+
+-lexeme
+ lex: о-хо
+ gramm: INTRJ
+ stem: о-хо.
+ paradigm: Comparative
+ trans_ru: ого
+
+-lexeme
+ lex: хе
+ gramm: INTRJ
+ stem: хе.
+ paradigm: Comparative
+ trans_ru: хе
+
+-lexeme
+ lex: ых
+ gramm: INTRJ
+ stem: ых.
+ paradigm: Comparative
+ trans_ru: ых
+
+-lexeme
+ lex: эге
+ gramm: INTRJ
+ stem: эге.
+ paradigm: Comparative
+ trans_ru: эге
+
+-lexeme
+ lex: э-хе-хе
+ gramm: INTRJ
+ stem: э-хе-хе.
+ paradigm: Comparative
+ trans_ru: э-хе-хе
+
+-lexeme
+ lex: ничего
+ gramm: PART,rus
+ stem: ничего.//ничево.
+ paradigm: Comparative
+ trans_ru: ничего
+
+-lexeme
+ lex: ко
+ gramm: PART,rus
+ stem: ко.
+ paradigm: Comparative
+ trans_ru: ка
+
+-lexeme
+ lex: ы-ы
+ gramm: PART
+ stem: ы-ы.
+ paradigm: Comparative
+ trans_ru: да; ага
+
+-lexeme
+ lex: ӧвӧнь
+ gramm: PREDIC
+ stem: ӧвӧнь.
+ paradigm: Comparative
+ trans_ru: уже нет
 
