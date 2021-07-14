@@ -233,12 +233,12 @@ REMOVE (rus) IF (0 ("а"))
                 (NOT -1 BOSPunct);
 REMOVE (PART rus) IF (0 ("а"))
                      (NOT 1 BOSPunct);
-SELECT (CNJ) IF (0 ("но"))
-                (-1 BOSPunct);
-SELECT (CNJ) IF (0 ("но"))
-                (*-1 BOS BARRIER (*) - (punct));
-REMOVE (CNJ) IF (0 ("но"))
-                (NOT -1 BOSPunct);
+SELECT (CNJ rus) IF (0 ("но"))
+                    (-1 BOSPunct);
+SELECT (CNJ rus) IF (0 ("но"))
+                    (*-1 BOS BARRIER (*) - (punct));
+REMOVE (CNJ rus) IF (0 ("но"))
+                    (NOT -1 BOSPunct);
 
 # med V.fut
 SELECT (PART) IF (0 ("<мед>"i))

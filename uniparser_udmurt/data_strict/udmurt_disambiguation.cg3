@@ -4,6 +4,8 @@ LIST NegVerbs = "уг" ("уд" V) "уз" ("ум" V) "ӧй" ("ӧд" V) "ӧз" ("�
 LIST NegVerbs1 = ("ӧм" V) "ӧй";
 LIST NegVerbs2 = ("уд" V) ("ӧд" V);
 LIST NegVerbs3 = "уз" ("ум" V) "ӧз" ("ӧм" V);
+LIST NegVerbsPst = ("ӧм" V) "ӧй" ("ӧд" V) "ӧз";
+LIST NegVerbsNpst = "уг" ("уд" V) "уз" ("ум" V);
 LIST Clitics = "но" "ни" "ини" "инь" "на" "пе" "пӧй" "а" "о" "ук" "ик" "ке" "ма" "гинэ" "гынэ" "гынэк" "лэся" "вылды";
 LIST VerbalClitics = "ни" "ини" "инь" "на" "ук" "лэся" "вылды";
 SET NotClitics = (*) - Clitics;
@@ -36,6 +38,12 @@ REMOVE (V neg 3) IF (*-1 NegVerbs2 BARRIER NotClitics);
 REMOVE (V neg 2) IF (*-1 ("<уг>"i) BARRIER NotClitics);
 REMOVE (V neg 1) IF (*-1 NegVerbs2 BARRIER NotClitics);
 SELECT (V neg 1) IF (*-1 NegVerbs1 BARRIER NotClitics);
+SELECT (V neg pst) IF (*-1 NegVerbsPst BARRIER NotClitics);
+REMOVE (V neg pst) IF (*-1 NegVerbsNpst BARRIER NotClitics);
+REMOVE (V neg pst 1) IF (0 ("<ӧй>"i))
+                        (NEGATE *0 ("<вал>"i) BARRIER NotClitics);
+SELECT (V neg pst 1) IF (0 ("<ӧй>"i))
+                        (*0 ("<вал>"i) BARRIER NotClitics);
 
 # Pst2 vs. nominalization in -m
 REMOVE (V evid sg) IF (1 ("бер" ill));
@@ -225,12 +233,12 @@ REMOVE (rus) IF (0 ("а"))
                 (NOT -1 BOSPunct);
 REMOVE (PART rus) IF (0 ("а"))
                      (NOT 1 BOSPunct);
-SELECT (CNJ) IF (0 ("но"))
-                (-1 BOSPunct);
-SELECT (CNJ) IF (0 ("но"))
-                (*-1 BOS BARRIER (*) - (punct));
-REMOVE (CNJ) IF (0 ("но"))
-                (NOT -1 BOSPunct);
+SELECT (CNJ rus) IF (0 ("но"))
+                    (-1 BOSPunct);
+SELECT (CNJ rus) IF (0 ("но"))
+                    (*-1 BOS BARRIER (*) - (punct));
+REMOVE (CNJ rus) IF (0 ("но"))
+                    (NOT -1 BOSPunct);
 
 # med V.fut
 SELECT (PART) IF (0 ("<мед>"i))

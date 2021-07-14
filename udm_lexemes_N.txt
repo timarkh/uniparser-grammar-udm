@@ -1406,9 +1406,10 @@
  gramm: N,anim,hum
  paradigm: Noun-num-vowel
  trans_ru: отец
+
 -lexeme
  lex: айы
- stem: ай.//а.
+ stem: ай.
  gramm: N,anim,hum
  paradigm: Noun-case-mar-poss-1,sg
  paradigm: Noun-case-mar-poss-2,sg
