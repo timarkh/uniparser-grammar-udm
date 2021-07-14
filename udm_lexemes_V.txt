@@ -5096,6 +5096,13 @@
  trans_ru: научиться; привыкнуть
 
 -lexeme
+ lex: дышетыны
+ stem: дышет.
+ gramm: V,I,tr,with_dat,with_inf
+ paradigm: connect_verbs-I
+ trans_ru: научить
+
+-lexeme
  lex: дэймыны
  stem: дэйм.
  gramm: V,I,intr
@@ -16092,7 +16099,14 @@
  stem: пыр.
  gramm: V,I,intr,with_el,with_ill
  paradigm: connect_verbs-I
- trans_ru: зайти; попасть 
+ trans_ru: зайти; попасть
+
+-lexeme
+ lex: пыртыны
+ stem: пырт.
+ gramm: V,I,tr,with_el,with_ill
+ paradigm: connect_verbs-I
+ trans_ru: внести; ввести
 
 -lexeme
  lex: пырыны-отыны
@@ -18991,6 +19005,13 @@
  gramm: V,II,intr,with_instr,with_ill
  paradigm: connect_verbs-II
  trans_ru: договориться; ладить; подойти
+
+-lexeme
+ lex: тупатыны
+ stem: тупат.
+ gramm: V,I,tr,with_instr
+ paradigm: connect_verbs-I
+ trans_ru: починить, исправить; восстановить
 
 -lexeme
  lex: турганы

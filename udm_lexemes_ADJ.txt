@@ -37119,6 +37119,20 @@
  trans_ru: тёмно-серый
 
 -lexeme
+ lex: пурысь
+ gramm: ADJ
+ stem: пурыс.
+ paradigm: connect_adjectives-soft
+ trans_ru: серый, седой
+
+-lexeme
+ lex: суд
+ gramm: ADJ
+ stem: суд.
+ paradigm: connect_adjectives
+ trans_ru: русый
+
+-lexeme
  lex: сьӧдкысъем
  gramm: ADJ
  stem: сьӧдкысъем.

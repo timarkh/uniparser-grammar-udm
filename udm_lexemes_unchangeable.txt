@@ -90,6 +90,20 @@
  trans_ru: не (1 л. ед. ч. прош. вр.)
 
 -lexeme
+ lex: ӧй
+ stem: ӧй.
+ gramm: V,pst
+ paradigm: Comparative
+ trans_ru: не (прош. вр. глагола "быть")
+
+-lexeme
+ lex: ӧй
+ stem: ӧй.
+ gramm: V,subj
+ paradigm: Comparative
+ trans_ru: не (условное наклонение)
+
+-lexeme
  lex: ӧд
  stem: ӧд.
  gramm: V,pst,2
@@ -883,21 +897,21 @@
 -lexeme
  lex: ини
  stem: ини.
- gramm: ADV
+ gramm: PART
  paradigm: Empty
  trans_ru: уже, значит
 
 -lexeme
  lex: инь
  stem: инь.
- gramm: ADV
+ gramm: PART
  paradigm: Empty
  trans_ru: уже, значит
 
 -lexeme
  lex: на
  stem: на.
- gramm: ADV
+ gramm: PART
  paradigm: Empty
  trans_ru: ещё
 
@@ -925,9 +939,16 @@
 -lexeme
  lex: но
  stem: но.
- gramm: PART
+ gramm: CNJ
  paradigm: Empty
  trans_ru: и
+
+-lexeme
+ lex: но
+ stem: но.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: и, даже
 
 -lexeme
  lex: медаз
@@ -953,7 +974,7 @@
 -lexeme
  lex: ни
  stem: ни.
- gramm: ADV
+ gramm: PART
  paradigm: Empty
  trans_ru: уже
 
@@ -1095,7 +1116,14 @@
  stem: шат.
  gramm: PART
  paradigm: Comparative
- trans_ru: вопр. ли, разве 2. вводн. сл. может быть
+ trans_ru: разве, что ли
+
+-lexeme
+ lex: шат
+ stem: шат.
+ gramm: PARENTH
+ paradigm: Comparative
+ trans_ru: может быть
 
 -lexeme
  lex: али
@@ -1760,7 +1788,7 @@
  lex: сукно
  stem: сукно.
  gramm: N,rus
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-vowel
  trans_ru: сукно
 
 -lexeme
@@ -1774,14 +1802,14 @@
  lex: угыёпу
  stem: угыёпу.
  gramm: N
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-vowel
  trans_ru: бересклет
 
 -lexeme
  lex: угыпу
  stem: угыпу.
  gramm: N
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-vowel
  trans_ru: бересклет
 
 -lexeme
@@ -1789,7 +1817,14 @@
  stem: пумен.
  gramm: ADV
  paradigm: connect_adverbs
- trans_ru: постепенно, незаметно, исподволь, мало-помалу, пумен-пумен постепенно, постепенно, мало-помалу
+ trans_ru: постепенно; мало-помалу
+
+-lexeme
+ lex: пумысен
+ stem: пумысен.
+ gramm: POST
+ paradigm: connect_adverbs
+ trans_ru: об
 
 -lexeme
  lex: бун
@@ -2159,14 +2194,14 @@
  lex: гужемпу
  stem: гужемпу.
  gramm: N
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-vowel
  trans_ru: жимолость
 
 -lexeme
  lex: гузэмпу
  stem: гузэмпу.
  gramm: N
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-vowel
  trans_ru: жимолость
 
 -lexeme
@@ -2243,7 +2278,7 @@
  lex: интодосчи
  stem: интодосчи.
  gramm: N,anim,hum
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-vowel
  trans_ru: астроном, астролог
 
 -lexeme
@@ -4572,6 +4607,13 @@
  trans_ru: или, то ли; вероятно
 
 -lexeme
+ lex: оло
+ stem: оло.
+ gramm: PARENTH
+ paradigm: Empty
+ trans_ru: вероятно, возможно, может быть, пожалуй; наверно
+
+-lexeme
  lex: ӵошкыт
  stem: ӵошкыт.
  gramm: ADV
@@ -6235,6 +6277,13 @@
  stem: бере.
  gramm: CNJ
  paradigm: Comparative
+ trans_ru: раз, если, поскольку
+
+-lexeme
+ lex: бере
+ stem: бере.
+ gramm: POST
+ paradigm: Comparative
  trans_ru: после
 
 -lexeme
@@ -6259,6 +6308,13 @@
  trans_ru: а
 
 -lexeme
+ lex: нош
+ stem: нош.
+ gramm: ADV
+ paradigm: Comparative
+ trans_ru: опять, снова
+
+-lexeme
  lex: то
  stem: то.
  gramm: CNJ,rus
@@ -6278,6 +6334,13 @@
  gramm: CNJ
  paradigm: Empty
  trans_ru: если
+
+-lexeme
+ lex: ке
+ stem: ке.
+ gramm: PART
+ paradigm: Empty
+ trans_ru: -то, -либо, -нибудь (показатель неопределённых местоимений)
 
 -lexeme
  lex: только
@@ -9026,6 +9089,13 @@
  gramm: ADV,loc
  paradigm: connect_adverbs
  trans_ru: на одном и том же месте
+
+-lexeme
+ lex: огинын
+ stem: огинын.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: вместе, сообща; совместно
 
 -lexeme
  lex: чалмытэн

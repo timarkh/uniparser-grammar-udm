@@ -5670,6 +5670,26 @@
   gramm: pl,fut,neg
   gloss: NEG.PL|NEG.PL
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+
+ -flex: .<.>
+  gramm: sg,pst,neg
+ -flex: .ы<.>
+  gramm: sg,pst,neg
+  gloss: NEG.SG
+ -flex: .э<.>
+  gramm: pl,pst,neg
+  gloss: NEG.PL
+ -flex: .э|лэ<.>
+  gramm: pl,pst,neg
+  gloss: NEG.PL|NEG.PL
+ -flex: .е<.>
+  gramm: pl,pst,neg
+  gloss: NEG.PL
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+ -flex: .е|лэ<.>
+  gramm: pl,pst,neg
+  gloss: NEG.PL|NEG.PL
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
  paradigm: Comparative
 
 -paradigm: Verb-I-negative-j
@@ -5682,6 +5702,16 @@
   gloss: NEG.PL|NEG.PL
   regex-prev: ^.*[аеёиӥоӧуыэюяъь][<>.]*$
 
+ -flex: <1>.е<.>
+  gramm: pl,pst,neg
+  gloss: NEG.PL
+  regex-prev: ^.*[аеёиӥоӧуыэюяъь][<>.]*$
+ -flex: <1>.е|лэ<.>
+  gramm: pl,pst,neg
+  gloss: NEG.PL|NEG.PL
+  regex-prev: ^.*[аеёиӥоӧуыэюяъь][<>.]*$
+ paradigm: Comparative
+
 -paradigm: Verb-I-negative-soft
  -flex: .[ь]<.>
   gramm: sg,fut,neg
@@ -5693,6 +5723,18 @@
   gloss: NEG.PL
  -flex: .е|лэ<.>
   gramm: pl,fut,neg
+  gloss: NEG.PL|NEG.PL
+
+ -flex: .[ь]<.>
+  gramm: sg,pst,neg
+ -flex: .[ь]ы<.>
+  gramm: sg,pst,neg
+  gloss: NEG.SG
+ -flex: .е<.>
+  gramm: pl,pst,neg
+  gloss: NEG.PL
+ -flex: .е|лэ<.>
+  gramm: pl,pst,neg
   gloss: NEG.PL|NEG.PL
  paradigm: Comparative
 
