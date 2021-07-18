@@ -377,7 +377,7 @@
  stem: сямен.//сяин.//сяен.//сеен.//сеэн.
  gramm: POST
  paradigm: Comparative
- trans_ru: по
+ trans_ru: по; подобно, как
 
 -lexeme
  lex: пыр
@@ -566,7 +566,7 @@
  stem: бен.
  gramm: PART
  paradigm: Comparative
- trans_ru: утв. да
+ trans_ru: да; же, да... же; а... же; ведь
 
 -lexeme
  lex: бон
@@ -4057,7 +4057,7 @@
  stem: меӵак.
  gramm: ADV
  paradigm: connect_adverbs
- trans_ru: круто, отвесно
+ trans_ru: напрямик; прямо, откровенно; круто, отвесно
 
 -lexeme
  lex: оломакемын
@@ -4681,7 +4681,14 @@
  stem: мылпу.
  gramm: N
  paradigm: Noun-num-vowel
- trans_ru: инпу дерево желаний
+ trans_ru: дерево желаний
+
+-lexeme
+ lex: инпу
+ stem: инпу.
+ gramm: N
+ paradigm: Noun-num-vowel
+ trans_ru: дерево желаний
 
 -lexeme
  lex: тальк-тальк
@@ -4744,7 +4751,7 @@
  stem: шер.
  gramm: ADV
  paradigm: connect_adverbs
- trans_ru: часто
+ trans_ru: редко
 
 -lexeme
  lex: азьланьын
@@ -5864,7 +5871,7 @@
  stem: гужем.
  gramm: ADV
  paradigm: connect_adverbs
- trans_ru: лето
+ trans_ru: летом
 
 -lexeme
  lex: шер-вай
@@ -6375,14 +6382,14 @@
  stem: торкак.
  gramm: IMIT
  paradigm: Empty
- trans_ru: глухому одиночному стуку, удару стук
+ trans_ru: о глухом одиночном стуке, ударе
 
 -lexeme
  lex: быз-з
  stem: быз-з.
  gramm: IMIT
  paradigm: Empty
- trans_ru: плачу ребёнка, жужжанию пчёл, шмелей, оводов
+ trans_ru: о плаче ребёнка, жужжании пчёл, шмелей, оводов
 
 -lexeme
  lex: ӵаштыр-ӵаштыр
@@ -6403,21 +6410,21 @@
  stem: угу-гу-у.
  gramm: IMIT
  paradigm: Empty
- trans_ru: крику филина или лесовика
+ trans_ru: о крике филина или лесовика
 
 -lexeme
  lex: чин-пан
  stem: чин-пан.
  gramm: IMIT
  paradigm: Empty
- trans_ru: визгливому или звонкому голосу
+ trans_ru: о визгливом или звонком голосе
 
 -lexeme
  lex: жабыль-жабыль
  stem: жабыль-жабыль.
  gramm: IMIT
  paradigm: Empty
- trans_ru: шуму прибоя
+ trans_ru: о шуме прибоя
 
 -lexeme
  lex: шур-шур
@@ -6431,7 +6438,7 @@
  stem: гарк-гарк.
  gramm: IMIT
  paradigm: Empty
- trans_ru: крику утки, вороны
+ trans_ru: о крике утки, вороны
 
 -lexeme
  lex: клок-клок
@@ -6445,28 +6452,28 @@
  stem: жур.
  gramm: IMIT
  paradigm: Empty
- trans_ru: звуку вращающихся предметов, напр. мотора
+ trans_ru: о звуке вращающихся предметов, напр. мотора
 
 -lexeme
  lex: шальк
  stem: шальк.
  gramm: IMIT
  paradigm: Empty
- trans_ru: стуку щеколды, хлопанью
+ trans_ru: о стуке щеколды, хлопании
 
 -lexeme
  lex: тарс
  stem: тарс.
  gramm: IMIT
  paradigm: Empty
- trans_ru: треску при раскрытый сухих стручков
+ trans_ru: о треске при раскрытии сухих стручков
 
 -lexeme
  lex: тарарат
  stem: тарарат.
  gramm: IMIT
  paradigm: Empty
- trans_ru: крику домашних и диких гусей: ~ карыны кричать «тарарат»
+ trans_ru: о крике домашних и диких гусей: ~ карыны кричать «тарарат»
 
 -lexeme
  lex: ӵажыр
@@ -6494,7 +6501,7 @@
  stem: чиз-чиз.
  gramm: IMIT
  paradigm: Empty
- trans_ru: звуку брызжуших тонких струек воды или молока
+ trans_ru: о звуке брызжуших тонких струек воды или молока
 
 -lexeme
  lex: люр-люр
@@ -6508,7 +6515,7 @@
  stem: шалтыр.
  gramm: IMIT
  paradigm: Empty
- trans_ru: стуку деревянными предметами
+ trans_ru: о стуке деревянными предметами
 
 -lexeme
  lex: орсь-орсь
@@ -6529,7 +6536,7 @@
  stem: ӵажыр-ӵажыр.
  gramm: IMIT
  paradigm: Empty
- trans_ru: сильному треску при горении, при разрывании материи
+ trans_ru: о сильном треске при горении, при разрывании материи
 
 -lexeme
  lex: шыч-шач
@@ -6543,7 +6550,7 @@
  stem: шытыр-шатыр.
  gramm: IMIT
  paradigm: Empty
- trans_ru: глухому стуку или треску разгрызаемых зёрен
+ trans_ru: о глухом стуке или треске разгрызаемых зёрен
 
 -lexeme
  lex: куань-куань
@@ -6557,7 +6564,7 @@
  stem: кыштыр.
  gramm: IMIT
  paradigm: Empty
- trans_ru: тихому шороху, шелесту, шуршанию
+ trans_ru: о тихом шорохе, шелесте, шуршании
 
 -lexeme
  lex: куаштыр
@@ -6578,7 +6585,7 @@
  stem: дымбыр-дамбыр.
  gramm: IMIT
  paradigm: Empty
- trans_ru: продолжительному грохоту, стуку с грохотом, со стуком
+ trans_ru: о продолжительном грохоте, стуке с грохотом
 
 -lexeme
  lex: ко-ко-ко
@@ -6599,7 +6606,7 @@
  stem: чик-чилик.
  gramm: IMIT
  paradigm: Empty
- trans_ru: крику воробья и некоторых других птиц: чирик, чик-чирик
+ trans_ru: о крике воробья и некоторых других птиц: чирик, чик-чирик
 
 -lexeme
  lex: йыг-йыг
@@ -6641,14 +6648,14 @@
  stem: дурт-дурт.
  gramm: IMIT
  paradigm: Empty
- trans_ru: стуку телеги по тряской дороге стук-стук
+ trans_ru: о стуке телеги по тряской дороге стук-стук
 
 -lexeme
  lex: шальт-шальт
  stem: шальт-шальт.
  gramm: IMIT
  paradigm: Empty
- trans_ru: звону монет, железных подвесок, мониста и звуку других звенящих металлических предметов
+ trans_ru: о звоне монет, железных подвесок, мониста и звуку других звенящих металлических предметов
 
 -lexeme
  lex: шылтыр
@@ -6676,14 +6683,14 @@
  stem: ӵык-ӵык.
  gramm: IMIT
  paradigm: Empty
- trans_ru: голосу соловья
+ trans_ru: о голосе соловья
 
 -lexeme
  lex: шапыр-шапыр
  stem: шапыр-шапыр.
  gramm: IMIT
  paradigm: Empty
- trans_ru: шуму капель дождя
+ trans_ru: о шуме капель дождя
 
 -lexeme
  lex: клёп-клёп
@@ -6697,7 +6704,7 @@
  stem: шылт-шалт.
  gramm: IMIT
  paradigm: Empty
- trans_ru: стуку о твёрдый предмет стук-бряк
+ trans_ru: о стуке о твёрдый предмет стук-бряк
 
 -lexeme
  lex: вуӵак
@@ -6746,7 +6753,7 @@
  stem: тик-так.
  gramm: IMIT
  paradigm: Empty
- trans_ru: тиканью часов тик-так
+ trans_ru: тик-так (о тикании часов)
 
 -lexeme
  lex: тыпрак
@@ -6921,7 +6928,7 @@
  stem: шап-шап.
  gramm: IMIT
  paradigm: Empty
- trans_ru: звуку падающих капель
+ trans_ru: о звуке падающих капель
 
 -lexeme
  lex: чин-чин
@@ -7026,7 +7033,7 @@
  stem: тӥч-тач.
  gramm: IMIT
  paradigm: Empty
- trans_ru: треску при ломке сухих сучьев, потрескиванию дров при горении, шлепкам, ударам по щеке: бамаз ~ чабкылыны ударять ладонью по щекам, давать пощёчины
+ trans_ru: о треске при ломке сухих сучьев, потрескивании дров при горении, шлепках, ударах по щеке
 
 -lexeme
  lex: ме-е-е
@@ -7040,14 +7047,14 @@
  stem: дынгыр.
  gramm: IMIT
  paradigm: Empty
- trans_ru: грохоту, стуку при езде по мерзлой земле с грохотом, со стуком, грохоча, стуча
+ trans_ru: о грохоте, стуке при езде по мёрзлой земле; грохоча
 
 -lexeme
  lex: дымбыр
  stem: дымбыр.
  gramm: IMIT
  paradigm: Empty
- trans_ru: грохоту стуку при езде по мосту, по мостовой грохоча, стуча, с грохотом, со стуком
+ trans_ru: о грохоте, стуке при езде по мосту, по мостовой; грохоча
 
 -lexeme
  lex: ӵаштыр
@@ -7131,14 +7138,14 @@
  stem: трах.
  gramm: IMIT
  paradigm: Empty
- trans_ru: звуку взрыва и т. д. трах
+ trans_ru: о звуке взрыва и т. д.
 
 -lexeme
  lex: ӵуш-паш
  stem: ӵуш-паш.
  gramm: IMIT
  paradigm: Empty
- trans_ru: шарканью ног
+ trans_ru: о шаркании ног
 
 -lexeme
  lex: шыпыр-шапыр
@@ -8132,21 +8139,21 @@
  stem: таре.
  gramm: ADV
  paradigm: connect_adverbs
- trans_ru: потом
+ trans_ru: теперь, сейчас
 
 -lexeme
  lex: табре
  stem: табре.
  gramm: ADV
  paradigm: connect_adverbs
- trans_ru: потом
+ trans_ru: теперь, сейчас
 
 -lexeme
  lex: табере
  stem: табере.
  gramm: ADV
  paradigm: connect_adverbs
- trans_ru: после того, потом
+ trans_ru: теперь, сейчас
 
 -lexeme
  lex: одно
@@ -10394,7 +10401,35 @@
  stem: быдэн.
  gramm: ADV
  paradigm: connect_adverbs
- trans_ru: 1. раздельно, отдельно, врозь, порознь 2. предлог по, каждому по
+ trans_ru: раздельно, порознь
+
+-lexeme
+ lex: быдэн
+ stem: быдэн.
+ gramm: PREP
+ paradigm: Comparative
+ trans_ru: по, каждому по
+
+-lexeme
+ lex: ог
+ stem: ог.
+ gramm: PREP
+ paradigm: Comparative
+ trans_ru: примерно (с числительными)
+
+-lexeme
+ lex: котыр
+ stem: котыр.
+ gramm: PREP
+ paradigm: Comparative
+ trans_ru: всем по..., по... (при счёте)
+
+-lexeme
+ lex: соин
+ stem: соин.
+ gramm: CNJ
+ paradigm: Comparative
+ trans_ru: поэтому
 
 -lexeme
  lex: чеберак

@@ -1265,6 +1265,7 @@
  stem: азьмурт.
  gramm: N,anim,hum
  paradigm: Noun-num-consonant
+ paradigm: Noun-acc-murt
  trans_ru: 1. сват, сваха 2. президент
 
 -lexeme
@@ -1384,6 +1385,7 @@
  stem: аймурт.
  gramm: N,anim,hum
  paradigm: Noun-num-consonant
+ paradigm: Noun-acc-murt
  trans_ru: свёкор
 
 -lexeme
@@ -6671,6 +6673,7 @@
  stem: будӟыммурт.
  gramm: N,anim,hum
  paradigm: Noun-num-consonant
+ paradigm: Noun-acc-murt
  trans_ru: верховная личность
 
 -lexeme
@@ -7086,6 +7089,7 @@
  stem: буромурт.
  gramm: N,anim,hum
  paradigm: Noun-num-consonant
+ paradigm: Noun-acc-murt
  trans_ru: праведник
 
 -lexeme
@@ -8904,7 +8908,7 @@
  stem: вес.
  gramm: N
  paradigm: Noun-num-soft
- trans_ru: косточки
+ trans_ru: бусы; бусинка; косточки (на счётах)
 
 -lexeme
  lex: веськуанӥсь
@@ -11406,6 +11410,7 @@
  stem: вынмурт.
  gramm: N,anim,hum
  paradigm: Noun-num-consonant
+ paradigm: Noun-acc-murt
  trans_ru: 1. племянник 2. сыновья сестёр отца, деда
 
 -lexeme
@@ -13871,6 +13876,13 @@
  trans_ru: печь, печка
 
 -lexeme
+ lex: гур
+ stem: гур.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: мотив; напев; мелодия
+
+-lexeme
  lex: гуразь
  stem: гураз.
  gramm: N
@@ -14645,9 +14657,9 @@
 -lexeme
  lex: даур
  stem: даур.
- gramm: N
+ gramm: N,time_meas
  paradigm: Noun-num-consonant
- trans_ru: неправда
+ trans_ru: век; жизнь, период существования; неправда
 
 -lexeme
  lex: даурмалпан
@@ -19391,6 +19403,7 @@
  stem: инмармурт.
  gramm: N,supernat
  paradigm: Noun-num-consonant
+ paradigm: Noun-acc-murt
  trans_ru: верховная личность бога
 
 -lexeme
@@ -20356,6 +20369,7 @@
  stem: йырмурт.
  gramm: N,anim,hum
  paradigm: Noun-num-consonant
+ paradigm: Noun-acc-murt
  trans_ru: 1. атаман, главарь 2. начальник
 
 -lexeme
@@ -20934,6 +20948,7 @@
  stem: кабыломурт.
  gramm: N,anim,hum
  paradigm: Noun-num-consonant
+ paradigm: Noun-acc-murt
  trans_ru: благочестивый человек
 
 -lexeme
@@ -23536,6 +23551,13 @@
  trans_ru: правительство
 
 -lexeme
+ lex: кивалтос
+ stem: кивалтос.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: орудие защиты или борьбы; подсобное орудие труда
+
+-lexeme
  lex: кивалтэт
  stem: кивалтэт.
  gramm: N
@@ -23576,13 +23598,6 @@
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: семя
-
--lexeme
- lex: кие
- stem: кие.
- gramm: N
- paradigm: Noun-num-vowel
- trans_ru: моль
 
 -lexeme
  lex: кижкыл
@@ -26398,6 +26413,7 @@
  stem: коркамурт.
  gramm: N,supernat
  paradigm: Noun-num-consonant
+ paradigm: Noun-acc-murt
  trans_ru: домовой
 
 -lexeme
@@ -28648,6 +28664,7 @@
  stem: кунмурт.
  gramm: N,anim,hum
  paradigm: Noun-num-consonant
+ paradigm: Noun-acc-murt
  trans_ru: гражданин
 
 -lexeme
@@ -29006,6 +29023,7 @@
  stem: курмурт.
  gramm: N,anim,hum
  paradigm: Noun-num-consonant
+ paradigm: Noun-acc-murt
  trans_ru: материалист
 
 -lexeme
@@ -30663,6 +30681,7 @@
  stem: кырмурт.
  gramm: N,anim,hum
  paradigm: Noun-num-consonant
+ paradigm: Noun-acc-murt
  trans_ru: материалист
 
 -lexeme
@@ -30887,6 +30906,7 @@
  stem: кышномурт.
  gramm: N,anim,hum
  paradigm: Noun-num-consonant
+ paradigm: Noun-acc-murt
  trans_ru: женщина
 
 -lexeme
@@ -37481,6 +37501,7 @@
  stem: мурт.
  gramm: N,anim,hum
  paradigm: Noun-num-consonant
+ paradigm: Noun-acc-murt
  trans_ru: человек, личность
 
 -lexeme
@@ -38992,6 +39013,7 @@
  stem: нимазмурт.
  gramm: N,anim,hum
  paradigm: Noun-num-consonant
+ paradigm: Noun-acc-murt
  trans_ru: индивидуальность, личность
 
 -lexeme
@@ -39409,6 +39431,7 @@
  stem: нылмурт.
  gramm: N,anim,hum
  paradigm: Noun-num-consonant
+ paradigm: Noun-acc-murt
  trans_ru: женщина
 
 -lexeme
@@ -39437,6 +39460,7 @@
  stem: нылъёсмурт.
  gramm: N,anim,hum
  paradigm: Noun-num-consonant
+ paradigm: Noun-acc-murt
  trans_ru: девушка
 
 -lexeme
@@ -39820,6 +39844,7 @@
  stem: нюлэсмурт.
  gramm: N,supernat
  paradigm: Noun-num-consonant
+ paradigm: Noun-acc-murt
  trans_ru: лесовик, леший
 
 -lexeme
@@ -42054,7 +42079,7 @@
 -lexeme
  lex: пал
  stem: пал.
- gramm: N
+ gramm: N,rel_n
  paradigm: Noun-num-pal
  trans_ru: сторона
 
@@ -42147,6 +42172,7 @@
  stem: палмурт.
  gramm: N,anim,hum
  paradigm: Noun-num-consonant
+ paradigm: Noun-acc-murt
  trans_ru: вдовец
 
 -lexeme
@@ -42217,6 +42243,7 @@
  stem: палэсмурт.
  gramm: N,supernat
  paradigm: Noun-num-consonant
+ paradigm: Noun-acc-murt
  trans_ru: палэсмурт, леший-великан
 
 -lexeme
@@ -43083,7 +43110,7 @@
 -lexeme
  lex: пашмурт
  stem: пашмурт.
- gramm: N
+ gramm: N,rus
  paradigm: Noun-num-consonant
  trans_ru: паспорт
 
@@ -44334,6 +44361,7 @@
  stem: пиосмурт.
  gramm: N,anim,hum
  paradigm: Noun-num-consonant
+ paradigm: Noun-acc-murt
  trans_ru: мужчина
 
 -lexeme
@@ -48938,7 +48966,7 @@
  gramm: N,body
  paradigm: Noun-num-consonant
  paradigm: Noun-num-consonant-y
- trans_ru: нога, лапа; коготь
+ trans_ru: нога, лапа; копыто
 
 -lexeme
  lex: пыдазь
@@ -60771,6 +60799,7 @@
  stem: ужмурт.
  gramm: N,anim,hum
  paradigm: Noun-num-consonant
+ paradigm: Noun-acc-murt
  trans_ru: 1. чиновник 2. кадр
 
 -lexeme
@@ -73188,6 +73217,7 @@
  stem: ӧнермурт.
  gramm: N,anim,hum
  paradigm: Noun-num-consonant
+ paradigm: Noun-acc-murt
  trans_ru: специалист, эксперт
 
 -lexeme
@@ -73434,6 +73464,7 @@
  stem: ӵаӵӵамурт.
  gramm: N,supernat
  paradigm: Noun-num-consonant
+ paradigm: Noun-acc-murt
  trans_ru: лесовик
 
 -lexeme
@@ -74451,6 +74482,7 @@
  stem: анаймурт.
  gramm: N,anim,hum
  paradigm: Noun-num-consonant
+ paradigm: Noun-acc-murt
  trans_ru: мать
 -lexeme
  lex: аналитик
@@ -75929,6 +75961,7 @@
  stem: вумурт.
  gramm: N,supernat
  paradigm: Noun-num-consonant
+ paradigm: Noun-acc-murt
  trans_ru: водяной
 -lexeme
  lex: вуныл
@@ -81527,6 +81560,7 @@
  stem: пимурт.
  gramm: N,anim,hum
  paradigm: Noun-num-consonant
+ paradigm: Noun-acc-murt
  trans_ru: мужчина
 -lexeme
  lex: пионервожатой
@@ -81551,6 +81585,7 @@
  stem: писомурт.
  gramm: N,anim,hum,missp
  paradigm: Noun-num-consonant
+ paradigm: Noun-acc-murt
  trans_ru: мужчина
 -lexeme
  lex: пирдан
@@ -86096,6 +86131,7 @@
  stem: чужмурт.
  gramm: N,anim,hum
  paradigm: Noun-num-consonant
+ paradigm: Noun-acc-murt
  trans_ru: дядя по матери
 -lexeme
  lex: чукна
@@ -86759,6 +86795,7 @@
  stem: ёзмурт.
  gramm: N,anim,hum
  paradigm: Noun-num-consonant
+ paradigm: Noun-acc-murt
  trans_ru: член (общества, правления)
 -lexeme
  lex: ёзчи
@@ -86879,6 +86916,7 @@
  stem: ӵужмурт.
  gramm: N,anim,hum
  paradigm: Noun-num-consonant
+ paradigm: Noun-acc-murt
  trans_ru: дядя (по материнской линии)
 
 -lexeme
@@ -97978,6 +98016,7 @@
  stem: кышномур.
  gramm: N,anim,hum,missp
  paradigm: Noun-num-consonant
+ paradigm: Noun-acc-murt
  trans_ru: женщина
 -lexeme
  lex: лайфхак
@@ -98458,6 +98497,7 @@
  stem: пересьмурт.
  gramm: N,anim,hum
  paradigm: Noun-num-consonant
+ paradigm: Noun-acc-murt
  trans_ru: старик
 -lexeme
  lex: перина
@@ -100420,6 +100460,7 @@
  gramm: N,anim,hum
  stem: айымурт.
  paradigm: Noun-num-consonant
+ paradigm: Noun-acc-murt
  trans_ru: свёкор
 
 -lexeme
@@ -102540,7 +102581,8 @@
  gramm: N,anim
  stem: гидмурт.
  paradigm: Noun-num-consonant
- trans_ru: миф. хозяин хлева, конюшни; гуменник
+ paradigm: Noun-acc-murt
+ trans_ru: дух-хозяин хлева, конюшни; гуменник
 
 -lexeme
  lex: гидрокран
@@ -105275,6 +105317,7 @@
  gramm: N,anim,hum
  stem: кенмурт.
  paradigm: Noun-num-consonant
+ paradigm: Noun-acc-murt
  trans_ru: сноха
 
 -lexeme
@@ -107204,6 +107247,7 @@
  gramm: N,anim,rus
  stem: лудмурт.
  paradigm: Noun-num-consonant
+ paradigm: Noun-acc-murt
  trans_ru: дух-хранитель поля; диал. леший
 
 -lexeme
@@ -107967,6 +108011,7 @@
  gramm: N,anim,supernat,rus
  stem: мунчомурт.
  paradigm: Noun-num-consonant
+ paradigm: Noun-acc-murt
  trans_ru: злой дух, обитающий в бане; банник
 
 -lexeme
@@ -108936,6 +108981,7 @@
  gramm: N,anim
  stem: огмурт.
  paradigm: Noun-num-consonant
+ paradigm: Noun-acc-murt
  trans_ru: один человек
 
 -lexeme
@@ -113898,6 +113944,7 @@
  gramm: N,anim,hum
  stem: сюмурт.
  paradigm: Noun-num-consonant
+ paradigm: Noun-acc-murt
  trans_ru: сотник
 
 -lexeme

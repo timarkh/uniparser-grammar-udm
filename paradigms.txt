@@ -1749,6 +1749,17 @@
   gloss: ILL
   paradigm: Noun-case-compounding
   regex-gramm: ^.*rel_n.*$
+ -flex: .ы<.>
+  gramm: ill
+  gloss: ILL
+  paradigm: Noun-case-compounding
+  regex-lex: ^сэрег$
+
+-paradigm: Noun-acc-murt
+ -flex: .э<.>
+  gramm: sg,acc
+  gloss: ACC
+  paradigm: Comparative
 
 -paradigm: Noun-case-ill-y
  -flex: .ы<.>
@@ -5938,6 +5949,12 @@
   gramm: sg,fut,neg
  -flex: .лэ<.>
   gramm: pl,fut,neg
+  gloss: NEG.PL
+
+ -flex: .<.>
+  gramm: sg,pst,neg
+ -flex: .лэ<.>
+  gramm: pl,pst,neg
   gloss: NEG.PL
  paradigm: Comparative
 
