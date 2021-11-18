@@ -28541,6 +28541,12 @@
  paradigm: Comparative
  trans_ru: маяться
 -lexeme
+ lex: обрабатываться
+ stem: обрабатываться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: обрабатываться
+-lexeme
  lex: медитировать
  stem: медитировать.
  gramm: V,rus,rus_inf,rus_ipfv
@@ -28552,6 +28558,12 @@
  gramm: V,rus,rus_inf,rus_ipfv
  paradigm: Comparative
  trans_ru: менять
+-lexeme
+ lex: позволять
+ stem: позволять.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: позволять
 -lexeme
  lex: механизировать
  stem: механизировать.
@@ -30658,6 +30670,12 @@
  gramm: V,rus,rus_inf,refl,rus_pfv
  paradigm: Comparative
  trans_ru: рассчитаться
+-lexeme
+ lex: считаться
+ stem: считаться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: считаться
 -lexeme
  lex: расторгнуть
  stem: расторгнуть.
@@ -45894,3 +45912,16 @@
  paradigm: connect_verbs-II
  trans_ru: говорить шёпотом, шептаться, шушукаться; шуршать, шелестеть
 
+-lexeme
+ lex: ӟеляны
+ gramm: V,intr,II
+ stem: ӟеля.
+ paradigm: connect_verbs-II
+ trans_ru: надоесть
+
+-lexeme
+ lex: чотланы
+ gramm: V,II,tr
+ stem: чотла.
+ paradigm: connect_verbs-II
+ trans_ru: считать

@@ -21594,10 +21594,10 @@
 
 -lexeme
  lex: каляга
- stem: каляга.
+ stem: каляга.//кальга.
  gramm: N,rus
  paradigm: Noun-num-vowel
- trans_ru: брюква, каляга обл.
+ trans_ru: брюква, каляга
 
 -lexeme
  lex: калямача
@@ -36456,6 +36456,13 @@
  gramm: N,rus,anim,hum
  paradigm: Noun-num-vowel
  trans_ru: вч. невеста
+
+-lexeme
+ lex: невестка
+ stem: невестка.
+ gramm: N,rus,anim,hum
+ paradigm: Noun-num-vowel
+ trans_ru: невестка
 
 -lexeme
  lex: молодчина
@@ -117217,4 +117224,123 @@
  stem: фызыу.
  paradigm: Noun-num-vowel
  trans_ru: ФЗУ
+
+-lexeme
+ lex: колобок
+ gramm: N,rus,anim,supernat
+ stem: колобок.
+ paradigm: Noun-num-consonant
+ trans_ru: колобок
+
+-lexeme
+ lex: гирь
+ gramm: N,rus
+ stem: гир.
+ paradigm: Noun-num-soft
+ trans_ru: гиря
+
+-lexeme
+ lex: индоутка
+ gramm: N,rus,anim
+ stem: индоутка.
+ paradigm: Noun-num-vowel
+ trans_ru: индоутка
+
+-lexeme
+ lex: шикар
+ gramm: N
+ stem: шикар.
+ paradigm: Noun-num-consonant
+ trans_ru: сахар
+
+-lexeme
+ lex: самогон
+ gramm: N,rus
+ stem: самогон.
+ paradigm: Noun-num-consonant
+ trans_ru: самогон
+
+-lexeme
+ lex: корыто
+ gramm: N,rus
+ stem: корыто.//корыта.
+ paradigm: Noun-num-vowel
+ trans_ru: корыто
+
+-lexeme
+ lex: дворянка
+ gramm: N,rus,hum,anim
+ stem: дворянка.
+ paradigm: Noun-num-vowel
+ trans_ru: дворянка
+
+-lexeme
+ lex: пельугы
+ gramm: N
+ stem: пельгу.
+ paradigm: Noun-num-vowel
+ trans_ru: серьга, серьги
+
+-lexeme
+ lex: владычица
+ gramm: N,rus,hum,anim
+ stem: владычица.
+ paradigm: Noun-num-vowel
+ trans_ru: владычица
+
+-lexeme
+ lex: брожение
+ gramm: N,rus
+ stem: брожени.
+ paradigm: Noun-num-ije
+ trans_ru: брожение
+
+-lexeme
+ lex: мусканчи
+ gramm: N,hum,anim
+ stem: мусканчи.
+ paradigm: Noun-num-vowel
+ trans_ru: гармонист
+
+-lexeme
+ lex: площадь
+ gramm: N,rus
+ stem: площад.//плошшад.
+ paradigm: Noun-num-soft
+ trans_ru: площадь
+
+-lexeme
+ lex: маллай
+ gramm: N
+ stem: малла.
+ paradigm: Noun-num-j
+ trans_ru: маллай (головной убор замужней женщины)
+
+-lexeme
+ lex: погода
+ gramm: N,rus
+ stem: погода.
+ paradigm: Noun-num-vowel
+ trans_ru: погода
+
+-lexeme
+ lex: пуштэм
+ gramm: N
+ stem: пуштэм.
+ paradigm: Noun-num-consonant
+ trans_ru: бульон с яйцом
+
+-lexeme
+ lex: раз
+ gramm: N,rus
+ stem: раз.
+ paradigm: Noun-num-consonant
+ trans_ru: раз
+
+-lexeme
+ lex: уха
+ gramm: N,rus
+ stem: уха.
+ paradigm: Noun-num-vowel
+ trans_ru: уха
 

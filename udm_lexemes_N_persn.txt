@@ -13567,7 +13567,7 @@
  stem: балтач.
  gramm: N,PN,topn
  paradigm: Noun-num-consonant
- trans_ru: Балтаси
+ trans_ru: Балтачево
 -lexeme
  lex: Балтика
  stem: балтика.
@@ -35437,6 +35437,12 @@
  paradigm: Noun-num-vowel
  trans_ru: Кушнаренко
 -lexeme
+ lex: Кушнаренко
+ stem: кушнаренко.
+ gramm: N,PN,topn
+ paradigm: Noun-num-vowel
+ trans_ru: Кушнаренково
+-lexeme
  lex: Кушнеренко
  stem: кушнеренко.
  gramm: N,PN,famn
@@ -53195,7 +53201,7 @@
  stem: бигине.
  gramm: N,PN,topn
  paradigm: Noun-num-j
- trans_ru: Бигиней
+ trans_ru: Бигинеево
 -lexeme
  lex: Бикузя
  stem: бикузя.
@@ -69454,4 +69460,53 @@
  stem: тавдеев.
  paradigm: Noun-num-consonant
  trans_ru: Тавдеев
+
+-lexeme
+ lex: Нижбалтач
+ gramm: N,PN,topn
+ stem: нижбалтач.
+ paradigm: Noun-num-consonant
+ trans_ru: Нижнебалтачево
+
+-lexeme
+ lex: Таныповка
+ gramm: N,topn,PN
+ stem: таныповка.
+ paradigm: Noun-num-vowel
+ trans_ru: Таныповка
+
+-lexeme
+ lex: Кытки
+ gramm: N,topn,PN
+ stem: кытки.
+ paradigm: Noun-num-vowel
+ trans_ru: Кытки-Елга
+
+-lexeme
+ lex: Тимерьяныч
+ gramm: N,patrn,PN
+ stem: тимерьяныч.
+ paradigm: Noun-num-consonant
+ trans_ru: Тимерьяныч
+
+-lexeme
+ lex: Чыкыра
+ gramm: N,PN
+ stem: чыкыра.
+ paradigm: Noun-num-vowel
+ trans_ru: Чыкыра (название праздника)
+
+-lexeme
+ lex: Лампачей
+ gramm: N,PN
+ stem: лампаче.
+ paradigm: Noun-num-j
+ trans_ru: Лампачей (название ансамбля)
+
+-lexeme
+ lex: Ялгыз-Нарат
+ gramm: N,topn,PN
+ stem: ялгыз-нарат.
+ paradigm: Noun-num-consonant
+ trans_ru: Ялгыз-Нарат
 

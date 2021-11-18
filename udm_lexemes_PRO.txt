@@ -300,6 +300,13 @@
  trans_ru: он/она/оно; тот, этот
 
 -lexeme
+ lex: со
+ stem: сӥе.
+ gramm: PRO,sg,acc
+ paradigm: Comparative
+ trans_ru: он/она/оно; тот, этот
+
+-lexeme
  lex: мон
  stem: монэным.
  gramm: PRO,ins,sg
@@ -795,6 +802,13 @@
  trans_ru: куда-то
 
 -lexeme
+ lex: огкытчы
+ stem: огкытчы.//огкытцы.
+ gramm: ADVPRO,ill
+ paradigm: Comparative
+ trans_ru: куда-то
+
+-lexeme
  lex: нокытчы
  stem: нокытчы.//нокытцы.
  gramm: ADVPRO,ill
@@ -874,6 +888,13 @@
  gramm: ADVPRO,loc
  paradigm: Comparative
  trans_ru: где-то, не знаю где
+
+-lexeme
+ lex: огкытын
+ stem: огкытын.//огкытчын.
+ gramm: ADVPRO,loc
+ paradigm: Comparative
+ trans_ru: где-то
 
 -lexeme
  lex: олокытын
@@ -1603,3 +1624,10 @@
  stem: омар.
  paradigm: Noun-mar
  trans_ru: неизвестно что, что-то, что только
+
+-lexeme
+ lex: это
+ gramm: PRO,rus
+ stem: это.
+ paradigm: Comparative
+ trans_ru: это

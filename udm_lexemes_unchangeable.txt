@@ -896,17 +896,10 @@
 
 -lexeme
  lex: ини
- stem: ини.
+ stem: ини.//инь.//ин.
  gramm: PART
  paradigm: Empty
- trans_ru: уже, значит
-
--lexeme
- lex: инь
- stem: инь.
- gramm: PART
- paradigm: Empty
- trans_ru: уже, значит
+ trans_ru: уж; уже; значит
 
 -lexeme
  lex: на
@@ -1141,10 +1134,10 @@
 
 -lexeme
  lex: эсь
- stem: эсь.
+ stem: эсь.//есь.
  gramm: PART
  paradigm: Empty
- trans_ru: усил. ведь, же, даже
+ trans_ru: ведь, же, даже
 
 -lexeme
  lex: толон
@@ -11894,6 +11887,12 @@
  paradigm: Comparative
  trans_ru: видать
 -lexeme
+ lex: по-моему
+ stem: по-моему.//помоему.
+ gramm: PARENTH,rus
+ paradigm: Comparative
+ trans_ru: по-моему
+-lexeme
  lex: вплоть
  stem: вплоть.
  gramm: ADV,rus
@@ -18147,3 +18146,100 @@
  paradigm: Comparative
  trans_ru: уже нет
 
+-lexeme
+ lex: каты
+ gramm: ADV
+ stem: каты.
+ paradigm: connect_adverbs
+ trans_ru: сильно
+
+-lexeme
+ lex: пудэн
+ gramm: ADV
+ stem: пудэн.
+ paradigm: connect_adverbs
+ trans_ru: пешком
+
+-lexeme
+ lex: дружны
+ gramm: ADV,rus
+ stem: дружны.
+ paradigm: connect_adverbs
+ trans_ru: дружно
+
+-lexeme
+ lex: частично
+ gramm: ADV,rus
+ stem: частично.
+ paradigm: connect_adverbs
+ trans_ru: частично
+
+-lexeme
+ lex: более
+ gramm: ADV,rus
+ stem: более.
+ paradigm: connect_adverbs
+ trans_ru: более
+
+-lexeme
+ lex: спокойно
+ gramm: ADV,rus
+ stem: спокойно.
+ paradigm: connect_adverbs
+ trans_ru: спокойно
+
+-lexeme
+ lex: настолько
+ gramm: ADV,rus
+ stem: настолько.
+ paradigm: connect_adverbs
+ trans_ru: настолько
+
+-lexeme
+ lex: егенчи
+ gramm: ADV
+ stem: егенчи.
+ paradigm: connect_adverbs
+ trans_ru: в следующий раз
+
+-lexeme
+ lex: вот
+ gramm: PART,rus
+ stem: вот.
+ paradigm: Comparative
+ trans_ru: вот
+
+-lexeme
+ lex: индэ
+ gramm: PART
+ stem: индэ.
+ paradigm: Comparative
+ trans_ru: уже, значит
+
+-lexeme
+ lex: то
+ gramm: PART,rus
+ stem: то.
+ paradigm: Comparative
+ trans_ru: то
+
+-lexeme
+ lex: кулӧвӧл
+ gramm: PREDIC
+ stem: кулӧвӧл.
+ paradigm: Comparative
+ trans_ru: не нужно
+
+-lexeme
+ lex: ыгы
+ gramm: INTRJ
+ stem: ыгы.
+ paradigm: Comparative
+ trans_ru: угу
+
+-lexeme
+ lex: угу
+ gramm: INTRJ
+ stem: угу.
+ paradigm: Comparative
+ trans_ru: угу
