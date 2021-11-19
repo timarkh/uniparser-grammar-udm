@@ -30497,6 +30497,18 @@
  paradigm: Comparative
  trans_ru: разбудить
 -lexeme
+ lex: развалить
+ stem: развалить.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: развалить
+-lexeme
+ lex: развалиться
+ stem: развалиться.
+ gramm: V,rus,rus_inf,refl,rus_pfv
+ paradigm: Comparative
+ trans_ru: развалиться
+-lexeme
  lex: развивать
  stem: развивать.
  gramm: V,rus,rus_inf,rus_ipfv

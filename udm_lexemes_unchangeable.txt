@@ -376,6 +376,8 @@
  lex: сямен
  stem: сямен.//сяин.//сяен.//сеен.//сеэн.
  gramm: POST
+ paradigm: poss-sg-a
+ paradigm: poss-pl-a
  paradigm: Comparative
  trans_ru: по; подобно, как
 
@@ -390,6 +392,8 @@
  lex: аркаын
  stem: аркаын.
  gramm: POST
+ paradigm: poss-sg-a
+ paradigm: poss-pl-a
  paradigm: Comparative
  trans_ru: благодаря
 
@@ -474,6 +478,8 @@
  lex: сэрен
  stem: сэрен.
  gramm: POST
+ paradigm: poss-sg-a
+ paradigm: poss-pl-a
  paradigm: Comparative
  trans_ru: из-за, в силу, вследствие
 
@@ -7898,7 +7904,7 @@
 
 -lexeme
  lex: э
- stem: э.
+ stem: э.//ээ.//эээ.//ээээ.
  gramm: INTRJ
  paradigm: Empty
  trans_ru: э, а-а, эх, ах, ох
@@ -8762,6 +8768,13 @@
  trans_ru: вообще-то
 
 -lexeme
+ lex: где-то
+ stem: где-то.//гдето.
+ gramm: ADV,rus
+ paradigm: connect_adverbs
+ trans_ru: где-то; примерно
+
+-lexeme
  lex: конечно
  stem: конечно.//конешно.
  gramm: ADV,rus
@@ -9066,6 +9079,13 @@
  lex: матысен
  stem: матысен.
  gramm: ADV,egr
+ paradigm: connect_adverbs
+ trans_ru: с близкого расстояния, вблизи, поблизости
+
+-lexeme
+ lex: матысен
+ stem: матӥсен.
+ gramm: ADV,egr,nonst
  paradigm: connect_adverbs
  trans_ru: с близкого расстояния, вблизи, поблизости
 

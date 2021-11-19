@@ -21355,6 +21355,12 @@
  paradigm: connect_adjectives-j
  trans_ru: крещёный
 -lexeme
+ lex: крещёная
+ stem: крещёная.
+ gramm: ADJ,rus
+ paradigm: connect_adjectives
+ trans_ru: крещёная
+-lexeme
  lex: кривой
  stem: криво.
  gramm: ADJ,rus

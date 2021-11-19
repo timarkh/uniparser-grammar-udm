@@ -260,9 +260,9 @@
 
 -lexeme
  lex: абалгы
- stem: абалгы.
+ stem: абалгы.|абалги.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: папоротник
 
 -lexeme
@@ -1157,9 +1157,9 @@
 
 -lexeme
  lex: азьгозы
- stem: азьгозы.
+ stem: азьгозы.|азьгозӥ.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: верёвка под бастриг
 
 -lexeme
@@ -1616,9 +1616,9 @@
 
 -lexeme
  lex: акты
- stem: акты.
+ stem: акты.|актӥ.
  gramm: N,anim
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: голавль
 
 -lexeme
@@ -1763,9 +1763,9 @@
 
 -lexeme
  lex: албасты
- stem: албасты.
+ stem: албасты.|албастӥ.
  gramm: N,supernat
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: 1. Албасты злой дух, домовой 2. перен. чудовище, страшилище 3. нечисть
 
 -lexeme
@@ -2212,9 +2212,9 @@
 
 -lexeme
  lex: ангырагумы
- stem: ангырагумы.
+ stem: ангырагумы.|ангырагуми.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: дурманка, белена
 
 -lexeme
@@ -2381,9 +2381,9 @@
 
 -lexeme
  lex: аньы
- stem: аньы.
+ stem: аньы.|ани.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: сноп конопли
 
 -lexeme
@@ -2466,9 +2466,9 @@
 
 -lexeme
  lex: аракы
- stem: аракы.
+ stem: аракы.|араки.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: самогон, вино, водка
 
 -lexeme
@@ -3414,9 +3414,9 @@
 
 -lexeme
  lex: аталгы
- stem: аталгы.
+ stem: аталгы.|аталги.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: 1. тяпка, сечка 2. тесло
 
 -lexeme
@@ -3463,9 +3463,9 @@
 
 -lexeme
  lex: аткы
- stem: аткы.
+ stem: аткы.|атки.
  gramm: N,anim
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: голавль
 
 -lexeme
@@ -5209,9 +5209,9 @@
 
 -lexeme
  lex: бергозы
- stem: бергозы.
+ stem: бергозы.|бергозӥ.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: верёвка
 
 -lexeme
@@ -5597,9 +5597,9 @@
 
 -lexeme
  lex: биньгозы
- stem: биньгозы.
+ stem: биньгозы.|биньгозӥ.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: вожжи
 
 -lexeme
@@ -5660,9 +5660,9 @@
 
 -lexeme
  lex: бирды
- stem: бирды.
+ stem: бирды.|бирдӥ.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: пуговица
 
 -lexeme
@@ -5899,16 +5899,16 @@
 
 -lexeme
  lex: боды
- stem: боды.
+ stem: боды.|бодӥ.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: палка; стебель
 
 -lexeme
  lex: бодыбикрангы
- stem: бодыбикрангы.
+ stem: бодыбикрангы.|бодыбикранги.
  gramm: N,anim
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: летучая мышь
 
 -lexeme
@@ -5927,9 +5927,16 @@
 
 -lexeme
  lex: бозго
- stem: бозго.//бозгы.
+ stem: бозго.
  gramm: N,anim
  paradigm: Noun-num-vowel
+ trans_ru: жук (навозный)
+
+-lexeme
+ lex: бозго
+ stem: бозгы.|бозги.
+ gramm: N,anim
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: жук (навозный)
 
 -lexeme
@@ -6165,9 +6172,9 @@
 
 -lexeme
  lex: боры
- stem: боры.
+ stem: боры.|бори.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: клубника
 
 -lexeme
@@ -6235,9 +6242,9 @@
 
 -lexeme
  lex: боты
- stem: боты.
+ stem: боты.|ботӥ.
  gramm: N,rus
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: боты, ботики
 
 -lexeme
@@ -6973,16 +6980,16 @@
 
 -lexeme
  lex: бургы
- stem: бургы.
+ stem: бургы.|бурги.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: [медная] труба
 
 -lexeme
  lex: бургы-гумы
- stem: бургы-гумы.
+ stem: бургы-гумы.|бургы-гуми.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: труба
 
 -lexeme
@@ -7094,9 +7101,9 @@
 
 -lexeme
  lex: бурсы
- stem: бурсы.
+ stem: бурсы.|бурсӥ.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: вопль, плакса, рёвушка
 
 -lexeme
@@ -7164,9 +7171,9 @@
 
 -lexeme
  lex: буспуйы
- stem: буспуйы.
+ stem: буспуйы.|буспуйи.
  gramm: N,body
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: мочевой пузырь
 
 -lexeme
@@ -7199,9 +7206,9 @@
 
 -lexeme
  lex: бусы
- stem: бусы.
+ stem: бусы.|бусӥ.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: поле, клин
 
 -lexeme
@@ -7262,9 +7269,9 @@
 
 -lexeme
  lex: бутсы
- stem: бутсы.
+ stem: бутсы.|бутсӥ.
  gramm: N,rus
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: бутсы
 
 -lexeme
@@ -7444,9 +7451,9 @@
 
 -lexeme
  lex: быгы
- stem: быгы.
+ stem: быгы.|быги.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: 1. пушок, пух 2. легень ~ кубышка желтая
 
 -lexeme
@@ -7564,9 +7571,9 @@
 
 -lexeme
  lex: бызгы
- stem: бызгы.
+ stem: бызгы.|бызги.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: жужжало
 
 -lexeme
@@ -7592,9 +7599,9 @@
 
 -lexeme
  lex: бызпуйы
- stem: бызпуйы.
+ stem: бызпуйы.|бызпуйи.
  gramm: N,body
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: мочевой пузырь
 
 -lexeme
@@ -7663,9 +7670,9 @@
 
 -lexeme
  lex: бӧльмы
- stem: бӧльмы.
+ stem: бӧльмы.|бӧльми.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: притвор
 
 -lexeme
@@ -7726,9 +7733,9 @@
 
 -lexeme
  lex: бӧчы
- stem: бӧчы.
+ stem: бӧчы.|бӧчи.
  gramm: N,anim
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: 1. жук, хрущ 2. личинка овода 3. жук майский, светлячок
 
 -lexeme
@@ -7945,16 +7952,16 @@
 
 -lexeme
  lex: валгижы
- stem: валгижы.
+ stem: валгижы.|валгижи.
  gramm: N,body
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: копыто лошади
 
 -lexeme
  lex: валгырлы
- stem: валгырлы.
+ stem: валгырлы.|валгырлӥ.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: примула, первоцвет лекарственный
 
 -lexeme
@@ -8001,9 +8008,9 @@
 
 -lexeme
  lex: валкибы
- stem: валкибы.
+ stem: валкибы.|валкиби.
  gramm: N,anim
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: навозный жук
 
 -lexeme
@@ -8380,9 +8387,9 @@
 
 -lexeme
  lex: вары
- stem: вары.
+ stem: вары.|вари.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: текст. ось
 
 -lexeme
@@ -9355,9 +9362,9 @@
 
 -lexeme
  lex: винты
- stem: винты.
+ stem: винты.|винтӥ.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: винт
 
 -lexeme
@@ -9566,9 +9573,9 @@
 
 -lexeme
  lex: вишты
- stem: вишты.
+ stem: вишты.|виштӥ.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: пятно, пятнышко, крапинка
 
 -lexeme
@@ -9812,9 +9819,9 @@
 
 -lexeme
  lex: вожопӧськы
- stem: вожопӧськы.
+ stem: вожопӧськы.|вожопӧськи.
  gramm: N,anim
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: ласточка деревенская, стриж
 
 -lexeme
@@ -9854,9 +9861,9 @@
 
 -lexeme
  lex: вожпӧськы
- stem: вожпӧськы.
+ stem: вожпӧськы.|вожпӧськи.
  gramm: N,anim
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: 1. стриж 2. ласточка деревенская
 
 -lexeme
@@ -10120,9 +10127,9 @@
 
 -lexeme
  lex: волёгумы
- stem: волёгумы.
+ stem: волёгумы.|волёгуми.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: пушица, пушка
 
 -lexeme
@@ -10274,9 +10281,9 @@
 
 -lexeme
  lex: воры
- stem: воры.
+ stem: воры.|вори.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: 1. колосник, поперечина 2. текст. шпилька, скрепка
 
 -lexeme
@@ -10470,9 +10477,9 @@
 
 -lexeme
  lex: вугы
- stem: вугы.//выгы.
+ stem: вугы.//выгы.|вуги.//выги.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: дуга; обод
 
 -lexeme
@@ -10584,9 +10591,9 @@
 
 -lexeme
  lex: вужӧрты
- stem: вужӧрты.
+ stem: вужӧрты.|вужӧртӥ.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: старица
 
 -lexeme
@@ -10731,9 +10738,9 @@
 
 -lexeme
  lex: вулэйкы
- stem: вулэйкы.
+ stem: вулэйкы.|вулэйки.
  gramm: N,transport
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: лодка
 
 -lexeme
@@ -10745,9 +10752,9 @@
 
 -lexeme
  lex: вумульы
- stem: вумульы.
+ stem: вумульы.|вумули.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: кувшинка, лилия водяная
 
 -lexeme
@@ -10759,9 +10766,9 @@
 
 -lexeme
  lex: вумуртчиньы
- stem: вумуртчиньы.
+ stem: вумуртчиньы.|вумуртчини.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: квасцы; ноготки
 
 -lexeme
@@ -10780,9 +10787,9 @@
 
 -lexeme
  lex: вунымы
- stem: вунымы.
+ stem: вунымы.|вуными.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: водяные мошки
 
 -lexeme
@@ -10836,9 +10843,9 @@
 
 -lexeme
  lex: вупульы
- stem: вупульы.
+ stem: вупульы.|вупули.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: 1. пузырь на воде 2. мозоль, волдырь
 
 -lexeme
@@ -11116,9 +11123,9 @@
 
 -lexeme
  lex: выжы
- stem: выжы.
+ stem: выжы.|выжи.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: корень; род
 
 -lexeme
@@ -11534,9 +11541,9 @@
 
 -lexeme
  lex: вышкы
- stem: вышкы.
+ stem: вышкы.|вышки.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: кадка, кадушка
 
 -lexeme
@@ -11654,9 +11661,9 @@
 
 -lexeme
  lex: вӧлы
- stem: вӧлы.
+ stem: вӧлы.|вӧлӥ.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: волок
 
 -lexeme
@@ -11668,23 +11675,23 @@
 
 -lexeme
  lex: вӧльы
- stem: вӧльы.
+ stem: вӧльы.|вӧли.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: 1. делянка, лесная поляна 2. валок
 
 -lexeme
  lex: вӧльы
- stem: вӧльы.
+ stem: вӧльы.|вӧли.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: окорённое дерево
 
 -lexeme
  lex: вӧлёгумы
- stem: вӧлёгумы.
+ stem: вӧлёгумы.|вӧлёгуми.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: пушица широколистная
 
 -lexeme
@@ -11773,9 +11780,9 @@
 
 -lexeme
  lex: вӧӵы
- stem: вӧӵы.
+ stem: вӧӵы.|вӧӵи.
  gramm: N,anim
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: дикая утка, чирок
 
 -lexeme
@@ -12091,9 +12098,9 @@
 
 -lexeme
  lex: гарасингумы
- stem: гарасингумы.
+ stem: гарасингумы.|гарасингуми.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: свербига восточная
 
 -lexeme
@@ -12469,9 +12476,9 @@
 
 -lexeme
  lex: геры
- stem: геры.
+ stem: геры.|гери.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: соха
 
 -lexeme
@@ -12616,16 +12623,16 @@
 
 -lexeme
  lex: гижы
- stem: гижы.
+ stem: гижы.|гижи.
  gramm: N,body
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: ноготь, коготь, копыто
 
 -lexeme
  lex: гизьы
- stem: гизьы.
+ stem: гизьы.|гизи.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: 1. частичка, осколок, песчинка дресвы 2. искра
 
 -lexeme
@@ -12777,9 +12784,9 @@
 
 -lexeme
  lex: гиӟы
- stem: гиӟы.
+ stem: гиӟы.|гиӟи.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: узел, петля
 
 -lexeme
@@ -12861,9 +12868,9 @@
 
 -lexeme
  lex: гогы
- stem: гогы.
+ stem: гогы.|гоги.
  gramm: N,body
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: пупок, пуповина
 
 -lexeme
@@ -12988,9 +12995,9 @@
 
 -lexeme
  lex: гозы
- stem: гозы.
+ stem: гозы.|гозӥ.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: верёвка
 
 -lexeme
@@ -13065,9 +13072,9 @@
 
 -lexeme
  lex: гондыргумы
- stem: гондыргумы.
+ stem: гондыргумы.|гондыргуми.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: 1. аконит, борец 2. пустырник пятилопастный
 
 -lexeme
@@ -13093,9 +13100,9 @@
 
 -lexeme
  lex: гондырпытьы
- stem: гондырпытьы.
+ stem: гондырпытьы.|гондырпыти.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: девясил
 
 -lexeme
@@ -13863,9 +13870,9 @@
 
 -lexeme
  lex: гумы
- stem: гумы.
+ stem: гумы.|гуми.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: 1. труба, трубка, полый стебель растения 2. полый предмет
 
 -lexeme
@@ -14017,9 +14024,9 @@
 
 -lexeme
  lex: гуры
- stem: гуры.
+ stem: гуры.|гури.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: 1. сережка 2. зацепка 3. кисть 4. метёлка
 
 -lexeme
@@ -14122,9 +14129,9 @@
 
 -lexeme
  lex: гыды
- stem: гыды.
+ stem: гыды.|гыдӥ.
  gramm: N,anim,hum
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: голубушка, голубчик, милый
 
 -lexeme
@@ -14143,9 +14150,9 @@
 
 -lexeme
  lex: гыжы
- stem: гыжы.
+ stem: гыжы.|гыжи.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: мельчайшая песчинка
 
 -lexeme
@@ -14157,9 +14164,9 @@
 
 -lexeme
  lex: гызы
- stem: гызы.
+ stem: гызы.|гызӥ.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: 1. неустойчивость 2. уродливость
 
 -lexeme
@@ -14171,9 +14178,9 @@
 
 -lexeme
  lex: гындурсы
- stem: гындурсы.
+ stem: гындурсы.|гындурсӥ.
  gramm: N,anim,hum
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: 1. лодырь, лентяй 2. недотёпа, тихоня
 
 -lexeme
@@ -14248,9 +14255,9 @@
 
 -lexeme
  lex: гырлы
- stem: гырлы.
+ stem: гырлы.|гырлӥ.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: колокол, колокольчик
 
 -lexeme
@@ -14544,16 +14551,16 @@
 
 -lexeme
  lex: даръягумы
- stem: даръягумы.
+ stem: даръягумы.|даръягуми.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: свербига восточная
 
 -lexeme
  lex: дары
- stem: дары.
+ stem: дары.|дари.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: порох
 
 -lexeme
@@ -15833,9 +15840,9 @@
 
 -lexeme
  lex: дугы
- stem: дугы.
+ stem: дугы.|дуги.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: рис
 
 -lexeme
@@ -16143,9 +16150,9 @@
 
 -lexeme
  lex: дурсы
- stem: дурсы.
+ stem: дурсы.|дурсӥ.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: 1. мошонка 2. кожаный кошель, кисет
 
 -lexeme
@@ -16157,16 +16164,16 @@
 
 -lexeme
  lex: дуры
- stem: дуры.
+ stem: дуры.|дури.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: деревянный черпак, половник
 
 -lexeme
  lex: дуры-тусьты
- stem: дуры-тусьты.
+ stem: дуры-тусьты.|дуры-тусьтӥ.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: посуда
 
 -lexeme
@@ -16199,9 +16206,9 @@
 
 -lexeme
  lex: дускы
- stem: дускы.
+ stem: дускы.|дуски.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: 1. гроздь 2. гребень
 
 -lexeme
@@ -16297,9 +16304,9 @@
 
 -lexeme
  lex: дыды
- stem: дыды.
+ stem: дыды.|дыдӥ.
  gramm: N,anim,hum
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: голубка; девочка, младшая сестра
 
 -lexeme
@@ -16332,16 +16339,9 @@
 
 -lexeme
  lex: дыльды
- stem: дыльды.
+ stem: дыльды.|дыльдӥ.
  gramm: N
- paradigm: Noun-num-vowel
- trans_ru: слюна
-
--lexeme
- lex: дыльды
- stem: дыльды.
- gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: слюна, слюни
 
 -lexeme
@@ -16424,9 +16424,9 @@
 
 -lexeme
  lex: дырды
- stem: дырды.
+ stem: дырды.|дырдӥ.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: жёлоб
 
 -lexeme
@@ -16648,9 +16648,9 @@
 
 -lexeme
  lex: дӥльды
- stem: дӥльды.
+ stem: дӥльды.|дӥльдӥ.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: слюна
 
 -lexeme
@@ -16788,9 +16788,9 @@
 
 -lexeme
  lex: дӧдьы
- stem: дӧдьы.
+ stem: дӧдьы.|дӧди.
  gramm: N,transport
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: сани, санки
 
 -lexeme
@@ -16907,9 +16907,9 @@
 
 -lexeme
  lex: езтылпульы
- stem: езтылпульы.
+ stem: езтылпульы.|езтылпули.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: лампочка
 
 -lexeme
@@ -16981,6 +16981,13 @@
  gramm: N,anim,hum
  paradigm: Noun-num-vowel
  trans_ru: непоседа, юла, егоза
+
+-lexeme
+ lex: печка
+ stem: печка.
+ gramm: N,rus
+ paradigm: Noun-num-vowel
+ trans_ru: печка
 
 -lexeme
  lex: ерунда
@@ -17306,9 +17313,9 @@
 
 -lexeme
  lex: жильы
- stem: жильы.//жыльы.
+ stem: жильы.//жыльы.|жильи.//жыли.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: цепь, цепочка
 
 -lexeme
@@ -18083,9 +18090,9 @@
 
 -lexeme
  lex: золтонбоды
- stem: золтонбоды.
+ stem: золтонбоды.|золтонбодӥ.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: текст. притужальник
 
 -lexeme
@@ -18104,9 +18111,9 @@
 
 -lexeme
  lex: золы
- stem: золы.
+ stem: золы.|золӥ.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: ряд снопов
 
 -lexeme
@@ -18202,16 +18209,16 @@
 
 -lexeme
  lex: зоркакы
- stem: зоркакы.
+ stem: зоркакы.|зоркаки.
  gramm: N,anim
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: божья коровка
 
 -lexeme
  lex: зоркибы
- stem: зоркибы.
+ stem: зоркибы.|зоркиби.
  gramm: N,anim
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: божья коровка
 
 -lexeme
@@ -18223,9 +18230,9 @@
 
 -lexeme
  lex: зорлобы
- stem: зорлобы.
+ stem: зорлобы.|зорлоби.
  gramm: N,anim
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: божья коровка
 
 -lexeme
@@ -18237,9 +18244,9 @@
 
 -lexeme
  lex: зорпӧськы
- stem: зорпӧськы.
+ stem: зорпӧськы.|зорпӧськи.
  gramm: N,anim
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: стриж, ласточка
 
 -lexeme
@@ -18342,9 +18349,9 @@
 
 -lexeme
  lex: зурмайсы
- stem: зурмайсы.
+ stem: зурмайсы.|зурмайсӥ.
  gramm: N,anim
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: трутень шмеля
 
 -lexeme
@@ -18385,9 +18392,9 @@
 
 -lexeme
  lex: зынкакы
- stem: зынкакы.
+ stem: зынкакы.|зынкаки.
  gramm: N,anim
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: клоп полевой
 
 -lexeme
@@ -18504,9 +18511,9 @@
 
 -lexeme
  lex: зяны
- stem: зяны.
+ stem: зяны.|зянӥ.
  gramm: N,anim
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: паук водяной
 
 -lexeme
@@ -18763,9 +18770,9 @@
 
 -lexeme
  lex: извыжы
- stem: извыжы.
+ stem: извыжы.|извыжи.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: геол. порода, руда
 
 -lexeme
@@ -18819,9 +18826,9 @@
 
 -lexeme
  lex: изкӧльы
- stem: изкӧльы.
+ stem: изкӧльы.|изкӧли.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: кремень
 
 -lexeme
@@ -18931,16 +18938,16 @@
 
 -lexeme
  lex: изьы
- stem: изьы.//ызьы.
+ stem: изьы.//ызьы.|изи.//ызи.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: шапка, колпак
 
 -lexeme
  lex: изьы-пӧзьы
- stem: изьы-пӧзьы.
+ stem: изьы-пӧзьы.|изьы-пӧзи.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: собир. шапка и рукавицы
 
 -lexeme
@@ -19001,9 +19008,9 @@
 
 -lexeme
  lex: ильгы
- stem: ильгы.
+ stem: ильгы.|ильги.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: узор
 
 -lexeme
@@ -19351,9 +19358,9 @@
 
 -lexeme
  lex: инкӧльы
- stem: инкӧльы.
+ stem: инкӧльы.|инкӧли.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: шаровая молния, 2. атом, элементарная частица 3. метеорит
 
 -lexeme
@@ -19422,16 +19429,16 @@
 
 -lexeme
  lex: инпурты
- stem: инпурты.
+ stem: инпурты.|инпуртӥ.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: небосвод
 
 -lexeme
  lex: инпыры
- stem: инпыры.
+ stem: инпыры.|инпыри.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: 1.молекула, 2. атом, 3. элементарная частица
 
 -lexeme
@@ -19597,9 +19604,9 @@
 
 -lexeme
  lex: инты
- stem: инты.
+ stem: инты.|интӥ.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: 1. место, местность, адрес 2. пространство, часть пространства, 
 
 -lexeme
@@ -19730,9 +19737,9 @@
 
 -lexeme
  lex: инӟы
- stem: инӟы.
+ stem: инӟы.|инӟи.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: жемчуг, перламутр
 
 -lexeme
@@ -19863,9 +19870,9 @@
 
 -lexeme
  lex: исы
- stem: исы.
+ stem: исы.|исӥ.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: большой улит
 
 -lexeme
@@ -20052,9 +20059,9 @@
 
 -lexeme
  lex: йыгы
- stem: йыгы.
+ stem: йыгы.|йыги.
  gramm: N,body
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: головка (детск.)
 
 -lexeme
@@ -20073,9 +20080,9 @@
 
 -lexeme
  lex: йыды
- stem: йыды.
+ stem: йыды.|йыдӥ.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: ячмень
 
 -lexeme
@@ -20101,9 +20108,9 @@
 
 -lexeme
  lex: йылксы
- stem: йылксы.
+ stem: йылксы.|йылксӥ.
  gramm: N,anim,hum
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: дурак, непослушный
 
 -lexeme
@@ -20316,9 +20323,9 @@
 
 -lexeme
  lex: йыркобы
- stem: йыркобы.
+ stem: йыркобы.|йыркоби.
  gramm: N,body
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: череп, черепная коробка
 
 -lexeme
@@ -20359,9 +20366,9 @@
 
 -lexeme
  lex: йырмульы
- stem: йырмульы.
+ stem: йырмульы.|йырмули.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: клюква
 
 -lexeme
@@ -20403,9 +20410,9 @@
 
 -lexeme
  lex: йырпы
- stem: йырпы.
+ stem: йырпы.|йырпи.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: ловушка для птиц
 
 -lexeme
@@ -20482,9 +20489,9 @@
 
 -lexeme
  lex: йыртусьты
- stem: йыртусьты.
+ stem: йыртусьты.|йыртусьтӥ.
  gramm: N,body
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: череп
 
 -lexeme
@@ -20755,9 +20762,9 @@
 
 -lexeme
  lex: йӧны
- stem: йӧны.
+ stem: йӧны.|йӧнӥ.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: 1. осот 2. бодяк, чертополох
 
 -lexeme
@@ -21044,9 +21051,9 @@
 
 -lexeme
  lex: кадьыгы
- stem: кадьыгы.
+ stem: кадьыгы.|кадьыги.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: нагрудник
 
 -lexeme
@@ -21081,9 +21088,9 @@
 
 -lexeme
  lex: казаузы
- stem: казаузы.
+ stem: казаузы.|казаузӥ.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: мужские цветы у ели, молодые побеги на хвойных деревьях
 
 -lexeme
@@ -21278,9 +21285,16 @@
 -lexeme
  lex: какы
  stem: какы.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: букашка, букашки
+
+-lexeme
+ lex: какы
+ stem: какы.
  gramm: N
  paradigm: Noun-num-vowel
- trans_ru: букашка, букашки 2. свербига полевая
+ trans_ru: свербига полевая
 
 -lexeme
  lex: какыньыл
@@ -21503,9 +21517,9 @@
 
 -lexeme
  lex: калыквыжы
- stem: калыквыжы.
+ stem: калыквыжы.|калыквыжи.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: 1. род, племя, династия 2. нация
 
 -lexeme
@@ -22589,9 +22603,9 @@
 
 -lexeme
  lex: каталгы
- stem: каталгы.
+ stem: каталгы.|каталги.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: валёк, рубель обл.
 
 -lexeme
@@ -22786,16 +22800,9 @@
 
 -lexeme
  lex: качы
- stem: качы.
+ stem: качы.|качи.
  gramm: N
- paradigm: Noun-num-vowel
- trans_ru: ножницы
-
--lexeme
- lex: качы
- stem: качы.
- gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: ножницы
 
 -lexeme
@@ -22954,9 +22961,9 @@
 
 -lexeme
  lex: кеды
- stem: кеды.
+ stem: кеды.|кедӥ.
  gramm: N,rus
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: кеды
 
 -lexeme
@@ -22989,9 +22996,9 @@
 
 -lexeme
  lex: кезьы
- stem: кезьы.
+ stem: кезьы.|кези.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: бумажные нитки
 
 -lexeme
@@ -23503,9 +23510,9 @@
 
 -lexeme
  lex: кибашлы
- stem: кибашлы.
+ stem: кибашлы.|кибашлӥ.
  gramm: N,anim,hum
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: мастер
 
 -lexeme
@@ -23524,9 +23531,9 @@
 
 -lexeme
  lex: кибы
- stem: кибы.
+ stem: кибы.|киби.
  gramm: N,anim
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: насекомое
 
 -lexeme
@@ -23657,9 +23664,9 @@
 
 -lexeme
  lex: кизьы
- stem: кизьы.
+ stem: кизьы.|кизи.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: хлопчатобумажная ткань
 
 -lexeme
@@ -23692,16 +23699,16 @@
 
 -lexeme
  lex: кикы
- stem: кикы.
+ stem: кикы.|кики.
  gramm: N,anim
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: кукушка
 
 -lexeme
  lex: кикы
- stem: кикы.
+ stem: кикы.|кики.
  gramm: N,body
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: ручонка, ручка
 
 -lexeme
@@ -23713,9 +23720,9 @@
 
 -lexeme
  lex: кикыпуньы
- stem: кикыпуньы.
+ stem: кикыпуньы.|кикыпуни.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: корень папоротника
 
 -lexeme
@@ -24296,9 +24303,9 @@
 
 -lexeme
  lex: кисы
- stem: кисы.
+ stem: кисы.|кисӥ.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: карман
 
 -lexeme
@@ -24443,9 +24450,9 @@
 
 -lexeme
  lex: кичкы
- stem: кичкы.
+ stem: кичкы.|кички.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: почка (вербы)
 
 -lexeme
@@ -24863,9 +24870,9 @@
 
 -lexeme
  lex: кобы
- stem: кобы.
+ stem: кобы.|коби.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: ковш
 
 -lexeme
@@ -24884,9 +24891,9 @@
 
 -lexeme
  lex: ковырсьы
- stem: ковырсьы.
+ stem: ковырсьы.|ковырси.
  gramm: N,body
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: ягодицы
 
 -lexeme
@@ -25129,9 +25136,9 @@
 
 -lexeme
  lex: колды
- stem: колды.
+ stem: колды.|колдӥ.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: каравай
 
 -lexeme
@@ -26116,9 +26123,9 @@
 
 -lexeme
  lex: коншуды
- stem: коншуды.
+ stem: коншуды.|коншудӥ.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: лебеда
 
 -lexeme
@@ -26151,9 +26158,9 @@
 
 -lexeme
  lex: коньы
- stem: коньы.
+ stem: коньы.|кони.
  gramm: N,anim
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: белка
 
 -lexeme
@@ -26670,9 +26677,9 @@
 
 -lexeme
  lex: коскы
- stem: коскы.
+ stem: коскы.|коски.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: 1. лубяной короб 2. лоток, сельница
 
 -lexeme
@@ -27412,9 +27419,9 @@
 
 -lexeme
  lex: куалялюльы
- stem: куалялюльы.
+ stem: куалялюльы.|куалялюли.
  gramm: N,anim
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: улитка, слизняк
 
 -lexeme
@@ -27461,9 +27468,9 @@
 
 -lexeme
  lex: куапӧськы
- stem: куапӧськы.
+ stem: куапӧськы.|куапӧськи.
  gramm: N,anim
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: 1. стриж 2. деревенская ласточка + ласточка
 
 -lexeme
@@ -27615,9 +27622,9 @@
 
 -lexeme
  lex: куатапуйы
- stem: куатапуйы.
+ stem: куатапуйы.|куатапуйи.
  gramm: N,anim,hum
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: капризуля
 
 -lexeme
@@ -27769,16 +27776,16 @@
 
 -lexeme
  lex: куды
- stem: куды.
+ stem: куды.|кудӥ.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: околоцветник
 
 -lexeme
  lex: кудымульы
- stem: кудымульы.
+ stem: кудымульы.|кудымули.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: черника
 
 -lexeme
@@ -27861,9 +27868,9 @@
 
 -lexeme
  lex: кузгы
- stem: кузгы.
+ stem: кузгы.|кузги.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: зеркало
 
 -lexeme
@@ -28100,9 +28107,9 @@
 
 -lexeme
  lex: куйкы
- stem: куйкы.
+ stem: куйкы.|куйки.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: горе, забота, печаль
 
 -lexeme
@@ -28128,23 +28135,23 @@
 
 -lexeme
  lex: куйты
- stem: куйты.
+ stem: куйты.|куйтӥ.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: стадо, отара, табун, стая, косяк
 
 -lexeme
  lex: куйчы
- stem: куйчы.
+ stem: куйчы.|куйчи.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: колодец
 
 -lexeme
  lex: куйы
- stem: куйы.
+ stem: куйы.|куйи.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: колодец
 
 -lexeme
@@ -28521,9 +28528,9 @@
 
 -lexeme
  lex: кумы
- stem: кумы.
+ stem: кумы.|куми.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: рыб. жерлица
 
 -lexeme
@@ -29028,9 +29035,9 @@
 
 -lexeme
  lex: курмы
- stem: курмы.
+ stem: курмы.|курми.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: корочка, корка
 
 -lexeme
@@ -29077,9 +29084,9 @@
 
 -lexeme
  lex: курпы
- stem: курпы.
+ stem: курпы.|курпи.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: отава
 
 -lexeme
@@ -29119,16 +29126,16 @@
 
 -lexeme
  lex: курткы
- stem: курткы.
+ stem: курткы.|куртки.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: муравейник
 
 -lexeme
  lex: куртшангы
- stem: куртшангы.
+ stem: куртшангы.|куртшанги.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: парша, паршивый
 
 -lexeme
@@ -29147,9 +29154,9 @@
 
 -lexeme
  lex: куры
- stem: куры.
+ stem: куры.|кури.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: медное кольцо
 
 -lexeme
@@ -29161,9 +29168,9 @@
 
 -lexeme
  lex: курытгумы
- stem: курытгумы.
+ stem: курытгумы.|курытгуми.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: 1. сурепка 2. свербига восточная
 
 -lexeme
@@ -29211,9 +29218,9 @@
 
 -lexeme
  lex: куслангы
- stem: куслангы.
+ stem: куслангы.|кусланги.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: кольцо, верёвка
 
 -lexeme
@@ -29316,9 +29323,9 @@
 
 -lexeme
  lex: куты
- stem: куты.
+ stem: куты.|кутӥ.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: стадо, отара, табун, стая, косяк
 
 -lexeme
@@ -29344,9 +29351,9 @@
 
 -lexeme
  lex: кутьы
- stem: кутьы.
+ stem: кутьы.|кути.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: стадо, табун, отара
 
 -lexeme
@@ -29610,9 +29617,9 @@
 
 -lexeme
  lex: куӵы
- stem: куӵы.
+ stem: куӵы.|куӵи.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: кряж дров
 
 -lexeme
@@ -29639,9 +29646,9 @@
 
 -lexeme
  lex: кыды
- stem: кыды.
+ stem: кыды.|кыдӥ.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: желание, настроение
 
 -lexeme
@@ -29709,9 +29716,9 @@
 
 -lexeme
  lex: кызаузы
- stem: кызаузы.
+ stem: кызаузы.|кызаузӥ.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: молодые еловые побеги, северюха обл.
 
 -lexeme
@@ -29723,9 +29730,9 @@
 
 -lexeme
  lex: кызгы
- stem: кызгы.
+ stem: кызгы.|кызги.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: зеркало, покчи зеркальце
 
 -lexeme
@@ -29807,9 +29814,9 @@
 
 -lexeme
  lex: кыйбоды
- stem: кыйбоды.
+ stem: кыйбоды.|кыйбодӥ.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: татарник, чертополох
 
 -lexeme
@@ -30025,9 +30032,9 @@
 
 -lexeme
  lex: кылвыжы
- stem: кылвыжы.
+ stem: кылвыжы.|кылвыжи.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: 1. анат. корень языка 2. корень слова
 
 -lexeme
@@ -30340,9 +30347,9 @@
 
 -lexeme
  lex: кылтэчы
- stem: кылтэчы.
+ stem: кылтэчы.|кылтэчи.
  gramm: N,anim,hum
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: 1. говорун, лепетун 2. острый на язык, языкастый
 
 -lexeme
@@ -30531,9 +30538,9 @@
 
 -lexeme
  lex: кыпы
- stem: кыпы.
+ stem: кыпы.|кыпи.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: 1. колода, плавник 2. перен. увалень 3. валежник
 
 -lexeme
@@ -30847,9 +30854,9 @@
 
 -lexeme
  lex: кыты-мыты
- stem: кыты-мыты.
+ stem: кыты-мыты.|кыты-мытӥ.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: 1. кое-что 2. мелочь, мелкое дело
 
 -lexeme
@@ -31017,9 +31024,9 @@
 
 -lexeme
  lex: кӧжы
- stem: кӧжы.
+ stem: кӧжы.|кӧжи.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: горох
 
 -lexeme
@@ -31061,16 +31068,16 @@
 
 -lexeme
  lex: кӧйы
- stem: кӧйы.
+ stem: кӧйы.|кӧйи.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: колодец
 
 -lexeme
  lex: кӧйӵыжы
- stem: кӧйӵыжы.
+ stem: кӧйӵыжы.|кӧйӵыжи.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: шкварки, вытопки сала
 
 -lexeme
@@ -31082,9 +31089,9 @@
 
 -lexeme
  lex: кӧкы
- stem: кӧкы.
+ stem: кӧкы.|кӧки.
  gramm: N,body
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: грудная клетка
 
 -lexeme
@@ -31124,9 +31131,9 @@
 
 -lexeme
  lex: кӧльы
- stem: кӧльы.
+ stem: кӧльы.|кӧли.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: галька, гравий, щебень; косточка
 
 -lexeme
@@ -31279,9 +31286,9 @@
 
 -lexeme
  lex: кӧспужы
- stem: кӧспужы.
+ stem: кӧспужы.|кӧспужи.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: парша
 
 -lexeme
@@ -31336,9 +31343,9 @@
 
 -lexeme
  lex: кӧтгогы
- stem: кӧтгогы.
+ stem: кӧтгогы.|кӧтгоги.
  gramm: N,body
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: пупок, пуп
 
 -lexeme
@@ -31417,9 +31424,9 @@
 
 -lexeme
  lex: кӧтулгозы
- stem: кӧтулгозы.
+ stem: кӧтулгозы.|кӧтулгозӥ.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: 1. подбрюшник 2. подпруга
 
 -lexeme
@@ -32194,16 +32201,16 @@
 
 -lexeme
  lex: лемиськӧжы
- stem: лемиськӧжы.
+ stem: лемиськӧжы.|лемиськӧжи.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: бобы
 
 -lexeme
  lex: лемичкӧжы
- stem: лемичкӧжы.
+ stem: лемичкӧжы.|лемичкӧжи.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: бобы
 
 -lexeme
@@ -32831,9 +32838,9 @@
 
 -lexeme
  lex: лобы
- stem: лобы.
+ stem: лобы.|лоби.
  gramm: N,anim
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: божья коровка
 
 -lexeme
@@ -33034,9 +33041,9 @@
 
 -lexeme
  lex: лочы
- stem: лочы.
+ stem: лочы.|лочи.
  gramm: N,anim
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: седун
 
 -lexeme
@@ -33104,9 +33111,9 @@
 
 -lexeme
  lex: лудсезьы
- stem: лудсезьы.
+ stem: лудсезьы.|лудсези.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: овсяница луговая
 
 -lexeme
@@ -33260,9 +33267,9 @@
 
 -lexeme
  lex: лулпыры
- stem: лулпыры.
+ stem: лулпыры.|лулпыри.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: клетка
 
 -lexeme
@@ -33464,9 +33471,9 @@
 
 -lexeme
  lex: лыгы
- stem: лыгы.
+ stem: лыгы.|лыги.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: перхоть
 
 -lexeme
@@ -33563,9 +33570,9 @@
 
 -lexeme
  lex: лызпыӵы
- stem: лызпыӵы.
+ stem: лызпыӵы.|лызпыӵи.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: мята; душица
 
 -lexeme
@@ -33585,9 +33592,9 @@
 
 -lexeme
  lex: лымы
- stem: лымы.
+ stem: лымы.|лыми.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: снег
 
 -lexeme
@@ -33599,9 +33606,9 @@
 
 -lexeme
  lex: лымыӟичы
- stem: лымыӟичы.
+ stem: лымыӟичы.|лымыӟичи.
  gramm: N,anim
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: полярная лисица
 
 -lexeme
@@ -33811,9 +33818,9 @@
 
 -lexeme
  lex: люмды
- stem: люмды.
+ stem: люмды.|люмдӥ.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: строчка, строка
 
 -lexeme
@@ -34042,9 +34049,9 @@
 
 -lexeme
  lex: лӧсворы
- stem: лӧсворы.
+ stem: лӧсворы.|лӧсвори.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: поперечные жерди, подставки
 
 -lexeme
@@ -34231,9 +34238,9 @@
 
 -lexeme
  lex: майсы
- stem: майсы.
+ stem: майсы.|майсӥ.
  gramm: N,anim
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: шмель
 
 -lexeme
@@ -34922,7 +34929,7 @@
  stem: мат.
  gramm: N,rus
  paradigm: Noun-num-consonant
- trans_ru: шахм. мат
+ trans_ru: мат
 
 -lexeme
  lex: математик
@@ -35143,9 +35150,9 @@
 
 -lexeme
  lex: медвыжы
- stem: медвыжы.
+ stem: медвыжы.|медвыжи.
  gramm: N,anim,hum
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: инородец
 
 -lexeme
@@ -35850,9 +35857,9 @@
 
 -lexeme
  lex: миколгумы
- stem: миколгумы.
+ stem: миколгумы.|миколгуми.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: свербига восточная
 
 -lexeme
@@ -36074,9 +36081,9 @@
 
 -lexeme
  lex: миндэрпуйы
- stem: миндэрпуйы.
+ stem: миндэрпуйы.|миндэрпуйи.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: наволочка
 
 -lexeme
@@ -36298,16 +36305,16 @@
 
 -lexeme
  lex: могдослы
- stem: могдослы.
+ stem: могдослы.|могдослӥ.
  gramm: N,anim,hum
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: остряк, находчивый
 
 -lexeme
  lex: могы
- stem: могы.
+ stem: могы.|моги.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: 1. кочерыжка 2. препятствие
 
 -lexeme
@@ -36964,9 +36971,9 @@
 
 -lexeme
  lex: мувӧлы
- stem: мувӧлы.
+ stem: мувӧлы.|мувӧлӥ.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: вал
 
 -lexeme
@@ -37168,9 +37175,9 @@
 
 -lexeme
  lex: музъеммульы
- stem: музъеммульы.
+ stem: музъеммульы.|музъеммули.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: арахис
 
 -lexeme
@@ -37189,9 +37196,9 @@
 
 -lexeme
  lex: музьы
- stem: музьы.
+ stem: музьы.|музи.
  gramm: N,anim,hum
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: подруга; любовница
 
 -lexeme
@@ -37245,9 +37252,9 @@
 
 -lexeme
  lex: муконьы
- stem: муконьы.
+ stem: муконьы.|мукони.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: древняя полосатая белка, бурундук
 
 -lexeme
@@ -37329,9 +37336,9 @@
 
 -lexeme
  lex: мульы
- stem: мульы.
+ stem: мульы.|мули.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: 1. ягода, плод, орех) 2. косточка 3. семя,орех
 
 -lexeme
@@ -37372,9 +37379,9 @@
 
 -lexeme
  lex: мумыгырлы
- stem: мумыгырлы.
+ stem: мумыгырлы.|мумыгырлӥ.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: пчел. маточник
 
 -lexeme
@@ -37760,9 +37767,9 @@
 
 -lexeme
  lex: мыдвыжы
- stem: мыдвыжы.
+ stem: мыдвыжы.|мыдвыжи.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: меньшинство
 
 -lexeme
@@ -38463,9 +38470,9 @@
 
 -lexeme
  lex: нарды
- stem: нарды.
+ stem: нарды.|нардӥ.
  gramm: N,anim
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: барсук
 
 -lexeme
@@ -39270,9 +39277,9 @@
 
 -lexeme
  lex: нугы
- stem: нугы.
+ stem: нугы.|нуги.
  gramm: N,anim,hum
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: дитятко моё
 
 -lexeme
@@ -39284,9 +39291,9 @@
 
 -lexeme
  lex: нуды
- stem: нуды.
+ stem: нуды.|нудӥ.
  gramm: N,anim,hum
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: младшая сестра мужа
 
 -lexeme
@@ -39377,9 +39384,9 @@
 
 -lexeme
  lex: нушы
- stem: нушы.
+ stem: нушы.|нуши.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: деревянная колотушка
 
 -lexeme
@@ -39472,16 +39479,16 @@
 
 -lexeme
  lex: нымы
- stem: нымы.
+ stem: нымы.|ными.
  gramm: N,anim
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: комар, мошка, мошкара
 
 -lexeme
  lex: нымы-кибы
- stem: нымы-кибы.
+ stem: нымы-кибы.|нымы-киби.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: мошкара
 
 -lexeme
@@ -39508,9 +39515,9 @@
 
 -lexeme
  lex: ныргозы
- stem: ныргозы.
+ stem: ныргозы.|ныргозӥ.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: верёвка передка повозки
 
 -lexeme
@@ -39565,9 +39572,9 @@
 
 -lexeme
  lex: нырпысы
- stem: нырпысы.
+ stem: нырпысы.|нырпысӥ.
  gramm: N,body
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: ноздря, ноздри
 
 -lexeme
@@ -39600,9 +39607,9 @@
 
 -lexeme
  lex: ныччайы
- stem: ныччайы.
+ stem: ныччайы.|ныччайи.
  gramm: N,anim
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: хорёк, хорь
 
 -lexeme
@@ -39749,9 +39756,9 @@
 
 -lexeme
  lex: нюжгы
- stem: нюжгы.
+ stem: нюжгы.|нюжги.
  gramm: N,anim,hum
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: тихоня, медлительный, нерасторопный
 
 -lexeme
@@ -39933,9 +39940,9 @@
 
 -lexeme
  lex: нюрмульы
- stem: нюрмульы.
+ stem: нюрмульы.|нюрмули.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: клюква
 
 -lexeme
@@ -40101,16 +40108,16 @@
 
 -lexeme
  lex: нӧкы
- stem: нӧкы.
+ stem: нӧкы.|нӧки.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: сметана
 
 -lexeme
  lex: нӧрдмы
- stem: нӧрдмы.
+ stem: нӧрдмы.|нӧрдми.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: икра
 
 -lexeme
@@ -40738,9 +40745,9 @@
 
 -lexeme
  lex: ожбусы
- stem: ожбусы.
+ stem: ожбусы.|ожбусӥ.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: поле битвы, сражения
 
 -lexeme
@@ -40795,9 +40802,9 @@
 
 -lexeme
  lex: ожнушы
- stem: ожнушы.
+ stem: ожнушы.|ожнуши.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: 1. ист. булава 2. початок камыша
 
 -lexeme
@@ -41042,9 +41049,9 @@
 
 -lexeme
  lex: онгы
- stem: онгы.
+ stem: онгы.|онги.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: петли у лаптей для продевания веревок
 
 -lexeme
@@ -43130,9 +43137,9 @@
 
 -lexeme
  lex: пашпумульы
- stem: пашпумульы.
+ stem: пашпумульы.|пашпумули.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: орех
 
 -lexeme
@@ -43439,16 +43446,16 @@
 
 -lexeme
  lex: пельугы
- stem: пельугы.
+ stem: пельугы.|пельуги.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: серьга, серьги
 
 -lexeme
  lex: пельӟускы
- stem: пельӟускы.
+ stem: пельӟускы.|пельӟуски.
  gramm: N,body
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: мочки уха, мочка уха
 
 -lexeme
@@ -44230,9 +44237,9 @@
 
 -lexeme
  lex: пилинӟы
- stem: пилинӟы.
+ stem: пилинӟы.|пилинӟи.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: 1. бисер 2. жемчуг, жемчужина 3. перламутр, перламутровые пуговицы
 
 -lexeme
@@ -44323,9 +44330,9 @@
 
 -lexeme
  lex: пиньвыжы
- stem: пиньвыжы.
+ stem: пиньвыжы.|пиньвыжи.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: корень зуба; десна
 
 -lexeme
@@ -44583,16 +44590,16 @@
 
 -lexeme
  lex: писэйкӧжы
- stem: писэйкӧжы.
+ stem: писэйкӧжы.|писэйкӧжи.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: просвирняк
 
 -lexeme
  lex: писэймульы
- stem: писэймульы.
+ stem: писэймульы.|писэймули.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: паслен черный
 
 -lexeme
@@ -44716,9 +44723,9 @@
 
 -lexeme
  lex: пиштӥсьбӧчы
- stem: пиштӥсьбӧчы.
+ stem: пиштӥсьбӧчы.|пиштӥсьбӧчи.
  gramm: N,anim
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: светляк, светлячок
 
 -lexeme
@@ -44751,9 +44758,9 @@
 
 -lexeme
  lex: пиӝыжы
- stem: пиӝыжы.
+ stem: пиӝыжы.|пиӝыжи.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: зачатки перьев, пеньки
 
 -lexeme
@@ -45584,9 +45591,9 @@
 
 -lexeme
  lex: подушкапуйы
- stem: подушкапуйы.
+ stem: подушкапуйы.|подушкапуйи.
  gramm: N,rus
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: наволочка
 
 -lexeme
@@ -46291,9 +46298,9 @@
 
 -lexeme
  lex: поркузьы
- stem: поркузьы.
+ stem: поркузьы.|поркузи.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: щавель, кислица обл.
 
 -lexeme
@@ -46316,6 +46323,20 @@
  gramm: N,rus
  paradigm: Noun-num-vowel
  trans_ru: порода
+
+-lexeme
+ lex: сковорода
+ stem: сковорода.
+ gramm: N,rus
+ paradigm: Noun-num-vowel
+ trans_ru: сковорода
+
+-lexeme
+ lex: сковородка
+ stem: сковородка.
+ gramm: N,rus
+ paradigm: Noun-num-vowel
+ trans_ru: сковородка
 
 -lexeme
  lex: пороз
@@ -46403,9 +46424,9 @@
 
 -lexeme
  lex: поры
- stem: поры.
+ stem: поры.|пори.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: 1. мутовка 2. вихор, клок, прядь торчащих волос 3. кольцо aву ~ водоворот
 
 -lexeme
@@ -47971,16 +47992,16 @@
 
 -lexeme
  lex: пубы
- stem: пубы.
+ stem: пубы.|пуби.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: ножка
 
 -lexeme
  lex: пугырлы
- stem: пугырлы.
+ stem: пугырлы.|пугырлӥ.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: 1. колотушка 2. перен. пустомеля, пустозвон
 
 -lexeme
@@ -48083,9 +48104,9 @@
 
 -lexeme
  lex: пужы
- stem: пужы.
+ stem: пужы.|пужи.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: 1. корь 2. веснушки
 
 -lexeme
@@ -48139,9 +48160,9 @@
 
 -lexeme
  lex: пуйы
- stem: пуйы.
+ stem: пуйы.|пуйи.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: мешочек, сумочка, сумка, сума
 
 -lexeme
@@ -48230,9 +48251,9 @@
 
 -lexeme
  lex: пукы
- stem: пукы.
+ stem: пукы.|пуки.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: поплавок
 
 -lexeme
@@ -48342,9 +48363,9 @@
 
 -lexeme
  lex: пульы
- stem: пульы.
+ stem: пульы.|пули.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: пузырь, волдырь, мозоль
 
 -lexeme
@@ -48413,9 +48434,9 @@
 
 -lexeme
  lex: пумпы
- stem: пумпы.
+ stem: пумпы.|пумпи.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: короткая деревянная труба
 
 -lexeme
@@ -48455,9 +48476,9 @@
 
 -lexeme
  lex: пуныжильы
- stem: пуныжильы.
+ stem: пуныжильы.|пуныжили.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: одуванчик
 
 -lexeme
@@ -48490,16 +48511,16 @@
 
 -lexeme
  lex: пунылюгы
- stem: пунылюгы.
+ stem: пунылюгы.|пунылюги.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: липучка, череда
 
 -lexeme
  lex: пунымульы
- stem: пунымульы.
+ stem: пунымульы.|пунымули.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: волчьи ягоды, волчье лыко
 
 -lexeme
@@ -48525,9 +48546,9 @@
 
 -lexeme
  lex: пуньы
- stem: пуньы.
+ stem: пуньы.|пуни.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: ложка
 
 -lexeme
@@ -48581,9 +48602,9 @@
 
 -lexeme
  lex: пуппы
- stem: пуппы.
+ stem: пуппы.|пуппи.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: окорённая молодая липка, лутошка обл.
 
 -lexeme
@@ -48624,9 +48645,9 @@
 
 -lexeme
  lex: пурты
- stem: пурты.
+ stem: пурты.|пуртӥ.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: котёл
 
 -lexeme
@@ -48652,9 +48673,9 @@
 
 -lexeme
  lex: пуры
- stem: пуры.
+ stem: пуры.|пури.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: 1. гроздь, кисть, 2. пучок ягод или цветов
 
 -lexeme
@@ -48785,9 +48806,9 @@
 
 -lexeme
  lex: пучы
- stem: пучы.
+ stem: пучы.|пучи.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: почка верба
 
 -lexeme
@@ -48842,9 +48863,9 @@
 
 -lexeme
  lex: пушмульы
- stem: пушмульы.
+ stem: пушмульы.|пушмули.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: орех
 
 -lexeme
@@ -48927,10 +48948,10 @@
 
 -lexeme
  lex: пушты
- stem: пушты.
+ stem: пушты.|пуштӥ.
  gramm: N
- paradigm: Noun-num-vowel
- trans_ru: пю., толокно
+ paradigm: Noun-num-vowel-dial-iy
+ trans_ru: толокно
 
 -lexeme
  lex: пушуж
@@ -49157,9 +49178,9 @@
 
 -lexeme
  lex: пыдчиньы
- stem: пыдчиньы.
+ stem: пыдчиньы.|пыдчини.
  gramm: N,body
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: пальцы ног
 
 -lexeme
@@ -49171,9 +49192,9 @@
 
 -lexeme
  lex: пыдчӧльы
- stem: пыдчӧльы.
+ stem: пыдчӧльы.|пыдчӧли.
  gramm: N,body
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: мизинец
 
 -lexeme
@@ -49192,9 +49213,9 @@
 
 -lexeme
  lex: пыды
- stem: пыды.
+ stem: пыды.|пыдӥ.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: 1. барда, гуща 2. осадок
 
 -lexeme
@@ -49312,9 +49333,9 @@
 
 -lexeme
  lex: пыныжыльы
- stem: пыныжыльы.
+ stem: пыныжыльы.|пыныжыли.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: одуванчик
 
 -lexeme
@@ -49326,16 +49347,16 @@
 
 -lexeme
  lex: пырлымы
- stem: пырлымы.
+ stem: пырлымы.|пырлыми.
  gramm: N,anim
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: мошкара
 
 -lexeme
  lex: пырнымы
- stem: пырнымы.
+ stem: пырнымы.|пырными.
  gramm: N,anim
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: 1. мошкара 2. комар
 
 -lexeme
@@ -49368,9 +49389,9 @@
 
 -lexeme
  lex: пыры
- stem: пыры.
+ stem: пыры.|пыри.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: крошка, крупинка 2. частица
 
 -lexeme
@@ -49382,9 +49403,9 @@
 
 -lexeme
  lex: пыскы
- stem: пыскы.
+ stem: пыскы.|пыски.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: пила
 
 -lexeme
@@ -49417,9 +49438,9 @@
 
 -lexeme
  lex: пытьы
- stem: пытьы.
+ stem: пытьы.|пыти.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: след, следы, отпечаток
 
 -lexeme
@@ -49501,9 +49522,9 @@
 
 -lexeme
  lex: пыӵы
- stem: пыӵы.
+ stem: пыӵы.|пыӵи.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: душица
 
 -lexeme
@@ -49691,9 +49712,9 @@
 
 -lexeme
  lex: пӧршы
- stem: пӧршы.
+ stem: пӧршы.|пӧрши.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: вихрь
 
 -lexeme
@@ -49705,9 +49726,9 @@
 
 -lexeme
  lex: пӧськы
- stem: пӧськы.
+ stem: пӧськы.|пӧськи.
  gramm: N,anim
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: 1. стриж 2. ласточка
 
 -lexeme
@@ -52213,9 +52234,9 @@
 
 -lexeme
  lex: сапопды
- stem: сапопды.
+ stem: сапопды.|сапопдӥ.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: цепь
 
 -lexeme
@@ -52628,9 +52649,9 @@
 
 -lexeme
  lex: сезьы
- stem: сезьы.
+ stem: сезьы.|сези.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: овёс
 
 -lexeme
@@ -53013,9 +53034,9 @@
 
 -lexeme
  lex: серемпыры
- stem: серемпыры.
+ stem: серемпыры.|серемпыри.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: повод для смеха
 
 -lexeme
@@ -53055,9 +53076,9 @@
 
 -lexeme
  lex: серы
- stem: серы.
+ stem: серы.|сери.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: текст. шпулька, цевка
 
 -lexeme
@@ -53104,9 +53125,9 @@
 
 -lexeme
  lex: сеты
- stem: сеты.
+ stem: сеты.|сетӥ.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: украшение для косы, девичий накосник
 
 -lexeme
@@ -53153,9 +53174,9 @@
 
 -lexeme
  lex: сибы
- stem: сибы.
+ stem: сибы.|сиби.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: даль, далекий край
 
 -lexeme
@@ -53481,9 +53502,9 @@
 
 -lexeme
  lex: синкӧльы
- stem: синкӧльы.
+ stem: синкӧльы.|синкӧли.
  gramm: N,body
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  paradigm: Noun-num-consonant-y
  trans_ru: глазное яблоко
 
@@ -53847,9 +53868,9 @@
 
 -lexeme
  lex: скалйыргумы
- stem: скалйыргумы.
+ stem: скалйыргумы.|скалйыргуми.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: сныть обыкновенная
 
 -lexeme
@@ -54358,9 +54379,9 @@
 
 -lexeme
  lex: согы
- stem: согы.
+ stem: согы.|соги.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: щётка, чесалка
 
 -lexeme
@@ -54932,9 +54953,9 @@
 
 -lexeme
  lex: сузы-пыры
- stem: сузы-пыры.
+ stem: сузы-пыры.|сузы-пыри.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: мелкие осколки
 
 -lexeme
@@ -54946,9 +54967,9 @@
 
 -lexeme
  lex: сузьгы
- stem: сузьгы.
+ stem: сузьгы.|сузьги.
  gramm: N,body
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: подбородок
 
 -lexeme
@@ -54974,9 +54995,9 @@
 
 -lexeme
  lex: сузьлы
- stem: сузьлы.
+ stem: сузьлы.|сузьлӥ.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: кочедык
 
 -lexeme
@@ -55269,9 +55290,9 @@
 
 -lexeme
  lex: суредпужы
- stem: суредпужы.
+ stem: суредпужы.|суредпужи.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: роман в картинках, комикс
 
 -lexeme
@@ -55283,9 +55304,9 @@
 
 -lexeme
  lex: суретвыжы
- stem: суретвыжы.
+ stem: суретвыжы.|суретвыжи.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: гибрид, скрещенный
 
 -lexeme
@@ -55395,9 +55416,9 @@
 
 -lexeme
  lex: сусыпумульы
- stem: сусыпумульы.
+ stem: сусыпумульы.|сусыпумули.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: ягоды можжевельника
 
 -lexeme
@@ -55521,9 +55542,9 @@
 
 -lexeme
  lex: сыбызгы
- stem: сыбызгы.
+ stem: сыбызгы.|сыбызги.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: дудка, дуда, свирель
 
 -lexeme
@@ -55731,9 +55752,9 @@
 
 -lexeme
  lex: сьӧдкӧжы
- stem: сьӧдкӧжы.
+ stem: сьӧдкӧжы.|сьӧдкӧжи.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: бобы
 
 -lexeme
@@ -55752,9 +55773,9 @@
 
 -lexeme
  lex: сьӧдмульы
- stem: сьӧдмульы.
+ stem: сьӧдмульы.|сьӧдмули.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: 1. черника 2. паслён чёрный
 
 -lexeme
@@ -56062,9 +56083,9 @@
 
 -lexeme
  lex: сюлы
- stem: сюлы.
+ stem: сюлы.|сюлӥ.
  gramm: N,anim
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: кряква
 
 -lexeme
@@ -56247,9 +56268,9 @@
 
 -lexeme
  lex: сюры
- stem: сюры.
+ stem: сюры.|сюри.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: 1. перекладина, шест 2. насест 3. оцеп 4. стр. слега
 
 -lexeme
@@ -56303,9 +56324,9 @@
 
 -lexeme
  lex: сябы
- stem: сябы.
+ stem: сябы.|сяби.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: ограда, заграждение
 
 -lexeme
@@ -56367,16 +56388,9 @@
 
 -lexeme
  lex: сяртчы
- stem: сяртчы.
+ stem: сяртчы.|сяртчи.
  gramm: N
- paradigm: Noun-num-vowel
- trans_ru: репа
-
--lexeme
- lex: сяртчы
- stem: сяртчы.
- gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: репа
 
 -lexeme
@@ -56587,9 +56601,9 @@
 
 -lexeme
  lex: сӥтьпужы
- stem: сӥтьпужы.
+ stem: сӥтьпужы.|сӥтьпужи.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: веснушки
 
 -lexeme
@@ -56630,9 +56644,9 @@
 
 -lexeme
  lex: сӧзы
- stem: сӧзы.
+ stem: сӧзы.|сӧзӥ.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: 1. пола 2. голенище
 
 -lexeme
@@ -59123,9 +59137,9 @@
 
 -lexeme
  lex: турикӧжы
- stem: турикӧжы.
+ stem: турикӧжы.|турикӧжи.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: 1. чина лесная 2. лесной горошек
 
 -lexeme
@@ -59186,9 +59200,9 @@
 
 -lexeme
  lex: турлы
- stem: турлы.
+ stem: турлы.|турлӥ.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: разнообразие
 
 -lexeme
@@ -59263,9 +59277,9 @@
 
 -lexeme
  lex: туры
- stem: туры.
+ stem: туры.|тури.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: кружево, тюль
 
 -lexeme
@@ -59362,16 +59376,16 @@
 
 -lexeme
  lex: тусьты
- stem: тусьты.
+ stem: тусьты.|тусьтӥ.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: чашка, миска
 
 -lexeme
  lex: тусьты-пуньы
- stem: тусьты-пуньы.
+ stem: тусьты-пуньы.|тусьты-пуни.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: собир. кухонная посуда
 
 -lexeme
@@ -59512,9 +59526,9 @@
 
 -lexeme
  lex: тылгизьы
- stem: тылгизьы.
+ stem: тылгизьы.|тылгизи.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: искра, искорка
 
 -lexeme
@@ -59526,9 +59540,9 @@
 
 -lexeme
  lex: тылдурсы
- stem: тылдурсы.
+ stem: тылдурсы.|тылдурсӥ.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: кожаная сумочка, кожаный кошелёк
 
 -lexeme
@@ -59540,9 +59554,9 @@
 
 -lexeme
  lex: тылкачы
- stem: тылкачы.
+ stem: тылкачы.|тылкачи.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: щипцы для углей
 
 -lexeme
@@ -59575,9 +59589,9 @@
 
 -lexeme
  lex: тылпуйы
- stem: тылпуйы.
+ stem: тылпуйы.|тылпуйи.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: кошелёк, сумка для огнива
 
 -lexeme
@@ -59603,9 +59617,9 @@
 
 -lexeme
  lex: тылы
- stem: тылы.
+ stem: тылы.|тылӥ.
  gramm: N,body
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: перо
 
 -lexeme
@@ -59687,9 +59701,9 @@
 
 -lexeme
  lex: тыпы
- stem: тыпы.
+ stem: тыпы.|тыпи.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: дуб
 
 -lexeme
@@ -59715,9 +59729,9 @@
 
 -lexeme
  lex: тыпымульы
- stem: тыпымульы.
+ stem: тыпымульы.|тыпымули.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: жёлудь
 
 -lexeme
@@ -59757,9 +59771,9 @@
 
 -lexeme
  lex: тыркы
- stem: тыркы.
+ stem: тыркы.|тырки.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: молодая береза
 
 -lexeme
@@ -59856,9 +59870,9 @@
 
 -lexeme
  lex: тыш-боды
- stem: тыш-боды.
+ stem: тыш-боды.|тыш-бодӥ.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: тумак, палка
 
 -lexeme
@@ -59968,9 +59982,9 @@
 
 -lexeme
  lex: тэльы
- stem: тэльы.
+ stem: тэльы.|тэли.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: горячий, строптивый, непоседливый
 
 -lexeme
@@ -60003,9 +60017,9 @@
 
 -lexeme
  lex: тэркы
- stem: тэркы.
+ stem: тэркы.|тэрки.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: тарелка
 
 -lexeme
@@ -60059,9 +60073,9 @@
 
 -lexeme
  lex: тэчкы
- stem: тэчкы.
+ stem: тэчкы.|тэчки.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: личинка
 
 -lexeme
@@ -60073,9 +60087,9 @@
 
 -lexeme
  lex: тэчы
- stem: тэчы.
+ stem: тэчы.|тэчи.
  gramm: N,anim
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: обыкновенная чечетка
 
 -lexeme
@@ -60171,9 +60185,9 @@
 
 -lexeme
  lex: тырмы
- stem: тырмы.
+ stem: тырмы.|тырми.
  gramm: N,rus
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: тюрьма
 
 -lexeme
@@ -60417,9 +60431,9 @@
 
 -lexeme
  lex: тӧлы
- stem: тӧлы.
+ stem: тӧлы.|тӧлӥ.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: большая бочка
 
 -lexeme
@@ -60550,9 +60564,9 @@
 
 -lexeme
  lex: угы
- stem: угы.
+ stem: угы.|уги.
  gramm: N,anim
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: сыч, филин
 
 -lexeme
@@ -60690,9 +60704,9 @@
 
 -lexeme
  lex: уенкы
- stem: уенкы.
+ stem: уенкы.|уенки.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: разновидность ивы
 
 -lexeme
@@ -60951,16 +60965,16 @@
 
 -lexeme
  lex: узы
- stem: узы.
+ stem: узы.|узӥ.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: земляника
 
 -lexeme
  lex: узы-боры
- stem: узы-боры.
+ stem: узы-боры.|узы-бори.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: собир. земляника и клубника
 
 -lexeme
@@ -61035,16 +61049,16 @@
 
 -lexeme
  lex: узьыгумы
- stem: узьыгумы.
+ stem: узьыгумы.|узьыгуми.
  gramm: N
- paradigm: Noun-num-vowel
- trans_ru: 1.дягиль лесной, дудняк 2. флейта, труба
+ paradigm: Noun-num-vowel-dial-iy
+ trans_ru: дягиль лесной, дудняк
 
 -lexeme
  lex: узьыгумы
- stem: узьыгумы.
+ stem: узьыгумы.|узьыгуми.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: труба
 
 -lexeme
@@ -61183,9 +61197,9 @@
 
 -lexeme
  lex: уйсы
- stem: уйсы.
+ stem: уйсы.|уйсӥ.
  gramm: N,anim
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: неясыть, сова
 
 -lexeme
@@ -62107,9 +62121,9 @@
 
 -lexeme
  lex: усы
- stem: усы.
+ stem: усы.|усӥ.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: борона
 
 -lexeme
@@ -63381,9 +63395,9 @@
 
 -lexeme
  lex: ханты
- stem: ханты.
+ stem: ханты.|хантӥ.
  gramm: N,rus,anim,hum
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: ханты
 
 -lexeme
@@ -64053,9 +64067,9 @@
 
 -lexeme
  lex: чабы
- stem: чабы.
+ stem: чабы.|чаби.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: тын, изгородь, живая изгородь
 
 -lexeme
@@ -64067,9 +64081,9 @@
 
 -lexeme
  lex: чаганды
- stem: чаганды.
+ stem: чаганды.|чагандӥ.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: геры  плуг
 
 -lexeme
@@ -64095,9 +64109,9 @@
 
 -lexeme
  lex: чагы
- stem: чагы.
+ stem: чагы.|чаги.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: 1. донос, клевета 2. жалоба 3. чагу ябедничество
 
 -lexeme
@@ -64158,9 +64172,9 @@
 
 -lexeme
  lex: чайы
- stem: чайы.
+ stem: чайы.|чайи.
  gramm: N,anim
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: норка
 
 -lexeme
@@ -64312,9 +64326,9 @@
 
 -lexeme
  lex: чальды
- stem: чальды.
+ stem: чальды.|чальдӥ.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: ответвление, приток реки, оврага
 
 -lexeme
@@ -64361,9 +64375,9 @@
 
 -lexeme
  lex: чальы
- stem: чальы.
+ stem: чальы.|чали.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: ответвление лога, оврага
 
 -lexeme
@@ -64375,9 +64389,9 @@
 
 -lexeme
  lex: чанды
- stem: чанды.
+ stem: чанды.|чандӥ.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: ответвление реки, лога
 
 -lexeme
@@ -64396,9 +64410,9 @@
 
 -lexeme
  lex: чапкы
- stem: чапкы.
+ stem: чапкы.|чапки.
  gramm: N,body
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: 1. кисть руки 2. пощечина
 
 -lexeme
@@ -64473,9 +64487,9 @@
 
 -lexeme
  lex: чартчы
- stem: чартчы.
+ stem: чартчы.|чартчи.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: репа
 
 -lexeme
@@ -64669,9 +64683,9 @@
 
 -lexeme
  lex: чебы
- stem: чебы.
+ stem: чебы.|чеби.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: изгородь, плетень
 
 -lexeme
@@ -64935,9 +64949,9 @@
 
 -lexeme
  lex: черчы
- stem: черчы.
+ stem: черчы.|черчи.
  gramm: N,anim,hum
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: непоседа
 
 -lexeme
@@ -65096,9 +65110,9 @@
 
 -lexeme
  lex: чечы
- stem: чечы.
+ stem: чечы.|чечи.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: мёд
 
 -lexeme
@@ -65173,9 +65187,9 @@
 
 -lexeme
  lex: чибышкы
- stem: чибышкы.
+ stem: чибышкы.|чибышки.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: цыпки, угорь
 
 -lexeme
@@ -65201,9 +65215,9 @@
 
 -lexeme
  lex: чигы
- stem: чигы.
+ stem: чигы.|чиги.
  gramm: N,anim
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: овца, овечка
 
 -lexeme
@@ -65341,9 +65355,9 @@
 
 -lexeme
  lex: чимы
- stem: чимы.
+ stem: чимы.|чими.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: глазки, глаза; цветок льна; белое пятно
 
 -lexeme
@@ -65397,16 +65411,16 @@
 
 -lexeme
  lex: чиньы
- stem: чиньы.
+ stem: чиньы.|чини.
  gramm: N,body
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: палец
 
 -lexeme
  lex: чиньы-пӧлы
- stem: чиньы-пӧлы.
+ stem: чиньы-пӧлы.|чиньы-пӧлӥ.
  gramm: N,body
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: собир. пальцы
 
 -lexeme
@@ -65439,9 +65453,9 @@
 
 -lexeme
  lex: чипы
- stem: чипы.
+ stem: чипы.|чипи.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: цыпки
 
 -lexeme
@@ -65818,9 +65832,9 @@
 
 -lexeme
  lex: чулпы
- stem: чулпы.
+ stem: чулпы.|чулпи.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: накосник, прикрепляется к косе женщины
 
 -lexeme
@@ -65902,9 +65916,9 @@
 
 -lexeme
  lex: чуньы
- stem: чуньы.
+ stem: чуньы.|чуни.
  gramm: N,anim
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: жеребёнок
 
 -lexeme
@@ -66021,9 +66035,9 @@
 
 -lexeme
  lex: чучы
- stem: чучы.
+ stem: чучы.|чучи.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: гнойничок, прыщ, короста
 
 -lexeme
@@ -66049,9 +66063,9 @@
 
 -lexeme
  lex: чыжы-выжы
- stem: чыжы-выжы.//чыжывыжы.
+ stem: чыжы-выжы.//чыжывыжы.|чыжы-выжи.//чыжывыжи.
  gramm: N,anim,hum
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: дальний родственник
 
 -lexeme
@@ -66063,9 +66077,9 @@
 
 -lexeme
  lex: чыкы
- stem: чыкы.
+ stem: чыкы.|чыки.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: небольшая копна сена
 
 -lexeme
@@ -66196,9 +66210,9 @@
 
 -lexeme
  lex: чырты
- stem: чырты.
+ stem: чырты.|чыртӥ.
  gramm: N,body
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  paradigm: Noun-num-vowel-y
  trans_ru: шея
 
@@ -66260,9 +66274,9 @@
 
 -lexeme
  lex: чыры-пыры
- stem: чыры-пыры.
+ stem: чыры-пыры.|чыры-пыри.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: мелочь
 
 -lexeme
@@ -66414,9 +66428,9 @@
 
 -lexeme
  lex: шайры
- stem: шайры.
+ stem: шайры.|шайри.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: далекая страна
 
 -lexeme
@@ -66428,9 +66442,9 @@
 
 -lexeme
  lex: шайтангумы
- stem: шайтангумы.
+ stem: шайтангумы.|шайтангуми.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: вех ядовитый
 
 -lexeme
@@ -66610,9 +66624,9 @@
 
 -lexeme
  lex: шальы
- stem: шальы.
+ stem: шальы.|шали.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: бита, палочка, жердь, полено; белый камень, гравий, щебень
 
 -lexeme
@@ -66673,9 +66687,9 @@
 
 -lexeme
  lex: шаргенӟы
- stem: шаргенӟы.
+ stem: шаргенӟы.|шаргенӟи.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: гнида, яйца насекомых
 
 -lexeme
@@ -67052,16 +67066,16 @@
 
 -lexeme
  lex: шибоды
- stem: шибоды.
+ stem: шибоды.|шибодӥ.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: 1. копьё, пика 2. щуп
 
 -lexeme
  lex: шибулды
- stem: шибулды.
+ stem: шибулды.|шибулдӥ.
  gramm: N,anim,hum
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: закоснелый забияка, драчун, ругатель
 
 -lexeme
@@ -67087,9 +67101,9 @@
 
 -lexeme
  lex: шильы
- stem: шильы.
+ stem: шильы.|шили.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: стрелка лука, линейный лист
 
 -lexeme
@@ -67557,9 +67571,9 @@
 
 -lexeme
  lex: шорпыры
- stem: шорпыры.
+ stem: шорпыры.|шорпыри.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: ядро
 
 -lexeme
@@ -67600,16 +67614,16 @@
 
 -lexeme
  lex: шорты
- stem: шорты.
+ stem: шорты.|шортӥ.
  gramm: N,rus
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: шорты
 
 -lexeme
  lex: шорчиньы
- stem: шорчиньы.
+ stem: шорчиньы.|шорчини.
  gramm: N,body
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: средний палец
 
 -lexeme
@@ -67999,9 +68013,9 @@
 
 -lexeme
  lex: шукы
- stem: шукы.
+ stem: шукы.|шуки.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: пена
 
 -lexeme
@@ -68027,9 +68041,9 @@
 
 -lexeme
  lex: шулды-булды
- stem: шулды-булды.
+ stem: шулды-булды.|шулды-булдӥ.
  gramm: N,anim,hum
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: бездельник, шалопай
 
 -lexeme
@@ -68090,9 +68104,9 @@
 
 -lexeme
  lex: шунды
- stem: шунды.
+ stem: шунды.|шундӥ.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: солнце
 
 -lexeme
@@ -68111,9 +68125,9 @@
 
 -lexeme
  lex: шундымумы
- stem: шундымумы.
+ stem: шундымумы.|шундымуми.
  gramm: N,anim
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: божья коровка
 
 -lexeme
@@ -68259,9 +68273,9 @@
 
 -lexeme
  lex: шушы
- stem: шушы.
+ stem: шушы.|шуши.
  gramm: N,anim
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: снегирь
 
 -lexeme
@@ -68385,9 +68399,9 @@
 
 -lexeme
  lex: шыльы
- stem: шыльы.
+ stem: шыльы.|шыли.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: линейный лист
 
 -lexeme
@@ -68469,9 +68483,9 @@
 
 -lexeme
  lex: шыркӧжы
- stem: шыркӧжы.
+ stem: шыркӧжы.|шыркӧжи.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: мышиный горошек
 
 -lexeme
@@ -68490,9 +68504,9 @@
 
 -lexeme
  lex: шырпы
- stem: шырпы.
+ stem: шырпы.|шырпи.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: заноза
 
 -lexeme
@@ -68532,9 +68546,9 @@
 
 -lexeme
  lex: шыры
- stem: шыры.
+ stem: шыры.|шыри.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: мякина, обмолоченные колосья
 
 -lexeme
@@ -68681,16 +68695,16 @@
 
 -lexeme
  lex: ыгы
- stem: ыгы.
+ stem: ыгы.|ыги.
  gramm: N,anim
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: филин
 
 -lexeme
  lex: ыгы-зыгы
- stem: ыгы-зыгы.
+ stem: ыгы-зыгы.|ыгы-зыги.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: суматоха, переполох
 
 -lexeme
@@ -68758,16 +68772,16 @@
 
 -lexeme
  lex: ыжкӧжы
- stem: ыжкӧжы.
+ stem: ыжкӧжы.|ыжкӧжи.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: бараний горох
 
 -lexeme
  lex: ыжлюгы
- stem: ыжлюгы.
+ stem: ыжлюгы.|ыжлюги.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: 1. череда 2. перен. назойливый, неотвязный
 
 -lexeme
@@ -68800,9 +68814,9 @@
 
 -lexeme
  lex: ыкты
- stem: ыкты.
+ stem: ыкты.|ыктӥ.
  gramm: N,anim
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: голавль
 
 -lexeme
@@ -68857,9 +68871,9 @@
 
 -lexeme
  lex: ымвыжы
- stem: ымвыжы.
+ stem: ымвыжы.|ымвыжи.
  gramm: N,body
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: зев
 
 -lexeme
@@ -68879,9 +68893,9 @@
 
 -lexeme
  lex: ымкоскы
- stem: ымкоскы.
+ stem: ымкоскы.|ымкоски.
  gramm: N,anim,hum
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: болтун
 
 -lexeme
@@ -69035,9 +69049,9 @@
 
 -lexeme
  lex: ыткы
- stem: ыткы.
+ stem: ыткы.|ытки.
  gramm: N,anim
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: голавль
 
 -lexeme
@@ -71450,9 +71464,9 @@
 
 -lexeme
  lex: ягмульы
- stem: ягмульы.
+ stem: ягмульы.|ягмули.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: брусника
 
 -lexeme
@@ -71506,9 +71520,9 @@
 
 -lexeme
  lex: яды
- stem: яды.
+ stem: яды.|ядӥ.
  gramm: N,anim,hum
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: силач, богатырь, борец
 
 -lexeme
@@ -72014,16 +72028,16 @@
 
 -lexeme
  lex: ӝажы
- stem: ӝажы.
+ stem: ӝажы.|ӝажи.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: полка
 
 -lexeme
  lex: ӝакы
- stem: ӝакы.
+ stem: ӝакы.|ӝаки.
  gramm: N,anim
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: сойка, кукша, ронжа обл.
 
 -lexeme
@@ -72042,9 +72056,9 @@
 
 -lexeme
  lex: ӝибы
- stem: ӝибы.
+ stem: ӝибы.|ӝиби.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: клинышек, ластовица
 
 -lexeme
@@ -72112,9 +72126,9 @@
 
 -lexeme
  lex: ӝопы
- stem: ӝопы.
+ stem: ӝопы.|ӝопи.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: дымовое окно
 
 -lexeme
@@ -72239,9 +72253,9 @@
 
 -lexeme
  lex: ӝыбы
- stem: ӝыбы.
+ stem: ӝыбы.|ӝыби.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: паз
 
 -lexeme
@@ -72253,16 +72267,16 @@
 
 -lexeme
  lex: ӝыжы
- stem: ӝыжы.
+ stem: ӝыжы.|ӝыжи.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: стерня, жнивьё
 
 -lexeme
  lex: ӝыны
- stem: ӝыны.
+ stem: ӝыны.|ӝынӥ.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: половина
 
 -lexeme
@@ -72491,9 +72505,9 @@
 
 -lexeme
  lex: ӟатаслы
- stem: ӟатаслы.
+ stem: ӟатаслы.|ӟатаслӥ.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: дужка
 
 -lexeme
@@ -72533,9 +72547,9 @@
 
 -lexeme
  lex: ӟегмумы
- stem: ӟегмумы.
+ stem: ӟегмумы.|ӟегмуми.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: спорынья
 
 -lexeme
@@ -72547,9 +72561,9 @@
 
 -lexeme
  lex: ӟезьы
- stem: ӟезьы.
+ stem: ӟезьы.|ӟези.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: ворота, калитка
 
 -lexeme
@@ -72724,16 +72738,16 @@
 
 -lexeme
  lex: ӟипсы
- stem: ӟипсы.
+ stem: ӟипсы.|ӟипсӥ.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: 1. кляп 2. техн. штифт, стержень клин
 
 -lexeme
  lex: ӟиры
- stem: ӟиры.
+ stem: ӟиры.|ӟири.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: шарнир
 
 -lexeme
@@ -72752,9 +72766,9 @@
 
 -lexeme
  lex: ӟоздорпӧськы
- stem: ӟоздорпӧськы.
+ stem: ӟоздорпӧськы.|ӟоздорпӧськи.
  gramm: N,anim
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: ласточка, стриж
 
 -lexeme
@@ -72815,9 +72829,9 @@
 
 -lexeme
  lex: ӟузгы
- stem: ӟузгы.
+ stem: ӟузгы.|ӟузги.
  gramm: N,body
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: 1. кисть, 2. гребешок у птиц
 
 -lexeme
@@ -72836,9 +72850,9 @@
 
 -lexeme
  lex: ӟузьы
- stem: ӟузьы.
+ stem: ӟузьы.|ӟузи.
  gramm: N,anim
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: 1. малиновка 2. коноплянка
 
 -lexeme
@@ -72878,9 +72892,9 @@
 
 -lexeme
  lex: ӟуллёкы
- stem: ӟуллёкы.
+ stem: ӟуллёкы.|ӟуллёки.
  gramm: N,anim
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: серый сорокопут
 
 -lexeme
@@ -72913,9 +72927,9 @@
 
 -lexeme
  lex: ӟуры
- stem: ӟуры.
+ stem: ӟуры.|ӟури.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: 1. ворчун 2. скрипучее дерево
 
 -lexeme
@@ -72969,9 +72983,9 @@
 
 -lexeme
  lex: ӟучгумы
- stem: ӟучгумы.
+ stem: ӟучгумы.|ӟучгуми.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: свербига восточная
 
 -lexeme
@@ -73004,9 +73018,9 @@
 
 -lexeme
  lex: ӟыбы
- stem: ӟыбы.
+ stem: ӟыбы.|ӟыби.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: паз в кадке для дна
 
 -lexeme
@@ -73032,9 +73046,9 @@
 
 -lexeme
  lex: ӟыгыры
- stem: ӟыгыры.
+ stem: ӟыгыры.|ӟыгыри.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: наощупь, осторожно, разведывая
 
 -lexeme
@@ -73158,9 +73172,9 @@
 
 -lexeme
  lex: ӧды
- stem: ӧды.
+ stem: ӧды.|ӧдӥ.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: сила, мощь
 
 -lexeme
@@ -73193,9 +73207,9 @@
 
 -lexeme
  lex: ӧлексы
- stem: ӧлексы.
+ stem: ӧлексы.|ӧлексӥ.
  gramm: N,anim,hum
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: калека, урод, искалеченный, слабый
 
 -lexeme
@@ -73398,9 +73412,9 @@
 
 -lexeme
  lex: ӵажы
- stem: ӵажы.
+ stem: ӵажы.|ӵажи.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: 1. пастушок; 2. коростель, погоныш
 
 -lexeme
@@ -73735,16 +73749,16 @@
 
 -lexeme
  lex: ӵужы
- stem: ӵужы.
+ stem: ӵужы.|ӵужи.
  gramm: N,anim
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: 1. жерех 2. желтопёрка, краснопёрка
 
 -lexeme
  lex: ӵужы
- stem: ӵужы.
+ stem: ӵужы.|ӵужи.
  gramm: N,anim,hum
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: двоюродный брат, двоюродная сестра (по женской линии)
 
 -lexeme
@@ -73847,9 +73861,9 @@
 
 -lexeme
  lex: ӵушъялмульы
- stem: ӵушъялмульы.
+ stem: ӵушъялмульы.|ӵушъялмули.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: дурнишник
 
 -lexeme
@@ -73868,9 +73882,9 @@
 
 -lexeme
  lex: ӵуӵы
- stem: ӵуӵы.
+ stem: ӵуӵы.|ӵуӵи.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: пузырьколишай, сыпь
 
 -lexeme
@@ -73896,16 +73910,16 @@
 
 -lexeme
  lex: ӵыжы
- stem: ӵыжы.
+ stem: ӵыжы.|ӵыжи.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: осадок, вытопки, отопки
 
 -lexeme
  lex: ӵыжы-выжы
- stem: ӵыжы-выжы.
+ stem: ӵыжы-выжы.|ӵыжы-выжи.
  gramm: N,anim,hum
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: 1. род, племя 2. родня, родственник
 
 -lexeme
@@ -73947,9 +73961,9 @@
 
 -lexeme
  lex: ӵышты
- stem: ӵышты.
+ stem: ӵышты.|ӵыштӥ.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: лишай
 
 -lexeme
@@ -73996,9 +74010,9 @@
 
 -lexeme
  lex: ӵӧкы
- stem: ӵӧкы.
+ stem: ӵӧкы.|ӵӧки.
  gramm: N,anim,hum
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: старик, старец
 
 -lexeme
@@ -74066,9 +74080,9 @@
 
 -lexeme
  lex: кыны
- stem: кыны.
+ stem: кыны.|кынӥ.
  gramm: N,anim
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: хариус; форель; диал. язь
 
 -lexeme
@@ -75328,9 +75342,9 @@
  trans_ru: бытовик
 -lexeme
  lex: бычы
- stem: бычы.
+ stem: бычы.|бычи.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: почка; росток; пряжка
 -lexeme
  lex: бэнд
@@ -75978,9 +75992,9 @@
  trans_ru: русалка
 -lexeme
  lex: вучайы
- stem: вучайы.
+ stem: вучайы.|вучайи.
  gramm: N,anim
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: выхухоль; бобёр; норка
 -lexeme
  lex: вуюись
@@ -79143,9 +79157,9 @@
  trans_ru: кончик языка
 -lexeme
  lex: кылкоскы
- stem: кылкоскы.
+ stem: кылкоскы.|кылкоски.
  gramm: N,anim,hum
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: сплетник
 -lexeme
  lex: кыллюкам
@@ -79849,6 +79863,12 @@
  gramm: N,rus
  paradigm: Noun-num-ije
  trans_ru: месторождение
+-lexeme
+ lex: деньрождение
+ stem: деньрождени.//день рождени.
+ gramm: N,rus,time_meas
+ paradigm: Noun-num-ije
+ trans_ru: день рождения
 -lexeme
  lex: металлист
  stem: металлист.
@@ -80572,9 +80592,9 @@
  trans_ru: номинация
 -lexeme
  lex: ноны
- stem: ноны.
+ stem: ноны.|нонӥ.
  gramm: N,body
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: сосок; соска
 -lexeme
  lex: норвежец
@@ -80614,9 +80634,9 @@
  trans_ru: день
 -lexeme
  lex: нуны
- stem: нуны.
+ stem: нуны.|нунӥ.
  gramm: N,anim,hum
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: младенец
 -lexeme
  lex: нылашка
@@ -80854,9 +80874,9 @@
  trans_ru: округ
 -lexeme
  lex: окты-калты
- stem: окты-калты.
+ stem: окты-калты.|окты-калтӥ.
  gramm: N,anim,hum
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: подкидыш
 -lexeme
  lex: окулист
@@ -82424,9 +82444,9 @@
  trans_ru: место для сидения
 -lexeme
  lex: пуны
- stem: пуны.
+ stem: пуны.|пунӥ.
  gramm: N,anim
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: собака
 -lexeme
  lex: пус
@@ -82492,9 +82512,9 @@
  trans_ru: выпечка
 -lexeme
  lex: пыны
- stem: пыны.
+ stem: пыны.|пынӥ.
  gramm: N,anim
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: собака
 -lexeme
  lex: пыштурын
@@ -82522,9 +82542,9 @@
  trans_ru: пятёрка
 -lexeme
  lex: пӧзьы
- stem: пӧзьы.
+ stem: пӧзьы.|пӧзи.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: варежка
 -lexeme
  lex: пӧсьтолэзь
@@ -86352,9 +86372,9 @@
  trans_ru: штукатур
 -lexeme
  lex: шудпуйы
- stem: шудпуйы.
+ stem: шудпуйы.|шудпуйи.
  gramm: N,anim,hum
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: счастливчик; везучий
 -lexeme
  lex: шумер
@@ -86842,9 +86862,9 @@
  trans_ru: качели
 -lexeme
  lex: ӟичы
- stem: ӟичы.
+ stem: ӟичы.|ӟичи.
  gramm: N,anim
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: лиса
 -lexeme
  lex: ӟичыпи
@@ -86854,9 +86874,9 @@
  trans_ru: лисёнок
 -lexeme
  lex: ӟыры
- stem: ӟыры.
+ stem: ӟыры.|ӟыри.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: дверная петля
 -lexeme
  lex: ӧнерчи
@@ -87228,9 +87248,9 @@
  trans_ru: бантик
 -lexeme
  lex: барангы
- stem: барангы.
+ stem: барангы.|баранги.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: картофель
 -lexeme
  lex: баталист
@@ -87342,9 +87362,9 @@
  trans_ru: биотехнология
 -lexeme
  lex: бирӟы
- stem: бирӟы.
+ stem: бирӟы.|бирӟи.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: пуговица
 -lexeme
  lex: бисер
@@ -87378,9 +87398,9 @@
  trans_ru: блюдо
 -lexeme
  lex: бобы
- stem: бобы.
+ stem: бобы.|боби.
  gramm: N,rus
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: бобы
 -lexeme
  lex: бодибилдер
@@ -87774,9 +87794,9 @@
  trans_ru: пространство
 -lexeme
  lex: газгумы
- stem: газгумы.
+ stem: газгумы.|газгуми.
  gramm: N,rus
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: газопровод
 -lexeme
  lex: газификация
@@ -88056,9 +88076,9 @@
  trans_ru: дефолт
 -lexeme
  lex: джинсы
- stem: джинсы.
+ stem: джинсы.|джинсӥ.
  gramm: N,rus
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: джинсы
 -lexeme
  lex: джип
@@ -88608,15 +88628,15 @@
  trans_ru: казачество
 -lexeme
  lex: казы
- stem: казы.
+ stem: казы.|казӥ.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: казы (колбаса из конины)
 -lexeme
  lex: кайсы
- stem: кайсы.
+ stem: кайсы.|кайсӥ.
  gramm: N,anim
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: клёст
 -lexeme
  lex: календула
@@ -89232,9 +89252,9 @@
  trans_ru: снегурочка
 -lexeme
  lex: лымыпыры
- stem: лымыпыры.
+ stem: лымыпыры.|лымыпыри.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: снежинка
 -lexeme
  lex: люлька
@@ -89340,9 +89360,9 @@
  trans_ru: массовка
 -lexeme
  lex: мачы
- stem: мачы.
+ stem: мачы.|мачи.
  gramm: N,anim
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: кот, кошка
 -lexeme
  lex: мачыпи
@@ -89664,9 +89684,9 @@
  trans_ru: зачаток, зародыш; пуповина
 -lexeme
  lex: ныбычы
- stem: ныбычы.
+ stem: ныбычы.|ныбычи.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: хвощ
 -lexeme
  lex: нызьыли
@@ -90576,9 +90596,9 @@
  trans_ru: пуховик
 -lexeme
  lex: пыдгижы
- stem: пыдгижы.
+ stem: пыдгижы.|пыдгижи.
  gramm: N,body
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: копыто
 -lexeme
  lex: пыргон
@@ -91440,9 +91460,9 @@
  trans_ru: сэмпл
 -lexeme
  lex: сэппуйы
- stem: сэппуйы.
+ stem: сэппуйы.|сэппуйи.
  gramm: N,body
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: желчный пузырь
 -lexeme
  lex: сэрег
@@ -92042,9 +92062,9 @@
  trans_ru: флешмоб
 -lexeme
  lex: флоксы
- stem: флоксы.
+ stem: флоксы.|флоксӥ.
  gramm: N,rus
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: флоксы
 -lexeme
  lex: фонотека
@@ -92240,9 +92260,9 @@
  trans_ru: чинзано
 -lexeme
  lex: чипсы
- stem: чипсы.
+ stem: чипсы.|чипсӥ.
  gramm: N,rus
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: чипсы
 -lexeme
  lex: чипу
@@ -92300,9 +92320,9 @@
  trans_ru: шашлык
 -lexeme
  lex: шашы
- stem: шашы.
+ stem: шашы.|шаши.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: осока; перо (лука)
 -lexeme
  lex: шедевр
@@ -92696,9 +92716,9 @@
  trans_ru: скороговорка
 -lexeme
  lex: ӝуйы
- stem: ӝуйы.
+ stem: ӝуйы.|ӝуйи.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: мох
 -lexeme
  lex: ӟезег
@@ -97196,9 +97216,9 @@
  trans_ru: корень; род
 -lexeme
  lex: выжыкумы
- stem: выжыкумы.
+ stem: выжыкумы.|выжыкуми.
  gramm: N,anim,hum
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: родственник
 -lexeme
  lex: выжыкыл
@@ -98803,9 +98823,9 @@
  trans_ru: француз
 -lexeme
  lex: пысы
- stem: пысы.
+ stem: пысы.|пысӥ.
  gramm: N
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: анус; отверстие, ушко
 -lexeme
  lex: пьеса
@@ -98953,9 +98973,9 @@
  trans_ru: синдром
 -lexeme
  lex: синкыльы
- stem: синкыльы.
+ stem: синкыльы.|синкыли.
  gramm: N,body
- paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-dial-iy
  trans_ru: зрачок
 -lexeme
  lex: скандал
@@ -107834,8 +107854,8 @@
 -lexeme
  lex: мнение
  gramm: N,rus
- stem: мнение.
- paradigm: Noun-num-vowel
+ stem: мнени.
+ paradigm: Noun-num-ije
  trans_ru: мнение
 
 -lexeme

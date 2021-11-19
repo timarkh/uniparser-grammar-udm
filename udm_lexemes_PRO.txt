@@ -806,7 +806,7 @@
  stem: огкытчы.//огкытцы.
  gramm: ADVPRO,ill
  paradigm: Comparative
- trans_ru: куда-то
+ trans_ru: никуда
 
 -lexeme
  lex: нокытчы
@@ -894,7 +894,7 @@
  stem: огкытын.//огкытчын.
  gramm: ADVPRO,loc
  paradigm: Comparative
- trans_ru: где-то
+ trans_ru: нигде
 
 -lexeme
  lex: олокытын
@@ -984,6 +984,13 @@
  trans_ru: откуда угодно
 
 -lexeme
+ lex: огкытысь
+ stem: огкытысь.//огкытӥсь.//огкытись.
+ gramm: ADVPRO,el
+ paradigm: Comparative
+ trans_ru: ниоткуда
+
+-lexeme
  lex: нокытысь
  stem: нокытысь.//нокытӥсь.//нокытись.
  gramm: ADVPRO,el
@@ -1047,6 +1054,13 @@
  trans_ru: ниоткуда
 
 -lexeme
+ lex: огкытысен
+ stem: огкытысен.//огкытӥсен.
+ gramm: ADVPRO,egr
+ paradigm: Comparative
+ trans_ru: ниоткуда
+
+-lexeme
  lex: отчыозь
  stem: отчыозь.//отчиёзь.
  gramm: ADVPRO,term
@@ -1094,6 +1108,13 @@
  gramm: ADVPRO,term
  paradigm: Comparative
  trans_ru: докуда угодно
+
+-lexeme
+ lex: огкытчыозь
+ stem: огкытчыозь.
+ gramm: ADVPRO,term
+ paradigm: Comparative
+ trans_ru: нидокуда
 
 -lexeme
  lex: нокытчыозь
@@ -1150,6 +1171,13 @@
  gramm: ADVPRO
  paradigm: Noun-num-vowel
  trans_ru: где-то, не знаю где
+
+-lexeme
+ lex: огкытӥ
+ stem: огкытӥ.//огкыти.
+ gramm: ADVPRO
+ paradigm: Noun-num-vowel
+ trans_ru: нигде
 
 -lexeme
  lex: нокытӥ
@@ -1428,21 +1456,21 @@
 
 -lexeme
  lex: ас
- stem: асьсэос.//асьсэс.
+ stem: асьсэос.//асьсэс.//асьсэёс.
  gramm: PRO,3pl,nom
  paradigm: Noun-num-consonant
  trans_ru: сам, свой
 
 -lexeme
  lex: ас
- stem: асьмеос.//асьмес.
+ stem: асьмеос.//асьмес.//асьмеёс.
  gramm: PRO,1pl,nom
  paradigm: Comparative
  trans_ru: сам, свой
 
 -lexeme
  lex: ас
- stem: асьтэос.//асьтэс.
+ stem: асьтэос.//асьтэс.//асьтэёс.
  gramm: PRO,2pl,nom
  paradigm: Comparative
  trans_ru: сам, свой
