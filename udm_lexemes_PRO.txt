@@ -456,8 +456,15 @@
  trans_ru: что-то
 
 -lexeme
- lex: номыре
+ lex: номыр
  stem: номыр.
+ gramm: PRO
+ paradigm: Noun-mar
+ trans_ru: ничто
+
+-lexeme
+ lex: огмыр
+ stem: огмыр.
  gramm: PRO
  paradigm: Noun-mar
  trans_ru: ничто
@@ -1220,6 +1227,7 @@
  stem: аслаз.
  gramm: PRO,3sg,gen
  paradigm: Noun-case-compounding
+ paradigm: Noun-case-compounding-pl-consonant
  trans_ru: сам, свой
 
 -lexeme
@@ -1227,6 +1235,7 @@
  stem: аслам.
  gramm: PRO,1sg,gen
  paradigm: Noun-case-compounding
+ paradigm: Noun-case-compounding-pl-consonant
  trans_ru: сам, свой
 
 -lexeme
@@ -1234,27 +1243,34 @@
  stem: аслад.
  gramm: PRO,2sg,gen
  paradigm: Noun-case-compounding
+ paradigm: Noun-case-compounding-pl-consonant
  trans_ru: сам, свой
 
 -lexeme
  lex: ас
- stem: аслэсьтыз.
+ stem: аслэсьтыз.//асьлэсьтыз.
  gramm: PRO,3sg,abl
  paradigm: Comparative
+ paradigm: Noun-case-compounding
+ paradigm: Noun-case-compounding-pl-consonant
  trans_ru: сам, свой
 
 -lexeme
  lex: ас
- stem: аслэсьтым.
+ stem: аслэсьтым.//асьлэсьтым.
  gramm: PRO,1sg,abl
  paradigm: Comparative
+ paradigm: Noun-case-compounding
+ paradigm: Noun-case-compounding-pl-consonant
  trans_ru: сам, свой
 
 -lexeme
  lex: ас
- stem: аслэсьтыд.
+ stem: аслэсьтыд.//асьлэсьтыд.
  gramm: PRO,2sg,abl
  paradigm: Comparative
+ paradigm: Noun-case-compounding
+ paradigm: Noun-case-compounding-pl-consonant
  trans_ru: сам, свой
 
 -lexeme
@@ -1280,22 +1296,43 @@
 
 -lexeme
  lex: ас
- stem: асэныз.
+ stem: асэныз.//асьсэныз.
  gramm: PRO,3sg,ins
  paradigm: Comparative
  trans_ru: сам, свой
 
 -lexeme
  lex: ас
- stem: асэным.
+ stem: асэнызы.//асьсэнызы.
+ gramm: PRO,3pl,ins
+ paradigm: Comparative
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: асэным.//асьсэным.
  gramm: PRO,1sg,ins
  paradigm: Comparative
  trans_ru: сам, свой
 
 -lexeme
  lex: ас
- stem: асэныд.
+ stem: асэнымы.//асьмемын.//асьсэнымы.
+ gramm: PRO,1pl,ins
+ paradigm: Comparative
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: асэныд.//асьсэныд.
  gramm: PRO,2sg,ins
+ paradigm: Comparative
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: асэныды.//асьсэныды.
+ gramm: PRO,2pl,ins
  paradigm: Comparative
  trans_ru: сам, свой
 
@@ -1379,7 +1416,7 @@
 
 -lexeme
  lex: ас
- stem: астэс.//астэос.//ачидэс.//асьтэс.//ащтэс.
+ stem: астэс.//астэос.//астӥос.//ачидэс.//асьтэс.//ащтэс.
  gramm: PRO,2pl,nom
  paradigm: Comparative
  trans_ru: сам, свой
@@ -1428,7 +1465,7 @@
 
 -lexeme
  lex: ас
- stem: асьсэзыз.
+ stem: асьсэзыз.//асьсэзыс.
  gramm: PRO,3pl,acc
  paradigm: Comparative
  trans_ru: сам, свой
@@ -1470,7 +1507,7 @@
 
 -lexeme
  lex: ас
- stem: асьтэос.//асьтэс.//асьтэёс.
+ stem: асьтэос.//асьтӥос.//асьтэс.//асьтэёс.
  gramm: PRO,2pl,nom
  paradigm: Comparative
  trans_ru: сам, свой
@@ -1479,7 +1516,9 @@
  lex: ас
  stem: асьсэлэн.
  gramm: PRO,3pl,gen
- paradigm: Noun-num-consonant
+ paradigm: Comparative
+ paradigm: Noun-case-compounding
+ paradigm: Noun-case-compounding-pl-consonant
  trans_ru: сам, свой
 
 -lexeme
@@ -1487,20 +1526,32 @@
  stem: асьмелэн.//асьмен.//асьмэн.
  gramm: PRO,1pl,gen
  paradigm: Comparative
+ paradigm: Noun-case-compounding
+ paradigm: Noun-case-compounding-pl-consonant
  trans_ru: сам, свой
 
 -lexeme
  lex: ас
- stem: асьтэлэн.
+ stem: асьтэлэн.//асьтӥлэн.
  gramm: PRO,2pl,gen
  paradigm: Comparative
+ paradigm: Noun-case-compounding
+ paradigm: Noun-case-compounding-pl-consonant
  trans_ru: сам, свой
 
 -lexeme
  lex: ас
  stem: асьсэлэсь.
  gramm: PRO,3pl,abl
- paradigm: Noun-num-vowel
+ paradigm: Comparative
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: асьсэлэс.
+ gramm: PRO,3pl,abl
+ paradigm: Noun-case-compounding-soft
+ paradigm: Noun-case-compounding-pl-soft
  trans_ru: сам, свой
 
 -lexeme
@@ -1512,9 +1563,25 @@
 
 -lexeme
  lex: ас
- stem: асьтэлэсь.
+ stem: асьмелэс.
+ gramm: PRO,1pl,abl
+ paradigm: Noun-case-compounding-soft
+ paradigm: Noun-case-compounding-pl-soft
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: асьтэлэсь.//асьтӥлэсь.
  gramm: PRO,2pl,abl
  paradigm: Comparative
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: асьтэлэс.//асьтӥлэс.
+ gramm: PRO,2pl,abl
+ paradigm: Noun-case-compounding-soft
+ paradigm: Noun-case-compounding-pl-soft
  trans_ru: сам, свой
 
 -lexeme
@@ -1533,7 +1600,7 @@
 
 -lexeme
  lex: ас
- stem: асьтэлы.
+ stem: асьтэлы.//асьтӥлы.
  gramm: PRO,2pl,dat
  paradigm: Comparative
  trans_ru: сам, свой

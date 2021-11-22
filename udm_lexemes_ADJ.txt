@@ -12756,10 +12756,17 @@
 
 -lexeme
  lex: данак
- stem: данак.
+ stem: данак.//данаг.
  gramm: ADJ
  paradigm: connect_adjectives
  trans_ru: порядочный, значительный, изрядный
+
+-lexeme
+ lex: ятыр
+ stem: ятыр.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: значительный, излишний
 
 -lexeme
  lex: авиационной

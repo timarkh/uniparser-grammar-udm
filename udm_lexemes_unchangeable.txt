@@ -3107,6 +3107,13 @@
  trans_ru: сейчас
 
 -lexeme
+ lex: алилы
+ stem: алилы.
+ gramm: ADV,dat
+ paradigm: connect_adverbs
+ trans_ru: на сейчас, до настоящего времени
+
+-lexeme
  lex: каль
  stem: каль.
  gramm: ADV
@@ -8334,6 +8341,15 @@
  trans_ru: во время
 
 -lexeme
+ lex: дыръяку
+ stem: дыръяку.//дыръякы.
+ gramm: POST
+ paradigm: Comparative
+ paradigm: poss-sg
+ paradigm: poss-pl
+ trans_ru: во время
+
+-lexeme
  lex: дыръя
  stem: дырья.
  gramm: POST,missp
@@ -11850,7 +11866,7 @@
  stem: ятыр.
  gramm: ADV
  paradigm: connect_adverbs
- trans_ru: 1. излишек, много, порядочно 2. Як-Бодьин. больше, более
+ trans_ru: много, излишек
 
 -lexeme
  lex: ӵемысь

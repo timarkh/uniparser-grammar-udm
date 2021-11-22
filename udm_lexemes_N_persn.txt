@@ -69504,6 +69504,13 @@
  trans_ru: Лампачей (название ансамбля)
 
 -lexeme
+ lex: Ложкари
+ gramm: N,PN
+ stem: ложкари.
+ paradigm: Noun-num-vowel
+ trans_ru: Ложкари (название ансамбля)
+
+-lexeme
  lex: Ялгыз-Нарат
  gramm: N,topn,PN
  stem: ялгыз-нарат.

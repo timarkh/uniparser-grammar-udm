@@ -102,6 +102,7 @@
   {"wfGlossed": ".*ӟ-е-?м?[еы]?$", "gramm": ".*(fut(?!,neg)|3,pl,prs).*"},
   {"wfGlossed": "^[^-]*з-?ь($|-.*)", "lemma": ".*ӟ$"},
   {"wfGlossed": ".*-CAUS-CAUS-.*", "lemma": ".*уттыны"},
-  {"wfGlossed": ".*-[еэ]сь(-гес)?", "gramm": "^ADJ.*,pl,adj_nmlz,nom(,comp)?$"}
+  {"wfGlossed": ".*-[еэ]сь(-гес)?", "gramm": "^ADJ.*,pl,adj_nmlz,nom(,comp)?$"},
+  {"wf": "сиенъёслы", "gramm": ".*pl_comp"}
 ]
 

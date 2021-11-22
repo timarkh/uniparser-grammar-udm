@@ -27335,6 +27335,12 @@
  paradigm: Comparative
  trans_ru: грозить
 -lexeme
+ lex: морозить
+ stem: морозить.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: морозить
+-lexeme
  lex: грузить
  stem: грузить.
  gramm: V,rus,rus_inf,rus_ipfv
@@ -28480,6 +28486,12 @@
  gramm: V,rus,rus_inf,rus_ipfv
  paradigm: Comparative
  trans_ru: линовать
+-lexeme
+ lex: переименовать
+ stem: переименовать.
+ gramm: V,rus,rus_inf,rus_pfv
+ paradigm: Comparative
+ trans_ru: переименовать
 -lexeme
  lex: ломать
  stem: ломать.
@@ -30508,6 +30520,18 @@
  gramm: V,rus,rus_inf,refl,rus_pfv
  paradigm: Comparative
  trans_ru: развалиться
+-lexeme
+ lex: разваливать
+ stem: разваливать.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: разваливать
+-lexeme
+ lex: разваливаться
+ stem: разваливаться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv
+ paradigm: Comparative
+ trans_ru: разваливаться
 -lexeme
  lex: развивать
  stem: развивать.

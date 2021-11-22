@@ -1820,6 +1820,96 @@
   gloss: PROL|P.3SG
  paradigm: Comparative
 
+-paradigm: Noun-case-compounding-pl-consonant
+ -flex: .ъёс|ыз<.>
+  gramm: case_comp,pl_comp,pl,acc
+  gloss: PL|ACC
+ -flex: .ъёс|ты<.>
+  gramm: case_comp,pl_comp,pl,acc
+  gloss: PL|ACC.PL
+ -flex: .ъёс|лэн<.>
+  gramm: case_comp,pl_comp,pl,gen
+  gloss: PL|GEN
+ -flex: .ъёс|лэсь<.>
+  gramm: case_comp,pl_comp,pl,abl
+  gloss: PL|ABL
+ -flex: .ъёс|лы<.>
+  gramm: case_comp,pl_comp,pl,dat
+  gloss: PL|DAT
+ -flex: .ъёс|тэк<.>
+  gramm: case_comp,pl_comp,pl,car
+  gloss: PL|CAR
+ -flex: .ъёс|ъя<.>
+  gramm: case_comp,pl_comp,pl,adv
+  gloss: PL|ADV
+ -flex: .ъёс|ын<.>
+  gramm: case_comp,pl_comp,pl,loc
+  gloss: PL|LOC
+ -flex: .ъёс|ы<.>
+  gramm: case_comp,pl_comp,pl,ill
+  gloss: PL|ILL
+ -flex: .ъёс|ысь<.>
+  gramm: case_comp,pl_comp,pl,el
+  gloss: PL|EL
+ -flex: .ъёс|ысен<.>
+  gramm: case_comp,pl_comp,pl,egr
+  gloss: PL|EGR
+ -flex: .ъёс|озь<.>
+  gramm: case_comp,pl_comp,pl,term
+  gloss: PL|TERM
+ -flex: .ъёс|ытӥ<.>//.ъёс|тӥ<.>//.ъёс|этӥ<.>//.ъёс|ыти<.>//.ъёс|ти<.>//.ъёс|эти<.>
+  gramm: case_comp,pl_comp,pl,prol
+  gloss: PL|PROL
+ -flex: .ъёс|лань<.>
+  gramm: case_comp,pl_comp,pl,app
+  gloss: PL|APP
+ -flex: .ъёс|ыз<.>
+  gramm: case_comp,pl_comp,pl,poss_comp,nom
+  gloss: PL|P.3SG
+ -flex: .ъёс|ыз|лэн<.>
+  gramm: case_comp,pl_comp,pl,poss_comp,gen
+  gloss: PL|P.3SG|GEN
+ -flex: .ъёс|ыз|лэсь<.>
+  gramm: case_comp,pl_comp,pl,poss_comp,abl
+  gloss: PL|P.3SG|ABL
+ -flex: .ъёс|ыз|лы<.>
+  gramm: case_comp,pl_comp,pl,poss_comp,dat
+  gloss: PL|P.3SG|DAT
+ -flex: .ъёс|ыз|тэк<.>
+  gramm: case_comp,pl_comp,pl,poss_comp,car
+  gloss: PL|P.3SG|CAR
+ -flex: .ъёс|ыз|ъя<.>
+  gramm: case_comp,pl_comp,pl,poss_comp,adv
+  gloss: PL|P.3SG|ADV
+ -flex: .ъёс|ыз|лань<.>
+  gramm: case_comp,pl_comp,pl,poss_comp,app
+  gloss: PL|P.3SG|APP
+ -flex: .ъёс|сэ<.>
+  gramm: case_comp,pl_comp,pl,poss_comp,acc
+  gloss: PL|P.3SG.ACC
+ -flex: .ъёс|ын|ыз<.>
+  gramm: case_comp,pl_comp,pl,poss_comp,ins
+  gloss: PL|INS|P.3SG
+ -flex: .ъёс|а|з<.>
+  gramm: case_comp,pl_comp,pl,poss_comp,loc
+  gloss: PL|LOC|P.3SG
+ -flex: .ъёс|а|з<.>
+  gramm: case_comp,pl_comp,pl,poss_comp,ill
+  gloss: PL|ILL|P.3SG
+ -flex: .ъёс|ысьт|ыз<.>
+  gramm: case_comp,pl_comp,pl,poss_comp,el
+  gloss: PL|EL|P.3SG
+ -flex: .ъёс|ысен|ыз<.>
+  gramm: case_comp,pl_comp,pl,poss_comp,egr
+  gloss: PL|EGR|P.3SG
+ -flex: .ъёс|озя|з<.>
+  gramm: case_comp,pl_comp,pl,poss_comp,term
+  gloss: PL|TERM|P.3SG
+ -flex: .ъёс|ытӥ|з<.>//.ъёс|тӥ|з<.>//.ъёс|этӥ|з<.>//.ъёс|ыти|з<.>//.ъёс|ти|з<.>//.ъёс|эти|з<.>
+  gramm: case_comp,pl_comp,pl,poss_comp,prol
+  gloss: PL|PROL|P.3SG
+ paradigm: Comparative
+
 -paradigm: Noun-case-compounding-pl-soft
  -flex: .ьёс|ыз<.>
   gramm: case_comp,pl_comp,pl,acc
@@ -2043,7 +2133,7 @@
  -flex: .ыз<.>
   gramm: acc
   gloss: ACC
-  regex-gramm: ^.*pl.*$
+  regex-prev-gramm: ^.*pl.*$
   paradigm: Comparative
  -flex: .ез<.>
   gramm: acc
@@ -2059,10 +2149,12 @@
   gramm: gen
   gloss: GEN
   paradigm: Noun-case-compounding
+  paradigm: Noun-case-compounding-pl-consonant
  -flex: .лэс<.>
   gramm: abl
   gloss: ABL
   paradigm: Noun-case-compounding-soft
+  paradigm: Noun-case-compounding-pl-soft
  -flex: .лэсь<.>
   gramm: abl
   gloss: ABL
@@ -2071,19 +2163,23 @@
   gramm: dat
   gloss: DAT
   paradigm: Noun-case-compounding
+  paradigm: Noun-case-compounding-pl-consonant
  -flex: .эн<.>
   gramm: ins
   gloss: INS
   paradigm: Noun-case-compounding
+  paradigm: Noun-case-compounding-pl-consonant
  -flex: .ен<.>
   gramm: ins
   gloss: INS
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
   paradigm: Noun-case-compounding
+  paradigm: Noun-case-compounding-pl-consonant
  -flex: .тэк<.>
   gramm: car
   gloss: CAR
   paradigm: Noun-case-compounding
+  paradigm: Noun-case-compounding-pl-consonant
  -flex: .ъя<.>
   gramm: adv
   gloss: ADV
@@ -2097,6 +2193,7 @@
   gramm: loc
   gloss: LOC
   paradigm: Noun-case-compounding
+  paradigm: Noun-case-compounding-pl-consonant
  -flex: .э<.>
   gramm: ill
   gloss: ILL
@@ -2139,15 +2236,18 @@
   gramm: egr
   gloss: EGR
   paradigm: Noun-case-compounding
+  paradigm: Noun-case-compounding-pl-consonant
  -flex: .исен<.>
   gramm: egr,nonst
   gloss: EGR
   paradigm: Noun-case-compounding
+  paradigm: Noun-case-compounding-pl-consonant
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
  -flex: .ӥсен<.>
   gramm: egr,nonst
   gloss: EGR
   paradigm: Noun-case-compounding
+  paradigm: Noun-case-compounding-pl-consonant
  -flex: .оз<.>
   gramm: term
   gloss: TERM
@@ -2200,6 +2300,7 @@
   gramm: ins
   gloss: INS
   paradigm: Noun-case-compounding
+  paradigm: Noun-case-compounding-pl-consonant
  -flex: .я<.>
   gramm: adv
   gloss: ADV
@@ -2208,6 +2309,7 @@
   gramm: loc
   gloss: LOC
   paradigm: Noun-case-compounding
+  paradigm: Noun-case-compounding-pl-consonant
  -flex: .е<.>
   gramm: ill
   gloss: ILL
@@ -2236,10 +2338,12 @@
   gramm: egr
   gloss: EGR
   paradigm: Noun-case-compounding
+  paradigm: Noun-case-compounding-pl-consonant
  -flex: .исен<.>
   gramm: egr,nonst
   gloss: EGR
   paradigm: Noun-case-compounding
+  paradigm: Noun-case-compounding-pl-consonant
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
  -flex: .оз<.>
   gramm: term
@@ -2364,13 +2468,13 @@
  -flex: .е<.>
   gramm: nom
   gloss: NOM
-  regex-lex: ^номыре$
+  regex-lex: ^номыр$
  -flex: .<.>
   gramm: nom
  -flex: .е<.>//.э<.>
   gramm: acc
   gloss: ACC
-  regex-lex: ^.*(мар?|кин|со|та|номыре)$
+  regex-lex: ^.*(мар?|кин|со|та|номыр|огмыр)$
  -flex: .ты<.>
   gramm: acc
   gloss: ACC.PL
@@ -2444,10 +2548,12 @@
   gramm: gen
   gloss: GEN
   paradigm: Noun-case-compounding
+  paradigm: Noun-case-compounding-pl-consonant
  -flex: .лэс<.>
   gramm: abl
   gloss: ABL
   paradigm: Noun-case-compounding-soft
+  paradigm: Noun-case-compounding-pl-soft
  -flex: .лэсь<.>
   gramm: abl
   gloss: ABL
@@ -2456,14 +2562,17 @@
   gramm: dat
   gloss: DAT
   paradigm: Noun-case-compounding
+  paradigm: Noun-case-compounding-pl-consonant
  -flex: .эн<.>//.ын<.>
   gramm: ins
   gloss: INS
   paradigm: Noun-case-compounding
+  paradigm: Noun-case-compounding-pl-consonant
  -flex: .тэк<.>
   gramm: car
   gloss: CAR
   paradigm: Noun-case-compounding
+  paradigm: Noun-case-compounding-pl-consonant
  -flex: .ъя<.>
   gramm: adv
   gloss: ADV
@@ -2472,6 +2581,7 @@
   gramm: loc
   gloss: LOC
   paradigm: Noun-case-compounding
+  paradigm: Noun-case-compounding-pl-consonant
  -flex: .а<.>
   gramm: ill
   gloss: ILL
@@ -2489,6 +2599,7 @@
   gramm: egr
   gloss: EGR
   paradigm: Noun-case-compounding
+  paradigm: Noun-case-compounding-pl-consonant
  -flex: .оз<.>
   gramm: term
   gloss: TERM

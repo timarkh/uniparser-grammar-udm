@@ -25583,6 +25583,27 @@
  trans_ru: комитет
 
 -lexeme
+ lex: ӧри
+ stem: ӧри.
+ gramm: N
+ paradigm: Noun-num-vowel
+ trans_ru: комитет
+
+-lexeme
+ lex: пумкылъян
+ stem: пумкылъян.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: решение
+
+-lexeme
+ lex: удысэт
+ stem: удысэт.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: ведомство
+
+-lexeme
  lex: комментарий
  stem: комментари.
  gramm: N,rus
@@ -61473,13 +61494,15 @@
  stem: улос.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: родная сторона, местность, область, округ, семья, общество, житьё
+ paradigm: Noun-num-consonant-y
+ trans_ru: родная сторона; область; житьё
 
 -lexeme
  lex: улосвыл
  stem: улосвыл.
  gramm: N
  paradigm: Noun-num-consonant
+ paradigm: Noun-num-consonant-y
  trans_ru: территория, область, пространство, площадь
 
 -lexeme
@@ -62475,6 +62498,13 @@
  gramm: N,rus
  paradigm: Noun-num-ija
  trans_ru: фальсификация
+
+-lexeme
+ lex: ассигнация
+ stem: ассигнация.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ trans_ru: ассигнация
 
 -lexeme
  lex: фамилия
@@ -86976,6 +87006,12 @@
  gramm: N,rus
  paradigm: Noun-num-vowel
  trans_ru: авиаперевозка
+-lexeme
+ lex: заморозка
+ stem: заморозка.
+ gramm: N,rus
+ paradigm: Noun-num-vowel
+ trans_ru: заморозка
 -lexeme
  lex: авиаполк
  stem: авиаполк.
