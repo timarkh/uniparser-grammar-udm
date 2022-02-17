@@ -54144,7 +54144,7 @@
  stem: слива.
  gramm: N,rus
  paradigm: Noun-num-vowel
- trans_ru: слива, сливалэсь варенья сливовое варенье
+ trans_ru: слива
 
 -lexeme
  lex: словак
@@ -84246,6 +84246,12 @@
  paradigm: Noun-num-j
  trans_ru: столовая
 -lexeme
+ lex: столовая
+ stem: столовая.
+ gramm: N,rus
+ paradigm: Noun-num-vowel
+ trans_ru: столовая
+-lexeme
  lex: стоматология
  stem: стоматологи.
  gramm: N,rus
@@ -97279,7 +97285,7 @@
  stem: гажанчик.
  gramm: N,rus_afx,anim,hum
  paradigm: Noun-num-consonant
- trans_ru: уважаемый
+ trans_ru: дорогой
 -lexeme
  lex: галерея
  stem: галлерея.
@@ -101884,7 +101890,7 @@
 -lexeme
  lex: варенья
  gramm: N,rus
- stem: варенья.
+ stem: варенья.//варень.
  paradigm: Noun-num-vowel
  trans_ru: варенье
 
@@ -117399,4 +117405,53 @@
  stem: уха.
  paradigm: Noun-num-vowel
  trans_ru: уха
+
+-lexeme
+ lex: туган
+ gramm: N,anim,hum
+ stem: туган.
+ paradigm: Noun-num-consonant
+ trans_ru: родственник, близкий человек, друг
+
+-lexeme
+ lex: предок
+ gramm: N,anim,rus,hum
+ stem: предок.
+ paradigm: Noun-num-consonant
+ trans_ru: предок
+
+-lexeme
+ lex: кабыл
+ gramm: N
+ stem: кабыл.
+ paradigm: Noun-num-consonant
+ trans_ru: польза
+
+-lexeme
+ lex: муларды
+ gramm: N,rus,anim
+ stem: муларды.
+ paradigm: Noun-num-vowel
+ trans_ru: мулард (вид домашней птицы)
+
+-lexeme
+ lex: киёв
+ gramm: N,anim,hum
+ stem: киёв.
+ paradigm: Noun-num-consonant
+ trans_ru: зять
+
+-lexeme
+ lex: куту
+ gramm: N
+ stem: куту.
+ paradigm: Noun-num-vowel
+ trans_ru: стадо
+
+-lexeme
+ lex: холм
+ gramm: N,rus
+ stem: холм.
+ paradigm: Noun-num-consonant
+ trans_ru: холм
 

@@ -797,7 +797,7 @@
 
 -lexeme
  lex: ай
- stem: ай.
+ stem: ай.//й.
  gramm: PART
  paradigm: Empty
  trans_ru: а, вот, ведь, -ка
@@ -1156,7 +1156,7 @@
 
 -lexeme
  lex: ӵуказе
- stem: ӵуказе.
+ stem: ӵуказе.//ӵукае.
  gramm: ADV
  paradigm: Comparative
  paradigm: Noun-case
@@ -1165,7 +1165,7 @@
 
 -lexeme
  lex: ӝытазе
- stem: ӝытазе.
+ stem: ӝытазе.//ӝытае.
  gramm: ADV
  paradigm: Comparative
  paradigm: Noun-case
@@ -18279,3 +18279,66 @@
  stem: угу.
  paradigm: Comparative
  trans_ru: угу
+
+-lexeme
+ lex: уже
+ gramm: ADV,rus
+ stem: уже.
+ paradigm: connect_adverbs
+ trans_ru: уже
+
+-lexeme
+ lex: бесплатно
+ gramm: ADV,rus
+ stem: бесплатно.
+ paradigm: connect_adverbs
+ trans_ru: бесплатно
+
+-lexeme
+ lex: ӟандан
+ gramm: ADV
+ stem: ӟандан.
+ paradigm: connect_adverbs
+ trans_ru: снова
+
+-lexeme
+ lex: ка
+ gramm: ADV
+ stem: ка.
+ paradigm: connect_adverbs
+ trans_ru: сейчас
+
+-lexeme
+ lex: чак
+ gramm: ADV
+ stem: чак.
+ paradigm: connect_adverbs
+ trans_ru: едва, еле, чуть
+
+-lexeme
+ lex: кунолке
+ gramm: ADV
+ stem: кунолке.
+ paradigm: connect_adverbs
+ trans_ru: в гости
+
+-lexeme
+ lex: только
+ gramm: PART,rus
+ stem: только.
+ paradigm: Comparative
+ trans_ru: только
+
+-lexeme
+ lex: бары
+ gramm: PART
+ stem: бары.
+ paradigm: Comparative
+ trans_ru: лишь, всего, только
+
+-lexeme
+ lex: бугай
+ gramm: PARENTH
+ stem: бугай.
+ paradigm: Comparative
+ trans_ru: вероятно, кажется

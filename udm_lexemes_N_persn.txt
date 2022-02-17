@@ -69524,3 +69524,38 @@
  paradigm: Noun-num-vowel
  trans_ru: Воробьёвы (горы)
 
+-lexeme
+ lex: Бармыш
+ gramm: N,PN,topn
+ stem: бармыш.
+ paradigm: Noun-num-consonant
+ trans_ru: Бармыш (река)
+
+-lexeme
+ lex: Кама
+ gramm: N,PN,topn
+ stem: кама.
+ paradigm: Noun-num-vowel
+ trans_ru: Кама (река)
+
+-lexeme
+ lex: Рафик
+ gramm: N,persn,PN
+ stem: рафик.
+ paradigm: Noun-num-consonant
+ trans_ru: Рафик
+
+-lexeme
+ lex: Дюртюли
+ gramm: N,topn,PN
+ stem: дюртюли.
+ paradigm: Noun-num-vowel
+ trans_ru: Дюртюли
+
+-lexeme
+ lex: Витанина
+ gramm: N,persn,PN
+ stem: витанина.
+ paradigm: Noun-num-vowel
+ trans_ru: Витанина
+

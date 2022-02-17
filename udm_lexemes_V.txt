@@ -10845,7 +10845,7 @@
 
 -lexeme
  lex: лайыны
- stem: лай.
+ stem: лай.|ла.
  gramm: V,I,tr
  paradigm: connect_verbs-I
  trans_ru: размешивать, месить
@@ -45957,7 +45957,43 @@
 
 -lexeme
  lex: чотланы
- gramm: V,II,tr
+ gramm: V,II,tr,rus
  stem: чотла.
  paradigm: connect_verbs-II
  trans_ru: считать
+
+-lexeme
+ lex: шалгетыны
+ gramm: V,intr,I
+ stem: шалгет.
+ paradigm: connect_verbs-I
+ trans_ru: шуметь
+
+-lexeme
+ lex: шулдыраны
+ gramm: V,intr,II
+ stem: шулдыра.
+ paradigm: connect_verbs-II
+ trans_ru: веселиться
+
+-lexeme
+ lex: кутуланы
+ gramm: V,intr,II
+ stem: кутула.
+ paradigm: connect_verbs-II
+ trans_ru: пастушить
+
+-lexeme
+ lex: даруаны
+ gramm: V,II,tr
+ stem: даруа.
+ paradigm: connect_verbs-II
+ trans_ru: травить
+
+-lexeme
+ lex: даруланы
+ gramm: V,II,tr
+ stem: дарула.
+ paradigm: connect_verbs-II
+ trans_ru: травить
+

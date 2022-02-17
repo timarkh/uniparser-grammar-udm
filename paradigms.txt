@@ -501,6 +501,10 @@
   gramm: pl,attr,attr_tem,nonst
   gloss: PL|NEG.ATTR
   paradigm: connect_adjectives
+ -flex: .ен|тэм<.>
+  gramm: ins,attr,attr_tem
+  gloss: INS|NEG.ATTR
+  paradigm: connect_adjectives
  -flex: .скын<.>
   gramm: period
   gloss: DELIM
@@ -586,6 +590,10 @@
   gramm: pl,attr,attr_tem,nonst
   gloss: PL|NEG.ATTR
   paradigm: connect_adjectives
+ -flex: <0>.ен|тэм<.>
+  gramm: ins,attr,attr_tem
+  gloss: INS|NEG.ATTR
+  paradigm: connect_adjectives
  -flex: <0>.скын<.>
   gramm: period
   gloss: DELIM
@@ -645,6 +653,10 @@
  -flex: .ёс|тэм<.>
   gramm: pl,attr,attr_tem,nonst
   gloss: PL|NEG.ATTR
+  paradigm: connect_adjectives
+ -flex: .ен|тэм<.>//.ын|тэм<.>
+  gramm: ins,attr,attr_tem
+  gloss: INS|NEG.ATTR
   paradigm: connect_adjectives
  -flex: .скын<.>
   gramm: period
@@ -709,6 +721,10 @@
   gramm: pl,attr,attr_tem
   gloss: PL|NEG.ATTR
   paradigm: connect_adjectives
+ -flex: .ен|тэм<.>
+  gramm: ins,attr,attr_tem
+  gloss: INS|NEG.ATTR
+  paradigm: connect_adjectives
  -flex: .скын<.>
   gramm: period
   gloss: DELIM
@@ -772,6 +788,15 @@
   regex-prev: ^.*[бвгжӝкмпрфчӵшщ][<>.]*$
   gramm: pl,attr,attr_tem
   gloss: PL|NEG.ATTR
+  paradigm: connect_adjectives
+ -flex: .эн|тэм<.>
+  gramm: ins,attr,attr_tem
+  gloss: INS|NEG.ATTR
+  paradigm: connect_adjectives
+ -flex: .ен|тэм<.>
+  gramm: ins,attr,attr_tem
+  gloss: INS|NEG.ATTR
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
   paradigm: connect_adjectives
  -flex: .скын<.>
   gramm: period
@@ -846,6 +871,15 @@
   gramm: pl,attr,attr_tem
   gloss: PL|NEG.ATTR
   paradigm: connect_adjectives
+ -flex: .эн|тэм<.>
+  gramm: ins,attr,attr_tem
+  gloss: INS|NEG.ATTR
+  paradigm: connect_adjectives
+ -flex: .ен|тэм<.>
+  gramm: ins,attr,attr_tem
+  gloss: INS|NEG.ATTR
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  paradigm: connect_adjectives
 
 -paradigm: Noun-num-consonant-y
  -flex: .<.>
@@ -893,6 +927,15 @@
  -flex: .ъёс|тэм<.>
   gramm: pl,attr,attr_tem
   gloss: PL|NEG.ATTR
+  paradigm: connect_adjectives
+ -flex: .эн|тэм<.>//.ын|тэм<.>
+  gramm: ins,attr,attr_tem
+  gloss: INS|NEG.ATTR
+  paradigm: connect_adjectives
+ -flex: .ен|тэм<.>
+  gramm: ins,attr,attr_tem
+  gloss: INS|NEG.ATTR
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
   paradigm: connect_adjectives
  -flex: .скын<.>
   gramm: period
@@ -1047,6 +1090,10 @@
   gramm: pl,attr,attr_tem
   gloss: PL|NEG.ATTR
   paradigm: connect_adjectives
+ -flex: .ен|тэм<.>
+  gramm: ins,attr,attr_tem
+  gloss: INS|NEG.ATTR
+  paradigm: connect_adjectives
  -flex: .[ь]скын<.>
   gramm: period
   gloss: DELIM
@@ -1081,6 +1128,10 @@
  -flex: .ьёс|тэм<.>
   gramm: pl,attr,attr_tem
   gloss: PL|NEG.ATTR
+  paradigm: connect_adjectives
+ -flex: .ен|тэм<.>
+  gramm: ins,attr,attr_tem
+  gloss: INS|NEG.ATTR
   paradigm: connect_adjectives
 
 -paradigm: Noun-num-soft-y
@@ -1123,6 +1174,10 @@
  -flex: .[ь]ёс|тэм<.>
   gramm: pl,attr,attr_tem
   gloss: PL|NEG.ATTR
+  paradigm: connect_adjectives
+ -flex: .ен|тэм<.>//.[ь]ын|тэм<.>
+  gramm: ins,attr,attr_tem
+  gloss: INS|NEG.ATTR
   paradigm: connect_adjectives
  -flex: .[ь]скын<.>
   gramm: period
@@ -1185,6 +1240,10 @@
   regex-stem: .*[иӥ][.<>]*$
   gramm: pl,attr,attr_tem
   gloss: PL|NEG.ATTR
+  paradigm: connect_adjectives
+ -flex: .ен|тэм<.>
+  gramm: ins,attr,attr_tem
+  gloss: INS|NEG.ATTR
   paradigm: connect_adjectives
  -flex: .[й]скын<.>
   gramm: period
@@ -1249,6 +1308,14 @@
   gramm: pl,attr,attr_tem
   gloss: PL|NEG.ATTR
   paradigm: connect_adjectives
+ -flex: .[й]ын|тэм<.>
+  gramm: ins,attr,attr_tem
+  gloss: INS|NEG.ATTR
+  paradigm: connect_adjectives
+ -flex: .ен|тэм<.>
+  gramm: ins,attr,attr_tem
+  gloss: INS|NEG.ATTR
+  paradigm: connect_adjectives
  -flex: .[й]скын<.>
   gramm: period
   gloss: DELIM
@@ -1293,6 +1360,10 @@
   gramm: pl,attr,attr_tem
   gloss: PL|NEG.ATTR
   paradigm: connect_adjectives
+ -flex: .ен|тэм<.>
+  gramm: ins,attr,attr_tem
+  gloss: INS|NEG.ATTR
+  paradigm: connect_adjectives
 
 -paradigm: Noun-num-ije
  -flex: .<.>
@@ -1331,6 +1402,10 @@
  -flex: .ос|тэм<.>//.ёс|тэм<.>//.[е]ос|тэм<.>//.[е]ёс|тэм<.>
   gramm: pl,attr,attr_tem
   gloss: PL|NEG.ATTR
+  paradigm: connect_adjectives
+ -flex: .ен|тэм<.>
+  gramm: ins,attr,attr_tem
+  gloss: INS|NEG.ATTR
   paradigm: connect_adjectives
 
 -paradigm: Noun-num-pal
@@ -6510,9 +6585,17 @@
  -flex: <0>.ыл<.>//<0>.ылл<.>
   gramm: iter
   gloss: ITER
+ -flex: <0>.л<.>
+  gramm: iter
+  gloss: ITER
+  regex-prev: ^.*[ую][<>.]*$
  -flex: <0>.ыл|ыл<.>//<0>.ылл|ыл<.>//<0>.ылл|ылл<.>//<0>.ыл|ылл<.>
   gramm: iter
   gloss: ITER|ITER
+ -flex: <0>.л|ыл<.>//<0>.л|ылл<.>
+  gramm: iter
+  gloss: ITER|ITER
+  regex-prev: ^.*[ую][<>.]*$
  -flex: <0>.эм|ъя|ськ<.>
   gramm: fict
   gloss: PTCP.PST|MULT|PASS

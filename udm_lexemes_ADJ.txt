@@ -4411,7 +4411,7 @@
 
 -lexeme
  lex: первой
- stem: перво.//первы.
+ stem: перво.//первы.//перви.
  gramm: NUM,ord,rus
  paradigm: connect_adjectives-j
  trans_ru: первый
@@ -38726,3 +38726,9 @@
  paradigm: connect_adjectives-j
  trans_ru: пресный
 
+-lexeme
+ lex: солэнной
+ gramm: ADJ,rus
+ stem: солэнно.
+ paradigm: connect_adjectives-j
+ trans_ru: солёный
