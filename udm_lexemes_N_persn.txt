@@ -4557,6 +4557,13 @@
  trans_ru: США
 
 -lexeme
+ lex: РФ
+ stem: рф.//рф-.
+ gramm: N,PN,topn,abbr
+ paradigm: Noun-num-vowel
+ trans_ru: РФ (Российская Федерация)
+
+-lexeme
  lex: Белоруссия
  stem: белорусси.
  gramm: N,PN,topn
@@ -69558,4 +69565,3806 @@
  stem: витанина.
  paradigm: Noun-num-vowel
  trans_ru: Витанина
+
+
+-lexeme
+ lex: Шумихина
+ stem: шумихина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Шумихина
+
+-lexeme
+ lex: Вдовина
+ stem: вдовина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Вдовина
+
+-lexeme
+ lex: Колодкина
+ stem: колодкина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Колодкина
+
+-lexeme
+ lex: Губская
+ stem: губская.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Губская
+
+-lexeme
+ lex: Шеда-Зорина
+ stem: шеда-зорина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Шеда-Зорина
+
+-lexeme
+ lex: Мухаметшина
+ stem: мухаметшина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Мухаметшина
+
+-lexeme
+ lex: Ураськина
+ stem: ураськина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Ураськина
+
+-lexeme
+ lex: Дюкина
+ stem: дюкина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Дюкина
+
+-lexeme
+ lex: Пластинина
+ stem: пластинина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Пластинина
+
+-lexeme
+ lex: Ежова
+ stem: ежова.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Ежова
+
+-lexeme
+ lex: Верещагина
+ stem: верещагина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Верещагина
+
+-lexeme
+ lex: Малинина
+ stem: малинина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Малинина
+
+-lexeme
+ lex: Сметанина
+ stem: сметанина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Сметанина
+
+-lexeme
+ lex: Бекчурина
+ stem: бекчурина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Бекчурина
+
+-lexeme
+ lex: Братина
+ stem: братина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Братина
+
+-lexeme
+ lex: Падерина
+ stem: падерина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Падерина
+
+-lexeme
+ lex: Полянкина
+ stem: полянкина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Полянкина
+
+-lexeme
+ lex: Руфина
+ stem: руфина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Руфина
+
+-lexeme
+ lex: Телицина
+ stem: телицина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Телицина
+
+-lexeme
+ lex: Шахтина
+ stem: шахтина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Шахтина
+
+-lexeme
+ lex: Глазырина
+ stem: глазырина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Глазырина
+
+-lexeme
+ lex: Марьина
+ stem: марьина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Марьина
+
+-lexeme
+ lex: Опарина
+ stem: опарина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Опарина
+
+-lexeme
+ lex: Умарина
+ stem: умарина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Умарина
+
+-lexeme
+ lex: Долбушина
+ stem: долбушина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Долбушина
+
+-lexeme
+ lex: Зуева-Измайлова
+ stem: зуева-измайлова.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Зуева-Измайлова
+
+-lexeme
+ lex: Итешина
+ stem: итешина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Итешина
+
+-lexeme
+ lex: Куликовская
+ stem: куликовская.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Куликовская
+
+-lexeme
+ lex: Бородулина
+ stem: бородулина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Бородулина
+
+-lexeme
+ lex: Долина
+ stem: долина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Долина
+
+-lexeme
+ lex: Пушкина
+ stem: пушкина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Пушкина
+
+-lexeme
+ lex: Северюхина
+ stem: северюхина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Северюхина
+
+-lexeme
+ lex: Якунина
+ stem: якунина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Якунина
+
+-lexeme
+ lex: Болотникова
+ stem: болотникова.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Болотникова
+
+-lexeme
+ lex: Губкина
+ stem: губкина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Губкина
+
+-lexeme
+ lex: Капитолина
+ stem: капитолина.
+ gramm: N,PN,persn
+ paradigm: Noun-num-vowel
+ trans_ru: Капитолина
+
+-lexeme
+ lex: Мурашкина
+ stem: мурашкина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Мурашкина
+
+-lexeme
+ lex: Мышкина
+ stem: мышкина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Мышкина
+
+-lexeme
+ lex: Поварёнкина
+ stem: поварёнкина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Поварёнкина
+
+-lexeme
+ lex: Рассомахина
+ stem: рассомахина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Рассомахина
+
+-lexeme
+ lex: Самарина
+ stem: самарина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Самарина
+
+-lexeme
+ lex: Хрестина
+ stem: хрестина.
+ gramm: N,PN,persn
+ paradigm: Noun-num-vowel
+ trans_ru: Хрестина
+
+-lexeme
+ lex: Шабардина
+ stem: шабардина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Шабардина
+
+-lexeme
+ lex: Шергина
+ stem: шергина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Шергина
+
+-lexeme
+ lex: Азябина
+ stem: азябина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Азябина
+
+-lexeme
+ lex: Верёвкина
+ stem: верёвкина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Верёвкина
+
+-lexeme
+ lex: Демина
+ stem: демина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Демина
+
+-lexeme
+ lex: Киршина
+ stem: киршина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Киршина
+
+-lexeme
+ lex: Куклина
+ stem: куклина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Куклина
+
+-lexeme
+ lex: Лисина
+ stem: лисина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Лисина
+
+-lexeme
+ lex: Матюшина
+ stem: матюшина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Матюшина
+
+-lexeme
+ lex: Нигматуллина
+ stem: нигматуллина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Нигматуллина
+
+-lexeme
+ lex: Нуруллина
+ stem: нуруллина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Нуруллина
+
+-lexeme
+ lex: Шабалина
+ stem: шабалина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Шабалина
+
+-lexeme
+ lex: Боткина
+ stem: боткина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Боткина
+
+-lexeme
+ lex: Булыгина
+ stem: булыгина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Булыгина
+
+-lexeme
+ lex: Бускина
+ stem: бускина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Бускина
+
+-lexeme
+ lex: Голубина
+ stem: голубина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Голубина
+
+-lexeme
+ lex: Зворыгина
+ stem: зворыгина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Зворыгина
+
+-lexeme
+ lex: Зеленина
+ stem: зеленина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Зеленина
+
+-lexeme
+ lex: Иргина
+ stem: иргина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Иргина
+
+-lexeme
+ lex: Ландина
+ stem: ландина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Ландина
+
+-lexeme
+ lex: Лялина
+ stem: лялина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Лялина
+
+-lexeme
+ lex: Путина
+ stem: путина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Путина
+
+-lexeme
+ lex: Сурнина
+ stem: сурнина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Сурнина
+
+-lexeme
+ lex: Тёмкина
+ stem: тёмкина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Тёмкина
+
+-lexeme
+ lex: Щепина
+ stem: щепина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Щепина
+
+-lexeme
+ lex: Ярышкина
+ stem: ярышкина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Ярышкина
+
+-lexeme
+ lex: Алёшкина
+ stem: алёшкина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Алёшкина
+
+-lexeme
+ lex: Байдуллина
+ stem: байдуллина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Байдуллина
+
+-lexeme
+ lex: Братухина
+ stem: братухина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Братухина
+
+-lexeme
+ lex: Виталина
+ stem: виталина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Виталина
+
+-lexeme
+ lex: Гаранькина
+ stem: гаранькина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Гаранькина
+
+-lexeme
+ lex: Головина
+ stem: головина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Головина
+
+-lexeme
+ lex: Гусоргина
+ stem: гусоргина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Гусоргина
+
+-lexeme
+ lex: Заварухина
+ stem: заварухина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Заварухина
+
+-lexeme
+ lex: Заволокина
+ stem: заволокина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Заволокина
+
+-lexeme
+ lex: Картошкина
+ stem: картошкина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Картошкина
+
+-lexeme
+ lex: Кашина
+ stem: кашина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Кашина
+
+-lexeme
+ lex: Ковалевская
+ stem: ковалевская.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Ковалевская
+
+-lexeme
+ lex: Конькина
+ stem: конькина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Конькина
+
+-lexeme
+ lex: Ломагина
+ stem: ломагина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Ломагина
+
+-lexeme
+ lex: Лукинская
+ stem: лукинская.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Лукинская
+
+-lexeme
+ lex: Лямина
+ stem: лямина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Лямина
+
+-lexeme
+ lex: Марасинская
+ stem: марасинская.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Марасинская
+
+-lexeme
+ lex: Митрошина
+ stem: митрошина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Митрошина
+
+-lexeme
+ lex: Никулина
+ stem: никулина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Никулина
+
+-lexeme
+ lex: Островская
+ stem: островская.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Островская
+
+-lexeme
+ lex: Петрушина
+ stem: петрушина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Петрушина
+
+-lexeme
+ lex: Сабина
+ stem: сабина.
+ gramm: N,PN,persn
+ paradigm: Noun-num-vowel
+ trans_ru: Сабина
+
+-lexeme
+ lex: Сажина
+ stem: сажина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Сажина
+
+-lexeme
+ lex: Татаркина
+ stem: татаркина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Татаркина
+
+-lexeme
+ lex: Федина
+ stem: федина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Федина
+
+-lexeme
+ lex: Хайруллина
+ stem: хайруллина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Хайруллина
+
+-lexeme
+ lex: Чекина
+ stem: чекина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Чекина
+
+-lexeme
+ lex: Шапкина
+ stem: шапкина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Шапкина
+
+-lexeme
+ lex: Щуклина
+ stem: щуклина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Щуклина
+
+-lexeme
+ lex: Анджелина
+ stem: анджелина.
+ gramm: N,PN,persn
+ paradigm: Noun-num-vowel
+ trans_ru: Анджелина
+
+-lexeme
+ lex: Бахтина
+ stem: бахтина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Бахтина
+
+-lexeme
+ lex: Бубякина
+ stem: бубякина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Бубякина
+
+-lexeme
+ lex: Вилухина
+ stem: вилухина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Вилухина
+
+-lexeme
+ lex: Габдуллина
+ stem: габдуллина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Габдуллина
+
+-lexeme
+ lex: Гребёнкина
+ stem: гребёнкина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Гребёнкина
+
+-lexeme
+ lex: Губина
+ stem: губина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Губина
+
+-lexeme
+ lex: Давыденкова
+ stem: давыденкова.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Давыденкова
+
+-lexeme
+ lex: Дерягина
+ stem: дерягина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Дерягина
+
+-lexeme
+ lex: Завалина
+ stem: завалина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Завалина
+
+-lexeme
+ lex: Знаменская
+ stem: знаменская.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Знаменская
+
+-lexeme
+ lex: Казарновская
+ stem: казарновская.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Казарновская
+
+-lexeme
+ lex: Коробкина
+ stem: коробкина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Коробкина
+
+-lexeme
+ lex: Корякина
+ stem: корякина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Корякина
+
+-lexeme
+ lex: Кудрина
+ stem: кудрина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Кудрина
+
+-lexeme
+ lex: Лопаткина
+ stem: лопаткина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Лопаткина
+
+-lexeme
+ lex: Малыгина
+ stem: малыгина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Малыгина
+
+-lexeme
+ lex: Мишкина
+ stem: мишкина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Мишкина
+
+-lexeme
+ lex: Мосягина
+ stem: мосягина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Мосягина
+
+-lexeme
+ lex: Нурмухаметова
+ stem: нурмухаметова.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Нурмухаметова
+
+-lexeme
+ lex: Омелюхина
+ stem: омелюхина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Омелюхина
+
+-lexeme
+ lex: Пашкина
+ stem: пашкина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Пашкина
+
+-lexeme
+ lex: Пелагина
+ stem: пелагина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Пелагина
+
+-lexeme
+ lex: Перова
+ stem: перова.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Перова
+
+-lexeme
+ lex: Подгорнова
+ stem: подгорнова.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Подгорнова
+
+-lexeme
+ lex: Подольская
+ stem: подольская.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Подольская
+
+-lexeme
+ lex: Ракова
+ stem: ракова.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Ракова
+
+-lexeme
+ lex: Саварская
+ stem: саварская.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Саварская
+
+-lexeme
+ lex: Семыкина
+ stem: семыкина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Семыкина
+
+-lexeme
+ lex: Сутыгина
+ stem: сутыгина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Сутыгина
+
+-lexeme
+ lex: Таныгина
+ stem: таныгина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Таныгина
+
+-lexeme
+ lex: Толстухина
+ stem: толстухина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Толстухина
+
+-lexeme
+ lex: Тюпина
+ stem: тюпина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Тюпина
+
+-lexeme
+ lex: Устюжанина
+ stem: устюжанина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Устюжанина
+
+-lexeme
+ lex: Христина
+ stem: христина.
+ gramm: N,PN,persn
+ paradigm: Noun-num-vowel
+ trans_ru: Христина
+
+-lexeme
+ lex: Чермянина
+ stem: чермянина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Чермянина
+
+-lexeme
+ lex: Чугайнова
+ stem: чугайнова.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Чугайнова
+
+-lexeme
+ lex: Шараборина
+ stem: шараборина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Шараборина
+
+-lexeme
+ lex: Шахова
+ stem: шахова.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Шахова
+
+-lexeme
+ lex: Шоркина
+ stem: шоркина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Шоркина
+
+-lexeme
+ lex: Юстина
+ stem: юстина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Юстина
+
+-lexeme
+ lex: Аккузина
+ stem: аккузина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Аккузина
+
+-lexeme
+ lex: Антипина
+ stem: антипина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Антипина
+
+-lexeme
+ lex: Барановская
+ stem: барановская.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Барановская
+
+-lexeme
+ lex: Батыршина
+ stem: батыршина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Батыршина
+
+-lexeme
+ lex: Бутолина
+ stem: бутолина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Бутолина
+
+-lexeme
+ lex: Ветошкина
+ stem: ветошкина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Ветошкина
+
+-lexeme
+ lex: Винтилова
+ stem: винтилова.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Винтилова
+
+-lexeme
+ lex: Гавшина
+ stem: гавшина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Гавшина
+
+-lexeme
+ lex: Голдина
+ stem: голдина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Голдина
+
+-lexeme
+ lex: Головкина
+ stem: головкина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Головкина
+
+-lexeme
+ lex: Дрямина
+ stem: дрямина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Дрямина
+
+-lexeme
+ lex: Жуковская
+ stem: жуковская.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Жуковская
+
+-lexeme
+ lex: Замятина
+ stem: замятина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Замятина
+
+-lexeme
+ lex: Захваткина
+ stem: захваткина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Захваткина
+
+-lexeme
+ lex: Зянкина
+ stem: зянкина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Зянкина
+
+-lexeme
+ lex: Ижболдина
+ stem: ижболдина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Ижболдина
+
+-lexeme
+ lex: Ильмурзина
+ stem: ильмурзина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Ильмурзина
+
+-lexeme
+ lex: Ишкузина
+ stem: ишкузина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Ишкузина
+
+-lexeme
+ lex: Колчина
+ stem: колчина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Колчина
+
+-lexeme
+ lex: Комолкина
+ stem: комолкина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Комолкина
+
+-lexeme
+ lex: Курочкина
+ stem: курочкина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Курочкина
+
+-lexeme
+ lex: Лапикова
+ stem: лапикова.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Лапикова
+
+-lexeme
+ lex: Латина
+ stem: латина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Латина
+
+-lexeme
+ lex: Леготкина
+ stem: леготкина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Леготкина
+
+-lexeme
+ lex: Лискина
+ stem: лискина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Лискина
+
+-lexeme
+ lex: Люкина
+ stem: люкина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Люкина
+
+-lexeme
+ lex: Мадина
+ stem: мадина.
+ gramm: N,PN,persn
+ paradigm: Noun-num-vowel
+ trans_ru: Мадина
+
+-lexeme
+ lex: Нечаевская
+ stem: нечаевская.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Нечаевская
+
+-lexeme
+ lex: Пагина
+ stem: пагина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Пагина
+
+-lexeme
+ lex: Пальшина
+ stem: пальшина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Пальшина
+
+-lexeme
+ lex: Пелевина
+ stem: пелевина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Пелевина
+
+-lexeme
+ lex: Садова
+ stem: садова.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Садова
+
+-lexeme
+ lex: Сентебова
+ stem: сентебова.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Сентебова
+
+-lexeme
+ lex: Смердова
+ stem: смердова.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Смердова
+
+-lexeme
+ lex: Сонина
+ stem: сонина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Сонина
+
+-lexeme
+ lex: Сырыгина
+ stem: сырыгина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Сырыгина
+
+-lexeme
+ lex: Тазларова
+ stem: тазларова.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Тазларова
+
+-lexeme
+ lex: Тишина
+ stem: тишина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Тишина
+
+-lexeme
+ lex: Толчина
+ stem: толчина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Толчина
+
+-lexeme
+ lex: Тюрина
+ stem: тюрина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Тюрина
+
+-lexeme
+ lex: Услугина
+ stem: услугина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Услугина
+
+-lexeme
+ lex: Утробина
+ stem: утробина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Утробина
+
+-lexeme
+ lex: Хорошенина
+ stem: хорошенина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Хорошенина
+
+-lexeme
+ lex: Шастова-Курбатова
+ stem: шастова-курбатова.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Шастова-Курбатова
+
+-lexeme
+ lex: Шлыгина
+ stem: шлыгина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Шлыгина
+
+-lexeme
+ lex: Якимкина
+ stem: якимкина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Якимкина
+
+-lexeme
+ lex: Альбертина
+ stem: альбертина.
+ gramm: N,PN,persn
+ paradigm: Noun-num-vowel
+ trans_ru: Альбертина
+
+-lexeme
+ lex: Барбакова
+ stem: барбакова.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Барбакова
+
+-lexeme
+ lex: Белкова
+ stem: белкова.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Белкова
+
+-lexeme
+ lex: Бичурина
+ stem: бичурина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Бичурина
+
+-lexeme
+ lex: Быгинская
+ stem: быгинская.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Быгинская
+
+-lexeme
+ lex: Варина
+ stem: варина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Варина
+
+-lexeme
+ lex: Василина
+ stem: василина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Василина
+
+-lexeme
+ lex: Вечканова
+ stem: вечканова.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Вечканова
+
+-lexeme
+ lex: Вичужанина
+ stem: вичужанина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Вичужанина
+
+-lexeme
+ lex: Волконская
+ stem: волконская.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Волконская
+
+-lexeme
+ lex: Володина
+ stem: володина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Володина
+
+-lexeme
+ lex: Вьюжанина
+ stem: вьюжанина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Вьюжанина
+
+-lexeme
+ lex: Глазунова
+ stem: глазунова.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Глазунова
+
+-lexeme
+ lex: Гунина
+ stem: гунина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Гунина
+
+-lexeme
+ lex: Добровольская
+ stem: добровольская.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Добровольская
+
+-lexeme
+ lex: Дресвянская
+ stem: дресвянская.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Дресвянская
+
+-lexeme
+ lex: Дружинина
+ stem: дружинина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Дружинина
+
+-lexeme
+ lex: Дуркина
+ stem: дуркина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Дуркина
+
+-lexeme
+ lex: Жижина
+ stem: жижина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Жижина
+
+-lexeme
+ lex: Забелинская
+ stem: забелинская.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Забелинская
+
+-lexeme
+ lex: Заварзина
+ stem: заварзина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Заварзина
+
+-lexeme
+ lex: Загуменнова
+ stem: загуменнова.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Загуменнова
+
+-lexeme
+ lex: Зубина
+ stem: зубина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Зубина
+
+-lexeme
+ lex: Ивакина
+ stem: ивакина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Ивакина
+
+-lexeme
+ lex: Каменская
+ stem: каменская.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Каменская
+
+-lexeme
+ lex: Каплина
+ stem: каплина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Каплина
+
+-lexeme
+ lex: Касенкова
+ stem: касенкова.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Касенкова
+
+-lexeme
+ lex: Кассиярова
+ stem: кассиярова.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Кассиярова
+
+-lexeme
+ lex: Катарина
+ stem: катарина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Катарина
+
+-lexeme
+ lex: Квакина
+ stem: квакина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Квакина
+
+-lexeme
+ lex: Кисиярова
+ stem: кисиярова.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Кисиярова
+
+-lexeme
+ lex: Колбина
+ stem: колбина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Колбина
+
+-lexeme
+ lex: Конина
+ stem: конина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Конина
+
+-lexeme
+ lex: Конторина
+ stem: конторина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Конторина
+
+-lexeme
+ lex: Корнилина
+ stem: корнилина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Корнилина
+
+-lexeme
+ lex: Коровкина
+ stem: коровкина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Коровкина
+
+-lexeme
+ lex: Королькова
+ stem: королькова.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Королькова
+
+-lexeme
+ lex: Крамова
+ stem: крамова.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Крамова
+
+-lexeme
+ lex: Красновская
+ stem: красновская.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Красновская
+
+-lexeme
+ lex: Кутергина
+ stem: кутергина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Кутергина
+
+-lexeme
+ lex: Леваншина
+ stem: леваншина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Леваншина
+
+-lexeme
+ lex: Ледянкина
+ stem: ледянкина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Ледянкина
+
+-lexeme
+ lex: Лепковская
+ stem: лепковская.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Лепковская
+
+-lexeme
+ lex: Лохтина
+ stem: лохтина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Лохтина
+
+-lexeme
+ lex: Лучихина
+ stem: лучихина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Лучихина
+
+-lexeme
+ lex: Лёвочкина
+ stem: лёвочкина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Лёвочкина
+
+-lexeme
+ lex: Мусихина
+ stem: мусихина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Мусихина
+
+-lexeme
+ lex: Никитина-Петрова
+ stem: никитина-петрова.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Никитина-Петрова
+
+-lexeme
+ lex: Овечкина
+ stem: овечкина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Овечкина
+
+-lexeme
+ lex: Паулина
+ stem: паулина.
+ gramm: N,PN,persn
+ paradigm: Noun-num-vowel
+ trans_ru: Паулина
+
+-lexeme
+ lex: Пермитина
+ stem: пермитина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Пермитина
+
+-lexeme
+ lex: Першина
+ stem: першина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Першина
+
+-lexeme
+ lex: Плетникова
+ stem: плетникова.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Плетникова
+
+-lexeme
+ lex: Понина
+ stem: понина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Понина
+
+-lexeme
+ lex: Порошина
+ stem: порошина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Порошина
+
+-lexeme
+ lex: Потехина
+ stem: потехина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Потехина
+
+-lexeme
+ lex: Потёмкина
+ stem: потёмкина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Потёмкина
+
+-lexeme
+ lex: Пулькина
+ stem: пулькина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Пулькина
+
+-lexeme
+ lex: Радыгина
+ stem: радыгина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Радыгина
+
+-lexeme
+ lex: Разумовская
+ stem: разумовская.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Разумовская
+
+-lexeme
+ lex: Ралина
+ stem: ралина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Ралина
+
+-lexeme
+ lex: Роднина
+ stem: роднина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Роднина
+
+-lexeme
+ lex: Россомахина
+ stem: россомахина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Россомахина
+
+-lexeme
+ lex: Рубальская
+ stem: рубальская.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Рубальская
+
+-lexeme
+ lex: Рудакова
+ stem: рудакова.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Рудакова
+
+-lexeme
+ lex: Ряховская
+ stem: ряховская.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Ряховская
+
+-lexeme
+ lex: Сакерина
+ stem: сакерина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Сакерина
+
+-lexeme
+ lex: Севрюгина
+ stem: севрюгина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Севрюгина
+
+-lexeme
+ lex: Синявская
+ stem: синявская.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Синявская
+
+-lexeme
+ lex: Соломатина
+ stem: соломатина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Соломатина
+
+-lexeme
+ lex: Сосновская
+ stem: сосновская.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Сосновская
+
+-lexeme
+ lex: Старина
+ stem: старина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Старина
+
+-lexeme
+ lex: Строкина
+ stem: строкина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Строкина
+
+-lexeme
+ lex: Терёшина
+ stem: терёшина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Терёшина
+
+-lexeme
+ lex: Тимиршина
+ stem: тимиршина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Тимиршина
+
+-lexeme
+ lex: Тимошкина
+ stem: тимошкина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Тимошкина
+
+-lexeme
+ lex: Трухина
+ stem: трухина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Трухина
+
+-lexeme
+ lex: Хардина
+ stem: хардина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Хардина
+
+-lexeme
+ lex: Хоркина
+ stem: хоркина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Хоркина
+
+-lexeme
+ lex: Чиговская-Назарова
+ stem: чиговская-назарова.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Чиговская-Назарова
+
+-lexeme
+ lex: Чукавина
+ stem: чукавина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Чукавина
+
+-lexeme
+ lex: Чулкина
+ stem: чулкина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Чулкина
+
+-lexeme
+ lex: Шалавина
+ stem: шалавина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Шалавина
+
+-lexeme
+ lex: Шахтарина
+ stem: шахтарина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Шахтарина
+
+-lexeme
+ lex: Шиврина
+ stem: шиврина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Шиврина
+
+-lexeme
+ lex: Шостина
+ stem: шостина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Шостина
+
+-lexeme
+ lex: Шуклина
+ stem: шуклина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Шуклина
+
+-lexeme
+ lex: Щенина
+ stem: щенина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Щенина
+
+-lexeme
+ lex: Абдулина
+ stem: абдулина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Абдулина
+
+-lexeme
+ lex: Альминская
+ stem: альминская.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Альминская
+
+-lexeme
+ lex: Ананина
+ stem: ананина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Ананина
+
+-lexeme
+ lex: Анжелина
+ stem: анжелина.
+ gramm: N,PN,persn
+ paradigm: Noun-num-vowel
+ trans_ru: Анжелина
+
+-lexeme
+ lex: Анхимова
+ stem: анхимова.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Анхимова
+
+-lexeme
+ lex: Афонина
+ stem: афонина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Афонина
+
+-lexeme
+ lex: Ахмадыршина
+ stem: ахмадыршина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Ахмадыршина
+
+-lexeme
+ lex: Ахтямова
+ stem: ахтямова.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Ахтямова
+
+-lexeme
+ lex: Бабурина
+ stem: бабурина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Бабурина
+
+-lexeme
+ lex: Балавина
+ stem: балавина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Балавина
+
+-lexeme
+ lex: Безрукова
+ stem: безрукова.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Безрукова
+
+-lexeme
+ lex: Белявская
+ stem: белявская.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Белявская
+
+-lexeme
+ lex: Бубина
+ stem: бубина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Бубина
+
+-lexeme
+ lex: Бурёнкина
+ stem: бурёнкина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Бурёнкина
+
+-lexeme
+ lex: Бухарина
+ stem: бухарина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Бухарина
+
+-lexeme
+ lex: Валишина
+ stem: валишина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Валишина
+
+-lexeme
+ lex: Ведрова-Петрова
+ stem: ведрова-петрова.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Ведрова-Петрова
+
+-lexeme
+ lex: Векшина-Посадова
+ stem: векшина-посадова.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Векшина-Посадова
+
+-lexeme
+ lex: Верхотина
+ stem: верхотина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Верхотина
+
+-lexeme
+ lex: Весновская
+ stem: весновская.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Весновская
+
+-lexeme
+ lex: Вольпина
+ stem: вольпина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Вольпина
+
+-lexeme
+ lex: Вяткина
+ stem: вяткина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Вяткина
+
+-lexeme
+ lex: Ганина
+ stem: ганина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Ганина
+
+-lexeme
+ lex: Гизатуллина
+ stem: гизатуллина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Гизатуллина
+
+-lexeme
+ lex: Горланкина
+ stem: горланкина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Горланкина
+
+-lexeme
+ lex: Губайдуллина
+ stem: губайдуллина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Губайдуллина
+
+-lexeme
+ lex: Дерябина
+ stem: дерябина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Дерябина
+
+-lexeme
+ lex: Дюпина
+ stem: дюпина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Дюпина
+
+-lexeme
+ lex: Дядькина
+ stem: дядькина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Дядькина
+
+-lexeme
+ lex: Ерофеева-Тверская
+ stem: ерофеева-тверская.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Ерофеева-Тверская
+
+-lexeme
+ lex: Жагина
+ stem: жагина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Жагина
+
+-lexeme
+ lex: Жилина
+ stem: жилина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Жилина
+
+-lexeme
+ lex: Жужгина
+ stem: жужгина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Жужгина
+
+-lexeme
+ lex: Зайнуллина
+ stem: зайнуллина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Зайнуллина
+
+-lexeme
+ lex: Запивалова
+ stem: запивалова.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Запивалова
+
+-lexeme
+ lex: Землякова
+ stem: землякова.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Землякова
+
+-lexeme
+ lex: Зойкина
+ stem: зойкина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Зойкина
+
+-lexeme
+ lex: Зубова
+ stem: зубова.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Зубова
+
+-lexeme
+ lex: Зюзикова
+ stem: зюзикова.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Зюзикова
+
+-lexeme
+ lex: Ильинская
+ stem: ильинская.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Ильинская
+
+-lexeme
+ lex: Кабиуллина
+ stem: кабиуллина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Кабиуллина
+
+-lexeme
+ lex: Казармина
+ stem: казармина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Казармина
+
+-lexeme
+ lex: Калабина
+ stem: калабина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Калабина
+
+-lexeme
+ lex: Калнина
+ stem: калнина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Калнина
+
+-lexeme
+ lex: Капина
+ stem: капина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Капина
+
+-lexeme
+ lex: Карягина
+ stem: карягина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Карягина
+
+-lexeme
+ lex: Кебакова
+ stem: кебакова.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Кебакова
+
+-lexeme
+ lex: Керенская
+ stem: керенская.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Керенская
+
+-lexeme
+ lex: Кислухина
+ stem: кислухина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Кислухина
+
+-lexeme
+ lex: Клековкина
+ stem: клековкина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Клековкина
+
+-lexeme
+ lex: Ковырзина
+ stem: ковырзина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Ковырзина
+
+-lexeme
+ lex: Коньшина
+ stem: коньшина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Коньшина
+
+-lexeme
+ lex: Коркина
+ stem: коркина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Коркина
+
+-lexeme
+ lex: Коростина
+ stem: коростина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Коростина
+
+-lexeme
+ lex: Короткина
+ stem: короткина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Короткина
+
+-lexeme
+ lex: Кошина
+ stem: кошина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Кошина
+
+-lexeme
+ lex: Кошовкина
+ stem: кошовкина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Кошовкина
+
+-lexeme
+ lex: Красовская
+ stem: красовская.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Красовская
+
+-lexeme
+ lex: Крекнина
+ stem: крекнина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Крекнина
+
+-lexeme
+ lex: Круглова
+ stem: круглова.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Круглова
+
+-lexeme
+ lex: Крутихина
+ stem: крутихина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Крутихина
+
+-lexeme
+ lex: Кручинина
+ stem: кручинина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Кручинина
+
+-lexeme
+ lex: Курепина
+ stem: курепина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Курепина
+
+-lexeme
+ lex: Кычанова
+ stem: кычанова.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Кычанова
+
+-lexeme
+ lex: Литвинова
+ stem: литвинова.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Литвинова
+
+-lexeme
+ lex: Ляпина
+ stem: ляпина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Ляпина
+
+-lexeme
+ lex: Магдалина
+ stem: магдалина.
+ gramm: N,PN,persn
+ paradigm: Noun-num-vowel
+ trans_ru: Магдалина
+
+-lexeme
+ lex: Магомедова
+ stem: магомедова.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Магомедова
+
+-lexeme
+ lex: Мазунина
+ stem: мазунина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Мазунина
+
+-lexeme
+ lex: Майтинская
+ stem: майтинская.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Майтинская
+
+-lexeme
+ lex: Марковина
+ stem: марковина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Марковина
+
+-lexeme
+ lex: Мехоношина
+ stem: мехоношина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Мехоношина
+
+-lexeme
+ lex: Милютинская
+ stem: милютинская.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Милютинская
+
+-lexeme
+ lex: Милявская
+ stem: милявская.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Милявская
+
+-lexeme
+ lex: Минина
+ stem: минина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Минина
+
+-lexeme
+ lex: Мирошкина
+ stem: мирошкина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Мирошкина
+
+-lexeme
+ lex: Митюхина
+ stem: митюхина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Митюхина
+
+-lexeme
+ lex: Можайская
+ stem: можайская.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Можайская
+
+-lexeme
+ lex: Московкина
+ stem: московкина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Московкина
+
+-lexeme
+ lex: Мурина
+ stem: мурина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Мурина
+
+-lexeme
+ lex: Мустафина
+ stem: мустафина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Мустафина
+
+-lexeme
+ lex: Мушина
+ stem: мушина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Мушина
+
+-lexeme
+ lex: Нагибина
+ stem: нагибина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Нагибина
+
+-lexeme
+ lex: Надейкина
+ stem: надейкина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Надейкина
+
+-lexeme
+ lex: Наина
+ stem: наина.
+ gramm: N,PN,persn
+ paradigm: Noun-num-vowel
+ trans_ru: Наина
+
+-lexeme
+ lex: Наташина
+ stem: наташина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Наташина
+
+-lexeme
+ lex: Нечеухина
+ stem: нечеухина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Нечеухина
+
+-lexeme
+ lex: Оганезова
+ stem: оганезова.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Оганезова
+
+-lexeme
+ lex: Остропольская
+ stem: остропольская.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Остропольская
+
+-lexeme
+ lex: Палабугина
+ stem: палабугина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Палабугина
+
+-lexeme
+ lex: Паршина
+ stem: паршина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Паршина
+
+-lexeme
+ lex: Пензина
+ stem: пензина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Пензина
+
+-lexeme
+ lex: Пешкина
+ stem: пешкина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Пешкина
+
+-lexeme
+ lex: Пониткина
+ stem: пониткина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Пониткина
+
+-lexeme
+ lex: Посвятовская
+ stem: посвятовская.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Посвятовская
+
+-lexeme
+ lex: Радионова
+ stem: радионова.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Радионова
+
+-lexeme
+ lex: Распопова
+ stem: распопова.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Распопова
+
+-lexeme
+ lex: Рогожина
+ stem: рогожина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Рогожина
+
+-lexeme
+ lex: Рогозина
+ stem: рогозина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Рогозина
+
+-lexeme
+ lex: Россихина
+ stem: россихина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Россихина
+
+-lexeme
+ lex: Сагаипова
+ stem: сагаипова.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Сагаипова
+
+-lexeme
+ lex: Селина
+ stem: селина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Селина
+
+-lexeme
+ lex: Семёнкина
+ stem: семёнкина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Семёнкина
+
+-lexeme
+ lex: Серегина
+ stem: серегина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Серегина
+
+-lexeme
+ lex: Сибгатуллина
+ stem: сибгатуллина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Сибгатуллина
+
+-lexeme
+ lex: Сидоркина
+ stem: сидоркина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Сидоркина
+
+-lexeme
+ lex: Симушина
+ stem: симушина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Симушина
+
+-lexeme
+ lex: Ситчихина
+ stem: ситчихина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Ситчихина
+
+-lexeme
+ lex: Снытина
+ stem: снытина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Снытина
+
+-lexeme
+ lex: Созыкина
+ stem: созыкина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Созыкина
+
+-lexeme
+ lex: Солодянкина
+ stem: солодянкина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Солодянкина
+
+-lexeme
+ lex: Стяжкина
+ stem: стяжкина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Стяжкина
+
+-lexeme
+ lex: Талигина
+ stem: талигина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Талигина
+
+-lexeme
+ lex: Тамасханова
+ stem: тамасханова.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Тамасханова
+
+-lexeme
+ lex: Тарабрина
+ stem: тарабрина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Тарабрина
+
+-lexeme
+ lex: Терликова
+ stem: терликова.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Терликова
+
+-lexeme
+ lex: Тимкова
+ stem: тимкова.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Тимкова
+
+-lexeme
+ lex: Торова
+ stem: торова.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Торова
+
+-lexeme
+ lex: Тройникова
+ stem: тройникова.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Тройникова
+
+-lexeme
+ lex: Тюрюмкина
+ stem: тюрюмкина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Тюрюмкина
+
+-lexeme
+ lex: Утехина
+ stem: утехина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Утехина
+
+-lexeme
+ lex: Ушкина
+ stem: ушкина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Ушкина
+
+-lexeme
+ lex: Халтурина
+ stem: халтурина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Халтурина
+
+-lexeme
+ lex: Хлопина
+ stem: хлопина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Хлопина
+
+-lexeme
+ lex: Цыбина
+ stem: цыбина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Цыбина
+
+-lexeme
+ lex: Чаузова
+ stem: чаузова.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Чаузова
+
+-lexeme
+ lex: Чистякова
+ stem: чистякова.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Чистякова
+
+-lexeme
+ lex: Чичоллина
+ stem: чичоллина.
+ gramm: N,PN,persn
+ paradigm: Noun-num-vowel
+ trans_ru: Чичоллина
+
+-lexeme
+ lex: Чувакина
+ stem: чувакина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Чувакина
+
+-lexeme
+ lex: Чурина
+ stem: чурина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Чурина
+
+-lexeme
+ lex: Шабунина
+ stem: шабунина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Шабунина
+
+-lexeme
+ lex: Шанская
+ stem: шанская.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Шанская
+
+-lexeme
+ lex: Шаньгина
+ stem: шаньгина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Шаньгина
+
+-lexeme
+ lex: Шемякина
+ stem: шемякина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Шемякина
+
+-lexeme
+ lex: Щетинина
+ stem: щетинина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Щетинина
+
+-lexeme
+ lex: Щеткина
+ stem: щеткина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Щеткина
+
+-lexeme
+ lex: Эрнестина
+ stem: эрнестина.
+ gramm: N,PN,persn
+ paradigm: Noun-num-vowel
+ trans_ru: Эрнестина
+
+-lexeme
+ lex: Югова
+ stem: югова.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Югова
+
+-lexeme
+ lex: Якунькина
+ stem: якунькина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Якунькина
+
+-lexeme
+ lex: Янина
+ stem: янина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Янина
+
+-lexeme
+ lex: Абдуллабекова
+ stem: абдуллабекова.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Абдуллабекова
+
+-lexeme
+ lex: Абдуллина
+ stem: абдуллина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Абдуллина
+
+-lexeme
+ lex: Абуткина
+ stem: абуткина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Абуткина
+
+-lexeme
+ lex: Аглиуллова
+ stem: аглиуллова.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Аглиуллова
+
+-lexeme
+ lex: Азалина
+ stem: азалина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Азалина
+
+-lexeme
+ lex: Айова
+ stem: айова.
+ gramm: N,PN,topn
+ paradigm: Noun-num-vowel
+ trans_ru: Айова
+
+-lexeme
+ lex: Алалыкина
+ stem: алалыкина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Алалыкина
+
+-lexeme
+ lex: Аликина
+ stem: аликина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Аликина
+
+-lexeme
+ lex: Алихова
+ stem: алихова.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Алихова
+
+-lexeme
+ lex: Амосова
+ stem: амосова.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Амосова
+
+-lexeme
+ lex: Андреевская
+ stem: андреевская.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Андреевская
+
+-lexeme
+ lex: Анохина
+ stem: анохина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Анохина
+
+-lexeme
+ lex: Арбенина
+ stem: арбенина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Арбенина
+
+-lexeme
+ lex: Архипова-Петрова
+ stem: архипова-петрова.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Архипова-Петрова
+
+-lexeme
+ lex: Асановская
+ stem: асановская.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Асановская
+
+-lexeme
+ lex: Ахаимова
+ stem: ахаимова.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Ахаимова
+
+-lexeme
+ lex: Ашхабекова
+ stem: ашхабекова.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Ашхабекова
+
+-lexeme
+ lex: Баданина
+ stem: баданина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Баданина
+
+-lexeme
+ lex: Байгарова
+ stem: байгарова.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Байгарова
+
+-lexeme
+ lex: Байгельдина
+ stem: байгельдина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Байгельдина
+
+-lexeme
+ lex: Байгозина
+ stem: байгозина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Байгозина
+
+-lexeme
+ lex: Байдулина
+ stem: байдулина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Байдулина
+
+-lexeme
+ lex: Бакалдина
+ stem: бакалдина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Бакалдина
+
+-lexeme
+ lex: Бакунина
+ stem: бакунина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Бакунина
+
+-lexeme
+ lex: Балабина
+ stem: балабина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Балабина
+
+-lexeme
+ lex: Балакина
+ stem: балакина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Балакина
+
+-lexeme
+ lex: Балберина
+ stem: балберина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Балберина
+
+-lexeme
+ lex: Бараковская
+ stem: бараковская.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Бараковская
+
+-lexeme
+ lex: Баранкина
+ stem: баранкина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Баранкина
+
+-lexeme
+ lex: Бастрикова
+ stem: бастрикова.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Бастрикова
+
+-lexeme
+ lex: Баталина
+ stem: баталина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Баталина
+
+-lexeme
+ lex: Батанина
+ stem: батанина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Батанина
+
+-lexeme
+ lex: Батаршина
+ stem: батаршина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Батаршина
+
+-lexeme
+ lex: Батыгина
+ stem: батыгина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Батыгина
+
+-lexeme
+ lex: Бахина
+ stem: бахина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Бахина
+
+-lexeme
+ lex: Башенина
+ stem: башенина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Башенина
+
+-lexeme
+ lex: Безносова
+ stem: безносова.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Безносова
+
+-lexeme
+ lex: Безумова
+ stem: безумова.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Безумова
+
+-lexeme
+ lex: Бектина
+ stem: бектина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Бектина
+
+-lexeme
+ lex: Белкина
+ stem: белкина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Белкина
+
+-lexeme
+ lex: Бердина
+ stem: бердина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Бердина
+
+-lexeme
+ lex: Березкина
+ stem: березкина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Березкина
+
+-lexeme
+ lex: Бессонова
+ stem: бессонова.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Бессонова
+
+-lexeme
+ lex: Бикешкина
+ stem: бикешкина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Бикешкина
+
+-lexeme
+ lex: Богдановская-Попова
+ stem: богдановская-попова.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Богдановская-Попова
+
+-lexeme
+ lex: Боголюбская
+ stem: боголюбская.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Боголюбская
+
+-lexeme
+ lex: Болина
+ stem: болина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Болина
+
+-lexeme
+ lex: Болонкина
+ stem: болонкина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Болонкина
+
+-lexeme
+ lex: Бордзиловская
+ stem: бордзиловская.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Бордзиловская
+
+-lexeme
+ lex: Бордина
+ stem: бордина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Бордина
+
+-lexeme
+ lex: Боровкова
+ stem: боровкова.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Боровкова
+
+-lexeme
+ lex: Бородова
+ stem: бородова.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Бородова
+
+-lexeme
+ lex: Бороздина
+ stem: бороздина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Бороздина
+
+-lexeme
+ lex: Бральгина
+ stem: бральгина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Бральгина
+
+-lexeme
+ lex: Брыксина
+ stem: брыксина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Брыксина
+
+-lexeme
+ lex: Буганова
+ stem: буганова.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Буганова
+
+-lexeme
+ lex: Бузалакова
+ stem: бузалакова.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Бузалакова
+
+-lexeme
+ lex: Булавина
+ stem: булавина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Булавина
+
+-lexeme
+ lex: Бунина
+ stem: бунина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Бунина
+
+-lexeme
+ lex: Бурлакова
+ stem: бурлакова.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Бурлакова
+
+-lexeme
+ lex: Бурмакина
+ stem: бурмакина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Бурмакина
+
+-lexeme
+ lex: Бурнова
+ stem: бурнова.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Бурнова
+
+-lexeme
+ lex: Бутарасова
+ stem: бутарасова.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Бутарасова
+
+-lexeme
+ lex: Бутковская
+ stem: бутковская.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Бутковская
+
+-lexeme
+ lex: Быковская
+ stem: быковская.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Быковская
+
+-lexeme
+ lex: Вавилина
+ stem: вавилина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Вавилина
+
+-lexeme
+ lex: Ваганова
+ stem: ваганова.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Ваганова
+
+-lexeme
+ lex: Валинская
+ stem: валинская.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Валинская
+
+-lexeme
+ lex: Ванюшина
+ stem: ванюшина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Ванюшина
+
+-lexeme
+ lex: Ванягина
+ stem: ванягина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Ванягина
+
+-lexeme
+ lex: Вардугина
+ stem: вардугина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Вардугина
+
+-lexeme
+ lex: Вассиулина
+ stem: вассиулина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Вассиулина
+
+-lexeme
+ lex: Векшина-Стрижова
+ stem: векшина-стрижова.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Векшина-Стрижова
+
+-lexeme
+ lex: Веселина
+ stem: веселина.
+ gramm: N,PN,persn
+ paradigm: Noun-num-vowel
+ trans_ru: Веселина
+
+-lexeme
+ lex: Веселовская
+ stem: веселовская.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Веселовская
+
+-lexeme
+ lex: Веслова
+ stem: веслова.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Веслова
+
+-lexeme
+ lex: Ветошнина
+ stem: ветошнина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Ветошнина
+
+-lexeme
+ lex: Виноградская
+ stem: виноградская.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Виноградская
+
+-lexeme
+ lex: Вишневская
+ stem: вишневская.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Вишневская
+
+-lexeme
+ lex: Внукова
+ stem: внукова.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Внукова
+
+-lexeme
+ lex: Волдина
+ stem: волдина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Волдина
+
+-lexeme
+ lex: Вологдина
+ stem: вологдина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Вологдина
+
+-lexeme
+ lex: Вопшина
+ stem: вопшина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Вопшина
+
+-lexeme
+ lex: Воскресенская
+ stem: воскресенская.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Воскресенская
+
+-lexeme
+ lex: Воякина
+ stem: воякина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Воякина
+
+-lexeme
+ lex: Вуколова
+ stem: вуколова.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Вуколова
+
+-lexeme
+ lex: Вьюхина
+ stem: вьюхина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Вьюхина
+
+-lexeme
+ lex: Вёшенская
+ stem: вёшенская.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Вёшенская
+
+-lexeme
+ lex: Гадыльшина
+ stem: гадыльшина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Гадыльшина
+
+-lexeme
+ lex: Глинковская
+ stem: глинковская.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Глинковская
+
+-lexeme
+ lex: Деметер-Петрова
+ stem: деметер-петрова.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Деметер-Петрова
+
+-lexeme
+ lex: Зиннатуллина
+ stem: зиннатуллина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Зиннатуллина
+
+-lexeme
+ lex: Зорина-Рассветова
+ stem: зорина-рассветова.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Зорина-Рассветова
+
+-lexeme
+ lex: Зубавина
+ stem: зубавина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Зубавина
+
+-lexeme
+ lex: Иванкова
+ stem: иванкова.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Иванкова
+
+-lexeme
+ lex: Иванова-Ворончихина
+ stem: иванова-ворончихина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Иванова-Ворончихина
+
+-lexeme
+ lex: Идиатуллина
+ stem: идиатуллина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Идиатуллина
+
+-lexeme
+ lex: Калимулина
+ stem: калимулина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Калимулина
+
+-lexeme
+ lex: Калимуллина
+ stem: калимуллина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Калимуллина
+
+-lexeme
+ lex: Калякина
+ stem: калякина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Калякина
+
+-lexeme
+ lex: Камидуллина
+ stem: камидуллина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Камидуллина
+
+-lexeme
+ lex: Книппер-Чехова
+ stem: книппер-чехова.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Книппер-Чехова
+
+-lexeme
+ lex: Колексникова
+ stem: колексникова.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Колексникова
+
+-lexeme
+ lex: Колмогорова
+ stem: колмогорова.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Колмогорова
+
+-lexeme
+ lex: Колоткина
+ stem: колоткина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Колоткина
+
+-lexeme
+ lex: Кольчурина
+ stem: кольчурина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Кольчурина
+
+-lexeme
+ lex: Комиссаржевская
+ stem: комиссаржевская.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Комиссаржевская
+
+-lexeme
+ lex: Кутянова-Айтуганова
+ stem: кутянова-айтуганова.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Кутянова-Айтуганова
+
+-lexeme
+ lex: Кучерская
+ stem: кучерская.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Кучерская
+
+-lexeme
+ lex: Малиновская
+ stem: малиновская.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Малиновская
+
+-lexeme
+ lex: Марченкова
+ stem: марченкова.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Марченкова
+
+-lexeme
+ lex: Рахматуллина
+ stem: рахматуллина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Рахматуллина
+
+-lexeme
+ lex: Савушкина
+ stem: савушкина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Савушкина
+
+-lexeme
+ lex: Сагдуллина
+ stem: сагдуллина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Сагдуллина
+
+-lexeme
+ lex: Садикова
+ stem: садикова.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Садикова
+
+-lexeme
+ lex: Садкова
+ stem: садкова.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Садкова
+
+-lexeme
+ lex: Сазыкина
+ stem: сазыкина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Сазыкина
+
+-lexeme
+ lex: Сафиуллина
+ stem: сафиуллина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Сафиуллина
+
+-lexeme
+ lex: Тимерзянова
+ stem: тимерзянова.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Тимерзянова
+
+-lexeme
+ lex: Тимершина
+ stem: тимершина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Тимершина
+
+-lexeme
+ lex: Тимохина
+ stem: тимохина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Тимохина
+
+-lexeme
+ lex: Уразбахтина
+ stem: уразбахтина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Уразбахтина
+
+-lexeme
+ lex: Фейзуллина
+ stem: фейзуллина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Фейзуллина
+
+-lexeme
+ lex: Хайдаршина
+ stem: хайдаршина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Хайдаршина
+
+-lexeme
+ lex: Хаматдинова
+ stem: хаматдинова.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Хаматдинова
+
+-lexeme
+ lex: Хамзина
+ stem: хамзина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Хамзина
+
+-lexeme
+ lex: Хамидулина
+ stem: хамидулина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Хамидулина
+
+-lexeme
+ lex: Хуснуллина
+ stem: хуснуллина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Хуснуллина
+
+-lexeme
+ lex: Шарахмуллина
+ stem: шарахмуллина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Шарахмуллина
+
+-lexeme
+ lex: Шарифуллина
+ stem: шарифуллина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Шарифуллина
+
+-lexeme
+ lex: Эмирбекова
+ stem: эмирбекова.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Эмирбекова
 

@@ -11216,6 +11216,13 @@
  trans_ru: 1. взмахивать, махать 2.веять, развеваться 3. перен. мигать, трепетать
 
 -lexeme
+ lex: лопырскыны
+ stem: лопырск.
+ gramm: V,I,intr
+ paradigm: connect_verbs-I
+ trans_ru: взлетать
+
+-lexeme
  lex: лоргетыны
  stem: лоргет.
  gramm: V,I,intr

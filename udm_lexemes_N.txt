@@ -54847,6 +54847,13 @@
  trans_ru: студент
 
 -lexeme
+ lex: магистрант
+ stem: магистрант.
+ gramm: N,rus,anim,hum
+ paradigm: Noun-num-consonant
+ trans_ru: магистрант
+
+-lexeme
  lex: студень
  stem: студен.
  gramm: N,rus
