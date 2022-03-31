@@ -1382,21 +1382,21 @@
 -lexeme
  lex: ас
  stem: ассэ.//асьсэ.//ащсэ.
- gramm: PRO,3sg,acc,nom
+ gramm: PRO,3sg,acc
  paradigm: Comparative
  trans_ru: сам, свой
 
 -lexeme
  lex: ас
  stem: асме.//асьме.//ащме.
- gramm: PRO,1sg,acc,nom
+ gramm: PRO,1sg,acc
  paradigm: Comparative
  trans_ru: сам, свой
 
 -lexeme
  lex: ас
  stem: астэ.//асьтэ.//ащтэ.
- gramm: PRO,2sg,acc,nom
+ gramm: PRO,2sg,acc
  paradigm: Comparative
  trans_ru: сам, свой
 

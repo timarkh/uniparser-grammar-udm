@@ -38725,3 +38725,17 @@
  stem: пресно.//пресны.
  paradigm: connect_adjectives-j
  trans_ru: пресный
+
+-lexeme
+ lex: огъякалык
+ stem: огъякалык.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: всенародный
+
+-lexeme
+ lex: шумприч
+ stem: шумприч.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: бойкий

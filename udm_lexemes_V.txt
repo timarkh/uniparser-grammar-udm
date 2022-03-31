@@ -25749,14 +25749,14 @@
 
 -lexeme
  lex: ӟыгыртыны
- stem: ӟыгырт.|ӟыгыр.
+ stem: ӟыгырт.//ӟигырт.|ӟыгыр.//ӟигыр.
  gramm: V,I,tr
  paradigm: connect_verbs-I-CC
  trans_ru: обнять
 
 -lexeme
  lex: ӟыгыръяны
- stem: ӟыгыръя.
+ stem: ӟыгыръя.//ӟигыръя.
  gramm: V,II,tr,mult
  paradigm: connect_verbs-II
  trans_ru: обнимать

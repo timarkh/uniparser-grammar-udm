@@ -19607,28 +19607,28 @@
  stem: инты.|интӥ.
  gramm: N
  paradigm: Noun-num-vowel-dial-iy
- trans_ru: 1. место, местность, адрес 2. пространство, часть пространства, 
+ trans_ru: место
 
 -lexeme
  lex: интыдыр
  stem: интыдыр.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: лит. хронотоп
+ trans_ru: хронотоп
 
 -lexeme
  lex: интыл
  stem: интыл.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: 1. небесная, высшая, абсолютная любовь, желание
+ trans_ru: небесная, высшая, абсолютная любовь, желание
 
 -lexeme
  lex: интылык
  stem: интылык.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: пространство, син. инты, интывыл
+ trans_ru: пространство
 
 -lexeme
  lex: интыпус
@@ -33425,7 +33425,14 @@
  stem: луонлык.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: возможность, перспектива, предпосылка, условие, вероятность
+ trans_ru: возможность
+
+-lexeme
+ lex: луонлык
+ stem: лунлык.
+ gramm: N,missp
+ paradigm: Noun-num-consonant
+ trans_ru: возможность
 
 -lexeme
  lex: луонолык
@@ -56860,6 +56867,13 @@
  trans_ru: здоровье
 
 -lexeme
+ lex: тазалык
+ stem: тазаылык.
+ gramm: N,missp
+ paradigm: Noun-num-consonant
+ trans_ru: здоровье
+
+-lexeme
  lex: тайга
  stem: тайга.
  gramm: N,rus
@@ -57871,6 +57885,13 @@
  lex: тодонлык
  stem: тодонлык.
  gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: знание, познание
+
+-lexeme
+ lex: тодонлык
+ stem: тондонлык.
+ gramm: N,missp
  paradigm: Noun-num-consonant
  trans_ru: знание, познание
 
@@ -60671,6 +60692,13 @@
  lex: удмуртлык
  stem: удмуртлык.
  gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: Удмуртия, удмуртский край
+
+-lexeme
+ lex: удмуртлык
+ stem: удмартлык.
+ gramm: N,missp
  paradigm: Noun-num-consonant
  trans_ru: Удмуртия, удмуртский край
 
@@ -84572,7 +84600,7 @@
  trans_ru: пасынок
 -lexeme
  lex: сюрслык
- stem: сюрслык.
+ stem: сюрслык.//100-лык.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: тысячная банкнота
@@ -85331,7 +85359,13 @@
  stem: ужанрадлык.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: 
+ trans_ru: программа (мероприятий)
+-lexeme
+ lex: ужанрадлык
+ stem: ужранрадлык.
+ gramm: N,missp
+ paradigm: Noun-num-consonant
+ trans_ru: программа (мероприятий)
 -lexeme
  lex: ужас
  stem: ужас.
@@ -117461,4 +117495,487 @@
  stem: холм.
  paradigm: Noun-num-consonant
  trans_ru: холм
+
+-lexeme
+ lex: кылолык
+ stem: кылолык.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: лексика
+
+-lexeme
+ lex: ужантӥрлык
+ stem: ужантӥрлык.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: оборудование
+
+-lexeme
+ lex: черлык
+ stem: черлык.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: заболевание
+
+-lexeme
+ lex: бушлык
+ stem: бушлык.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: пустота
+
+-lexeme
+ lex: кылустолык
+ stem: кылустолык.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: литературное творчество
+
+-lexeme
+ lex: огшорылык
+ stem: огшорылык.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: простота
+
+-lexeme
+ lex: пыраклык
+ stem: пыраклык.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: вечность
+
+-lexeme
+ lex: бӧляклык
+ stem: бӧляклык.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: соседство
+
+-lexeme
+ lex: дун-чылкытлык
+ stem: дун-чылкытлык.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: святость
+
+-lexeme
+ lex: иворлык
+ stem: иворлык.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: информация
+
+-lexeme
+ lex: кыккыллык
+ stem: кыккыллык.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: двуязычие
+
+-lexeme
+ lex: кыллык
+ stem: кыллык.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: словесность, лексика
+
+-lexeme
+ lex: лякытлык
+ stem: лякытлык.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: вежливость
+
+-lexeme
+ lex: мэнгалык
+ stem: мэнгалык.//менгалык.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: вечность (тат.)
+
+-lexeme
+ lex: сазьлык
+ stem: сазьлык.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: трезвость
+
+-lexeme
+ lex: спорттӥрлык
+ stem: спорттӥрлык.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: спортивный инвентарь
+
+-lexeme
+ lex: транскалык
+ stem: транскалык.
+ gramm: N,anim,hum
+ paradigm: Noun-num-consonant
+ trans_ru: транслюди
+
+-lexeme
+ lex: троскылъемлык
+ stem: троскылъемлык.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: многоязычие
+
+-lexeme
+ lex: тупанлык
+ stem: тупанлык.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: гармония
+
+-lexeme
+ lex: пушмет
+ stem: пушмет.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: гармония
+
+-lexeme
+ lex: адямирадлык
+ stem: адямирадлык.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: гражданство
+
+-lexeme
+ lex: арт-интылык
+ stem: арт-интылык.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: арт-пространство
+
+-lexeme
+ lex: асьыклык
+ stem: асьыклык.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: приветливость
+
+-lexeme
+ lex: нинёлык
+ stem: нинёлык.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: липовая роща
+
+-lexeme
+ lex: бадёлык
+ stem: бадёлык.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: ивовая роща
+
+-lexeme
+ lex: быгатонтэмлык
+ stem: быгатонтэмлык.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: невозможность
+
+-lexeme
+ lex: ваньбурлык
+ stem: ваньбурлык.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: имущество
+
+-lexeme
+ lex: возёнлык
+ stem: возёнлык.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: обеспечение
+
+-lexeme
+ lex: ганьлык
+ stem: ганьлык.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: гармония
+
+-lexeme
+ lex: дуннелык
+ stem: дуннелык.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: мир
+
+-lexeme
+ lex: зэзьлык
+ stem: зэзьлык.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: активность
+
+-lexeme
+ lex: зэмзэлык
+ stem: зэмзэлык.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: действительность
+
+-lexeme
+ lex: йыринчукинлык
+ stem: йыринчукинлык.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: абсурд
+
+-lexeme
+ lex: кадырлык
+ stem: кадырлык.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: слава, почёт
+
+-lexeme
+ lex: коркапуштӥрлык
+ stem: коркапуштӥрлык.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: мебель
+
+-lexeme
+ lex: кужымтэмлык
+ stem: кужымтэмлык.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: бессилие
+
+-lexeme
+ lex: кунолык
+ stem: кунолык.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: пребывание в гостях
+
+-lexeme
+ lex: кушзалык
+ stem: кушзалык.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: большой праздничный платок
+
+-lexeme
+ lex: кускиньӵош
+ stem: кускиньӵош.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: вид женской одежды
+
+-lexeme
+ lex: кожйыл
+ stem: кожйыл.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: полуостров
+
+-lexeme
+ lex: чибылай
+ stem: чибыла.
+ gramm: N
+ paradigm: Noun-num-j
+ trans_ru: гулящая женщина
+
+-lexeme
+ lex: кукта
+ stem: кукта.
+ gramm: N
+ paradigm: Noun-num-vowel
+ trans_ru: причёска
+
+-lexeme
+ lex: котӥ
+ stem: котӥ.
+ gramm: N
+ paradigm: Noun-num-vowel
+ trans_ru: ботинки
+
+-lexeme
+ lex: межи
+ stem: межи.
+ gramm: N
+ paradigm: Noun-num-vowel
+ trans_ru: вилка
+
+-lexeme
+ lex: кызолык
+ stem: кызолык.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: ельник
+
+-lexeme
+ lex: кылрадлык
+ stem: кылрадлык.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: синтаксис
+
+-lexeme
+ lex: кылчеберлык
+ stem: кылчеберлык.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: поэтика
+
+-lexeme
+ lex: кӧӵелык
+ stem: кӧӵелык.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: значение
+
+-lexeme
+ lex: мурлык
+ stem: мурлык.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: глубина
+
+-lexeme
+ lex: мусолык
+ stem: мусолык.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: милота
+
+-lexeme
+ lex: ньӧмлык
+ stem: ньӧмлык.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: притворность
+
+-lexeme
+ lex: огъялык
+ stem: огъялык.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: общность; объединение
+
+-lexeme
+ lex: ожкалык
+ stem: ожкалык.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: войско
+
+-lexeme
+ lex: куазьсуред
+ stem: куазьсуред.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: пейзаж
+
+-lexeme
+ lex: пиосмуртлык
+ stem: пиосмуртлык.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: мужественность
+
+-lexeme
+ lex: пужымолык
+ stem: пужымолык.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: сосняк
+
+-lexeme
+ lex: сантэманлык
+ stem: сантэманлык.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: бесчестие
+
+-lexeme
+ lex: сьӧлыктэмлык
+ stem: сьӧлыктэмлык.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: безгрешность
+
+-lexeme
+ lex: ханлык
+ stem: ханлык.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: ханство
+
+-lexeme
+ lex: чебертэмлык
+ stem: чебертэмлык.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: некрасивость
+
+-lexeme
+ lex: чурытлык
+ stem: чурытлык.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: плотность; жёсткость
+
+-lexeme
+ lex: шоро-кусполык
+ stem: шоро-кусполык.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: посредственность
+
+-lexeme
+ lex: шумпричлык
+ stem: шумпричлык.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: бойкость
+
+-lexeme
+ lex: шӧртчилык
+ stem: шӧртчилык.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: храбрость
+
+-lexeme
+ lex: эксейлык
+ stem: эксейлык.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: княжество, царство
+
+-lexeme
+ lex: эркынлык
+ stem: эркынлык.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: свобода
+
+-lexeme
+ lex: юрттэтлык
+ stem: юрттэтлык.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: услуга
+
+-lexeme
+ lex: яулык
+ stem: яулык.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: платок
+
+-lexeme
+ lex: ӝомытлык
+ stem: ӝомытлык.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: сумерки
 

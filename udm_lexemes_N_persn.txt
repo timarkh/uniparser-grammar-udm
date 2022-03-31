@@ -73368,3 +73368,58 @@
  paradigm: Noun-num-vowel
  trans_ru: Эмирбекова
 
+-lexeme
+ lex: Сыропятов
+ stem: сыропятов.
+ gramm: N,PN,famn
+ paradigm: Noun-num-consonant
+ trans_ru: Сыропятов
+
+-lexeme
+ lex: Билык
+ stem: билык.
+ gramm: N,PN,famn
+ paradigm: Noun-num-consonant
+ trans_ru: Билык
+
+-lexeme
+ lex: Дуслык
+ stem: дуслык.
+ gramm: N,PN
+ paradigm: Noun-num-consonant
+ trans_ru: Дуслык ("Дружба", название татарских ансамблей, колхозов и т. п.)
+
+-lexeme
+ lex: Мастарлык
+ stem: мастарлык.
+ gramm: N,PN
+ paradigm: Noun-num-consonant
+ trans_ru: Мастарлык Ола ("город мастерства") -- название марийского мероприятия
+
+-lexeme
+ lex: Ӟаблык
+ stem: ӟаблык.
+ gramm: N,PN,topn
+ paradigm: Noun-num-consonant
+ trans_ru: Джаблык
+
+-lexeme
+ lex: Алмалык
+ stem: алмалык.
+ gramm: N,PN,topn
+ paradigm: Noun-num-consonant
+ trans_ru: Алмалык
+
+-lexeme
+ lex: Рвезелык
+ stem: рвезелык.
+ gramm: N,PN
+ paradigm: Noun-num-consonant
+ trans_ru: Рвезелык ("Юность", марийский ансамбль)
+
+-lexeme
+ lex: Яшьлек
+ stem: яшьлек.//яшьлык.
+ gramm: N,PN
+ paradigm: Noun-num-consonant
+ trans_ru: Яшьлек ("Юность", название татарского ансамбля)
