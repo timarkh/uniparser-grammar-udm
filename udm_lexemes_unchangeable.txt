@@ -202,6 +202,13 @@
  trans_ru: мало, немного
 
 -lexeme
+ lex: ӧжыт
+ stem: ӧжыт.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: немногое
+
+-lexeme
  lex: ӧжытак
  stem: ӧжытак.//ӧжтак.
  gramm: ADV
@@ -727,7 +734,7 @@
 
 -lexeme
  lex: ка
- stem: ка.//ко.
+ stem: ка.//-ка.
  gramm: PART,rus
  paradigm: Empty
  trans_ru: -ка
@@ -8117,7 +8124,7 @@
  stem: трос.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: многое
+ trans_ru: многое, многие
 
 -lexeme
  lex: ма
@@ -10935,6 +10942,13 @@
  gramm: ADV
  paradigm: connect_adverbs
  trans_ru: мало
+
+-lexeme
+ lex: ичи
+ stem: ичи.
+ gramm: N
+ paradigm: Noun-num-vowel
+ trans_ru: малое, немногие
 
 -lexeme
  lex: ичиен
@@ -18164,7 +18178,7 @@
 -lexeme
  lex: ко
  gramm: PART,rus
- stem: ко.
+ stem: ко.//-ко.
  paradigm: Comparative
  trans_ru: ка
 
@@ -18342,3 +18356,45 @@
  stem: бугай.
  paradigm: Comparative
  trans_ru: вероятно, кажется
+
+-lexeme
+ lex: пырик
+ gramm: PART
+ stem: пырик.
+ paradigm: Comparative
+ trans_ru: всё равно
+
+-lexeme
+ lex: шумбрат
+ gramm: PART
+ stem: шумбрат.
+ paradigm: Comparative
+ trans_ru: здравствуй (эрзянский)
+
+-lexeme
+ lex: виват
+ gramm: PART,rus
+ stem: виват.
+ paradigm: Comparative
+ trans_ru: виват
+
+-lexeme
+ lex: драк
+ gramm: PART
+ stem: драк.
+ paradigm: Comparative
+ trans_ru: чёрт
+
+-lexeme
+ lex: чараклы
+ gramm: ADV
+ stem: чараклы.
+ paradigm: connect_adverbs
+ trans_ru: намного
+
+-lexeme
+ lex: азьласянь
+ gramm: ADV
+ stem: азьласянь.
+ paradigm: connect_adverbs
+ trans_ru: спереди

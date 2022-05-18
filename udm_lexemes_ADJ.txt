@@ -8579,6 +8579,7 @@
  stem: быдэс.
  gramm: ADJ
  paradigm: connect_adjectives
+ paradigm: Noun-num-consonant-y
  trans_ru: полный, весь
 
 -lexeme
@@ -11082,7 +11083,7 @@
 
 -lexeme
  lex: мукет
- stem: мукет.
+ stem: мукет.//мк.//мк-.
  gramm: ADJ
  paradigm: Noun-num-consonant-y
  paradigm: connect_adjectives
@@ -37847,7 +37848,7 @@
 -lexeme
  lex: чагыр
  gramm: ADJ
- stem: чагыр.
+ stem: чагыр.//ӵагыр.
  paradigm: connect_adjectives
  trans_ru: голубой
 
@@ -38491,7 +38492,7 @@
 -lexeme
  lex: югыт
  gramm: ADJ
- stem: югыт.
+ stem: югыт.//люгыт.
  paradigm: connect_adjectives
  trans_ru: светлый
 
@@ -38907,3 +38908,172 @@
  gramm: ADJ
  paradigm: connect_adjectives
  trans_ru: настоящий, нынешний, текущий
+
+-lexeme
+ lex: улосвылкуспо
+ gramm: ADJ
+ stem: улосвылкуспо.
+ paradigm: connect_adjectives
+ trans_ru: межрегиональный
+
+-lexeme
+ lex: паралимпи
+ gramm: ADJ,rus
+ stem: паралимпи.
+ paradigm: connect_adjectives
+ trans_ru: паралимпийский
+
+-lexeme
+ lex: огъяросси
+ gramm: ADJ
+ stem: огъяросси.
+ paradigm: connect_adjectives
+ trans_ru: всероссийский
+
+-lexeme
+ lex: юридик
+ gramm: ADJ,rus
+ stem: юридик.
+ paradigm: connect_adjectives
+ trans_ru: юридический
+
+-lexeme
+ lex: автоном
+ gramm: ADJ,rus
+ stem: автоном.
+ paradigm: connect_adjectives
+ trans_ru: автономный
+
+-lexeme
+ lex: ёроскуспо
+ gramm: ADJ
+ stem: ёроскуспо.
+ paradigm: connect_adjectives
+ trans_ru: межрайонный
+
+-lexeme
+ lex: африкан
+ gramm: ADJ,rus
+ stem: африкан.
+ paradigm: connect_adjectives
+ trans_ru: африканский
+
+-lexeme
+ lex: американ
+ gramm: ADJ,rus
+ stem: американ.
+ paradigm: connect_adjectives
+ trans_ru: американский
+
+-lexeme
+ lex: ямсыз
+ gramm: ADJ
+ stem: ямсыз.
+ paradigm: connect_adjectives
+ trans_ru: безобразный
+
+-lexeme
+ lex: голштин
+ gramm: ADJ,rus
+ stem: голштин.
+ paradigm: connect_adjectives
+ trans_ru: голштинский
+
+-lexeme
+ lex: йӧскалыккуспо
+ gramm: ADJ
+ stem: йӧскалыккуспо.
+ paradigm: connect_adjectives
+ trans_ru: международный
+
+-lexeme
+ lex: синмальдымон
+ gramm: ADJ
+ stem: синмальдымон.
+ paradigm: connect_adjectives
+ trans_ru: ослепительный
+
+-lexeme
+ lex: удысужлыко
+ gramm: ADJ
+ stem: удысужлыко.
+ paradigm: connect_adjectives
+ trans_ru: профессиональный
+
+-lexeme
+ lex: качыян
+ gramm: ADJ
+ stem: качыян.
+ paradigm: connect_adjectives
+ trans_ru: високосный
+
+-lexeme
+ lex: карсьӧр
+ gramm: ADJ
+ stem: карсьӧр.
+ paradigm: connect_adjectives
+ trans_ru: загородный
+
+-lexeme
+ lex: муницип
+ gramm: ADJ,rus
+ stem: муницип.
+ paradigm: connect_adjectives
+ trans_ru: муниципальный
+
+-lexeme
+ lex: удыскуспо
+ gramm: ADJ
+ stem: удыскуспо.
+ paradigm: connect_adjectives
+ trans_ru: межотраслевой
+
+-lexeme
+ lex: политехникая
+ gramm: ADJ,rus
+ stem: политехникая.
+ paradigm: connect_adjectives
+ trans_ru: политехнический
+
+-lexeme
+ lex: интегральной
+ gramm: ADJ,rus
+ stem: интегрально.
+ paradigm: connect_adjectives-j
+ trans_ru: интегральный
+
+-lexeme
+ lex: самодий
+ gramm: ADJ,rus
+ stem: самоди.
+ paradigm: connect_adjectives-j
+ trans_ru: самодийский
+
+-lexeme
+ lex: ӧнерлыко
+ gramm: ADJ
+ stem: ӧнерлыко.
+ paradigm: connect_adjectives
+ trans_ru: профессиональный
+
+-lexeme
+ lex: аскоже
+ gramm: ADJ
+ stem: аскоже.
+ paradigm: connect_adjectives
+ trans_ru: самостоятельный
+
+-lexeme
+ lex: голланд
+ gramm: ADJ,rus
+ stem: голланд.
+ paradigm: connect_adjectives
+ trans_ru: голландский
+
+-lexeme
+ lex: гуманитарияя
+ gramm: ADJ,rus
+ stem: гуманитарияя.
+ paradigm: connect_adjectives
+ trans_ru: гуманитарный
+

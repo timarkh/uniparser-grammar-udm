@@ -7,8 +7,9 @@
 
 -lexeme
  lex: мон
- stem: монэ.
+ stem: мон&э.
  gramm: PRO,acc,sg
+ gloss: STEM&ACC
  paradigm: Comparative
  trans_ru: я
 
@@ -35,29 +36,33 @@
 
 -lexeme
  lex: мон
- stem: монтэк.
+ stem: мон&тэк.
  gramm: PRO,car,sg
+ gloss: STEM&CAR
  paradigm: Comparative
  trans_ru: я
 
 -lexeme
  lex: мон
- stem: монъя.
+ stem: монъ&я.
  gramm: PRO,adv,sg
+ gloss: STEM&ADV
  paradigm: Comparative
  trans_ru: я
 
 -lexeme
  lex: мон
- stem: монэн.
+ stem: мон&эн.
  gramm: PRO,ins,sg
+ gloss: STEM&INS
  paradigm: Comparative
  trans_ru: я
 
 -lexeme
  lex: мон
- stem: монлань.
+ stem: мон&лань.
  gramm: PRO,app,sg
+ gloss: STEM&APP
  paradigm: Comparative
  trans_ru: я
 
@@ -112,15 +117,17 @@
 
 -lexeme
  lex: ми
- stem: митэк.
+ stem: ми&тэк.
  gramm: PRO,car,pl
+ gloss: STEM&CAR
  paradigm: Comparative
  trans_ru: мы
 
 -lexeme
  lex: ми
- stem: мия.
+ stem: ми&я.
  gramm: PRO,adv,pl
+ gloss: STEM&ADV
  paradigm: Comparative
  trans_ru: мы
 
@@ -140,8 +147,9 @@
 
 -lexeme
  lex: ми
- stem: милань.
+ stem: ми&лань.
  gramm: PRO,app,pl
+ gloss: STEM&APP
  paradigm: Comparative
  trans_ru: мы
 
@@ -154,8 +162,9 @@
 
 -lexeme
  lex: тон
- stem: тонэ.
+ stem: тон&э.
  gramm: PRO,acc,sg
+ gloss: STEM&ACC
  paradigm: Comparative
  trans_ru: ты
 
@@ -182,29 +191,33 @@
 
 -lexeme
  lex: тон
- stem: тонтэк.
+ stem: тон&тэк.
  gramm: PRO,car,sg
+ gloss: STEM&CAR
  paradigm: Comparative
  trans_ru: ты
 
 -lexeme
  lex: тон
- stem: тонъя.
+ stem: тонъ&я.
  gramm: PRO,adv,sg
+ gloss: STEM&ADV
  paradigm: Comparative
  trans_ru: ты
 
 -lexeme
  lex: тон
- stem: тонэн.
+ stem: тон&эн.
  gramm: PRO,ins,sg
+ gloss: STEM&INS
  paradigm: Comparative
  trans_ru: ты
 
 -lexeme
  lex: тон
- stem: тонлань.
+ stem: тон&лань.
  gramm: PRO,app,sg
+ gloss: STEM&APP
  paradigm: Comparative
  trans_ru: ты
 
@@ -259,15 +272,17 @@
 
 -lexeme
  lex: тӥ
- stem: тӥтэк.
+ stem: тӥ&тэк.
  gramm: PRO,car,pl
+ gloss: STEM&CAR
  paradigm: Comparative
  trans_ru: вы
 
 -lexeme
  lex: тӥ
- stem: тӥя.
+ stem: тӥ&я.
  gramm: PRO,adv,pl
+ gloss: STEM&ADV
  paradigm: Comparative
  trans_ru: вы
 
@@ -286,9 +301,10 @@
  trans_ru: вы
 
 -lexeme
- lex: ми
- stem: милань.
+ lex: тӥ
+ stem: тӥ&лань.
  gramm: PRO,app,pl
+ gloss: STEM&APP
  paradigm: Comparative
  trans_ru: вы
 
@@ -301,8 +317,9 @@
 
 -lexeme
  lex: со
- stem: сӥе.
+ stem: сӥ&е.
  gramm: PRO,sg,acc
+ gloss: STEM&ACC
  paradigm: Comparative
  trans_ru: он/она/оно; тот, этот
 
@@ -515,76 +532,70 @@
  lex: кӧня
  stem: кӧня.
  gramm: ADVPRO
- paradigm: Comparative
- paradigm: Noun-case
+ paradigm: connect_adverbs_px
  trans_ru: сколько
 
 -lexeme
  lex: котькӧня
  stem: котькӧня.
  gramm: ADVPRO
- paradigm: Comparative
- paradigm: Noun-case
+ paradigm: connect_adverbs_px
  trans_ru: сколько угодно
 
 -lexeme
  lex: олокӧня
  stem: олокӧня.
  gramm: ADVPRO
- paradigm: Comparative
- paradigm: Noun-case
+ paradigm: connect_adverbs_px
  trans_ru: не знаю сколько
 
 -lexeme
  lex: нокӧня
  stem: нокӧня.
  gramm: ADVPRO
- paradigm: Comparative
- paradigm: Noun-case
+ paradigm: connect_adverbs_px
  trans_ru: нисколько
 
 -lexeme
  lex: кӧняке
  stem: кӧняке.
  gramm: ADVPRO
- paradigm: Comparative
- paradigm: Noun-case
+ paradigm: connect_adverbs_px
  trans_ru: сколько-то
 
 -lexeme
  lex: кӧнякелы
  stem: кӧнякелы.
  gramm: ADVPRO,dat
- paradigm: Comparative
- paradigm: Noun-case
+ paradigm: connect_adverbs_px
  trans_ru: на сколько-то
 
 -lexeme
  lex: сомында
  stem: сомында.
  gramm: ADV
- paradigm: Comparative
+ paradigm: connect_adverbs_px
  trans_ru: столько
 
 -lexeme
  lex: малы
  stem: малы.
  gramm: PRO
- paradigm: Comparative
+ paradigm: connect_adverbs_px
  trans_ru: зачем
 
 -lexeme
  lex: соку
  stem: соку.
  gramm: ADVPRO
- paradigm: Comparative
+ paradigm: connect_adverbs_px
  trans_ru: тогда
 
 -lexeme
  lex: сокы
  stem: сокы.
  gramm: ADVPRO
- paradigm: Comparative
+ paradigm: connect_adverbs_px
  trans_ru: тогда
 
 -lexeme
@@ -598,21 +609,21 @@
  lex: котьку
  stem: котьку.
  gramm: ADVPRO
- paradigm: Comparative
+ paradigm: connect_adverbs_px
  trans_ru: когда угодно
 
 -lexeme
  lex: олоку
  stem: олоку.
  gramm: ADVPRO
- paradigm: Comparative
+ paradigm: connect_adverbs_px
  trans_ru: не знаю когда
 
 -lexeme
  lex: ноку
  stem: ноку.
  gramm: ADVPRO
- paradigm: Comparative
+ paradigm: connect_adverbs_px
  trans_ru: никогда
 
 -lexeme
@@ -647,56 +658,56 @@
  lex: кызьы
  stem: кызьы.
  gramm: ADVPRO
- paradigm: Comparative
+ paradigm: connect_adverbs_px
  trans_ru: как
 
 -lexeme
  lex: кызьыке
  stem: кызьыке.
  gramm: ADVPRO
- paradigm: Comparative
+ paradigm: connect_adverbs_px
  trans_ru: как-то
 
 -lexeme
  lex: нокызьы
  stem: нокызьы.
  gramm: ADVPRO
- paradigm: Comparative
+ paradigm: connect_adverbs_px
  trans_ru: никак
 
 -lexeme
  lex: олокызьы
  stem: олокызьы.
  gramm: ADVPRO
- paradigm: Comparative
+ paradigm: connect_adverbs_px
  trans_ru: как-то
 
 -lexeme
  lex: котькызьы
  stem: котькызьы.
  gramm: ADVPRO
- paradigm: Comparative
+ paradigm: connect_adverbs_px
  trans_ru: как угодно
 
 -lexeme
  lex: макем
  stem: макем.
  gramm: ADVPRO
- paradigm: Comparative
+ paradigm: connect_adverbs_px
  trans_ru: насколько
 
 -lexeme
  lex: сокем
  stem: сокем.
  gramm: ADVPRO
- paradigm: Comparative
+ paradigm: connect_adverbs_px
  trans_ru: настолько
 
 -lexeme
  lex: такем
  stem: такем.
  gramm: ADVPRO
- paradigm: Comparative
+ paradigm: connect_adverbs_px
  trans_ru: настолько
 
 
@@ -1382,22 +1393,22 @@
 -lexeme
  lex: ас
  stem: ассэ.//асьсэ.//ащсэ.
- gramm: PRO,3sg,acc
- paradigm: Comparative
+ gramm: PRO,3pl
+ paradigm: Noun-case
  trans_ru: сам, свой
 
 -lexeme
  lex: ас
  stem: асме.//асьме.//ащме.
- gramm: PRO,1sg,acc
- paradigm: Comparative
+ gramm: PRO,1pl
+ paradigm: Noun-case
  trans_ru: сам, свой
 
 -lexeme
  lex: ас
  stem: астэ.//асьтэ.//ащтэ.
- gramm: PRO,2sg,acc
- paradigm: Comparative
+ gramm: PRO,2pl
+ paradigm: Noun-case
  trans_ru: сам, свой
 
 -lexeme
@@ -1409,16 +1420,20 @@
 
 -lexeme
  lex: ас
- stem: асмес.//асмеос.//асмеёс.//ачимес.//асьмес.//ащмес.
- gramm: PRO,1pl,nom
- paradigm: Comparative
+ stem: асмес.//асмеос.//асмеёс.//ачимес.//асьмес.//асьмеос.//асьмеёс.//ащмес.
+ gramm: PRO,1pl
+ paradigm: Noun-case
+ paradigm: Noun-case-y
+ paradigm: Noun-case-ill-y
  trans_ru: сам, свой
 
 -lexeme
  lex: ас
- stem: астэс.//астэос.//астӥос.//ачидэс.//асьтэс.//ащтэс.
- gramm: PRO,2pl,nom
- paradigm: Comparative
+ stem: астэс.//астэос.//астӥос.//ачидэс.//асьтэс.//асьтэос.//асьтэёс.//ащтэс.
+ gramm: PRO,2pl
+ paradigm: Noun-case
+ paradigm: Noun-case-y
+ paradigm: Noun-case-ill-y
  trans_ru: сам, свой
 
 -lexeme

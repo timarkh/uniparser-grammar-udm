@@ -46086,14 +46086,14 @@
  gramm: V,tr,II
  stem: капыръя.
  paradigm: connect_verbs-II
- trans_ru: застегнуть
+ trans_ru: присваивать
 
 -lexeme
  lex: каръяськыны
  gramm: V,intr,I,pass
  stem: каръяськ.
  paradigm: connect_verbs-I
- trans_ru: обосноваться, завестись
+ trans_ru: свить гнездо; обосноваться, завестись
 
 -lexeme
  lex: отказачкыны
@@ -46101,4 +46101,46 @@
  stem: отказачк.
  paradigm: connect_verbs-I
  trans_ru: отказаться
+
+-lexeme
+ lex: ӟечомыны
+ stem: ӟечом.
+ gramm: V,I,intr
+ paradigm: connect_verbs-I
+ trans_ru: улучшиться
+
+-lexeme
+ lex: миръяны
+ gramm: V,tr,II,rus
+ stem: миръя.
+ paradigm: connect_verbs-II
+ trans_ru: мирить
+
+-lexeme
+ lex: крезьгураны
+ gramm: V,II,intr
+ stem: крезьгура.
+ paradigm: connect_verbs-II
+ trans_ru: сочинять музыку
+
+-lexeme
+ lex: йӧназъяны
+ gramm: V,II,tr
+ stem: йӧназъя.
+ paradigm: connect_verbs-II
+ trans_ru: реабилитировать
+
+-lexeme
+ lex: ӟамыръяны
+ gramm: V,II,tr
+ stem: ӟамыръя.
+ paradigm: connect_verbs-II
+ trans_ru: пить (водку)
+
+-lexeme
+ lex: туспуксьыны
+ gramm: V,I,intr
+ stem: туспукс.
+ paradigm: connect_verbs-I-soft
+ trans_ru: фотографироваться
 

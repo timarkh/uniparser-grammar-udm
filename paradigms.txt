@@ -447,8 +447,16 @@
 -paradigm: connect_adverbs_px
  -flex: .<.>
   gram:
- paradigm: Comparative
- paradigm: Noun-case-poss-3,sg
+  paradigm: Comparative
+  paradigm: Noun-case-poss-3,sg
+ -flex: .лэсь<.>
+  gramm: abl
+  gloss: ABL
+  paradigm: Comparative
+ -flex: .лы<.>
+  gramm: dat
+  gloss: DAT
+  paradigm: Comparative
 
 
 
@@ -775,7 +783,7 @@
   gramm: attr,attr_o
   gloss: ATTR
   # do not confuse it with the debitive
-  regex-stem: ^.*([^<>.н]|[^<>.аяоё][^<>.]|фон)[<>.]*$
+  regex-stem: ^.*([^<>.н]|[^<>.аяоё][^<>.]|фон|коньдон)[<>.]*$
   regex-gramm: ^(.(?!rel_n))*$
   paradigm: connect_adjectives
  -flex: .ъем<.>
