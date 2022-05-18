@@ -32837,7 +32837,14 @@
  gramm: ADJ
  stem: вож-вож.
  paradigm: connect_adjectives
- trans_ru: зелёный-презелёный; очень зелёный
+ trans_ru: зелёный-презелёный
+
+-lexeme
+ lex: вож
+ gramm: ADJ
+ stem: вож.
+ paradigm: connect_adjectives
+ trans_ru: зелёный
 
 -lexeme
  lex: вожмыт
@@ -38739,3 +38746,164 @@
  gramm: ADJ
  paradigm: connect_adjectives
  trans_ru: бойкий
+
+-lexeme
+ lex: августовской
+ gramm: ADJ,rus
+ stem: августовско.//августовски.
+ paradigm: connect_adjectives-j
+ trans_ru: августовский
+
+-lexeme
+ lex: беззаветной
+ gramm: ADJ,rus
+ stem: беззаветно.//беззаветны.
+ paradigm: connect_adjectives-j
+ trans_ru: беззаветный
+
+-lexeme
+ lex: беспартейной
+ gramm: ADJ,rus
+ stem: беспартейно.//беспартейны.
+ paradigm: connect_adjectives-j
+ trans_ru: беспартийный
+
+-lexeme
+ lex: бывалой
+ gramm: ADJ,rus
+ stem: бывало.//бывалы.
+ paradigm: connect_adjectives-j
+ trans_ru: бывалый
+
+-lexeme
+ lex: катаррактальной
+ gramm: ADJ,rus
+ stem: катаррактально.//катаррактальны.
+ paradigm: connect_adjectives-j
+ trans_ru: катаррактальный
+
+-lexeme
+ lex: курсантской
+ gramm: ADJ,rus
+ stem: курсантско.//курсантски.
+ paradigm: connect_adjectives-j
+ trans_ru: курсантский
+
+-lexeme
+ lex: марлевой
+ gramm: ADJ,rus
+ stem: марлево.//марлевы.
+ paradigm: connect_adjectives-j
+ trans_ru: марлевый
+
+-lexeme
+ lex: миленькой
+ gramm: ADJ,rus
+ stem: миленько.//миленьки.
+ paradigm: connect_adjectives-j
+ trans_ru: миленький
+
+-lexeme
+ lex: минной
+ gramm: ADJ,rus
+ stem: минно.//минны.
+ paradigm: connect_adjectives-j
+ trans_ru: минный
+
+-lexeme
+ lex: монголо-татарской
+ gramm: ADJ,rus
+ stem: монголо-татарско.//монголо-татарски.
+ paradigm: connect_adjectives-j
+ trans_ru: монголо-татарский
+
+-lexeme
+ lex: мусульманской
+ gramm: ADJ,rus
+ stem: мусульманско.//мусульмански.
+ paradigm: connect_adjectives-j
+ trans_ru: мусульманский
+
+-lexeme
+ lex: начальственной
+ gramm: ADJ,rus
+ stem: начальственно.//начальственны.
+ paradigm: connect_adjectives-j
+ trans_ru: начальственный
+
+-lexeme
+ lex: переговорной
+ gramm: ADJ,rus
+ stem: переговорно.//переговорны.
+ paradigm: connect_adjectives-j
+ trans_ru: переговорный
+
+-lexeme
+ lex: подкодящой
+ gramm: ADJ,rus
+ stem: подкодящо.//подкодящи.
+ paradigm: connect_adjectives-j
+ trans_ru: подходящий
+
+-lexeme
+ lex: сигнальной
+ gramm: ADJ,rus
+ stem: сигнально.//сигнальны.
+ paradigm: connect_adjectives-j
+ trans_ru: сигнальный
+
+-lexeme
+ lex: социал-революционной
+ gramm: ADJ,rus
+ stem: социал-революционно.//социал-революционны.
+ paradigm: connect_adjectives-j
+ trans_ru: социал-революционный
+
+-lexeme
+ lex: стоящий
+ gramm: ADJ,rus
+ stem: стоящо.//стоящи.
+ paradigm: connect_adjectives-j
+ trans_ru: стоящий
+
+-lexeme
+ lex: таковской
+ gramm: ADJ,rus
+ stem: таковско.//таковски.
+ paradigm: connect_adjectives-j
+ trans_ru: таковский
+
+-lexeme
+ lex: торфяной
+ gramm: ADJ,rus
+ stem: торфяно.//торфяны.
+ paradigm: connect_adjectives-j
+ trans_ru: торфяной
+
+-lexeme
+ lex: швейной
+ gramm: ADJ,rus
+ stem: швейно.//швейны.
+ paradigm: connect_adjectives-j
+ trans_ru: швейный
+
+-lexeme
+ lex: челябинской
+ gramm: ADJ,rus
+ stem: челябинско.//челябински.
+ paradigm: connect_adjectives-j
+ trans_ru: челябинский
+
+-lexeme
+ lex: парашютно-десантной
+ gramm: ADJ,rus
+ stem: парашютно-десантно.//парашютно-десантны.
+ paradigm: connect_adjectives-j
+ trans_ru: парашютно-десантный
+
+-lexeme
+ lex: али
+ stem: али.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: настоящий, нынешний, текущий

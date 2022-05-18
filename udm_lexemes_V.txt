@@ -46004,3 +46004,101 @@
  paradigm: connect_verbs-II
  trans_ru: травить
 
+-lexeme
+ lex: ведать
+ gramm: V,rus,rus_inf,rus_ipfv
+ stem: ведать.
+ paradigm: Comparative
+ trans_ru: ведать
+
+-lexeme
+ lex: доложить
+ gramm: V,rus,rus_inf,rus_pfv
+ stem: доложить.
+ paradigm: Comparative
+ trans_ru: доложить
+
+-lexeme
+ lex: конструировать
+ gramm: V,rus,rus_inf,rus_ipfv
+ stem: конструировать.
+ paradigm: Comparative
+ trans_ru: конструировать
+
+-lexeme
+ lex: матюкать
+ gramm: V,rus,rus_inf,rus_ipfv
+ stem: матюкать.
+ paradigm: Comparative
+ trans_ru: матюкать
+
+-lexeme
+ lex: минировать
+ gramm: V,rus,rus_inf,rus_ipfv
+ stem: минировать.
+ paradigm: Comparative
+ trans_ru: минировать
+
+-lexeme
+ lex: наступать
+ gramm: V,rus,rus_inf,rus_ipfv
+ stem: наступать.
+ paradigm: Comparative
+ trans_ru: наступать
+
+-lexeme
+ lex: полировать
+ gramm: V,rus,rus_inf,rus_ipfv
+ stem: полировать.
+ paradigm: Comparative
+ trans_ru: полировать
+
+-lexeme
+ lex: править
+ gramm: V,rus,rus_inf,rus_ipfv
+ stem: править.
+ paradigm: Comparative
+ trans_ru: править
+
+-lexeme
+ lex: расформировать
+ gramm: V,rus,rus_inf,rus_pfv
+ stem: расформировать.
+ paradigm: Comparative
+ trans_ru: расформировать
+
+-lexeme
+ lex: венчатьтыны
+ gramm: V,rus,tr,I
+ stem: венчатьт.
+ paradigm: connect_verbs-I
+ trans_ru: венчать
+
+-lexeme
+ lex: заразитьтыны
+ gramm: V,rus,tr,I
+ stem: заразитьт.
+ paradigm: connect_verbs-I
+ trans_ru: заразить
+
+-lexeme
+ lex: капыръяны
+ gramm: V,tr,II
+ stem: капыръя.
+ paradigm: connect_verbs-II
+ trans_ru: застегнуть
+
+-lexeme
+ lex: каръяськыны
+ gramm: V,intr,I,pass
+ stem: каръяськ.
+ paradigm: connect_verbs-I
+ trans_ru: обосноваться, завестись
+
+-lexeme
+ lex: отказачкыны
+ gramm: V,rus,intr,I,pass
+ stem: отказачк.
+ paradigm: connect_verbs-I
+ trans_ru: отказаться
+

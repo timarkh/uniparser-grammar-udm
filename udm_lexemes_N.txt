@@ -117979,3 +117979,731 @@
  paradigm: Noun-num-consonant
  trans_ru: сумерки
 
+-lexeme
+ lex: барчук
+ gramm: N,anim,hum,rus
+ stem: барчук.
+ paradigm: Noun-num-consonant
+ trans_ru: барчук
+
+-lexeme
+ lex: вертолётчик
+ gramm: N,anim,hum,rus
+ stem: вертолётчик.
+ paradigm: Noun-num-consonant
+ trans_ru: вертолётчик
+
+-lexeme
+ lex: доктур
+ gramm: N,anim,hum,rus
+ stem: доктур.
+ paradigm: Noun-num-consonant
+ trans_ru: доктор
+
+-lexeme
+ lex: законник
+ gramm: N,anim,hum,rus
+ stem: законник.
+ paradigm: Noun-num-consonant
+ trans_ru: законник
+
+-lexeme
+ lex: замзав
+ gramm: N,anim,hum,rus
+ stem: замзав.
+ paradigm: Noun-num-consonant
+ trans_ru: замзав (заместитель заведующего)
+
+-lexeme
+ lex: инженер-майор
+ gramm: N,anim,hum,rus
+ stem: инженер-майор.
+ paradigm: Noun-num-consonant
+ trans_ru: инженер-майор
+
+-lexeme
+ lex: конвойной
+ gramm: N,anim,hum,rus
+ stem: конвойно.
+ paradigm: Noun-num-j
+ trans_ru: конвойный
+
+-lexeme
+ lex: конспиратор
+ gramm: N,anim,hum,rus
+ stem: конспиратор.
+ paradigm: Noun-num-consonant
+ trans_ru: конспиратор
+
+-lexeme
+ lex: мамаша
+ gramm: N,anim,hum,rus
+ stem: мамаша.
+ paradigm: Noun-num-vowel
+ trans_ru: мамаша
+
+-lexeme
+ lex: мамка
+ gramm: N,anim,hum,rus
+ stem: мамка.
+ paradigm: Noun-num-vowel
+ trans_ru: мамка
+
+-lexeme
+ lex: минёр
+ gramm: N,anim,hum,rus
+ stem: минёр.
+ paradigm: Noun-num-consonant
+ trans_ru: минёр
+
+-lexeme
+ lex: мосолец
+ gramm: N,anim,hum,rus
+ stem: мосолец.
+ paradigm: Noun-num-consonant
+ trans_ru: мосолец
+
+-lexeme
+ lex: наёмник
+ gramm: N,anim,hum,rus
+ stem: наёмник.
+ paradigm: Noun-num-consonant
+ trans_ru: наёмник
+
+-lexeme
+ lex: невеста
+ gramm: N,anim,hum,rus
+ stem: невеста.
+ paradigm: Noun-num-vowel
+ trans_ru: невеста
+
+-lexeme
+ lex: нылушка
+ gramm: N,anim,hum,rus_afx
+ stem: нылушка.
+ paradigm: Noun-num-vowel
+ trans_ru: девушка
+
+-lexeme
+ lex: ориентировщик
+ gramm: N,anim,hum,rus
+ stem: ориентировщик.
+ paradigm: Noun-num-consonant
+ trans_ru: ориентировщик
+
+-lexeme
+ lex: пидараст
+ gramm: N,anim,hum,rus
+ stem: пидараст.
+ paradigm: Noun-num-consonant
+ trans_ru: педераст
+
+-lexeme
+ lex: писец
+ gramm: N,anim,hum,rus
+ stem: писец.
+ paradigm: Noun-num-consonant
+ trans_ru: писец
+
+-lexeme
+ lex: политикан
+ gramm: N,anim,hum,rus
+ stem: политикан.
+ paradigm: Noun-num-consonant
+ trans_ru: политикан
+
+-lexeme
+ lex: пьяница
+ gramm: N,anim,hum,rus
+ stem: пьяница.
+ paradigm: Noun-num-vowel
+ trans_ru: пьяница
+
+-lexeme
+ lex: сволочь
+ gramm: N,anim,hum,rus
+ stem: сволоч.
+ paradigm: Noun-num-soft
+ trans_ru: сволочь
+
+-lexeme
+ lex: хлопец
+ gramm: N,anim,hum,rus
+ stem: хлопец.
+ paradigm: Noun-num-consonant
+ trans_ru: хлопец
+
+-lexeme
+ lex: хлопчик
+ gramm: N,anim,hum,rus
+ stem: хлопчик.
+ paradigm: Noun-num-consonant
+ trans_ru: хлопчик
+
+-lexeme
+ lex: чехословак
+ gramm: N,anim,hum,rus
+ stem: чехословак.
+ paradigm: Noun-num-consonant
+ trans_ru: чехословак
+
+-lexeme
+ lex: авиагородок
+ gramm: N,rus
+ stem: авиагородок.
+ paradigm: Noun-num-consonant
+ trans_ru: авиагородок
+
+-lexeme
+ lex: автопилот
+ gramm: N,rus
+ stem: автопилот.
+ paradigm: Noun-num-consonant
+ trans_ru: автопилот
+
+-lexeme
+ lex: ажур
+ gramm: N,rus
+ stem: ажур.
+ paradigm: Noun-num-consonant
+ trans_ru: ажур
+
+-lexeme
+ lex: вливание
+ gramm: N,rus
+ stem: вливани.
+ paradigm: Noun-num-ije
+ trans_ru: вливание
+
+-lexeme
+ lex: водянка
+ gramm: N,rus
+ stem: водянка.
+ paradigm: Noun-num-consonant
+ trans_ru: водянка
+
+-lexeme
+ lex: возьыттэмлык
+ gramm: N
+ stem: возьыттэмлык.
+ paradigm: Noun-num-consonant
+ trans_ru: бесстыдство
+
+-lexeme
+ lex: выход
+ gramm: N,rus
+ stem: выход.
+ paradigm: Noun-num-consonant
+ trans_ru: выход
+
+-lexeme
+ lex: гранатомёт
+ gramm: N,rus
+ stem: гранатомёт.
+ paradigm: Noun-num-consonant
+ trans_ru: гранатомёт
+
+-lexeme
+ lex: громоотвод
+ gramm: N,rus
+ stem: громоотвод.
+ paradigm: Noun-num-consonant
+ trans_ru: громоотвод
+
+-lexeme
+ lex: допуск
+ gramm: N,rus
+ stem: допуск.
+ paradigm: Noun-num-consonant
+ trans_ru: допуск
+
+-lexeme
+ lex: дробовик
+ gramm: N,rus
+ stem: дробовик.
+ paradigm: Noun-num-consonant
+ trans_ru: дробовик
+
+-lexeme
+ lex: дыхание
+ gramm: N,rus
+ stem: дыхани.
+ paradigm: Noun-num-ije
+ trans_ru: дыхание
+
+-lexeme
+ lex: жаловання
+ gramm: N,rus
+ stem: жаловання.
+ paradigm: Noun-num-vowel
+ trans_ru: жаловання
+
+-lexeme
+ lex: заграждение
+ gramm: N,rus
+ stem: заграждени.
+ paradigm: Noun-num-ije
+ trans_ru: заграждение
+
+-lexeme
+ lex: зооветтехникум
+ gramm: N,rus
+ stem: зооветтехникум.
+ paradigm: Noun-num-consonant
+ trans_ru: зооветтехникум
+
+-lexeme
+ lex: зоомагазин
+ gramm: N,rus
+ stem: зоомагазин.
+ paradigm: Noun-num-consonant
+ trans_ru: зоомагазин
+
+-lexeme
+ lex: изображение
+ gramm: N,rus
+ stem: изображени.
+ paradigm: Noun-num-ije
+ trans_ru: изображение
+
+-lexeme
+ lex: иконостас
+ gramm: N,rus
+ stem: иконостас.
+ paradigm: Noun-num-consonant
+ trans_ru: иконостас
+
+-lexeme
+ lex: камертон
+ gramm: N,rus
+ stem: камертон.
+ paradigm: Noun-num-consonant
+ trans_ru: камертон
+
+-lexeme
+ lex: каталка
+ gramm: N,rus
+ stem: каталка.
+ paradigm: Noun-num-vowel
+ trans_ru: каталка
+
+-lexeme
+ lex: кедрапу
+ gramm: N,rus
+ stem: кедрапу.
+ paradigm: Noun-num-vowel
+ trans_ru: кедр
+
+-lexeme
+ lex: кезьытлык
+ gramm: N
+ stem: кезьытлык.
+ paradigm: Noun-num-consonant
+ trans_ru: холод
+
+-lexeme
+ lex: кисет
+ gramm: N,rus
+ stem: кисет.
+ paradigm: Noun-num-consonant
+ trans_ru: кисет
+
+-lexeme
+ lex: комфорт
+ gramm: N,rus
+ stem: комфорт.
+ paradigm: Noun-num-consonant
+ trans_ru: комфорт
+
+-lexeme
+ lex: контра
+ gramm: N,rus
+ stem: контра.
+ paradigm: Noun-num-vowel
+ trans_ru: контра
+
+-lexeme
+ lex: кувшинка
+ gramm: N,rus
+ stem: кувшинка.
+ paradigm: Noun-num-vowel
+ trans_ru: кувшинка
+
+-lexeme
+ lex: кустарщина
+ gramm: N,rus
+ stem: кустарщина.
+ paradigm: Noun-num-vowel
+ trans_ru: кустарщина
+
+-lexeme
+ lex: лаваш
+ gramm: N,rus
+ stem: лаваш.
+ paradigm: Noun-num-consonant
+ trans_ru: лаваш
+
+-lexeme
+ lex: лоджия
+ gramm: N,rus
+ stem: лоджи.
+ paradigm: Noun-num-ija
+ trans_ru: лоджия
+
+-lexeme
+ lex: миноискатель
+ gramm: N,rus
+ stem: миноискател.
+ paradigm: Noun-num-soft
+ trans_ru: миноискатель
+
+-lexeme
+ lex: модуль
+ gramm: N,rus
+ stem: модул.
+ paradigm: Noun-num-soft
+ trans_ru: модуль
+
+-lexeme
+ lex: монтажка
+ gramm: N,rus
+ stem: монтажка.
+ paradigm: Noun-num-vowel
+ trans_ru: монтажка
+
+-lexeme
+ lex: мотопехота
+ gramm: N,rus
+ stem: мотопехота.
+ paradigm: Noun-num-vowel
+ trans_ru: мотопехота
+
+-lexeme
+ lex: музграмота
+ gramm: N,rus
+ stem: музграмота.
+ paradigm: Noun-num-vowel
+ trans_ru: музграмота
+
+-lexeme
+ lex: новаторство
+ gramm: N,rus
+ stem: новаторство.
+ paradigm: Noun-num-vowel
+ trans_ru: новаторство
+
+-lexeme
+ lex: ножик
+ gramm: N,rus
+ stem: ножик.
+ paradigm: Noun-num-consonant
+ trans_ru: ножик
+
+-lexeme
+ lex: носовик
+ gramm: N,rus
+ stem: носовик.
+ paradigm: Noun-num-consonant
+ trans_ru: носовой платок
+
+-lexeme
+ lex: нотация
+ gramm: N,rus
+ stem: нотаци.
+ paradigm: Noun-num-ija
+ trans_ru: нотация
+
+-lexeme
+ lex: обмундирование
+ gramm: N,rus
+ stem: обмундировани.
+ paradigm: Noun-num-ije
+ trans_ru: обмундирование
+
+-lexeme
+ lex: обход
+ gramm: N,rus
+ stem: обход.
+ paradigm: Noun-num-consonant
+ trans_ru: обход
+
+-lexeme
+ lex: одворича
+ gramm: N,rus
+ stem: одворича.
+ paradigm: Noun-num-vowel
+ trans_ru: хозяйство
+
+-lexeme
+ lex: одиннадцатилетие
+ gramm: N,rus
+ stem: одиннадцатилети.
+ paradigm: Noun-num-ije
+ trans_ru: одиннадцатилетие
+
+-lexeme
+ lex: оружие
+ gramm: N,rus
+ stem: оружи.
+ paradigm: Noun-num-ije
+ trans_ru: оружие
+
+-lexeme
+ lex: офтальмоскоп
+ gramm: N,rus
+ stem: офтальмоскоп.
+ paradigm: Noun-num-consonant
+ trans_ru: офтальмоскоп
+
+-lexeme
+ lex: памилля
+ gramm: N,rus
+ stem: памилля.
+ paradigm: Noun-num-vowel
+ trans_ru: фамилия
+
+-lexeme
+ lex: патронник
+ gramm: N,rus
+ stem: патронник.
+ paradigm: Noun-num-consonant
+ trans_ru: патронник
+
+-lexeme
+ lex: полировка
+ gramm: N,rus
+ stem: полировка.
+ paradigm: Noun-num-vowel
+ trans_ru: полировка
+
+-lexeme
+ lex: поскотина
+ gramm: N,rus
+ stem: поскотина.
+ paradigm: Noun-num-vowel
+ trans_ru: поскотина
+
+-lexeme
+ lex: прозвание
+ gramm: N,rus
+ stem: прозвани.
+ paradigm: Noun-num-ije
+ trans_ru: прозвание
+
+-lexeme
+ lex: радиоцех
+ gramm: N,rus
+ stem: радиоцех.
+ paradigm: Noun-num-consonant
+ trans_ru: радиоцех
+
+-lexeme
+ lex: расположение
+ gramm: N,rus
+ stem: расположени.
+ paradigm: Noun-num-ije
+ trans_ru: расположение
+
+-lexeme
+ lex: рафинад
+ gramm: N,rus
+ stem: рафинад.
+ paradigm: Noun-num-consonant
+ trans_ru: рафинад
+
+-lexeme
+ lex: резьба
+ gramm: N,rus
+ stem: резьба.
+ paradigm: Noun-num-vowel
+ trans_ru: резьба
+
+-lexeme
+ lex: самоучитель
+ gramm: N,rus
+ stem: самоучител.
+ paradigm: Noun-num-soft
+ trans_ru: самоучитель
+
+-lexeme
+ lex: сиденье
+ gramm: N,rus
+ stem: сиденье.
+ paradigm: Noun-num-vowel
+ trans_ru: сиденье
+
+-lexeme
+ lex: силикат
+ gramm: N,rus
+ stem: силикат.
+ paradigm: Noun-num-consonant
+ trans_ru: силикат
+
+-lexeme
+ lex: собрання
+ gramm: N,rus
+ stem: собрання.
+ paradigm: Noun-num-vowel
+ trans_ru: собрання
+
+-lexeme
+ lex: сольфеджио
+ gramm: N,rus
+ stem: сольфеджио.
+ paradigm: Noun-num-vowel
+ trans_ru: сольфеджио
+
+-lexeme
+ lex: сомик
+ gramm: N,rus,anim
+ stem: сомик.
+ paradigm: Noun-num-consonant
+ trans_ru: сомик
+
+-lexeme
+ lex: спиннинг
+ gramm: N,rus
+ stem: спиннинг.
+ paradigm: Noun-num-consonant
+ trans_ru: спиннинг
+
+-lexeme
+ lex: стетоскоп
+ gramm: N,rus
+ stem: стетоскоп.
+ paradigm: Noun-num-consonant
+ trans_ru: стетоскоп
+
+-lexeme
+ lex: торговля
+ gramm: N,rus
+ stem: торговля.
+ paradigm: Noun-num-vowel
+ trans_ru: торговля
+
+-lexeme
+ lex: туфля
+ gramm: N,rus
+ stem: туфля.
+ paradigm: Noun-num-vowel
+ trans_ru: туфля
+
+-lexeme
+ lex: усик
+ gramm: N,rus,body
+ stem: усик.
+ paradigm: Noun-num-consonant
+ trans_ru: усики
+
+-lexeme
+ lex: фазенда
+ gramm: N,rus
+ stem: фазенда.
+ paradigm: Noun-num-vowel
+ trans_ru: фазенда
+
+-lexeme
+ lex: фактик
+ gramm: N,rus
+ stem: фактик.
+ paradigm: Noun-num-consonant
+ trans_ru: фактик
+
+-lexeme
+ lex: фата
+ gramm: N,rus
+ stem: фата.
+ paradigm: Noun-num-vowel
+ trans_ru: фата
+
+-lexeme
+ lex: фотовыставка
+ gramm: N,rus
+ stem: фотовыставка.
+ paradigm: Noun-num-vowel
+ trans_ru: фотовыставка
+
+-lexeme
+ lex: фотокружок
+ gramm: N,rus
+ stem: фотокружок.
+ paradigm: Noun-num-consonant
+ trans_ru: фотокружок
+
+-lexeme
+ lex: фотообъектив
+ gramm: N,rus
+ stem: фотообъектив.
+ paradigm: Noun-num-consonant
+ trans_ru: фотообъектив
+
+-lexeme
+ lex: фотопыӵал
+ gramm: N,rus_afx
+ stem: фотопыӵал.
+ paradigm: Noun-num-consonant
+ trans_ru: фоторужьё
+
+-lexeme
+ lex: хлорка
+ gramm: N,rus
+ stem: хлорка.
+ paradigm: Noun-num-vowel
+ trans_ru: хлорка
+
+-lexeme
+ lex: хэбэ
+ gramm: N,rus
+ stem: хэбэ.
+ paradigm: Noun-num-vowel
+ trans_ru: х/б (хлопчатобумажный)
+
+-lexeme
+ lex: цевьё
+ gramm: N,rus
+ stem: цевьё.
+ paradigm: Noun-num-vowel
+ trans_ru: цевьё
+
+-lexeme
+ lex: шлея
+ gramm: N,rus
+ stem: шлея.
+ paradigm: Noun-num-vowel
+ trans_ru: шлея
+
+-lexeme
+ lex: штоп
+ gramm: N,rus
+ stem: штоп.
+ paradigm: Noun-num-consonant
+ trans_ru: штоф
+
+-lexeme
+ lex: штормовка
+ gramm: N,rus
+ stem: штормовка.
+ paradigm: Noun-num-vowel
+ trans_ru: штормовка
+
+-lexeme
+ lex: электровспышка
+ gramm: N,rus
+ stem: электровспышка.
+ paradigm: Noun-num-vowel
+ trans_ru: электровспышка
+
+-lexeme
+ lex: электроток
+ gramm: N,rus
+ stem: электроток.
+ paradigm: Noun-num-consonant
+ trans_ru: электроток
+
+-lexeme
+ lex: эскадрилия
+ gramm: N,rus,transport
+ stem: эскадрили.
+ paradigm: Noun-num-ija
+ trans_ru: эскадрилья
+

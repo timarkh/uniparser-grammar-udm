@@ -457,7 +457,7 @@
 
 -lexeme
  lex: номыр
- stem: номыр.
+ stem: номыр.//номр.
  gramm: PRO
  paradigm: Noun-mar
  trans_ru: ничто
@@ -763,21 +763,21 @@
  lex: отчы
  stem: отчы.//отцы.
  gramm: ADVPRO,ill
- paradigm: Comparative
+ paradigm: Noun-case-compounding-core
  trans_ru: туда
 
 -lexeme
  lex: сотчы
  stem: сотчы.//сотцы.
  gramm: ADVPRO,ill
- paradigm: Comparative
+ paradigm: Noun-case-compounding-core
  trans_ru: туда
 
 -lexeme
  lex: татчы
  stem: татчы.//татцы.
  gramm: ADVPRO,ill
- paradigm: Comparative
+ paradigm: Noun-case-compounding-core
  trans_ru: сюда
 
 -lexeme
@@ -798,28 +798,28 @@
  lex: котькытчы
  stem: котькытчы.//котькытцы.
  gramm: ADVPRO,ill
- paradigm: Comparative
+ paradigm: Noun-case-compounding-core
  trans_ru: куда угодно
 
 -lexeme
  lex: олокытчы
  stem: олокытчы.//олокытцы.
  gramm: ADVPRO,ill
- paradigm: Comparative
+ paradigm: Noun-case-compounding-core
  trans_ru: куда-то
 
 -lexeme
  lex: огкытчы
  stem: огкытчы.//огкытцы.
  gramm: ADVPRO,ill
- paradigm: Comparative
+ paradigm: Noun-case-compounding-core
  trans_ru: никуда
 
 -lexeme
  lex: нокытчы
  stem: нокытчы.//нокытцы.
  gramm: ADVPRO,ill
- paradigm: Comparative
+ paradigm: Noun-case-compounding-core
  trans_ru: никуда; некуда
 
 -lexeme
@@ -1688,7 +1688,7 @@
 -lexeme
  lex: неномыр
  gramm: PRO
- stem: неномыр.
+ stem: неномыр.//неномр.
  paradigm: Noun-mar
  trans_ru: ничего
 

@@ -322,7 +322,11 @@ SELECT (V tr) IF (0 ("шуыны"i))
                  (0 (V 1) OR (V deb));
 
 # кызь: 20 vs. "urine"
-SELECT (NUM) IF (0 ("<кызь>"i) OR ("<кызьгес>"))
+SELECT (NUM) IF (0 ("<кызь>"i) OR ("<кызьгес>"i))
                 (1 (NUM) OR (N nom));
 
-
+# кыз: "fir" vs. "urinate"
+SELECT (N) IF (0 ("<кыз>"i) OR ("<кызэ>"i))
+              (1 (POST) OR ("вай") OR ("лыс") OR ("выжы") OR ("ул") OR ("выл") OR ("котыр") OR ("йыл") OR ("нюк") OR ("шудыны") OR ("сылыны") OR ("будыны") OR ("кизьыны") OR ("кидыс"));
+SELECT (N) IF (0 ("<кыз>"i) OR ("<кызэ>"i))
+              (-1 (ADJ) OR (attr_o) OR ("<ар>"i) OR ("<чебермам>"i) OR ("<чеберъям>"i) OR ("<будэм>"i) OR ("<будӥсь>"i));

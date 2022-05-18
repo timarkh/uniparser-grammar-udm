@@ -592,14 +592,14 @@
  lex: озьы
  stem: озьы.
  gramm: ADV
- paradigm: Comparative
+ paradigm: connect_adverbs_px
  trans_ru: так, таким образом
 
 -lexeme
  lex: созьы
  stem: созьы.
  gramm: ADV
- paradigm: Comparative
+ paradigm: connect_adverbs_px
  trans_ru: так, таким образом
 
 -lexeme
@@ -620,7 +620,7 @@
  lex: тазьы
  stem: тазьы.
  gramm: ADV
- paradigm: Comparative
+ paradigm: connect_adverbs_px
  trans_ru: так, эдак
 
 -lexeme
@@ -713,7 +713,7 @@
 
 -lexeme
  lex: тото
- stem: тото.
+ stem: тото.//то-то.
  gramm: PART
  paradigm: Comparative
  trans_ru: то-то, вот почему
@@ -727,7 +727,7 @@
 
 -lexeme
  lex: ка
- stem: ка.
+ stem: ка.//ко.
  gramm: PART,rus
  paradigm: Empty
  trans_ru: -ка
@@ -5848,21 +5848,21 @@
  lex: ӵош
  stem: ӵош.
  gramm: ADV
- paradigm: connect_adverbs
+ paradigm: connect_adverbs_px
  trans_ru: вместе
 
 -lexeme
  lex: собере
  stem: собере.
  gramm: ADV
- paradigm: connect_adverbs
+ paradigm: connect_adverbs_px
  trans_ru: затем, потом
 
 -lexeme
  lex: сэре
  stem: сэре.
  gramm: ADV
- paradigm: connect_adverbs
+ paradigm: connect_adverbs_px
  trans_ru: затем, потом
 
 -lexeme
@@ -8144,21 +8144,21 @@
  lex: таре
  stem: таре.
  gramm: ADV
- paradigm: connect_adverbs
+ paradigm: connect_adverbs_px
  trans_ru: теперь, сейчас
 
 -lexeme
  lex: табре
  stem: табре.
  gramm: ADV
- paradigm: connect_adverbs
+ paradigm: connect_adverbs_px
  trans_ru: теперь, сейчас
 
 -lexeme
  lex: табере
  stem: табере.
  gramm: ADV
- paradigm: connect_adverbs
+ paradigm: connect_adverbs_px
  trans_ru: теперь, сейчас
 
 -lexeme

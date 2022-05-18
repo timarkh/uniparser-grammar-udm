@@ -444,6 +444,12 @@
   gram:
  paradigm: Comparative
 
+-paradigm: connect_adverbs_px
+ -flex: .<.>
+  gram:
+ paradigm: Comparative
+ paradigm: Noun-case-poss-3,sg
+
 
 
 
@@ -6582,6 +6588,10 @@
   gramm: pass
   gloss: PASS
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+ -flex: .к<.>
+  gramm: pass
+  gloss: PASS
+  regex-prev: ^.*[шж][<>.]*$
  -flex: <0>.ыл<.>//<0>.ылл<.>
   gramm: iter
   gloss: ITER
@@ -6638,6 +6648,10 @@
   gramm: pass
   gloss: PASS
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+ -flex: <0>.к<.>
+  gramm: pass
+  gloss: PASS
+  regex-prev: ^.*[шж][<>.]*$
  -flex: <0>.ыл<.>//<0>.ылл<.>
   gramm: iter
   gloss: ITER
