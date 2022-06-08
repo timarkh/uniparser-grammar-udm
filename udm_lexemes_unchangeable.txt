@@ -688,7 +688,7 @@
 
 -lexeme
  lex: кылсярысь
- stem: кылсярысь.
+ stem: кылсярысь.//кылсярись.
  gramm: PARENTH
  paradigm: Comparative
  trans_ru: например
@@ -3752,7 +3752,7 @@
 
 -lexeme
  lex: азинлыко
- stem: азинлыко.
+ stem: азинлыко.//азиньлыко.
  gramm: ADV
  paradigm: connect_adverbs
  trans_ru: производительно
@@ -9037,7 +9037,7 @@
 
 -lexeme
  lex: быдтыр
- stem: быдтыр.
+ stem: быдтыр.//быттыр.
  gramm: ADV
  paradigm: connect_adverbs
  trans_ru: совсем
@@ -18398,3 +18398,60 @@
  stem: азьласянь.
  paradigm: connect_adverbs
  trans_ru: спереди
+
+-lexeme
+ lex: мкш
+ stem: мкш.
+ gramm: CNJ,abbr
+ paradigm: Empty
+ trans_ru: потому что (малы ке шуоно)
+
+-lexeme
+ lex: массово
+ gramm: ADV,rus
+ stem: массово.
+ paradigm: connect_adverbs
+ trans_ru: массово
+
+-lexeme
+ lex: неуклонно
+ gramm: ADV,rus
+ stem: неуклонно.
+ paradigm: connect_adverbs
+ trans_ru: неуклонно
+
+-lexeme
+ lex: ударно
+ gramm: ADV,rus
+ stem: ударно.
+ paradigm: connect_adverbs
+ trans_ru: ударно
+
+-lexeme
+ lex: безответственно
+ gramm: ADV,rus
+ stem: безответственно.
+ paradigm: connect_adverbs
+ trans_ru: безответственно
+
+-lexeme
+ lex: безразлично
+ gramm: ADV,rus
+ stem: безразлично.
+ paradigm: connect_adverbs
+ trans_ru: безразлично
+
+-lexeme
+ lex: беспощадно
+ gramm: ADV,rus
+ stem: беспощадно.
+ paradigm: connect_adverbs
+ trans_ru: беспощадно
+
+-lexeme
+ lex: самоотверженно
+ gramm: ADV,rus
+ stem: самоотверженно.
+ paradigm: connect_adverbs
+ trans_ru: самоотверженно
+

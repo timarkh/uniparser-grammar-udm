@@ -1045,14 +1045,14 @@
 
 -lexeme
  lex: азинлык
- stem: азинлык.//азьынлык.
+ stem: азинлык.//азиньлык.//азьынлык.//азьыньлык.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: успех, плодотворность, продуктивность, производительность
 
 -lexeme
  lex: азинскем
- stem: азинскем.
+ stem: азинскем.//азиньскем.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: прогресс, продвижение, развитие, опережение
@@ -9721,7 +9721,7 @@
 
 -lexeme
  lex: военнослужащий
- stem: военнослужащи.
+ stem: военнослужащи.//военнослужащо.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-j
  trans_ru: военнослужащий
@@ -17537,7 +17537,7 @@
 
 -lexeme
  lex: заведующий
- stem: заведующи.
+ stem: заведующи.//заведующо.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-j
  trans_ru: заведующий
@@ -26161,6 +26161,7 @@
  stem: коньдон.
  gramm: N
  paradigm: Noun-num-consonant
+ paradigm: Noun-num-soft
  trans_ru: деньги; копейка
 
 -lexeme
@@ -39301,6 +39302,7 @@
  stem: ноябр.
  gramm: N,rus,time_meas
  paradigm: Noun-num-soft
+ paradigm: Noun-num-consonant
  trans_ru: ноябрь
 
 -lexeme
@@ -52729,6 +52731,7 @@
  stem: секретар.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-soft
+ paradigm: Noun-num-consonant
  trans_ru: секретарь
 
 -lexeme
@@ -52845,8 +52848,15 @@
 
 -lexeme
  lex: сельсовет
- stem: сельсовет.
+ stem: сельсовет.//с-совет.//ссовет.
  gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: сельсовет
+
+-lexeme
+ lex: сельсовет
+ stem: с-сов.//с-сов-.//ссов.//ссов-.
+ gramm: N,rus,abbr
  paradigm: Noun-num-consonant
  trans_ru: сельсовет
 
@@ -52981,6 +52991,7 @@
  stem: сентябр.
  gramm: N,rus,time_meas
  paradigm: Noun-num-soft
+ paradigm: Noun-num-consonant
  trans_ru: сентябрь
 
 -lexeme
@@ -71729,6 +71740,7 @@
  stem: январ.
  gramm: N,rus,time_meas
  paradigm: Noun-num-soft
+ paradigm: Noun-num-consonant
  trans_ru: январь
 
 -lexeme
@@ -75516,7 +75528,7 @@
  trans_ru: ведро
 -lexeme
  lex: ведущий
- stem: ведущи.
+ stem: ведущи.//ведущо.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-j
  trans_ru: ведущий
@@ -78467,7 +78479,7 @@
  trans_ru: кома
 -lexeme
  lex: командующий
- stem: командующи.
+ stem: командующи.//командующо.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-j
  trans_ru: командующий
@@ -85495,7 +85507,7 @@
  trans_ru: управление
 -lexeme
  lex: управляющий
- stem: управляющи.
+ stem: управляющи.//управляющо.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-j
  trans_ru: управляющий
@@ -102795,7 +102807,7 @@
 -lexeme
  lex: главнокомандующий
  gramm: N,rus,anim,hum
- stem: главнокомандующи.
+ stem: главнокомандующи.//главнокомандующо.
  paradigm: Noun-num-j
  trans_ru: главнокомандующий
 
@@ -103600,7 +103612,7 @@
 -lexeme
  lex: домоуправляющий
  gramm: N,rus,anim,hum
- stem: домоуправляющи.
+ stem: домоуправляющи.//домоуправляющо.
  paradigm: Noun-num-j
  trans_ru: домоуправляющий
 
@@ -108332,7 +108344,7 @@
 -lexeme
  lex: нападающий
  gramm: N,rus,anim,hum
- stem: нападающи.
+ stem: нападающи.//нападающо.
  paradigm: Noun-num-j
  trans_ru: нападающий
 
@@ -113188,7 +113200,7 @@
 -lexeme
  lex: служащий
  gramm: N,rus,anim,hum
- stem: служащи.
+ stem: служащи.//служащо.
  paradigm: Noun-num-j
  trans_ru: служащий
 
@@ -119252,4 +119264,319 @@
  stem: дезоморфин.
  paradigm: Noun-num-consonant
  trans_ru: дезоморфин
+
+-lexeme
+ lex: НСШ
+ stem: нсш.//нсш-.
+ gramm: N,rus,abbr
+ paradigm: Noun-num-consonant
+ trans_ru: НСШ (неполная средняя школа)
+
+-lexeme
+ lex: коммунис
+ gramm: N,anim,hum,rus
+ stem: коммунис.
+ paradigm: Noun-num-consonant
+ trans_ru: коммунист
+
+-lexeme
+ lex: облась
+ gramm: N,rus
+ stem: облас.
+ paradigm: Noun-num-soft
+ trans_ru: облась
+
+-lexeme
+ lex: трудящий
+ gramm: N,anim,hum,rus
+ stem: трудящи.//трудящо.
+ paradigm: Noun-num-j
+ trans_ru: трудящийся
+
+-lexeme
+ lex: фотохроника
+ gramm: N,rus
+ stem: фотохроника.
+ paradigm: Noun-num-vowel
+ trans_ru: фотохроника
+
+-lexeme
+ lex: азьвортысь
+ gramm: N,anim,hum
+ stem: азьвортыс.
+ paradigm: Noun-num-soft
+ trans_ru: заведующий
+
+-lexeme
+ lex: беспечность
+ gramm: N,rus
+ stem: беспечност.
+ paradigm: Noun-num-soft
+ trans_ru: беспечность
+
+-lexeme
+ lex: дезинсекция
+ gramm: N,rus
+ stem: дезинсекци.
+ paradigm: Noun-num-ija
+ trans_ru: дезинсекция
+
+-lexeme
+ lex: делопроизводство
+ gramm: N,rus
+ stem: делопроизводство.
+ paradigm: Noun-num-vowel
+ trans_ru: делопроизводство
+
+-lexeme
+ lex: животноводство
+ gramm: N,rus
+ stem: животноводство.
+ paradigm: Noun-num-vowel
+ trans_ru: животноводство
+
+-lexeme
+ lex: заготлён
+ gramm: N,rus
+ stem: заготлён.
+ paradigm: Noun-num-consonant
+ trans_ru: заготлён (контора)
+
+-lexeme
+ lex: колхозсоюз
+ gramm: N,rus
+ stem: колхозсоюз.
+ paradigm: Noun-num-consonant
+ trans_ru: колхозсоюз
+
+-lexeme
+ lex: комсоорганизация
+ gramm: N,rus
+ stem: комсоорганизаци.
+ paradigm: Noun-num-ija
+ trans_ru: комсомольская организация
+
+-lexeme
+ lex: культармеец
+ gramm: N,anim,hum,rus
+ stem: культармеец.
+ paradigm: Noun-num-consonant
+ trans_ru: культармеец
+
+-lexeme
+ lex: недостаток
+ gramm: N,rus
+ stem: недостаток.
+ paradigm: Noun-num-consonant
+ trans_ru: недостаток
+
+-lexeme
+ lex: опоздание
+ gramm: N,rus
+ stem: опоздани.
+ paradigm: Noun-num-ije
+ trans_ru: опоздание
+
+-lexeme
+ lex: организованность
+ gramm: N,rus
+ stem: организованност.
+ paradigm: Noun-num-soft
+ trans_ru: организованность
+
+-lexeme
+ lex: ответственнось
+ gramm: N,rus,missp
+ stem: отвественнос.
+ paradigm: Noun-num-soft
+ trans_ru: ответственность
+
+-lexeme
+ lex: ответственнось
+ gramm: N,rus
+ stem: ответственнос.
+ paradigm: Noun-num-soft
+ trans_ru: ответственность
+
+-lexeme
+ lex: отрасль
+ gramm: N,rus
+ stem: отрасл.
+ paradigm: Noun-num-soft
+ trans_ru: отрасль
+
+-lexeme
+ lex: разрыв
+ gramm: N,rus
+ stem: разрыв.
+ paradigm: Noun-num-consonant
+ trans_ru: разрыв
+
+-lexeme
+ lex: реввоенсовет
+ gramm: N,rus
+ stem: реввоенсовет.
+ paradigm: Noun-num-consonant
+ trans_ru: реввоенсовет
+
+-lexeme
+ lex: сдельщина
+ gramm: N,rus
+ stem: сдельщина.
+ paradigm: Noun-num-vowel
+ trans_ru: сдельщина
+
+-lexeme
+ lex: соцсоревнование
+ gramm: N,rus
+ stem: соцсоревновани.
+ paradigm: Noun-num-ije
+ trans_ru: соцсоревнование
+
+-lexeme
+ lex: ударничество
+ gramm: N,rus
+ stem: ударничество.
+ paradigm: Noun-num-vowel
+ trans_ru: ударничество
+
+-lexeme
+ lex: ёросисполком
+ gramm: N,rus
+ stem: ёросисполком.
+ paradigm: Noun-num-consonant
+ trans_ru: райисполком
+
+-lexeme
+ lex: ёроскомитет
+ gramm: N,rus
+ stem: ёроскомитет.
+ paradigm: Noun-num-consonant
+ trans_ru: райкомитет
+
+-lexeme
+ lex: ёроспрофсовет
+ gramm: N,rus
+ stem: ёроспрофсовет.
+ paradigm: Noun-num-consonant
+ trans_ru: райпрофсовет
+
+-lexeme
+ lex: благодушие
+ gramm: N,rus
+ stem: благодушие.
+ paradigm: Noun-num-vowel
+ trans_ru: благодушие
+
+-lexeme
+ lex: ёросколхозсоюз
+ gramm: N,rus
+ stem: ёросколхозсоюз.
+ paradigm: Noun-num-consonant
+ trans_ru: райколхозсоюз
+
+-lexeme
+ lex: ёроспрокуратура
+ gramm: N,rus
+ stem: ёроспрокуратура.
+ paradigm: Noun-num-vowel
+ trans_ru: районная прокуратура
+
+-lexeme
+ lex: ёросзо
+ gramm: N,abbr,rus
+ stem: ёросзо.
+ paradigm: Noun-num-vowel
+ trans_ru: райзо (районный земельный отдел)
+
+-lexeme
+ lex: ёросздрав
+ gramm: N,abbr,rus
+ stem: ёросздрав.
+ paradigm: Noun-num-consonant
+ trans_ru: райздрав
+
+-lexeme
+ lex: железногвардеец
+ gramm: N,anim,hum,rus
+ stem: железногвардеец.
+ paradigm: Noun-num-consonant
+ trans_ru: железногвардеец
+
+-lexeme
+ lex: кресьян
+ gramm: N,anim,hum,rus
+ stem: кресьян.
+ paradigm: Noun-num-consonant
+ trans_ru: крестьянин
+
+-lexeme
+ lex: политпросветучреждение
+ gramm: N,rus
+ stem: политпросветучреждени.
+ paradigm: Noun-num-ije
+ trans_ru: политпросветучреждение
+
+-lexeme
+ lex: производительность
+ gramm: N,rus
+ stem: производительност.
+ paradigm: Noun-num-soft
+ trans_ru: производительность
+
+-lexeme
+ lex: промышленнось
+ gramm: N,rus
+ stem: промышленнос.
+ paradigm: Noun-num-soft
+ trans_ru: промышленность
+
+-lexeme
+ lex: профшкола
+ gramm: N,rus
+ stem: профшкола.
+ paradigm: Noun-num-vowel
+ trans_ru: профшкола
+
+-lexeme
+ lex: сельисполком
+ gramm: N,rus
+ stem: сельисполком.
+ paradigm: Noun-num-consonant
+ trans_ru: сельисполком
+
+-lexeme
+ lex: соцобязательство
+ gramm: N,rus
+ stem: соцобязательство.
+ paradigm: Noun-num-vowel
+ trans_ru: соцобязательство
+
+-lexeme
+ lex: соцдоговор
+ gramm: N,rus
+ stem: соцдоговор.
+ paradigm: Noun-num-consonant
+ trans_ru: соцдоговор
+
+-lexeme
+ lex: стенкор
+ gramm: N,anim,hum,rus
+ stem: стенкор.
+ paradigm: Noun-num-consonant
+ trans_ru: стенкор
+
+-lexeme
+ lex: стервятник
+ gramm: N,anim,rus
+ stem: стервятник.
+ paradigm: Noun-num-consonant
+ trans_ru: стервятник
+
+-lexeme
+ lex: труддисциплина
+ gramm: N,rus
+ stem: труддисциплина.
+ paradigm: Noun-num-vowel
+ trans_ru: труддисциплина
 

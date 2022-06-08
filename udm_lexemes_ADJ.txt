@@ -2850,7 +2850,7 @@
 
 -lexeme
  lex: азинскись
- stem: азинскис.
+ stem: азинскис.//азиньскис.
  gramm: ADJ
  paradigm: connect_adjectives-soft
  trans_ru: продвигающийся вперёд, развивающийся, прогрессирующий
@@ -6560,7 +6560,7 @@
 
 -lexeme
  lex: наводящий
- stem: наводящи.
+ stem: наводящи.//наводящо.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: воен. наводящий
@@ -8731,7 +8731,7 @@
 
 -lexeme
  lex: азинлыко
- stem: азинлыко.
+ stem: азинлыко.//азиньлыко.
  gramm: ADJ
  paradigm: connect_adjectives
  trans_ru: успешный
@@ -35496,7 +35496,7 @@
 -lexeme
  lex: общей
  gramm: ADJ,rus
- stem: обще.//общи.
+ stem: обще.//общи.//общо.
  paradigm: connect_adjectives-j
  trans_ru: общий
 
@@ -36469,7 +36469,7 @@
 -lexeme
  lex: разводящий
  gramm: ADJ,rus
- stem: разводящи.
+ stem: разводящи.//разводящо.
  paradigm: connect_adjectives-j
  trans_ru: разводящий
 
@@ -37008,7 +37008,7 @@
 -lexeme
  lex: старший
  gramm: ADJ,rus
- stem: старши.
+ stem: старши.//старшо.
  paradigm: connect_adjectives-j
  trans_ru: старший
 
@@ -39077,3 +39077,149 @@
  paradigm: connect_adjectives
  trans_ru: гуманитарный
 
+-lexeme
+ lex: богатырской
+ gramm: ADJ,rus
+ stem: богатырско.
+ paradigm: connect_adjectives-j
+ trans_ru: богатырский
+
+-lexeme
+ lex: важнейший
+ gramm: ADJ,rus
+ stem: важнейши.//важнейшо.
+ paradigm: connect_adjectives-j
+ trans_ru: важнейший
+
+-lexeme
+ lex: всенародной
+ gramm: ADJ,rus
+ stem: всенародно.
+ paradigm: connect_adjectives-j
+ trans_ru: всенародный
+
+-lexeme
+ lex: дезинсекционной
+ gramm: ADJ,rus
+ stem: дезинсекционно.
+ paradigm: connect_adjectives-j
+ trans_ru: дезинсекционный
+
+-lexeme
+ lex: доблестной
+ gramm: ADJ,rus
+ stem: доблестно.
+ paradigm: connect_adjectives-j
+ trans_ru: доблестный
+
+-lexeme
+ lex: крепостнической
+ gramm: ADJ,rus
+ stem: крепостническо.
+ paradigm: connect_adjectives-j
+ trans_ru: крепостнический
+
+-lexeme
+ lex: кровавой
+ gramm: ADJ,rus
+ stem: кроваво.
+ paradigm: connect_adjectives-j
+ trans_ru: кровавый
+
+-lexeme
+ lex: крупнейший
+ gramm: ADJ,rus
+ stem: крупнейши.//крупнейшо.
+ paradigm: connect_adjectives-j
+ trans_ru: крупнейший
+
+-lexeme
+ lex: марксистско-ленинской
+ gramm: ADJ,rus
+ stem: марксистско-ленинско.
+ paradigm: connect_adjectives-j
+ trans_ru: марксистско-ленинский
+
+-lexeme
+ lex: мукомольной
+ gramm: ADJ,rus
+ stem: мукомольно.
+ paradigm: connect_adjectives-j
+ trans_ru: мукомольный
+
+-lexeme
+ lex: неукротимой
+ gramm: ADJ,rus
+ stem: неукротимо.
+ paradigm: connect_adjectives-j
+ trans_ru: неукротимый
+
+-lexeme
+ lex: осоавиахимовской
+ gramm: ADJ,rus
+ stem: осоавиахимовско.
+ paradigm: connect_adjectives-j
+ trans_ru: осоавиахимовской
+
+-lexeme
+ lex: подневольной
+ gramm: ADJ,rus
+ stem: подневольно.
+ paradigm: connect_adjectives-j
+ trans_ru: подневольный
+
+-lexeme
+ lex: порайонной
+ gramm: ADJ,rus
+ stem: порайонно.
+ paradigm: connect_adjectives-j
+ trans_ru: порайонный
+
+-lexeme
+ lex: простейший
+ gramm: ADJ,rus
+ stem: простейши.//простейшо.
+ paradigm: connect_adjectives-j
+ trans_ru: простейший
+
+-lexeme
+ lex: решающий
+ gramm: ADJ,rus
+ stem: решающи.//решающо.
+ paradigm: connect_adjectives-j
+ trans_ru: решающий
+
+-lexeme
+ lex: финбанковской
+ gramm: ADJ,rus
+ stem: финбанковско.
+ paradigm: connect_adjectives-j
+ trans_ru: финбанковский
+
+-lexeme
+ lex: хлопчатобумажной
+ gramm: ADJ,rus
+ stem: хлопчатобумажно.
+ paradigm: connect_adjectives-j
+ trans_ru: хлопчатобумажный
+
+-lexeme
+ lex: партийно-комсомольской
+ gramm: ADJ,rus
+ stem: партийно-комсомольско.
+ paradigm: connect_adjectives-j
+ trans_ru: партийно-комсомольский
+
+-lexeme
+ lex: троцкистско-бухаринской
+ gramm: ADJ,rus
+ stem: троцкистско-бухаринско.
+ paradigm: connect_adjectives-j
+ trans_ru: троцкистско-бухаринский
+
+-lexeme
+ lex: недоброкачественной
+ gramm: ADJ,rus
+ stem: недоброкачественно.
+ paradigm: connect_adjectives-j
+ trans_ru: недоброкачественный
