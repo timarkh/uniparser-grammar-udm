@@ -986,7 +986,7 @@
 
 -lexeme
  lex: эшшо
- stem: эшшо.//ешшо.
+ stem: эшшо.//ешшо.//ишшо.//ишо.
  gramm: ADV,rus
  paradigm: Empty
  trans_ru: ещё
@@ -1084,7 +1084,7 @@
 
 -lexeme
  lex: пожалуйста
- stem: пожалуйста.//пожалуста.//пожалоста.
+ stem: пожалуйста.//пожалуста.//пожалоста.//пожалста.//пжалста.
  gramm: PART,rus
  paradigm: Comparative
  trans_ru: пожалуйста
@@ -4446,7 +4446,7 @@
 
 -lexeme
  lex: синуӵер
- stem: синуӵер.
+ stem: синуӵер.//синучер.
  gramm: ADV
  paradigm: connect_adverbs
  trans_ru: моментально, стремительно, вмиг
@@ -6626,7 +6626,7 @@
  stem: йыг-йыг.
  gramm: IMIT
  paradigm: Empty
- trans_ru: стукустук-стук
+ trans_ru: стук-стук
 
 -lexeme
  lex: кыж-куаж
@@ -12342,7 +12342,7 @@
  trans_ru: резко
 -lexeme
  lex: сейчас
- stem: сейчас.
+ stem: сейчас.//счас.//щас.
  gramm: ADV,rus
  paradigm: Comparative
  trans_ru: сейчас
@@ -12746,12 +12746,6 @@
  gramm: ADV,rus
  paradigm: connect_adverbs
  trans_ru: наконец
--lexeme
- lex: щас
- stem: щас.
- gramm: ADV,rus
- paradigm: connect_adverbs
- trans_ru: щас
 -lexeme
  lex: наверное
  stem: наверное.
@@ -18454,4 +18448,641 @@
  stem: самоотверженно.
  paradigm: connect_adverbs
  trans_ru: самоотверженно
+
+-lexeme
+ lex: озьытэк
+ gramm: CNJ
+ stem: озьытэк.
+ paradigm: Comparative
+ trans_ru: иначе, а то, в противном случае
+
+-lexeme
+ lex: керексэ
+ gramm: PARENTH
+ stem: керексэ.
+ paradigm: Comparative
+ trans_ru: наверно, видимо
+
+-lexeme
+ lex: давайте
+ gramm: PART,rus
+ stem: давайте.
+ paradigm: Comparative
+ trans_ru: давайте
+
+-lexeme
+ lex: ось
+ gramm: PART
+ stem: ось.
+ paradigm: Comparative
+ trans_ru: разг. же
+
+-lexeme
+ lex: ничё
+ gramm: PART,rus
+ stem: ничё.
+ paradigm: Comparative
+ trans_ru: ничего
+
+-lexeme
+ lex: амба
+ gramm: PREDIC,rus
+ stem: амба.
+ paradigm: Comparative
+ trans_ru: амба; конец
+
+-lexeme
+ lex: кранты
+ gramm: PREDIC,rus
+ stem: кранты.
+ paradigm: Comparative
+ trans_ru: кранты; конец
+
+-lexeme
+ lex: ау-у-у
+ gramm: INTRJ
+ stem: ау-у-у.
+ paradigm: Comparative
+ trans_ru: ау
+
+-lexeme
+ lex: бр-р
+ gramm: INTRJ
+ stem: бр-р.
+ paradigm: Comparative
+ trans_ru: бр-р
+
+-lexeme
+ lex: э-гей
+ gramm: INTRJ
+ stem: э-гей.
+ paradigm: Comparative
+ trans_ru: эй
+
+-lexeme
+ lex: эге-гей
+ gramm: INTRJ
+ stem: эге-гей.//э-ге-гей.
+ paradigm: Comparative
+ trans_ru: эге-гей
+
+-lexeme
+ lex: ёлки-моталки
+ gramm: INTRJ,rus
+ stem: ёлки-моталки.
+ paradigm: Comparative
+ trans_ru: ёлки-моталки
+
+-lexeme
+ lex: ёшки-палки
+ gramm: INTRJ,rus
+ stem: ёшки-палки.
+ paradigm: Comparative
+ trans_ru: ёлки-палки
+
+-lexeme
+ lex: каюк
+ gramm: PREDIC,rus
+ stem: каюк.
+ paradigm: Comparative
+ trans_ru: каюк
+
+-lexeme
+ lex: м-да
+ gramm: INTRJ,rus
+ stem: м-да.
+ paradigm: Comparative
+ trans_ru: м-да
+
+-lexeme
+ lex: ну-ка
+ gramm: INTRJ,rus
+ stem: ну-ка.
+ paradigm: Comparative
+ trans_ru: ну-ка
+
+-lexeme
+ lex: ого
+ gramm: INTRJ
+ stem: ого.
+ paradigm: Comparative
+ trans_ru: ого
+
+-lexeme
+ lex: ой-йы
+ gramm: INTRJ
+ stem: ой-йы.
+ paradigm: Comparative
+ trans_ru: ах, ой
+
+-lexeme
+ lex: о-хо-хо
+ gramm: INTRJ
+ stem: о-хо-хо.
+ paradigm: Comparative
+ trans_ru: о-хо-хо
+
+-lexeme
+ lex: тю-тю
+ gramm: INTRJ
+ stem: тю-тю.
+ paradigm: Comparative
+ trans_ru: тю-тю
+
+-lexeme
+ lex: хе-хе
+ gramm: INTRJ
+ stem: хе-хе.
+ paradigm: Comparative
+ trans_ru: хе-хе
+
+-lexeme
+ lex: хи-хи
+ gramm: INTRJ
+ stem: хи-хи.
+ paradigm: Comparative
+ trans_ru: хи-хи
+
+-lexeme
+ lex: хо-хо
+ gramm: INTRJ
+ stem: хо-хо.
+ paradigm: Comparative
+ trans_ru: хо-хо
+
+-lexeme
+ lex: э-э-кек-эк
+ gramm: INTRJ
+ stem: э-э-кек-эк.
+ paradigm: Comparative
+ trans_ru: об удивлении, сожалении, упрёке (эх, э-хе-хе; ой-ой-ой; ай-яй-яй)
+
+-lexeme
+ lex: э-э-э
+ gramm: INTRJ
+ stem: э-э-э.
+ paradigm: Comparative
+ trans_ru: э-э-э
+
+-lexeme
+ lex: я-я
+ gramm: INTRJ
+ stem: я-я.
+ paradigm: Comparative
+ trans_ru: ну-ну; хорошо, ладно
+
+-lexeme
+ lex: азьлань-берлань
+ gramm: ADV
+ stem: азьлань-берлань.
+ paradigm: connect_adverbs
+ trans_ru: туда-сюда
+
+-lexeme
+ lex: бустэм-бастэм
+ gramm: ADV
+ stem: бустэм-бастэм.
+ paradigm: connect_adverbs
+ trans_ru: насторожившись; взбодрившись
+
+-lexeme
+ lex: быдэсакыз
+ gramm: ADV
+ stem: быдэсакыз.
+ paradigm: connect_adverbs
+ trans_ru: полностью, целиком, сплошь, совсем
+
+-lexeme
+ lex: вадесэн-вадесэн
+ gramm: ADV
+ stem: вадесэн-вадесэн.
+ paradigm: connect_adverbs
+ trans_ru: временами, время от времени; местами
+
+-lexeme
+ lex: вовсё
+ gramm: ADV,rus
+ stem: вовсё.
+ paradigm: connect_adverbs
+ trans_ru: вовсе
+
+-lexeme
+ lex: гижын-пиньын
+ gramm: ADV
+ stem: гижын-пиньын.
+ paradigm: connect_adverbs
+ trans_ru: с усердием; настойчиво
+
+-lexeme
+ lex: дасен
+ gramm: ADV
+ stem: дасен.
+ paradigm: connect_adverbs
+ trans_ru: на всём готовом
+
+-lexeme
+ lex: ӝикрак
+ gramm: ADV
+ stem: ӝикрак.
+ paradigm: connect_adverbs
+ trans_ru: аккуратно, опрятно, чисто; бережливо
+
+-lexeme
+ lex: ӝомо-югдо
+ gramm: ADV
+ stem: ӝомо-югдо.
+ paradigm: connect_adverbs
+ trans_ru: сумрачно; темно
+
+-lexeme
+ lex: ӝыныё-урдсо
+ gramm: ADV
+ stem: ӝыныё-урдсо.
+ paradigm: connect_adverbs
+ trans_ru: наполовину (не до конца) завершённый
+
+-lexeme
+ lex: ӝыт-ӵук
+ gramm: ADV
+ stem: ӝыт-ӵук.
+ paradigm: connect_adverbs
+ trans_ru: утром и вечером, по утрам и вечерам
+
+-lexeme
+ lex: зугресак
+ gramm: ADV
+ stem: зугресак.
+ paradigm: connect_adverbs
+ trans_ru: громко, раскатисто
+
+-lexeme
+ lex: ӟуззы
+ gramm: ADV
+ stem: ӟуззы.
+ paradigm: connect_adverbs
+ trans_ru: подряд, друг за другом
+
+-lexeme
+ lex: ӟузрак
+ gramm: ADV
+ stem: ӟузрак.
+ paradigm: connect_adverbs
+ trans_ru: струёй
+
+-lexeme
+ lex: йыг-йыг
+ gramm: ADV
+ stem: йыг-йыг.
+ paradigm: connect_adverbs
+ trans_ru: стойко, твёрдо, крепко
+
+-lexeme
+ lex: кескентэк
+ gramm: ADV
+ stem: кескентэк.
+ paradigm: connect_adverbs
+ trans_ru: диал. вдруг, неожиданно, внезапно
+
+-lexeme
+ lex: котыр
+ gramm: ADV
+ stem: котыр.
+ paradigm: connect_adverbs
+ trans_ru: кругом, вокург
+
+-lexeme
+ lex: котькулы
+ gramm: ADV
+ stem: котькулы.
+ paradigm: connect_adverbs
+ trans_ru: навсегда
+
+-lexeme
+ lex: кужен-вамен
+ gramm: ADV
+ stem: кужен-вамен.
+ paradigm: connect_adverbs
+ trans_ru: вдоль и поперёк
+
+-lexeme
+ lex: куиньнапаласен
+ gramm: ADV
+ stem: куиньнапаласен.
+ paradigm: connect_adverbs
+ trans_ru: с трёх сторон
+
+-lexeme
+ lex: ларак
+ gramm: ADV
+ stem: ларак.
+ paradigm: connect_adverbs
+ trans_ru: широко
+
+-lexeme
+ lex: лӧпко
+ gramm: ADV
+ stem: лӧпко.
+ paradigm: connect_adverbs
+ trans_ru: воодушевлённо
+
+-lexeme
+ lex: лусьтрак
+ gramm: ADV
+ stem: лусьтрак.
+ paradigm: connect_adverbs
+ trans_ru: небрежно
+
+-lexeme
+ lex: лэймытак
+ gramm: ADV
+ stem: лэймытак.
+ paradigm: connect_adverbs
+ trans_ru: плавно
+
+-lexeme
+ lex: шузи-мази
+ gramm: ADV
+ stem: шузи-мази.
+ paradigm: connect_adverbs
+ trans_ru: ни то ни сё
+
+-lexeme
+ lex: майбырак
+ gramm: ADV
+ stem: майбырак.
+ paradigm: connect_adverbs
+ trans_ru: счастливо; привольно, вольготно
+
+-lexeme
+ lex: мыдлань-азьлань
+ gramm: ADV
+ stem: мыдлань-азьлань.
+ paradigm: connect_adverbs
+ trans_ru: взад-вперёд; туда и обратно
+
+-lexeme
+ lex: мыд-мыдлань
+ gramm: ADV
+ stem: мыд-мыдлань.
+ paradigm: connect_adverbs
+ trans_ru: взад-вперёд; туда и обратно
+
+-lexeme
+ lex: нечестно
+ gramm: ADV,rus
+ stem: нечестно.
+ paradigm: connect_adverbs
+ trans_ru: нечестно
+
+-lexeme
+ lex: нимаз-нимаз
+ gramm: ADV
+ stem: нимаз-нимаз.
+ paradigm: connect_adverbs
+ trans_ru: раздельно; по отдельности
+
+-lexeme
+ lex: нимысьтыз
+ gramm: ADV
+ stem: нимысьтыз.
+ paradigm: connect_adverbs
+ trans_ru: специально; отдельно, особо
+
+-lexeme
+ lex: нырысь-бурысь
+ gramm: ADV
+ stem: нырысь-бурысь.
+ paradigm: connect_adverbs
+ trans_ru: первоначально, сначала
+
+-lexeme
+ lex: нюжмыляк
+ gramm: ADV
+ stem: нюжмыляк.
+ paradigm: connect_adverbs
+ trans_ru: еле-еле; лениво
+
+-lexeme
+ lex: нюплак
+ gramm: ADV
+ stem: нюплак.
+ paradigm: connect_adverbs
+ trans_ru: подчистую
+
+-lexeme
+ lex: нюштрак
+ gramm: ADV
+ stem: нюштрак.
+ paradigm: connect_adverbs
+ trans_ru: плавно, без резких движений
+
+-lexeme
+ lex: огвадескын
+ gramm: ADV
+ stem: огвадескын.
+ paradigm: connect_adverbs
+ trans_ru: в одно время
+
+-lexeme
+ lex: огвадьсын
+ gramm: ADV
+ stem: огвадьсын.
+ paradigm: connect_adverbs
+ trans_ru: примерно в одном месте
+
+-lexeme
+ lex: огвакытлы
+ gramm: ADV
+ stem: огвакытлы.
+ paradigm: connect_adverbs
+ trans_ru: ненадолго, временно
+
+-lexeme
+ lex: огесэплы
+ gramm: ADV
+ stem: огесэплы.
+ paradigm: connect_adverbs
+ trans_ru: ненадолго, на время
+
+-lexeme
+ lex: огшорыяк
+ gramm: ADV
+ stem: огшорыяк.
+ paradigm: connect_adverbs
+ trans_ru: просто, обыкновенно
+
+-lexeme
+ lex: одӥгак
+ gramm: ADV
+ stem: одӥгак.
+ paradigm: connect_adverbs
+ trans_ru: одиноко
+
+-lexeme
+ lex: олокытӥ-мартӥ
+ gramm: ADV
+ stem: олокытӥ-мартӥ.
+ paradigm: connect_adverbs
+ trans_ru: неизвестно, где и как (когда)
+
+-lexeme
+ lex: олокытысь-маысь
+ gramm: ADV
+ stem: олокытысь-маысь.
+ paradigm: connect_adverbs
+ trans_ru: откуда-то, неизвестно откуда
+
+-lexeme
+ lex: отӥ-татӥ
+ gramm: ADV
+ stem: отӥ-татӥ.
+ paradigm: connect_adverbs
+ trans_ru: кое-где, там и сям; везде
+
+-lexeme
+ lex: пакак
+ gramm: ADV
+ stem: пакак.
+ paradigm: connect_adverbs
+ trans_ru: зловонно
+
+-lexeme
+ lex: суро-пожо
+ gramm: ADV
+ stem: суро-пожо.
+ paradigm: connect_adverbs
+ trans_ru: вперемешку
+
+-lexeme
+ lex: путырак
+ gramm: ADV
+ stem: путырак.
+ paradigm: connect_adverbs
+ trans_ru: вдребезги
+
+-lexeme
+ lex: сокуен
+ gramm: ADV
+ stem: сокуен.
+ paradigm: connect_adverbs
+ trans_ru: диал. тогда, в таком случае, значит, таким образом
+
+-lexeme
+ lex: солань-талань
+ gramm: ADV
+ stem: солань-талань.
+ paradigm: connect_adverbs
+ trans_ru: взад-вперёд, туда-сюда, из стороны в сторону
+
+-lexeme
+ lex: соньы
+ gramm: ADV
+ stem: соньы.
+ paradigm: connect_adverbs
+ trans_ru: бессильно
+
+-lexeme
+ lex: супляк
+ gramm: ADV
+ stem: супляк.
+ paradigm: connect_adverbs
+ trans_ru: обессилев; совсем
+
+-lexeme
+ lex: сыркак
+ gramm: ADV
+ stem: сыркак.
+ paradigm: connect_adverbs
+ trans_ru: резко (напр. отпустить)
+
+-lexeme
+ lex: сюлтрак
+ gramm: ADV
+ stem: сюлтрак.
+ paradigm: connect_adverbs
+ trans_ru: волоча (резко)
+
+-lexeme
+ lex: тӧлъя-буръя
+ gramm: ADV
+ stem: тӧлъя-буръя.
+ paradigm: connect_adverbs
+ trans_ru: по направлению ветра
+
+-lexeme
+ lex: уй-нунал
+ gramm: ADV
+ stem: уй-нунал.
+ paradigm: connect_adverbs
+ trans_ru: день и ночь, днём и ночью
+
+-lexeme
+ lex: ӵапе
+ gramm: ADV
+ stem: ӵапе.
+ paradigm: connect_adverbs
+ trans_ru: в тот момент (со / соин ӵапе)
+
+-lexeme
+ lex: читак
+ gramm: ADV
+ stem: читак.
+ paradigm: connect_adverbs
+ trans_ru: ёкнуть (читак луыны)
+
+-lexeme
+ lex: чутышак
+ gramm: ADV
+ stem: чутышак.
+ paradigm: connect_adverbs
+ trans_ru: прихрамывая
+
+-lexeme
+ lex: ӵуштырак
+ gramm: ADV
+ stem: ӵуштырак.
+ paradigm: connect_adverbs
+ trans_ru: незаметно взобрался на печку (ӵуштырак гур вылэ тубиз)
+
+-lexeme
+ lex: шармыт
+ gramm: ADV
+ stem: шармыт.
+ paradigm: connect_adverbs
+ trans_ru: ясно, аккуратно
+
+-lexeme
+ lex: шире-дале
+ gramm: ADV,rus
+ stem: шире-дале.
+ paradigm: connect_adverbs
+ trans_ru: пуще прежнего, ещё более
+
+-lexeme
+ lex: шито-крыто
+ gramm: ADV
+ stem: шито-крыто.
+ paradigm: connect_adverbs
+ trans_ru: шито-крыто
+
+-lexeme
+ lex: шӧдтэкак
+ gramm: ADV
+ stem: шӧдтэкак.
+ paradigm: connect_adverbs
+ trans_ru: вдруг, внезапно
+
+-lexeme
+ lex: шӧтак
+ gramm: ADV
+ stem: шӧтак.
+ paradigm: connect_adverbs
+ trans_ru: вдруг, неожиданно
+
+-lexeme
+ lex: ыркытак
+ gramm: ADV
+ stem: ыркытак.
+ paradigm: connect_adverbs
+ trans_ru: свежо, прохладно
 

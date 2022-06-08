@@ -6490,7 +6490,7 @@
 
 -lexeme
  lex: лӧбырес
- stem: лӧбырес.//лӧбрес.
+ stem: лӧбырес.//лӧбрес.//лобырес.//лобрес.
  gramm: ADJ
  paradigm: connect_adjectives
  trans_ru: рыхлый, пушистый
@@ -14995,7 +14995,7 @@
  stem: шоро-куспо.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: средне
+ trans_ru: средний
 
 -lexeme
  lex: шузи
@@ -39223,3 +39223,402 @@
  stem: недоброкачественно.
  paradigm: connect_adjectives-j
  trans_ru: недоброкачественный
+
+-lexeme
+ lex: александыровской
+ gramm: ADJ,rus
+ stem: александыровско.
+ paradigm: connect_adjectives-j
+ trans_ru: александровский
+
+-lexeme
+ lex: бабыль
+ gramm: ADJ
+ stem: бабыл.
+ paradigm: connect_adjectives-soft
+ trans_ru: кудрявый
+
+-lexeme
+ lex: бозгыт
+ gramm: ADJ
+ stem: бозгыт.
+ paradigm: connect_adjectives
+ trans_ru: басистый, низкий (о звуке, голосе)
+
+-lexeme
+ lex: бронебойно-зажигательной
+ gramm: ADJ,rus
+ stem: бронебойно-зажигательно.
+ paradigm: connect_adjectives-j
+ trans_ru: бронебойно-зажигательный
+
+-lexeme
+ lex: валляна
+ gramm: ADJ
+ stem: валляна.
+ paradigm: connect_adjectives
+ trans_ru: старинный; древний; позапрошлый; прошедший
+
+-lexeme
+ lex: вогыриё-вогыриё
+ gramm: ADJ
+ stem: вогыриё-вогыриё.
+ paradigm: connect_adjectives
+ trans_ru: с рябью; волнистый, неровный
+
+-lexeme
+ lex: вожалэс-пурысь
+ gramm: ADJ
+ stem: вожалэс-пурыс.
+ paradigm: connect_adjectives-soft
+ trans_ru: зеленовато-серый
+
+-lexeme
+ lex: вожалэспыр
+ gramm: ADJ
+ stem: вожалэспыр.
+ paradigm: connect_adjectives
+ trans_ru: зеленоватый
+
+-lexeme
+ lex: вожмыт-чагыр
+ gramm: ADJ
+ stem: вожмыт-чагыр.
+ paradigm: connect_adjectives
+ trans_ru: зеленовато-голубой; бирюзовый
+
+-lexeme
+ lex: восалэс
+ gramm: ADJ
+ stem: восалэс.
+ paradigm: connect_adjectives
+ trans_ru: худой, похудевший, исхудавший
+
+-lexeme
+ lex: вылыг
+ gramm: ADJ
+ stem: вылыг.
+ paradigm: connect_adjectives
+ trans_ru: высокий, возвышенный
+
+-lexeme
+ lex: улыго-вылыго
+ gramm: ADJ
+ stem: улыго-вылыго.
+ paradigm: connect_adjectives
+ trans_ru: неровный, пересечённый
+
+-lexeme
+ lex: гольыш
+ gramm: ADJ
+ stem: гольыш.
+ paradigm: connect_adjectives
+ trans_ru: голый, нагой
+
+-lexeme
+ lex: ёзо-виё
+ gramm: ADJ
+ stem: ёзо-виё.
+ paradigm: connect_adjectives
+ trans_ru: суставной; полный сил (энергии), здоровый
+
+-lexeme
+ lex: ӝомалэс-пурысь
+ gramm: ADJ
+ stem: ӝомалэс-пурыс.
+ paradigm: connect_adjectives-soft
+ trans_ru: тёмно-серый
+
+-lexeme
+ lex: ӝомо-югдо
+ gramm: ADJ
+ stem: ӝомо-югдо.
+ paradigm: connect_adjectives
+ trans_ru: сумрачный; тёмный
+
+-lexeme
+ lex: зоро-кото
+ gramm: ADJ
+ stem: зоро-кото.
+ paradigm: connect_adjectives
+ trans_ru: дождливый, ненастный; влажный
+
+-lexeme
+ lex: йыг-йыг
+ gramm: ADJ
+ stem: йыг-йыг.
+ paradigm: connect_adjectives
+ trans_ru: стойкий, твёрдый, крепкий
+
+-lexeme
+ lex: кержек
+ gramm: ADJ
+ stem: кержек.
+ paradigm: connect_adjectives
+ trans_ru: диал. суетливый, торопливый, нервный
+
+-lexeme
+ lex: керы
+ gramm: ADJ
+ stem: керы.
+ paradigm: connect_adjectives
+ trans_ru: диал. упрямый, непослушный
+
+-lexeme
+ lex: кесясь-кились
+ gramm: ADJ
+ stem: кесясь-килис.
+ paradigm: connect_adjectives-soft
+ trans_ru: пронзительный
+
+-lexeme
+ lex: куренялэс-сьӧд
+ gramm: ADJ
+ stem: куренялэс-сьӧд.
+ paradigm: connect_adjectives
+ trans_ru: тёмно-коричневый
+
+-lexeme
+ lex: куӵо-воӵо
+ gramm: ADJ
+ stem: куӵо-воӵо.
+ paradigm: connect_adjectives
+ trans_ru: пёстрый
+
+-lexeme
+ lex: куӵо
+ gramm: ADJ
+ stem: куӵо.
+ paradigm: connect_adjectives
+ trans_ru: пёстрый
+
+-lexeme
+ lex: лапкышес
+ gramm: ADJ
+ stem: лапкышес.
+ paradigm: connect_adjectives
+ trans_ru: приземистый, низкий
+
+-lexeme
+ lex: лызо-вожо-ӵужо
+ gramm: ADJ
+ stem: лызо-вожо-ӵужо.
+ paradigm: connect_adjectives
+ trans_ru: сине-зелёно-жёлтый
+
+-lexeme
+ lex: лызо-тӧдьыё
+ gramm: ADJ
+ stem: лызо-тӧдьыё.
+ paradigm: connect_adjectives
+ trans_ru: сине-белый
+
+-lexeme
+ lex: шузи-мази
+ gramm: ADJ
+ stem: шузи-мази.
+ paradigm: connect_adjectives
+ trans_ru: глупый; ни то ни сё
+
+-lexeme
+ lex: мыд-мыд
+ gramm: ADJ
+ stem: мыд-мыд.
+ paradigm: connect_adjectives
+ trans_ru: в разные стороны (мыд-мыд пала)
+
+-lexeme
+ lex: нап-горд
+ gramm: ADJ
+ stem: нап-горд.
+ paradigm: connect_adjectives
+ trans_ru: багровый, бордовый; тёмно-красный
+
+-lexeme
+ lex: нимысьтыз
+ gramm: ADJ
+ stem: нимысьтыз.
+ paradigm: connect_adjectives
+ trans_ru: специальный; отдельный, особый
+
+-lexeme
+ lex: огтус
+ gramm: ADJ
+ stem: огтус.
+ paradigm: connect_adjectives
+ trans_ru: одинаковый по внешности; похожий
+
+-lexeme
+ lex: одӥгак
+ gramm: ADJ
+ stem: одӥгак.
+ paradigm: connect_adjectives
+ trans_ru: одинокий; единтсвенный
+
+-lexeme
+ lex: оскымонтэм
+ gramm: ADJ
+ stem: оскымонтэм.
+ paradigm: connect_adjectives
+ trans_ru: ненадёжный, неубедительный
+
+-lexeme
+ lex: парадно-выходной
+ gramm: ADJ,rus
+ stem: парадно-выходно.
+ paradigm: connect_adjectives-j
+ trans_ru: парадно-выходной
+
+-lexeme
+ lex: пеймыт-лыз
+ gramm: ADJ
+ stem: пеймыт-лыз.
+ paradigm: connect_adjectives
+ trans_ru: тёмно-синий
+
+-lexeme
+ lex: пулё
+ gramm: ADJ
+ stem: пулё.
+ paradigm: connect_adjectives
+ trans_ru: пихтовая смола (пулё сир)
+
+-lexeme
+ lex: пурысь-нап
+ gramm: ADJ
+ stem: пурысь-нап.
+ paradigm: connect_adjectives
+ trans_ru: тёмно-серый
+
+-lexeme
+ lex: пурысь-тӧдьы
+ gramm: ADJ
+ stem: пурысь-тӧдьы.
+ paradigm: connect_adjectives
+ trans_ru: серовато-белый
+
+-lexeme
+ lex: пурысялэс-лыз
+ gramm: ADJ
+ stem: пурысялэс-лыз.
+ paradigm: connect_adjectives
+ trans_ru: серовато-голубой
+
+-lexeme
+ lex: пушко
+ gramm: ADJ
+ stem: пушко.
+ paradigm: connect_adjectives
+ trans_ru: с внутренностью; наполненный
+
+-lexeme
+ lex: тыро-пушко
+ gramm: ADJ
+ stem: тыро-пушко.
+ paradigm: connect_adjectives
+ trans_ru: полноценный
+
+-lexeme
+ lex: пышиесь
+ gramm: ADJ,oblin
+ stem: пышиес.
+ paradigm: connect_adjectives-soft
+ trans_ru: с кострикой (конопли, льна)
+
+-lexeme
+ lex: сажем
+ gramm: ADJ,rus
+ stem: сажем.
+ paradigm: connect_adjectives
+ trans_ru: саженный
+
+-lexeme
+ lex: сиволапой
+ gramm: ADJ,rus
+ stem: сиволапо.
+ paradigm: connect_adjectives-j
+ trans_ru: сиволапый
+
+-lexeme
+ lex: сьӧдпыръем
+ gramm: ADJ
+ stem: сьӧдпыръем.
+ paradigm: connect_adjectives
+ trans_ru: черноватый, темноватый
+
+-lexeme
+ lex: табанак
+ gramm: ADJ
+ stem: табанак.
+ paradigm: connect_adjectives
+ trans_ru: диал. коренастый, низкорослый
+
+-lexeme
+ lex: узыро
+ gramm: ADJ
+ stem: узыро.
+ paradigm: connect_adjectives
+ trans_ru: богатый
+
+-lexeme
+ lex: уммесь
+ gramm: ADJ,oblin
+ stem: уммес.
+ paradigm: connect_adjectives-soft
+ trans_ru: сонный
+
+-lexeme
+ lex: ӝыныё-урдсо
+ gramm: ADJ
+ stem: ӝыныё-урдсо.
+ paradigm: connect_adjectives
+ trans_ru: наполовину (не до конца) завершённый
+
+-lexeme
+ lex: чагыр-лемлет
+ gramm: ADJ
+ stem: чагыр-лемлет.
+ paradigm: connect_adjectives
+ trans_ru: голубовато-розовый
+
+-lexeme
+ lex: чагыр-лемлето
+ gramm: ADJ
+ stem: чагыр-лемлето.
+ paradigm: connect_adjectives
+ trans_ru: с пятном (пятнами) голубовато-розового цвета
+
+-lexeme
+ lex: ӵынгыто
+ gramm: ADJ
+ stem: ӵынгыто.
+ paradigm: connect_adjectives
+ trans_ru: туманный
+
+-lexeme
+ lex: чырсалэс
+ gramm: ADJ
+ stem: чырсалэс.
+ paradigm: connect_adjectives
+ trans_ru: кисловатый
+
+-lexeme
+ lex: шугалэс
+ gramm: ADJ
+ stem: шугалэс.
+ paradigm: connect_adjectives
+ trans_ru: трудноватый, трудный
+
+-lexeme
+ lex: шудо-буро
+ gramm: ADJ
+ stem: шудо-буро.
+ paradigm: connect_adjectives
+ trans_ru: счастливый
+
+-lexeme
+ lex: шундыллё
+ gramm: ADJ
+ stem: шундыллё.
+ paradigm: connect_adjectives
+ trans_ru: диал. солнечный (день)

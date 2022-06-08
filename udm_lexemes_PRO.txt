@@ -375,6 +375,13 @@
  trans_ru: такой
 
 -lexeme
+ lex: ыӵе
+ stem: ыӵе.
+ gramm: ADJPRO
+ paradigm: connect_adjectives
+ trans_ru: такой
+
+-lexeme
  lex: таӵе
  stem: таӵе.
  gramm: ADJPRO
@@ -1743,3 +1750,10 @@
  stem: это.
  paradigm: Comparative
  trans_ru: это
+
+-lexeme
+ lex: маркем
+ gramm: ADVPRO
+ stem: маркем.
+ paradigm: connect_adverbs
+ trans_ru: насколько
