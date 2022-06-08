@@ -784,6 +784,7 @@
  stem: отчы.//отцы.
  gramm: ADVPRO,ill
  paradigm: Noun-case-compounding-core
+ paradigm: Noun-case-compounding-kytchy
  trans_ru: туда
 
 -lexeme
@@ -791,6 +792,7 @@
  stem: сотчы.//сотцы.
  gramm: ADVPRO,ill
  paradigm: Noun-case-compounding-core
+ paradigm: Noun-case-compounding-kytchy
  trans_ru: туда
 
 -lexeme
@@ -798,6 +800,7 @@
  stem: татчы.//татцы.
  gramm: ADVPRO,ill
  paradigm: Noun-case-compounding-core
+ paradigm: Noun-case-compounding-kytchy
  trans_ru: сюда
 
 -lexeme
@@ -805,6 +808,7 @@
  stem: кытчы.//кытцы.
  gramm: ADVPRO,ill
  paradigm: Noun-case-compounding-core
+ paradigm: Noun-case-compounding-kytchy
  trans_ru: куда
 
 -lexeme
@@ -819,6 +823,7 @@
  stem: котькытчы.//котькытцы.
  gramm: ADVPRO,ill
  paradigm: Noun-case-compounding-core
+ paradigm: Noun-case-compounding-kytchy
  trans_ru: куда угодно
 
 -lexeme
@@ -826,6 +831,7 @@
  stem: олокытчы.//олокытцы.
  gramm: ADVPRO,ill
  paradigm: Noun-case-compounding-core
+ paradigm: Noun-case-compounding-kytchy
  trans_ru: куда-то
 
 -lexeme
@@ -833,6 +839,7 @@
  stem: огкытчы.//огкытцы.
  gramm: ADVPRO,ill
  paradigm: Noun-case-compounding-core
+ paradigm: Noun-case-compounding-kytchy
  trans_ru: никуда
 
 -lexeme
@@ -840,6 +847,7 @@
  stem: нокытчы.//нокытцы.
  gramm: ADVPRO,ill
  paradigm: Noun-case-compounding-core
+ paradigm: Noun-case-compounding-kytchy
  trans_ru: никуда; некуда
 
 -lexeme
@@ -847,14 +855,7 @@
  stem: отын.//отчын.
  gramm: ADVPRO,loc
  paradigm: Comparative
- trans_ru: там, тут
-
--lexeme
- lex: отын
- stem: отына.//отчына.
- gramm: ADVPRO,loc
- paradigm: poss-sg
- paradigm: poss-pl
+ paradigm: Noun-case-compounding-kytchy
  trans_ru: там, тут
 
 -lexeme
@@ -862,14 +863,7 @@
  stem: сотын.//сотчын.
  gramm: ADVPRO,loc
  paradigm: Comparative
- trans_ru: там, тут
-
--lexeme
- lex: сотын
- stem: сотына.//сотчына.
- gramm: ADVPRO,loc
- paradigm: poss-sg
- paradigm: poss-pl
+ paradigm: Noun-case-compounding-kytchy
  trans_ru: там, тут
 
 -lexeme
@@ -877,14 +871,7 @@
  stem: татын.//татчын.
  gramm: ADVPRO,loc
  paradigm: Comparative
- trans_ru: здесь
-
--lexeme
- lex: татын
- stem: татына.//татчына.
- gramm: ADVPRO,loc
- paradigm: poss-sg
- paradigm: poss-pl
+ paradigm: Noun-case-compounding-kytchy
  trans_ru: здесь
 
 -lexeme
@@ -892,14 +879,7 @@
  stem: кытын.//кытчын.
  gramm: ADVPRO,loc
  paradigm: Noun-case-compounding-core
- trans_ru: где
-
--lexeme
- lex: кытын
- stem: кытына.//кытчына.
- gramm: ADVPRO,loc
- paradigm: poss-sg
- paradigm: poss-pl
+ paradigm: Noun-case-compounding-kytchy
  trans_ru: где
 
 -lexeme
@@ -914,6 +894,7 @@
  stem: олокытын.//олокытчын.
  gramm: ADVPRO,loc
  paradigm: Comparative
+ paradigm: Noun-case-compounding-kytchy
  trans_ru: где-то, не знаю где
 
 -lexeme
@@ -921,29 +902,15 @@
  stem: огкытын.//огкытчын.
  gramm: ADVPRO,loc
  paradigm: Comparative
+ paradigm: Noun-case-compounding-kytchy
  trans_ru: нигде
-
--lexeme
- lex: олокытын
- stem: олокытына.//олокытчына.
- gramm: ADVPRO,loc
- paradigm: poss-sg
- paradigm: poss-pl
- trans_ru: где-то, не знаю где
 
 -lexeme
  lex: котькытын
  stem: котькытын.//котькытчын.
  gramm: ADVPRO,loc
  paradigm: Comparative
- trans_ru: где угодно
-
--lexeme
- lex: котькытын
- stem: котькытына.//котькытчына.
- gramm: ADVPRO,loc
- paradigm: poss-sg
- paradigm: poss-pl
+ paradigm: Noun-case-compounding-kytchy
  trans_ru: где угодно
 
 -lexeme
@@ -951,14 +918,7 @@
  stem: нокытын.//нокытчын.
  gramm: ADVPRO,loc
  paradigm: Comparative
- trans_ru: нигде
-
--lexeme
- lex: нокытына
- stem: нокытына.//нокытчына.
- gramm: ADVPRO,loc
- paradigm: poss-sg
- paradigm: poss-pl
+ paradigm: Noun-case-compounding-kytchy
  trans_ru: нигде
 
 -lexeme
