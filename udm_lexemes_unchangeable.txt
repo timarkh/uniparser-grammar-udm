@@ -2520,10 +2520,10 @@
 
 -lexeme
  lex: лушкем
- stem: лушкем.
+ stem: лушкем.//луӵкем.
  gramm: ADV
  paradigm: connect_adverbs
- trans_ru: тайком, тайно, незаметно, втихомолку, исподтишка
+ trans_ru: тайком
 
 -lexeme
  lex: ӟетыра
@@ -5853,7 +5853,7 @@
 
 -lexeme
  lex: ӵош
- stem: ӵош.
+ stem: ӵош.//ӵоӵ.
  gramm: ADV
  paradigm: connect_adverbs_px
  trans_ru: вместе
@@ -9814,7 +9814,7 @@
 
 -lexeme
  lex: ӵошенак
- stem: ӵошенак.
+ stem: ӵошенак.//ӵоӵенак.
  gramm: ADV
  paradigm: connect_adverbs
  trans_ru: вместе; вдвоём
@@ -10987,7 +10987,7 @@
 
 -lexeme
  lex: ӵошен
- stem: ӵошен.
+ stem: ӵошен.//ӵоӵен.
  gramm: ADV
  paradigm: connect_adverbs
  paradigm: collective
@@ -15955,7 +15955,14 @@
  gramm: ADV,rus
  stem: проч.
  paradigm: connect_adverbs
- trans_ru: прочь
+ trans_ru: совсем
+
+-lexeme
+ lex: прочсэ
+ gramm: ADV,rus
+ stem: прочсэ.
+ paradigm: connect_adverbs
+ trans_ru: совсем
 
 -lexeme
  lex: пужак

@@ -12940,7 +12940,7 @@
 
 -lexeme
  lex: гожтолэзь
- stem: гожтолэз.
+ stem: гожтолэз.//гожтолӥз.//гожтолыз.
  gramm: N,time_meas
  paradigm: Noun-num-soft
  trans_ru: летний месяц
@@ -27603,7 +27603,7 @@
 
 -lexeme
  lex: куартолэзь
- stem: куартолэз.
+ stem: куартолэз.//куартолӥз.//куартолыз.
  gramm: N,time_meas
  paradigm: Noun-num-soft
  trans_ru: май
@@ -58084,21 +58084,14 @@
 
 -lexeme
  lex: толэзь
- stem: толэз.//толӥз.
+ stem: толэз.//толӥз.//толыз.
  gramm: N,time_meas
  paradigm: Noun-num-soft
  trans_ru: месяц
 
 -lexeme
  lex: толэзьемыш
- stem: толэзьемыш.
- gramm: N
- paradigm: Noun-num-consonant
- trans_ru: овощи
-
--lexeme
- lex: толэзьемыш
- stem: толэзьемыш.
+ stem: толэзьемыш.//толӥзьемыш.//толызьемыш.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: овощи
@@ -63367,7 +63360,7 @@
 
 -lexeme
  lex: фунт
- stem: фунт.
+ stem: фунт.//фуныт.
  gramm: N,rus
  paradigm: Noun-num-consonant
  trans_ru: фунт
@@ -71121,7 +71114,7 @@
 
 -lexeme
  lex: южтолэзь
- stem: южтолэз.
+ stem: южтолэз.//южтолӥз.//южтолыз.
  gramm: N,time_meas
  paradigm: Noun-num-soft
  trans_ru: март
@@ -81194,7 +81187,7 @@
  trans_ru: очки
 -lexeme
  lex: оштолэзь
- stem: оштолэз.
+ stem: оштолэз.//оштолӥз.//оштолыз.
  gramm: N,time_meas
  paradigm: Noun-num-soft
  trans_ru: апрель
@@ -82640,7 +82633,7 @@
  trans_ru: варежка
 -lexeme
  lex: пӧсьтолэзь
- stem: пӧсьтолэз.
+ stem: пӧсьтолэз.//пӧсьтолӥз.//пӧсьтолыз.
  gramm: N,time_meas
  paradigm: Noun-num-soft
  trans_ru: июль
@@ -108867,7 +108860,7 @@
 -lexeme
  lex: нырӵушкон
  gramm: N
- stem: нырӵушкон.
+ stem: нырӵушкон.//нырӵуӵкон.
  paradigm: Noun-num-consonant
  trans_ru: носовой платок
 
@@ -109182,7 +109175,7 @@
 -lexeme
  lex: огтолэзь
  gramm: N
- stem: огтолэз.
+ stem: огтолэз.//огтолӥз.//огтолыз.
  paradigm: Noun-num-soft
  trans_ru: один месяц
 

@@ -781,7 +781,7 @@
 
 -lexeme
  lex: отчы
- stem: отчы.//отцы.
+ stem: отчы.//отцы.//отсы.
  gramm: ADVPRO,ill
  paradigm: Noun-case-compounding-core
  paradigm: Noun-case-compounding-kytchy
@@ -789,7 +789,7 @@
 
 -lexeme
  lex: сотчы
- stem: сотчы.//сотцы.
+ stem: сотчы.//сотцы.//сотсы.
  gramm: ADVPRO,ill
  paradigm: Noun-case-compounding-core
  paradigm: Noun-case-compounding-kytchy
@@ -797,7 +797,7 @@
 
 -lexeme
  lex: татчы
- stem: татчы.//татцы.
+ stem: татчы.//татцы.//татсы.
  gramm: ADVPRO,ill
  paradigm: Noun-case-compounding-core
  paradigm: Noun-case-compounding-kytchy
@@ -805,7 +805,7 @@
 
 -lexeme
  lex: кытчы
- stem: кытчы.//кытцы.
+ stem: кытчы.//кытцы.//кытсы.
  gramm: ADVPRO,ill
  paradigm: Noun-case-compounding-core
  paradigm: Noun-case-compounding-kytchy
@@ -813,14 +813,14 @@
 
 -lexeme
  lex: кытчыке
- stem: кытчыке.//кытцыке.
+ stem: кытчыке.//кытцыке.//кытсыке.
  gramm: ADVPRO,ill
  paradigm: Comparative
  trans_ru: куда-то
 
 -lexeme
  lex: котькытчы
- stem: котькытчы.//котькытцы.
+ stem: котькытчы.//котькытцы.//котькытсы.
  gramm: ADVPRO,ill
  paradigm: Noun-case-compounding-core
  paradigm: Noun-case-compounding-kytchy
@@ -828,7 +828,7 @@
 
 -lexeme
  lex: олокытчы
- stem: олокытчы.//олокытцы.
+ stem: олокытчы.//олокытцы.//олокытсы.
  gramm: ADVPRO,ill
  paradigm: Noun-case-compounding-core
  paradigm: Noun-case-compounding-kytchy
@@ -836,7 +836,7 @@
 
 -lexeme
  lex: огкытчы
- stem: огкытчы.//огкытцы.
+ stem: огкытчы.//огкытцы.//огкытсы.
  gramm: ADVPRO,ill
  paradigm: Noun-case-compounding-core
  paradigm: Noun-case-compounding-kytchy
@@ -844,7 +844,7 @@
 
 -lexeme
  lex: нокытчы
- stem: нокытчы.//нокытцы.
+ stem: нокытчы.//нокытцы.//нокытсы.
  gramm: ADVPRO,ill
  paradigm: Noun-case-compounding-core
  paradigm: Noun-case-compounding-kytchy
@@ -1228,7 +1228,7 @@
 
 -lexeme
  lex: ас
- stem: аслэсьтыз.//асьлэсьтыз.
+ stem: аслэсьтыз.//аслысьтыз.//асьлэсьтыз.
  gramm: PRO,3sg,abl
  paradigm: Comparative
  paradigm: Noun-case-compounding
@@ -1237,7 +1237,7 @@
 
 -lexeme
  lex: ас
- stem: аслэсьтым.//асьлэсьтым.
+ stem: аслэсьтым.//аслысьтым.//асьлэсьтым.
  gramm: PRO,1sg,abl
  paradigm: Comparative
  paradigm: Noun-case-compounding
@@ -1246,8 +1246,35 @@
 
 -lexeme
  lex: ас
- stem: аслэсьтыд.//асьлэсьтыд.
+ stem: аслэсьтыд.//аслысьтыд.//асьлэсьтыд.
  gramm: PRO,2sg,abl
+ paradigm: Comparative
+ paradigm: Noun-case-compounding
+ paradigm: Noun-case-compounding-pl-consonant
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: аслэсьтызы.//аслысьтызы.//асьлэсьтызы.
+ gramm: PRO,3pl,abl
+ paradigm: Comparative
+ paradigm: Noun-case-compounding
+ paradigm: Noun-case-compounding-pl-consonant
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: аслэсьтымы.//аслысьтымы.//асьлэсьтымы.
+ gramm: PRO,1pl,abl
+ paradigm: Comparative
+ paradigm: Noun-case-compounding
+ paradigm: Noun-case-compounding-pl-consonant
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: аслэсьтыды.//аслысьтыды.//асьлэсьтыды.
+ gramm: PRO,2pl,abl
  paradigm: Comparative
  paradigm: Noun-case-compounding
  paradigm: Noun-case-compounding-pl-consonant
@@ -1570,21 +1597,21 @@
 
 -lexeme
  lex: ас
- stem: асьсэлы.
+ stem: асьсэлы.//ачизэлы.//ачизэслы.
  gramm: PRO,3pl,dat
  paradigm: Noun-num-vowel
  trans_ru: сам, свой
 
 -lexeme
  lex: ас
- stem: асьмелы.
+ stem: асьмелы.//ачимелы.//ачимеслы.
  gramm: PRO,1pl,dat
  paradigm: Comparative
  trans_ru: сам, свой
 
 -lexeme
  lex: ас
- stem: асьтэлы.//асьтӥлы.
+ stem: асьтэлы.//асьтӥлы.//ачидэлы.//ачидэслы.
  gramm: PRO,2pl,dat
  paradigm: Comparative
  trans_ru: сам, свой
