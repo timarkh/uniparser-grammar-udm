@@ -85550,13 +85550,7 @@
  trans_ru: мастер
 -lexeme
  lex: участковой
- stem: участково.
- gramm: N,rus
- paradigm: Noun-num-j
- trans_ru: участковый
--lexeme
- lex: участковой
- stem: участково.
+ stem: участково.//учасково.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-j
  trans_ru: участковый
@@ -102976,14 +102970,7 @@
 -lexeme
  lex: горючей
  gramm: N,rus
- stem: горюче.
- paradigm: Noun-num-j
- trans_ru: горючее
-
--lexeme
- lex: горючeй
- gramm: N,rus
- stem: горючe.
+ stem: горюче.//горючо.
  paradigm: Noun-num-j
  trans_ru: горючее
 
@@ -120203,4 +120190,39 @@
  stem: юнкерс.
  paradigm: Noun-num-consonant
  trans_ru: юнкерс (самолёт)
+
+-lexeme
+ lex: сочувствующой
+ gramm: N,rus,anim,hum
+ stem: сочувствующо.
+ paradigm: Noun-num-j
+ trans_ru: сочувствующий
+
+-lexeme
+ lex: бдительность
+ gramm: N,rus
+ stem: бдительност.
+ paradigm: Noun-num-soft
+ trans_ru: бдительность
+
+-lexeme
+ lex: партдокумент
+ gramm: N,rus
+ stem: партдокумент.
+ paradigm: Noun-num-consonant
+ trans_ru: партийный документ
+
+-lexeme
+ lex: хлопкозавод
+ gramm: N,rus
+ stem: хлопкозавод.
+ paradigm: Noun-num-consonant
+ trans_ru: хлопкозавод
+
+-lexeme
+ lex: автострада
+ gramm: N,rus
+ stem: автострада.
+ paradigm: Noun-num-vowel
+ trans_ru: автострада
 

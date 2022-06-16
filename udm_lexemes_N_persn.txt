@@ -76448,3 +76448,191 @@
  paradigm: Noun-num-consonant
  trans_ru: Яша
 
+-lexeme
+ lex: Уралбуй
+ gramm: N,PN
+ stem: уралбу.//урал-бу.
+ paradigm: Noun-num-j
+ trans_ru: Уралбуй (колхоз)
+
+-lexeme
+ lex: Ижстрой
+ gramm: N,PN
+ stem: ижстро.
+ paradigm: Noun-num-j
+ trans_ru: Ижстрой
+
+-lexeme
+ lex: Аньхуэй
+ gramm: N,PN,topn
+ stem: аньхуэ.
+ paradigm: Noun-num-j
+ trans_ru: Аньхуэй
+
+-lexeme
+ lex: Каменец-подольской
+ gramm: N,PN,topn
+ stem: каменец-подольско.
+ paradigm: Noun-num-j
+ trans_ru: Каменец-подольский
+
+-lexeme
+ lex: Антей
+ gramm: N,PN,persn
+ stem: анте.
+ paradigm: Noun-num-j
+ trans_ru: Антей
+
+-lexeme
+ lex: Ижстальстрой
+ gramm: N,PN
+ stem: ижстальстро.
+ paradigm: Noun-num-j
+ trans_ru: Ижстальстрой
+
+-lexeme
+ lex: Кунакбай
+ gramm: N,PN,topn
+ stem: кунакба.
+ paradigm: Noun-num-j
+ trans_ru: Кунакбай
+
+-lexeme
+ lex: Туктакей
+ gramm: N,PN,persn
+ stem: туктаке.
+ paradigm: Noun-num-j
+ trans_ru: Туктакей
+
+-lexeme
+ lex: Индо-Китай
+ gramm: N,PN,topn
+ stem: индо-кита.
+ paradigm: Noun-num-j
+ trans_ru: Индо-Китай
+
+-lexeme
+ lex: Мэмэтэй
+ gramm: N,PN,topn
+ stem: мэмэтэ.
+ paradigm: Noun-num-j
+ trans_ru: Маматаево
+
+-lexeme
+ lex: Саваляй
+ gramm: N,PN,topn
+ stem: саваля.
+ paradigm: Noun-num-j
+ trans_ru: Саваляй
+
+-lexeme
+ lex: Цзинвэй
+ gramm: N,PN,persn
+ stem: цзин-ве.//цзинве.//цзин-вэ.//цзинвэ.
+ paradigm: Noun-num-j
+ trans_ru: Цзинвэй
+
+-lexeme
+ lex: Баскобай
+ gramm: N,PN,topn
+ stem: баскоба.
+ paradigm: Noun-num-j
+ trans_ru: Баскобаевский
+
+-lexeme
+ lex: Вышинский
+ gramm: N,PN,famn
+ stem: вышински.
+ paradigm: connect_adjectives-j
+ trans_ru: Вышинский
+
+-lexeme
+ lex: Урицкий
+ gramm: N,PN,famn
+ stem: урицки.
+ paradigm: connect_adjectives-j
+ trans_ru: Урицкий
+
+-lexeme
+ lex: Войцеховский
+ gramm: N,PN,famn
+ stem: войцеховски.
+ paradigm: connect_adjectives-j
+ trans_ru: Войцеховский
+
+-lexeme
+ lex: Дукельский
+ gramm: N,PN,famn
+ stem: дукельски.
+ paradigm: connect_adjectives-j
+ trans_ru: Дукельский
+
+-lexeme
+ lex: Калюжный
+ gramm: N,PN,famn
+ stem: калюжны.
+ paradigm: connect_adjectives-j
+ trans_ru: Калюжный
+
+-lexeme
+ lex: Карпинский
+ gramm: N,PN,famn
+ stem: карпински.
+ paradigm: connect_adjectives-j
+ trans_ru: Карпинский
+
+-lexeme
+ lex: Крестинский
+ gramm: N,PN,famn
+ stem: крестински.
+ paradigm: connect_adjectives-j
+ trans_ru: Крестинский
+
+-lexeme
+ lex: Сикорский
+ gramm: N,PN,famn
+ stem: сикорски.
+ paradigm: connect_adjectives-j
+ trans_ru: Сикорский
+
+-lexeme
+ lex: Бобринский
+ gramm: N,PN,famn
+ stem: бобрински.
+ paradigm: connect_adjectives-j
+ trans_ru: Бобринский
+
+-lexeme
+ lex: Лозовский
+ gramm: N,PN,famn
+ stem: лозовски.
+ paradigm: connect_adjectives-j
+ trans_ru: Лозовский
+
+-lexeme
+ lex: Напольский
+ gramm: N,PN,famn
+ stem: напольски.
+ paradigm: connect_adjectives-j
+ trans_ru: Напольский
+
+-lexeme
+ lex: Шамсинур
+ gramm: N,persn,PN
+ stem: шамсинур.
+ paradigm: Noun-num-consonant
+ trans_ru: Шамсинур
+
+-lexeme
+ lex: Ахмадеев
+ gramm: N,famn,PN
+ stem: ахмадеев.
+ paradigm: Noun-num-consonant
+ trans_ru: Ахмадеев
+
+-lexeme
+ lex: Татреспублика
+ gramm: N,PN,topn
+ stem: татреспублика.
+ paradigm: Noun-num-vowel
+ trans_ru: Татарская республика

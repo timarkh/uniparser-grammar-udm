@@ -19093,3 +19093,24 @@
  paradigm: connect_adverbs
  trans_ru: свежо, прохладно
 
+-lexeme
+ lex: механически
+ gramm: ADV,rus
+ stem: механически.
+ paradigm: connect_adverbs
+ trans_ru: механически
+
+-lexeme
+ lex: беззаветно
+ gramm: ADV,rus
+ stem: беззаветно.
+ paradigm: connect_adverbs
+ trans_ru: беззаветно
+
+-lexeme
+ lex: предварительно
+ gramm: ADV,rus
+ stem: предварительно.
+ paradigm: connect_adverbs
+ trans_ru: предварительно
+
