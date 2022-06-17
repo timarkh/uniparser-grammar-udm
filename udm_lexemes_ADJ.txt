@@ -11091,7 +11091,7 @@
 
 -lexeme
  lex: музон
- stem: музон.
+ stem: музон.//мызон.
  gramm: ADJ
  paradigm: connect_adjectives
  trans_ru: другой

@@ -1729,21 +1729,21 @@
 
 -lexeme
  lex: бышкыны
- stem: бышк.
+ stem: бышк.//быӵк.
  gramm: V,I,tr
  paradigm: connect_verbs-I
  trans_ru: уколоть, проткнуть
 
 -lexeme
  lex: бышкалтыны
- stem: бышкалт.|бышкал.|бышкалт.
+ stem: бышкалт.//быӵкалт.|бышкал.//быӵкал.|бышкалт.//быӵкалт.
  gramm: V,I,tr
  paradigm: connect_verbs-I-CC
  trans_ru: уколоть, проткнуть
 
 -lexeme
  lex: бышканы
- stem: бышка.
+ stem: бышка.//быӵка.
  gramm: V,II,tr
  paradigm: connect_verbs-II
  trans_ru: колоть, протыкать
@@ -3290,17 +3290,10 @@
  trans_ru: пытаться, стараться
 
 -lexeme
- lex: вошкыны
- stem: вошк.
- gramm: V,I,intr
- paradigm: connect_verbs-I
- trans_ru: измениться, переодеться
-
--lexeme
  lex: воштыны
- stem: вошт.
+ stem: вошт.|вош.|вош.//воӵ.
  gramm: V,I,tr,with_instr
- paradigm: connect_verbs-I
+ paradigm: connect_verbs-I-CC
  trans_ru: заменить, обменять
 
 -lexeme
@@ -6308,14 +6301,14 @@
 
 -lexeme
  lex: ишкалтыны
- stem: ишкалт.|ишкал.|ишкалт.
+ stem: ишкалт.//иӵкалт.|ишкал.//иӵкал.|ишкалт.//иӵкалт.
  gramm: V,I,tr
  paradigm: connect_verbs-I-CC
  trans_ru: 1. вырвать, выдернуть 2. прям., перен. оторвать
 
 -lexeme
  lex: ишкалъяны
- stem: ишкалъя.
+ stem: ишкалъя.//иӵкалъя.
  gramm: V,II,mult,tr
  paradigm: connect_verbs-II
  trans_ru: 1. вырывать, выдёргивать 2. прям., перен. отрывать
@@ -6336,7 +6329,7 @@
 
 -lexeme
  lex: ишкыны
- stem: ишк.
+ stem: ишк.//иӵк.
  gramm: V,I,tr
  paradigm: connect_verbs-I
  trans_ru: дёргать, выдергать, рвать, теребить
@@ -8773,7 +8766,7 @@
 
 -lexeme
  lex: куашканы
- stem: куашка.
+ stem: куашка.//куаӵка.
  gramm: V,II,intr
  paradigm: connect_verbs-II
  trans_ru: разрушиться
@@ -11371,7 +11364,7 @@
 
 -lexeme
  lex: лушканы
- stem: лушка.
+ stem: лушка.//луӵка.
  gramm: V,II,tr,with_abl
  paradigm: connect_verbs-II
  trans_ru: воровать, украсть
@@ -13418,7 +13411,14 @@
  stem: ньылд.|ньыл.|ньылд.
  gramm: V,I,tr
  paradigm: connect_verbs-I-CC
- trans_ru: 1. ободрать, обдирать 2. натереть, натирать
+ trans_ru: ободрать; натереть
+
+-lexeme
+ lex: ньылданы
+ stem: ньылда.
+ gramm: V,II,tr
+ paradigm: connect_verbs-II
+ trans_ru: обдирать; натирать
 
 -lexeme
  lex: ньылосъяськыны

@@ -9275,10 +9275,16 @@
  trans_ru: Мамадыш
 -lexeme
  lex: Маньчжурия
- stem: маньчжури.
+ stem: маньчжури.//манчжури.
  gramm: N,PN,topn
  paradigm: Noun-num-ija
  trans_ru: Маньчжурия
+-lexeme
+ lex: Маньчжоу-го
+ stem: маньчжоу-го.//манчжоу-го.
+ gramm: N,PN,topn
+ paradigm: Noun-num-ija
+ trans_ru: Маньчжоу-го
 -lexeme
  lex: Маракай
  stem: марака.
@@ -49692,6 +49698,12 @@
  paradigm: Noun-num-consonant
  trans_ru: ОРВИ
 -lexeme
+ lex: ЗСФСР
+ stem: зсфср.//зсфср-.
+ gramm: N,abbr,rus
+ paradigm: Noun-num-consonant
+ trans_ru: ЗСФСР (Закавказская социалистическая федеративная советская республика)
+-lexeme
  lex: РСФСР
  stem: рсфср.//рсфср-.
  gramm: N,abbr,rus
@@ -49720,7 +49732,19 @@
  stem: уасср.//уасср-.
  gramm: N,abbr,rus,PN,topn
  paradigm: Noun-num-consonant
- trans_ru: УАССР
+ trans_ru: УАССР (Удмуртская Автономная Советская Социалистическая Республика)
+-lexeme
+ lex: БАССР
+ stem: басср.//басср-.
+ gramm: N,abbr,rus,PN,topn
+ paradigm: Noun-num-consonant
+ trans_ru: БАССР (Башкирская Автономная Советская Социалистическая Республика)
+-lexeme
+ lex: ТАССР
+ stem: тасср.//тасср-.
+ gramm: N,abbr,rus,PN,topn
+ paradigm: Noun-num-consonant
+ trans_ru: ТАССР (Татарская Автономная Советская Социалистическая Республика)
 -lexeme
  lex: УдНИИ
  stem: уднии.//уднии-.
@@ -49916,7 +49940,7 @@
  trans_ru: Анатольич
 -lexeme
  lex: Англия
- stem: англии.
+ stem: англи.
  gramm: N,PN,topn,missp
  paradigm: Noun-num-ija
  trans_ru: Англия
@@ -55811,16 +55835,9 @@
  trans_ru: Бугров
 
 -lexeme
- lex: Будённой
- gramm: N,PN,famn
- stem: будённо.
- paradigm: Noun-num-j
- trans_ru: Будённый
-
--lexeme
  lex: Будённый
  gramm: N,PN,famn
- stem: будённы.
+ stem: будённы.//будённо.//буденны.//буденно.
  paradigm: Noun-num-j
  trans_ru: Будённый
 

@@ -231,11 +231,32 @@
  trans_ru: ЦИК
 
 -lexeme
+ lex: ВЦИК
+ stem: вцик.//вцик-.
+ gramm: N,rus,abbr
+ paradigm: Noun-num-consonant
+ trans_ru: ВЦИК
+
+-lexeme
+ lex: ВЦСПС
+ stem: вцспс.//вцспс-.
+ gramm: N,rus,abbr
+ paradigm: Noun-num-consonant
+ trans_ru: ВЦСПС (Всесоюзный центральный совет профессиональных союзов)
+
+-lexeme
  lex: ЦК
  stem: цк.//цк-.
  gramm: N,rus,abbr
  paradigm: Noun-num-consonant
  trans_ru: ЦК
+
+-lexeme
+ lex: ВЧК
+ stem: вчк.//вчк-.
+ gramm: N,rus,abbr
+ paradigm: Noun-num-consonant
+ trans_ru: ВЧК
 
 -lexeme
  lex: ЭВМ
@@ -1588,7 +1609,7 @@
 
 -lexeme
  lex: активист
- stem: активист.
+ stem: активист.//активис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: активист
@@ -5438,6 +5459,7 @@
  stem: библиотекар.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-soft
+ paradigm: Noun-num-consonant
  trans_ru: библиотекарь
 
 -lexeme
@@ -8333,6 +8355,7 @@
  stem: варма.
  gramm: N,anim,hum
  paradigm: Noun-num-j
+ paradigm: Noun-num-j-y
  trans_ru: тесть
 
 -lexeme
@@ -8527,21 +8550,21 @@
 
 -lexeme
  lex: вашкала
- stem: вашкала.
+ stem: вашкала.//ваӵкала.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: древность, старина
 
 -lexeme
  lex: вашкаладыр
- stem: вашкаладыр.
+ stem: вашкаладыр.//ваӵкаладыр.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: старина, отошедшая в прошлое
 
 -lexeme
  lex: вашкалалык
- stem: вашкалалык.
+ stem: вашкалалык.//ваӵкалалык.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: древняя старина
@@ -9355,7 +9378,7 @@
 
 -lexeme
  lex: винтовка
- stem: винтовка.
+ stem: винтовка.//виньтовка.
  gramm: N,rus
  paradigm: Noun-num-vowel
  trans_ru: винтовка
@@ -11542,7 +11565,7 @@
 
 -lexeme
  lex: вышкы
- stem: вышкы.|вышки.
+ stem: вышкы.//выӵкы.|вышки.//выӵки.
  gramm: N
  paradigm: Noun-num-vowel-dial-iy
  trans_ru: кадка, кадушка
@@ -14144,7 +14167,7 @@
 
 -lexeme
  lex: гыжкал
- stem: гыжкал.
+ stem: гыжкал.//гыж-кал.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: остатки; последыш
@@ -19997,14 +20020,14 @@
 
 -lexeme
  lex: ишкем
- stem: ишкем.
+ stem: ишкем.//иӵкем.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: 1. клёцки 2. щипание, общипывание
 
 -lexeme
  lex: ишкон
- stem: ишкон.
+ stem: ишкон.//иӵкон.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: трахома
@@ -20968,7 +20991,7 @@
 
 -lexeme
  lex: кавалерист
- stem: кавалерист.
+ stem: кавалерист.//кавалерис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: кавалерист
@@ -21903,7 +21926,7 @@
 
 -lexeme
  lex: капиталист
- stem: капиталист.
+ stem: капиталист.//капиталист.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: капиталист
@@ -25259,7 +25282,7 @@
  stem: колони.
  gramm: N,rus
  paradigm: Noun-num-ija
- trans_ru: колония, английской колониос английские колонии
+ trans_ru: колония
 
 -lexeme
  lex: колонка
@@ -27162,21 +27185,21 @@
 
 -lexeme
  lex: крестьян
- stem: крестьян.
+ stem: крестьян.//кресьян.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: крестьянин
 
 -lexeme
  lex: крестьянка
- stem: крестьянка.
+ stem: крестьянка.//кресьянка.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-vowel
  trans_ru: крестьянка
 
 -lexeme
  lex: крестьянство
- stem: крестьянство.
+ stem: крестьянство.//кресьянство.
  gramm: N,rus
  paradigm: Noun-num-vowel
  trans_ru: крестьянство
@@ -27442,7 +27465,7 @@
 
 -lexeme
  lex: куалялюльы
- stem: куалялюльы.|куалялюли.
+ stem: кылялюльы.//куалялюльы.|куалялюли.//кылялюли.
  gramm: N,anim
  paradigm: Noun-num-vowel-dial-iy
  trans_ru: улитка, слизняк
@@ -27729,7 +27752,7 @@
 
 -lexeme
  lex: кубиста
- stem: кубиста.
+ stem: кубиста.//кубисьта.//кубыста.//кубысьта.//кобиста.//кобисьта.
  gramm: N
  paradigm: Noun-num-vowel
  trans_ru: капуста
@@ -28607,7 +28630,7 @@
 
 -lexeme
  lex: кумышка
- stem: кумышка.
+ stem: кумышка.//кумушка.
  gramm: N
  paradigm: Noun-num-vowel
  trans_ru: самогон
@@ -29809,7 +29832,7 @@
 
 -lexeme
  lex: кызьпу
- stem: кызьпу.
+ stem: кызьпу.//кысьпу.
  gramm: N
  paradigm: Noun-num-vowel
  trans_ru: берёза
@@ -33459,7 +33482,7 @@
 
 -lexeme
  lex: лушкам
- stem: лушкам.
+ stem: лушкам.//луӵкам.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: воровство, кража, хищение
@@ -33473,7 +33496,7 @@
 
 -lexeme
  lex: лушкем
- stem: лушкем.
+ stem: лушкем.//луӵкем.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: секрет
@@ -33615,10 +33638,10 @@
 
 -lexeme
  lex: лымшор
- stem: лымшор.
+ stem: лымшор.//лымшыр.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: полдень
+ trans_ru: полдень; юг
 
 -lexeme
  lex: лымы
@@ -34275,7 +34298,7 @@
 
 -lexeme
  lex: майыг
- stem: майыг.
+ stem: майыг.//маег.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: кол
@@ -37451,7 +37474,7 @@
 
 -lexeme
  lex: мунчо
- stem: мунчо.
+ stem: мунчо.//муньчо.//мынчо.//мыньчо.
  gramm: N
  paradigm: Noun-num-vowel
  trans_ru: баня
@@ -42685,7 +42708,7 @@
 
 -lexeme
  lex: пароход
- stem: пароход.
+ stem: пароход.//парокод.
  gramm: N,rus,transport
  paradigm: Noun-num-consonant
  trans_ru: пароход
@@ -76959,7 +76982,7 @@
  trans_ru: долганин
 -lexeme
  lex: должность
- stem: должност.
+ stem: должност.//должнос.
  gramm: N,rus
  paradigm: Noun-num-soft
  trans_ru: должность
@@ -78918,7 +78941,7 @@
  trans_ru: креститель
 -lexeme
  lex: крестьянин
- stem: крестьянин.
+ stem: крестьянин.//кресьянин.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: крестьянин
@@ -79623,10 +79646,10 @@
  stem: лыжня.
  gramm: N,rus
  paradigm: Noun-num-vowel
- trans_ru: лыжня
+ trans_ru: лыжня	
 -lexeme
  lex: лымшорпал
- stem: лымшорпал.
+ stem: лымшорпал.//лымшырпал.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: юг
@@ -79715,6 +79738,12 @@
  paradigm: Noun-num-consonant
  trans_ru: грабли
 -lexeme
+ lex: мадеш
+ stem: мадеш.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: грабли
+-lexeme
  lex: майдан
  stem: майдан.
  gramm: N,rus
@@ -79770,7 +79799,7 @@
  trans_ru: маршрутка
 -lexeme
  lex: масленча
- stem: масленча.
+ stem: масленча.//масленьча.
  gramm: N,rus,time_meas
  paradigm: Noun-num-vowel
  trans_ru: масленица
@@ -93029,11 +93058,11 @@
  paradigm: Noun-num-ija
  trans_ru: апатия
 -lexeme
- lex: аппеляция
- stem: аппеляци.
+ lex: апелляция
+ stem: апелляци.//аппелляци.//апеляци.//аппеляци.
  gramm: N,rus
  paradigm: Noun-num-ija
- trans_ru: аппеляция
+ trans_ru: апелляция
 -lexeme
  lex: аппликация
  stem: аппликаци.
@@ -93042,7 +93071,7 @@
  trans_ru: аппликация
 -lexeme
  lex: апробация
- stem: апробаци.
+ stem: апробаци.//аппробаци.
  gramm: N,rus
  paradigm: Noun-num-ija
  trans_ru: апробация
@@ -95146,6 +95175,7 @@
  stem: инвентар.
  gramm: N,rus
  paradigm: Noun-num-soft
+ paradigm: Noun-num-consonant
  trans_ru: инвентарь
 -lexeme
  lex: интеграл
@@ -98019,12 +98049,6 @@
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: хозяйство
--lexeme
- lex: кубыста
- stem: кубыста.
- gramm: N
- paradigm: Noun-num-vowel
- trans_ru: капуста
 -lexeme
  lex: кузпал
  stem: куспал.
@@ -101798,7 +101822,7 @@
 -lexeme
  lex: быгыли
  gramm: N
- stem: быгыли.
+ stem: быгыли.//бугыли.
  paradigm: Noun-num-vowel
  trans_ru: диал. сноп льна; горсть (пучок) льна
 
@@ -101812,7 +101836,7 @@
 -lexeme
  lex: бычкы
  gramm: N
- stem: бычкы.
+ stem: бычкы.//быськы.
  paradigm: Noun-num-vowel
  trans_ru: пила
 
@@ -104978,6 +105002,7 @@
  gramm: N
  stem: йырлыд.
  paradigm: Noun-num-consonant
+ paradigm: Noun-num-consonant-y
  trans_ru: количество, поголовье
 
 -lexeme
@@ -117303,7 +117328,7 @@
 -lexeme
  lex: лушкаськись
  gramm: N,anim,hum
- stem: лушкаськис.
+ stem: лушкаськис.//луӵкаськис.
  paradigm: Noun-num-soft
  trans_ru: вор, похититель
 
@@ -119490,13 +119515,6 @@
  stem: железногвардеец.
  paradigm: Noun-num-consonant
  trans_ru: железногвардеец
-
--lexeme
- lex: кресьян
- gramm: N,anim,hum,rus
- stem: кресьян.
- paradigm: Noun-num-consonant
- trans_ru: крестьянин
 
 -lexeme
  lex: политпросветучреждение
