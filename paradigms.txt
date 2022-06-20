@@ -2434,6 +2434,22 @@
   gramm: app
   gloss: APP
   paradigm: Comparative
+ -flex: .н<.>
+  gramm: dms
+  regex-gramm: ,PN
+  paradigm: Dms-case-palat
+ -flex: .нь<.>
+  gramm: dms
+  regex-gramm: ,PN
+  paradigm: Dms-case-nonpalat
+ -flex: .н<.>
+  gramm: dms
+  regex-prev: .*[ао]н[.<>]*$
+  paradigm: Dms-case-palat
+ -flex: .нь<.>
+  gramm: dms
+  regex-prev: .*[ао]н[.<>]*$
+  paradigm: Dms-case-nonpalat
 
 
 -paradigm: Noun-case-dial-iy
@@ -2956,6 +2972,22 @@
   gramm: app
   gloss: APP
   paradigm: Comparative
+ -flex: .н<.>//.ьн<.>
+  gramm: dms
+  regex-gramm: ,PN
+  paradigm: Dms-case-palat
+ -flex: .нь<.>//.ьнь<.>
+  gramm: dms
+  regex-gramm: ,PN
+  paradigm: Dms-case-nonpalat
+ -flex: .н<.>//.ьн<.>
+  gramm: dms
+  regex-prev: .*[ао]н[.<>]*$
+  paradigm: Dms-case-palat
+ -flex: .нь<.>//.ьнь<.>
+  gramm: dms
+  regex-prev: .*[ао]н[.<>]*$
+  paradigm: Dms-case-nonpalat
 
 -paradigm: Noun-case-j
  -flex: .[й]<.>
@@ -3081,6 +3113,22 @@
   gramm: app
   gloss: APP
   paradigm: Comparative
+ -flex: .[й]н<.>
+  gramm: dms
+  regex-gramm: ,PN
+  paradigm: Dms-case-palat
+ -flex: .[й]нь<.>
+  gramm: dms
+  regex-gramm: ,PN
+  paradigm: Dms-case-nonpalat
+ -flex: .[й]н<.>
+  gramm: dms
+  regex-prev: .*[ао]н[.<>]*$
+  paradigm: Dms-case-palat
+ -flex: .[й]нь<.>
+  gramm: dms
+  regex-prev: .*[ао]н[.<>]*$
+  paradigm: Dms-case-nonpalat
 
 -paradigm: Noun-case-ija
  -flex: .[я]<.>//.<.>
@@ -3264,6 +3312,42 @@
   gloss: APP
   paradigm: Comparative
 
+
+# ----- Case-after-domus paradigms ------
+-paradigm: Dms-case-palat
+ -flex: .е<.>
+  gramm: ill
+  gloss: ILL
+  paradigm: Comparative
+ -flex: .я<.>
+  gramm: loc
+  gloss: LOC
+  paradigm: poss-sg
+  paradigm: poss-pl
+ -flex: .я<.>
+  gramm: ill
+  gloss: ILL
+  paradigm: poss-sg
+  paradigm: poss-pl
+ -flex: .ин<.>
+  gramm: loc
+  gloss: LOC
+  paradigm: Comparative
+
+-paradigm: Dms-case-nonpalat
+ -flex: .ын<.>
+  gramm: loc
+  gloss: LOC
+  paradigm: Comparative
+ -flex: .ысь<.>
+  gramm: el
+  gloss: EL
+  paradigm: Comparative
+ -flex: .ысьты<.>
+  gramm: el
+  gloss: EL
+  paradigm: poss-sg
+  paradigm: poss-pl
 
 
  

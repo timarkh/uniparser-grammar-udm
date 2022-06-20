@@ -14454,14 +14454,14 @@
  stem: паськыта.
  gramm: V,II,intr
  paradigm: connect_verbs-II
- trans_ru: расширяться, расшириться, становиться более широким
+ trans_ru: расширяться
 
 -lexeme
  lex: паськытомыны
  stem: паськытом.
  gramm: V,I,intr
  paradigm: connect_verbs-I
- trans_ru: расшириться, расширяться, стать более широким
+ trans_ru: расшириться
 
 -lexeme
  lex: пасяны
@@ -18305,6 +18305,13 @@
  gramm: V,I,tr
  paradigm: connect_verbs-I
  trans_ru: очистить; оздоровить
+
+-lexeme
+ lex: тазатъяны
+ stem: тазатъя.
+ gramm: V,II,tr,mult
+ paradigm: connect_verbs-II
+ trans_ru: очищать; оздоровлять
 
 -lexeme
  lex: тайдырыны
