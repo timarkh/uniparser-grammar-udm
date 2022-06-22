@@ -5363,14 +5363,14 @@
 
 -lexeme
  lex: пичи
- stem: пичи.
+ stem: пичи.//пӧчи.
  gramm: ADJ
  paradigm: connect_adjectives
  trans_ru: маленький
 
 -lexeme
  lex: пичияк
- stem: пичияк.
+ stem: пичияк.//пӧчияк.
  gramm: ADV
  paradigm: connect_adverbs
  trans_ru: немножко

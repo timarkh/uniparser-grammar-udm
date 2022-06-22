@@ -43415,7 +43415,7 @@
 
 -lexeme
  lex: пеллясь
- stem: пелляс.
+ stem: пелляс.//пелья.
  gramm: N,anim,hum
  paradigm: Noun-num-soft
  trans_ru: знахарь, шептун
@@ -44980,7 +44980,7 @@
 
 -lexeme
  lex: пластинка
- stem: пластинка.
+ stem: пластинка.//пласьтинка.
  gramm: N,rus
  paradigm: Noun-num-vowel
  trans_ru: пластинка
@@ -46800,7 +46800,7 @@
 
 -lexeme
  lex: праздник
- stem: праздник.
+ stem: праздник.//празьник.
  gramm: N,rus
  paradigm: Noun-num-consonant
  trans_ru: праздник
@@ -48920,6 +48920,7 @@
  stem: пушлык.
  gramm: N
  paradigm: Noun-num-consonant
+ paradigm: Noun-num-consonant-y
  trans_ru: внутренность; перен. смысл, суть
 
 -lexeme
@@ -48987,7 +48988,7 @@
 
 -lexeme
  lex: пуштрос
- stem: пуштрос.
+ stem: пуштрос.//пуштырос.
  gramm: N
  paradigm: Noun-num-consonant
  paradigm: Noun-num-consonant-y
@@ -76532,7 +76533,7 @@
  trans_ru: гражданин
 -lexeme
  lex: грампластинка
- stem: грампластинка.
+ stem: грампластинка.//грампласьтинка.
  gramm: N,rus
  paradigm: Noun-num-vowel
  trans_ru: грампластинка
@@ -109957,7 +109958,7 @@
 -lexeme
  lex: пелляськись
  gramm: N,anim,hum
- stem: пелляськис.
+ stem: пелляськис.//пельяскис.
  paradigm: Noun-num-soft
  trans_ru: знахарь, лекарь
 
