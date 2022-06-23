@@ -4557,6 +4557,13 @@
  trans_ru: США
 
 -lexeme
+ lex: САСШ
+ stem: сасш.//сасш-.
+ gramm: N,PN,topn,abbr
+ paradigm: Noun-num-vowel
+ trans_ru: САСШ (Североамериканские Соединённые Штаты)
+
+-lexeme
  lex: РФ
  stem: рф.//рф-.
  gramm: N,PN,topn,abbr
@@ -49638,6 +49645,12 @@
  paradigm: Noun-num-consonant
  trans_ru: КПСС (Коммунистическая партия Советского Союза)
 -lexeme
+ lex: РСДРП
+ stem: рсдрп.//рсдрп-.
+ gramm: N,abbr,rus
+ paradigm: Noun-num-consonant
+ trans_ru: РСДРП (Российская социал-демократическая рабочая партия)
+-lexeme
  lex: ЛДПР
  stem: лдпр.//лдпр-.
  gramm: N,abbr,rus
@@ -49673,6 +49686,12 @@
  gramm: N,abbr,rus
  paradigm: Noun-num-consonant
  trans_ru: НКВД
+-lexeme
+ lex: РККА
+ stem: ркка.//ркка-.
+ gramm: N,abbr,rus
+ paradigm: Noun-num-consonant
+ trans_ru: РККА (Рабоче-крестьянская Красная армия)
 -lexeme
  lex: ОАО
  stem: оао.//оао-.

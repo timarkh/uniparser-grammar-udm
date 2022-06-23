@@ -14605,7 +14605,7 @@
 
 -lexeme
  lex: пелляны
- stem: пелля.
+ stem: пелля.//пелья.
  gramm: V,II,intr,with_instr,mult
  paradigm: connect_verbs-II
  trans_ru: дуть; нашептать (заговор)
@@ -15473,7 +15473,7 @@
 
 -lexeme
  lex: пумитаны
- stem: пумита.
+ stem: пумита.//пумитя.
  gramm: V,II,tr
  paradigm: connect_verbs-II
  trans_ru: встретить, повстречать
