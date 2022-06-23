@@ -727,7 +727,7 @@
 
 -lexeme
  lex: вань
- stem: вань.
+ stem: вань.//уань.
  gramm: PRO
  paradigm: Comparative
  paradigm: collective
@@ -738,7 +738,7 @@
 
 -lexeme
  lex: вань
- stem: вань.//ваньм.
+ stem: вань.//ваньм.//уань.//уаньм.
  gramm: PRO
  paradigm: Noun-case-poss-y-3,sg
  paradigm: Noun-case-poss-y-2,sg

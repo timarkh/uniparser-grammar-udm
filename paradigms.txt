@@ -363,6 +363,7 @@
   gramm: coll
   gloss: COLL
   paradigm: poss-sg-case
+  paradigm: poss-sg-case-i
   paradigm: poss-pl-case
   paradigm: Noun-case-poss-1,sg
   paradigm: Noun-case-poss-2,sg
@@ -425,6 +426,7 @@
   gloss: COLL
   paradigm: poss-sg-case
   paradigm: poss-pl-case
+  paradigm: poss-sg-case-i
   paradigm: Noun-case-poss-1,sg
   paradigm: Noun-case-poss-2,sg
   paradigm: Noun-case-poss-3,sg
@@ -451,6 +453,7 @@
   gloss: COLL
   paradigm: poss-sg-case
   paradigm: poss-pl-case
+  paradigm: poss-sg-case-i
   paradigm: Noun-case-poss-1,sg
   paradigm: Noun-case-poss-2,sg
   paradigm: Noun-case-poss-3,sg
@@ -5382,6 +5385,55 @@
   gramm: 2sg,dat
   gloss: P.2SG|DAT
  -flex: .з|лы<.>
+  gramm: 3sg,dat
+  gloss: P.3SG|DAT
+ paradigm: Comparative
+
+
+-paradigm: poss-sg-case-i
+ -flex: .им<.>
+  gramm: 1sg
+  gloss: P.1SG
+ -flex: .ид<.>
+  gramm: 2sg
+  gloss: P.2SG
+ -flex: .из<.>
+  gramm: 3sg
+  gloss: P.3SG
+ -flex: .ме<.>//.мме<.>
+  gramm: 1sg,acc
+  gloss: P.1SG.ACC
+ -flex: .дэ<.>//.ддэ<.>
+  gramm: 2sg,acc
+  gloss: P.2SG.ACC
+ -flex: .зэ<.>//.ззэ<.>
+  gramm: 3sg,acc
+  gloss: P.3SG.ACC
+ -flex: .им|лэн<.>
+  gramm: 1sg,gen
+  gloss: P.1SG|GEN
+ -flex: .ид|лэн<.>
+  gramm: 2sg,gen
+  gloss: P.2SG|GEN
+ -flex: .из|лэн<.>
+  gramm: 3sg,gen
+  gloss: P.3SG|GEN
+ -flex: .им|лэсь<.>
+  gramm: 1sg,abl
+  gloss: P.1SG|ABL
+ -flex: .ид|лэсь<.>
+  gramm: 2sg,abl
+  gloss: P.2SG|ABL
+ -flex: .из|лэсь<.>
+  gramm: 3sg,abl
+  gloss: P.3SG|ABL
+ -flex: .им|лы<.>
+  gramm: 1sg,dat
+  gloss: P.1SG|DAT
+ -flex: .ид|лы<.>
+  gramm: 2sg,dat
+  gloss: P.2SG|DAT
+ -flex: .из|лы<.>
   gramm: 3sg,dat
   gloss: P.3SG|DAT
  paradigm: Comparative

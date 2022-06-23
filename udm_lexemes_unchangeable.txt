@@ -182,7 +182,7 @@
 
 -lexeme
  lex: ӧйтӧд
- stem: ӧйтӧд.
+ stem: ӧйтӧд.//ӧйтод.
  gramm: PART
  paradigm: Comparative
  trans_ru: не знаю
@@ -6094,7 +6094,7 @@
  stem: тыкак.
  gramm: ADV
  paradigm: connect_adverbs
- trans_ru: вдруг, внезапно 
+ trans_ru: вдруг, внезапно
 
 -lexeme
  lex: яркытак
@@ -8348,6 +8348,15 @@
  trans_ru: во время
 
 -lexeme
+ lex: дыръяла
+ stem: дыръяла.
+ gramm: POST
+ paradigm: Comparative
+ paradigm: poss-sg
+ paradigm: poss-pl
+ trans_ru: во время
+
+-lexeme
  lex: дыръяку
  stem: дыръяку.//дыръякы.
  gramm: POST
@@ -8897,7 +8906,7 @@
 
 -lexeme
  lex: вазьва
- stem: вазьва.
+ stem: вазьва.//уазьва.
  gramm: ADV
  paradigm: connect_adverbs
  trans_ru: позапрошлый год
@@ -10341,7 +10350,7 @@
 
 -lexeme
  lex: миым
- stem: миым.
+ stem: миым.//мийым.
  gramm: ADV
  paradigm: connect_adverbs
  paradigm: Noun-case
@@ -10353,7 +10362,7 @@
  stem: вожвылат.
  gramm: ADV
  paradigm: connect_adverbs
- trans_ru: крест-накрест 2. напротив, против 
+ trans_ru: крест-накрест; напротив, против
 
 -lexeme
  lex: берин-азин
@@ -10804,8 +10813,8 @@
  trans_ru: вначале, сначала
 
 -lexeme
- lex: уазьнал
- stem: уазьнал.
+ lex: вазьнал
+ stem: вазьнал.//уазьнал.
  gramm: ADV
  paradigm: connect_adverbs
  trans_ru: третьего дня
@@ -12105,7 +12114,7 @@
  stem: зар-зар.
  gramm: IMIT
  paradigm: Comparative
- trans_ru: 
+ trans_ru:
 -lexeme
  lex: здесь
  stem: здесь.
@@ -12135,7 +12144,7 @@
  stem: зыл-зыл.
  gramm: IMIT
  paradigm: Comparative
- trans_ru: 
+ trans_ru:
 -lexeme
  lex: именно
  stem: именно.
@@ -12183,7 +12192,7 @@
  stem: куаляк.
  gramm: IMIT
  paradigm: Comparative
- trans_ru: 
+ trans_ru:
 -lexeme
  lex: ладно
  stem: ладно.
@@ -12195,7 +12204,7 @@
  stem: лач-лач.
  gramm: IMIT
  paradigm: Comparative
- trans_ru: 
+ trans_ru:
 -lexeme
  lex: луӵӵе
  stem: луӵӵе.
@@ -12255,7 +12264,7 @@
  stem: нясь-нясь.
  gramm: IMIT
  paradigm: Comparative
- trans_ru: 
+ trans_ru:
 -lexeme
  lex: нёшто
  stem: нёшто.
@@ -12327,7 +12336,7 @@
  stem: пуж-пуж.
  gramm: IMIT
  paradigm: Comparative
- trans_ru: 
+ trans_ru:
 -lexeme
  lex: пусть
  stem: пусть.
@@ -12405,7 +12414,7 @@
  stem: чупыр-чупыр.
  gramm: IMIT
  paradigm: Comparative
- trans_ru: 
+ trans_ru:
 -lexeme
  lex: чуть
  stem: чуть.
@@ -12417,19 +12426,19 @@
  stem: шал-шал.
  gramm: IMIT
  paradigm: Comparative
- trans_ru: 
+ trans_ru:
 -lexeme
  lex: шальк-шальк
  stem: шальк-шальк.
  gramm: IMIT
  paradigm: Comparative
- trans_ru: 
+ trans_ru:
 -lexeme
  lex: шенгыль-пенгыль
  stem: шенгыль-пенгыль.
  gramm: IMIT
  paradigm: Comparative
- trans_ru: 
+ trans_ru:
 -lexeme
  lex: ӝик-ӝик
  stem: ӝик-ӝик.
@@ -19114,3 +19123,1920 @@
  paradigm: connect_adverbs
  trans_ru: предварительно
 
+-lexeme
+ lex: шорынки
+ stem: шорынки.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: средне; в среднем
+
+-lexeme
+ lex: большевистски
+ gramm: ADV,rus
+ stem: большевистски.
+ paradigm: connect_adverbs
+ trans_ru: большевистски
+
+-lexeme
+ lex: преступно
+ gramm: ADV,rus
+ stem: преступно.
+ paradigm: connect_adverbs
+ trans_ru: преступно
+
+-lexeme
+ lex: халатно
+ gramm: ADV,rus
+ stem: халатно.
+ paradigm: connect_adverbs
+ trans_ru: халатно
+
+-lexeme
+ lex: организационно
+ gramm: ADV,rus
+ stem: организационно.
+ paradigm: connect_adverbs
+ trans_ru: организационно
+
+-lexeme
+ lex: бездушно
+ gramm: ADV,rus
+ stem: бездушно.
+ paradigm: connect_adverbs
+ trans_ru: бездушно
+
+-lexeme
+ lex: партийно
+ gramm: ADV,rus
+ stem: партийно.
+ paradigm: connect_adverbs
+ trans_ru: партийно
+
+-lexeme
+ lex: по-стахановски
+ gramm: ADV,rus
+ stem: по-стахановски.
+ paradigm: connect_adverbs
+ trans_ru: по-стахановски
+
+-lexeme
+ lex: безусловно
+ gramm: ADV,rus
+ stem: безусловно.
+ paradigm: connect_adverbs
+ trans_ru: безусловно
+
+-lexeme
+ lex: упорно
+ gramm: ADV,rus
+ stem: упорно.
+ paradigm: connect_adverbs
+ trans_ru: упорно
+
+-lexeme
+ lex: временно
+ gramm: ADV,rus
+ stem: временно.
+ paradigm: connect_adverbs
+ trans_ru: временно
+
+-lexeme
+ lex: досрочно
+ gramm: ADV,rus
+ stem: досрочно.
+ paradigm: connect_adverbs
+ trans_ru: досрочно
+
+-lexeme
+ lex: идейно
+ gramm: ADV,rus
+ stem: идейно.
+ paradigm: connect_adverbs
+ trans_ru: идейно
+
+-lexeme
+ lex: всемерно
+ gramm: ADV,rus
+ stem: всемерно.
+ paradigm: connect_adverbs
+ trans_ru: всемерно
+
+-lexeme
+ lex: дополнительно
+ gramm: ADV,rus
+ stem: дополнительно.
+ paradigm: connect_adverbs
+ trans_ru: дополнительно
+
+-lexeme
+ lex: злостно
+ gramm: ADV,rus
+ stem: злостно.
+ paradigm: connect_adverbs
+ trans_ru: злостно
+
+-lexeme
+ lex: незаконно
+ gramm: ADV,rus
+ stem: незаконно.
+ paradigm: connect_adverbs
+ trans_ru: незаконно
+
+-lexeme
+ lex: тщательно
+ gramm: ADV,rus
+ stem: тщательно.
+ paradigm: connect_adverbs
+ trans_ru: тщательно
+
+-lexeme
+ lex: добросовестно
+ gramm: ADV,rus
+ stem: добросовестно.
+ paradigm: connect_adverbs
+ trans_ru: добросовестно
+
+-lexeme
+ lex: коллективно
+ gramm: ADV,rus
+ stem: коллективно.
+ paradigm: connect_adverbs
+ trans_ru: коллективно
+
+-lexeme
+ lex: сознательно
+ gramm: ADV,rus
+ stem: сознательно.
+ paradigm: connect_adverbs
+ trans_ru: сознательно
+
+-lexeme
+ lex: достойно
+ gramm: ADV,rus
+ stem: достойно.
+ paradigm: connect_adverbs
+ trans_ru: достойно
+
+-lexeme
+ lex: настойчиво
+ gramm: ADV,rus
+ stem: настойчиво.
+ paradigm: connect_adverbs
+ trans_ru: настойчиво
+
+-lexeme
+ lex: свободно
+ gramm: ADV,rus
+ stem: свободно.
+ paradigm: connect_adverbs
+ trans_ru: свободно
+
+-lexeme
+ lex: по-большевистски
+ gramm: ADV,rus
+ stem: по-большевистски.
+ paradigm: connect_adverbs
+ trans_ru: по-большевистски
+
+-lexeme
+ lex: последовательно
+ gramm: ADV,rus
+ stem: последовательно.
+ paradigm: connect_adverbs
+ trans_ru: последовательно
+
+-lexeme
+ lex: народно
+ gramm: ADV,rus
+ stem: народно.
+ paradigm: connect_adverbs
+ trans_ru: народно
+
+-lexeme
+ lex: постепенно
+ gramm: ADV,rus
+ stem: постепенно.
+ paradigm: connect_adverbs
+ trans_ru: постепенно
+
+-lexeme
+ lex: устно
+ gramm: ADV,rus
+ stem: устно.
+ paradigm: connect_adverbs
+ trans_ru: устно
+
+-lexeme
+ lex: мужественно
+ gramm: ADV,rus
+ stem: мужественно.
+ paradigm: connect_adverbs
+ trans_ru: мужественно
+
+-lexeme
+ lex: экономически
+ gramm: ADV,rus
+ stem: экономически.
+ paradigm: connect_adverbs
+ trans_ru: экономически
+
+-lexeme
+ lex: подлинно
+ gramm: ADV,rus
+ stem: подлинно.
+ paradigm: connect_adverbs
+ trans_ru: подлинно
+
+-lexeme
+ lex: неудовлетворительно
+ gramm: ADV,rus
+ stem: неудовлетворительно.
+ paradigm: connect_adverbs
+ trans_ru: неудовлетворительно
+
+-lexeme
+ lex: бюрократически
+ gramm: ADV,rus
+ stem: бюрократически.
+ paradigm: connect_adverbs
+ trans_ru: бюрократически
+
+-lexeme
+ lex: зверски
+ gramm: ADV,rus
+ stem: зверски.
+ paradigm: connect_adverbs
+ trans_ru: зверски
+
+-lexeme
+ lex: хозяйственно
+ gramm: ADV,rus
+ stem: хозяйственно.
+ paradigm: connect_adverbs
+ trans_ru: хозяйственно
+
+-lexeme
+ lex: идеологически
+ gramm: ADV,rus
+ stem: идеологически.
+ paradigm: connect_adverbs
+ trans_ru: идеологически
+
+-lexeme
+ lex: кампанейски
+ gramm: ADV,rus
+ stem: кампанейски.
+ paradigm: connect_adverbs
+ trans_ru: кампанейски
+
+-lexeme
+ lex: энергично
+ gramm: ADV,rus
+ stem: энергично.
+ paradigm: connect_adverbs
+ trans_ru: энергично
+
+-lexeme
+ lex: коммунистически
+ gramm: ADV,rus
+ stem: коммунистически.
+ paradigm: connect_adverbs
+ trans_ru: коммунистически
+
+-lexeme
+ lex: оборонно
+ gramm: ADV,rus
+ stem: оборонно.
+ paradigm: connect_adverbs
+ trans_ru: оборонно
+
+-lexeme
+ lex: самостоятельно
+ gramm: ADV,rus
+ stem: самостоятельно.
+ paradigm: connect_adverbs
+ trans_ru: самостоятельно
+
+-lexeme
+ lex: безнаказанно
+ gramm: ADV,rus
+ stem: безнаказанно.
+ paradigm: connect_adverbs
+ trans_ru: безнаказанно
+
+-lexeme
+ lex: вежливо
+ gramm: ADV,rus
+ stem: вежливо.
+ paradigm: connect_adverbs
+ trans_ru: вежливо
+
+-lexeme
+ lex: вероломно
+ gramm: ADV,rus
+ stem: вероломно.
+ paradigm: connect_adverbs
+ trans_ru: вероломно
+
+-lexeme
+ lex: злодейски
+ gramm: ADV,rus
+ stem: злодейски.
+ paradigm: connect_adverbs
+ trans_ru: злодейски
+
+-lexeme
+ lex: избирательно
+ gramm: ADV,rus
+ stem: избирательно.
+ paradigm: connect_adverbs
+ trans_ru: избирательно
+
+-lexeme
+ lex: неизбежно
+ gramm: ADV,rus
+ stem: неизбежно.
+ paradigm: connect_adverbs
+ trans_ru: неизбежно
+
+-lexeme
+ lex: бесперебойно
+ gramm: ADV,rus
+ stem: бесперебойно.
+ paradigm: connect_adverbs
+ trans_ru: бесперебойно
+
+-lexeme
+ lex: косвенно
+ gramm: ADV,rus
+ stem: косвенно.
+ paradigm: connect_adverbs
+ trans_ru: косвенно
+
+-lexeme
+ lex: своевременно
+ gramm: ADV,rus
+ stem: своевременно.
+ paradigm: connect_adverbs
+ trans_ru: своевременно
+
+-lexeme
+ lex: одновременно
+ gramm: ADV,rus
+ stem: одновременно.
+ paradigm: connect_adverbs
+ trans_ru: одновременно
+
+-lexeme
+ lex: окончательно
+ gramm: ADV,rus
+ stem: окончательно.
+ paradigm: connect_adverbs
+ trans_ru: окончательно
+
+-lexeme
+ lex: планомерно
+ gramm: ADV,rus
+ stem: планомерно.
+ paradigm: connect_adverbs
+ trans_ru: планомерно
+
+-lexeme
+ lex: стихийно
+ gramm: ADV,rus
+ stem: стихийно.
+ paradigm: connect_adverbs
+ trans_ru: стихийно
+
+-lexeme
+ lex: всемирно
+ gramm: ADV,rus
+ stem: всемирно.
+ paradigm: connect_adverbs
+ trans_ru: всемирно
+
+-lexeme
+ lex: колхозно
+ gramm: ADV,rus
+ stem: колхозно.
+ paradigm: connect_adverbs
+ trans_ru: колхозно
+
+-lexeme
+ lex: огульно
+ gramm: ADV,rus
+ stem: огульно.
+ paradigm: connect_adverbs
+ trans_ru: огульно
+
+-lexeme
+ lex: производительно
+ gramm: ADV,rus
+ stem: производительно.
+ paradigm: connect_adverbs
+ trans_ru: производительно
+
+-lexeme
+ lex: революционно
+ gramm: ADV,rus
+ stem: революционно.
+ paradigm: connect_adverbs
+ trans_ru: революционно
+
+-lexeme
+ lex: справедливо
+ gramm: ADV,rus
+ stem: справедливо.
+ paradigm: connect_adverbs
+ trans_ru: справедливо
+
+-lexeme
+ lex: умышленно
+ gramm: ADV,rus
+ stem: умышленно.
+ paradigm: connect_adverbs
+ trans_ru: умышленно
+
+-lexeme
+ lex: ежедневно
+ gramm: ADV,rus
+ stem: ежедневно.
+ paradigm: connect_adverbs
+ trans_ru: ежедневно
+
+-lexeme
+ lex: недостаточно
+ gramm: ADV,rus
+ stem: недостаточно.
+ paradigm: connect_adverbs
+ trans_ru: недостаточно
+
+-lexeme
+ lex: обещано
+ gramm: ADV,rus
+ stem: обещано.
+ paradigm: connect_adverbs
+ trans_ru: обещано
+
+-lexeme
+ lex: послано
+ gramm: ADV,rus
+ stem: послано.
+ paradigm: connect_adverbs
+ trans_ru: послано
+
+-lexeme
+ lex: пропорционально
+ gramm: ADV,rus
+ stem: пропорционально.
+ paradigm: connect_adverbs
+ trans_ru: пропорционально
+
+-lexeme
+ lex: разрешено
+ gramm: ADV,rus
+ stem: разрешено.
+ paradigm: connect_adverbs
+ trans_ru: разрешено
+
+-lexeme
+ lex: сдельно
+ gramm: ADV,rus
+ stem: сдельно.
+ paradigm: connect_adverbs
+ trans_ru: сдельно
+
+-lexeme
+ lex: содержательно
+ gramm: ADV,rus
+ stem: содержательно.
+ paradigm: connect_adverbs
+ trans_ru: содержательно
+
+-lexeme
+ lex: беспрепятственно
+ gramm: ADV,rus
+ stem: беспрепятственно.
+ paradigm: connect_adverbs
+ trans_ru: беспрепятственно
+
+-lexeme
+ lex: вероятно
+ gramm: ADV,rus
+ stem: вероятно.
+ paradigm: connect_adverbs
+ trans_ru: вероятно
+
+-lexeme
+ lex: включительно
+ gramm: ADV,rus
+ stem: включительно.
+ paradigm: connect_adverbs
+ trans_ru: включительно
+
+-lexeme
+ lex: вредительски
+ gramm: ADV,rus
+ stem: вредительски.
+ paradigm: connect_adverbs
+ trans_ru: вредительски
+
+-lexeme
+ lex: голословно
+ gramm: ADV,rus
+ stem: голословно.
+ paradigm: connect_adverbs
+ trans_ru: голословно
+
+-lexeme
+ lex: единодушно
+ gramm: ADV,rus
+ stem: единодушно.
+ paradigm: connect_adverbs
+ trans_ru: единодушно
+
+-lexeme
+ lex: зажиточно
+ gramm: ADV,rus
+ stem: зажиточно.
+ paradigm: connect_adverbs
+ trans_ru: зажиточно
+
+-lexeme
+ lex: замечательно
+ gramm: ADV,rus
+ stem: замечательно.
+ paradigm: connect_adverbs
+ trans_ru: замечательно
+
+-lexeme
+ lex: известно
+ gramm: ADV,rus
+ stem: известно.
+ paradigm: connect_adverbs
+ trans_ru: известно
+
+-lexeme
+ lex: методологически
+ gramm: ADV,rus
+ stem: методологически.
+ paradigm: connect_adverbs
+ trans_ru: методологически
+
+-lexeme
+ lex: нейтрально
+ gramm: ADV,rus
+ stem: нейтрально.
+ paradigm: connect_adverbs
+ trans_ru: нейтрально
+
+-lexeme
+ lex: непрерывно
+ gramm: ADV,rus
+ stem: непрерывно.
+ paradigm: connect_adverbs
+ trans_ru: непрерывно
+
+-lexeme
+ lex: оживлённо
+ gramm: ADV,rus
+ stem: оживлённо.
+ paradigm: connect_adverbs
+ trans_ru: оживлённо
+
+-lexeme
+ lex: провокационно
+ gramm: ADV,rus
+ stem: провокационно.
+ paradigm: connect_adverbs
+ trans_ru: провокационно
+
+-lexeme
+ lex: сообразно
+ gramm: ADV,rus
+ stem: сообразно.
+ paradigm: connect_adverbs
+ trans_ru: сообразно
+
+-lexeme
+ lex: бдительно
+ gramm: ADV,rus
+ stem: бдительно.
+ paradigm: connect_adverbs
+ trans_ru: бдительно
+
+-lexeme
+ lex: всячески
+ gramm: ADV,rus
+ stem: всячески.
+ paradigm: connect_adverbs
+ trans_ru: всячески
+
+-lexeme
+ lex: выборочно
+ gramm: ADV,rus
+ stem: выборочно.
+ paradigm: connect_adverbs
+ trans_ru: выборочно
+
+-lexeme
+ lex: доброкачественно
+ gramm: ADV,rus
+ stem: доброкачественно.
+ paradigm: connect_adverbs
+ trans_ru: доброкачественно
+
+-lexeme
+ lex: интернационально
+ gramm: ADV,rus
+ stem: интернационально.
+ paradigm: connect_adverbs
+ trans_ru: интернационально
+
+-lexeme
+ lex: кооперативно
+ gramm: ADV,rus
+ stem: кооперативно.
+ paradigm: connect_adverbs
+ trans_ru: кооперативно
+
+-lexeme
+ lex: логически
+ gramm: ADV,rus
+ stem: логически.
+ paradigm: connect_adverbs
+ trans_ru: логически
+
+-lexeme
+ lex: наглядно
+ gramm: ADV,rus
+ stem: наглядно.
+ paradigm: connect_adverbs
+ trans_ru: наглядно
+
+-lexeme
+ lex: насильственно
+ gramm: ADV,rus
+ stem: насильственно.
+ paradigm: connect_adverbs
+ trans_ru: насильственно
+
+-lexeme
+ lex: неизменно
+ gramm: ADV,rus
+ stem: неизменно.
+ paradigm: connect_adverbs
+ trans_ru: неизменно
+
+-lexeme
+ lex: неполно
+ gramm: ADV,rus
+ stem: неполно.
+ paradigm: connect_adverbs
+ trans_ru: неполно
+
+-lexeme
+ lex: неустанно
+ gramm: ADV,rus
+ stem: неустанно.
+ paradigm: connect_adverbs
+ trans_ru: неустанно
+
+-lexeme
+ lex: отвратительно
+ gramm: ADV,rus
+ stem: отвратительно.
+ paradigm: connect_adverbs
+ trans_ru: отвратительно
+
+-lexeme
+ lex: по-хозяйски
+ gramm: ADV,rus
+ stem: по-хозяйски.
+ paradigm: connect_adverbs
+ trans_ru: по-хозяйски
+
+-lexeme
+ lex: победоносно
+ gramm: ADV,rus
+ stem: победоносно.
+ paradigm: connect_adverbs
+ trans_ru: победоносно
+
+-lexeme
+ lex: приблизительно
+ gramm: ADV,rus
+ stem: приблизительно.
+ paradigm: connect_adverbs
+ trans_ru: приблизительно
+
+-lexeme
+ lex: применительно
+ gramm: ADV,rus
+ stem: применительно.
+ paradigm: connect_adverbs
+ trans_ru: применительно
+
+-lexeme
+ lex: сочувственно
+ gramm: ADV,rus
+ stem: сочувственно.
+ paradigm: connect_adverbs
+ trans_ru: сочувственно
+
+-lexeme
+ lex: суммарно
+ gramm: ADV,rus
+ stem: суммарно.
+ paradigm: connect_adverbs
+ trans_ru: суммарно
+
+-lexeme
+ lex: формально-бюрократически
+ gramm: ADV,rus
+ stem: формально-бюрократически.
+ paradigm: connect_adverbs
+ trans_ru: формально-бюрократически
+
+-lexeme
+ lex: целесообразно
+ gramm: ADV,rus
+ stem: целесообразно.
+ paradigm: connect_adverbs
+ trans_ru: целесообразно
+
+-lexeme
+ lex: чрезвычайно
+ gramm: ADV,rus
+ stem: чрезвычайно.
+ paradigm: connect_adverbs
+ trans_ru: чрезвычайно
+
+-lexeme
+ lex: безотказно
+ gramm: ADV,rus
+ stem: безотказно.
+ paradigm: connect_adverbs
+ trans_ru: безотказно
+
+-lexeme
+ lex: бесповоротно
+ gramm: ADV,rus
+ stem: бесповоротно.
+ paradigm: connect_adverbs
+ trans_ru: бесповоротно
+
+-lexeme
+ lex: бесхозяйственно
+ gramm: ADV,rus
+ stem: бесхозяйственно.
+ paradigm: connect_adverbs
+ trans_ru: бесхозяйственно
+
+-lexeme
+ lex: благоприятно
+ gramm: ADV,rus
+ stem: благоприятно.
+ paradigm: connect_adverbs
+ trans_ru: благоприятно
+
+-lexeme
+ lex: варварски
+ gramm: ADV,rus
+ stem: варварски.
+ paradigm: connect_adverbs
+ trans_ru: варварски
+
+-lexeme
+ lex: восторженно
+ gramm: ADV,rus
+ stem: восторженно.
+ paradigm: connect_adverbs
+ trans_ru: восторженно
+
+-lexeme
+ lex: вынужденно
+ gramm: ADV,rus
+ stem: вынужденно.
+ paradigm: connect_adverbs
+ trans_ru: вынужденно
+
+-lexeme
+ lex: дисциплинированно
+ gramm: ADV,rus
+ stem: дисциплинированно.
+ paradigm: connect_adverbs
+ trans_ru: дисциплинированно
+
+-lexeme
+ lex: доблестно
+ gramm: ADV,rus
+ stem: доблестно.
+ paradigm: connect_adverbs
+ trans_ru: доблестно
+
+-lexeme
+ lex: доступно
+ gramm: ADV,rus
+ stem: доступно.
+ paradigm: connect_adverbs
+ trans_ru: доступно
+
+-lexeme
+ lex: желательно
+ gramm: ADV,rus
+ stem: желательно.
+ paradigm: connect_adverbs
+ trans_ru: желательно
+
+-lexeme
+ lex: законодательно
+ gramm: ADV,rus
+ stem: законодательно.
+ paradigm: connect_adverbs
+ trans_ru: законодательно
+
+-lexeme
+ lex: индустриально
+ gramm: ADV,rus
+ stem: индустриально.
+ paradigm: connect_adverbs
+ trans_ru: индустриально
+
+-lexeme
+ lex: исключительно
+ gramm: ADV,rus
+ stem: исключительно.
+ paradigm: connect_adverbs
+ trans_ru: исключительно
+
+-lexeme
+ lex: легкомысленно
+ gramm: ADV,rus
+ stem: легкомысленно.
+ paradigm: connect_adverbs
+ trans_ru: легкомысленно
+
+-lexeme
+ lex: либерально
+ gramm: ADV,rus
+ stem: либерально.
+ paradigm: connect_adverbs
+ trans_ru: либерально
+
+-lexeme
+ lex: медленно
+ gramm: ADV,rus
+ stem: медленно.
+ paradigm: connect_adverbs
+ trans_ru: медленно
+
+-lexeme
+ lex: наивно
+ gramm: ADV,rus
+ stem: наивно.
+ paradigm: connect_adverbs
+ trans_ru: наивно
+
+-lexeme
+ lex: невнимательно
+ gramm: ADV,rus
+ stem: невнимательно.
+ paradigm: connect_adverbs
+ trans_ru: невнимательно
+
+-lexeme
+ lex: недоброкачественно
+ gramm: ADV,rus
+ stem: недоброкачественно.
+ paradigm: connect_adverbs
+ trans_ru: недоброкачественно
+
+-lexeme
+ lex: необязательно
+ gramm: ADV,rus
+ stem: необязательно.
+ paradigm: connect_adverbs
+ trans_ru: необязательно
+
+-lexeme
+ lex: неограниченно
+ gramm: ADV,rus
+ stem: неограниченно.
+ paradigm: connect_adverbs
+ trans_ru: неограниченно
+
+-lexeme
+ lex: непомерно
+ gramm: ADV,rus
+ stem: непомерно.
+ paradigm: connect_adverbs
+ trans_ru: непомерно
+
+-lexeme
+ lex: неравномерно
+ gramm: ADV,rus
+ stem: неравномерно.
+ paradigm: connect_adverbs
+ trans_ru: неравномерно
+
+-lexeme
+ lex: отважно
+ gramm: ADV,rus
+ stem: отважно.
+ paradigm: connect_adverbs
+ trans_ru: отважно
+
+-lexeme
+ lex: отрицательно
+ gramm: ADV,rus
+ stem: отрицательно.
+ paradigm: connect_adverbs
+ trans_ru: отрицательно
+
+-lexeme
+ lex: первично
+ gramm: ADV,rus
+ stem: первично.
+ paradigm: connect_adverbs
+ trans_ru: первично
+
+-lexeme
+ lex: по-сталински
+ gramm: ADV,rus
+ stem: по-сталински.
+ paradigm: connect_adverbs
+ trans_ru: по-сталински
+
+-lexeme
+ lex: простительно
+ gramm: ADV,rus
+ stem: простительно.
+ paradigm: connect_adverbs
+ trans_ru: простительно
+
+-lexeme
+ lex: сравнительно
+ gramm: ADV,rus
+ stem: сравнительно.
+ paradigm: connect_adverbs
+ trans_ru: сравнительно
+
+-lexeme
+ lex: стремительно
+ gramm: ADV,rus
+ stem: стремительно.
+ paradigm: connect_adverbs
+ trans_ru: стремительно
+
+-lexeme
+ lex: теоретически
+ gramm: ADV,rus
+ stem: теоретически.
+ paradigm: connect_adverbs
+ trans_ru: теоретически
+
+-lexeme
+ lex: убедительно
+ gramm: ADV,rus
+ stem: убедительно.
+ paradigm: connect_adverbs
+ trans_ru: убедительно
+
+-lexeme
+ lex: фарисейски
+ gramm: ADV,rus
+ stem: фарисейски.
+ paradigm: connect_adverbs
+ trans_ru: фарисейски
+
+-lexeme
+ lex: бездеятельно
+ gramm: ADV,rus
+ stem: бездеятельно.
+ paradigm: connect_adverbs
+ trans_ru: бездеятельно
+
+-lexeme
+ lex: безраздельно
+ gramm: ADV,rus
+ stem: безраздельно.
+ paradigm: connect_adverbs
+ trans_ru: безраздельно
+
+-lexeme
+ lex: бесславно
+ gramm: ADV,rus
+ stem: бесславно.
+ paradigm: connect_adverbs
+ trans_ru: бесславно
+
+-lexeme
+ lex: бессмысленно
+ gramm: ADV,rus
+ stem: бессмысленно.
+ paradigm: connect_adverbs
+ trans_ru: бессмысленно
+
+-lexeme
+ lex: бесцельно
+ gramm: ADV,rus
+ stem: бесцельно.
+ paradigm: connect_adverbs
+ trans_ru: бесцельно
+
+-lexeme
+ lex: враждебно
+ gramm: ADV,rus
+ stem: враждебно.
+ paradigm: connect_adverbs
+ trans_ru: враждебно
+
+-lexeme
+ lex: вторично
+ gramm: ADV,rus
+ stem: вторично.
+ paradigm: connect_adverbs
+ trans_ru: вторично
+
+-lexeme
+ lex: выборчно
+ gramm: ADV,rus
+ stem: выборчно.
+ paradigm: connect_adverbs
+ trans_ru: выборчно
+
+-lexeme
+ lex: единственно
+ gramm: ADV,rus
+ stem: единственно.
+ paradigm: connect_adverbs
+ trans_ru: единственно
+
+-lexeme
+ lex: знаменательно
+ gramm: ADV,rus
+ stem: знаменательно.
+ paradigm: connect_adverbs
+ trans_ru: знаменательно
+
+-lexeme
+ lex: издевательски
+ gramm: ADV,rus
+ stem: издевательски.
+ paradigm: connect_adverbs
+ trans_ru: издевательски
+
+-lexeme
+ lex: иронически
+ gramm: ADV,rus
+ stem: иронически.
+ paradigm: connect_adverbs
+ trans_ru: иронически
+
+-lexeme
+ lex: искусно
+ gramm: ADV,rus
+ stem: искусно.
+ paradigm: connect_adverbs
+ trans_ru: искусно
+
+-lexeme
+ lex: кропотливо
+ gramm: ADV,rus
+ stem: кропотливо.
+ paradigm: connect_adverbs
+ trans_ru: кропотливо
+
+-lexeme
+ lex: лихорадочно
+ gramm: ADV,rus
+ stem: лихорадочно.
+ paradigm: connect_adverbs
+ trans_ru: лихорадочно
+
+-lexeme
+ lex: методически
+ gramm: ADV,rus
+ stem: методически.
+ paradigm: connect_adverbs
+ trans_ru: методически
+
+-lexeme
+ lex: настоятельно
+ gramm: ADV,rus
+ stem: настоятельно.
+ paradigm: connect_adverbs
+ trans_ru: настоятельно
+
+-lexeme
+ lex: нещадно
+ gramm: ADV,rus
+ stem: нещадно.
+ paradigm: connect_adverbs
+ trans_ru: нещадно
+
+-lexeme
+ lex: обильно
+ gramm: ADV,rus
+ stem: обильно.
+ paradigm: connect_adverbs
+ trans_ru: обильно
+
+-lexeme
+ lex: оппортунистически
+ gramm: ADV,rus
+ stem: оппортунистически.
+ paradigm: connect_adverbs
+ trans_ru: оппортунистически
+
+-lexeme
+ lex: основательно
+ gramm: ADV,rus
+ stem: основательно.
+ paradigm: connect_adverbs
+ trans_ru: основательно
+
+-lexeme
+ lex: патриотически
+ gramm: ADV,rus
+ stem: патриотически.
+ paradigm: connect_adverbs
+ trans_ru: патриотически
+
+-lexeme
+ lex: по-советски
+ gramm: ADV,rus
+ stem: по-советски.
+ paradigm: connect_adverbs
+ trans_ru: по-советски
+
+-lexeme
+ lex: полюбовно
+ gramm: ADV,rus
+ stem: полюбовно.
+ paradigm: connect_adverbs
+ trans_ru: полюбовно
+
+-lexeme
+ lex: прилично
+ gramm: ADV,rus
+ stem: прилично.
+ paradigm: connect_adverbs
+ trans_ru: прилично
+
+-lexeme
+ lex: пророчески
+ gramm: ADV,rus
+ stem: пророчески.
+ paradigm: connect_adverbs
+ trans_ru: пророчески
+
+-lexeme
+ lex: ритмично
+ gramm: ADV,rus
+ stem: ритмично.
+ paradigm: connect_adverbs
+ trans_ru: ритмично
+
+-lexeme
+ lex: самокритично
+ gramm: ADV,rus
+ stem: самокритично.
+ paradigm: connect_adverbs
+ trans_ru: самокритично
+
+-lexeme
+ lex: самочинно
+ gramm: ADV,rus
+ stem: самочинно.
+ paradigm: connect_adverbs
+ trans_ru: самочинно
+
+-lexeme
+ lex: сезонно
+ gramm: ADV,rus
+ stem: сезонно.
+ paradigm: connect_adverbs
+ trans_ru: сезонно
+
+-lexeme
+ lex: сплочённо
+ gramm: ADV,rus
+ stem: сплочённо.
+ paradigm: connect_adverbs
+ trans_ru: сплочённо
+
+-lexeme
+ lex: существенно
+ gramm: ADV,rus
+ stem: существенно.
+ paradigm: connect_adverbs
+ trans_ru: существенно
+
+-lexeme
+ lex: творчески
+ gramm: ADV,rus
+ stem: творчески.
+ paradigm: connect_adverbs
+ trans_ru: творчески
+
+-lexeme
+ lex: эффективно
+ gramm: ADV,rus
+ stem: эффективно.
+ paradigm: connect_adverbs
+ trans_ru: эффективно
+
+-lexeme
+ lex: юридически
+ gramm: ADV,rus
+ stem: юридически.
+ paradigm: connect_adverbs
+ trans_ru: юридически
+
+-lexeme
+ lex: бездушно-бюрократически
+ gramm: ADV,rus
+ stem: бездушно-бюрократически.
+ paradigm: connect_adverbs
+ trans_ru: бездушно-бюрократически
+
+-lexeme
+ lex: безоговорочно
+ gramm: ADV,rus
+ stem: безоговорочно.
+ paradigm: connect_adverbs
+ trans_ru: безоговорочно
+
+-lexeme
+ lex: безостановочно
+ gramm: ADV,rus
+ stem: безостановочно.
+ paradigm: connect_adverbs
+ trans_ru: безостановочно
+
+-lexeme
+ lex: безрезультатно
+ gramm: ADV,rus
+ stem: безрезультатно.
+ paradigm: connect_adverbs
+ trans_ru: безрезультатно
+
+-lexeme
+ lex: беспорядочно
+ gramm: ADV,rus
+ stem: беспорядочно.
+ paradigm: connect_adverbs
+ trans_ru: беспорядочно
+
+-lexeme
+ lex: беспроигрышно
+ gramm: ADV,rus
+ stem: беспроигрышно.
+ paradigm: connect_adverbs
+ trans_ru: беспроигрышно
+
+-lexeme
+ lex: беспросыпно
+ gramm: ADV,rus
+ stem: беспросыпно.
+ paradigm: connect_adverbs
+ trans_ru: беспросыпно
+
+-lexeme
+ lex: бесстрашно
+ gramm: ADV,rus
+ stem: бесстрашно.
+ paradigm: connect_adverbs
+ trans_ru: бесстрашно
+
+-lexeme
+ lex: бесчеловечно
+ gramm: ADV,rus
+ stem: бесчеловечно.
+ paradigm: connect_adverbs
+ trans_ru: бесчеловечно
+
+-lexeme
+ lex: благодушно
+ gramm: ADV,rus
+ stem: благодушно.
+ paradigm: connect_adverbs
+ trans_ru: благодушно
+
+-lexeme
+ lex: возмутительно
+ gramm: ADV,rus
+ stem: возмутительно.
+ paradigm: connect_adverbs
+ trans_ru: возмутительно
+
+-lexeme
+ lex: высокомерно
+ gramm: ADV,rus
+ stem: высокомерно.
+ paradigm: connect_adverbs
+ trans_ru: высокомерно
+
+-lexeme
+ lex: географически
+ gramm: ADV,rus
+ stem: географически.
+ paradigm: connect_adverbs
+ trans_ru: географически
+
+-lexeme
+ lex: графически
+ gramm: ADV,rus
+ stem: графически.
+ paradigm: connect_adverbs
+ trans_ru: графически
+
+-lexeme
+ lex: двухкратно
+ gramm: ADV,rus
+ stem: двухкратно.
+ paradigm: connect_adverbs
+ trans_ru: двухкратно
+
+-lexeme
+ lex: демократически
+ gramm: ADV,rus
+ stem: демократически.
+ paradigm: connect_adverbs
+ trans_ru: демократически
+
+-lexeme
+ lex: демонстративно
+ gramm: ADV,rus
+ stem: демонстративно.
+ paradigm: connect_adverbs
+ trans_ru: демонстративно
+
+-lexeme
+ lex: дифференцированно
+ gramm: ADV,rus
+ stem: дифференцированно.
+ paradigm: connect_adverbs
+ trans_ru: дифференцированно
+
+-lexeme
+ lex: дружественно
+ gramm: ADV,rus
+ stem: дружественно.
+ paradigm: connect_adverbs
+ trans_ru: дружественно
+
+-lexeme
+ lex: ежегодно
+ gramm: ADV,rus
+ stem: ежегодно.
+ paradigm: connect_adverbs
+ trans_ru: ежегодно
+
+-lexeme
+ lex: ежечасно
+ gramm: ADV,rus
+ stem: ежечасно.
+ paradigm: connect_adverbs
+ trans_ru: ежечасно
+
+-lexeme
+ lex: жизненно
+ gramm: ADV,rus
+ stem: жизненно.
+ paradigm: connect_adverbs
+ trans_ru: жизненно
+
+-lexeme
+ lex: жульнически
+ gramm: ADV,rus
+ stem: жульнически.
+ paradigm: connect_adverbs
+ trans_ru: жульнически
+
+-lexeme
+ lex: заблаговременно
+ gramm: ADV,rus
+ stem: заблаговременно.
+ paradigm: connect_adverbs
+ trans_ru: заблаговременно
+
+-lexeme
+ lex: злободневно
+ gramm: ADV,rus
+ stem: злободневно.
+ paradigm: connect_adverbs
+ trans_ru: злободневно
+
+-lexeme
+ lex: злоумышленно
+ gramm: ADV,rus
+ stem: злоумышленно.
+ paradigm: connect_adverbs
+ trans_ru: злоумышленно
+
+-lexeme
+ lex: идейно-политически
+ gramm: ADV,rus
+ stem: идейно-политически.
+ paradigm: connect_adverbs
+ trans_ru: идейно-политически
+
+-lexeme
+ lex: изолированно
+ gramm: ADV,rus
+ stem: изолированно.
+ paradigm: connect_adverbs
+ trans_ru: изолированно
+
+-lexeme
+ lex: империалистически
+ gramm: ADV,rus
+ stem: империалистически.
+ paradigm: connect_adverbs
+ trans_ru: империалистически
+
+-lexeme
+ lex: искренно
+ gramm: ADV,rus
+ stem: искренно.
+ paradigm: connect_adverbs
+ trans_ru: искренно
+
+-lexeme
+ lex: квалифицированно
+ gramm: ADV,rus
+ stem: квалифицированно.
+ paradigm: connect_adverbs
+ trans_ru: квалифицированно
+
+-lexeme
+ lex: контрреволюционно
+ gramm: ADV,rus
+ stem: контрреволюционно.
+ paradigm: connect_adverbs
+ trans_ru: контрреволюционно
+
+-lexeme
+ lex: круглосуточно
+ gramm: ADV,rus
+ stem: круглосуточно.
+ paradigm: connect_adverbs
+ trans_ru: круглосуточно
+
+-lexeme
+ lex: механизированно
+ gramm: ADV,rus
+ stem: механизированно.
+ paradigm: connect_adverbs
+ trans_ru: механизированно
+
+-lexeme
+ lex: многократно
+ gramm: ADV,rus
+ stem: многократно.
+ paradigm: connect_adverbs
+ trans_ru: многократно
+
+-lexeme
+ lex: намеренно
+ gramm: ADV,rus
+ stem: намеренно.
+ paradigm: connect_adverbs
+ trans_ru: намеренно
+
+-lexeme
+ lex: нахально
+ gramm: ADV,rus
+ stem: нахально.
+ paradigm: connect_adverbs
+ trans_ru: нахально
+
+-lexeme
+ lex: неверно
+ gramm: ADV,rus
+ stem: неверно.
+ paradigm: connect_adverbs
+ trans_ru: неверно
+
+-lexeme
+ lex: неграмотно
+ gramm: ADV,rus
+ stem: неграмотно.
+ paradigm: connect_adverbs
+ trans_ru: неграмотно
+
+-lexeme
+ lex: недобросовестно
+ gramm: ADV,rus
+ stem: недобросовестно.
+ paradigm: connect_adverbs
+ trans_ru: недобросовестно
+
+-lexeme
+ lex: незаметно
+ gramm: ADV,rus
+ stem: незаметно.
+ paradigm: connect_adverbs
+ trans_ru: незаметно
+
+-lexeme
+ lex: некачественно
+ gramm: ADV,rus
+ stem: некачественно.
+ paradigm: connect_adverbs
+ trans_ru: некачественно
+
+-lexeme
+ lex: необоснованно
+ gramm: ADV,rus
+ stem: необоснованно.
+ paradigm: connect_adverbs
+ trans_ru: необоснованно
+
+-lexeme
+ lex: неповадно
+ gramm: ADV,rus
+ stem: неповадно.
+ paradigm: connect_adverbs
+ trans_ru: неповадно
+
+-lexeme
+ lex: неповоротливо
+ gramm: ADV,rus
+ stem: неповоротливо.
+ paradigm: connect_adverbs
+ trans_ru: неповоротливо
+
+-lexeme
+ lex: неподвижно
+ gramm: ADV,rus
+ stem: неподвижно.
+ paradigm: connect_adverbs
+ trans_ru: неподвижно
+
+-lexeme
+ lex: непорочно
+ gramm: ADV,rus
+ stem: непорочно.
+ paradigm: connect_adverbs
+ trans_ru: непорочно
+
+-lexeme
+ lex: непрестанно
+ gramm: ADV,rus
+ stem: непрестанно.
+ paradigm: connect_adverbs
+ trans_ru: непрестанно
+
+-lexeme
+ lex: непростительно
+ gramm: ADV,rus
+ stem: непростительно.
+ paradigm: connect_adverbs
+ trans_ru: непростительно
+
+-lexeme
+ lex: нерадиво
+ gramm: ADV,rus
+ stem: нерадиво.
+ paradigm: connect_adverbs
+ trans_ru: нерадиво
+
+-lexeme
+ lex: неразрывно
+ gramm: ADV,rus
+ stem: неразрывно.
+ paradigm: connect_adverbs
+ trans_ru: неразрывно
+
+-lexeme
+ lex: неразумно
+ gramm: ADV,rus
+ stem: неразумно.
+ paradigm: connect_adverbs
+ trans_ru: неразумно
+
+-lexeme
+ lex: нетактично
+ gramm: ADV,rus
+ stem: нетактично.
+ paradigm: connect_adverbs
+ trans_ru: нетактично
+
+-lexeme
+ lex: нетрудно
+ gramm: ADV,rus
+ stem: нетрудно.
+ paradigm: connect_adverbs
+ trans_ru: нетрудно
+
+-lexeme
+ lex: неудачно
+ gramm: ADV,rus
+ stem: неудачно.
+ paradigm: connect_adverbs
+ trans_ru: неудачно
+
+-lexeme
+ lex: неукоснительно
+ gramm: ADV,rus
+ stem: неукоснительно.
+ paradigm: connect_adverbs
+ trans_ru: неукоснительно
+
+-lexeme
+ lex: нецелесообразно
+ gramm: ADV,rus
+ stem: нецелесообразно.
+ paradigm: connect_adverbs
+ trans_ru: нецелесообразно
+
+-lexeme
+ lex: неэкономно
+ gramm: ADV,rus
+ stem: неэкономно.
+ paradigm: connect_adverbs
+ trans_ru: неэкономно
+
+-lexeme
+ lex: обдуманно
+ gramm: ADV,rus
+ stem: обдуманно.
+ paradigm: connect_adverbs
+ trans_ru: обдуманно
+
+-lexeme
+ lex: обоюдно
+ gramm: ADV,rus
+ stem: обоюдно.
+ paradigm: connect_adverbs
+ trans_ru: обоюдно
+
+-lexeme
+ lex: обречённо
+ gramm: ADV,rus
+ stem: обречённо.
+ paradigm: connect_adverbs
+ trans_ru: обречённо
+
+-lexeme
+ lex: одногласно
+ gramm: ADV,rus
+ stem: одногласно.
+ paradigm: connect_adverbs
+ trans_ru: одногласно
+
+-lexeme
+ lex: органически
+ gramm: ADV,rus
+ stem: органически.
+ paradigm: connect_adverbs
+ trans_ru: органически
+
+-lexeme
+ lex: оскорбительно
+ gramm: ADV,rus
+ stem: оскорбительно.
+ paradigm: connect_adverbs
+ trans_ru: оскорбительно
+
+-lexeme
+ lex: отвлечённо
+ gramm: ADV,rus
+ stem: отвлечённо.
+ paradigm: connect_adverbs
+ trans_ru: отвлечённо
+
+-lexeme
+ lex: первоклассно
+ gramm: ADV,rus
+ stem: первоклассно.
+ paradigm: connect_adverbs
+ trans_ru: первоклассно
+
+-lexeme
+ lex: плавно
+ gramm: ADV,rus
+ stem: плавно.
+ paradigm: connect_adverbs
+ trans_ru: плавно
+
+-lexeme
+ lex: пламенно
+ gramm: ADV,rus
+ stem: пламенно.
+ paradigm: connect_adverbs
+ trans_ru: пламенно
+
+-lexeme
+ lex: по-житейски
+ gramm: ADV,rus
+ stem: по-житейски.
+ paradigm: connect_adverbs
+ trans_ru: по-житейски
+
+-lexeme
+ lex: по-канцелярски
+ gramm: ADV,rus
+ stem: по-канцелярски.
+ paradigm: connect_adverbs
+ trans_ru: по-канцелярски
+
+-lexeme
+ lex: по-фашистски
+ gramm: ADV,rus
+ stem: по-фашистски.
+ paradigm: connect_adverbs
+ trans_ru: по-фашистски
+
+-lexeme
+ lex: по-хасановски
+ gramm: ADV,rus
+ stem: по-хасановски.
+ paradigm: connect_adverbs
+ trans_ru: по-хасановски
+
+-lexeme
+ lex: погектарно
+ gramm: ADV,rus
+ stem: погектарно.
+ paradigm: connect_adverbs
+ trans_ru: погектарно
+
+-lexeme
+ lex: подхалимски
+ gramm: ADV,rus
+ stem: подхалимски.
+ paradigm: connect_adverbs
+ trans_ru: подхалимски
+
+-lexeme
+ lex: поквартально
+ gramm: ADV,rus
+ stem: поквартально.
+ paradigm: connect_adverbs
+ trans_ru: поквартально
+
+-lexeme
+ lex: попеременно
+ gramm: ADV,rus
+ stem: попеременно.
+ paradigm: connect_adverbs
+ trans_ru: попеременно
+
+-lexeme
+ lex: поразительно
+ gramm: ADV,rus
+ stem: поразительно.
+ paradigm: connect_adverbs
+ trans_ru: поразительно
+
+-lexeme
+ lex: праздно
+ gramm: ADV,rus
+ stem: праздно.
+ paradigm: connect_adverbs
+ trans_ru: праздно
+
+-lexeme
+ lex: продуктивно
+ gramm: ADV,rus
+ stem: продуктивно.
+ paradigm: connect_adverbs
+ trans_ru: продуктивно
+
+-lexeme
+ lex: радостно
+ gramm: ADV,rus
+ stem: радостно.
+ paradigm: connect_adverbs
+ trans_ru: радостно
+
+-lexeme
+ lex: расчётливо
+ gramm: ADV,rus
+ stem: расчётливо.
+ paradigm: connect_adverbs
+ trans_ru: расчётливо
+
+-lexeme
+ lex: реакционно
+ gramm: ADV,rus
+ stem: реакционно.
+ paradigm: connect_adverbs
+ trans_ru: реакционно
+
+-lexeme
+ lex: рентабельно
+ gramm: ADV,rus
+ stem: рентабельно.
+ paradigm: connect_adverbs
+ trans_ru: рентабельно
+
+-lexeme
+ lex: ретиво
+ gramm: ADV,rus
+ stem: ретиво.
+ paradigm: connect_adverbs
+ trans_ru: ретиво
+
+-lexeme
+ lex: самолично
+ gramm: ADV,rus
+ stem: самолично.
+ paradigm: connect_adverbs
+ trans_ru: самолично
+
+-lexeme
+ lex: скоропостижно
+ gramm: ADV,rus
+ stem: скоропостижно.
+ paradigm: connect_adverbs
+ trans_ru: скоропостижно
+
+-lexeme
+ lex: спортивно
+ gramm: ADV,rus
+ stem: спортивно.
+ paradigm: connect_adverbs
+ trans_ru: спортивно
+
+-lexeme
+ lex: статически
+ gramm: ADV,rus
+ stem: статически.
+ paradigm: connect_adverbs
+ trans_ru: статически
+
+-lexeme
+ lex: таинственно
+ gramm: ADV,rus
+ stem: таинственно.
+ paradigm: connect_adverbs
+ trans_ru: таинственно
+
+-lexeme
+ lex: тактически
+ gramm: ADV,rus
+ stem: тактически.
+ paradigm: connect_adverbs
+ trans_ru: тактически
+
+-lexeme
+ lex: телеграфно
+ gramm: ADV,rus
+ stem: телеграфно.
+ paradigm: connect_adverbs
+ trans_ru: телеграфно
+
+-lexeme
+ lex: терпеливо
+ gramm: ADV,rus
+ stem: терпеливо.
+ paradigm: connect_adverbs
+ trans_ru: терпеливо
+
+-lexeme
+ lex: территориально
+ gramm: ADV,rus
+ stem: территориально.
+ paradigm: connect_adverbs
+ trans_ru: территориально
+
+-lexeme
+ lex: товарищески
+ gramm: ADV,rus
+ stem: товарищески.
+ paradigm: connect_adverbs
+ trans_ru: товарищески
+
+-lexeme
+ lex: уравнительно
+ gramm: ADV,rus
+ stem: уравнительно.
+ paradigm: connect_adverbs
+ trans_ru: уравнительно
+
+-lexeme
+ lex: хищнически
+ gramm: ADV,rus
+ stem: хищнически.
+ paradigm: connect_adverbs
+ trans_ru: хищнически
+
+-lexeme
+ lex: хладнокровно
+ gramm: ADV,rus
+ stem: хладнокровно.
+ paradigm: connect_adverbs
+ trans_ru: хладнокровно
+
+-lexeme
+ lex: хронически
+ gramm: ADV,rus
+ stem: хронически.
+ paradigm: connect_adverbs
+ trans_ru: хронически

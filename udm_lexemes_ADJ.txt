@@ -10319,7 +10319,7 @@
  trans_ru: стальной
 
 -lexeme
- lex: гоно 
+ lex: гоно
  stem: гоно.
  gramm: ADJ
  paradigm: connect_adjectives
@@ -14993,6 +14993,13 @@
 -lexeme
  lex: шоро-куспо
  stem: шоро-куспо.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: средний
+
+-lexeme
+ lex: шорынки
+ stem: шорынки.
  gramm: ADJ
  paradigm: connect_adjectives
  trans_ru: средний
@@ -21493,7 +21500,7 @@
  stem: кудӟемско.//кудӟемски.
  gramm: ADJ,rus_afx
  paradigm: connect_adjectives-j
- trans_ru: 
+ trans_ru:
 -lexeme
  lex: кузнецкой
  stem: кузнецко.
@@ -35010,6 +35017,13 @@
  trans_ru: прошлый; прошлогодний
 
 -lexeme
+ lex: вазьвала
+ gramm: ADJ
+ stem: вазьвала.//уазьуала.
+ paradigm: connect_adjectives
+ trans_ru: позапрошлогодний
+
+-lexeme
  lex: миргородской
  gramm: ADJ,rus
  stem: миргородско.
@@ -47020,3 +47034,185 @@
  stem: холодно.//холодны.
  paradigm: connect_adjectives-j
  trans_ru: холодный
+
+-lexeme
+ lex: адмиральской
+ gramm: ADJ,rus
+ stem: адмиральско.
+ paradigm: connect_adjectives-j
+ trans_ru: адмиральский
+
+-lexeme
+ lex: алма-атинской
+ gramm: ADJ,rus,topn
+ stem: алма-атинско.
+ paradigm: connect_adjectives-j
+ trans_ru: алма-атинский
+
+-lexeme
+ lex: англо-польской
+ gramm: ADJ,rus
+ stem: англо-польско.
+ paradigm: connect_adjectives-j
+ trans_ru: англо-польский
+
+-lexeme
+ lex: англо-советской
+ gramm: ADJ,rus
+ stem: англо-советско.
+ paradigm: connect_adjectives-j
+ trans_ru: англо-советский
+
+-lexeme
+ lex: англо-французской
+ gramm: ADJ,rus
+ stem: англо-французско.
+ paradigm: connect_adjectives-j
+ trans_ru: англо-французский
+
+-lexeme
+ lex: анкарской
+ gramm: ADJ,rus
+ stem: анкарско.
+ paradigm: connect_adjectives-j
+ trans_ru: анкарский
+
+-lexeme
+ lex: антибольшевистской
+ gramm: ADJ,rus
+ stem: антибольшевистско.
+ paradigm: connect_adjectives-j
+ trans_ru: антибольшевистский
+
+-lexeme
+ lex: антикоминтерновской
+ gramm: ADJ,rus
+ stem: антикоминтерновско.
+ paradigm: connect_adjectives-j
+ trans_ru: антикоминтерновский
+
+-lexeme
+ lex: антимарксистской
+ gramm: ADJ,rus
+ stem: антимарксистско.
+ paradigm: connect_adjectives-j
+ trans_ru: антимарксистский
+
+-lexeme
+ lex: асановской
+ gramm: ADJ,rus,topn
+ stem: асановско.
+ paradigm: connect_adjectives-j
+ trans_ru: асановский
+
+-lexeme
+ lex: байдалинской
+ gramm: ADJ,rus,topn
+ stem: байдалинско.
+ paradigm: connect_adjectives-j
+ trans_ru: байдалинский
+
+-lexeme
+ lex: байкальской
+ gramm: ADJ,rus,topn
+ stem: байкальско.
+ paradigm: connect_adjectives-j
+ trans_ru: байкальский
+
+-lexeme
+ lex: балеарской
+ gramm: ADJ,rus,topn
+ stem: балеарско.
+ paradigm: connect_adjectives-j
+ trans_ru: балеарский
+
+-lexeme
+ lex: балкарской
+ gramm: ADJ,rus,topn
+ stem: балкарско.
+ paradigm: connect_adjectives-j
+ trans_ru: балкарский
+
+-lexeme
+ lex: балтачевской
+ gramm: ADJ,rus,topn
+ stem: балтачевско.
+ paradigm: connect_adjectives-j
+ trans_ru: балтачевский
+
+-lexeme
+ lex: балхашской
+ gramm: ADJ,rus,topn
+ stem: балхашско.
+ paradigm: connect_adjectives-j
+ trans_ru: балхашский
+
+-lexeme
+ lex: барселонской
+ gramm: ADJ,rus,topn
+ stem: барселонско.
+ paradigm: connect_adjectives-j
+ trans_ru: барселонский
+
+-lexeme
+ lex: батумской
+ gramm: ADJ,rus,topn
+ stem: батумско.
+ paradigm: connect_adjectives-j
+ trans_ru: батумский
+
+-lexeme
+ lex: бездушно-бюрократической
+ gramm: ADJ,rus
+ stem: бездушно-бюрократическо.
+ paradigm: connect_adjectives-j
+ trans_ru: бездушно-бюрократический
+
+-lexeme
+ lex: безенчукской
+ gramm: ADJ,rus,topn
+ stem: безенчукско.
+ paradigm: connect_adjectives-j
+ trans_ru: безенчукский
+
+-lexeme
+ lex: безоружной
+ gramm: ADJ,rus
+ stem: безоружно.
+ paradigm: connect_adjectives-j
+ trans_ru: безоружный
+
+-lexeme
+ lex: белебеевской
+ gramm: ADJ,rus,topn
+ stem: белебеевско.
+ paradigm: connect_adjectives-j
+ trans_ru: белебеевский
+
+-lexeme
+ lex: белоанглийской
+ gramm: ADJ,rus
+ stem: белоанглийско.
+ paradigm: connect_adjectives-j
+ trans_ru: белоанглийский
+
+-lexeme
+ lex: бесперебойной
+ gramm: ADJ,rus
+ stem: бесперебойно.
+ paradigm: connect_adjectives-j
+ trans_ru: бесперебойный
+
+-lexeme
+ lex: биржевой
+ gramm: ADJ,rus
+ stem: биржево.
+ paradigm: connect_adjectives-j
+ trans_ru: биржевой
+
+-lexeme
+ lex: боронованной
+ gramm: ADJ,rus
+ stem: боронованно.
+ paradigm: connect_adjectives-j
+ trans_ru: боронованный
