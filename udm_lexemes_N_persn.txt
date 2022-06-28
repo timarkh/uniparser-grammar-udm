@@ -67909,9 +67909,16 @@
 -lexeme
  lex: Халхин-Гол
  gramm: N,topn,PN
- stem: халхин-гол.
+ stem: халхин-гол.//халхын-гол.
  paradigm: Noun-num-consonant
  trans_ru: Халхин-Гол
+
+-lexeme
+ lex: Халхин
+ gramm: N,topn,PN
+ stem: халхин.//халхын.
+ paradigm: Noun-num-consonant
+ trans_ru: Халхин(-Гол)
 
 -lexeme
  lex: Хаммаршельд

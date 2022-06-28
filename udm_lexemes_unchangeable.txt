@@ -2358,6 +2358,13 @@
  trans_ru: легко, нетрудно
 
 -lexeme
+ lex: капчин
+ stem: капчин.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: легко, нетрудно
+
+-lexeme
  lex: мальдымон
  stem: мальдымон.
  gramm: ADV
@@ -9900,14 +9907,14 @@
 
 -lexeme
  lex: лумбыт
- stem: лумбыт.
+ stem: лумбыт.//лымбыт.
  gramm: ADV
  paradigm: connect_adverbs
  trans_ru: весь день
 
 -lexeme
  lex: лумбытлы
- stem: лумбытлы.
+ stem: лумбытлы.//лымбытлы.
  gramm: ADV,dar
  paradigm: connect_adverbs
  trans_ru: на весь день
@@ -18048,7 +18055,7 @@
 -lexeme
  lex: лумбытэн
  gramm: ADV
- stem: лумбытэн.
+ stem: лумбытэн.//лымбытэн.
  paradigm: connect_adverbs
  trans_ru: целыми днями
 
