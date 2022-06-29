@@ -132398,3 +132398,164 @@
  paradigm: Noun-num-soft
  trans_ru: ударник
 
+-lexeme
+ lex: агитвитрина
+ gramm: N,rus
+ stem: агитвитрина.
+ paradigm: Noun-num-vowel
+ trans_ru: агитвитрина
+
+-lexeme
+ lex: азарин
+ gramm: N,rus
+ stem: азарин.
+ paradigm: Noun-num-consonant
+ trans_ru: азарин
+
+-lexeme
+ lex: анабазин
+ gramm: N,rus
+ stem: анабазин.
+ paradigm: Noun-num-consonant
+ trans_ru: анабазин
+
+-lexeme
+ lex: бестолковщина
+ gramm: N,rus
+ stem: бестолковщина.
+ paradigm: Noun-num-vowel
+ trans_ru: бестолковщина
+
+-lexeme
+ lex: водотурбина
+ gramm: N,rus
+ stem: водотурбина.
+ paradigm: Noun-num-vowel
+ trans_ru: водотурбина
+
+-lexeme
+ lex: древесина
+ gramm: N,rus
+ stem: древесина.
+ paradigm: Noun-num-vowel
+ trans_ru: древесина
+
+-lexeme
+ lex: кампанейщина
+ gramm: N,rus
+ stem: кампанейщина.
+ paradigm: Noun-num-vowel
+ trans_ru: кампанейщина
+
+-lexeme
+ lex: канцелярщина
+ gramm: N,rus
+ stem: канцелярщина.
+ paradigm: Noun-num-vowel
+ trans_ru: канцелярщина
+
+-lexeme
+ lex: кружковщина
+ gramm: N,rus
+ stem: кружковщина.
+ paradigm: Noun-num-vowel
+ trans_ru: кружковщина
+
+-lexeme
+ lex: культмагазин
+ gramm: N,rus
+ stem: культмагазин.
+ paradigm: Noun-num-consonant
+ trans_ru: культмагазин
+
+-lexeme
+ lex: льдина
+ gramm: N,rus
+ stem: льдина.
+ paradigm: Noun-num-vowel
+ trans_ru: льдина
+
+-lexeme
+ lex: маниловщина
+ gramm: N,rus
+ stem: маниловщина.
+ paradigm: Noun-num-vowel
+ trans_ru: маниловщина
+
+-lexeme
+ lex: махаевщина
+ gramm: N,rus
+ stem: махаевщина.
+ paradigm: Noun-num-vowel
+ trans_ru: махаевщина
+
+-lexeme
+ lex: мулюковщина
+ gramm: N,rus
+ stem: мулюковщина.
+ paradigm: Noun-num-vowel
+ trans_ru: мулюковщина
+
+-lexeme
+ lex: нефтескважина
+ gramm: N,rus
+ stem: нефтескважина.
+ paradigm: Noun-num-vowel
+ trans_ru: нефтескважина
+
+-lexeme
+ lex: нитрагин
+ gramm: N,rus
+ stem: нитрагин.
+ paradigm: Noun-num-consonant
+ trans_ru: нитрагин
+
+-lexeme
+ lex: пробоина
+ gramm: N,rus
+ stem: пробоина.
+ paradigm: Noun-num-vowel
+ trans_ru: пробоина
+
+-lexeme
+ lex: рекрутовщина
+ gramm: N,rus
+ stem: рекрутовщина.
+ paradigm: Noun-num-vowel
+ trans_ru: рекрутовщина
+
+-lexeme
+ lex: рекрутчина
+ gramm: N,rus
+ stem: рекрутчина.
+ paradigm: Noun-num-vowel
+ trans_ru: рекрутчина
+
+-lexeme
+ lex: султанщина
+ gramm: N,rus
+ stem: султанщина.
+ paradigm: Noun-num-vowel
+ trans_ru: султанщина
+
+-lexeme
+ lex: торгсин
+ gramm: N,PN,rus
+ stem: торгсин.
+ paradigm: Noun-num-consonant
+ trans_ru: торгсин
+
+-lexeme
+ lex: фотовитрина
+ gramm: N,rus
+ stem: фотовитрина.
+ paradigm: Noun-num-vowel
+ trans_ru: фотовитрина
+
+-lexeme
+ lex: цеппелин
+ gramm: N,rus,transport
+ stem: цеппелин.
+ paradigm: Noun-num-consonant
+ trans_ru: цеппелин
+
