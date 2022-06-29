@@ -2286,7 +2286,7 @@
  -flex: .ез<.>
   gramm: acc
   gloss: ACC
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя-][<>.]*$
   paradigm: Comparative
  -flex: .ты<.>
   gramm: acc
@@ -2320,7 +2320,7 @@
  -flex: .ен<.>
   gramm: ins
   gloss: INS
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя-][<>.]*$
   paradigm: Noun-case-compounding
   paradigm: Noun-case-compounding-pl-consonant
  -flex: .тэк<.>
@@ -2336,10 +2336,16 @@
   gramm: adv
   gloss: ADV
   paradigm: Comparative
-  regex-prev: ^.*[ьйаеёиӥоӧуыэюя][<>.]*$
+  regex-prev: ^.*[ьйаеёиӥоӧуыэюя-][<>.]*$
  -flex: .ын<.>
   gramm: loc
   gloss: LOC
+  paradigm: Noun-case-compounding
+  paradigm: Noun-case-compounding-pl-consonant
+ -flex: .йын<.>
+  gramm: loc,nonst
+  gloss: LOC
+  regex-prev: ^.*[аеёиӥоӧуыэюя].*[аеёиӥоуыэюя-][<>.]*$
   paradigm: Noun-case-compounding
   paradigm: Noun-case-compounding-pl-consonant
  -flex: .э<.>
@@ -2349,7 +2355,7 @@
  -flex: .е<.>
   gramm: ill
   gloss: ILL
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя-][<>.]*$
   paradigm: Comparative
  -flex: .ыс<.>
   gramm: el
@@ -2359,6 +2365,17 @@
  -flex: .ысь<.>
   gramm: el
   gloss: EL
+  paradigm: Comparative
+ -flex: .йыс<.>
+  gramm: el,nonst
+  gloss: EL
+  regex-prev: ^.*[аеёиӥоӧуыэюя].*[аеёиӥоуыэюя-][<>.]*$
+  paradigm: Noun-case-compounding-soft
+  paradigm: Noun-case-compounding-pl-soft
+ -flex: .йысь<.>
+  gramm: el,nonst
+  gloss: EL
+  regex-prev: ^.*[аеёиӥоӧуыэюя].*[аеёиӥоуыэюя-][<>.]*$
   paradigm: Comparative
  -flex: .ӥс<.>
   gramm: el,nonst
@@ -2374,15 +2391,21 @@
   gloss: EL
   paradigm: Noun-case-compounding-soft
   paradigm: Noun-case-compounding-pl-soft
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя-][<>.]*$
  -flex: .ись<.>
   gramm: el,nonst
   gloss: EL
   paradigm: Comparative
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя-][<>.]*$
  -flex: .ысен<.>
   gramm: egr
   gloss: EGR
+  paradigm: Noun-case-compounding
+  paradigm: Noun-case-compounding-pl-consonant
+ -flex: .йысен<.>
+  gramm: egr,nonst
+  gloss: EGR
+  regex-prev: ^.*[аеёиӥоӧуыэюя].*[аеёиӥоуыэюя-][<>.]*$
   paradigm: Noun-case-compounding
   paradigm: Noun-case-compounding-pl-consonant
  -flex: .исен<.>
@@ -2390,7 +2413,7 @@
   gloss: EGR
   paradigm: Noun-case-compounding
   paradigm: Noun-case-compounding-pl-consonant
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя-][<>.]*$
  -flex: .ӥсен<.>
   gramm: egr,nonst
   gloss: EGR
@@ -2426,7 +2449,7 @@
  -flex: .етӥ<.>//.ети<.>
   gramm: prol
   gloss: PROL
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя-][<>.]*$
   regex-gramm: ^([^N]|N(?!UM)).*$
   paradigm: Noun-case-compounding
  -flex: .лан<.>
@@ -2652,6 +2675,10 @@
  -flex: .лы<.>
   gramm: dat
   gloss: DAT
+ -flex: .[е]лы<.>
+  gramm: dat
+  gloss: DAT
+  regex-lex: ^номыр$
  -flex: .ен<.>//.ин<.>//.ӥн<.>//.эн<.>
   gramm: ins
   gloss: INS
@@ -5934,11 +5961,11 @@
   gloss: CVB.SIM
   paradigm: Comparative_Dative
   paradigm: cvb_pers
- -flex: .ытозь<.>
+ -flex: .ытозь<.>//.ытчозь<.>//.ыччозь<.>
   gramm: cvb,lim
   gloss: CVB.LIM
   paradigm: Comparative_Dative
- -flex: .ытозя<.>
+ -flex: .ытозя<.>//.ытчозя<.>//.ыччозя<.>//.ытося<.>
   gramm: cvb,lim
   gloss: CVB.LIM
   paradigm: cvb_pers
@@ -5961,11 +5988,11 @@
   gloss: CVB.SIM
   paradigm: Comparative_Dative
   paradigm: cvb_pers
- -flex: .[ь]ытозь<.>
+ -flex: .[ь]ытозь<.>//.[ь]ытчозь<.>//.[ь]ыччозь<.>
   gramm: cvb,lim
   gloss: CVB.LIM
   paradigm: Comparative_Dative
- -flex: .[ь]ытозя<.>
+ -flex: .[ь]ытозя<.>//.[ь]ытчозя<.>//.[ь]ыччозя<.>//.[ь]ытося<.>
   gramm: cvb,lim
   gloss: CVB.LIM
   paradigm: cvb_pers
@@ -5988,11 +6015,11 @@
   gloss: CVB.SIM
   paradigm: Comparative_Dative
   paradigm: cvb_pers
- -flex: .тозь<.>
+ -flex: .тозь<.>//.тчозь<.>//.ччозь<.>
   gramm: cvb,lim
   gloss: CVB.LIM
   paradigm: Comparative_Dative
- -flex: .тозя<.>
+ -flex: .тозя<.>//.тчозя<.>//.ччозя<.>//.тося<.>
   gramm: cvb,lim
   gloss: CVB.LIM
   paradigm: cvb_pers

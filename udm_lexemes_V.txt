@@ -6112,7 +6112,7 @@
 
 -lexeme
  lex: изьыны
- stem: из.
+ stem: из.//ыз.
  gramm: V,I,intr
  paradigm: connect_verbs-I-soft
  trans_ru: спать
@@ -9840,7 +9840,14 @@
  stem: кылз.
  gramm: V,I,tr
  paradigm: connect_verbs-I
- trans_ru: 1. послушать, слушать 2. подслушать, подслушивать 3. слушаться
+ trans_ru: слушать; слушаться
+
+-lexeme
+ lex: кылӟыны
+ stem: кылӟ.
+ gramm: V,I,tr
+ paradigm: connect_verbs-I
+ trans_ru: заслушать
 
 -lexeme
  lex: кылкутыны
@@ -17034,7 +17041,7 @@
 
 -lexeme
  lex: синмаськыны
- stem: синмаськ.
+ stem: синмаськ.//синьмаськ.
  gramm: V,I,intr,with_dat
  paradigm: connect_verbs-I
  trans_ru: 1. влюбиться, симпатизировать 2. становиться зрячими, прорезаться
@@ -20562,7 +20569,7 @@
 
 -lexeme
  lex: усыяны
- stem: усыя.
+ stem: усыя.//усъя.
  gramm: V,II,tr
  paradigm: connect_verbs-II
  trans_ru: боронить, бороновать
@@ -30957,7 +30964,7 @@
  trans_ru: сдавать
 -lexeme
  lex: сдать
- stem: сдать.
+ stem: сдать.//здать.
  gramm: V,rus,rus_inf,rus_pfv
  paradigm: Comparative
  trans_ru: сдать
@@ -54943,3 +54950,58 @@
  paradigm: connect_verbs-I-CC
  trans_ru: упразднить
 
+-lexeme
+ lex: соцӵошатскыны
+ gramm: V,rus,I,intr
+ stem: соцӵошатск.
+ paradigm: connect_verbs-I
+ trans_ru: соцсоревноваться
+
+-lexeme
+ lex: тревожить
+ gramm: V,rus,rus_ipfv,rus_inf
+ stem: тревожить.
+ paradigm: Comparative
+ trans_ru: тревожить
+
+-lexeme
+ lex: населять
+ gramm: V,rus,rus_ipfv,rus_inf
+ stem: населять.
+ paradigm: Comparative
+ trans_ru: населять
+
+-lexeme
+ lex: привлечь
+ gramm: V,rus,rus_pfv,rus_inf
+ stem: привлечь.
+ paradigm: Comparative
+ trans_ru: привлечь
+
+-lexeme
+ lex: свидетельствовать
+ gramm: V,rus,rus_ipfv,rus_inf
+ stem: свидетельствовать.
+ paradigm: Comparative
+ trans_ru: свидетельствовать
+
+-lexeme
+ lex: бичевать
+ gramm: V,rus,rus_ipfv,rus_inf
+ stem: бичевать.
+ paradigm: Comparative
+ trans_ru: бичевать
+
+-lexeme
+ lex: ознаменоваться
+ gramm: V,rus,rus_pfv,rus_inf
+ stem: ознаменоваться.
+ paradigm: Comparative
+ trans_ru: ознаменоваться
+
+-lexeme
+ lex: раскрепостить
+ gramm: V,rus,rus_pfv,rus_inf
+ stem: раскрепостить.
+ paradigm: Comparative
+ trans_ru: раскрепостить

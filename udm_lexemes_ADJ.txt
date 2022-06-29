@@ -1162,7 +1162,7 @@
 
 -lexeme
  lex: вашкала
- stem: вашкала.
+ stem: вашкала.//важкала.
  gramm: ADJ
  paradigm: connect_adjectives
  trans_ru: древний, старинный
@@ -6119,7 +6119,7 @@
 
 -lexeme
  lex: быдӟа
- stem: быдӟа.//быдца.//быдча.//быдӟ.
+ stem: быдӟа.//бытча.//быдца.//быдча.//быдӟ.
  gramm: ADJ,rel_adj
  paradigm: connect_adjectives
  trans_ru: величиной равный чему-то
@@ -47216,3 +47216,620 @@
  stem: боронованно.
  paradigm: connect_adjectives-j
  trans_ru: боронованный
+
+-lexeme
+ lex: абонементной
+ gramm: ADJ,rus
+ stem: абонементно.
+ paradigm: connect_adjectives-j
+ trans_ru: абонементный
+
+-lexeme
+ lex: автотракторной
+ gramm: ADJ,rus
+ stem: автотракторно.
+ paradigm: connect_adjectives-j
+ trans_ru: автотракторный
+
+-lexeme
+ lex: азотистой
+ gramm: ADJ,rus
+ stem: азотисто.
+ paradigm: connect_adjectives-j
+ trans_ru: азотистый
+
+-lexeme
+ lex: англо-американской
+ gramm: ADJ,rus
+ stem: англо-американско.
+ paradigm: connect_adjectives-j
+ trans_ru: англо-американский
+
+-lexeme
+ lex: англо-греческой
+ gramm: ADJ,rus
+ stem: англо-греческо.
+ paradigm: connect_adjectives-j
+ trans_ru: англо-греческий
+
+-lexeme
+ lex: антигерманской
+ gramm: ADJ,rus
+ stem: антигерманско.
+ paradigm: connect_adjectives-j
+ trans_ru: антигерманский
+
+-lexeme
+ lex: безразличной
+ gramm: ADJ,rus
+ stem: безразлично.
+ paradigm: connect_adjectives-j
+ trans_ru: безразличный
+
+-lexeme
+ lex: бесправной
+ gramm: ADJ,rus
+ stem: бесправно.
+ paradigm: connect_adjectives-j
+ trans_ru: бесправный
+
+-lexeme
+ lex: бесславной
+ gramm: ADJ,rus
+ stem: бесславно.
+ paradigm: connect_adjectives-j
+ trans_ru: бесславный
+
+-lexeme
+ lex: вагоноремонтной
+ gramm: ADJ,rus
+ stem: вагоноремонтно.
+ paradigm: connect_adjectives-j
+ trans_ru: вагоноремонтный
+
+-lexeme
+ lex: вагоностроительной
+ gramm: ADJ,rus
+ stem: вагоностроительно.
+ paradigm: connect_adjectives-j
+ trans_ru: вагоностроительный
+
+-lexeme
+ lex: влажной
+ gramm: ADJ,rus
+ stem: влажно.
+ paradigm: connect_adjectives-j
+ trans_ru: влажный
+
+-lexeme
+ lex: военно-тактической
+ gramm: ADJ,rus
+ stem: военно-тактическо.
+ paradigm: connect_adjectives-j
+ trans_ru: военно-тактический
+
+-lexeme
+ lex: вынужденной
+ gramm: ADJ,rus
+ stem: вынужденно.
+ paradigm: connect_adjectives-j
+ trans_ru: вынужденный
+
+-lexeme
+ lex: высококачественной
+ gramm: ADJ,rus
+ stem: высококачественно.
+ paradigm: connect_adjectives-j
+ trans_ru: высококачественный
+
+-lexeme
+ lex: германо-японской
+ gramm: ADJ,rus
+ stem: германо-японско.
+ paradigm: connect_adjectives-j
+ trans_ru: германо-японский
+
+-lexeme
+ lex: гусиной
+ gramm: ADJ,rus
+ stem: гусино.
+ paradigm: connect_adjectives-j
+ trans_ru: гусиный
+
+-lexeme
+ lex: двурушнической
+ gramm: ADJ,rus
+ stem: двурушническо.
+ paradigm: connect_adjectives-j
+ trans_ru: двурушнический
+
+-lexeme
+ lex: деревообделочной
+ gramm: ADJ,rus
+ stem: деревообделочно.
+ paradigm: connect_adjectives-j
+ trans_ru: деревообделочный
+
+-lexeme
+ lex: добровольческой
+ gramm: ADJ,rus
+ stem: добровольческо.
+ paradigm: connect_adjectives-j
+ trans_ru: добровольческий
+
+-lexeme
+ lex: единодушной
+ gramm: ADJ,rus
+ stem: единодушно.
+ paradigm: connect_adjectives-j
+ trans_ru: единодушный
+
+-lexeme
+ lex: ежедневной
+ gramm: ADJ,rus
+ stem: ежедневно.
+ paradigm: connect_adjectives-j
+ trans_ru: ежедневный
+
+-lexeme
+ lex: зарнилык
+ gramm: ADJ,rus
+ stem: зарнилык.
+ paradigm: connect_adjectives
+ trans_ru: золотый
+
+-lexeme
+ lex: изумительной
+ gramm: ADJ,rus
+ stem: изумительно.
+ paradigm: connect_adjectives-j
+ trans_ru: изумительный
+
+-lexeme
+ lex: клеверной
+ gramm: ADJ,rus
+ stem: клеверно.
+ paradigm: connect_adjectives-j
+ trans_ru: клеверный
+
+-lexeme
+ lex: копейкалык
+ gramm: ADJ,rus
+ stem: копейкалык.
+ paradigm: connect_adjectives
+ trans_ru: копеечный
+
+-lexeme
+ lex: льноводческой
+ gramm: ADJ,rus
+ stem: льноводческо.
+ paradigm: connect_adjectives-j
+ trans_ru: льноводческий
+
+-lexeme
+ lex: массово-валэктон
+ gramm: ADJ,rus
+ stem: массово-валэктон.
+ paradigm: connect_adjectives
+ trans_ru: массово-разъяснительный
+
+-lexeme
+ lex: многомиллионной
+ gramm: ADJ,rus
+ stem: многомиллионно.
+ paradigm: connect_adjectives-j
+ trans_ru: многомиллионный
+
+-lexeme
+ lex: многочисленной
+ gramm: ADJ,rus
+ stem: многочисленно.
+ paradigm: connect_adjectives-j
+ trans_ru: многочисленный
+
+-lexeme
+ lex: монолитной
+ gramm: ADJ,rus
+ stem: монолитно.
+ paradigm: connect_adjectives-j
+ trans_ru: монолитный
+
+-lexeme
+ lex: небрежной
+ gramm: ADJ,rus
+ stem: небрежно.
+ paradigm: connect_adjectives-j
+ trans_ru: небрежный
+
+-lexeme
+ lex: нежелательной
+ gramm: ADJ,rus
+ stem: нежелательно.
+ paradigm: connect_adjectives-j
+ trans_ru: нежелательный
+
+-lexeme
+ lex: необоснованной
+ gramm: ADJ,rus
+ stem: необоснованно.
+ paradigm: connect_adjectives-j
+ trans_ru: необоснованный
+
+-lexeme
+ lex: необычайной
+ gramm: ADJ,rus
+ stem: необычайно.
+ paradigm: connect_adjectives-j
+ trans_ru: необычайный
+
+-lexeme
+ lex: неполносредней
+ gramm: ADJ,rus
+ stem: неполносредне.
+ paradigm: connect_adjectives-j
+ trans_ru: неполносредный
+
+-lexeme
+ lex: непосильной
+ gramm: ADJ,rus
+ stem: непосильно.
+ paradigm: connect_adjectives-j
+ trans_ru: непосильный
+
+-lexeme
+ lex: несправедливой
+ gramm: ADJ,rus
+ stem: несправедливо.
+ paradigm: connect_adjectives-j
+ trans_ru: несправедливый
+
+-lexeme
+ lex: обоюдной
+ gramm: ADJ,rus
+ stem: обоюдно.
+ paradigm: connect_adjectives-j
+ trans_ru: обоюдный
+
+-lexeme
+ lex: овощеводческой
+ gramm: ADJ,rus
+ stem: овощеводческо.
+ paradigm: connect_adjectives-j
+ trans_ru: овощеводческий
+
+-lexeme
+ lex: окружающой
+ gramm: ADJ,rus
+ stem: окружающо.
+ paradigm: connect_adjectives-j
+ trans_ru: окружающий
+
+-lexeme
+ lex: организационно-массовой
+ gramm: ADJ,rus
+ stem: организационно-массово.
+ paradigm: connect_adjectives-j
+ trans_ru: организационно-массовый
+
+-lexeme
+ lex: организующой
+ gramm: ADJ,rus
+ stem: организующо.
+ paradigm: connect_adjectives-j
+ trans_ru: организующий
+
+-lexeme
+ lex: партийно-кандидатской
+ gramm: ADJ,rus
+ stem: партийно-кандидатско.
+ paradigm: connect_adjectives-j
+ trans_ru: партийно-кандидатский
+
+-lexeme
+ lex: партийно-советской
+ gramm: ADJ,rus
+ stem: партийно-советско.
+ paradigm: connect_adjectives-j
+ trans_ru: партийно-советский
+
+-lexeme
+ lex: переходящей
+ gramm: ADJ,rus
+ stem: переходяще.
+ paradigm: connect_adjectives-j
+ trans_ru: переходящий
+
+-lexeme
+ lex: пиналлык
+ gramm: ADJ,rus
+ stem: пиналлык.
+ paradigm: connect_adjectives
+ trans_ru: детский
+
+-lexeme
+ lex: победной
+ gramm: ADJ,rus
+ stem: победно.
+ paradigm: connect_adjectives-j
+ trans_ru: победный
+
+-lexeme
+ lex: подверженной
+ gramm: ADJ,rus
+ stem: подверженно.
+ paradigm: connect_adjectives-j
+ trans_ru: подверженный
+
+-lexeme
+ lex: политико-моральной
+ gramm: ADJ,rus
+ stem: политико-морально.
+ paradigm: connect_adjectives-j
+ trans_ru: политико-моральный
+
+-lexeme
+ lex: полновесной
+ gramm: ADJ,rus
+ stem: полновесно.
+ paradigm: connect_adjectives-j
+ trans_ru: полновесный
+
+-lexeme
+ lex: полусухой
+ gramm: ADJ,rus
+ stem: полусухо.
+ paradigm: connect_adjectives-j
+ trans_ru: полусухый
+
+-lexeme
+ lex: предпраздничной
+ gramm: ADJ,rus
+ stem: предпразднично.
+ paradigm: connect_adjectives-j
+ trans_ru: предпраздничный
+
+-lexeme
+ lex: предстоящой
+ gramm: ADJ,rus
+ stem: предстоящо.
+ paradigm: connect_adjectives-j
+ trans_ru: предстоящий
+
+-lexeme
+ lex: предупредительной
+ gramm: ADJ,rus
+ stem: предупредительно.
+ paradigm: connect_adjectives-j
+ trans_ru: предупредительный
+
+-lexeme
+ lex: процентлык
+ gramm: ADJ,rus
+ stem: процентлык.
+ paradigm: connect_adjectives
+ trans_ru: процентный
+
+-lexeme
+ lex: прошлой
+ gramm: ADJ,rus
+ stem: прошло.
+ paradigm: connect_adjectives-j
+ trans_ru: прошлый
+
+-lexeme
+ lex: пчеловодной
+ gramm: ADJ,rus
+ stem: пчеловодно.
+ paradigm: connect_adjectives-j
+ trans_ru: пчеловодный
+
+-lexeme
+ lex: разнообразной
+ gramm: ADJ,rus
+ stem: разнообразно.
+ paradigm: connect_adjectives-j
+ trans_ru: разнообразный
+
+-lexeme
+ lex: рудной
+ gramm: ADJ,rus
+ stem: рудно.
+ paradigm: connect_adjectives-j
+ trans_ru: рудный
+
+-lexeme
+ lex: семирядной
+ gramm: ADJ,rus
+ stem: семирядно.
+ paradigm: connect_adjectives-j
+ trans_ru: семирядный
+
+-lexeme
+ lex: скорбной
+ gramm: ADJ,rus
+ stem: скорбно.
+ paradigm: connect_adjectives-j
+ trans_ru: скорбный
+
+-lexeme
+ lex: скудной
+ gramm: ADJ,rus
+ stem: скудно.
+ paradigm: connect_adjectives-j
+ trans_ru: скудный
+
+-lexeme
+ lex: созидательной
+ gramm: ADJ,rus
+ stem: созидательно.
+ paradigm: connect_adjectives-j
+ trans_ru: созидательный
+
+-lexeme
+ lex: среднеазиатской
+ gramm: ADJ,rus
+ stem: среднеазиатско.
+ paradigm: connect_adjectives-j
+ trans_ru: среднеазиатский
+
+-lexeme
+ lex: средневековой
+ gramm: ADJ,rus
+ stem: средневеково.
+ paradigm: connect_adjectives-j
+ trans_ru: средневековый
+
+-lexeme
+ lex: среднесуточной
+ gramm: ADJ,rus
+ stem: среднесуточно.
+ paradigm: connect_adjectives-j
+ trans_ru: среднесуточный
+
+-lexeme
+ lex: стойкой
+ gramm: ADJ,rus
+ stem: стойко.
+ paradigm: connect_adjectives-j
+ trans_ru: стойкий
+
+-lexeme
+ lex: стремительной
+ gramm: ADJ,rus
+ stem: стремительно.
+ paradigm: connect_adjectives-j
+ trans_ru: стремительный
+
+-lexeme
+ lex: строжайшой
+ gramm: ADJ,rus
+ stem: строжайшо.
+ paradigm: connect_adjectives-j
+ trans_ru: строжайший
+
+-lexeme
+ lex: существующей
+ gramm: ADJ,rus
+ stem: существующе.
+ paradigm: connect_adjectives-j
+ trans_ru: существующий
+
+-lexeme
+ lex: счетоводной
+ gramm: ADJ,rus
+ stem: счетоводно.
+ paradigm: connect_adjectives-j
+ trans_ru: счетоводный
+
+-lexeme
+ lex: тарифной
+ gramm: ADJ,rus
+ stem: тарифно.
+ paradigm: connect_adjectives-j
+ trans_ru: тарифный
+
+-lexeme
+ lex: твердообложенной
+ gramm: ADJ,rus
+ stem: твердообложенно.
+ paradigm: connect_adjectives-j
+ trans_ru: твердообложенный
+
+-lexeme
+ lex: толэзьлык
+ gramm: ADJ,rus
+ stem: толэзьлык.
+ paradigm: connect_adjectives
+ trans_ru: на месяц
+
+-lexeme
+ lex: трудной
+ gramm: ADJ,rus
+ stem: трудно.
+ paradigm: connect_adjectives-j
+ trans_ru: трудный
+
+-lexeme
+ lex: убедительной
+ gramm: ADJ,rus
+ stem: убедительно.
+ paradigm: connect_adjectives-j
+ trans_ru: убедительный
+
+-lexeme
+ lex: увлекательной
+ gramm: ADJ,rus
+ stem: увлекательно.
+ paradigm: connect_adjectives-j
+ trans_ru: увлекательный
+
+-lexeme
+ lex: ураганной
+ gramm: ADJ,rus
+ stem: ураганно.
+ paradigm: connect_adjectives-j
+ trans_ru: ураганный
+
+-lexeme
+ lex: фекаль
+ gramm: ADJ,rus
+ stem: фекал.
+ paradigm: connect_adjectives-soft
+ trans_ru: фекальный
+
+-lexeme
+ lex: фракционной
+ gramm: ADJ,rus
+ stem: фракционно.
+ paradigm: connect_adjectives-j
+ trans_ru: фракционный
+
+-lexeme
+ lex: франко-советской
+ gramm: ADJ,rus
+ stem: франко-советско.
+ paradigm: connect_adjectives-j
+ trans_ru: франко-советский
+
+-lexeme
+ lex: хищнической
+ gramm: ADJ,rus
+ stem: хищническо.
+ paradigm: connect_adjectives-j
+ trans_ru: хищнический
+
+-lexeme
+ lex: хлебной
+ gramm: ADJ,rus
+ stem: хлебно.
+ paradigm: connect_adjectives-j
+ trans_ru: хлебный
+
+-lexeme
+ lex: хлебозакупочной
+ gramm: ADJ,rus
+ stem: хлебозакупочно.
+ paradigm: connect_adjectives-j
+ trans_ru: хлебозакупочный
+
+-lexeme
+ lex: целесообразной
+ gramm: ADJ,rus
+ stem: целесообразно.
+ paradigm: connect_adjectives-j
+ trans_ru: целесообразный
+
+-lexeme
+ lex: коньылык
+ gramm: ADJ
+ stem: коньылык.
+ paradigm: connect_adjectives
+ trans_ru: копеечный
+
+-lexeme
+ lex: нуналлык
+ gramm: ADJ
+ stem: нуналлык.
+ paradigm: connect_adjectives
+ trans_ru: дневной, -дневный
+

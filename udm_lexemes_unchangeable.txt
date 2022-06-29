@@ -8459,13 +8459,13 @@
  trans_ru: пожалуйста
 -lexeme
  lex: табыдӟа
- stem: табыдӟа.//табыдча.//табыдца.
+ stem: табыдӟа.//табыдча.//табытча.//табыдца.
  gramm: ADV
  paradigm: connect_adverbs
  trans_ru: такого размера, столько
 -lexeme
  lex: собыдӟа
- stem: собыдӟа.//собыдча.//собыдца.
+ stem: собыдӟа.//собыдча.//событча.//собыдца.
  gramm: ADV
  paradigm: connect_adverbs
  trans_ru: такого размера, столько
@@ -11375,6 +11375,13 @@
 -lexeme
  lex: копак
  stem: копак.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: полностью, совсем, всё
+
+-lexeme
+ lex: копакен
+ stem: копакен.
  gramm: ADV
  paradigm: connect_adverbs
  trans_ru: полностью, совсем, всё
@@ -14560,6 +14567,13 @@
  trans_ru: с какой стороны, с какого места
 
 -lexeme
+ lex: котькудласянь
+ gramm: ADV
+ stem: котькудласянь.
+ paradigm: connect_adverbs
+ trans_ru: со всех сторон
+
+-lexeme
  lex: кудмурда
  gramm: ADV
  stem: кудмурда.
@@ -15549,7 +15563,7 @@
 -lexeme
  lex: огнын
  gramm: ADV
- stem: огнын.
+ stem: огнын.//огнин.
  paradigm: connect_adverbs
  trans_ru: в одиночку, одиночкой
 
@@ -21040,3 +21054,102 @@
  stem: хронически.
  paradigm: connect_adverbs
  trans_ru: хронически
+
+-lexeme
+ lex: гладко
+ gramm: ADV,rus
+ stem: гладко.
+ paradigm: connect_adverbs
+ trans_ru: гладко
+
+-lexeme
+ lex: глупо
+ gramm: ADV,rus
+ stem: глупо.
+ paradigm: connect_adverbs
+ trans_ru: глупо
+
+-lexeme
+ lex: деятельно
+ gramm: ADV,rus
+ stem: деятельно.
+ paradigm: connect_adverbs
+ trans_ru: деятельно
+
+-lexeme
+ lex: классово
+ gramm: ADV,rus
+ stem: классово.
+ paradigm: connect_adverbs
+ trans_ru: классово
+
+-lexeme
+ lex: кровно
+ gramm: ADV,rus
+ stem: кровно.
+ paradigm: connect_adverbs
+ trans_ru: кровно
+
+-lexeme
+ lex: навстречу
+ gramm: ADV,rus
+ stem: навстречу.
+ paradigm: connect_adverbs
+ trans_ru: навстречу
+
+-lexeme
+ lex: нагло
+ gramm: ADV,rus
+ stem: нагло.
+ paradigm: connect_adverbs
+ trans_ru: нагло
+
+-lexeme
+ lex: планово
+ gramm: ADV,rus
+ stem: планово.
+ paradigm: connect_adverbs
+ trans_ru: планово
+
+-lexeme
+ lex: по-боевому
+ gramm: ADV,rus
+ stem: по-боевому.
+ paradigm: connect_adverbs
+ trans_ru: по-боевому
+
+-lexeme
+ lex: по-деловому
+ gramm: ADV,rus
+ stem: по-деловому.
+ paradigm: connect_adverbs
+ trans_ru: по-деловому
+
+-lexeme
+ lex: по-настоящему
+ gramm: ADV,rus
+ stem: по-настоящему.
+ paradigm: connect_adverbs
+ trans_ru: по-настоящему
+
+-lexeme
+ lex: социалистически
+ gramm: ADV,rus
+ stem: социалистически.
+ paradigm: connect_adverbs
+ trans_ru: социалистически
+
+-lexeme
+ lex: храбро
+ gramm: ADV,rus
+ stem: храбро.
+ paradigm: connect_adverbs
+ trans_ru: храбро
+
+-lexeme
+ lex: валласянь
+ gramm: ADV
+ stem: валласянь.
+ paradigm: connect_adverbs
+ trans_ru: сверху
+
