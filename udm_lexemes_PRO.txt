@@ -347,6 +347,13 @@
  trans_ru: какой
 
 -lexeme
+ lex: кыӵе
+ stem: кӧӵе.
+ gramm: ADJPRO,nonst
+ paradigm: connect_adjectives
+ trans_ru: какой
+
+-lexeme
  lex: кыӵеке
  stem: кыӵеке.//кыӵе.ке
  gramm: ADJPRO
@@ -368,9 +375,23 @@
  trans_ru: никакой
 
 -lexeme
+ lex: нокыӵе
+ stem: нокӧӵе.
+ gramm: ADJPRO,nonst
+ paradigm: connect_adjectives
+ trans_ru: никакой
+
+-lexeme
  lex: котькыӵе
  stem: котькыӵе.
  gramm: ADJPRO
+ paradigm: connect_adjectives
+ trans_ru: какой угодно
+
+-lexeme
+ lex: котькыӵе
+ stem: котькӧӵе.
+ gramm: ADJPRO,nonst
  paradigm: connect_adjectives
  trans_ru: какой угодно
 
