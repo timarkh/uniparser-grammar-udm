@@ -428,7 +428,7 @@
 
 -lexeme
  lex: авантюрист
- stem: авантюрист.
+ stem: авантюрист.//авантюрис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: авантюрист
@@ -470,7 +470,7 @@
 
 -lexeme
  lex: август
- stem: август.
+ stem: август.//авгус.
  gramm: N,rus,time_meas
  paradigm: Noun-num-consonant
  trans_ru: август
@@ -1630,7 +1630,7 @@
 
 -lexeme
  lex: активность
- stem: активност.
+ stem: активност.//активнос.
  gramm: N,rus
  paradigm: Noun-num-soft
  trans_ru: активность
@@ -1952,7 +1952,7 @@
 
 -lexeme
  lex: альпинист
- stem: альпинист.
+ stem: альпинист.//альпинис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: альпинист
@@ -2198,7 +2198,7 @@
 
 -lexeme
  lex: анархист
- stem: анархист.
+ stem: анархист.//анархис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: анархист
@@ -2339,14 +2339,14 @@
 
 -lexeme
  lex: антифашист
- stem: антифашист.
+ stem: антифашист.//антифашис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: антифашист
 
 -lexeme
  lex: антихрист
- stem: антихрист.
+ stem: антихрист.//антихрис.
  gramm: N,rus,supernat
  paradigm: Noun-num-consonant
  trans_ru: антихрист
@@ -2895,7 +2895,7 @@
 
 -lexeme
  lex: артиллерист
- stem: артиллерист.
+ stem: артиллерист.//артиллерис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: артиллерист
@@ -2909,7 +2909,7 @@
 
 -lexeme
  lex: артист
- stem: артист.
+ stem: артист.//артис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: артист
@@ -3126,7 +3126,7 @@
 
 -lexeme
  lex: асбест
- stem: асбест.
+ stem: асбест.//асбес.
  gramm: N,rus
  paradigm: Noun-num-consonant
  trans_ru: асбест
@@ -4296,7 +4296,7 @@
 
 -lexeme
  lex: балласт
- stem: балласт.
+ stem: балласт.//баллас.
  gramm: N,rus
  paradigm: Noun-num-consonant
  trans_ru: балласт
@@ -4823,7 +4823,7 @@
 
 -lexeme
  lex: батист
- stem: батист.
+ stem: батист.//батис.
  gramm: N,rus
  paradigm: Noun-num-consonant
  trans_ru: батист
@@ -6117,7 +6117,7 @@
 
 -lexeme
  lex: бомбоубежище
- stem: бомбоубежище.
+ stem: бомбоубежище.//бомбоубежища.//бомбоубежищо.
  gramm: N,rus
  paradigm: Noun-num-vowel
  trans_ru: бомбоубежище
@@ -6460,7 +6460,7 @@
 
 -lexeme
  lex: бронепоезд
- stem: бронепоезд.
+ stem: бронепоезд.//бронепоез.
  gramm: N,rus,transport
  paradigm: Noun-num-consonant
  trans_ru: бронепоезд
@@ -6778,7 +6778,7 @@
 
 -lexeme
  lex: букинист
- stem: букинист.
+ stem: букинист.//букинис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: букинист
@@ -8614,7 +8614,7 @@
 
 -lexeme
  lex: ведомость
- stem: ведомост.
+ stem: ведомост.//ведомос.
  gramm: N,rus
  paradigm: Noun-num-soft
  trans_ru: ведомость
@@ -8698,7 +8698,7 @@
 
 -lexeme
  lex: велосипедист
- stem: велосипедист.
+ stem: велосипедист.//велосипедис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: велосипедист
@@ -10081,7 +10081,7 @@
 
 -lexeme
  lex: волейболист
- stem: волейболист.
+ stem: волейболист.//волейболис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: волейболист
@@ -10109,7 +10109,7 @@
 
 -lexeme
  lex: волость
- stem: волост.
+ stem: волост.//волос.
  gramm: N,rus
  paradigm: Noun-num-soft
  trans_ru: волость
@@ -12698,7 +12698,7 @@
 
 -lexeme
  lex: гимназист
- stem: гимназист.
+ stem: гимназист.//гимназис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: гимназист
@@ -12846,7 +12846,7 @@
 
 -lexeme
  lex: гласность
- stem: гласност.
+ stem: гласност.//гласнос.
  gramm: N,rus
  paradigm: Noun-num-soft
  trans_ru: гласность
@@ -13309,7 +13309,7 @@
 
 -lexeme
  lex: горнист
- stem: горнист.
+ stem: горнист.//горнис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: горнист
@@ -13470,7 +13470,7 @@
 
 -lexeme
  lex: государственность
- stem: государственност.
+ stem: государственност.//государственнос.
  gramm: N,rus
  paradigm: Noun-num-soft
  trans_ru: государственность
@@ -13541,7 +13541,7 @@
 
 -lexeme
  lex: грамотность
- stem: грамотност.
+ stem: грамотност.//грамотнос.
  gramm: N,rus
  paradigm: Noun-num-soft
  trans_ru: грамотность
@@ -14894,7 +14894,7 @@
 
 -lexeme
  lex: декабрист
- stem: декабрист.
+ stem: декабрист.//декабрис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: декабрист
@@ -15519,7 +15519,7 @@
 
 -lexeme
  lex: доверенность
- stem: доверенност.
+ stem: доверенност.//довереннос.
  gramm: N,rus
  paradigm: Noun-num-soft
  trans_ru: доверенность
@@ -17497,7 +17497,7 @@
 
 -lexeme
  lex: журналист
- stem: журналист.
+ stem: журналист.//журналис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: журналист
@@ -17749,7 +17749,7 @@
 
 -lexeme
  lex: закономерность
- stem: закономерност.
+ stem: закономерност.//закономернос.
  gramm: N,rus
  paradigm: Noun-num-soft
  trans_ru: закономерность
@@ -18675,7 +18675,7 @@
 
 -lexeme
  lex: идеалист
- stem: идеалист.
+ stem: идеалист.//идеалис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: идеалист
@@ -19095,7 +19095,7 @@
 
 -lexeme
  lex: империалист
- stem: империалист.
+ stem: империалист.//империалис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: империалист
@@ -21948,7 +21948,7 @@
 
 -lexeme
  lex: капиталист
- stem: капиталист.//капиталист.
+ stem: капиталист.//капиталис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: капиталист
@@ -23991,7 +23991,7 @@
 
 -lexeme
  lex: кинопромышленность
- stem: кинопромышленност.
+ stem: кинопромышленност.//кинопромышленнос.
  gramm: N,rus
  paradigm: Noun-num-soft
  trans_ru: кинопромышленность
@@ -24314,7 +24314,7 @@
 
 -lexeme
  lex: кислотность
- stem: кислотност.
+ stem: кислотност.//кислотнос.
  gramm: N,rus
  paradigm: Noun-num-soft
  trans_ru: кислотность
@@ -25694,7 +25694,7 @@
 
 -lexeme
  lex: коммунист
- stem: коммунист.
+ stem: коммунист.//коммунис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: коммунист
@@ -26051,7 +26051,7 @@
 
 -lexeme
  lex: контекст
- stem: контекст.
+ stem: контекст.//контекс.
  gramm: N,rus
  paradigm: Noun-num-consonant
  trans_ru: контекст
@@ -27202,7 +27202,7 @@
 
 -lexeme
  lex: крепость
- stem: крепост.
+ stem: крепост.//крепос.
  gramm: N,rus
  paradigm: Noun-num-soft
  trans_ru: крепость
@@ -27216,7 +27216,7 @@
 
 -lexeme
  lex: крестьян
- stem: крестьян.//кресьян.
+ stem: крестьян.//кресьян.//кресян.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: крестьянин
@@ -32120,7 +32120,7 @@
 
 -lexeme
  lex: лейборист
- stem: лейборист.
+ stem: лейборист.//лейборис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: лейборист
@@ -32645,7 +32645,7 @@
 
 -lexeme
  lex: лингвист
- stem: лингвист.
+ stem: лингвист.//лингвис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: лингвист
@@ -32897,7 +32897,7 @@
 
 -lexeme
  lex: личность
- stem: личност.
+ stem: личност.//личнос.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-soft
  trans_ru: личность
@@ -33045,7 +33045,7 @@
 
 -lexeme
  lex: лопасть
- stem: лопаст.
+ stem: лопаст.//лопас.
  gramm: N,rus
  paradigm: Noun-num-soft
  trans_ru: лопасть
@@ -34558,7 +34558,7 @@
 
 -lexeme
  lex: мангуст
- stem: мангуст.
+ stem: мангуст.//мангус.
  gramm: N,rus,anim
  paradigm: Noun-num-consonant
  trans_ru: мангуст, мангуста
@@ -34643,7 +34643,7 @@
 
 -lexeme
  lex: манифест
- stem: манифест.
+ stem: манифест.//манифес.
  gramm: N,rus
  paradigm: Noun-num-consonant
  trans_ru: манифест
@@ -34832,7 +34832,7 @@
 
 -lexeme
  lex: марксист
- stem: марксист.
+ stem: марксист.//марксис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: марксист
@@ -35042,7 +35042,7 @@
 
 -lexeme
  lex: материалист
- stem: материалист.
+ stem: материалист.//материалис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: материалист
@@ -35147,7 +35147,7 @@
 
 -lexeme
  lex: машинист
- stem: машинист.
+ stem: машинист.//машинис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: машинист
@@ -35224,7 +35224,7 @@
 
 -lexeme
  lex: медалист
- stem: медалист.
+ stem: медалист.//медалис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: медалист
@@ -35784,7 +35784,7 @@
 
 -lexeme
  lex: методист
- stem: методист.
+ stem: методист.//методис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: методист
@@ -36421,7 +36421,7 @@
 
 -lexeme
  lex: моделист
- stem: моделист.
+ stem: моделист.//моделис.
  gramm: N,rus
  paradigm: Noun-num-consonant
  trans_ru: моделист
@@ -36631,7 +36631,7 @@
 
 -lexeme
  lex: монархист
- stem: монархист.
+ stem: монархист.//монархис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: монархист
@@ -36702,7 +36702,7 @@
 
 -lexeme
  lex: монополист
- stem: монополист.
+ stem: монополист.//монополис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: монополист
@@ -36919,7 +36919,7 @@
 
 -lexeme
  lex: моторист
- stem: моторист.
+ stem: моторист.//моторис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: моторист
@@ -36947,7 +36947,7 @@
 
 -lexeme
  lex: мотоциклист
- stem: мотоциклист.
+ stem: мотоциклист.//мотоциклис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: мотоциклист
@@ -36975,7 +36975,7 @@
 
 -lexeme
  lex: мощность
- stem: мощност.
+ stem: мощност.//мощнос.
  gramm: N,rus
  paradigm: Noun-num-soft
  trans_ru: мощность
@@ -38607,7 +38607,7 @@
 
 -lexeme
  lex: народность
- stem: народност.
+ stem: народност.//народнос.
  gramm: N,rus
  paradigm: Noun-num-soft
  trans_ru: народность
@@ -38768,21 +38768,21 @@
 
 -lexeme
  lex: националист
- stem: националист.
+ stem: националист.//националис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: националист
 
 -lexeme
  lex: национальность
- stem: национальност.
+ stem: национальност.//национальнос.
  gramm: N,rus
  paradigm: Noun-num-soft
  trans_ru: национальность
 
 -lexeme
  lex: нацист
- stem: нацист.
+ stem: нацист.//нацис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: нацист
@@ -38880,7 +38880,7 @@
 
 -lexeme
  lex: невесомость
- stem: невесомост.
+ stem: невесомост.//невесомос.
  gramm: N,rus
  paradigm: Noun-num-soft
  trans_ru: невесомость
@@ -38985,7 +38985,7 @@
 
 -lexeme
  lex: неприкосновенность
- stem: неприкосновенност.
+ stem: неприкосновенност.//неприкосновеннос.
  gramm: N,rus
  paradigm: Noun-num-soft
  trans_ru: неприкосновенность
@@ -39034,14 +39034,14 @@
 
 -lexeme
  lex: нефтепромышленность
- stem: нефтепромышленност.
+ stem: нефтепромышленност.//нефтепромышленнос.
  gramm: N,rus
  paradigm: Noun-num-soft
  trans_ru: нефтепромышленность
 
 -lexeme
  lex: нефтехранилище
- stem: нефтехранилище.
+ stem: нефтехранилище.//нефтехранилища.//нефтехранилищо.
  gramm: N,rus
  paradigm: Noun-num-vowel
  trans_ru: нефтехранилище
@@ -40379,7 +40379,7 @@
 
 -lexeme
  lex: обороноспособность
- stem: обороноспособност.
+ stem: обороноспособност.//обороноспособнос.
  gramm: N,rus
  paradigm: Noun-num-soft
  trans_ru: обороноспособность
@@ -40519,7 +40519,7 @@
 
 -lexeme
  lex: общность
- stem: общност.
+ stem: общност.//общнос.
  gramm: N,rus
  paradigm: Noun-num-soft
  trans_ru: общность
@@ -40603,7 +40603,7 @@
 
 -lexeme
  lex: овощехранилище
- stem: овощехранилище.
+ stem: овощехранилище.//овощехранилища.//овощехранилищо.
  gramm: N,rus
  paradigm: Noun-num-vowel
  trans_ru: овощехранилище
@@ -41003,7 +41003,7 @@
 
 -lexeme
  lex: окружность
- stem: окружност.
+ stem: окружност.//окружнос.
  gramm: N,rus
  paradigm: Noun-num-soft
  trans_ru: окружность
@@ -41285,7 +41285,7 @@
 
 -lexeme
  lex: оппортунист
- stem: оппортунист.
+ stem: оппортунист.//оппортунис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: оппортунист
@@ -41348,7 +41348,7 @@
 
 -lexeme
  lex: оптимист
- stem: оптимист.
+ stem: оптимист.//оптимис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: оптимист
@@ -41936,7 +41936,7 @@
 
 -lexeme
  lex: очеркист
- stem: очеркист.
+ stem: очеркист.//очеркис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: очеркист
@@ -42617,7 +42617,7 @@
 
 -lexeme
  lex: парашютист
- stem: парашютист.
+ stem: парашютист.//парашютис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: парашютист
@@ -42841,7 +42841,7 @@
 
 -lexeme
  lex: партийность
- stem: партийност.
+ stem: партийност.//партийнос.
  gramm: N,rus
  paradigm: Noun-num-soft
  trans_ru: партийность
@@ -42925,7 +42925,7 @@
 
 -lexeme
  lex: партсъезд
- stem: партсъезд.
+ stem: партсъезд.//партсъез.
  gramm: N,rus
  paradigm: Noun-num-consonant
  trans_ru: партсъезд
@@ -43030,7 +43030,7 @@
 
 -lexeme
  lex: паспортист
- stem: паспортист.
+ stem: паспортист.//паспортис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: паспортист
@@ -43198,7 +43198,7 @@
 
 -lexeme
  lex: пацифист
- stem: пацифист.
+ stem: пацифист.//пацифис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: пацифист
@@ -43331,7 +43331,7 @@
 
 -lexeme
  lex: педучилище
- stem: педучилище.
+ stem: педучилище.//педучилища.//педучилищо.
  gramm: N,rus
  paradigm: Noun-num-vowel
  trans_ru: педучилище
@@ -43387,7 +43387,7 @@
 
 -lexeme
  lex: пейзажист
- stem: пейзажист.
+ stem: пейзажист.//пейзажис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: пейзажист
@@ -43724,7 +43724,7 @@
 
 -lexeme
  lex: переезд
- stem: переезд.
+ stem: переезд.//переез.
  gramm: N,rus
  paradigm: Noun-num-consonant
  trans_ru: переезд
@@ -44032,7 +44032,7 @@
 
 -lexeme
  lex: пессимист
- stem: пессимист.
+ stem: пессимист.//пессимис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: пессимист
@@ -44256,7 +44256,7 @@
 
 -lexeme
  lex: пианист
- stem: пианист.
+ stem: пианист.//пианис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: пианист
@@ -44658,7 +44658,7 @@
 
 -lexeme
  lex: письменность
- stem: письменност.
+ stem: письменност.//письменнос.
  gramm: N,rus
  paradigm: Noun-num-soft
  trans_ru: письменность
@@ -44917,7 +44917,7 @@
 
 -lexeme
  lex: планерист
- stem: планерист.
+ stem: планерист.//планерис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: планерист
@@ -44973,7 +44973,7 @@
 
 -lexeme
  lex: планомерность
- stem: планомерност.
+ stem: планомерност.//планомернос.
  gramm: N,rus
  paradigm: Noun-num-soft
  trans_ru: планомерность
@@ -45253,7 +45253,7 @@
 
 -lexeme
  lex: плотность
- stem: плотност.
+ stem: плотност.//плотнос.
  gramm: N,rus
  paradigm: Noun-num-soft
  trans_ru: плотность
@@ -45323,7 +45323,7 @@
 
 -lexeme
  lex: повесть
- stem: повест.
+ stem: повест.//повес.
  gramm: N,rus
  paradigm: Noun-num-soft
  trans_ru: повесть
@@ -45519,7 +45519,7 @@
 
 -lexeme
  lex: подлежащей
- stem: подлежаще.
+ stem: подлежаще.//подлежаща.//подлежащо.
  gramm: N,rus
  paradigm: Noun-num-j
  trans_ru: подлежащее
@@ -45722,7 +45722,7 @@
 
 -lexeme
  lex: подъезд
- stem: подъезд.
+ stem: подъезд.//подъез.
  gramm: N,rus
  paradigm: Noun-num-consonant
  trans_ru: подъезд
@@ -45757,7 +45757,7 @@
 
 -lexeme
  lex: поезд
- stem: поезд.
+ stem: поезд.//поез.
  gramm: N,rus,transport
  paradigm: Noun-num-consonant
  trans_ru: поезд
@@ -45799,7 +45799,7 @@
 
 -lexeme
  lex: позитивист
- stem: позитивист.
+ stem: позитивист.//позитивис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: позитивист
@@ -45939,7 +45939,7 @@
 
 -lexeme
  lex: полиграфист
- stem: полиграфист.
+ stem: полиграфист.//полиграфис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: полиграфист
@@ -46226,7 +46226,7 @@
 
 -lexeme
  lex: полчище
- stem: полчище.
+ stem: полчище.//полчища.//полчищо.
  gramm: N,rus
  paradigm: Noun-num-vowel
  trans_ru: полчище
@@ -46806,6 +46806,14 @@
  trans_ru: правление
 
 -lexeme
+ lex: правление
+ stem: правленн.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ paradigm: Noun-num-soft
+ trans_ru: правление
+
+-lexeme
  lex: правонарушение
  stem: правонарушени.
  gramm: N,rus
@@ -47101,7 +47109,7 @@
 
 -lexeme
  lex: преступность
- stem: преступност.
+ stem: преступност.//преступнос.
  gramm: N,rus
  paradigm: Noun-num-soft
  trans_ru: преступность
@@ -47297,7 +47305,7 @@
 
 -lexeme
  lex: принципиальность
- stem: принципиальност.
+ stem: принципиальност.//принципиальнос.
  gramm: N,rus
  paradigm: Noun-num-soft
  trans_ru: принципиальность
@@ -47542,14 +47550,14 @@
 
 -lexeme
  lex: продуктивность
- stem: продуктивност.
+ stem: продуктивност.//продуктивнос.
  gramm: N,rus
  paradigm: Noun-num-soft
  trans_ru: продуктивность
 
 -lexeme
  lex: проезд
- stem: проезд.
+ stem: проезд.//проез.
  gramm: N,rus
  paradigm: Noun-num-consonant
  trans_ru: проезд
@@ -47696,7 +47704,7 @@
 
 -lexeme
  lex: промышленность
- stem: промышленност.
+ stem: промышленност.//промышленнос.
  gramm: N,rus
  paradigm: Noun-num-soft
  trans_ru: промышленность
@@ -47710,7 +47718,7 @@
 
 -lexeme
  lex: пропагандист
- stem: пропагандист.
+ stem: пропагандист.//пропагандис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: пропагандист
@@ -47962,7 +47970,7 @@
 
 -lexeme
  lex: профтехучилище
- stem: профтехучилище.
+ stem: профтехучилище.//профтехучилища.//профтехучилищо.
  gramm: N,rus
  paradigm: Noun-num-vowel
  trans_ru: профтехучилище
@@ -48088,7 +48096,7 @@
 
 -lexeme
  lex: публицист
- stem: публицист.
+ stem: публицист.//публицис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: публицист
@@ -49957,7 +49965,7 @@
 
 -lexeme
  lex: радиоактивность
- stem: радиоактивност.
+ stem: радиоактивност.//радиоактивнос.
  gramm: N,rus
  paradigm: Noun-num-soft
  trans_ru: радиоактивность
@@ -50195,7 +50203,7 @@
 
 -lexeme
  lex: радист
- stem: радист.
+ stem: радист.//радис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: радист
@@ -50328,7 +50336,7 @@
 
 -lexeme
  lex: разъезд
- stem: разъезд.
+ stem: разъезд.//разъез.
  gramm: N,rus
  paradigm: Noun-num-consonant
  trans_ru: разъезд
@@ -50713,7 +50721,7 @@
 
 -lexeme
  lex: реалист
- stem: реалист.
+ stem: реалист.//реалис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: реалист
@@ -50741,7 +50749,7 @@
 
 -lexeme
  lex: ревизионист
- stem: ревизионист.
+ stem: ревизионист.//ревизионис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: ревизионист
@@ -51084,7 +51092,7 @@
 
 -lexeme
  lex: рентабельность
- stem: рентабельност.
+ stem: рентабельност.//рентабельнос.
  gramm: N,rus
  paradigm: Noun-num-soft
  trans_ru: рентабельность
@@ -52093,7 +52101,7 @@
 
 -lexeme
  lex: самодеятельность
- stem: самодеятельност.
+ stem: самодеятельност.//самодеятельнос.
  gramm: N,rus
  paradigm: Noun-num-soft
  trans_ru: самодеятельность
@@ -52303,7 +52311,7 @@
 
 -lexeme
  lex: санчасть
- stem: санчаст.
+ stem: санчаст.//санчас.
  gramm: N,rus
  paradigm: Noun-num-soft
  trans_ru: санчасть
@@ -52683,7 +52691,7 @@
 
 -lexeme
  lex: связист
- stem: связист.
+ stem: связист.//связис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: связист
@@ -54129,7 +54137,7 @@
 
 -lexeme
  lex: скорость
- stem: скорост.
+ stem: скорост.//скорос.
  gramm: N,rus
  paradigm: Noun-num-soft
  trans_ru: скорость
@@ -54439,7 +54447,7 @@
 
 -lexeme
  lex: собственность
- stem: собственност.
+ stem: собственност.//собственнос.
  gramm: N,rus
  paradigm: Noun-num-soft
  trans_ru: собственность
@@ -54523,7 +54531,7 @@
 
 -lexeme
  lex: сознательность
- stem: сознательност.
+ stem: сознательност.//сознательнос.
  gramm: N,rus
  paradigm: Noun-num-soft
  trans_ru: сознательность
@@ -54670,7 +54678,7 @@
 
 -lexeme
  lex: специалист
- stem: специалист.
+ stem: специалист.//специалис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: специалист
@@ -55672,7 +55680,7 @@
 
 -lexeme
  lex: съезд
- stem: съезд.
+ stem: съезд.//съез.
  gramm: N,rus
  paradigm: Noun-num-consonant
  trans_ru: съезд
@@ -57166,7 +57174,7 @@
 
 -lexeme
  lex: танкист
- stem: танкист.
+ stem: танкист.//танкис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: танкист
@@ -57404,7 +57412,7 @@
 
 -lexeme
  lex: телеграфист
- stem: телеграфист.
+ stem: телеграфист.//телеграфис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: телеграфист
@@ -57460,7 +57468,7 @@
 
 -lexeme
  lex: телефонист
- stem: телефонист.
+ stem: телефонист.//телефонис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: телефонист
@@ -57677,7 +57685,7 @@
 
 -lexeme
  lex: террорист
- stem: террорист.
+ stem: террорист.//террорис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: террорист
@@ -57915,7 +57923,7 @@
 
 -lexeme
  lex: товарность
- stem: товарност.
+ stem: товарност.//товарнос.
  gramm: N,rus
  paradigm: Noun-num-soft
  trans_ru: товарность
@@ -58420,7 +58428,7 @@
 
 -lexeme
  lex: тракторист
- stem: тракторист.
+ stem: тракторист.//тракторис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: тракторист
@@ -59296,7 +59304,7 @@
 
 -lexeme
  lex: турист
- stem: турист.
+ stem: турист.//турис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: турист
@@ -60841,6 +60849,14 @@
  trans_ru: удостоверение
 
 -lexeme
+ lex: удостоверение
+ stem: удостоверенн.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ paradigm: Noun-num-soft
+ trans_ru: удостоверение
+
+-lexeme
  lex: удыс
  stem: удыс.
  gramm: N
@@ -62247,7 +62263,7 @@
 
 -lexeme
  lex: успеваемость
- stem: успеваемост.
+ stem: успеваемост.//успеваемос.
  gramm: N,rus
  paradigm: Noun-num-soft
  trans_ru: успеваемость
@@ -62429,7 +62445,7 @@
 
 -lexeme
  lex: училище
- stem: училище.
+ stem: училище.//училища.//училищо.
  gramm: N,rus
  paradigm: Noun-num-vowel
  trans_ru: училище
@@ -62495,6 +62511,14 @@
  stem: учреждени.
  gramm: N,rus
  paradigm: Noun-num-ije
+ trans_ru: учреждение
+
+-lexeme
+ lex: учреждение
+ stem: учрежденн.
+ gramm: N,rus
+ paradigm: Noun-num-ija
+ paradigm: Noun-num-soft
  trans_ru: учреждение
 
 -lexeme
@@ -62779,7 +62803,7 @@
 
 -lexeme
  lex: фашист
- stem: фашист.
+ stem: фашист.//фашис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: фашист
@@ -63263,7 +63287,7 @@
 
 -lexeme
  lex: формалист
- stem: формалист.
+ stem: формалист.//формалис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: формалист
@@ -63277,7 +63301,7 @@
 
 -lexeme
  lex: формальность
- stem: формальност.
+ stem: формальност.//формальнос.
  gramm: N,rus
  paradigm: Noun-num-soft
  trans_ru: формальность
@@ -63501,7 +63525,7 @@
 
 -lexeme
  lex: футболист
- stem: футболист.
+ stem: футболист.//футболис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: футболист
@@ -63879,7 +63903,7 @@
 
 -lexeme
  lex: хорист
- stem: хорист.
+ stem: хорист.//хорис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: хорист
@@ -64734,7 +64758,7 @@
 
 -lexeme
  lex: часть
- stem: част.
+ stem: част.//час.
  gramm: N,rus
  paradigm: Noun-num-soft
  trans_ru: часть
@@ -64896,7 +64920,7 @@
 
 -lexeme
  lex: чекист
- stem: чекист.
+ stem: чекист.//чекис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: чекист
@@ -66963,7 +66987,7 @@
 
 -lexeme
  lex: шахматист
- stem: шахматист.
+ stem: шахматист.//шахматис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: шахматист
@@ -67524,7 +67548,7 @@
 
 -lexeme
  lex: шовинист
- stem: шовинист.
+ stem: шовинист.//шовинис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: шовинист
@@ -67981,7 +68005,7 @@
 
 -lexeme
  lex: штангист
- stem: штангист.
+ stem: штангист.//штангис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: штангист
@@ -69388,7 +69412,7 @@
 
 -lexeme
  lex: эгоист
- stem: эгоист.
+ stem: эгоист.//эгоис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: эгоист
@@ -69451,7 +69475,7 @@
 
 -lexeme
  lex: эквилибрист
- stem: эквилибрист.
+ stem: эквилибрист.//эквилибрис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: эквилибрист
@@ -69528,7 +69552,7 @@
 
 -lexeme
  lex: экономист
- stem: экономист.
+ stem: экономист.//экономис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: экономист
@@ -69969,7 +69993,7 @@
 
 -lexeme
  lex: электропоезд
- stem: электропоезд.
+ stem: электропоезд.//электропоез.
  gramm: N,rus,transport
  paradigm: Noun-num-consonant
  trans_ru: электропоезд
@@ -70431,7 +70455,7 @@
 
 -lexeme
  lex: энтузиаст
- stem: энтузиаст.
+ stem: энтузиаст.//энтузиас.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: энтузиаст
@@ -70445,7 +70469,7 @@
 
 -lexeme
  lex: энциклопедист
- stem: энциклопедист.
+ stem: энциклопедист.//энциклопедис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: энциклопедист
@@ -71026,7 +71050,7 @@
 
 -lexeme
  lex: эффективность
- stem: эффективност.
+ stem: эффективност.//эффективнос.
  gramm: N,rus
  paradigm: Noun-num-soft
  trans_ru: эффективность
@@ -71278,7 +71302,7 @@
 
 -lexeme
  lex: юморист
- stem: юморист.
+ stem: юморист.//юморис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: юморист
@@ -71404,7 +71428,7 @@
 
 -lexeme
  lex: юрист
- stem: юрист.
+ stem: юрист.//юрис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: юрист
@@ -74417,7 +74441,7 @@
  trans_ru: автокредит
 -lexeme
  lex: автомобилист
- stem: автомобилист.
+ stem: автомобилист.//автомобилис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: автомобилист
@@ -74585,7 +74609,7 @@
  trans_ru: айшон (головной убор)
 -lexeme
  lex: аквалангист
- stem: аквалангист.
+ stem: аквалангист.//аквалангис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: аквалангист
@@ -74894,7 +74918,7 @@
  trans_ru: археолог
 -lexeme
  lex: архивист
- stem: архивист.
+ stem: архивист.//архивис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: архивист
@@ -74978,7 +75002,7 @@
  trans_ru: аська
 -lexeme
  lex: атеист
- stem: атеист.
+ stem: атеист.//атеис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: атеист
@@ -75140,7 +75164,7 @@
  trans_ru: баск
 -lexeme
  lex: баскетболист
- stem: баскетболист.
+ stem: баскетболист.//баскетболис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: баскетболист
@@ -75176,7 +75200,7 @@
  trans_ru: батюшка
 -lexeme
  lex: баянист
- stem: баянист.
+ stem: баянист.//баянис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: баянист
@@ -75260,7 +75284,7 @@
  trans_ru: биатлон
 -lexeme
  lex: биатлонист
- stem: биатлонист.
+ stem: биатлонист.//биатлонис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: биатлонист
@@ -75308,7 +75332,7 @@
  trans_ru: биотуалет
 -lexeme
  lex: битумохранилище
- stem: битумохранилище.
+ stem: битумохранилище.//битумохранилища.//битумохранилищо.
  gramm: N,rus
  paradigm: Noun-num-vowel
  trans_ru: битумохранилище
@@ -75470,7 +75494,7 @@
  trans_ru: бубен
 -lexeme
  lex: буддист
- stem: буддист.
+ stem: буддист.//буддис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: буддист
@@ -75494,7 +75518,7 @@
  trans_ru: булочная
 -lexeme
  lex: бульдозерист
- stem: бульдозерист.
+ stem: бульдозерист.//бульдозерис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: бульдозерист
@@ -75884,7 +75908,7 @@
  trans_ru: виза
 -lexeme
  lex: визажист
- stem: визажист.
+ stem: визажист.//визажис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: визажист
@@ -76017,7 +76041,7 @@
  trans_ru: водка
 -lexeme
  lex: водохранилище
- stem: водохранилище.
+ stem: водохранилище.//водохранилища.//водохранилищо.
  gramm: N,rus
  paradigm: Noun-num-vowel
  trans_ru: водохранилище
@@ -76059,7 +76083,7 @@
  trans_ru: возжи
 -lexeme
  lex: возраст
- stem: возраст.
+ stem: возраст.//возрас.
  gramm: N,rus
  paradigm: Noun-num-consonant
  trans_ru: возраст
@@ -76077,7 +76101,7 @@
  trans_ru: место, где что-то держат
 -lexeme
  lex: вокалист
- stem: вокалист.
+ stem: вокалист.//вокалис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: вокалист
@@ -76318,7 +76342,7 @@
  trans_ru: гарантия
 -lexeme
  lex: гармонист
- stem: гармонист.
+ stem: гармонист.//гармонис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: гармонист
@@ -76354,7 +76378,7 @@
  trans_ru: генштаб
 -lexeme
  lex: геодезист
- stem: геодезист.
+ stem: геодезист.//геодезис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: геодезист
@@ -76438,7 +76462,7 @@
  trans_ru: гильдия
 -lexeme
  lex: гимнаст
- stem: гимнаст.
+ stem: гимнаст.//гимнас.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: гимнаст
@@ -76474,7 +76498,7 @@
  trans_ru: гирлянда
 -lexeme
  lex: гитарист
- stem: гитарист.
+ stem: гитарист.//гитарис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: гитарист
@@ -76558,7 +76582,7 @@
  trans_ru: горняк
 -lexeme
  lex: городище
- stem: городище.
+ stem: городище.//городища.//городищо.
  gramm: N,rus
  paradigm: Noun-num-vowel
  trans_ru: городище
@@ -76906,7 +76930,7 @@
  trans_ru: джинсы
 -lexeme
  lex: дзюдоист
- stem: дзюдоист.
+ stem: дзюдоист.//дзюдоис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: дзюдоист
@@ -77880,7 +77904,7 @@
  trans_ru: интернат
 -lexeme
  lex: интернационалист
- stem: интернационалист.
+ stem: интернационалист.//интернационалис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: интернационалист
@@ -77916,7 +77940,7 @@
  trans_ru: инфаркт
 -lexeme
  lex: инфекционист
- stem: инфекционист.
+ stem: инфекционист.//инфекционис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: инфекционист
@@ -78187,7 +78211,7 @@
  trans_ru: караоке
 -lexeme
  lex: каратист
- stem: каратист.
+ stem: каратист.//каратис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: каратист
@@ -78681,7 +78705,7 @@
  trans_ru: компонент
 -lexeme
  lex: компост
- stem: компост.
+ stem: компост.//компос.
  gramm: N,rus
  paradigm: Noun-num-consonant
  trans_ru: компост
@@ -79053,7 +79077,7 @@
  trans_ru: криминал
 -lexeme
  lex: криминалист
- stem: криминалист.
+ stem: криминалист.//криминалис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: криминалист
@@ -79185,7 +79209,7 @@
  trans_ru: культпросвет
 -lexeme
  lex: культпросветучилище
- stem: культпросветучилище.
+ stem: культпросветучилище.//культпросветучилища.//культпросветучилищо.
  gramm: N,rus
  paradigm: Noun-num-vowel
  trans_ru: культпросветучилище
@@ -79263,7 +79287,7 @@
  trans_ru: купюра
 -lexeme
  lex: кураист
- stem: кураист.
+ stem: кураист.//кураис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: кураист
@@ -79911,7 +79935,7 @@
  trans_ru: массаж
 -lexeme
  lex: массажист
- stem: массажист.
+ stem: массажист.//массажис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: массажист
@@ -79995,13 +80019,13 @@
  trans_ru: медколледж
 -lexeme
  lex: медсанчасть
- stem: медсанчаст.
+ stem: медсанчаст.//медсанчас.
  gramm: N,rus
  paradigm: Noun-num-soft
  trans_ru: медсанчасть
 -lexeme
  lex: медучилище
- stem: медучилище.
+ stem: медучилище.//медучилища.//медучилищо.
  gramm: N,rus
  paradigm: Noun-num-vowel
  trans_ru: медучилище
@@ -80085,7 +80109,7 @@
  trans_ru: день рождения
 -lexeme
  lex: металлист
- stem: металлист.
+ stem: металлист.//металлис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: металлист
@@ -80637,7 +80661,7 @@
  trans_ru: наркополицейский
 -lexeme
  lex: наркопост
- stem: наркопост.
+ stem: наркопост.//наркопос.
  gramm: N,rus
  paradigm: Noun-num-consonant
  trans_ru: наркопост
@@ -80727,7 +80751,7 @@
  trans_ru: ненец
 -lexeme
  lex: неофашист
- stem: неофашист.
+ stem: неофашист.//неофашис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: неофашист
@@ -80956,14 +80980,14 @@
  trans_ru: обект
 -lexeme
  lex: область
- stem: област.
+ stem: област.//облас.
  gramm: N,rus
  paradigm: Noun-num-soft
  trans_ru: область
 -lexeme
  lex: область
  stem: обласьт.
- gramm: N,rus,missp
+ gramm: N,rus,nonst
  paradigm: Noun-num-consonant
  trans_ru: обласьт
 -lexeme
@@ -81094,7 +81118,7 @@
  trans_ru: подкидыш
 -lexeme
  lex: окулист
- stem: окулист.
+ stem: окулист.//окулис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: окулист
@@ -81612,7 +81636,7 @@
  trans_ru: пеноблок
 -lexeme
  lex: пенопласт
- stem: пенопласт.
+ stem: пенопласт.//пеноплас.
  gramm: N,rus
  paradigm: Noun-num-consonant
  trans_ru: пенопласт
@@ -82040,7 +82064,7 @@
  trans_ru: полиатлон
 -lexeme
  lex: полиатлонист
- stem: полиатлонист.
+ stem: полиатлонист.//полиатлонис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: полиатлонист
@@ -82467,7 +82491,7 @@
  trans_ru: прогимназия
 -lexeme
  lex: программист
- stem: программист.
+ stem: программист.//программис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: программист
@@ -82557,7 +82581,7 @@
  trans_ru: промоутер
 -lexeme
  lex: промышленость
- stem: промышленост.
+ stem: промышленост.//промышленос.
  gramm: N,rus
  paradigm: Noun-num-soft
  trans_ru: промышленость
@@ -82605,7 +82629,7 @@
  trans_ru: профсоюз
 -lexeme
  lex: профучилище
- stem: профучилище.
+ stem: профучилище.//профучилища.//профучилищо.
  gramm: N,rus
  paradigm: Noun-num-vowel
  trans_ru: профучилище
@@ -82799,7 +82823,7 @@
  trans_ru: радиожурнал
 -lexeme
  lex: радиожурналист
- stem: радиожурналист.
+ stem: радиожурналист.//радиожурналис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: радиожурналист
@@ -83856,7 +83880,7 @@
  trans_ru: сноуборд
 -lexeme
  lex: сноубордист
- stem: сноубордист.
+ stem: сноубордист.//сноубордис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: сноубордист
@@ -83910,7 +83934,7 @@
  trans_ru: рекрут
 -lexeme
  lex: солист
- stem: солист.
+ stem: солист.//солис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: солист
@@ -84078,7 +84102,7 @@
  trans_ru: специализация
 -lexeme
  lex: специальность
- stem: специальност.
+ stem: специальност.//специальнос.
  gramm: N,rus
  paradigm: Noun-num-soft
  trans_ru: специальность
@@ -84402,7 +84426,7 @@
  trans_ru: стереотип
 -lexeme
  lex: стилист
- stem: стилист.
+ stem: стилист.//стилис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: стилист
@@ -84648,7 +84672,7 @@
  trans_ru: сценарий
 -lexeme
  lex: сценарист
- stem: сценарист.
+ stem: сценарист.//сценарис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: сценарист
@@ -84810,13 +84834,13 @@
  trans_ru: такси
 -lexeme
  lex: таксидермист
- stem: таксидермист.
+ stem: таксидермист.//таксидермис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: таксидермист
 -lexeme
  lex: таксист
- stem: таксист.
+ stem: таксист.//таксис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: таксист
@@ -84888,7 +84912,7 @@
  trans_ru: театрал
 -lexeme
  lex: текст
- stem: текст.
+ stem: текст.//текс.
  gramm: N,rus
  paradigm: Noun-num-consonant
  trans_ru: текст
@@ -84924,7 +84948,7 @@
  trans_ru: тележка
 -lexeme
  lex: тележурналист
- stem: тележурналист.
+ stem: тележурналист.//тележурналис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: тележурналист
@@ -85038,7 +85062,7 @@
  trans_ru: тенденция
 -lexeme
  lex: теннисист
- stem: теннисист.
+ stem: теннисист.//теннисис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: теннисист
@@ -85110,7 +85134,7 @@
  trans_ru: техрегламент
 -lexeme
  lex: техучилище
- stem: техучилище.
+ stem: техучилище.//техучилища.//техучилищо.
  gramm: N,rus
  paradigm: Noun-num-vowel
  trans_ru: техучилище
@@ -85356,7 +85380,7 @@
  trans_ru: враг
 -lexeme
  lex: тхэквондист
- stem: тхэквондист.
+ stem: тхэквондист.//тхэквондис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: тхэквондист
@@ -85494,7 +85518,7 @@
  trans_ru: удмурточка
 -lexeme
  lex: уезд
- stem: уезд.
+ stem: уезд.//уез.
  gramm: N,rus
  paradigm: Noun-num-consonant
  trans_ru: уезд
@@ -85830,7 +85854,7 @@
  trans_ru: фестиваль
 -lexeme
  lex: фигурист
- stem: фигурист.
+ stem: фигурист.//фигурис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: фигурист
@@ -85860,7 +85884,7 @@
  trans_ru: физмат
 -lexeme
  lex: филателист
- stem: филателист.
+ stem: филателист.//филателис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: филателист
@@ -85878,13 +85902,13 @@
  trans_ru: фильтр
 -lexeme
  lex: финалист
- stem: финалист.
+ stem: финалист.//финалис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: финалист
 -lexeme
  lex: финансист
- stem: финансист.
+ stem: финансист.//финансис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: финансист
@@ -85938,7 +85962,7 @@
  trans_ru: фольга
 -lexeme
  lex: фольклорист
- stem: фольклорист.
+ stem: фольклорист.//фольклорис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: фольклорист
@@ -85950,7 +85974,7 @@
  trans_ru: фонограммархив
 -lexeme
  lex: форпост
- stem: форпост.
+ stem: форпост.//форпос.
  gramm: N,rus
  paradigm: Noun-num-consonant
  trans_ru: форпост
@@ -85980,7 +86004,7 @@
  trans_ru: фотоальбом
 -lexeme
  lex: фотожурналист
- stem: фотожурналист.
+ stem: фотожурналист.//фотожурналис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: фотожурналист
@@ -86058,7 +86082,7 @@
  trans_ru: футболка
 -lexeme
  lex: футурист
- stem: футурист.
+ stem: футурист.//футурис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: футурист
@@ -86136,7 +86160,7 @@
  trans_ru: хоббит
 -lexeme
  lex: хоккеист
- stem: хоккеист.
+ stem: хоккеист.//хоккеис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: хоккеист
@@ -86172,7 +86196,7 @@
  trans_ru: храм
 -lexeme
  lex: хранилище
- stem: хранилище.
+ stem: хранилище.//хранилища.//хранилищо.
  gramm: N,rus
  paradigm: Noun-num-vowel
  trans_ru: хранилище
@@ -86746,7 +86770,7 @@
  trans_ru: экстрасенс
 -lexeme
  lex: экстремист
- stem: экстремист.
+ stem: экстремист.//экстремис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: экстремист
@@ -86956,7 +86980,7 @@
  trans_ru: этнофутуризм
 -lexeme
  lex: этнофутурист
- stem: этнофутурист.
+ stem: этнофутурист.//этнофутурис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: этнофутурист
@@ -87475,7 +87499,7 @@
  trans_ru: картофель
 -lexeme
  lex: баталист
- stem: баталист.
+ stem: баталист.//баталис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: баталист
@@ -87607,7 +87631,7 @@
  trans_ru: блокадник
 -lexeme
  lex: блокпост
- stem: блокпост.
+ stem: блокпост.//блокпос.
  gramm: N,rus
  paradigm: Noun-num-consonant
  trans_ru: блокпост
@@ -87715,7 +87739,7 @@
  trans_ru: бюрократия
 -lexeme
  lex: бюст
- stem: бюст.
+ stem: бюст.//бюс.
  gramm: N,rus
  paradigm: Noun-num-consonant
  trans_ru: бюст
@@ -87883,7 +87907,7 @@
  trans_ru: умник, умница
 -lexeme
  lex: виолончелист
- stem: виолончелист.
+ stem: виолончелист.//виолончелис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: виолончелист
@@ -88027,7 +88051,7 @@
  trans_ru: газификация
 -lexeme
  lex: газохранилище
- stem: газохранилище.
+ stem: газохранилище.//газохранилища.//газохранилищо.
  gramm: N,rus
  paradigm: Noun-num-vowel
  trans_ru: газохранилище
@@ -88555,7 +88579,7 @@
  trans_ru: заготовка
 -lexeme
  lex: заезд
- stem: заезд.
+ stem: заезд.//заез.
  gramm: N,rus
  paradigm: Noun-num-consonant
  trans_ru: заезд
@@ -88897,7 +88921,7 @@
  trans_ru: капор
 -lexeme
  lex: капоэрист
- stem: капоэрист.
+ stem: капоэрист.//капоэрис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: капоэрист
@@ -88975,7 +88999,7 @@
  trans_ru: василёк
 -lexeme
  lex: киноартист
- stem: киноартист.
+ stem: киноартист.//киноартис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: киноартист
@@ -90073,7 +90097,7 @@
  trans_ru: оскар
 -lexeme
  lex: особист
- stem: особист.
+ stem: особист.//особис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: особист
@@ -91093,7 +91117,7 @@
  trans_ru: сельхозтехникум
 -lexeme
  lex: семинарист
- stem: семинарист.
+ stem: семинарист.//семинарис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: семинарист
@@ -91411,7 +91435,7 @@
  trans_ru: сперматозоид
 -lexeme
  lex: специалист
- stem: спецалист.
+ stem: спецалист.//спецалис.
  gramm: N,rus,anim,hum,missp
  paradigm: Noun-num-consonant
  trans_ru: специалист
@@ -91465,7 +91489,7 @@
  trans_ru: спортсмен
 -lexeme
  lex: справедливость
- stem: справедливост.
+ stem: справедливост.//справедливос.
  gramm: N,rus
  paradigm: Noun-num-soft
  trans_ru: справедливость
@@ -91549,7 +91573,7 @@
  trans_ru: стимулятор
 -lexeme
  lex: стойбище
- stem: стойбище.
+ stem: стойбище.//стойбища.//стойбищо.
  gramm: N,rus
  paradigm: Noun-num-vowel
  trans_ru: стойбище
@@ -92205,7 +92229,7 @@
  trans_ru: федерализм
 -lexeme
  lex: фельетонист
- stem: фельетонист.
+ stem: фельетонист.//фельетонис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: фельетонист
@@ -95129,7 +95153,7 @@
  trans_ru: агропром
 -lexeme
  lex: агропромышленность
- stem: агропромышленност.
+ stem: агропромышленност.//агропромышленнос.
  gramm: N,rus
  paradigm: Noun-num-soft
  trans_ru: агропромышленность
@@ -95520,7 +95544,7 @@
  trans_ru: парламентарий
 -lexeme
  lex: следж-хоккеист
- stem: следж-хоккеист.
+ stem: следж-хоккеист.//следж-хоккеис.
  gramm: N,anim,hum,rus
  paradigm: Noun-num-consonant
  trans_ru: следж-хоккеист
@@ -98282,7 +98306,7 @@
  trans_ru: литклуб
 -lexeme
  lex: лицеист
- stem: лицеист.
+ stem: лицеист.//лицеис.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: лицеист
@@ -98552,7 +98576,7 @@
  trans_ru: напарник
 -lexeme
  lex: нарост
- stem: нарост.
+ stem: нарост.//нарос.
  gramm: N,rus
  paradigm: Noun-num-consonant
  trans_ru: нарост
@@ -99082,7 +99106,7 @@
  trans_ru: рассылка
 -lexeme
  lex: реальность
- stem: реальност.
+ stem: реальност.//реальнос.
  gramm: N,rus
  paradigm: Noun-num-soft
  trans_ru: реальность
@@ -99724,7 +99748,7 @@
  trans_ru: вкусняшка; милый
 -lexeme
  lex: честность
- stem: честност.
+ stem: честност.//честнос.
  gramm: N,rus
  paradigm: Noun-num-soft
  trans_ru: честность
@@ -100514,7 +100538,7 @@
 -lexeme
  lex: абсурдист
  gramm: N,rus,anim,hum
- stem: абсурдист.
+ stem: абсурдист.//абсурдис.
  paradigm: Noun-num-consonant
  trans_ru: абсурдист
 
@@ -100711,14 +100735,14 @@
 -lexeme
  lex: аккуратность
  gramm: N,rus
- stem: аккуратност.
+ stem: аккуратност.//аккуратнос.
  paradigm: Noun-num-soft
  trans_ru: аккуратность
 
 -lexeme
  lex: акмеист
  gramm: N,rus,anim,hum
- stem: акмеист.
+ stem: акмеист.//акмеис.
  paradigm: Noun-num-consonant
  trans_ru: акмеист
 
@@ -100851,7 +100875,7 @@
 -lexeme
  lex: анапест
  gramm: N,rus
- stem: анапест.
+ stem: анапест.//анапес.
  paradigm: Noun-num-consonant
  trans_ru: анапест
 
@@ -101303,7 +101327,7 @@
 -lexeme
  lex: баптист
  gramm: N,rus,anim,hum
- stem: баптист.
+ stem: баптист.//баптис.
  paradigm: Noun-num-consonant
  trans_ru: баптист
 
@@ -101422,7 +101446,7 @@
 -lexeme
  lex: безопасность
  gramm: N,rus
- stem: безопасност.
+ stem: безопасност.//безопаснос.
  paradigm: Noun-num-soft
  trans_ru: безопасность
 
@@ -101611,14 +101635,14 @@
 -lexeme
  lex: благовест
  gramm: N,rus
- stem: благовест.
+ stem: благовест.//благовес.
  paradigm: Noun-num-consonant
  trans_ru: благовест
 
 -lexeme
  lex: благодарность
  gramm: N,rus
- stem: благодарност.
+ stem: благодарност.//благодарнос.
  paradigm: Noun-num-soft
  trans_ru: благодарность
 
@@ -102418,7 +102442,7 @@
 -lexeme
  lex: возможность
  gramm: N,rus
- stem: возможност.
+ stem: возможност.//возможнос.
  paradigm: Noun-num-soft
  trans_ru: возможность
 
@@ -102769,7 +102793,7 @@
 -lexeme
  lex: гениальность
  gramm: N,rus
- stem: гениальност.
+ stem: гениальност.//гениальнос.
  paradigm: Noun-num-soft
  trans_ru: гениальность
 
@@ -103085,7 +103109,7 @@
 -lexeme
  lex: горючей
  gramm: N,rus
- stem: горюче.//горючо.
+ stem: горюче.//горюча.//горючо.
  paradigm: Noun-num-j
  trans_ru: горючее
 
@@ -103099,7 +103123,7 @@
 -lexeme
  lex: госбезопастность
  gramm: N,rus
- stem: госбезопастност.
+ stem: госбезопастност.//госбезопастнос.
  paradigm: Noun-num-soft
  trans_ru: госбезопасность
 
@@ -103281,7 +103305,7 @@
 -lexeme
  lex: гуманист
  gramm: N,rus,anim,hum
- stem: гуманист.
+ stem: гуманист.//гуманис.
  paradigm: Noun-num-consonant
  trans_ru: гуманист
 
@@ -103624,7 +103648,7 @@
 -lexeme
  lex: дизелист
  gramm: N,rus,anim,hum
- stem: дизелист.
+ stem: дизелист.//дизелис.
  paradigm: Noun-num-consonant
  trans_ru: дизелист
 
@@ -103750,7 +103774,7 @@
 -lexeme
  lex: достопримечательность
  gramm: N,rus
- stem: достопримечательност.
+ stem: достопримечательност.//достопримечательнос.
  paradigm: Noun-num-soft
  trans_ru: достопримечательность
 
@@ -103883,7 +103907,7 @@
 -lexeme
  lex: духовность
  gramm: N,rus
- stem: духовност.
+ stem: духовност.//духовнос.
  paradigm: Noun-num-soft
  trans_ru: духовность
 
@@ -104086,7 +104110,7 @@
 -lexeme
  lex: жидкость
  gramm: N,rus
- stem: жидкост.
+ stem: жидкост.//жидкос.
  paradigm: Noun-num-soft
  trans_ru: жидкость
 
@@ -104128,7 +104152,7 @@
 -lexeme
  lex: жирность
  gramm: N,rus
- stem: жирност.
+ stem: жирност.//жирнос.
  paradigm: Noun-num-soft
  trans_ru: жирность
 
@@ -104438,7 +104462,7 @@
 -lexeme
  lex: запчасть
  gramm: N,rus
- stem: запчаст.
+ stem: запчаст.//запчас.
  paradigm: Noun-num-soft
  trans_ru: запчасть
 
@@ -104753,14 +104777,14 @@
 -lexeme
  lex: избирательность
  gramm: N,rus
- stem: избирательност.
+ stem: избирательност.//избирательнос.
  paradigm: Noun-num-soft
  trans_ru: избирательность
 
 -lexeme
  lex: известь
  gramm: N,rus
- stem: извест.
+ stem: извест.//извес.
  paradigm: Noun-num-soft
  trans_ru: известь
 
@@ -104816,7 +104840,7 @@
 -lexeme
  lex: имажинист
  gramm: N,rus,anim,hum
- stem: имажинист.
+ stem: имажинист.//имажинис.
  paradigm: Noun-num-consonant
  trans_ru: имажинист
 
@@ -104852,7 +104876,7 @@
 -lexeme
  lex: инвалидность
  gramm: N,rus
- stem: инвалидност.
+ stem: инвалидност.//инвалиднос.
  paradigm: Noun-num-soft
  trans_ru: инвалидность
 
@@ -104866,7 +104890,7 @@
 -lexeme
  lex: индивидуалист
  gramm: N,rus,anim,hum
- stem: индивидуалист.
+ stem: индивидуалист.//индивидуалис.
  paradigm: Noun-num-consonant
  trans_ru: индивидуалист
 
@@ -104950,7 +104974,7 @@
 -lexeme
  lex: интертекст
  gramm: N,rus
- stem: интертекст.
+ stem: интертекст.//интертекс.
  paradigm: Noun-num-consonant
  trans_ru: интертекст
 
@@ -104985,7 +105009,7 @@
 -lexeme
  lex: искренность
  gramm: N,rus
- stem: искренност.
+ stem: искренност.//искреннос.
  paradigm: Noun-num-soft
  trans_ru: искренность
 
@@ -105219,7 +105243,7 @@
 -lexeme
  lex: калорийность
  gramm: N,rus
- stem: калорийност.
+ stem: калорийност.//калорийнос.
  paradigm: Noun-num-soft
  trans_ru: калорийность
 
@@ -105409,7 +105433,7 @@
 -lexeme
  lex: карикатурист
  gramm: N,rus,anim,hum
- stem: карикатурист.
+ stem: карикатурист.//карикатурис.
  paradigm: Noun-num-consonant
  trans_ru: карикатурист
 
@@ -105451,7 +105475,7 @@
 -lexeme
  lex: карьерист
  gramm: N,rus,anim,hum
- stem: карьерист.
+ stem: карьерист.//карьерис.
  paradigm: Noun-num-consonant
  trans_ru: карьерист
 
@@ -105790,7 +105814,7 @@
 -lexeme
  lex: кисть
  gramm: N,rus
- stem: кист.
+ stem: кист.//кис.
  paradigm: Noun-num-soft
  trans_ru: кисть
 
@@ -105833,7 +105857,7 @@
 -lexeme
  lex: классность
  gramm: N,rus
- stem: классност.
+ stem: классност.//класснос.
  paradigm: Noun-num-soft
  trans_ru: классность
 
@@ -105995,7 +106019,7 @@
 -lexeme
  lex: коллективист
  gramm: N,rus,anim,hum
- stem: коллективист.
+ stem: коллективист.//коллективис.
  paradigm: Noun-num-consonant
  trans_ru: коллективист
 
@@ -106107,7 +106131,7 @@
 -lexeme
  lex: конкретность
  gramm: N,rus
- stem: конкретност.
+ stem: конкретност.//конкретнос.
  paradigm: Noun-num-soft
  trans_ru: конкретность
 
@@ -106149,7 +106173,7 @@
 -lexeme
  lex: контраст
  gramm: N,rus
- stem: контраст.
+ stem: контраст.//контрас.
  paradigm: Noun-num-consonant
  trans_ru: контраст
 
@@ -107353,7 +107377,7 @@
 -lexeme
  lex: лиричность
  gramm: N,rus
- stem: лиричност.
+ stem: лиричност.//лиричнос.
  paradigm: Noun-num-soft
  trans_ru: лиричность
 
@@ -107895,7 +107919,7 @@
 -lexeme
  lex: мелодраматичность
  gramm: N,rus
- stem: мелодраматичност.
+ stem: мелодраматичност.//мелодраматичнос.
  paradigm: Noun-num-soft
  trans_ru: мелодраматичность
 
@@ -108098,7 +108122,7 @@
 -lexeme
  lex: модернист
  gramm: N,rus,anim,hum
- stem: модернист.
+ stem: модернист.//модернис.
  paradigm: Noun-num-consonant
  trans_ru: модернист
 
@@ -108374,7 +108398,7 @@
 -lexeme
  lex: наблюдательность
  gramm: N,rus
- stem: наблюдательност.
+ stem: наблюдательност.//наблюдательнос.
  paradigm: Noun-num-soft
  trans_ru: наблюдательность
 
@@ -108612,7 +108636,7 @@
 -lexeme
  lex: небрежность
  gramm: N,rus
- stem: небрежност.
+ stem: небрежност.//небрежнос.
  paradigm: Noun-num-soft
  trans_ru: небрежность
 
@@ -108647,7 +108671,7 @@
 -lexeme
  lex: неграмотность
  gramm: N,rus
- stem: неграмотност.
+ stem: неграмотност.//неграмотнос.
  paradigm: Noun-num-soft
  trans_ru: неграмотность
 
@@ -108710,7 +108734,7 @@
 -lexeme
  lex: несознательность
  gramm: N,rus
- stem: несознательност.
+ stem: несознательност.//несознательнос.
  paradigm: Noun-num-soft
  trans_ru: несознательность
 
@@ -108738,14 +108762,14 @@
 -lexeme
  lex: нехристь
  gramm: N,rus,anim,hum
- stem: нехрист.
+ stem: нехрист.//нехрис.
  paradigm: Noun-num-soft
  trans_ru: нехристь
 
 -lexeme
  lex: нечисть
  gramm: N,anim,supernat,rus
- stem: нечист.
+ stem: нечист.//нечис.
  paradigm: Noun-num-soft
  trans_ru: нечисть
 
@@ -108759,7 +108783,7 @@
 -lexeme
  lex: нигилист
  gramm: N,rus,anim,hum
- stem: нигилист.
+ stem: нигилист.//нигилис.
  paradigm: Noun-num-consonant
  trans_ru: нигилист
 
@@ -109152,7 +109176,7 @@
 -lexeme
  lex: общественность
  gramm: N,rus
- stem: общественност.
+ stem: общественност.//общественнос.
  paradigm: Noun-num-soft
  trans_ru: общественность
 
@@ -109267,7 +109291,7 @@
 -lexeme
  lex: ограниченность
  gramm: N,rus
- stem: ограниченност.
+ stem: ограниченност.//ограниченнос.
  paradigm: Noun-num-soft
  trans_ru: ограниченность
 
@@ -109463,7 +109487,7 @@
 -lexeme
  lex: опасность
  gramm: N,rus
- stem: опасност.
+ stem: опасност.//опаснос.
  paradigm: Noun-num-soft
  trans_ru: опасность
 
@@ -109610,7 +109634,7 @@
 -lexeme
  lex: ответственность
  gramm: N,rus
- stem: ответственност.
+ stem: ответственност.//ответственнос.
  paradigm: Noun-num-soft
  trans_ru: ответственность
 
@@ -109890,7 +109914,7 @@
 -lexeme
  lex: пародист
  gramm: N,rus,anim,hum
- stem: пародист.
+ stem: пародист.//пародис.
  paradigm: Noun-num-consonant
  trans_ru: пародист
 
@@ -110653,7 +110677,7 @@
 -lexeme
  lex: подтекст
  gramm: N,rus
- stem: подтекст.
+ stem: подтекст.//подтекс.
  paradigm: Noun-num-consonant
  trans_ru: подтекст
 
@@ -111074,7 +111098,7 @@
 -lexeme
  lex: постмодернист
  gramm: N,rus,anim,hum
- stem: постмодернист.
+ stem: постмодернист.//постмодернис.
  paradigm: Noun-num-consonant
  trans_ru: постмодернист
 
@@ -111194,14 +111218,14 @@
 -lexeme
  lex: прелесть
  gramm: N,rus
- stem: прелест.
+ stem: прелест.//прелес.
  paradigm: Noun-num-soft
  trans_ru: прелесть
 
 -lexeme
  lex: премудрость
  gramm: N,rus
- stem: премудрост.
+ stem: премудрост.//премудрос.
  paradigm: Noun-num-soft
  trans_ru: премудрость
 
@@ -111579,7 +111603,7 @@
 -lexeme
  lex: протест
  gramm: N,rus
- stem: протест.
+ stem: протест.//протес.
  paradigm: Noun-num-consonant
  trans_ru: протест
 
@@ -111642,7 +111666,7 @@
 -lexeme
  lex: прохвост
  gramm: N,rus,anim,hum
- stem: прохвост.
+ stem: прохвост.//прохвос.
  paradigm: Noun-num-consonant
  trans_ru: прохвост
 
@@ -111740,7 +111764,7 @@
 -lexeme
  lex: публицистичность
  gramm: N,rus
- stem: публицистичност.
+ stem: публицистичност.//публицистичнос.
  paradigm: Noun-num-soft
  trans_ru: публицистичность
 
@@ -112118,7 +112142,7 @@
 -lexeme
  lex: радиотелеграфист
  gramm: N,rus,anim,hum
- stem: радиотелеграфист.
+ stem: радиотелеграфист.//радиотелеграфис.
  paradigm: Noun-num-consonant
  trans_ru: радиотелеграфист
 
@@ -112937,7 +112961,7 @@
 -lexeme
  lex: сексуальность
  gramm: N,rus
- stem: сексуальност.
+ stem: сексуальност.//сексуальнос.
  paradigm: Noun-num-soft
  trans_ru: сексуальность
 
@@ -113007,7 +113031,7 @@
 -lexeme
  lex: семейственность
  gramm: N,rus
- stem: семейственност.
+ stem: семейственност.//семейственнос.
  paradigm: Noun-num-soft
  trans_ru: семейственность
 
@@ -113113,7 +113137,7 @@
 -lexeme
  lex: символист
  gramm: N,rus,anim,hum
- stem: символист.
+ stem: символист.//символис.
  paradigm: Noun-num-consonant
  trans_ru: символист
 
@@ -113200,7 +113224,7 @@
 -lexeme
  lex: сионист
  gramm: N,rus,anim,hum
- stem: сионист.
+ stem: сионист.//сионис.
  paradigm: Noun-num-consonant
  trans_ru: сионист
 
@@ -113256,7 +113280,7 @@
 -lexeme
  lex: скромность
  gramm: N,rus
- stem: скромност.
+ stem: скромност.//скромнос.
  paradigm: Noun-num-soft
  trans_ru: скромность
 
@@ -113298,7 +113322,7 @@
 -lexeme
  lex: словесность
  gramm: N,rus
- stem: словесност.
+ stem: словесност.//словеснос.
  paradigm: Noun-num-soft
  trans_ru: словесность
 
@@ -113368,7 +113392,7 @@
 -lexeme
  lex: совесть
  gramm: N,rus
- stem: совест.
+ stem: совест.//совес.
  paradigm: Noun-num-soft
  trans_ru: совесть
 
@@ -113382,7 +113406,7 @@
 -lexeme
  lex: современность
  gramm: N,rus
- stem: современност.
+ stem: современност.//современнос.
  paradigm: Noun-num-soft
  trans_ru: современность
 
@@ -113811,7 +113835,7 @@
 -lexeme
  lex: страсть
  gramm: N,rus
- stem: страст.
+ stem: страст.//страс.
  paradigm: Noun-num-soft
  trans_ru: страсть
 
@@ -114229,7 +114253,7 @@
 -lexeme
  lex: сюрреалист
  gramm: N,rus,anim,hum
- stem: сюрреалист.
+ stem: сюрреалист.//сюрреалис.
  paradigm: Noun-num-consonant
  trans_ru: сюрреалист
 
@@ -114474,7 +114498,7 @@
 -lexeme
  lex: типичность
  gramm: N,rus
- stem: типичност.
+ stem: типичност.//типичнос.
  paradigm: Noun-num-soft
  trans_ru: типичность
 
@@ -114566,7 +114590,7 @@
 -lexeme
  lex: тональность
  gramm: N,rus
- stem: тональност.
+ stem: тональност.//тональнос.
  paradigm: Noun-num-soft
  trans_ru: тональность
 
@@ -114713,7 +114737,7 @@
 -lexeme
  lex: троцкист
  gramm: N,rus,anim,hum
- stem: троцкист.
+ stem: троцкист.//троцкис.
  paradigm: Noun-num-consonant
  trans_ru: троцкист
 
@@ -115050,7 +115074,7 @@
 -lexeme
  lex: уклонист
  gramm: N,rus,anim,hum
- stem: уклонист.
+ stem: уклонист.//уклонис.
  paradigm: Noun-num-consonant
  trans_ru: уклонист
 
@@ -115211,7 +115235,7 @@
 -lexeme
  lex: урожайность
  gramm: N,rus
- stem: урожайност.
+ stem: урожайност.//урожайнос.
  paradigm: Noun-num-soft
  trans_ru: урожайность
 
@@ -115610,7 +115634,7 @@
 -lexeme
  lex: халатность
  gramm: N,rus
- stem: халатност.
+ stem: халатност.//халатнос.
  paradigm: Noun-num-soft
  trans_ru: халатность
 
@@ -115736,7 +115760,7 @@
 -lexeme
  lex: христиан-баптист
  gramm: N,rus,anim,hum
- stem: христиан-баптист.
+ stem: христиан-баптист.//христиан-баптис.
  paradigm: Noun-num-consonant
  trans_ru: христианин-баптист
 
@@ -115771,7 +115795,7 @@
 -lexeme
  lex: художественность
  gramm: N,rus
- stem: художественност.
+ stem: художественност.//художественнос.
  paradigm: Noun-num-soft
  trans_ru: художественность
 
@@ -116086,7 +116110,7 @@
 -lexeme
  lex: честь
  gramm: N,rus
- stem: чест.
+ stem: чест.//чес.
  paradigm: Noun-num-soft
  trans_ru: честь
 
@@ -116156,7 +116180,7 @@
 -lexeme
  lex: чистилище
  gramm: N,rus
- stem: чистилище.
+ stem: чистилище.//чистилища.//чистилищо.
  paradigm: Noun-num-vowel
  trans_ru: чистилище
 
@@ -116551,7 +116575,7 @@
 -lexeme
  lex: шаталтрест
  gramm: N,rus
- stem: шаталтрест.
+ stem: шаталтрест.//шаталтрес.
  paradigm: Noun-num-consonant
  trans_ru: шаталтрест
 
@@ -116832,7 +116856,7 @@
 -lexeme
  lex: штабист
  gramm: N,rus,anim,hum
- stem: штабист.
+ stem: штабист.//штабис.
  paradigm: Noun-num-consonant
  trans_ru: штабист
 
@@ -118261,6 +118285,13 @@
  trans_ru: педераст
 
 -lexeme
+ lex: пидарас
+ gramm: N,anim,hum,rus
+ stem: пидарас.
+ paradigm: Noun-num-consonant
+ trans_ru: пидарас
+
+-lexeme
  lex: писец
  gramm: N,anim,hum,rus
  stem: писец.
@@ -118872,7 +118903,7 @@
 -lexeme
  lex: управляющей
  gramm: N,anim,rus,hum
- stem: управляюще.
+ stem: управляюще.//управляюща.//управляющо.
  paradigm: Noun-num-j
  trans_ru: управляющий
 
@@ -119447,7 +119478,7 @@
 -lexeme
  lex: беспечность
  gramm: N,rus
- stem: беспечност.
+ stem: беспечност.//беспечнос.
  paradigm: Noun-num-soft
  trans_ru: беспечность
 
@@ -119517,7 +119548,7 @@
 -lexeme
  lex: организованность
  gramm: N,rus
- stem: организованност.
+ stem: организованност.//организованнос.
  paradigm: Noun-num-soft
  trans_ru: организованность
 
@@ -119650,7 +119681,7 @@
 -lexeme
  lex: производительность
  gramm: N,rus
- stem: производительност.
+ stem: производительност.//производительнос.
  paradigm: Noun-num-soft
  trans_ru: производительность
 
@@ -120343,7 +120374,7 @@
 -lexeme
  lex: бдительность
  gramm: N,rus
- stem: бдительност.
+ stem: бдительност.//бдительнос.
  paradigm: Noun-num-soft
  trans_ru: бдительность
 
@@ -120392,7 +120423,7 @@
 -lexeme
  lex: авиамоделист
  gramm: N,rus,anim,hum
- stem: авиамоделист.
+ stem: авиамоделист.//авиамоделис.
  paradigm: Noun-num-consonant
  trans_ru: авиамоделист
 
@@ -120427,7 +120458,7 @@
 -lexeme
  lex: авиаучилище
  gramm: N,rus
- stem: авиаучилище.
+ stem: авиаучилище.//авиаучилища.//авиаучилищо.
  paradigm: Noun-num-vowel
  trans_ru: авиаучилище
 
@@ -120441,7 +120472,7 @@
 -lexeme
  lex: авиачасть
  gramm: N,rus
- stem: авиачаст.
+ stem: авиачаст.//авиачас.
  paradigm: Noun-num-soft
  trans_ru: авиачасть
 
@@ -120462,7 +120493,7 @@
 -lexeme
  lex: автономист
  gramm: N,rus,anim,hum
- stem: автономист.
+ stem: автономист.//автономис.
  paradigm: Noun-num-consonant
  trans_ru: автономист
 
@@ -120721,7 +120752,7 @@
 -lexeme
  lex: армвоенюрист
  gramm: N,rus,anim,hum
- stem: армвоенюрист.
+ stem: армвоенюрист.//армвоенюрис.
  paradigm: Noun-num-consonant
  trans_ru: армвоенюрист
 
@@ -120735,7 +120766,7 @@
 -lexeme
  lex: артельность
  gramm: N,rus
- stem: артельност.
+ stem: артельност.//артельнос.
  paradigm: Noun-num-soft
  trans_ru: артельность
 
@@ -120812,7 +120843,7 @@
 -lexeme
  lex: безответственность
  gramm: N,rus
- stem: безответственност.
+ stem: безответственност.//безответственнос.
  paradigm: Noun-num-soft
  trans_ru: безответственность
 
@@ -120903,7 +120934,7 @@
 -lexeme
  lex: бесхозяйственность
  gramm: N,rus
- stem: бесхозяйственност.
+ stem: бесхозяйственност.//бесхозяйственнос.//безхозяйственност.//безхозяйственнос.
  paradigm: Noun-num-soft
  trans_ru: бесхозяйственность
 
@@ -120980,7 +121011,7 @@
 -lexeme
  lex: боеспособность
  gramm: N,rus
- stem: боеспособност.
+ stem: боеспособност.//боеспособнос.
  paradigm: Noun-num-soft
  trans_ru: боеспособность
 
@@ -121029,7 +121060,7 @@
 -lexeme
  lex: бронечасть
  gramm: N,rus
- stem: бронечаст.
+ stem: бронечаст.//бронечас.
  paradigm: Noun-num-soft
  trans_ru: бронечасть
 
@@ -121260,7 +121291,7 @@
 -lexeme
  lex: взаимность
  gramm: N,rus
- stem: взаимност.
+ stem: взаимност.//взаимнос.
  paradigm: Noun-num-soft
  trans_ru: взаимность
 
@@ -121380,7 +121411,7 @@
 -lexeme
  lex: влажность
  gramm: N,rus
- stem: влажност.
+ stem: влажност.//влажнос.
  paradigm: Noun-num-soft
  trans_ru: влажность
 
@@ -121646,7 +121677,7 @@
 -lexeme
  lex: всхожесть
  gramm: N,rus
- stem: всхожест.
+ stem: всхожест.//всхожес.
  paradigm: Noun-num-soft
  trans_ru: всхожесть
 
@@ -121688,7 +121719,7 @@
 -lexeme
  lex: выборность
  gramm: N,rus
- stem: выборност.
+ stem: выборност.//выборнос.
  paradigm: Noun-num-soft
  trans_ru: выборность
 
@@ -121737,7 +121768,7 @@
 -lexeme
  lex: выносливость
  gramm: N,rus
- stem: выносливост.
+ stem: выносливост.//выносливос.
  paradigm: Noun-num-soft
  trans_ru: выносливость
 
@@ -121800,7 +121831,7 @@
 -lexeme
  lex: газоубежище
  gramm: N,rus
- stem: газоубежище.
+ stem: газоубежище.//газоубежища.//газоубежищо.
  paradigm: Noun-num-vowel
  trans_ru: газоубежище
 
@@ -121856,7 +121887,7 @@
 -lexeme
  lex: герфашист
  gramm: N,rus,anim,hum
- stem: герфашист.
+ stem: герфашист.//герфашис.
  paradigm: Noun-num-consonant
  trans_ru: герфашист
 
@@ -121926,7 +121957,7 @@
 -lexeme
  lex: главнокомандующей
  gramm: N,rus,anim,hum
- stem: главнокомандующе.
+ stem: главнокомандующе.//главнокомандующа.//главнокомандующо.
  paradigm: Noun-num-j
  trans_ru: главнокомандующей
 
@@ -121954,7 +121985,7 @@
 -lexeme
  lex: годность
  gramm: N,rus
- stem: годност.
+ stem: годност.//годнос.
  paradigm: Noun-num-soft
  trans_ru: годность
 
@@ -121996,7 +122027,7 @@
 -lexeme
  lex: гордость
  gramm: N,rus
- stem: гордост.
+ stem: гордост.//гордос.
  paradigm: Noun-num-soft
  trans_ru: гордость
 
@@ -122087,7 +122118,7 @@
 -lexeme
  lex: готовность
  gramm: N,rus
- stem: готовност.
+ stem: готовност.//готовнос.
  paradigm: Noun-num-soft
  trans_ru: готовность
 
@@ -122143,7 +122174,7 @@
 -lexeme
  lex: грубость
  gramm: N,rus
- stem: грубост.
+ stem: грубост.//грубос.
  paradigm: Noun-num-soft
  trans_ru: грубость
 
@@ -122283,14 +122314,14 @@
 -lexeme
  lex: действенность
  gramm: N,rus
- stem: действенност.
+ stem: действенност.//действеннос.
  paradigm: Noun-num-soft
  trans_ru: действенность
 
 -lexeme
  lex: действительность
  gramm: N,rus
- stem: действительност.
+ stem: действительност.//действительнос.
  paradigm: Noun-num-soft
  trans_ru: действительность
 
@@ -122311,7 +122342,7 @@
 -lexeme
  lex: деловитость
  gramm: N,rus
- stem: деловитост.
+ stem: деловитост.//деловитос.
  paradigm: Noun-num-soft
  trans_ru: деловитость
 
@@ -122430,7 +122461,7 @@
 -lexeme
  lex: деятельность
  gramm: N,rus
- stem: деятельност.
+ stem: деятельност.//деятельнос.
  paradigm: Noun-num-soft
  trans_ru: деятельность
 
@@ -122472,7 +122503,7 @@
 -lexeme
  lex: дисциплинированность
  gramm: N,rus
- stem: дисциплинированност.
+ stem: дисциплинированност.//дисциплинированнос.
  paradigm: Noun-num-soft
  trans_ru: дисциплинированность
 
@@ -122493,14 +122524,14 @@
 -lexeme
  lex: доблесть
  gramm: N,rus
- stem: доблест.
+ stem: доблест.//доблес.
  paradigm: Noun-num-soft
  trans_ru: доблесть
 
 -lexeme
  lex: добровольность
  gramm: N,rus
- stem: добровольност.
+ stem: добровольност.//добровольнос.
  paradigm: Noun-num-soft
  trans_ru: добровольность
 
@@ -122605,7 +122636,7 @@
 -lexeme
  lex: доходность
  gramm: N,rus
- stem: доходност.
+ stem: доходност.//доходнос.
  paradigm: Noun-num-soft
  trans_ru: доходность
 
@@ -122619,7 +122650,7 @@
 -lexeme
  lex: древность
  gramm: N,rus
- stem: древност.
+ stem: древност.//древнос.
  paradigm: Noun-num-soft
  trans_ru: древность
 
@@ -122640,7 +122671,7 @@
 -lexeme
  lex: евангелист
  gramm: N,rus,anim,hum
- stem: евангелист.
+ stem: евангелист.//евангелис.
  paradigm: Noun-num-consonant
  trans_ru: евангелист
 
@@ -122710,7 +122741,7 @@
 -lexeme
  lex: жестокость
  gramm: N,rus
- stem: жестокост.
+ stem: жестокост.//жестокос.
  paradigm: Noun-num-soft
  trans_ru: жестокость
 
@@ -122808,7 +122839,7 @@
 -lexeme
  lex: зависимость
  gramm: N,rus
- stem: зависимост.
+ stem: зависимост.//зависимос.
  paradigm: Noun-num-soft
  trans_ru: зависимость
 
@@ -122892,14 +122923,14 @@
 -lexeme
  lex: задолженность
  gramm: N,rus
- stem: задолженност.
+ stem: задолженност.//задолженнос.
  paradigm: Noun-num-soft
  trans_ru: задолженность
 
 -lexeme
  lex: зажиточность
  gramm: N,rus
- stem: зажиточност.
+ stem: зажиточност.//зажиточнос.
  paradigm: Noun-num-soft
  trans_ru: зажиточность
 
@@ -123228,7 +123259,7 @@
 -lexeme
  lex: зернотрест
  gramm: N,rus
- stem: зернотрест.
+ stem: зернотрест.//зернотрес.
  paradigm: Noun-num-consonant
  trans_ru: зернотрест
 
@@ -123242,7 +123273,7 @@
 -lexeme
  lex: зернохранилище
  gramm: N,rus
- stem: зернохранилище.
+ stem: зернохранилище.//зернохранилища.//зернохранилищо.
  paradigm: Noun-num-vowel
  trans_ru: зернохранилище
 
@@ -123313,7 +123344,7 @@
 -lexeme
  lex: значкист
  gramm: N,rus,anim,hum
- stem: значкист.
+ stem: значкист.//значкис.
  paradigm: Noun-num-consonant
  trans_ru: значкист
 
@@ -123551,7 +123582,7 @@
 -lexeme
  lex: интурист
  gramm: N,rus,anim,hum
- stem: интурист.
+ stem: интурист.//интурис.
  paradigm: Noun-num-consonant
  trans_ru: интурист
 
@@ -123705,7 +123736,7 @@
 -lexeme
  lex: картофелехранилище
  gramm: N,rus
- stem: картофелехранилище.
+ stem: картофелехранилище.//картофелехранилища.//картофелехранилищо.
  paradigm: Noun-num-vowel
  trans_ru: картофелехранилище
 
@@ -124139,7 +124170,7 @@
 -lexeme
  lex: косность
  gramm: N,rus
- stem: косност.
+ stem: косност.//коснос.
  paradigm: Noun-num-soft
  trans_ru: косность
 
@@ -124160,7 +124191,7 @@
 -lexeme
  lex: крайность
  gramm: N,rus
- stem: крайност.
+ stem: крайност.//крайнос.
  paradigm: Noun-num-soft
  trans_ru: крайность
 
@@ -124356,7 +124387,7 @@
 -lexeme
  lex: культурность
  gramm: N,rus
- stem: культурност.
+ stem: культурност.//культурнос.
  paradigm: Noun-num-soft
  trans_ru: культурность
 
@@ -124783,7 +124814,7 @@
 -lexeme
  lex: льнотрест
  gramm: N,rus
- stem: льнотрест.
+ stem: льнотрест.//льнотрес.
  paradigm: Noun-num-consonant
  trans_ru: льнотрест
 
@@ -124986,7 +125017,7 @@
 -lexeme
  lex: мельтрест
  gramm: N,rus
- stem: мельтрест.
+ stem: мельтрест.//мельтрес.
  paradigm: Noun-num-consonant
  trans_ru: мельтрест
 
@@ -125007,7 +125038,7 @@
 -lexeme
  lex: мерзость
  gramm: N,rus
- stem: мерзост.
+ stem: мерзост.//мерзос.
  paradigm: Noun-num-soft
  trans_ru: мерзость
 
@@ -125049,7 +125080,7 @@
 -lexeme
  lex: милитарист
  gramm: N,rus,anim,hum
- stem: милитарист.
+ stem: милитарист.//милитарис.
  paradigm: Noun-num-consonant
  trans_ru: милитарист
 
@@ -125098,7 +125129,7 @@
 -lexeme
  lex: молодость
  gramm: N,rus
- stem: молодост.
+ stem: молодост.//молодос.
  paradigm: Noun-num-soft
  trans_ru: молодость
 
@@ -125140,7 +125171,7 @@
 -lexeme
  lex: мотомехчасть
  gramm: N,rus
- stem: мотомехчаст.
+ stem: мотомехчаст.//мотомехчас.
  paradigm: Noun-num-soft
  trans_ru: мотомехчасть
 
@@ -125287,7 +125318,7 @@
 -lexeme
  lex: навозохранилище
  gramm: N,rus
- stem: навозохранилище.
+ stem: навозохранилище.//навозохранилища.//навозохранилищо.
  paradigm: Noun-num-vowel
  trans_ru: навозохранилище
 
@@ -125420,7 +125451,7 @@
 -lexeme
  lex: настойчивость
  gramm: N,rus
- stem: настойчивост.
+ stem: настойчивост.//настойчивос.
  paradigm: Noun-num-soft
  trans_ru: настойчивость
 
@@ -125532,14 +125563,14 @@
 -lexeme
  lex: недальновидность
  gramm: N,rus
- stem: недальновидност.
+ stem: недальновидност.//недальновиднос.
  paradigm: Noun-num-soft
  trans_ru: недальновидность
 
 -lexeme
  lex: недисциплинированность
  gramm: N,rus
- stem: недисциплинированност.
+ stem: недисциплинированност.//недисциплинированнос.
  paradigm: Noun-num-soft
  trans_ru: недисциплинированность
 
@@ -125616,14 +125647,14 @@
 -lexeme
  lex: ненависть
  gramm: N,rus
- stem: ненавист.
+ stem: ненавист.//ненавис.
  paradigm: Noun-num-soft
  trans_ru: ненависть
 
 -lexeme
  lex: необходимость
  gramm: N,rus
- stem: необходимост.
+ stem: необходимост.//необходимос.
  paradigm: Noun-num-soft
  trans_ru: необходимость
 
@@ -125637,7 +125668,7 @@
 -lexeme
  lex: неорганизованность
  gramm: N,rus
- stem: неорганизованност.
+ stem: неорганизованност.//неорганизованнос.
  paradigm: Noun-num-soft
  trans_ru: неорганизованность
 
@@ -125679,7 +125710,7 @@
 -lexeme
  lex: неправильность
  gramm: N,rus
- stem: неправильност.
+ stem: неправильност.//неправильнос.
  paradigm: Noun-num-soft
  trans_ru: неправильность
 
@@ -125707,7 +125738,7 @@
 -lexeme
  lex: неточность
  gramm: N,rus
- stem: неточност.
+ stem: неточност.//неточнос.
  paradigm: Noun-num-soft
  trans_ru: неточность
 
@@ -125728,7 +125759,7 @@
 -lexeme
  lex: неудовлетворённость
  gramm: N,rus
- stem: неудовлетворённост.
+ stem: неудовлетворённост.//неудовлетворённос.
  paradigm: Noun-num-soft
  trans_ru: неудовлетворённость
 
@@ -125826,7 +125857,7 @@
 -lexeme
  lex: новость
  gramm: N,rus
- stem: новост.
+ stem: новост.//новос.
  paradigm: Noun-num-soft
  trans_ru: новость
 
@@ -125973,7 +126004,7 @@
 -lexeme
  lex: обоснованность
  gramm: N,rus
- stem: обоснованност.
+ stem: обоснованност.//обоснованнос.
  paradigm: Noun-num-soft
  trans_ru: обоснованность
 
@@ -126078,7 +126109,7 @@
 -lexeme
  lex: объезд
  gramm: N,rus
- stem: объезд.
+ stem: объезд.//объез.
  paradigm: Noun-num-consonant
  trans_ru: объезд
 
@@ -126232,7 +126263,7 @@
 -lexeme
  lex: окрестность
  gramm: N,rus
- stem: окрестност.
+ stem: окрестност.//окрестнос.
  paradigm: Noun-num-soft
  trans_ru: окрестность
 
@@ -126372,7 +126403,7 @@
 -lexeme
  lex: особенность
  gramm: N,rus
- stem: особенност.
+ stem: особенност.//особеннос.
  paradigm: Noun-num-soft
  trans_ru: особенность
 
@@ -126470,7 +126501,7 @@
 -lexeme
  lex: отчётность
  gramm: N,rus
- stem: отчётност.
+ stem: отчётност.//отчётнос.
  paradigm: Noun-num-soft
  trans_ru: отчётность
 
@@ -126540,7 +126571,7 @@
 -lexeme
  lex: парадность
  gramm: N,rus
- stem: парадност.
+ stem: парадност.//параднос.
  paradigm: Noun-num-soft
  trans_ru: парадность
 
@@ -126673,7 +126704,7 @@
 -lexeme
  lex: пастбище
  gramm: N,rus
- stem: пастбище.
+ stem: пастбище.//пастбища.//пастбищо.
  paradigm: Noun-num-vowel
  trans_ru: пастбище
 
@@ -126820,7 +126851,7 @@
 -lexeme
  lex: перерост
  gramm: N,rus
- stem: перерост.
+ stem: перерост.//перерос.
  paradigm: Noun-num-consonant
  trans_ru: перерост
 
@@ -126932,7 +126963,7 @@
 -lexeme
  lex: пищетрест
  gramm: N,rus
- stem: пищетрест.
+ stem: пищетрест.//пищетрес.
  paradigm: Noun-num-consonant
  trans_ru: пищетрест
 
@@ -126953,7 +126984,7 @@
 -lexeme
  lex: плановость
  gramm: N,rus
- stem: плановост.
+ stem: плановост.//плановос.
  paradigm: Noun-num-soft
  trans_ru: плановость
 
@@ -127149,7 +127180,7 @@
 -lexeme
  lex: подозрительность
  gramm: N,rus
- stem: подозрительност.
+ stem: подозрительност.//подозрительнос.
  paradigm: Noun-num-soft
  trans_ru: подозрительность
 
@@ -127163,7 +127194,7 @@
 -lexeme
  lex: подробность
  gramm: N,rus
- stem: подробност.
+ stem: подробност.//подробнос.
  paradigm: Noun-num-soft
  trans_ru: подробность
 
@@ -127408,7 +127439,7 @@
 -lexeme
  lex: полотнище
  gramm: N,rus
- stem: полотнище.
+ stem: полотнище.//полотнища.//полотнищо.
  paradigm: Noun-num-vowel
  trans_ru: полотнище
 
@@ -127562,7 +127593,7 @@
 -lexeme
  lex: посещаемость
  gramm: N,rus
- stem: посещаемост.
+ stem: посещаемост.//посещаемос.
  paradigm: Noun-num-soft
  trans_ru: посещаемость
 
@@ -127625,7 +127656,7 @@
 -lexeme
  lex: потребность
  gramm: N,rus
- stem: потребност.
+ stem: потребност.//потребнос.
  paradigm: Noun-num-soft
  trans_ru: потребность
 
@@ -127639,7 +127670,7 @@
 -lexeme
  lex: правдист
  gramm: N,rus,anim,hum
- stem: правдист.
+ stem: правдист.//правдис.
  paradigm: Noun-num-consonant
  trans_ru: правдист
 
@@ -127660,7 +127691,7 @@
 -lexeme
  lex: преданность
  gramm: N,rus
- stem: преданност.
+ stem: преданност.//преданнос.
  paradigm: Noun-num-soft
  trans_ru: преданность
 
@@ -127688,7 +127719,7 @@
 -lexeme
  lex: предосторожность
  gramm: N,rus
- stem: предосторожност.
+ stem: предосторожност.//предосторожнос.
  paradigm: Noun-num-soft
  trans_ru: предосторожность
 
@@ -127821,7 +127852,7 @@
 -lexeme
  lex: принадлежность
  gramm: N,rus
- stem: принадлежност.
+ stem: принадлежност.//принадлежнос.
  paradigm: Noun-num-soft
  trans_ru: принадлежность
 
@@ -127919,7 +127950,7 @@
 -lexeme
  lex: прожекторист
  gramm: N,rus,anim,hum
- stem: прожекторист.
+ stem: прожекторист.//прожекторис.
  paradigm: Noun-num-consonant
  trans_ru: прожекторист
 
@@ -127989,7 +128020,7 @@
 -lexeme
  lex: промсовхозтрест
  gramm: N,rus
- stem: промсовхозтрест.
+ stem: промсовхозтрест.//промсовхозтрес.
  paradigm: Noun-num-consonant
  trans_ru: промсовхозтрест
 
@@ -128017,7 +128048,7 @@
 -lexeme
  lex: проницательность
  gramm: N,rus
- stem: проницательност.
+ stem: проницательност.//проницательнос.
  paradigm: Noun-num-soft
  trans_ru: проницательность
 
@@ -128318,7 +128349,7 @@
 -lexeme
  lex: развязанность
  gramm: N,rus
- stem: развязанност.
+ stem: развязанност.//развязаннос.
  paradigm: Noun-num-soft
  trans_ru: развязанность
 
@@ -128731,7 +128762,7 @@
 -lexeme
  lex: распущенность
  gramm: N,rus
- stem: распущенност.
+ stem: распущенност.//распущеннос.
  paradigm: Noun-num-soft
  trans_ru: распущенность
 
@@ -128766,7 +128797,7 @@
 -lexeme
  lex: растительность
  gramm: N,rus
- stem: растительност.
+ stem: растительност.//растительнос.
  paradigm: Noun-num-soft
  trans_ru: растительность
 
@@ -128787,7 +128818,7 @@
 -lexeme
  lex: расхлябанность
  gramm: N,rus
- stem: расхлябанност.
+ stem: расхлябанност.//расхлябаннос.
  paradigm: Noun-num-soft
  trans_ru: расхлябанность
 
@@ -128815,7 +128846,7 @@
 -lexeme
  lex: резервист
  gramm: N,rus,anim,hum
- stem: резервист.
+ stem: резервист.//резервис.
  paradigm: Noun-num-consonant
  trans_ru: резервист
 
@@ -128864,7 +128895,7 @@
 -lexeme
  lex: реформист
  gramm: N,rus,anim,hum
- stem: реформист.
+ stem: реформист.//реформис.
  paradigm: Noun-num-consonant
  trans_ru: реформист
 
@@ -128941,7 +128972,7 @@
 -lexeme
  lex: самовласть
  gramm: N,rus
- stem: самовласт.
+ stem: самовласт.//самовлас.
  paradigm: Noun-num-soft
  trans_ru: самовласть
 
@@ -128997,7 +129028,7 @@
 -lexeme
  lex: самоотверженность
  gramm: N,rus
- stem: самоотверженност.
+ stem: самоотверженност.//самоотверженнос.
  paradigm: Noun-num-soft
  trans_ru: самоотверженность
 
@@ -129039,7 +129070,7 @@
 -lexeme
  lex: самостоятельность
  gramm: N,rus
- stem: самостоятельност.
+ stem: самостоятельност.//самостоятельнос.
  paradigm: Noun-num-soft
  trans_ru: самостоятельность
 
@@ -129312,7 +129343,7 @@
 -lexeme
  lex: сезонность
  gramm: N,rus
- stem: сезонност.
+ stem: сезонност.//сезоннос.
  paradigm: Noun-num-soft
  trans_ru: сезонность
 
@@ -129425,7 +129456,7 @@
 -lexeme
  lex: сельхозспециалист
  gramm: N,rus,anim,hum
- stem: сельхозспециалист.
+ stem: сельхозспециалист.//сельхозспециалис.
  paradigm: Noun-num-consonant
  trans_ru: сельхозспециалист
 
@@ -129502,7 +129533,7 @@
 -lexeme
  lex: серьёзность
  gramm: N,rus
- stem: серьёзност.
+ stem: серьёзност.//серьёзнос.
  paradigm: Noun-num-soft
  trans_ru: серьёзность
 
@@ -129593,7 +129624,7 @@
 -lexeme
  lex: случайность
  gramm: N,rus
- stem: случайност.
+ stem: случайност.//случайнос.
  paradigm: Noun-num-soft
  trans_ru: случайность
 
@@ -129614,7 +129645,7 @@
 -lexeme
  lex: смелость
  gramm: N,rus
- stem: смелост.
+ stem: смелост.//смелос.
  paradigm: Noun-num-soft
  trans_ru: смелость
 
@@ -129747,7 +129778,7 @@
 -lexeme
  lex: солидарность
  gramm: N,rus
- stem: солидарност.
+ stem: солидарност.//солидарнос.
  paradigm: Noun-num-soft
  trans_ru: солидарность
 
@@ -129936,7 +129967,7 @@
 -lexeme
  lex: спецчасть
  gramm: N,rus
- stem: спецчаст.
+ stem: спецчаст.//спецчас.
  paradigm: Noun-num-soft
  trans_ru: спецчасть
 
@@ -129950,7 +129981,7 @@
 -lexeme
  lex: спокойность
  gramm: N,rus
- stem: спокойност.
+ stem: спокойност.//спокойнос.
  paradigm: Noun-num-soft
  trans_ru: спокойность
 
@@ -129964,7 +129995,7 @@
 -lexeme
  lex: способность
  gramm: N,rus
- stem: способност.
+ stem: способност.//способнос.
  paradigm: Noun-num-soft
  trans_ru: способность
 
@@ -129999,7 +130030,7 @@
 -lexeme
  lex: стабильность
  gramm: N,rus
- stem: стабильност.
+ stem: стабильност.//стабильнос.
  paradigm: Noun-num-soft
  trans_ru: стабильность
 
@@ -130049,14 +130080,14 @@
 -lexeme
  lex: стоимость
  gramm: N,rus
- stem: стоимост.
+ stem: стоимост.//стоимос.
  paradigm: Noun-num-soft
  trans_ru: стоимость
 
 -lexeme
  lex: стойкость
  gramm: N,rus
- stem: стойкост.
+ stem: стойкост.//стойкос.
  paradigm: Noun-num-soft
  trans_ru: стойкость
 
@@ -130147,7 +130178,7 @@
 -lexeme
  lex: строгость
  gramm: N,rus
- stem: строгост.
+ stem: строгост.//строгос.
  paradigm: Noun-num-soft
  trans_ru: строгость
 
@@ -130175,7 +130206,7 @@
 -lexeme
  lex: стройность
  gramm: N,rus
- stem: стройност.
+ stem: стройност.//стройнос.
  paradigm: Noun-num-soft
  trans_ru: стройность
 
@@ -130196,7 +130227,7 @@
 -lexeme
  lex: судимость
  gramm: N,rus
- stem: судимост.
+ stem: судимост.//судимос.
  paradigm: Noun-num-soft
  trans_ru: судимость
 
@@ -130546,7 +130577,7 @@
 -lexeme
  lex: трудность
  gramm: N,rus
- stem: трудност.
+ stem: трудност.//труднос.
  paradigm: Noun-num-soft
  trans_ru: трудность
 
@@ -130560,7 +130591,7 @@
 -lexeme
  lex: трудоспособность
  gramm: N,rus
- stem: трудоспособност.
+ stem: трудоспособност.//трудоспособнос.
  paradigm: Noun-num-soft
  trans_ru: трудоспособность
 
@@ -130581,7 +130612,7 @@
 -lexeme
  lex: турбинист
  gramm: N,rus,anim,hum
- stem: турбинист.
+ stem: турбинист.//турбинис.
  paradigm: Noun-num-consonant
  trans_ru: турбинист
 
@@ -130616,7 +130647,7 @@
 -lexeme
  lex: убежище
  gramm: N,rus
- stem: убежище.
+ stem: убежище.//убежища.//убежищо.
  paradigm: Noun-num-vowel
  trans_ru: убежище
 
@@ -130735,7 +130766,7 @@
 -lexeme
  lex: упитанность
  gramm: N,rus
- stem: упитанност.
+ stem: упитанност.//упитаннос.
  paradigm: Noun-num-soft
  trans_ru: упитанность
 
@@ -130798,7 +130829,7 @@
 -lexeme
  lex: утопист
  gramm: N,rus,anim,hum
- stem: утопист.
+ stem: утопист.//утопис.
  paradigm: Noun-num-consonant
  trans_ru: утопист
 
@@ -130903,7 +130934,7 @@
 -lexeme
  lex: фалангист
  gramm: N,rus,anim,hum
- stem: фалангист.
+ stem: фалангист.//фалангис.
  paradigm: Noun-num-consonant
  trans_ru: фалангист
 
@@ -131029,7 +131060,7 @@
 -lexeme
  lex: фрезерист
  gramm: N,rus,anim,hum
- stem: фрезерист.
+ stem: фрезерист.//фрезерис.
  paradigm: Noun-num-consonant
  trans_ru: фрезерист
 
@@ -131211,7 +131242,7 @@
 -lexeme
  lex: храбрость
  gramm: N,rus
- stem: храброст.
+ stem: храброст.//храброс.
  paradigm: Noun-num-soft
  trans_ru: храбрость
 
@@ -131260,14 +131291,14 @@
 -lexeme
  lex: целостность
  gramm: N,rus
- stem: целостност.
+ stem: целостност.//целостнос.
  paradigm: Noun-num-soft
  trans_ru: целостность
 
 -lexeme
  lex: ценность
  gramm: N,rus
- stem: ценност.
+ stem: ценност.//ценнос.
  paradigm: Noun-num-soft
  trans_ru: ценность
 
@@ -131281,7 +131312,7 @@
 -lexeme
  lex: центрист
  gramm: N,rus,anim,hum
- stem: центрист.
+ stem: центрист.//центрис.
  paradigm: Noun-num-consonant
  trans_ru: центрист
 
@@ -131617,7 +131648,7 @@
 -lexeme
  lex: электропромышленность
  gramm: N,rus
- stem: электропромышленност.
+ stem: электропромышленност.//электропромышленнос.
  paradigm: Noun-num-soft
  trans_ru: электропромышленность
 
@@ -131715,7 +131746,7 @@
 -lexeme
  lex: ясность
  gramm: N,rus
- stem: ясност.
+ stem: ясност.//яснос.
  paradigm: Noun-num-soft
  trans_ru: ясность
 
@@ -131771,7 +131802,7 @@
 -lexeme
  lex: несостоятельность
  gramm: N,rus
- stem: несостоятельност.
+ stem: несостоятельност.//несостоятельнос.
  paradigm: Noun-num-soft
  trans_ru: несостоятельность
 
@@ -131790,16 +131821,9 @@
  trans_ru: пикша
 
 -lexeme
- lex: безхозяйственность
- gramm: N,rus
- stem: безхозяйственност.
- paradigm: Noun-num-soft
- trans_ru: безхозяйственность
-
--lexeme
  lex: важность
  gramm: N,rus
- stem: важност.
+ stem: важност.//важнос.
  paradigm: Noun-num-soft
  trans_ru: важность
 
@@ -131834,7 +131858,7 @@
 -lexeme
  lex: враждебность
  gramm: N,rus
- stem: враждебност.
+ stem: враждебност.//враждебнос.
  paradigm: Noun-num-soft
  trans_ru: враждебность
 
@@ -131855,7 +131879,7 @@
 -lexeme
  lex: заинтересованность
  gramm: N,rus
- stem: заинтересованност.
+ stem: заинтересованност.//заинтересованнос.
  paradigm: Noun-num-soft
  trans_ru: заинтересованность
 
@@ -131869,7 +131893,7 @@
 -lexeme
  lex: исключительность
  gramm: N,rus
- stem: исключительност.
+ stem: исключительност.//исключительнос.
  paradigm: Noun-num-soft
  trans_ru: исключительность
 
@@ -131897,7 +131921,7 @@
 -lexeme
  lex: малограмотность
  gramm: N,rus
- stem: малограмотност.
+ stem: малограмотност.//малограмотнос.
  paradigm: Noun-num-soft
  trans_ru: малограмотность
 
@@ -131939,7 +131963,7 @@
 -lexeme
  lex: осторожность
  gramm: N,rus
- stem: осторожност.
+ stem: осторожност.//осторожнос.
  paradigm: Noun-num-soft
  trans_ru: осторожность
 
@@ -131960,7 +131984,7 @@
 -lexeme
  lex: отсталость
  gramm: N,rus
- stem: отсталост.
+ stem: отсталост.//отсталос.
  paradigm: Noun-num-soft
  trans_ru: отсталость
 
@@ -131995,7 +132019,7 @@
 -lexeme
  lex: продолжительность
  gramm: N,rus
- stem: продолжительност.
+ stem: продолжительност.//продолжительнос.
  paradigm: Noun-num-soft
  trans_ru: продолжительность
 
@@ -132100,7 +132124,7 @@
 -lexeme
  lex: спелость
  gramm: N,rus
- stem: спелост.
+ stem: спелост.//спелос.
  paradigm: Noun-num-soft
  trans_ru: спелость
 
@@ -132121,7 +132145,7 @@
 -lexeme
  lex: сущность
  gramm: N,rus
- stem: сущност.
+ stem: сущност.//сущнос.
  paradigm: Noun-num-soft
  trans_ru: сущность
 

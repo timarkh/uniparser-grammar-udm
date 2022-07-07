@@ -3200,12 +3200,21 @@
   gramm: loc
   gloss: LOC
   paradigm: Noun-case-compounding
+ -flex: .[й]ын<.>
+  gramm: loc,nonst
+  gloss: LOC
+  paradigm: Noun-case-compounding
  -flex: .е<.>//.[я]е<.>
   gramm: ill
   gloss: ILL
   paradigm: Comparative
  -flex: .ыс<.>//.[я]ыс<.>
   gramm: el
+  gloss: EL
+  paradigm: Noun-case-compounding-soft
+  paradigm: Noun-case-compounding-pl-soft
+ -flex: .[й]ыс<.>
+  gramm: el,nonst
   gloss: EL
   paradigm: Noun-case-compounding-soft
   paradigm: Noun-case-compounding-pl-soft
@@ -3218,12 +3227,20 @@
   gramm: el
   gloss: EL
   paradigm: Comparative
+ -flex: .[й]ысь<.>
+  gramm: el,nonst
+  gloss: EL
+  paradigm: Comparative
  -flex: .ись<.>//.[я]ись<.>
   gramm: el,nonst
   gloss: EL
   paradigm: Comparative
  -flex: .ысен<.>//.[я]ысен<.>
   gramm: egr
+  gloss: EGR
+  paradigm: Noun-case-compounding
+ -flex: .[й]ысен<.>
+  gramm: egr,nonst
   gloss: EGR
   paradigm: Noun-case-compounding
  -flex: .исен<.>//.[я]исен<.>
@@ -3291,12 +3308,21 @@
   gramm: loc
   gloss: LOC
   paradigm: Noun-case-compounding
+ -flex: .[й]ын<.>
+  gramm: loc,nonst
+  gloss: LOC
+  paradigm: Noun-case-compounding
  -flex: .е<.>//.[е]е<.>
   gramm: ill
   gloss: ILL
   paradigm: Comparative
  -flex: .ыс<.>//.[е]ыс<.>
   gramm: el
+  gloss: EL
+  paradigm: Noun-case-compounding-soft
+  paradigm: Noun-case-compounding-pl-soft
+ -flex: .[й]ыс<.>
+  gramm: el,nonst
   gloss: EL
   paradigm: Noun-case-compounding-soft
   paradigm: Noun-case-compounding-pl-soft
@@ -3309,12 +3335,20 @@
   gramm: el
   gloss: EL
   paradigm: Comparative
+ -flex: .[й]ысь<.>
+  gramm: el,nonst
+  gloss: EL
+  paradigm: Comparative
  -flex: .ись<.>//.[е]ись<.>
   gramm: el,nonst
   gloss: EL
   paradigm: Comparative
  -flex: .ысен<.>//.[е]ысен<.>
   gramm: egr
+  gloss: EGR
+  paradigm: Noun-case-compounding
+ -flex: .[й]ысен<.>
+  gramm: egr,nonst
   gloss: EGR
   paradigm: Noun-case-compounding
  -flex: .исен<.>//.[е]исен<.>
