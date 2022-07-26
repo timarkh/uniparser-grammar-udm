@@ -6314,6 +6314,14 @@
  trans_ru: после
 
 -lexeme
+ lex: бере
+ stem: бера.
+ gramm: POST
+ paradigm: poss-sg
+ paradigm: poss-pl
+ trans_ru: после
+
+-lexeme
  lex: алай
  stem: алай.
  gramm: CNJ
@@ -8075,7 +8083,7 @@
  stem: э-ке-кек.//эке-кек.//эк-экек.
  gramm: INTRJ
  paradigm: Empty
- trans_ru: об удивлении, сожалении, упрёке
+ trans_ru: об удивлении, сожалении, упрёке
 
 -lexeme
  lex: ура
@@ -9915,7 +9923,7 @@
 -lexeme
  lex: лумбытлы
  stem: лумбытлы.//лымбытлы.
- gramm: ADV,dar
+ gramm: ADV,dat
  paradigm: connect_adverbs
  trans_ru: на весь день
 
@@ -13164,7 +13172,7 @@
  gramm: ADV
  stem: арбытлы.
  paradigm: connect_adverbs
- trans_ru: достаточный на год, на целый год
+ trans_ru: достаточный на год, на целый год
 
 -lexeme
  lex: арбытэн
@@ -13304,7 +13312,7 @@
  gramm: ADV
  stem: быльырак.
  paradigm: connect_adverbs
- trans_ru: внезапно появились слёзы (синвуосыз быльырак потӥзы)
+ trans_ru: внезапно появились слёзы (синвуосыз быльырак потӥзы)
 
 -lexeme
  lex: быттырзэ
@@ -13507,7 +13515,7 @@
  gramm: ADV
  stem: выннапалан.
  paradigm: connect_adverbs
- trans_ru: на верхней стороне (улице) (деревни, села), наверху, вверху
+ trans_ru: на верхней стороне (улице) (деревни, села), наверху, вверху
 
 -lexeme
  lex: габырак
@@ -13563,7 +13571,7 @@
  gramm: ADV
  stem: гежеквыл.
  paradigm: connect_adverbs
- trans_ru: диал. наискосок
+ trans_ru: диал. наискосок
 
 -lexeme
  lex: гениально
@@ -15026,7 +15034,7 @@
  gramm: ADV
  stem: меӵыт.
  paradigm: connect_adverbs
- trans_ru: диал. круто, отвесно
+ trans_ru: диал. круто, отвесно
 
 -lexeme
  lex: мирно
@@ -15145,7 +15153,7 @@
  gramm: ADV
  stem: напляк.
  paradigm: connect_adverbs
- trans_ru: жидко (о грязи, о тесте)
+ trans_ru: жидко (о грязи, о тесте)
 
 -lexeme
  lex: напрасно
@@ -15635,7 +15643,7 @@
  gramm: ADV
  stem: огшуккемен.
  paradigm: connect_adverbs
- trans_ru: их сердца бились в унисон (соослэн сюлэмъёссы огшуккемен йыгаськизы)
+ trans_ru: их сердца бились в унисон (соослэн сюлэмъёссы огшуккемен йыгаськизы)
 
 -lexeme
  lex: огъёрсын
@@ -15803,7 +15811,7 @@
  gramm: ADV
  stem: пачылак.
  paradigm: connect_adverbs
- trans_ru: через верх (край) (литься, сыпаться)
+ trans_ru: через верх (край) (литься, сыпаться)
 
 -lexeme
  lex: педлань
@@ -17483,7 +17491,7 @@
  gramm: ADV
  stem: япылак.
  paradigm: connect_adverbs
- trans_ru: диал. полностью, целиком, сплошь, совсем
+ trans_ru: диал. полностью, целиком, сплошь, совсем
 
 -lexeme
  lex: ясно
@@ -17903,7 +17911,7 @@
  gramm: PART
  stem: ӧкӧ.
  paradigm: Comparative
- trans_ru: диал. частица утв. да
+ trans_ru: диал. частица утв. да
 
 -lexeme
  lex: олле
@@ -17979,6 +17987,8 @@
  lex: кузя
  gramm: POST
  stem: кузя.
+ paradigm: poss-sg
+ paradigm: poss-pl
  paradigm: Comparative
  trans_ru: по; длиной с...; вместе, совместно
 
@@ -18652,7 +18662,7 @@
  gramm: INTRJ
  stem: э-э-кек-эк.
  paradigm: Comparative
- trans_ru: об удивлении, сожалении, упрёке (эх, э-хе-хе; ой-ой-ой; ай-яй-яй)
+ trans_ru: об удивлении, сожалении, упрёке (эх, э-хе-хе; ой-ой-ой; ай-яй-яй)
 
 -lexeme
  lex: э-э-э
@@ -18778,7 +18788,7 @@
  gramm: ADV
  stem: кескентэк.
  paradigm: connect_adverbs
- trans_ru: диал. вдруг, неожиданно, внезапно
+ trans_ru: диал. вдруг, неожиданно, внезапно
 
 -lexeme
  lex: котыр
@@ -19002,7 +19012,7 @@
  gramm: ADV
  stem: сокуен.
  paradigm: connect_adverbs
- trans_ru: диал. тогда, в таком случае, значит, таким образом
+ trans_ru: диал. тогда, в таком случае, значит, таким образом
 
 -lexeme
  lex: солань-талань
@@ -21166,3 +21176,144 @@
  gramm: ADV
  paradigm: connect_adverbs
  trans_ru: мало-помалу
+
+-lexeme
+ lex: азьвыл
+ stem: азьвыл.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: раньше, прежде
+
+-lexeme
+ lex: бер
+ stem: бер.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: поздно
+
+-lexeme
+ lex: берлань
+ stem: берлань.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: назад, обратно
+
+-lexeme
+ lex: вылаз
+ stem: вылаз.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: вдобавок
+
+-lexeme
+ lex: вылын
+ stem: вылын.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: высоко, наверху, вверху
+
+-lexeme
+ lex: выльысь 
+ stem: выльысь.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: снова
+
+-lexeme
+ lex: вылэ
+ stem: вылэ.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: вверх, наверх
+
+-lexeme
+ lex: йӧно
+ stem: йӧно.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: деловито; гордо; красиво; достойно
+
+-lexeme
+ lex: нырысь
+ stem: нырысь.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: вначале, сначала
+
+-lexeme
+ lex: нырысьсэ
+ stem: нырысьсэ.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: впервые, в первый раз
+
+-lexeme
+ lex: огинэ
+ stem: огинэ.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: в одно место, воедино
+
+-lexeme
+ lex: сӥзьыл
+ stem: сӥзьыл.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: осенью
+
+-lexeme
+ lex: ӵемысь
+ stem: ӵемысь.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: часто, зачастую
+
+-lexeme
+ lex: я
+ stem: я.
+ gramm: CNJ
+ paradigm: Comparative
+ trans_ru: или, или... или; то...то; то ли... то ли
+
+-lexeme
+ lex: луоз
+ stem: луоз.
+ gramm: PARENTH
+ paradigm: Comparative
+ trans_ru: наверно, может быть, вероятно
+
+-lexeme
+ lex: вылысь
+ stem: вылысь.
+ gramm: POST
+ paradigm: Comparative
+ trans_ru: с целью; для того, чтобы
+
+-lexeme
+ lex: интые
+ stem: интые.
+ gramm: POST
+ paradigm: Comparative
+ trans_ru: вместо, за
+
+-lexeme
+ lex: интые
+ stem: интыя.
+ gramm: POST
+ paradigm: poss-sg
+ paradigm: poss-pl
+ trans_ru: вместо, за
+
+-lexeme
+ lex: йырин
+ stem: йырин.
+ gramm: POST
+ paradigm: Comparative
+ trans_ru: из-за; не до
+
+-lexeme
+ lex: кеме
+ stem: кеме.
+ gramm: POST
+ paradigm: Comparative
+ trans_ru: на расстояние; примерно, приблизительно, около

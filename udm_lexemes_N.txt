@@ -42201,6 +42201,13 @@
  trans_ru: сторона
 
 -lexeme
+ lex: пал
+ stem: пал.
+ gramm: NUM
+ paradigm: Noun-num-consonant
+ trans_ru: один (из двух)
+
+-lexeme
  lex: палар
  stem: палар.
  gramm: N,time_meas
@@ -102079,7 +102086,7 @@
  gramm: N
  stem: ваннапал.
  paradigm: Noun-num-pal
- trans_ru: диал. верхняя сторона, верхняя часть (деревни, села), верх
+ trans_ru: диал. верхняя сторона, верхняя часть (деревни, села), верх
 
 -lexeme
  lex: вареник
@@ -102192,7 +102199,7 @@
  gramm: N
  stem: верс.
  paradigm: Noun-num-consonant
- trans_ru: диал. дрова, предназначенные для распиловки (пу вандон верс кылле)
+ trans_ru: диал. дрова, предназначенные для распиловки (пу вандон верс кылле)
 
 -lexeme
  lex: вершок
@@ -103062,7 +103069,7 @@
  gramm: N
  stem: гордизьы.
  paradigm: Noun-num-vowel
- trans_ru: зоол. чечётка (птица)
+ trans_ru: зоол. чечётка (птица)
 
 -lexeme
  lex: гордйыр
@@ -103398,7 +103405,7 @@
  gramm: N
  stem: гылэт.
  paradigm: Noun-num-consonant
- trans_ru: диал. закуска, еда
+ trans_ru: диал. закуска, еда
 
 -lexeme
  lex: ГЭС
@@ -104709,7 +104716,7 @@
  gramm: N
  stem: зубнё.
  paradigm: Noun-num-vowel
- trans_ru: диал. кузов, плетёнка, лукошко (из лыка)
+ trans_ru: диал. кузов, плетёнка, лукошко (из лыка)
 
 -lexeme
  lex: ӟугы
@@ -105802,7 +105809,7 @@
  gramm: N
  stem: кискачи.
  paradigm: Noun-num-vowel
- trans_ru: щипцы (для углей); клещи; тиски
+ trans_ru: щипцы (для углей); клещи; тиски
 
 -lexeme
  lex: кислэт
@@ -107085,7 +107092,7 @@
  gramm: N,anim
  stem: кыйӝу.
  paradigm: Noun-num-j
- trans_ru: плаун булавовидный
+ trans_ru: плаун булавовидный
 
 -lexeme
  lex: кылбурвамыш
@@ -107197,7 +107204,7 @@
  gramm: N,rus
  stem: лабас.
  paradigm: Noun-num-consonant
- trans_ru: диал. навес, сарай; лабаз
+ trans_ru: диал. навес, сарай; лабаз
 
 -lexeme
  lex: лабиринт
@@ -107521,7 +107528,7 @@
  gramm: N,anim,rus
  stem: лудпарс.
  paradigm: Noun-num-soft
- trans_ru: дикая свинья, кабан
+ trans_ru: дикая свинья, кабан
 
 -lexeme
  lex: лузга
@@ -107535,7 +107542,7 @@
  gramm: N,rus,anim,hum
  stem: лулгажан.
  paradigm: Noun-num-consonant
- trans_ru: возлюбленный, возлюбленная; задушевный друг
+ trans_ru: возлюбленный, возлюбленная; задушевный друг
 
 -lexeme
  lex: лулкай
@@ -108229,7 +108236,7 @@
  gramm: N
  stem: моӵ.
  paradigm: Noun-num-consonant
- trans_ru: диал. сила, могущество; состояние, достаток
+ trans_ru: диал. сила, могущество; состояние, достаток
 
 -lexeme
  lex: мошкар
@@ -109051,7 +109058,7 @@
  gramm: N,anim,hum
  stem: нюнь-вын.
  paradigm: Noun-num-consonant
- trans_ru: брат (старший или младший)
+ trans_ru: брат (старший или младший)
 
 -lexeme
  lex: нюрвыл
@@ -110476,7 +110483,7 @@
  gramm: N,rus
  stem: плашка.
  paradigm: Noun-num-vowel
- trans_ru: диал. пуговица
+ trans_ru: диал. пуговица
 
 -lexeme
  lex: плащ-накидка
@@ -112032,7 +112039,7 @@
  gramm: N
  stem: пыдултурын.
  paradigm: Noun-num-consonant
- trans_ru: трава, зелень; бот. горец птичий
+ trans_ru: трава, зелень; бот. горец птичий
 
 -lexeme
  lex: пыдэпонон
@@ -112081,7 +112088,7 @@
  gramm: N
  stem: пыши.
  paradigm: Noun-num-vowel
- trans_ru: кострика (конопли, льна)
+ trans_ru: кострика (конопли, льна)
 
 -lexeme
  lex: пышты
@@ -114276,7 +114283,7 @@
  gramm: N
  stem: сялтым.
  paradigm: Noun-num-consonant
- trans_ru: обряд купания в проруби (когда моют пряжу, смотанную в моты)
+ trans_ru: обряд купания в проруби (когда моют пряжу, смотанную в моты)
 
 -lexeme
  lex: сяртчынянь
@@ -114767,7 +114774,7 @@
  gramm: N,anim,hum
  stem: туганка.
  paradigm: Noun-num-j
- trans_ru: родственник; родня; близкий (родной) человек; друг
+ trans_ru: родственник; родня; близкий (родной) человек; друг
 
 -lexeme
  lex: тужурка
@@ -116203,7 +116210,7 @@
  gramm: N
  stem: чияп.
  paradigm: Noun-num-consonant
- trans_ru: диал. цыпки (мелкие трещинки на руках и ногах)
+ trans_ru: диал. цыпки (мелкие трещинки на руках и ногах)
 
 -lexeme
  lex: чокля
@@ -116358,7 +116365,7 @@
  gramm: N
  stem: ӵушет.
  paradigm: Noun-num-consonant
- trans_ru: тряпка (всё то, что служит для вытирания)
+ trans_ru: тряпка (всё то, что служит для вытирания)
 
 -lexeme
  lex: чушка
@@ -120068,7 +120075,7 @@
  gramm: N
  stem: напаръя.
  paradigm: Noun-num-vowel
- trans_ru: диал. сверло, бурав
+ trans_ru: диал. сверло, бурав
 
 -lexeme
  lex: наробраз
@@ -120243,7 +120250,7 @@
  gramm: N
  stem: сезьйыр.
  paradigm: Noun-num-consonant
- trans_ru: бот. овсяница
+ trans_ru: бот. овсяница
 
 -lexeme
  lex: сервилат
@@ -120320,7 +120327,7 @@
  gramm: N,body
  stem: тырпы.
  paradigm: Noun-num-vowel
- trans_ru: диал. губа, губы
+ trans_ru: диал. губа, губы
 
 -lexeme
  lex: уждыр
@@ -132583,3 +132590,73 @@
  paradigm: Noun-num-consonant
  trans_ru: цеппелин
 
+-lexeme
+ lex: азьвыл
+ stem: азьвыл.
+ gramm: N
+ paradigm: Noun-num-consonant
+ paradigm: Noun-num-consonant-y
+ trans_ru: раньше, прежде
+
+-lexeme
+ lex: азь
+ stem: аз.
+ gramm: N
+ paradigm: Noun-num-soft
+ trans_ru: место; участок; перед, фасад
+
+-lexeme
+ lex: буко
+ stem: буко.
+ gramm: N
+ paradigm: Noun-num-vowel
+ trans_ru: дуга (часть упряжи)
+
+-lexeme
+ lex: дор
+ stem: дор.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: родина; родной дом
+
+-lexeme
+ lex: итым
+ stem: итым.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: гумно, ток
+
+-lexeme
+ lex: кечсин
+ stem: кечсин.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: подснежник
+
+-lexeme
+ lex: кусып
+ stem: кусып.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: промежуток, расстояние; отношения, связь
+
+-lexeme
+ lex: нуназе
+ stem: нуназе.
+ gramm: N
+ paradigm: Noun-num-vowel
+ trans_ru: день, полдень; обед
+
+-lexeme
+ lex: пӧськы
+ stem: пӧськы.
+ gramm: N,body
+ paradigm: Noun-num-vowel
+ trans_ru: чирей, фурункул
+
+-lexeme
+ lex: ул
+ stem: ул.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: сук, сучок, сучья

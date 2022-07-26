@@ -2164,7 +2164,7 @@
   gramm: ill
   gloss: ILL
   paradigm: Noun-case-compounding
-  regex-lex: ^сэрег$
+  regex-lex: ^(сэрег|нюлэс|пыдэс)$
 
 -paradigm: Noun-acc-murt
  -flex: .э<.>
@@ -7514,6 +7514,9 @@
   gramm: evid,1,sg
   gloss: PRS1|EVID
  -flex: .эм<.>
+  gramm: evid,1,sg
+  gloss: EVID
+ -flex: .эм<.>
   gramm: evid,2,sg
   gloss: EVID
  -flex: .эм|ед<.>
@@ -7543,6 +7546,10 @@
  -flex: .иськ|ем<.>
   gramm: evid,1,sg
   gloss: PL23|EVID
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+ -flex: .ем<.>
+  gramm: evid,1,sg
+  gloss: EVID
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
  -flex: .ем<.>
   gramm: evid,2,sg
@@ -7583,6 +7590,10 @@
  paradigm: Comparative
 
 -paradigm: Evidentiality-I-j
+ -flex: <1>.ем<.>
+  gramm: evid,1,sg
+  gloss: EVID
+  regex-prev: ^.*[аеёиӥоӧуыэюяъь][<>.]*$
  -flex: <1>.ем<.>
   gramm: evid,2,sg
   gloss: EVID
@@ -7632,6 +7643,9 @@
   gramm: evid,1,sg
   gloss: PL23|EVID
  -flex: .ем<.>
+  gramm: evid,1,sg
+  gloss: EVID
+ -flex: .ем<.>
   gramm: evid,2,sg
   gloss: EVID
  -flex: .ем|ед<.>
@@ -7665,6 +7679,9 @@
  -flex: .ськ|ем<.>
   gramm: evid,1,sg
   gloss: PL23|EVID
+ -flex: .м<.>
+  gramm: evid,1,sg
+  gloss: EVID
  -flex: .м<.>
   gramm: evid,2,sg
   gloss: EVID

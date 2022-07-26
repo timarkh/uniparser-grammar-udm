@@ -31793,12 +31793,6 @@
  paradigm: connect_adjectives
  trans_ru: полосатый
 -lexeme
- lex: жингрес
- stem: жингрес.
- gramm: A
- paradigm: connect_adjectives
- trans_ru: звонкий
--lexeme
  lex: блаженная
  stem: блаженная.
  gramm: ADJ,rus
@@ -32473,7 +32467,7 @@
  gramm: ADJ
  stem: бозалэс.
  paradigm: connect_adjectives
- trans_ru: басистый, низкий (о звуке, голосе)
+ trans_ru: басистый, низкий (о звуке, голосе)
 
 -lexeme
  lex: бозмыт
@@ -32627,7 +32621,7 @@
  gramm: ADJ
  stem: быгыли.
  paradigm: connect_adjectives
- trans_ru: диал. круглый
+ trans_ru: диал. круглый
 
 -lexeme
  lex: быгыт
@@ -34524,7 +34518,7 @@
  gramm: ADJ
  stem: куттэмпыд.
  paradigm: connect_adjectives
- trans_ru: диал. босой, босиком, на босу ногу
+ trans_ru: диал. босой, босиком, на босу ногу
 
 -lexeme
  lex: куӵо-маӵо
@@ -35000,7 +34994,7 @@
  gramm: ADJ
  stem: меӵыт.
  paradigm: connect_adjectives
- trans_ru: диал. крутой, отвесный
+ trans_ru: диал. крутой, отвесный
 
 -lexeme
  lex: миллиметровой
@@ -39277,7 +39271,7 @@
  gramm: ADJ
  stem: бозгыт.
  paradigm: connect_adjectives
- trans_ru: басистый, низкий (о звуке, голосе)
+ trans_ru: басистый, низкий (о звуке, голосе)
 
 -lexeme
  lex: бронебойно-зажигательной
@@ -39396,7 +39390,7 @@
  gramm: ADJ
  stem: керы.
  paradigm: connect_adjectives
- trans_ru: диал. упрямый, непослушный
+ trans_ru: диал. упрямый, непослушный
 
 -lexeme
  lex: кесясь-кились
@@ -39585,7 +39579,7 @@
  gramm: ADJ
  stem: табанак.
  paradigm: connect_adjectives
- trans_ru: диал. коренастый, низкорослый
+ trans_ru: диал. коренастый, низкорослый
 
 -lexeme
  lex: узыро
@@ -47833,3 +47827,23 @@
  paradigm: connect_adjectives
  trans_ru: дневной, -дневный
 
+-lexeme
+ lex: мусо
+ gramm: ADJ
+ stem: мусо.
+ paradigm: connect_adjectives
+ trans_ru: милый, любимый
+
+-lexeme
+ lex: удмурт
+ gramm: ADJ
+ stem: удмурт.
+ paradigm: connect_adjectives
+ trans_ru: удмуртский
+
+-lexeme
+ lex: чут
+ gramm: ADJ
+ stem: чут.
+ paradigm: connect_adjectives
+ trans_ru: хромой

@@ -1,12 +1,4 @@
 -lexeme
- lex: азьвыл
- stem: азьвыл.
- gramm: N,rel_n
- paradigm: Noun-num-consonant
- paradigm: Noun-num-consonant-y
- trans_ru: раньше, прежде
-
--lexeme
  lex: вӧз
  stem: вӧз.
  gramm: N,rel_n

@@ -1446,7 +1446,7 @@
 -lexeme
  lex: ас
  stem: ассэ.//асьсэ.//ащсэ.//ачизэ.
- gramm: PRO,3pl
+ gramm: PRO,3sg,acc
  paradigm: Noun-case
  trans_ru: сам, свой
 
@@ -1772,7 +1772,7 @@
  gramm: PRO
  stem: олоша.
  paradigm: Noun-num-j
- trans_ru: разг. не знаю что, чёрт знает что; неизвестно что
+ trans_ru: не знаю что, чёрт знает что; неизвестно что
 
 -lexeme
  lex: ома

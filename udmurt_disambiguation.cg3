@@ -75,6 +75,11 @@ REMOVE (V fut pass) IF (0 (V prs))
                        (*-1 BOSPunct OR (CNJ) BARRIER NotClitics)
                        (*2 BOSPunct OR (CNJ) BARRIER NotClitics);
 
+# Remove 1sg analysis for evidential -em if not followed
+# by val
+REMOVE (V evid 1 sg) IF (0 (".*(([^к]|[^ь]к)ем|[эая]м)$"r))
+                        (NEGATE *1 ("вал"i) BARRIER NotClitics);
+
 # imperative plural is a very rare form which coincides
 # with prs,3,pl
 REMOVE (V imp pl) IF (-1 (PRO sg nom) OR WhQuestions);
