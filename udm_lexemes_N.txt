@@ -15672,6 +15672,13 @@
  trans_ru: жаворонок
 
 -lexeme
+ lex: дорога
+ stem: дорога.
+ gramm: N,rus
+ paradigm: Noun-num-vowel
+ trans_ru: дорога
+
+-lexeme
  lex: дорожник
  stem: дорожник.
  gramm: N,rus
@@ -15893,7 +15900,7 @@
  stem: дукес.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: азям, армяк, зипун обл.
+ trans_ru: азям, армяк, зипун
 
 -lexeme
  lex: дукъя
@@ -15907,7 +15914,7 @@
  stem: дукъяпи.
  gramm: N,anim
  paradigm: Noun-num-vowel
- trans_ru: глухаренок, птенец глухаря
+ trans_ru: глухарёнок
 
 -lexeme
  lex: дума
@@ -33986,21 +33993,21 @@
  stem: лянгес.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: лянэс сарба сарва л., вутон, туйыс бурак
+ trans_ru: туесок
 
 -lexeme
  lex: лянэс
  stem: лянэс.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: туес, туесок, бурак обл.
+ trans_ru: туесок
 
 -lexeme
  lex: ляпа
  stem: ляпа.
  gramm: N,rus
  paradigm: Noun-num-vowel
- trans_ru: пятнашки, ляпки обл.
+ trans_ru: пятнашки, ляпки
 
 -lexeme
  lex: ляпис
@@ -52412,7 +52419,7 @@
  stem: сарба.
  gramm: N
  paradigm: Noun-num-vowel
- trans_ru: сарва бурак, туес обл.
+ trans_ru: туесок
 
 -lexeme
  lex: сарвыл
@@ -58873,6 +58880,13 @@
  gramm: N
  paradigm: Noun-num-j
  trans_ru: латунь, медь
+
+-lexeme
+ lex: туй
+ stem: ту.
+ gramm: N
+ paradigm: Noun-num-j
+ trans_ru: береста; берестяной черпак
 
 -lexeme
  lex: туйет
@@ -110968,6 +110982,13 @@
  stem: попадья.
  paradigm: Noun-num-vowel
  trans_ru: попадья
+
+-lexeme
+ lex: поп
+ gramm: N,rus,anim,hum
+ stem: поп.
+ paradigm: Noun-num-vowel
+ trans_ru: поп, священник
 
 -lexeme
  lex: поплин
