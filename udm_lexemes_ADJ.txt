@@ -14459,6 +14459,13 @@
  trans_ru: международный
 
 -lexeme
+ lex: куспо
+ stem: куспо.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: меж-, между- (часть прилагательных)
+
+-lexeme
  lex: сылалэсь
  stem: сылалэс.
  gramm: ADJ,oblin
@@ -17431,7 +17438,7 @@
  trans_ru: вступительный
 -lexeme
  lex: всякой
- stem: всяко.
+ stem: всяко.//всяки.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: всякий
@@ -17447,6 +17454,12 @@
  gramm: NUM,ord,rus
  paradigm: connect_adjectives-j
  trans_ru: второй
+-lexeme
+ lex: третий
+ stem: трети.//трете.
+ gramm: NUM,ord,rus
+ paradigm: connect_adjectives-j
+ trans_ru: третий
 -lexeme
  lex: выборгской
  stem: выборгско.//выборгски.
@@ -26656,6 +26669,12 @@
  paradigm: connect_adjectives-j
  trans_ru: промышленный
 -lexeme
+ lex: оборонно-промышленной
+ stem: оборонно-промышленно.//оборонно-промышленны.
+ gramm: ADJ,rus
+ paradigm: connect_adjectives-j
+ trans_ru: оборонно-промышленный
+-lexeme
  lex: промышленой
  stem: промышлено.//промышлены.
  gramm: ADJ,rus
@@ -31733,7 +31752,7 @@
  trans_ru: японский
 -lexeme
  lex: яркой
- stem: ярко.
+ stem: ярко.//ярки.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: яркий
@@ -32101,7 +32120,7 @@
 -lexeme
  lex: агрозоотехнической
  gramm: ADJ,rus
- stem: агрозоотехническо.
+ stem: агрозоотехническо.//агрозоотехнически.
  paradigm: connect_adjectives-j
  trans_ru: агрозоотехнический
 
@@ -32115,7 +32134,7 @@
 -lexeme
  lex: адской
  gramm: ADJ,rus
- stem: адско.
+ stem: адско.//адски.
  paradigm: connect_adjectives-j
  trans_ru: адский
 
@@ -32248,21 +32267,21 @@
 -lexeme
  lex: анемической
  gramm: ADJ,rus
- stem: анемическо.
+ stem: анемическо.//анемически.
  paradigm: connect_adjectives-j
  trans_ru: анемический
 
 -lexeme
  lex: антисоветской
  gramm: ADJ,rus
- stem: антисоветско.
+ stem: антисоветско.//антисоветски.
  paradigm: connect_adjectives-j
  trans_ru: антисоветский
 
 -lexeme
  lex: апрельской
  gramm: ADJ,rus
- stem: апрельско.
+ stem: апрельско.//апрельски.
  paradigm: connect_adjectives-j
  trans_ru: апрельский
 
@@ -32283,7 +32302,7 @@
 -lexeme
  lex: армянской
  gramm: ADJ,rus
- stem: армянско.
+ stem: армянско.//армянски.
  paradigm: connect_adjectives-j
  trans_ru: армянский
 
@@ -32388,7 +32407,7 @@
 -lexeme
  lex: белоцерковской
  gramm: ADJ,rus
- stem: белоцерковско.
+ stem: белоцерковско.//белоцерковски.
  paradigm: connect_adjectives-j
  trans_ru: белоцерковский
 
@@ -32416,7 +32435,7 @@
 -lexeme
  lex: бийской
  gramm: ADJ,rus
- stem: бийско.
+ stem: бийско.//бийски.
  paradigm: connect_adjectives-j
  trans_ru: бийский
 
@@ -32430,7 +32449,7 @@
 -lexeme
  lex: блядской
  gramm: ADJ,rus
- stem: блядско.
+ stem: блядско.//блядски.
  paradigm: connect_adjectives-j
  trans_ru: блядский
 
@@ -32451,7 +32470,7 @@
 -lexeme
  lex: богушевской
  gramm: ADJ,rus
- stem: богушевско.
+ stem: богушевско.//богушевски.
  paradigm: connect_adjectives-j
  trans_ru: богушевский
 
@@ -32486,7 +32505,7 @@
 -lexeme
  lex: болгарской
  gramm: ADJ,rus
- stem: болгарско.
+ stem: болгарско.//болгарски.
  paradigm: connect_adjectives-j
  trans_ru: болгарский
 
@@ -32549,14 +32568,14 @@
 -lexeme
  lex: буйской
  gramm: ADJ,rus
- stem: буйско.
+ stem: буйско.//буйски.
  paradigm: connect_adjectives-j
  trans_ru: буйский
 
 -lexeme
  lex: букинистической
  gramm: ADJ,rus
- stem: букинистическо.
+ stem: букинистическо.//букинистически.
  paradigm: connect_adjectives-j
  trans_ru: букинистический
 
@@ -32577,7 +32596,7 @@
 -lexeme
  lex: буржуазно-националистической
  gramm: ADJ,rus
- stem: буржуазно-националистическо.
+ stem: буржуазно-националистическо.//буржуазно-националистически.
  paradigm: connect_adjectives-j
  trans_ru: буржуазно-националистический
 
@@ -32605,7 +32624,7 @@
 -lexeme
  lex: бухаринской
  gramm: ADJ,rus
- stem: бухаринско.
+ stem: бухаринско.//бухарински.
  paradigm: connect_adjectives-j
  trans_ru: бухаринский
 
@@ -32682,7 +32701,7 @@
 -lexeme
  lex: варшавской
  gramm: ADJ,rus
- stem: варшавско.
+ stem: варшавско.//варшавски.
  paradigm: connect_adjectives-j
  trans_ru: варшавский
 
@@ -32696,7 +32715,7 @@
 -lexeme
  lex: ватманской
  gramm: ADJ,rus
- stem: ватманско.
+ stem: ватманско.//ватмански.
  paradigm: connect_adjectives-j
  trans_ru: ватманский
 
@@ -32724,7 +32743,7 @@
 -lexeme
  lex: венской
  gramm: ADJ,rus
- stem: венско.
+ stem: венско.//венски.
  paradigm: connect_adjectives-j
  trans_ru: венский
 
@@ -32745,7 +32764,7 @@
 -lexeme
  lex: верхнечской
  gramm: ADJ,rus
- stem: верхнечско.
+ stem: верхнечско.//верхнечски.
  paradigm: connect_adjectives-j
  trans_ru: верхнечский
 
@@ -32899,7 +32918,7 @@
 -lexeme
  lex: воронежской
  gramm: ADJ,rus
- stem: воронежско.
+ stem: воронежско.//воронежски.
  paradigm: connect_adjectives-j
  trans_ru: воронежский
 
@@ -32990,7 +33009,7 @@
 -lexeme
  lex: высшой
  gramm: ADJ,rus
- stem: высшо.
+ stem: высшо.//высши.
  paradigm: connect_adjectives-j
  trans_ru: высший
 
@@ -33004,7 +33023,7 @@
 -lexeme
  lex: вышестоящой
  gramm: ADJ,rus
- stem: вышестоящо.
+ stem: вышестоящо.//вышестояще.//вышестоящи.
  paradigm: connect_adjectives-j
  trans_ru: вышестоящий
 
@@ -33060,7 +33079,7 @@
 -lexeme
  lex: геолого-минералогической
  gramm: ADJ,rus
- stem: геолого-минералогическо.
+ stem: геолого-минералогическо.//геолого-минералогически.
  paradigm: connect_adjectives-j
  trans_ru: геолого-минералогический
 
@@ -33074,14 +33093,14 @@
 -lexeme
  lex: героико-эпической
  gramm: ADJ,rus
- stem: героико-эпическо.
+ stem: героико-эпическо.//героико-эпически.
  paradigm: connect_adjectives-j
  trans_ru: героико-эпический
 
 -lexeme
  lex: геройской
  gramm: ADJ,rus
- stem: геройско.
+ stem: геройско.//геройски.
  paradigm: connect_adjectives-j
  trans_ru: геройский
 
@@ -33256,14 +33275,14 @@
 -lexeme
  lex: дактилической
  gramm: ADJ,rus
- stem: дактилическо.
+ stem: дактилическо.//дактилически.
  paradigm: connect_adjectives-j
  trans_ru: дактилический
 
 -lexeme
  lex: дактилоскопической
  gramm: ADJ,rus
- stem: дактилоскопическо.
+ stem: дактилоскопическо.//дактилоскопически.
  paradigm: connect_adjectives-j
  trans_ru: дактилоскопический
 
@@ -33312,7 +33331,7 @@
 -lexeme
  lex: детективно-приключенческой
  gramm: ADJ,rus
- stem: детективно-приключенческо.
+ stem: детективно-приключенческо.//детективно-приключенчески.
  paradigm: connect_adjectives-j
  trans_ru: детективно-приключенческий
 
@@ -33410,7 +33429,7 @@
 -lexeme
  lex: евангельской
  gramm: ADJ,rus
- stem: евангельско.
+ stem: евангельско.//евангельски.
  paradigm: connect_adjectives-j
  trans_ru: евангельский
 
@@ -33438,21 +33457,21 @@
 -lexeme
  lex: жандармской
  gramm: ADJ,rus
- stem: жандармско.
+ stem: жандармско.//жандармски.
  paradigm: connect_adjectives-j
  trans_ru: жандармский
 
 -lexeme
  lex: женевской
  gramm: ADJ,rus
- stem: женевско.
+ stem: женевско.//женевски.
  paradigm: connect_adjectives-j
  trans_ru: женевский
 
 -lexeme
  lex: жигулёвской
  gramm: ADJ,rus
- stem: жигулёвско.
+ stem: жигулёвско.//жигулёвски.
  paradigm: connect_adjectives-j
  trans_ru: жигулёвский
 
@@ -33753,14 +33772,14 @@
 -lexeme
  lex: ивановской
  gramm: ADJ,rus
- stem: ивановско.
+ stem: ивановско.//ивановски.
  paradigm: connect_adjectives-j
  trans_ru: ивановский
 
 -lexeme
  lex: идейно-политической
  gramm: ADJ,rus
- stem: идейно-политическо.
+ stem: идейно-политическо.//идейно-политически.
  paradigm: connect_adjectives-j
  trans_ru: идейно-политический
 
@@ -33774,7 +33793,7 @@
 -lexeme
  lex: иерусалимской
  gramm: ADJ,rus
- stem: иерусалимско.
+ stem: иерусалимско.//иерусалимски.
  paradigm: connect_adjectives-j
  trans_ru: иерусалимский
 
@@ -33802,7 +33821,7 @@
 -lexeme
  lex: инженерно-технической
  gramm: ADJ,rus
- stem: инженерно-техническо.
+ stem: инженерно-техническо.//инженерно-технически.
  paradigm: connect_adjectives-j
  trans_ru: инженерно-технический
 
@@ -33823,7 +33842,7 @@
 -lexeme
  lex: испанской
  gramm: ADJ,rus
- stem: испанско.
+ stem: испанско.//испански.
  paradigm: connect_adjectives-j
  trans_ru: испанский
 
@@ -33858,7 +33877,7 @@
 -lexeme
  lex: исык-кульской
  gramm: ADJ,rus
- stem: исык-кульско.
+ stem: исык-кульско.//исык-кульски.
  paradigm: connect_adjectives-j
  trans_ru: иссык-кульский
 
@@ -33928,7 +33947,7 @@
 -lexeme
  lex: кавалерийской
  gramm: ADJ,rus
- stem: кавалерийско.
+ stem: кавалерийско.//кавалерийски.
  paradigm: connect_adjectives-j
  trans_ru: кавалерийский
 
@@ -33949,21 +33968,21 @@
 -lexeme
  lex: каллиграфической
  gramm: ADJ,rus
- stem: каллиграфическо.
+ stem: каллиграфическо.//каллиграфически.
  paradigm: connect_adjectives-j
  trans_ru: каллиграфический
 
 -lexeme
  lex: канавинской
  gramm: ADJ,rus
- stem: канавинско.
+ stem: канавинско.//канавински.
  paradigm: connect_adjectives-j
  trans_ru: канавинский
 
 -lexeme
  lex: кантемировской
  gramm: ADJ,rus
- stem: кантемировско.
+ stem: кантемировско.//кантемировски.
  paradigm: connect_adjectives-j
  trans_ru: кантемировский
 
@@ -34047,7 +34066,7 @@
 -lexeme
  lex: киселевской
  gramm: ADJ,rus
- stem: киселевско.
+ stem: киселевско.//киселевски.
  paradigm: connect_adjectives-j
  trans_ru: киселёвский
 
@@ -34145,7 +34164,7 @@
 -lexeme
  lex: колчаковской
  gramm: ADJ,rus
- stem: колчаковско.
+ stem: колчаковско.//колчаковски.
  paradigm: connect_adjectives-j
  trans_ru: колчаковский
 
@@ -34194,7 +34213,7 @@
 -lexeme
  lex: конторской
  gramm: ADJ,rus
- stem: конторско.
+ stem: конторско.//конторски.
  paradigm: connect_adjectives-j
  trans_ru: конторский
 
@@ -34299,7 +34318,7 @@
 -lexeme
  lex: кременчугской
  gramm: ADJ,rus
- stem: кременчугско.
+ stem: кременчугско.//кременчугски.
  paradigm: connect_adjectives-j
  trans_ru: кременчугский
 
@@ -34404,7 +34423,7 @@
 -lexeme
  lex: кулацко-эсеровской
  gramm: ADJ,rus
- stem: кулацко-эсеровско.
+ stem: кулацко-эсеровско.//кулацко-эсеровски.
  paradigm: connect_adjectives-j
  trans_ru: кулацко-эсеровский
 
@@ -34509,7 +34528,7 @@
 -lexeme
  lex: кустанайской
  gramm: ADJ,rus
- stem: кустанайско.
+ stem: кустанайско.//кустанайски.
  paradigm: connect_adjectives-j
  trans_ru: кустанайский
 
@@ -34600,21 +34619,21 @@
 -lexeme
  lex: лиро-эпической
  gramm: ADJ,rus
- stem: лиро-эпическо.
+ stem: лиро-эпическо.//лиро-эпически.
  paradigm: connect_adjectives-j
  trans_ru: лиро-эпический
 
 -lexeme
  lex: литературно-критической
  gramm: ADJ,rus
- stem: литературно-критическо.
+ stem: литературно-критическо.//литературно-критически.
  paradigm: connect_adjectives-j
  trans_ru: литературно-критический
 
 -lexeme
  lex: литературно-творческой
  gramm: ADJ,rus
- stem: литературно-творческо.
+ stem: литературно-творческо.//литературно-творчески.
  paradigm: connect_adjectives-j
  trans_ru: литературно-творческий
 
@@ -34628,7 +34647,7 @@
 -lexeme
  lex: литературоведческой
  gramm: ADJ,rus
- stem: литературоведческо.
+ stem: литературоведческо.//литературоведчески.
  paradigm: connect_adjectives-j
  trans_ru: литературоведческий
 
@@ -34838,7 +34857,7 @@
 -lexeme
  lex: лысковской
  gramm: ADJ,rus
- stem: лысковско.
+ stem: лысковско.//лысковски.
  paradigm: connect_adjectives-j
  trans_ru: лысковский
 
@@ -34880,7 +34899,7 @@
 -lexeme
  lex: макарьевской
  gramm: ADJ,rus
- stem: макарьевско.
+ stem: макарьевско.//макарьевски.
  paradigm: connect_adjectives-j
  trans_ru: макарьевский
 
@@ -34894,14 +34913,14 @@
 -lexeme
  lex: манчжурской
  gramm: ADJ,rus
- stem: манчжурско.
+ stem: манчжурско.//манчжурски.
  paradigm: connect_adjectives-j
  trans_ru: маньчжурский
 
 -lexeme
  lex: марафонской
  gramm: ADJ,rus
- stem: марафонско.
+ stem: марафонско.//марафонски.
  paradigm: connect_adjectives-j
  trans_ru: марафонский
 
@@ -34957,14 +34976,14 @@
 -lexeme
  lex: мелодраматической
  gramm: ADJ,rus
- stem: мелодраматическо.
+ stem: мелодраматическо.//мелодраматически.
  paradigm: connect_adjectives-j
  trans_ru: мелодраматический
 
 -lexeme
  lex: мемуарно-автобиографической
  gramm: ADJ,rus
- stem: мемуарно-автобиографическо.
+ stem: мемуарно-автобиографическо.//мемуарно-автобиографически.
  paradigm: connect_adjectives-j
  trans_ru: мемуарно-автобиографический
 
@@ -34978,7 +34997,7 @@
 -lexeme
  lex: метафорической
  gramm: ADJ,rus
- stem: метафорическо.
+ stem: метафорическо.//метафорически.
  paradigm: connect_adjectives-j
  trans_ru: метафорический
 
@@ -35020,7 +35039,7 @@
 -lexeme
  lex: миргородской
  gramm: ADJ,rus
- stem: миргородско.
+ stem: миргородско.//миргородски.
  paradigm: connect_adjectives-j
  trans_ru: миргородский
 
@@ -35034,7 +35053,7 @@
 -lexeme
  lex: мифической
  gramm: ADJ,rus
- stem: мифическо.
+ stem: мифическо.//мифически.
  paradigm: connect_adjectives-j
  trans_ru: мифический
 
@@ -35083,7 +35102,7 @@
 -lexeme
  lex: музыкально-драматической
  gramm: ADJ,rus
- stem: музыкально-драматическо.
+ stem: музыкально-драматическо.//музыкально-драматически.
  paradigm: connect_adjectives-j
  trans_ru: музыкально-драматический
 
@@ -35216,7 +35235,7 @@
 -lexeme
  lex: научно-педагогической
  gramm: ADJ,rus
- stem: научно-педагогическо.
+ stem: научно-педагогическо.//научно-педагогически.
  paradigm: connect_adjectives-j
  trans_ru: научно-педагогический
 
@@ -35244,7 +35263,7 @@
 -lexeme
  lex: невельской
  gramm: ADJ,rus
- stem: невельско.
+ stem: невельско.//невельски.
  paradigm: connect_adjectives-j
  trans_ru: невельский
 
@@ -35314,7 +35333,7 @@
 -lexeme
  lex: немецко-фашистской
  gramm: ADJ,rus
- stem: немецко-фашистско.
+ stem: немецко-фашистско.//немецко-фашистски.
  paradigm: connect_adjectives-j
  trans_ru: немецко-фашистский
 
@@ -35342,7 +35361,7 @@
 -lexeme
  lex: нерчинской
  gramm: ADJ,rus
- stem: нерчинско.
+ stem: нерчинско.//нерчински.
  paradigm: connect_adjectives-j
  trans_ru: нерчинский
 
@@ -35377,14 +35396,14 @@
 -lexeme
  lex: никифоровской
  gramm: ADJ,rus
- stem: никифоровско.
+ stem: никифоровско.//никифоровски.
  paradigm: connect_adjectives-j
  trans_ru: никифоровский
 
 -lexeme
  lex: новаторской
  gramm: ADJ,rus
- stem: новаторско.
+ stem: новаторско.//новаторски.
  paradigm: connect_adjectives-j
  trans_ru: новаторский
 
@@ -35517,7 +35536,7 @@
 -lexeme
  lex: обывательской
  gramm: ADJ,rus
- stem: обывательско.
+ stem: обывательско.//обывательски.
  paradigm: connect_adjectives-j
  trans_ru: обывательский
 
@@ -35636,7 +35655,7 @@
 -lexeme
  lex: орденской
  gramm: ADJ,rus
- stem: орденско.
+ stem: орденско.//орденски.
  paradigm: connect_adjectives-j
  trans_ru: орденский
 
@@ -35650,7 +35669,7 @@
 -lexeme
  lex: оренбургской
  gramm: ADJ,rus
- stem: оренбургско.
+ stem: оренбургско.//оренбургски.
  paradigm: connect_adjectives-j
  trans_ru: оренбургский
 
@@ -35776,7 +35795,7 @@
 -lexeme
  lex: партизанской
  gramm: ADJ,rus
- stem: партизанско.
+ stem: партизанско.//партизански.
  paradigm: connect_adjectives-j
  trans_ru: партизанский
 
@@ -35790,7 +35809,7 @@
 -lexeme
  lex: партийно-политической
  gramm: ADJ,rus
- stem: партийно-политическо.
+ stem: партийно-политическо.//партийно-политически.
  paradigm: connect_adjectives-j
  trans_ru: партийно-политический
 
@@ -35811,7 +35830,7 @@
 -lexeme
  lex: педиатрической
  gramm: ADJ,rus
- stem: педиатрическо.
+ stem: педиатрическо.//педиатрически.
  paradigm: connect_adjectives-j
  trans_ru: педиатрический
 
@@ -35909,7 +35928,7 @@
 -lexeme
  lex: пехотинской
  gramm: ADJ,rus
- stem: пехотинско.
+ stem: пехотинско.//пехотински.
  paradigm: connect_adjectives-j
  trans_ru: пехотинский
 
@@ -35972,7 +35991,7 @@
 -lexeme
  lex: планово-экономической
  gramm: ADJ,rus
- stem: планово-экономическо.
+ stem: планово-экономическо.//планово-экономически.
  paradigm: connect_adjectives-j
  trans_ru: планово-экономический
 
@@ -36210,7 +36229,7 @@
 -lexeme
  lex: председательской
  gramm: ADJ,rus
- stem: председательско.
+ stem: председательско.//председательски.
  paradigm: connect_adjectives-j
  trans_ru: председательский
 
@@ -36266,7 +36285,7 @@
 -lexeme
  lex: прозаической
  gramm: ADJ,rus
- stem: прозаическо.
+ stem: прозаическо.//прозаически.
  paradigm: connect_adjectives-j
  trans_ru: прозаический
 
@@ -36280,7 +36299,7 @@
 -lexeme
  lex: прокурорской
  gramm: ADJ,rus
- stem: прокурорско.
+ stem: прокурорско.//прокурорски.
  paradigm: connect_adjectives-j
  trans_ru: прокурорский
 
@@ -36294,7 +36313,7 @@
 -lexeme
  lex: пролетарско-крестьянской
  gramm: ADJ,rus
- stem: пролетарско-крестьянско.
+ stem: пролетарско-крестьянско.//пролетарско-крестьянски.
  paradigm: connect_adjectives-j
  trans_ru: пролетарско-крестьянский
 
@@ -36308,14 +36327,14 @@
 -lexeme
  lex: пропагандно-просветительской
  gramm: ADJ,rus
- stem: пропагандно-просветительско.
+ stem: пропагандно-просветительско.//пропагандно-просветительски.
  paradigm: connect_adjectives-j
  trans_ru: пропагандно-просветительский
 
 -lexeme
  lex: пророческой
  gramm: ADJ,rus
- stem: пророческо.
+ stem: пророческо.//пророчески.
  paradigm: connect_adjectives-j
  trans_ru: пророческий
 
@@ -36336,14 +36355,14 @@
 -lexeme
  lex: профессионально-технической
  gramm: ADJ,rus
- stem: профессионально-техническо.
+ stem: профессионально-техническо.//профессионально-технически.
  paradigm: connect_adjectives-j
  trans_ru: профессионально-технический
 
 -lexeme
  lex: психической
  gramm: ADJ,rus
- stem: психическо.
+ stem: психическо.//психически.
  paradigm: connect_adjectives-j
  trans_ru: психический
 
@@ -36357,7 +36376,7 @@
 -lexeme
  lex: пугачёвской
  gramm: ADJ,rus
- stem: пугачёвско.
+ stem: пугачёвско.//пугачёвски.
  paradigm: connect_adjectives-j
  trans_ru: пугачёвский
 
@@ -36385,7 +36404,7 @@
 -lexeme
  lex: пулемётно-артиллерийской
  gramm: ADJ,rus
- stem: пулемётно-артиллерийско.
+ stem: пулемётно-артиллерийско.//пулемётно-артиллерийски.
  paradigm: connect_adjectives-j
  trans_ru: пулемётно-артиллерийский
 
@@ -36518,7 +36537,7 @@
 -lexeme
  lex: рамонской
  gramm: ADJ,rus
- stem: рамонско.
+ stem: рамонско.//рамонски.
  paradigm: connect_adjectives-j
  trans_ru: рамонский
 
@@ -36532,7 +36551,7 @@
 -lexeme
  lex: рационализаторской
  gramm: ADJ,rus
- stem: рационализаторско.
+ stem: рационализаторско.//рационализаторски.
  paradigm: connect_adjectives-j
  trans_ru: рационализаторский
 
@@ -36546,14 +36565,14 @@
 -lexeme
  lex: режиссёрско-педагогической
  gramm: ADJ,rus
- stem: режиссёрско-педагогическо.
+ stem: режиссёрско-педагогическо.//режиссёрско-педагогически.
  paradigm: connect_adjectives-j
  trans_ru: режиссёрско-педагогический
 
 -lexeme
  lex: резонёрской
  gramm: ADJ,rus
- stem: резонёрско.
+ stem: резонёрско.//резонёрски.
  paradigm: connect_adjectives-j
  trans_ru: резонёрский
 
@@ -36588,7 +36607,7 @@
 -lexeme
  lex: ростовской
  gramm: ADJ,rus
- stem: ростовско.
+ stem: ростовско.//ростовски.
  paradigm: connect_adjectives-j
  trans_ru: ростовский
 
@@ -36616,7 +36635,7 @@
 -lexeme
  lex: русско-японской
  gramm: ADJ,rus
- stem: русско-японско.
+ stem: русско-японско.//русско-японски.
  paradigm: connect_adjectives-j
  trans_ru: русско-японский
 
@@ -36693,7 +36712,7 @@
 -lexeme
  lex: секретарьской
  gramm: ADJ,rus
- stem: секретарьско.
+ stem: секретарьско.//секретарьски.
  paradigm: connect_adjectives-j
  trans_ru: секретарский
 
@@ -36770,14 +36789,14 @@
 -lexeme
  lex: сержантской
  gramm: ADJ,rus
- stem: сержантско.
+ stem: сержантско.//сержантски.
  paradigm: connect_adjectives-j
  trans_ru: сержантский
 
 -lexeme
  lex: сернурской
  gramm: ADJ,rus
- stem: сернурско.
+ stem: сернурско.//сернурски.
  paradigm: connect_adjectives-j
  trans_ru: сернурский
 
@@ -36840,7 +36859,7 @@
 -lexeme
  lex: служебно-политической
  gramm: ADJ,rus
- stem: служебно-политическо.
+ stem: служебно-политическо.//служебно-политически.
  paradigm: connect_adjectives-j
  trans_ru: служебно-политический
 
@@ -36868,7 +36887,7 @@
 -lexeme
  lex: смоленской
  gramm: ADJ,rus
- stem: смоленско.
+ stem: смоленско.//смоленски.
  paradigm: connect_adjectives-j
  trans_ru: смоленский
 
@@ -36882,14 +36901,14 @@
 -lexeme
  lex: собственнической
  gramm: ADJ,rus
- stem: собственническо.
+ stem: собственническо.//собственнически.
  paradigm: connect_adjectives-j
  trans_ru: собственнический
 
 -lexeme
  lex: советско-финской
  gramm: ADJ,rus
- stem: советско-финско.
+ stem: советско-финско.//советско-фински.
  paradigm: connect_adjectives-j
  trans_ru: советско-финский
 
@@ -36924,7 +36943,7 @@
 -lexeme
  lex: солдатской
  gramm: ADJ
- stem: солдатско.
+ stem: солдатско.//солдатски.
  paradigm: connect_adjectives-j
  trans_ru: солдатский
 
@@ -36973,7 +36992,7 @@
 -lexeme
  lex: социально-психологической
  gramm: ADJ,rus
- stem: социально-психологическо.
+ stem: социально-психологическо.//социально-психологически.
  paradigm: connect_adjectives-j
  trans_ru: социально-психологический
 
@@ -37043,7 +37062,7 @@
 -lexeme
  lex: статистической
  gramm: ADJ,rus
- stem: статистическо.
+ stem: статистическо.//статистически.
  paradigm: connect_adjectives-j
  trans_ru: статистический
 
@@ -37071,7 +37090,7 @@
 -lexeme
  lex: столыпинской
  gramm: ADJ,rus
- stem: столыпинско.
+ stem: столыпинско.//столыпински.
  paradigm: connect_adjectives-j
  trans_ru: столыпинский
 
@@ -37099,7 +37118,7 @@
 -lexeme
  lex: судебно-медицинской
  gramm: ADJ,rus
- stem: судебно-медицинско.
+ stem: судебно-медицинско.//судебно-медицински.
  paradigm: connect_adjectives-j
  trans_ru: судебно-медицинский
 
@@ -37267,7 +37286,7 @@
 -lexeme
  lex: тактической
  gramm: ADJ,rus
- stem: тактическо.
+ stem: тактическо.//тактически.
  paradigm: connect_adjectives-j
  trans_ru: тактический
 
@@ -37295,7 +37314,7 @@
 -lexeme
  lex: телепатической
  gramm: ADJ,rus
- stem: телепатическо.
+ stem: телепатическо.//телепатически.
  paradigm: connect_adjectives-j
  trans_ru: телепатический
 
@@ -37316,28 +37335,28 @@
 -lexeme
  lex: типической
  gramm: ADJ,rus
- stem: типическо.
+ stem: типическо.//типически.
  paradigm: connect_adjectives-j
  trans_ru: типический
 
 -lexeme
  lex: типографской
  gramm: ADJ,rus
- stem: типографско.
+ stem: типографско.//типографски.
  paradigm: connect_adjectives-j
  trans_ru: типографский
 
 -lexeme
  lex: тобольской
  gramm: ADJ,rus
- stem: тобольско.
+ stem: тобольско.//тобольски.
  paradigm: connect_adjectives-j
  trans_ru: тобольский
 
 -lexeme
  lex: товарищеской
  gramm: ADJ,rus
- stem: товарищеско.
+ stem: товарищеско.//товарищески.
  paradigm: connect_adjectives-j
  trans_ru: товарищеский
 
@@ -37421,7 +37440,7 @@
 -lexeme
  lex: томской
  gramm: ADJ,rus
- stem: томско.
+ stem: томско.//томски.
  paradigm: connect_adjectives-j
  trans_ru: томский
 
@@ -37484,7 +37503,7 @@
 -lexeme
  lex: трассологической
  gramm: ADJ,rus
- stem: трассологическо.
+ stem: трассологическо.//трассологически.
  paradigm: connect_adjectives-j
  trans_ru: трасологический
 
@@ -37498,28 +37517,28 @@
 -lexeme
  lex: троцкистской
  gramm: ADJ,rus
- stem: троцкистско.
+ stem: троцкистско.//троцкистски.
  paradigm: connect_adjectives-j
  trans_ru: троцкистский
 
 -lexeme
  lex: тувинской
  gramm: ADJ,rus
- stem: тувинско.
+ stem: тувинско.//тувински.
  paradigm: connect_adjectives-j
  trans_ru: тувинский
 
 -lexeme
  lex: туристской
  gramm: ADJ,rus
- stem: туристско.
+ stem: туристско.//туристски.
  paradigm: connect_adjectives-j
  trans_ru: туристский
 
 -lexeme
  lex: туруханской
  gramm: ADJ,rus
- stem: туруханско.
+ stem: туруханско.//турухански.
  paradigm: connect_adjectives-j
  trans_ru: туруханский
 
@@ -37624,7 +37643,7 @@
 -lexeme
  lex: угро-финской
  gramm: ADJ,rus
- stem: угро-финско.
+ stem: угро-финско.//угро-фински.
  paradigm: connect_adjectives-j
  trans_ru: угро-финский
 
@@ -37666,7 +37685,7 @@
 -lexeme
  lex: уладовской
  gramm: ADJ,rus
- stem: уладовско.
+ stem: уладовско.//уладовски.
  paradigm: connect_adjectives-j
  trans_ru: уладовский
 
@@ -37708,7 +37727,7 @@
 -lexeme
  lex: ученической
  gramm: ADJ,rus
- stem: ученическо.
+ stem: ученическо.//ученически.
  paradigm: connect_adjectives-j
  trans_ru: ученический
 
@@ -37750,7 +37769,7 @@
 -lexeme
  lex: французской
  gramm: ADJ,rus
- stem: французско.
+ stem: французско.//французски.
  paradigm: connect_adjectives-j
  trans_ru: французский
 
@@ -37785,14 +37804,14 @@
 -lexeme
  lex: холмогорской
  gramm: ADJ,rus
- stem: холмогорско.
+ stem: холмогорско.//холмогорски.
  paradigm: connect_adjectives-j
  trans_ru: холмогорский
 
 -lexeme
  lex: хореической
  gramm: ADJ,rus
- stem: хореическо.
+ stem: хореическо.//хореически.
  paradigm: connect_adjectives-j
  trans_ru: хореический
 
@@ -37827,7 +37846,7 @@
 -lexeme
  lex: художественно-графической
  gramm: ADJ,rus
- stem: художественно-графическо.
+ stem: художественно-графическо.//художественно-графически.
  paradigm: connect_adjectives-j
  trans_ru: художественно-графический
 
@@ -37855,14 +37874,14 @@
 -lexeme
  lex: цыганской
  gramm: ADJ,rus
- stem: цыганско.
+ stem: цыганско.//цыгански.
  paradigm: connect_adjectives-j
  trans_ru: цыганский
 
 -lexeme
  lex: цюрихской
  gramm: ADJ,rus
- stem: цюрихско.
+ stem: цюрихско.//цюрихски.
  paradigm: connect_adjectives-j
  trans_ru: цюрихский
 
@@ -37925,7 +37944,7 @@
 -lexeme
  lex: частнособственнической
  gramm: ADJ,rus
- stem: частнособственническо.
+ stem: частнособственническо.//частнособственнически.
  paradigm: connect_adjectives-j
  trans_ru: частнособственнический
 
@@ -37946,14 +37965,14 @@
 -lexeme
  lex: черноморской
  gramm: ADJ,rus
- stem: черноморско.
+ stem: черноморско.//черноморски.
  paradigm: connect_adjectives-j
  trans_ru: черноморский
 
 -lexeme
  lex: чешской
  gramm: ADJ,rus
- stem: чешско.
+ stem: чешско.//чешски.
  paradigm: connect_adjectives-j
  trans_ru: чешский
 
@@ -38163,7 +38182,7 @@
 -lexeme
  lex: шамшуринской
  gramm: ADJ,rus
- stem: шамшуринско.
+ stem: шамшуринско.//шамшурински.
  paradigm: connect_adjectives-j
  trans_ru: шамшуринский
 
@@ -38177,7 +38196,7 @@
 -lexeme
  lex: шахтинской
  gramm: ADJ,rus
- stem: шахтинско.
+ stem: шахтинско.//шахтински.
  paradigm: connect_adjectives-j
  trans_ru: шахтинский
 
@@ -38198,7 +38217,7 @@
 -lexeme
  lex: шефской
  gramm: ADJ,rus
- stem: шефско.
+ stem: шефско.//шефски.
  paradigm: connect_adjectives-j
  trans_ru: шефский
 
@@ -38261,7 +38280,7 @@
 -lexeme
  lex: шофёрской
  gramm: ADJ,rus
- stem: шофёрско.
+ stem: шофёрско.//шофёрски.
  paradigm: connect_adjectives-j
  trans_ru: шофёрский
 
@@ -38275,7 +38294,7 @@
 -lexeme
  lex: штатской
  gramm: ADJ,rus
- stem: штатско.
+ stem: штатско.//штатски.
  paradigm: connect_adjectives-j
  trans_ru: штатский
 
@@ -38408,7 +38427,7 @@
 -lexeme
  lex: эксплуататорской
  gramm: ADJ,rus
- stem: эксплуататорско.
+ stem: эксплуататорско.//эксплуататорски.
  paradigm: connect_adjectives-j
  trans_ru: эксплуататорский
 
@@ -38443,14 +38462,14 @@
 -lexeme
  lex: энской
  gramm: ADJ,rus
- stem: энско.
+ stem: энско.//энски.
  paradigm: connect_adjectives-j
  trans_ru: энский
 
 -lexeme
  lex: эпизодической
  gramm: ADJ,rus
- stem: эпизодическо.
+ stem: эпизодическо.//эпизодически.
  paradigm: connect_adjectives-j
  trans_ru: эпизодический
 
@@ -38506,7 +38525,7 @@
 -lexeme
  lex: югославской
  gramm: ADJ,rus
- stem: югославско.
+ stem: югославско.//югославски.
  paradigm: connect_adjectives-j
  trans_ru: югославский
 
@@ -38534,7 +38553,7 @@
 -lexeme
  lex: южно-чусовской
  gramm: ADJ,rus
- stem: южно-чусовско.
+ stem: южно-чусовско.//южно-чусовски.
  paradigm: connect_adjectives-j
  trans_ru: южно-чусовский
 
@@ -38590,7 +38609,7 @@
 -lexeme
  lex: ялтушковской
  gramm: ADJ,rus
- stem: ялтушковско.
+ stem: ялтушковско.//ялтушковски.
  paradigm: connect_adjectives-j
  trans_ru: ялтушковский
 
@@ -38721,11 +38740,11 @@
  trans_ru: ломоносовский
 
 -lexeme
- lex: ярской
- gramm: ADJ,rus
+ lex: Ярской
+ gramm: ADJ,rus,topn
  stem: ярско.//ярски.
  paradigm: connect_adjectives-j
- trans_ru: ярский
+ trans_ru: ярский (район)
 
 -lexeme
  lex: вахтовой
@@ -39108,7 +39127,7 @@
 -lexeme
  lex: богатырской
  gramm: ADJ,rus
- stem: богатырско.
+ stem: богатырско.//богатырски.
  paradigm: connect_adjectives-j
  trans_ru: богатырский
 
@@ -39143,7 +39162,7 @@
 -lexeme
  lex: крепостнической
  gramm: ADJ,rus
- stem: крепостническо.
+ stem: крепостническо.//крепостнически.
  paradigm: connect_adjectives-j
  trans_ru: крепостнический
 
@@ -39164,7 +39183,7 @@
 -lexeme
  lex: марксистско-ленинской
  gramm: ADJ,rus
- stem: марксистско-ленинско.
+ stem: марксистско-ленинско.//марксистско-ленински.
  paradigm: connect_adjectives-j
  trans_ru: марксистско-ленинский
 
@@ -39185,7 +39204,7 @@
 -lexeme
  lex: осоавиахимовской
  gramm: ADJ,rus
- stem: осоавиахимовско.
+ stem: осоавиахимовско.//осоавиахимовски.
  paradigm: connect_adjectives-j
  trans_ru: осоавиахимовской
 
@@ -39220,7 +39239,7 @@
 -lexeme
  lex: финбанковской
  gramm: ADJ,rus
- stem: финбанковско.
+ stem: финбанковско.//финбанковски.
  paradigm: connect_adjectives-j
  trans_ru: финбанковский
 
@@ -39234,14 +39253,14 @@
 -lexeme
  lex: партийно-комсомольской
  gramm: ADJ,rus
- stem: партийно-комсомольско.
+ stem: партийно-комсомольско.//партийно-комсомольски.
  paradigm: connect_adjectives-j
  trans_ru: партийно-комсомольский
 
 -lexeme
  lex: троцкистско-бухаринской
  gramm: ADJ,rus
- stem: троцкистско-бухаринско.
+ stem: троцкистско-бухаринско.//троцкистско-бухарински.
  paradigm: connect_adjectives-j
  trans_ru: троцкистско-бухаринский
 
@@ -39255,7 +39274,7 @@
 -lexeme
  lex: александыровской
  gramm: ADJ,rus
- stem: александыровско.
+ stem: александыровско.//александыровски.
  paradigm: connect_adjectives-j
  trans_ru: александровский
 
@@ -44286,11 +44305,11 @@
  trans_ru: завершающий
 
 -lexeme
- lex: завьяловской
+ lex: Завьяловской
  gramm: ADJ,rus,topn
  stem: завьяловско.//завьяловски.
  paradigm: connect_adjectives-j
- trans_ru: завьяловский
+ trans_ru: Завьяловский (район)
 
 -lexeme
  lex: заозёрной
@@ -47032,140 +47051,140 @@
 -lexeme
  lex: адмиральской
  gramm: ADJ,rus
- stem: адмиральско.
+ stem: адмиральско.//адмиральски.
  paradigm: connect_adjectives-j
  trans_ru: адмиральский
 
 -lexeme
  lex: алма-атинской
  gramm: ADJ,rus,topn
- stem: алма-атинско.
+ stem: алма-атинско.//алма-атински.
  paradigm: connect_adjectives-j
  trans_ru: алма-атинский
 
 -lexeme
  lex: англо-польской
  gramm: ADJ,rus
- stem: англо-польско.
+ stem: англо-польско.//англо-польски.
  paradigm: connect_adjectives-j
  trans_ru: англо-польский
 
 -lexeme
  lex: англо-советской
  gramm: ADJ,rus
- stem: англо-советско.
+ stem: англо-советско.//англо-советски.
  paradigm: connect_adjectives-j
  trans_ru: англо-советский
 
 -lexeme
  lex: англо-французской
  gramm: ADJ,rus
- stem: англо-французско.
+ stem: англо-французско.//англо-французски.
  paradigm: connect_adjectives-j
  trans_ru: англо-французский
 
 -lexeme
  lex: анкарской
  gramm: ADJ,rus
- stem: анкарско.
+ stem: анкарско.//анкарски.
  paradigm: connect_adjectives-j
  trans_ru: анкарский
 
 -lexeme
  lex: антибольшевистской
  gramm: ADJ,rus
- stem: антибольшевистско.
+ stem: антибольшевистско.//антибольшевистски.
  paradigm: connect_adjectives-j
  trans_ru: антибольшевистский
 
 -lexeme
  lex: антикоминтерновской
  gramm: ADJ,rus
- stem: антикоминтерновско.
+ stem: антикоминтерновско.//антикоминтерновски.
  paradigm: connect_adjectives-j
  trans_ru: антикоминтерновский
 
 -lexeme
  lex: антимарксистской
  gramm: ADJ,rus
- stem: антимарксистско.
+ stem: антимарксистско.//антимарксистски.
  paradigm: connect_adjectives-j
  trans_ru: антимарксистский
 
 -lexeme
  lex: асановской
  gramm: ADJ,rus,topn
- stem: асановско.
+ stem: асановско.//асановски.
  paradigm: connect_adjectives-j
  trans_ru: асановский
 
 -lexeme
  lex: байдалинской
  gramm: ADJ,rus,topn
- stem: байдалинско.
+ stem: байдалинско.//байдалински.
  paradigm: connect_adjectives-j
  trans_ru: байдалинский
 
 -lexeme
  lex: байкальской
  gramm: ADJ,rus,topn
- stem: байкальско.
+ stem: байкальско.//байкальски.
  paradigm: connect_adjectives-j
  trans_ru: байкальский
 
 -lexeme
  lex: балеарской
  gramm: ADJ,rus,topn
- stem: балеарско.
+ stem: балеарско.//балеарски.
  paradigm: connect_adjectives-j
  trans_ru: балеарский
 
 -lexeme
  lex: балкарской
  gramm: ADJ,rus,topn
- stem: балкарско.
+ stem: балкарско.//балкарски.
  paradigm: connect_adjectives-j
  trans_ru: балкарский
 
 -lexeme
  lex: балтачевской
  gramm: ADJ,rus,topn
- stem: балтачевско.
+ stem: балтачевско.//балтачевски.
  paradigm: connect_adjectives-j
  trans_ru: балтачевский
 
 -lexeme
  lex: балхашской
  gramm: ADJ,rus,topn
- stem: балхашско.
+ stem: балхашско.//балхашски.
  paradigm: connect_adjectives-j
  trans_ru: балхашский
 
 -lexeme
  lex: барселонской
  gramm: ADJ,rus,topn
- stem: барселонско.
+ stem: барселонско.//барселонски.
  paradigm: connect_adjectives-j
  trans_ru: барселонский
 
 -lexeme
  lex: батумской
  gramm: ADJ,rus,topn
- stem: батумско.
+ stem: батумско.//батумски.
  paradigm: connect_adjectives-j
  trans_ru: батумский
 
 -lexeme
  lex: бездушно-бюрократической
  gramm: ADJ,rus
- stem: бездушно-бюрократическо.
+ stem: бездушно-бюрократическо.//бездушно-бюрократически.
  paradigm: connect_adjectives-j
  trans_ru: бездушно-бюрократический
 
 -lexeme
  lex: безенчукской
  gramm: ADJ,rus,topn
- stem: безенчукско.
+ stem: безенчукско.//безенчукски.
  paradigm: connect_adjectives-j
  trans_ru: безенчукский
 
@@ -47179,14 +47198,14 @@
 -lexeme
  lex: белебеевской
  gramm: ADJ,rus,topn
- stem: белебеевско.
+ stem: белебеевско.//белебеевски.
  paradigm: connect_adjectives-j
  trans_ru: белебеевский
 
 -lexeme
  lex: белоанглийской
  gramm: ADJ,rus
- stem: белоанглийско.
+ stem: белоанглийско.//белоанглийски.
  paradigm: connect_adjectives-j
  trans_ru: белоанглийский
 
@@ -47235,21 +47254,21 @@
 -lexeme
  lex: англо-американской
  gramm: ADJ,rus
- stem: англо-американско.
+ stem: англо-американско.//англо-американски.
  paradigm: connect_adjectives-j
  trans_ru: англо-американский
 
 -lexeme
  lex: англо-греческой
  gramm: ADJ,rus
- stem: англо-греческо.
+ stem: англо-греческо.//англо-гречески.
  paradigm: connect_adjectives-j
  trans_ru: англо-греческий
 
 -lexeme
  lex: антигерманской
  gramm: ADJ,rus
- stem: антигерманско.
+ stem: антигерманско.//антигермански.
  paradigm: connect_adjectives-j
  trans_ru: антигерманский
 
@@ -47298,7 +47317,7 @@
 -lexeme
  lex: военно-тактической
  gramm: ADJ,rus
- stem: военно-тактическо.
+ stem: военно-тактическо.//военно-тактически.
  paradigm: connect_adjectives-j
  trans_ru: военно-тактический
 
@@ -47319,7 +47338,7 @@
 -lexeme
  lex: германо-японской
  gramm: ADJ,rus
- stem: германо-японско.
+ stem: германо-японско.//германо-японски.
  paradigm: connect_adjectives-j
  trans_ru: германо-японский
 
@@ -47333,7 +47352,7 @@
 -lexeme
  lex: двурушнической
  gramm: ADJ,rus
- stem: двурушническо.
+ stem: двурушническо.//двурушнически.
  paradigm: connect_adjectives-j
  trans_ru: двурушнический
 
@@ -47347,7 +47366,7 @@
 -lexeme
  lex: добровольческой
  gramm: ADJ,rus
- stem: добровольческо.
+ stem: добровольческо.//добровольчески.
  paradigm: connect_adjectives-j
  trans_ru: добровольческий
 
@@ -47396,7 +47415,7 @@
 -lexeme
  lex: льноводческой
  gramm: ADJ,rus
- stem: льноводческо.
+ stem: льноводческо.//льноводчески.
  paradigm: connect_adjectives-j
  trans_ru: льноводческий
 
@@ -47487,7 +47506,7 @@
 -lexeme
  lex: овощеводческой
  gramm: ADJ,rus
- stem: овощеводческо.
+ stem: овощеводческо.//овощеводчески.
  paradigm: connect_adjectives-j
  trans_ru: овощеводческий
 
@@ -47515,14 +47534,14 @@
 -lexeme
  lex: партийно-кандидатской
  gramm: ADJ,rus
- stem: партийно-кандидатско.
+ stem: партийно-кандидатско.//партийно-кандидатски.
  paradigm: connect_adjectives-j
  trans_ru: партийно-кандидатский
 
 -lexeme
  lex: партийно-советской
  gramm: ADJ,rus
- stem: партийно-советско.
+ stem: партийно-советско.//партийно-советски.
  paradigm: connect_adjectives-j
  trans_ru: партийно-советский
 
@@ -47662,7 +47681,7 @@
 -lexeme
  lex: среднеазиатской
  gramm: ADJ,rus
- stem: среднеазиатско.
+ stem: среднеазиатско.//среднеазиатски.
  paradigm: connect_adjectives-j
  trans_ru: среднеазиатский
 
@@ -47781,14 +47800,14 @@
 -lexeme
  lex: франко-советской
  gramm: ADJ,rus
- stem: франко-советско.
+ stem: франко-советско.//франко-советски.
  paradigm: connect_adjectives-j
  trans_ru: франко-советский
 
 -lexeme
  lex: хищнической
  gramm: ADJ,rus
- stem: хищническо.
+ stem: хищническо.//хищнически.
  paradigm: connect_adjectives-j
  trans_ru: хищнический
 
@@ -47847,3 +47866,24 @@
  stem: чут.
  paradigm: connect_adjectives
  trans_ru: хромой
+
+-lexeme
+ lex: микулинский
+ gramm: ADJ,rus
+ stem: микулински.
+ paradigm: connect_adjectives-j
+ trans_ru: микулинский
+
+-lexeme
+ lex: осинский
+ gramm: ADJ,rus
+ stem: осински.
+ paradigm: connect_adjectives-j
+ trans_ru: осинский
+
+-lexeme
+ lex: матын
+ stem: матын.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: близкий

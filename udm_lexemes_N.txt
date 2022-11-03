@@ -67457,7 +67457,7 @@
 
 -lexeme
  lex: школа
- stem: ышкол.
+ stem: ышкол.//школ.
  gramm: N,rus
  paradigm: Noun-num-consonant
  trans_ru: школа
@@ -77509,6 +77509,12 @@
  paradigm: Noun-num-consonant
  trans_ru: заповедник
 -lexeme
+ lex: музей-заповедник
+ stem: музей-заповедник.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: музей-заповедник
+-lexeme
  lex: запорожец
  stem: запорожец.
  gramm: N,rus,transport
@@ -77923,6 +77929,12 @@
  gramm: N,rus
  paradigm: Noun-num-consonant
  trans_ru: интернат
+-lexeme
+ lex: школа-интернат
+ stem: школа-интернат.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: школа-интернат
 -lexeme
  lex: интернационалист
  stem: интернационалист.//интернационалис.
@@ -132681,3 +132693,130 @@
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: сук, сучок, сучья
+
+-lexeme
+ lex: наста
+ gramm: N
+ stem: наста.
+ paradigm: Noun-num-vowel
+ trans_ru: вещь, предмет; утварь
+
+-lexeme
+ lex: пород
+ gramm: N,anim,rus,hum
+ stem: пород.
+ paradigm: Noun-num-consonant
+ trans_ru: родственник
+
+-lexeme
+ lex: кошконтӥ
+ gramm: N
+ stem: кошконтӥ.
+ paradigm: Noun-num-vowel
+ trans_ru: место ухода
+
+-lexeme
+ lex: татаро-монгол
+ gramm: N,anim,hum,rus
+ stem: татаро-монгол.
+ paradigm: Noun-num-consonant
+ trans_ru: татаро-монгол
+
+-lexeme
+ lex: борыёлык
+ gramm: N
+ stem: борыёлык.
+ paradigm: Noun-num-consonant
+ trans_ru: клубничное место
+
+-lexeme
+ lex: мангылык
+ gramm: N
+ stem: мангылык.
+ paradigm: Noun-num-consonant
+ trans_ru: вечность
+
+-lexeme
+ lex: семня
+ gramm: N,rus
+ stem: семня.
+ paradigm: Noun-num-vowel
+ trans_ru: семья
+
+-lexeme
+ lex: патиссон
+ gramm: N,rus
+ stem: патиссон.
+ paradigm: Noun-num-consonant
+ trans_ru: патиссон
+
+-lexeme
+ lex: бочок
+ gramm: N,rus
+ stem: бочок.
+ paradigm: Noun-num-consonant
+ trans_ru: бочонок
+
+-lexeme
+ lex: евроокна
+ gramm: N,rus
+ stem: евроокна.
+ paradigm: Noun-num-vowel
+ trans_ru: евроокна
+
+-lexeme
+ lex: щебёнка
+ gramm: N,rus
+ stem: щебёнка.
+ paradigm: Noun-num-vowel
+ trans_ru: щебёнка
+
+-lexeme
+ lex: веньык
+ gramm: N,rus
+ stem: веньык.
+ paradigm: Noun-num-consonant
+ trans_ru: веник
+
+-lexeme
+ lex: хоровод
+ gramm: N,rus
+ stem: хоровод.
+ paradigm: Noun-num-consonant
+ trans_ru: хоровод
+
+-lexeme
+ lex: сметана
+ gramm: N,rus
+ stem: сметана.
+ paradigm: Noun-num-vowel
+ trans_ru: сметана
+
+-lexeme
+ lex: сепарат
+ gramm: N,rus
+ stem: сепарат.
+ paradigm: Noun-num-consonant
+ trans_ru: сепаратор
+
+-lexeme
+ lex: чучопи
+ gramm: N,anim
+ stem: чучопи.
+ paradigm: Noun-num-vowel
+ trans_ru: цыплёнок
+
+-lexeme
+ lex: агаймурт
+ gramm: N,hum,anim
+ stem: агаймурт.
+ paradigm: Noun-num-consonant
+ trans_ru: мужчина
+
+-lexeme
+ lex: трёхголосье
+ gramm: N,rus
+ stem: трёхголосье.
+ paradigm: Noun-num-vowel
+ trans_ru: трёхголосье
+

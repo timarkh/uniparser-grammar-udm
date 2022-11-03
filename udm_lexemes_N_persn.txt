@@ -61502,6 +61502,13 @@
  trans_ru: Лолошур
 
 -lexeme
+ lex: Лолошур-возжи
+ gramm: N,topn,PN
+ stem: лолошур-возжи.
+ paradigm: Noun-num-vowel
+ trans_ru: Лолошур-возжи
+
+-lexeme
  lex: Лопахин
  gramm: N,PN,famn
  stem: лопахин.
@@ -97308,3 +97315,108 @@
  gramm: N,PN,famn
  paradigm: Noun-num-vowel
  trans_ru: Дукъя (название рода)
+
+-lexeme
+ lex: Белая
+ gramm: N,topn,PN
+ stem: белая.
+ paradigm: Noun-num-vowel
+ trans_ru: Белая (река)
+
+-lexeme
+ lex: Балтачево
+ gramm: N,topn,PN
+ stem: балтачево.
+ paradigm: Noun-num-vowel
+ trans_ru: Балтачево
+
+-lexeme
+ lex: Чутча
+ gramm: N,PN
+ stem: чутча.
+ paradigm: Noun-num-vowel
+ trans_ru: Чутча (название рода)
+
+-lexeme
+ lex: Мӧйня
+ gramm: N,PN
+ stem: мӧйня.
+ paradigm: Noun-num-vowel
+ trans_ru: Мойня (название рода)
+
+-lexeme
+ lex: Ӟунья
+ gramm: N,PN
+ stem: ӟунья.
+ paradigm: Noun-num-vowel
+ trans_ru: Джунья (название рода)
+
+-lexeme
+ lex: Будӟиннал
+ gramm: N,PN
+ stem: будӟиннал.
+ paradigm: Noun-num-consonant
+ trans_ru: Пасха
+
+-lexeme
+ lex: Дуараник
+ gramm: N,PN,topn
+ stem: дуараник.
+ paradigm: Noun-num-consonant
+ trans_ru: Дуараник (название оврага)
+
+-lexeme
+ lex: Майский
+ gramm: N,PN,topn
+ stem: майски.
+ paradigm: Noun-num-j
+ trans_ru: Майск
+
+-lexeme
+ lex: Гыльзӥмок
+ gramm: N,persn,PN
+ stem: гыльзӥмок.
+ paradigm: Noun-num-consonant
+ trans_ru: Гыльзимок
+
+-lexeme
+ lex: Шамсӥя
+ gramm: N,persn,PN
+ stem: шамсӥя.
+ paradigm: Noun-num-vowel
+ trans_ru: Шамсия
+
+-lexeme
+ lex: Зарип
+ gramm: N,PN,persn
+ stem: зарип.
+ paradigm: Noun-num-consonant
+ trans_ru: Зарип
+
+-lexeme
+ lex: Дубна
+ gramm: N,PN,topn
+ stem: дубна.
+ paradigm: Noun-num-vowel
+ trans_ru: Дубна
+
+-lexeme
+ lex: Ренбик
+ gramm: N,PN
+ stem: ренбик.
+ paradigm: Noun-num-consonant
+ trans_ru: Ренбик (название клуба)
+
+-lexeme
+ lex: Рабига
+ gramm: N,PN,persn
+ stem: рабига.
+ paradigm: Noun-num-vowel
+ trans_ru: Рабига
+
+-lexeme
+ lex: Мыртаза
+ gramm: N,PN,persn
+ stem: мыртаза.
+ paradigm: Noun-num-vowel
+ trans_ru: Мыртаза

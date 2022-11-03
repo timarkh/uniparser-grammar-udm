@@ -18,6 +18,7 @@
  stem: мынам.
  gramm: PRO,gen,sg
  paradigm: Noun-case-compounding
+ paradigm: Noun-case-compounding-pl-consonant
  trans_ru: я
 
 -lexeme
@@ -25,6 +26,7 @@
  stem: мынэсьтым.
  gramm: PRO,abl,sg
  paradigm: Noun-case-compounding
+ paradigm: Noun-case-compounding-pl-consonant
  trans_ru: я
 
 -lexeme
@@ -92,6 +94,7 @@
  stem: милям.
  gramm: PRO,gen,pl
  paradigm: Noun-case-compounding
+ paradigm: Noun-case-compounding-pl-consonant
  trans_ru: мы
 
 -lexeme
@@ -99,6 +102,7 @@
  stem: милесьтым.
  gramm: PRO,abl,pl
  paradigm: Noun-case-compounding
+ paradigm: Noun-case-compounding-pl-consonant
  trans_ru: мы
 
 -lexeme
@@ -173,6 +177,7 @@
  stem: тынад.
  gramm: PRO,gen,sg
  paradigm: Noun-case-compounding
+ paradigm: Noun-case-compounding-pl-consonant
  trans_ru: ты
 
 -lexeme
@@ -180,6 +185,7 @@
  stem: тынэсьтыд.
  gramm: PRO,abl,sg
  paradigm: Noun-case-compounding
+ paradigm: Noun-case-compounding-pl-consonant
  trans_ru: ты
 
 -lexeme
@@ -247,6 +253,7 @@
  stem: тӥляд.
  gramm: PRO,gen,pl
  paradigm: Noun-case-compounding
+ paradigm: Noun-case-compounding-pl-consonant
  trans_ru: вы
 
 -lexeme
@@ -254,6 +261,7 @@
  stem: тӥлесьтыд.
  gramm: PRO,abl,pl
  paradigm: Noun-case-compounding
+ paradigm: Noun-case-compounding-pl-consonant
  trans_ru: вы
 
 -lexeme
@@ -569,6 +577,13 @@
  gramm: ADVPRO
  paradigm: connect_adverbs_px
  trans_ru: сколько
+
+-lexeme
+ lex: кӧняен
+ stem: кӧняен.
+ gramm: ADVPRO,ins
+ paradigm: connect_adverbs_px
+ trans_ru: почём
 
 -lexeme
  lex: котькӧня
@@ -1801,3 +1816,11 @@
  stem: маркем.
  paradigm: connect_adverbs
  trans_ru: насколько
+
+-lexeme
+ lex: потому
+ gramm: ADVPRO,rus
+ stem: потому.
+ paradigm: connect_adverbs
+ trans_ru: потому
+

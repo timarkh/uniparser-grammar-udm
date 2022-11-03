@@ -272,6 +272,20 @@
  trans_ru: высотой равный чему-то
 
 -lexeme
+ lex: азьвыл
+ stem: азьвыл.
+ gramm: POST
+ paradigm: Comparative
+ trans_ru: до
+
+-lexeme
+ lex: коже
+ stem: коже.
+ gramm: POST
+ paradigm: Comparative
+ trans_ru: сами по себе (асьсэ коже)
+
+-lexeme
  lex: ӵоже
  stem: ӵоже.
  gramm: POST
@@ -1550,7 +1564,7 @@
  stem: матын.
  gramm: ADV
  paradigm: connect_adverbs
- trans_ru: близко, поблизости, недалеко, вблизи, неподалёку
+ trans_ru: близко
 
 -lexeme
  lex: паськыт
@@ -1947,7 +1961,7 @@
 -lexeme
  lex: ӧжытлы
  stem: ӧжытлы.
- gramm: ADV,ins
+ gramm: ADV,dat
  paradigm: connect_adverbs
  trans_ru: ненамного
 
@@ -6648,14 +6662,14 @@
  stem: кыж-куаж.
  gramm: IMIT
  paradigm: Empty
- trans_ru: скрежетанию металлических предметов
+ trans_ru: о скрежетании металлических предметов
 
 -lexeme
  lex: виж-важ
  stem: виж-важ.
  gramm: IMIT
  paradigm: Empty
- trans_ru: пиле при пилке дров: пила ~ вазе пила визжит
+ trans_ru: о звуке пилы при пилке дров
 
 -lexeme
  lex: крок-крок
@@ -8189,6 +8203,13 @@
  gramm: ADV
  paradigm: connect_adverbs
  trans_ru: обязательно
+
+-lexeme
+ lex: однозэ
+ stem: однозэ.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: обязательно, всё равно
 
 -lexeme
  lex: воксё
@@ -21317,3 +21338,73 @@
  gramm: POST
  paradigm: Comparative
  trans_ru: на расстояние; примерно, приблизительно, около
+
+-lexeme
+ lex: ани
+ gramm: PART
+ stem: ани.
+ paradigm: Comparative
+ trans_ru: вот
+
+-lexeme
+ lex: бык
+ gramm: PART
+ stem: бык.
+ paradigm: Comparative
+ trans_ru: же; да
+
+-lexeme
+ lex: тӥйыш
+ gramm: PREDIC
+ stem: тӥйыш.
+ paradigm: Comparative
+ trans_ru: обязан, должен
+
+-lexeme
+ lex: буль
+ gramm: IMIT,rus
+ stem: буль.
+ paradigm: Comparative
+ trans_ru: буль
+
+-lexeme
+ lex: сперва
+ gramm: ADV,rus
+ stem: сперва.
+ paradigm: connect_adverbs
+ trans_ru: сперва
+
+-lexeme
+ lex: проблематично
+ gramm: ADV,rus
+ stem: проблематично.
+ paradigm: connect_adverbs
+ trans_ru: проблематично
+
+-lexeme
+ lex: намного
+ gramm: ADV,rus
+ stem: намного.
+ paradigm: connect_adverbs
+ trans_ru: намного
+
+-lexeme
+ lex: удобно
+ gramm: ADV,rus
+ stem: удобно.
+ paradigm: connect_adverbs
+ trans_ru: удобно
+
+-lexeme
+ lex: азелы
+ stem: азелы.
+ gramm: POST,dat
+ paradigm: Comparative
+ trans_ru: к, на
+
+-lexeme
+ lex: валлин
+ stem: валлин.
+ gramm: POST
+ paradigm: Comparative
+ trans_ru: вдоль

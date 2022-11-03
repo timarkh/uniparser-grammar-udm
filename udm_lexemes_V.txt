@@ -15185,6 +15185,13 @@
  trans_ru: поправлять(ся) здоровьем
 
 -lexeme
+ lex: поръяны
+ stem: поръя.
+ gramm: V,II,intr
+ paradigm: connect_verbs-II
+ trans_ru: кружить
+
+-lexeme
  lex: порыны
  stem: пор.
  gramm: V,I,tr,with_instr
@@ -55062,3 +55069,67 @@
  gramm: V,I,tr
  paradigm: connect_verbs-I
  trans_ru: подстрекать, инспирировать
+
+-lexeme
+ lex: вакланы
+ gramm: V,tr,II
+ stem: вакла.
+ paradigm: connect_verbs-II
+ trans_ru: измельчать
+
+-lexeme
+ lex: тыпырлатыны
+ gramm: V,I,intr
+ stem: тыпырлат.
+ paradigm: connect_verbs-I
+ trans_ru: топать, цокать, плясать притопывая
+
+-lexeme
+ lex: покчияны
+ gramm: V,II,intr
+ stem: покчия.
+ paradigm: connect_verbs-II
+ trans_ru: уменьшаться
+
+-lexeme
+ lex: берыкмыны
+ gramm: V,intr,I
+ stem: берыкм.
+ paradigm: connect_verbs-I
+ trans_ru: превратиться
+
+-lexeme
+ lex: ӟелькыныны
+ gramm: V,I,intr
+ stem: ӟелькын.
+ paradigm: connect_verbs-I
+ trans_ru: собраться, намереваться, порываться куда-то идти
+
+-lexeme
+ lex: тылдӥськыны
+ gramm: V,intr,I
+ stem: тылдӥськ.
+ paradigm: connect_verbs-I
+ trans_ru: разжечь огонь
+
+-lexeme
+ lex: куальманы
+ gramm: V,tr,II
+ stem: куальма.
+ paradigm: connect_verbs-II
+ trans_ru: начинять
+
+-lexeme
+ lex: ӵаштыны
+ gramm: V,I,intr
+ stem: ӵашт.
+ paradigm: connect_verbs-I
+ trans_ru: шуметь
+
+-lexeme
+ lex: юздыны
+ gramm: V,I,intr
+ stem: юзд.
+ paradigm: connect_verbs-I
+ trans_ru: набить оскомину
+
