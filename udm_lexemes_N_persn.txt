@@ -97420,3 +97420,74 @@
  stem: мыртаза.
  paradigm: Noun-num-vowel
  trans_ru: Мыртаза
+
+-lexeme
+ lex: Сакина
+ gramm: N,PN,persn
+ stem: сакина.
+ paradigm: Noun-num-vowel
+ trans_ru: Сакина
+
+-lexeme
+ lex: Перым
+ gramm: N,topn,PN
+ stem: перым.
+ paradigm: Noun-num-consonant
+ trans_ru: Пермь
+
+-lexeme
+ lex: Ӟидым
+ gramm: N,PN,persn
+ stem: ӟидым.
+ paradigm: Noun-num-consonant
+ trans_ru: Джидым
+
+-lexeme
+ lex: Дегтярскай
+ gramm: N,topn,PN
+ stem: дегтярска.
+ paradigm: Noun-num-j
+ trans_ru: Дегтярск
+
+-lexeme
+ lex: Ларгус
+ gramm: N,PN
+ stem: ларгус.
+ paradigm: Noun-num-consonant
+ trans_ru: Ларгус (марка автомобиля)
+
+-lexeme
+ lex: Майск
+ gramm: N,topn,PN
+ stem: майск.
+ paradigm: Noun-num-consonant
+ trans_ru: Майск
+
+-lexeme
+ lex: Бермыш
+ gramm: N,topn,PN
+ stem: бермыш.
+ paradigm: Noun-num-consonant
+ trans_ru: Бермыш (река)
+
+-lexeme
+ lex: МБУК
+ gramm: N,PN,abbr
+ stem: мбук.//мбук-.
+ paradigm: Noun-num-consonant
+ trans_ru: МБУК (муниципальное бюджетное учреждение культуры)
+
+-lexeme
+ lex: МКДЦ
+ gramm: N,PN,abbr
+ stem: мкдц.//мкдц-.
+ paradigm: Noun-num-consonant
+ trans_ru: МКДЦ (межрегиональный клинико-диагностический центр)
+
+-lexeme
+ lex: Вязь
+ gramm: N,PN,topn
+ stem: вяз.
+ paradigm: Noun-num-soft
+ trans_ru: Вязовка
+
