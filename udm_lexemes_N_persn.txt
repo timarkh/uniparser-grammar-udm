@@ -97491,3 +97491,45 @@
  paradigm: Noun-num-soft
  trans_ru: Вязовка
 
+-lexeme
+ lex: Гадӥят
+ gramm: N,persn,PN
+ stem: гадӥят.
+ paradigm: Noun-num-consonant
+ trans_ru: Гадият
+
+-lexeme
+ lex: Алкино
+ gramm: N,PN,topn
+ stem: алкино.
+ paradigm: Noun-num-vowel
+ trans_ru: Алкино
+
+-lexeme
+ lex: Великие
+ gramm: N,PN,topn
+ stem: великие.
+ paradigm: Comparative
+ trans_ru: Великие (часть топонимов)
+
+-lexeme
+ lex: Луки
+ gramm: N,PN,topn
+ stem: луки.
+ paradigm: Noun-num-vowel
+ trans_ru: (Великие) Луки
+
+-lexeme
+ lex: Юда
+ gramm: N,PN,topn
+ stem: юда.
+ paradigm: Noun-num-vowel
+ trans_ru: Юда
+
+-lexeme
+ lex: Петырпавыл
+ gramm: N,PN,topn
+ stem: петырпавыл.
+ paradigm: Noun-num-consonant
+ trans_ru: Петропавловка
+

@@ -2732,6 +2732,13 @@
  trans_ru: арка
 
 -lexeme
+ lex: арка
+ stem: арка.
+ gramm: N
+ paradigm: Noun-num-vowel
+ trans_ru: роща, кустарник; кусты
+
+-lexeme
  lex: аркан
  stem: аркан.
  gramm: N,rus
@@ -11726,6 +11733,13 @@
  gramm: N
  paradigm: Noun-num-soft
  trans_ru: боль
+
+-lexeme
+ lex: вӧсь
+ stem: вӧс.
+ gramm: N
+ paradigm: Noun-num-soft
+ trans_ru: моление; жертвоприношение
 
 -lexeme
  lex: вӧсьгур
@@ -49855,7 +49869,7 @@
  stem: пӧськы.|пӧськи.
  gramm: N,anim
  paradigm: Noun-num-vowel-dial-iy
- trans_ru: 1. стриж 2. ласточка
+ trans_ru: стриж; ласточка
 
 -lexeme
  lex: пӧськыкуар
@@ -56331,7 +56345,7 @@
  stem: сюмык.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: 1. бокал, рюмка 2. жертвенный деревянный сосуд 3. чайная чашка, чашка с блюдцем
+ trans_ru: бокал; жертвенный деревянный сосуд; чашка с блюдцем
 
 -lexeme
  lex: сюмыс
@@ -66313,8 +66327,8 @@
  trans_ru: небольшая копна сена
 
 -lexeme
- lex: чыкыр
- stem: чыкыр.
+ lex: чукыр
+ stem: чукыр.//чыкыр.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: чайная чашка, стакан
@@ -132841,3 +132855,100 @@
  paradigm: Noun-num-consonant
  trans_ru: завскладом
 
+-lexeme
+ lex: быргадир
+ gramm: N,anim,rus,hum
+ stem: быргадир.
+ paradigm: Noun-num-consonant
+ trans_ru: бригадир
+
+-lexeme
+ lex: поськы
+ gramm: N
+ stem: поськы.
+ paradigm: Noun-num-vowel
+ trans_ru: чирей
+
+-lexeme
+ lex: ялкав
+ gramm: N,anim,hum
+ stem: ялкав.
+ paradigm: Noun-num-consonant
+ trans_ru: лентяй
+
+-lexeme
+ lex: ялкав
+ gramm: N,anim,hum
+ stem: ялкав.
+ paradigm: Noun-num-consonant
+ trans_ru: лентяй
+
+-lexeme
+ lex: чурма
+ gramm: N,rus
+ stem: чурма.
+ paradigm: Noun-num-vowel
+ trans_ru: тюрьма
+
+-lexeme
+ lex: Азрали
+ gramm: N,supernat
+ stem: азрали.
+ paradigm: Noun-num-vowel
+ trans_ru: Азрали
+
+-lexeme
+ lex: сильдау
+ gramm: N
+ stem: сильдау.
+ paradigm: Noun-num-vowel
+ trans_ru: ураган, буря
+
+-lexeme
+ lex: югезь
+ gramm: N
+ stem: югез.
+ paradigm: Noun-num-soft
+ trans_ru: монета; плата, подношение
+
+-lexeme
+ lex: пашмульы
+ gramm: N
+ stem: пашмульы.
+ paradigm: Noun-num-vowel
+ trans_ru: орех (плод)
+
+-lexeme
+ lex: кужыкы
+ gramm: N
+ stem: кужыкы.
+ paradigm: Noun-num-vowel
+ trans_ru: отходы, полученные при трепании льна
+
+-lexeme
+ lex: тӧрошор
+ gramm: N
+ stem: тӧрошор.
+ paradigm: Noun-num-consonant
+ trans_ru: почетная часть дома
+
+-lexeme
+ lex: посадкы
+ gramm: N,rus
+ stem: посадкы.
+ paradigm: Noun-num-vowel
+ trans_ru: посадки
+
+-lexeme
+ lex: ӟанки
+ gramm: N
+ stem: ӟанки.
+ paradigm: Noun-num-vowel
+ trans_ru: чайное блюдце
+
+-lexeme
+ lex: глухарь
+ stem: глухар.
+ gramm: N,anim,rus
+ paradigm: Noun-num-soft
+ trans_ru: глухарь

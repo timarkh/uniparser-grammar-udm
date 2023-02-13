@@ -546,6 +546,11 @@
   gramm: period
   gloss: DELIM
   paradigm: Comparative
+ -flex: .сын<.>
+  gramm: period
+  gloss: DELIM
+  paradigm: Comparative
+  regex-gramm: ,time_meas
 
 -paradigm: Noun-num-vowel-dial-iy
  -flex: <0>.<.>
@@ -635,6 +640,11 @@
   gramm: period
   gloss: DELIM
   paradigm: Comparative
+ -flex: <0>.сын<.>
+  gramm: period
+  gloss: DELIM
+  paradigm: Comparative
+  regex-gramm: ,time_meas
 
 -paradigm: Noun-num-vowel-y
  -flex: .<.>
@@ -699,6 +709,11 @@
   gramm: period
   gloss: DELIM
   paradigm: Comparative
+ -flex: .сын<.>
+  gramm: period
+  gloss: DELIM
+  paradigm: Comparative
+  regex-gramm: ,time_meas
 
 
 -paradigm: Noun-num-korka
@@ -766,6 +781,11 @@
   gramm: period
   gloss: DELIM
   paradigm: Comparative
+ -flex: .сын<.>
+  gramm: period
+  gloss: DELIM
+  paradigm: Comparative
+  regex-gramm: ,time_meas
 
 -paradigm: Noun-num-consonant
  -flex: .<.>
@@ -839,6 +859,11 @@
   gramm: period
   gloss: DELIM
   paradigm: Comparative
+ -flex: .сын<.>
+  gramm: period
+  gloss: DELIM
+  paradigm: Comparative
+  regex-gramm: ,time_meas
 
 -paradigm: PRO-pers
  -flex: .<.>
@@ -877,6 +902,11 @@
   gramm: period
   gloss: DELIM
   paradigm: Comparative
+ -flex: .сын<.>
+  gramm: period
+  gloss: DELIM
+  paradigm: Comparative
+  regex-gramm: ,time_meas
 
 -paradigm: Noun-num-consonant-ptcp
  -flex: .<.>
@@ -978,6 +1008,11 @@
   gramm: period
   gloss: DELIM
   paradigm: Comparative
+ -flex: .сын<.>
+  gramm: period
+  gloss: DELIM
+  paradigm: Comparative
+  regex-gramm: ,time_meas
 
 -paradigm: Noun-mar
  -flex: .<.>
@@ -1135,6 +1170,11 @@
   gramm: period
   gloss: DELIM
   paradigm: Comparative
+ -flex: .[ь]сын<.>
+  gramm: period
+  gloss: DELIM
+  paradigm: Comparative
+  regex-gramm: ,time_meas
 
 -paradigm: Noun-num-soft-ptcp
  -flex: .<.>
@@ -1220,6 +1260,11 @@
   gramm: period
   gloss: DELIM
   paradigm: Comparative
+ -flex: .[ь]сын<.>
+  gramm: period
+  gloss: DELIM
+  paradigm: Comparative
+  regex-gramm: ,time_meas
 
 -paradigm: Noun-num-j
  -flex: .<.>
@@ -1286,6 +1331,11 @@
   gramm: period
   gloss: DELIM
   paradigm: Comparative
+ -flex: .[й]сын<.>
+  gramm: period
+  gloss: DELIM
+  paradigm: Comparative
+  regex-gramm: ,time_meas
 
 -paradigm: Noun-num-j-y
  -flex: .<.>
@@ -1357,6 +1407,11 @@
   gramm: period
   gloss: DELIM
   paradigm: Comparative
+ -flex: .[й]сын<.>
+  gramm: period
+  gloss: DELIM
+  paradigm: Comparative
+  regex-gramm: ,time_meas
 
 
 -paradigm: Noun-num-ija
@@ -6907,7 +6962,7 @@
  -flex: <0>.ымтэ|я|ськ<.>
   gramm: fict_neg
   gloss: PTCP.NEG|MULT|PASS
- -flex: <0>.ыт<.>//<0>.эт<.>//<0>.т<.>
+ -flex: <0>.ыт<.>//<0>.тыр<.>//<0>.ттыр<.>//<0>.эт<.>//<0>.т<.>
   gramm: caus
   gloss: CAUS
  -flex: .ет<.>
@@ -6959,7 +7014,7 @@
  -flex: <0>.ымтэ|я|ськ<.>
   gramm: fict_neg
   gloss: PTCP.NEG|MULT|PASS
- -flex: <0>.ыт<.>//<0>.эт<.>//<0>.т<.>
+ -flex: <0>.ыт<.>//<0>.тыр<.>//<0>.ттыр<.>//<0>.эт<.>//<0>.т<.>
   gramm: caus
   gloss: CAUS
  -flex: <0>.ет<.>
@@ -7045,7 +7100,7 @@
  -flex: .[ь]ымтэ|я|ськ<.>
   gramm: fict_neg
   gloss: PTCP.NEG|MULT|PASS
- -flex: .[ь]ыт<.>//.ет<.>//.[ь]т<.>
+ -flex: .[ь]ыт<.>//.[ь]тыр<.>//.[ь]ттыр<.>//.ет<.>//.[ь]т<.>
   gramm: caus
   gloss: CAUS
  paradigm: Aspect-y2-y
@@ -7096,7 +7151,7 @@
  -flex: .мтэ|я|ськ<.>
   gramm: fict_neg
   gloss: PTCP.NEG|MULT|PASS
- -flex: .т<.>
+ -flex: .т<.>//.тыр<.>//.ттыр<.>
   gramm: caus
   gloss: CAUS
  paradigm: Aspect-y2-y
@@ -7170,7 +7225,7 @@
  -flex: .ымтэ|я|ськ<.>
   gramm: fict_neg
   gloss: PTCP.NEG|MULT|PASS
- -flex: .ыт<.>//.т<.>
+ -flex: .ыт<.>//.т<.>//.тыр<.>//.ттыр<.>
   gramm: caus
   gloss: CAUS
  paradigm: Aspect-y3-y
@@ -7220,7 +7275,7 @@
  -flex: .мтэ|я|ськ<.>
   gramm: fict_neg
   gloss: PTCP.NEG|MULT|PASS
- -flex: .т<.>
+ -flex: .т<.>//.тыр<.>//.ттыр<.>
   gramm: caus
   gloss: CAUS
  paradigm: Aspect-y3-y
@@ -7293,7 +7348,7 @@
  -flex: .ымтэ|я|ськ<.>
   gramm: fict_neg
   gloss: PTCP.NEG|MULT|PASS
- -flex: .ыт<.>//.т<.>
+ -flex: .ыт<.>//.т<.>//.тыр<.>//.ттыр<.>
   gramm: caus
   gloss: CAUS
  paradigm: Aspect-y4-y

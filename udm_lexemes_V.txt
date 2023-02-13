@@ -1851,7 +1851,14 @@
  stem: буя.
  gramm: V,II,intr
  paradigm: connect_verbs-II
- trans_ru: 1. отчаяться, отчаиваться 2. стесняться
+ trans_ru: отчаяться; стесняться
+
+-lexeme
+ lex: буяны
+ stem: буя.
+ gramm: V,II,intr
+ paradigm: connect_verbs-II
+ trans_ru: красить
 
 -lexeme
  lex: буёланы
@@ -55139,4 +55146,39 @@
  stem: айн.
  paradigm: connect_verbs-I
  trans_ru: трезветь; приходить в себя
+
+-lexeme
+ lex: коӵыктыны
+ gramm: V,intr,I
+ stem: коӵыкт.
+ paradigm: connect_verbs-I
+ trans_ru: стрекотать
+
+-lexeme
+ lex: пузкартӥськыны
+ gramm: V,intr,I
+ stem: пузкартӥськ.
+ paradigm: connect_verbs-I
+ trans_ru: гнездиться
+
+-lexeme
+ lex: зыргытыны
+ gramm: V,tr,I
+ stem: зыргыт.
+ paradigm: connect_verbs-I
+ trans_ru: швырнуть
+
+-lexeme
+ lex: ӟамланыны
+ gramm: V,I,intr
+ stem: ӟамлан.
+ paradigm: connect_verbs-I
+ trans_ru: стать красивым, уютным
+
+-lexeme
+ lex: ышырыны
+ gramm: V,tr,I
+ stem: ышыр.
+ paradigm: connect_verbs-I
+ trans_ru: делать что-л. в высокой степени
 

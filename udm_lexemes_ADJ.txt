@@ -47887,3 +47887,46 @@
  gramm: ADJ
  paradigm: connect_adjectives
  trans_ru: близкий
+
+-lexeme
+ lex: кӧсэг
+ gramm: ADJ
+ stem: кӧсэг.
+ paradigm: connect_adjectives
+ trans_ru: сухой; худой, бледный, худощавый
+
+-lexeme
+ lex: амала
+ gramm: ADJ
+ stem: амала.
+ paradigm: connect_adjectives
+ trans_ru: плохой
+
+-lexeme
+ lex: тыка
+ gramm: ADJ
+ stem: тыка.
+ paradigm: connect_adjectives
+ trans_ru: крутой
+
+-lexeme
+ lex: сакырной
+ gramm: ADJ,rus
+ stem: сакырно.
+ paradigm: connect_adjectives-j
+ trans_ru: сахарный
+
+-lexeme
+ lex: автомеханической
+ gramm: ADJ,rus
+ stem: автомеханическо.//автомеханически.
+ paradigm: connect_adjectives-j
+ trans_ru: автомеханический
+
+-lexeme
+ lex: вак
+ gramm: ADJ
+ stem: вак.
+ paradigm: connect_adjectives
+ trans_ru: мелкий, некрупный
+
