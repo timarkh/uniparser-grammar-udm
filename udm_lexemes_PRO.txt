@@ -376,6 +376,13 @@
  trans_ru: никакой
 
 -lexeme
+ lex: огкыӵе
+ stem: огкыӵе.
+ gramm: ADJPRO
+ paradigm: connect_adjectives
+ trans_ru: никакой
+
+-lexeme
  lex: ненокыӵе
  stem: ненокыӵе.
  gramm: ADJPRO
@@ -456,6 +463,14 @@
  trans_ru: никто
 
 -lexeme
+ lex: огкин
+ stem: огкин.
+ gramm: PRO
+ paradigm: Noun-mar
+ paradigm: Noun-num-soft
+ trans_ru: никто
+
+-lexeme
  lex: некин
  stem: некин.
  gramm: PRO
@@ -525,6 +540,13 @@
 -lexeme
  lex: огмыр
  stem: огмыр.
+ gramm: PRO
+ paradigm: Noun-mar
+ trans_ru: ничто
+
+-lexeme
+ lex: огмар
+ stem: огмар.
  gramm: PRO
  paradigm: Noun-mar
  trans_ru: ничто
@@ -607,6 +629,13 @@
  trans_ru: нисколько
 
 -lexeme
+ lex: огкӧня
+ stem: огкӧня.
+ gramm: ADVPRO
+ paradigm: connect_adverbs_px
+ trans_ru: нисколько
+
+-lexeme
  lex: кӧняке
  stem: кӧняке.
  gramm: ADVPRO
@@ -622,7 +651,7 @@
 
 -lexeme
  lex: сомында
- stem: сомында.
+ stem: сомында.//содмында.
  gramm: ADV
  paradigm: connect_adverbs_px
  trans_ru: столько
@@ -677,6 +706,13 @@
  trans_ru: никогда
 
 -lexeme
+ lex: огку
+ stem: огку.
+ gramm: ADVPRO
+ paradigm: connect_adverbs_px
+ trans_ru: никогда
+
+-lexeme
  lex: неноку
  stem: неноку.
  gramm: ADVPRO
@@ -700,6 +736,13 @@
 -lexeme
  lex: нокуд
  stem: нокуд.
+ gramm: ADJPRO
+ paradigm: Noun-mar
+ trans_ru: никоторый
+
+-lexeme
+ lex: огкуд
+ stem: огкуд.
  gramm: ADJPRO
  paradigm: Noun-mar
  trans_ru: никоторый
@@ -735,6 +778,13 @@
 -lexeme
  lex: нокызьы
  stem: нокызьы.
+ gramm: ADVPRO
+ paradigm: connect_adverbs_px
+ trans_ru: никак
+
+-lexeme
+ lex: огкызьы
+ stem: огкызьы.
  gramm: ADVPRO
  paradigm: connect_adverbs_px
  trans_ru: никак
@@ -791,21 +841,15 @@
 
 -lexeme
  lex: вань
- stem: вань.//уань.
+ stem: вань.//ваньм.//уань.//уаньм.
  gramm: PRO
  paradigm: Comparative
  paradigm: collective
+ paradigm: Noun-case-poss-y-3,sg
+ paradigm: Noun-case-poss-y-2,sg
  paradigm: Noun-case-poss-3,pl
  paradigm: Noun-case-poss-2,pl
  paradigm: Noun-case-poss-1,pl
- trans_ru: все, всё
-
--lexeme
- lex: вань
- stem: вань.//ваньм.//уань.//уаньм.
- gramm: PRO
- paradigm: Noun-case-poss-y-3,sg
- paradigm: Noun-case-poss-y-2,sg
  trans_ru: все, всё
 
 -lexeme
@@ -1179,6 +1223,7 @@
  stem: кытӥ.//кыти.
  gramm: ADVPRO
  paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-y
  trans_ru: где
 
 -lexeme
@@ -1193,6 +1238,7 @@
  stem: отӥ.//оти.
  gramm: ADVPRO
  paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-y
  trans_ru: там
 
 -lexeme
@@ -1200,6 +1246,7 @@
  stem: сотӥ.//соти.
  gramm: ADVPRO
  paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-y
  trans_ru: там
 
 -lexeme
@@ -1207,6 +1254,7 @@
  stem: татӥ.//тати.
  gramm: ADVPRO
  paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-y
  trans_ru: тут
 
 -lexeme
@@ -1214,6 +1262,7 @@
  stem: котькытӥ.//котькыти.
  gramm: ADVPRO
  paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-y
  trans_ru: где угодно
 
 -lexeme
@@ -1221,6 +1270,7 @@
  stem: олокытӥ.//олокыти.
  gramm: ADVPRO
  paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-y
  trans_ru: где-то, не знаю где
 
 -lexeme
@@ -1228,6 +1278,7 @@
  stem: огкытӥ.//огкыти.
  gramm: ADVPRO
  paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-y
  trans_ru: нигде
 
 -lexeme
@@ -1235,6 +1286,7 @@
  stem: нокытӥ.//нокыти.
  gramm: ADVPRO
  paradigm: Noun-num-vowel
+ paradigm: Noun-num-vowel-y
  trans_ru: нигде; негде
 
 

@@ -4557,6 +4557,13 @@
  trans_ru: США
 
 -lexeme
+ lex: СНГ
+ stem: снг.//снг-.
+ gramm: N,PN,topn,abbr
+ paradigm: Noun-num-vowel
+ trans_ru: СНГ (Содружество независимых государств)
+
+-lexeme
  lex: САСШ
  stem: сасш.//сасш-.
  gramm: N,PN,topn,abbr
@@ -4682,6 +4689,14 @@
  paradigm: Noun-num-vowel
  paradigm: Noun-case-la
  trans_ru: Можга
+
+-lexeme
+ lex: Жуё-Можга
+ stem: жуё-можга.
+ gramm: N,PN,topn
+ paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
+ trans_ru: Жуё-Можга
 
 -lexeme
  lex: Москва
@@ -7723,6 +7738,12 @@
  paradigm: Noun-num-vowel
  trans_ru: ИжГТУ
 -lexeme
+ lex: ИжГСХА
+ stem: ижгсха.//ижгсха-.
+ gramm: N,abbr,PN
+ paradigm: Noun-num-vowel
+ trans_ru: ИжГСХА
+-lexeme
  lex: Ижкар
  stem: ижар.
  gramm: N,PN,topn,missp
@@ -9347,6 +9368,19 @@
  paradigm: Noun-num-vowel
  paradigm: Noun-case-la
  trans_ru: Медла
+-lexeme
+ lex: Зар-Медла
+ stem: зар-медла.
+ gramm: N,PN,topn
+ paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
+ trans_ru: Заречная Медла
+-lexeme
+ lex: Зар-Медло
+ stem: зар-медло.
+ gramm: N,PN,topn
+ paradigm: Noun-num-vowel
+ trans_ru: Заречная Медла
 -lexeme
  lex: Мексика
  stem: мексика.
@@ -14233,6 +14267,12 @@
  paradigm: Noun-num-consonant
  trans_ru: Вишур
 -lexeme
+ lex: Мувыр-Вишур
+ stem: мувыр-вишур.
+ gramm: N,PN,topn
+ paradigm: Noun-num-consonant
+ trans_ru: Заречный Вишур
+-lexeme
  lex: Влад
  stem: влад.
  gramm: N,PN,persn
@@ -15935,6 +15975,13 @@
  paradigm: Noun-num-vowel
  paradigm: Noun-case-la
  trans_ru: Кибья
+-lexeme
+ lex: Шадрасак-Кибья
+ stem: шадрасак-кибья.
+ gramm: N,PN,topn
+ paradigm: Noun-num-vowel
+ paradigm: Noun-case-la
+ trans_ru: Шадрасак-Кибья
 -lexeme
  lex: Кигбаево
  stem: кигбаево.
@@ -24150,7 +24197,13 @@
  stem: жанейро.
  gramm: N,PN,topn
  paradigm: Noun-num-vowel
- trans_ru: Жанейро
+ trans_ru: (Рио-де-)Жанейро
+-lexeme
+ lex: Рио-де-Жанейро
+ stem: рио-де-жанейро.
+ gramm: N,PN,topn
+ paradigm: Noun-num-vowel
+ trans_ru: Рио-де-Жанейро
 -lexeme
  lex: Жанна
  stem: жанна.
@@ -30920,6 +30973,12 @@
  gramm: N,PN,famn
  paradigm: Noun-num-consonant
  trans_ru: Григорович
+-lexeme
+ lex: Пуцек-Григорович
+ stem: пуцек-григорович.
+ gramm: N,PN,famn
+ paradigm: Noun-num-consonant
+ trans_ru: Пуцек-Григорович
 -lexeme
  lex: Гринкова
  stem: гринкова.
@@ -49357,6 +49416,12 @@
  paradigm: Noun-num-consonant
  trans_ru: Можгасыр
 -lexeme
+ lex: Увадрев
+ stem: увадрев.
+ gramm: N,PN
+ paradigm: Noun-num-consonant
+ trans_ru: Увадрев
+-lexeme
  lex: Можгинский
  stem: можгински.
  gramm: N,PN
@@ -49504,7 +49569,7 @@
  lex: АВГ
  stem: авг.//авг-.
  gramm: N,abbr,rus
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-vowel
  trans_ru: АВГ
 -lexeme
  lex: Айво
@@ -49516,7 +49581,7 @@
  lex: АПК
  stem: апк.//апк-.
  gramm: N,abbr,rus
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-vowel
  trans_ru: АПК
 -lexeme
  lex: АССР
@@ -49540,13 +49605,13 @@
  lex: ВДНХ
  stem: вднх.//вднх-.
  gramm: N,abbr,rus
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-vowel
  trans_ru: ВДНХ (Выставка достижений народного хозяйства)
 -lexeme
  lex: ВТО
  stem: вто.//вто-.
  gramm: N,abbr,rus
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-vowel
  trans_ru: ВТО
 -lexeme
  lex: ГОСТ
@@ -49558,13 +49623,13 @@
  lex: ГТО
  stem: гто.//гто-.
  gramm: N,abbr,rus
- paradigm: Noun-num-consonant
- trans_ru: ГТО
+ paradigm: Noun-num-vowel
+ trans_ru: ГТО ("Готов к труду и обороне")
 -lexeme
  lex: ГТРК
  stem: гтрк.//гтрк-.
  gramm: N,abbr,rus
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-vowel
  trans_ru: ГТРК
 -lexeme
  lex: ДОСААФ
@@ -49582,13 +49647,13 @@
  lex: ЖКХ
  stem: жкх.//жкх-.
  gramm: N,abbr,rus
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-vowel
  trans_ru: ЖКХ
 -lexeme
  lex: ЗАО
  stem: зао.//зао-.
  gramm: N,abbr,rus
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-vowel
  trans_ru: ЗАО
 -lexeme
  lex: ИНН
@@ -49612,13 +49677,13 @@
  lex: КГБ
  stem: кгб.//кгб-.
  gramm: N,abbr,rus
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-vowel
  trans_ru: КГБ
 -lexeme
  lex: КПП
  stem: кпп.//кпп-.
  gramm: N,abbr,rus
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-vowel
  trans_ru: КПП
 -lexeme
  lex: КПРФ
@@ -49630,7 +49695,7 @@
  lex: ВКП(б)
  stem: вкп(б).//вкп(б)-.//вкпб.//вкпб-.
  gramm: N,abbr,rus
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-vowel
  trans_ru: ВКП(б) (Всероссийская коммунистическая партия (большевиков))
 -lexeme
  lex: КПСС
@@ -49642,7 +49707,7 @@
  lex: РСДРП
  stem: рсдрп.//рсдрп-.
  gramm: N,abbr,rus
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-vowel
  trans_ru: РСДРП (Российская социал-демократическая рабочая партия)
 -lexeme
  lex: ЛДПР
@@ -49654,7 +49719,7 @@
  lex: МГУ
  stem: мгу.//мгу-.
  gramm: N,abbr,rus
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-vowel
  trans_ru: МГУ
 -lexeme
  lex: МММ
@@ -49666,7 +49731,7 @@
  lex: МТЗ
  stem: мтз.//мтз-.
  gramm: N,abbr,rus
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-vowel
  trans_ru: МТЗ
 -lexeme
  lex: МТС
@@ -49678,37 +49743,37 @@
  lex: НКВД
  stem: нквд.//нквд-.
  gramm: N,abbr,rus
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-vowel
  trans_ru: НКВД
 -lexeme
  lex: РККА
  stem: ркка.//ркка-.
  gramm: N,abbr,rus
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-vowel
  trans_ru: РККА (Рабоче-крестьянская Красная армия)
 -lexeme
  lex: ОАО
  stem: оао.//оао-.
  gramm: N,abbr,rus
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-vowel
  trans_ru: ОАО
 -lexeme
  lex: ОБЖ
  stem: обж.//обж-.
  gramm: N,abbr,rus
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-vowel
  trans_ru: ОБЖ
 -lexeme
  lex: ООО
  stem: ооо.//ооо-.
  gramm: N,abbr,rus
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-vowel
  trans_ru: ООО
 -lexeme
  lex: ОРВИ
  stem: орви.//орви-.
  gramm: N,abbr,rus
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-vowel
  trans_ru: ОРВИ
 -lexeme
  lex: ЗСФСР
@@ -49726,19 +49791,19 @@
  lex: РТП
  stem: ртп.//ртп-.
  gramm: N,abbr,rus
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-vowel
  trans_ru: РТП
 -lexeme
  lex: СМИ
  stem: сми.//сми-.
  gramm: N,abbr,rus
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-vowel
  trans_ru: СМИ
 -lexeme
  lex: ТРК
  stem: трк.//трк-.
  gramm: N,abbr,rus
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-vowel
  trans_ru: ТРК
 -lexeme
  lex: УАССР
@@ -49799,7 +49864,13 @@
  stem: снк.//снк-.
  gramm: N,abbr,rus
  paradigm: Noun-num-consonant
- trans_ru: СНк (Совет народных комиссаров)
+ trans_ru: СНК (Совет народных комиссаров)
+-lexeme
+ lex: ПФО
+ stem: пфо.//пфо-.
+ gramm: N,abbr,rus,PN,topn
+ paradigm: Noun-num-vowel
+ trans_ru: ПФО (Поволжский федеральный округ)
 
 -lexeme
  lex: Абдасов
@@ -62290,7 +62361,7 @@
  gramm: N,topn,PN
  stem: медлодур.
  paradigm: Noun-num-consonant
- trans_ru: Медлодур
+ trans_ru: Усть-Медла
 
 -lexeme
  lex: Межевая
@@ -97533,3 +97604,9 @@
  paradigm: Noun-num-consonant
  trans_ru: Петропавловка
 
+-lexeme
+ lex: Берш
+ stem: берш.
+ gramm: N,PN,famn
+ paradigm: Noun-num-consonant
+ trans_ru: Берш

@@ -2166,6 +2166,7 @@
   stem: сяла.
   gramm: V,.*
   gloss: STEM-PASS(.(?!VN))*$
+  trans_ru: плевать
  -add
   trans_ru2: плеваться, плевать
 -lex_rule

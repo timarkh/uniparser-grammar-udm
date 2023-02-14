@@ -1856,7 +1856,7 @@
 -lexeme
  lex: буяны
  stem: буя.
- gramm: V,II,intr
+ gramm: V,II,tr
  paradigm: connect_verbs-II
  trans_ru: красить
 
@@ -18146,6 +18146,13 @@
  trans_ru: охотиться на рябчиков
 
 -lexeme
+ lex: сяланы
+ stem: сяла.
+ gramm: V,II,intr
+ paradigm: connect_verbs-II
+ trans_ru: плевать
+
+-lexeme
  lex: сялтыманы
  stem: сялтыма.
  gramm: V,II,intr
@@ -25703,7 +25710,14 @@
  stem: ӟуд.
  gramm: V,I,intr
  paradigm: connect_verbs-I
- trans_ru: 1. попасть в затруднительное положение, затрудниться 2. растеряться, теряться
+ trans_ru: попасть в затруднительное положение; растеряться
+
+-lexeme
+ lex: ӟуданы
+ stem: ӟуда.
+ gramm: V,II,intr
+ paradigm: connect_verbs-II
+ trans_ru: попадать в затруднительное положение; теряться
 
 -lexeme
  lex: ӟузганы
@@ -55182,3 +55196,30 @@
  paradigm: connect_verbs-I
  trans_ru: делать что-л. в высокой степени
 
+-lexeme
+ lex: активизировачкыны
+ stem: активизировачк.
+ gramm: V,I,intr,rus
+ paradigm: connect_verbs-I
+ trans_ru: активизироваться
+
+-lexeme
+ lex: аляктыны
+ stem: алякт.
+ gramm: V,I,intr
+ paradigm: connect_verbs-I
+ trans_ru: дебоширить, шуметь
+
+-lexeme
+ lex: ашкыномыны
+ stem: ашкыном.
+ gramm: V,I,intr
+ paradigm: connect_verbs-I
+ trans_ru: распускаться, расслабляться
+
+-lexeme
+ lex: ботьыртыны
+ stem: ботьырт.
+ gramm: V,I,intr
+ paradigm: connect_verbs-I
+ trans_ru: болтать

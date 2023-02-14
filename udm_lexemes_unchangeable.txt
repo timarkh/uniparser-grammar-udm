@@ -2276,7 +2276,7 @@
 -lexeme
  lex: азьланьлы
  stem: азьланьлы.
- gramm: ADV
+ gramm: ADV,dat
  paradigm: connect_adverbs
  trans_ru: на будущее
 
@@ -3184,11 +3184,11 @@
  trans_ru: неспокойно
 
 -lexeme
- lex: арняскын
- stem: арняскын.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: за неделю, в недельный срок, в течение недели
+ lex: аляк
+ stem: аляк.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: неспокойный
 
 -lexeme
  lex: улӥе
@@ -4783,7 +4783,7 @@
 -lexeme
  lex: азьланьын
  stem: азьланьын.
- gramm: ADV
+ gramm: ADV,loc
  paradigm: connect_adverbs
  trans_ru: впереди
 
@@ -5321,9 +5321,10 @@
 
 -lexeme
  lex: азьланяз
- stem: азьланяз.
- gramm: ADV,3sg
- paradigm: connect_adverbs
+ stem: азьланя.
+ gramm: ADV,loc
+ paradigm: poss-sg
+ paradigm: poss-pl
  trans_ru: в будущем, в дальнейшем
 
 -lexeme
@@ -8228,7 +8229,7 @@
 -lexeme
  lex: однозэ
  stem: однозэ.
- gramm: ADV
+ gramm: ADV,3sg
  paradigm: connect_adverbs
  trans_ru: обязательно, всё равно
 
@@ -10885,7 +10886,7 @@
 
 -lexeme
  lex: вокурат
- stem: вокурат.//вократ.
+ stem: вокурат.//вократ.//окурат.//укурат.
  gramm: ADV,rus
  paradigm: connect_adverbs
  trans_ru: точь-в-точь, как раз
@@ -17592,11 +17593,18 @@
  trans_ru: брысь
 
 -lexeme
+ lex: гав
+ gramm: INTRJ,rus
+ stem: гав.
+ paradigm: Comparative
+ trans_ru: гав (о лае собаки)
+
+-lexeme
  lex: гав-гав
  gramm: INTRJ,rus
  stem: гав-гав.
  paradigm: Comparative
- trans_ru: гав-гав
+ trans_ru: гав-гав (о лае собаки)
 
 -lexeme
  lex: га-гаг
@@ -18053,6 +18061,13 @@
  lex: пала
  gramm: POST
  stem: пала.
+ paradigm: Comparative
+ trans_ru: примерно
+
+-lexeme
+ lex: палазэ
+ gramm: POST,3sg
+ stem: палазэ.
  paradigm: Comparative
  trans_ru: примерно
 
@@ -18559,6 +18574,13 @@
  stem: озьытэк.
  paradigm: Comparative
  trans_ru: иначе, а то, в противном случае
+
+-lexeme
+ lex: соинтэк
+ gramm: ADV
+ stem: соинтэк.
+ paradigm: Comparative
+ trans_ru: не поэтому ли (в сочетании с вопросительной частицей)
 
 -lexeme
  lex: керексэ
@@ -21515,3 +21537,18 @@
  paradigm: Comparative
  trans_ru: ведь, же
 
+-lexeme
+ lex: таязэ
+ gramm: ADV
+ stem: таязэ.
+ paradigm: Comparative
+ trans_ru: в этот раз
+
+-lexeme
+ lex: сюлэмъя
+ gramm: PREDIC
+ stem: сюлэмъя.
+ paradigm: poss-sg
+ paradigm: poss-pl
+ paradigm: Comparative
+ trans_ru: по душе
