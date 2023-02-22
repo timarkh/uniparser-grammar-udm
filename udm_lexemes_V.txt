@@ -55223,3 +55223,17 @@
  gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: болтать
+
+-lexeme
+ lex: верттаны
+ gramm: V,II,tr
+ stem: вертта.
+ paradigm: connect_verbs-II
+ trans_ru: качать; макать
+
+-lexeme
+ lex: гопалтыны
+ stem: гопалт.
+ gramm: V,I,tr,with_instr
+ paradigm: connect_verbs-I
+ trans_ru: копнуть
