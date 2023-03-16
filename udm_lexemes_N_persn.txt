@@ -97610,3 +97610,18 @@
  gramm: N,PN,famn
  paradigm: Noun-num-consonant
  trans_ru: Берш
+
+-lexeme
+ lex: Котя
+ gramm: N,PN,persn
+ stem: котя.
+ paradigm: Noun-num-vowel
+ trans_ru: Котя
+
+-lexeme
+ lex: Дика
+ gramm: N,PN,persn
+ stem: дика.
+ paradigm: Noun-num-vowel
+ trans_ru: Дика
+

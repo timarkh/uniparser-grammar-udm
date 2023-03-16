@@ -140230,3 +140230,16 @@
  paradigm: Noun-num-consonant
  trans_ru: фотоэтюд
 
+-lexeme
+ lex: отражение
+ gramm: N,rus
+ stem: отражени.
+ paradigm: Noun-num-ije
+ trans_ru: отражение
+
+-lexeme
+ lex: сарымсак
+ gramm: N
+ stem: сарымсак.
+ paradigm: Noun-num-consonant
+ trans_ru: чеснок
