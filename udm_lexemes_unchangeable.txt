@@ -4512,6 +4512,7 @@
  stem: пичильтык.//пичыльтык.
  gramm: ADV
  paradigm: connect_adverbs
+ paradigm: connect_adjectives
  trans_ru: немножко, чуть-чуть
 
 -lexeme
@@ -21552,3 +21553,11 @@
  paradigm: poss-pl
  paradigm: Comparative
  trans_ru: по душе
+
+-lexeme
+ lex: впрочем
+ gramm: PARENTH,rus
+ stem: впрочем.
+ paradigm: Comparative
+ trans_ru: впрочем
+
