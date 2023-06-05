@@ -99822,3 +99822,86 @@
  paradigm: Noun-num-consonant
  trans_ru: Джафаров
 
+-lexeme
+ lex: Елин
+ gramm: N,PN,rus
+ stem: елин.
+ paradigm: connect_adjectives
+ trans_ru: Ильин (день)
+
+-lexeme
+ lex: Иллин
+ gramm: N,PN,rus
+ stem: иллин.
+ paradigm: connect_adjectives
+ trans_ru: Ильин (день)
+-lexeme
+ lex: Альга
+ gramm: N,PN,topn
+ stem: альга.
+ paradigm: Noun-num-vowel
+ trans_ru: Алга
+
+-lexeme
+ lex: Чибильга
+ gramm: N,PN,topn
+ stem: чибильга.
+ paradigm: Noun-num-vowel
+ trans_ru: Чибильга (река)
+
+-lexeme
+ lex: Индира
+ gramm: N,PN,persn
+ stem: индира.
+ paradigm: Noun-num-vowel
+ trans_ru: Индира
+
+-lexeme
+ lex: Зита
+ gramm: N,PN,persn
+ stem: зита.
+ paradigm: Noun-num-vowel
+ trans_ru: Зита
+
+-lexeme
+ lex: Гита
+ gramm: N,PN,persn
+ stem: гита.
+ paradigm: Noun-num-vowel
+ trans_ru: Гита
+
+-lexeme
+ lex: Славикович
+ gramm: N,PN,patrn
+ stem: славикович.
+ paradigm: Noun-num-consonant
+ trans_ru: Славикович
+
+-lexeme
+ lex: Славиковна
+ gramm: N,PN,patrn
+ stem: славиковна.
+ paradigm: Noun-num-vowel
+ trans_ru: Славиковна
+
+-lexeme
+ lex: Закыри
+ gramm: N,PN,topn
+ stem: закыри.
+ paradigm: Noun-num-vowel
+ trans_ru: Закыри (название поляны)
+
+-lexeme
+ lex: Ямаш
+ gramm: N,topn,PN
+ stem: ямаш.
+ paradigm: Noun-num-consonant
+ trans_ru: Емаш-Павлово
+
+-lexeme
+ lex: Басьян
+ gramm: N,PN,topn
+ stem: басьян.
+ paradigm: Noun-num-consonant
+ trans_ru: Басьяновский
+

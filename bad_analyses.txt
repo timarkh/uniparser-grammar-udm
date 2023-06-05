@@ -113,6 +113,7 @@
   {"gloss": ".*-CAUS-CAUS-.*", "lemma": ".*уыны", "wfGlossed": ".*-т-т-.*"},
   {"gloss": ".*-PASS-PASS-FUT.*"},
   {"wfGlossed": ".*-[еэ]сь(-гес)?", "gramm": "^ADJ.*,pl,adj_nmlz,nom(,comp)?$"},
-  {"wf": "сиенъёслы", "gramm": ".*pl_comp"}
+  {"wf": "сиенъёслы", "gramm": ".*pl_comp.*"},
+  {"wf": ".+онтӥ.+", "gramm": ".*case_comp.*", "gloss": ".*-VN-PROL-.*"}
 ]
 

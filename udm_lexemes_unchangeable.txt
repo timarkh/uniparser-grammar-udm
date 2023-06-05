@@ -7725,7 +7725,7 @@
 
 -lexeme
  lex: ой
- stem: ой.//оой.//ооой.//оооой.//ооооой.
+ stem: ой.//оой.//ооой.//оооой.//ооооой.//о-ой.//о-о-ой.
  gramm: INTRJ
  paradigm: Empty
  trans_ru: ах, ой
@@ -21568,3 +21568,44 @@
  paradigm: Comparative
  trans_ru: впрочем
 
+-lexeme
+ lex: созвучно
+ gramm: ADV,rus
+ stem: созвучно.
+ paradigm: connect_adverbs
+ trans_ru: созвучно
+
+-lexeme
+ lex: зар
+ gramm: ADV
+ stem: зар.
+ paradigm: connect_adverbs
+ trans_ru: очень
+
+-lexeme
+ lex: бутыннэй
+ gramm: ADV
+ stem: бутыннэй.
+ paradigm: connect_adverbs
+ trans_ru: целиком, полностью, всецело; окончательно, совершенно
+
+-lexeme
+ lex: эсьмасын
+ gramm: PART
+ stem: эсьмасын.
+ paradigm: Comparative
+ trans_ru: даже, ведь; зато
+
+-lexeme
+ lex: гуж-гаж
+ gramm: IMIT
+ stem: гуж-гаж.
+ paradigm: Comparative
+ trans_ru: шумно
+
+-lexeme
+ lex: айы
+ gramm: INTRJ
+ stem: айы.
+ paradigm: Comparative
+ trans_ru: а

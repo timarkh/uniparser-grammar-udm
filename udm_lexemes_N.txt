@@ -10703,14 +10703,14 @@
  stem: вузкаронни.
  gramm: N
  paradigm: Noun-num-vowel
- trans_ru: торговое место, место торговли, лавка, магазин
+ trans_ru: место торговли, лавка, магазин
 
 -lexeme
  lex: вузкаронтӥ
  stem: вузкаронтӥ.
  gramm: N
  paradigm: Noun-num-vowel
- trans_ru: торговое место, место торговли, лавка, магазин
+ trans_ru: место торговли, лавка, магазин
 
 -lexeme
  lex: вуин
@@ -10941,14 +10941,14 @@
  stem: вуриськонни.
  gramm: N
  paradigm: Noun-num-vowel
- trans_ru: пошивочная мастерская, швальня
+ trans_ru: пошивочная мастерская
 
 -lexeme
  lex: вуриськонтӥ
  stem: вуриськонтӥ.
  gramm: N
  paradigm: Noun-num-vowel
- trans_ru: пошивочная мастерская, швальня
+ trans_ru: пошивочная мастерская
 
 -lexeme
  lex: вурыс
@@ -77299,7 +77299,7 @@
  lex: дугдылонтӥ
  stem: дугдылонтӥ.
  gramm: N
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-vowel
  trans_ru: остановка
 -lexeme
  lex: дунне
@@ -140817,4 +140817,151 @@
  stem: москал.
  paradigm: Noun-num-soft
  trans_ru: москаль
+
+-lexeme
+ lex: бӧлег
+ gramm: N
+ stem: бӧлег.
+ paradigm: Noun-num-consonant
+ trans_ru: лог
+
+-lexeme
+ lex: пиёшка
+ gramm: N,hum,anim,rus_afx
+ stem: пиёшка.
+ paradigm: Noun-num-vowel
+ trans_ru: мальчик
+
+-lexeme
+ lex: атаймурт
+ gramm: N,hum,anim
+ stem: атаймурт.
+ paradigm: Noun-num-consonant
+ trans_ru: отец
+
+-lexeme
+ lex: крес
+ gramm: N,rus
+ stem: крес.
+ paradigm: Noun-num-consonant
+ trans_ru: крест
+
+-lexeme
+ lex: уят
+ gramm: N
+ stem: уят.
+ paradigm: Noun-num-consonant
+ trans_ru: что-либо страшное
+
+-lexeme
+ lex: поминки
+ gramm: N,rus
+ stem: поминки.
+ paradigm: Noun-num-vowel
+ trans_ru: поминки
+
+-lexeme
+ lex: шиша
+ gramm: N
+ stem: шиша.
+ paradigm: Noun-num-vowel
+ trans_ru: бутылка
+
+-lexeme
+ lex: поттонтӥ
+ gramm: N
+ stem: поттонтӥ.
+ paradigm: Noun-num-vowel
+ trans_ru: место, где добывают что-либо
+
+-lexeme
+ lex: потонтӥ
+ gramm: N
+ stem: потонтӥ.
+ paradigm: Noun-num-vowel
+ trans_ru: выход
+
+-lexeme
+ lex: пыронтӥ
+ gramm: N
+ stem: пыронтӥ.
+ paradigm: Noun-num-vowel
+ trans_ru: вход
+
+-lexeme
+ lex: колош
+ gramm: N,rus
+ stem: колош.
+ paradigm: Noun-num-consonant
+ trans_ru: калоша
+
+-lexeme
+ lex: куриськонтӥ
+ gramm: N
+ stem: куриськонтӥ.
+ paradigm: Noun-num-vowel
+ trans_ru: место моления
+
+-lexeme
+ lex: вӧсяськонтӥ
+ gramm: N
+ stem: вӧсяськонтӥ.
+ paradigm: Noun-num-vowel
+ trans_ru: место моления
+
+-lexeme
+ lex: пӧраськонтӥ
+ gramm: N
+ stem: пӧраськонтӥ.
+ paradigm: Noun-num-vowel
+ trans_ru: кухня
+
+-lexeme
+ lex: эмъяськонтӥ
+ gramm: N
+ stem: эмъяськонтӥ.
+ paradigm: Noun-num-vowel
+ trans_ru: больница
+
+-lexeme
+ lex: сиськонтӥ
+ gramm: N
+ stem: сиськонтӥ.
+ paradigm: Noun-num-vowel
+ trans_ru: столовая
+
+-lexeme
+ lex: ветлонтӥ
+ gramm: N
+ stem: ветлонтӥ.
+ paradigm: Noun-num-vowel
+ trans_ru: место, где ходят
+
+-lexeme
+ lex: кожонтӥ
+ gramm: N
+ stem: кожонтӥ.
+ paradigm: Noun-num-vowel
+ trans_ru: поворот
+
+-lexeme
+ lex: ветлонтӥ
+ gramm: N
+ stem: ветлонтӥ.
+ paradigm: Noun-num-vowel
+ trans_ru: место, где ходят
+
+-lexeme
+ lex: пуксёнтӥ
+ gramm: N
+ stem: пуксёнтӥ.
+ paradigm: Noun-num-vowel
+ trans_ru: место для сидения
+
+-lexeme
+ lex: пуконтӥ
+ gramm: N
+ stem: пуконтӥ.
+ paradigm: Noun-num-vowel
+ trans_ru: место для сидения
 

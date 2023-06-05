@@ -32925,7 +32925,7 @@
 -lexeme
  lex: восьмилетней
  gramm: ADJ,rus
- stem: восьмилетне.
+ stem: восьмилетне.//восьмилетни.
  paradigm: connect_adjectives-j
  trans_ru: восьмилетний
 
@@ -32939,7 +32939,7 @@
 -lexeme
  lex: второстепенной
  gramm: ADJ,rus
- stem: второстепенно.
+ stem: второстепенно.//второстепенны.
  paradigm: connect_adjectives-j
  trans_ru: второстепенный
 
@@ -37027,7 +37027,7 @@
 -lexeme
  lex: средней
  gramm: ADJ,rus
- stem: средне.
+ stem: средне.//средни.
  paradigm: connect_adjectives-j
  trans_ru: средний
 

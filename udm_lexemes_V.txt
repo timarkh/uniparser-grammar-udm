@@ -55257,3 +55257,25 @@
  stem: гольтч.
  paradigm: connect_verbs-I
  trans_ru: объесться
+
+-lexeme
+ lex: тазаръяны
+ gramm: V,II,tr,mult
+ stem: тазаръя.
+ paradigm: connect_verbs-II
+ trans_ru: очистить, убрать
+
+-lexeme
+ lex: тазартыны
+ gramm: V,I,tr
+ stem: тазарт.
+ paradigm: connect_verbs-I
+ trans_ru: очистить, убрать
+
+-lexeme
+ lex: сайраны
+ gramm: V,tr,II
+ stem: сайра.
+ paradigm: connect_verbs-II
+ trans_ru: говорить, болтать
+
