@@ -14465,7 +14465,7 @@
 
 -lexeme
  lex: пастуханы
- stem: пастуха.
+ stem: пастуха.//пастука.
  gramm: V,II,intr,rus
  paradigm: connect_verbs-II
  trans_ru: пасти скот, пастушить
@@ -28075,6 +28075,12 @@
  gramm: V,rus,rus_inf,rus_ipfv
  paradigm: Comparative
  trans_ru: играть
+-lexeme
+ lex: извинить
+ stem: извинить.
+ gramm: V,rus,rus_inf,tr,rus_pfv
+ paradigm: Comparative
+ trans_ru: извинить
 -lexeme
  lex: извиниться
  stem: извиниться.
@@ -55223,3 +55229,31 @@
  gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: болтать
+
+-lexeme
+ lex: верттаны
+ gramm: V,II,tr
+ stem: вертта.
+ paradigm: connect_verbs-II
+ trans_ru: качать; макать
+
+-lexeme
+ lex: гопалтыны
+ stem: гопалт.
+ gramm: V,I,tr,with_instr
+ paradigm: connect_verbs-I
+ trans_ru: копнуть
+
+-lexeme
+ lex: гольтраны
+ gramm: V,II,intr
+ stem: гольтра.
+ paradigm: connect_verbs-II
+ trans_ru: объесться
+
+-lexeme
+ lex: гольтчыны
+ gramm: V,I,intr
+ stem: гольтч.
+ paradigm: connect_verbs-I
+ trans_ru: объесться

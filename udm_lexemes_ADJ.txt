@@ -30108,7 +30108,7 @@
  trans_ru: удобный
 -lexeme
  lex: уездной
- stem: уездно.//уездны.
+ stem: уездно.//уездны.//уезно.//уезны.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: уездный
@@ -47929,4 +47929,137 @@
  stem: вак.
  paradigm: connect_adjectives
  trans_ru: мелкий, некрупный
+
+-lexeme
+ lex: чёрной
+ gramm: ADJ,rus
+ stem: чёрно.//чёрны.
+ paradigm: connect_adjectives-j
+ trans_ru: чёрный
+
+-lexeme
+ lex: коллежской
+ gramm: ADJ,rus
+ stem: коллежско.//коллежски.
+ paradigm: connect_adjectives-j
+ trans_ru: коллежский
+
+-lexeme
+ lex: пилотской
+ gramm: ADJ,rus
+ stem: пилотско.
+ paradigm: connect_adjectives-j
+ trans_ru: пилотский
+
+-lexeme
+ lex: драгунской
+ gramm: ADJ,rus
+ stem: драгунско.
+ paradigm: connect_adjectives-j
+ trans_ru: драгунский
+
+-lexeme
+ lex: равной
+ gramm: ADJ,rus
+ stem: равно.
+ paradigm: connect_adjectives-j
+ trans_ru: равный
+
+-lexeme
+ lex: гоминдановской
+ gramm: ADJ,rus
+ stem: гоминдановско.
+ paradigm: connect_adjectives-j
+ trans_ru: гоминдановский
+
+-lexeme
+ lex: статской
+ gramm: ADJ,rus
+ stem: статско.
+ paradigm: connect_adjectives-j
+ trans_ru: статский
+
+-lexeme
+ lex: козацкой
+ gramm: ADJ,rus
+ stem: козацко.
+ paradigm: connect_adjectives-j
+ trans_ru: казацкий
+
+-lexeme
+ lex: торфоперегнойной
+ gramm: ADJ,rus
+ stem: торфоперегнойно.
+ paradigm: connect_adjectives-j
+ trans_ru: торфоперегнойный
+
+-lexeme
+ lex: богоугодной
+ gramm: ADJ,rus
+ stem: богоугодно.
+ paradigm: connect_adjectives-j
+ trans_ru: богоугодный
+
+-lexeme
+ lex: отставной
+ gramm: ADJ,rus
+ stem: отставно.
+ paradigm: connect_adjectives-j
+ trans_ru: отставной
+
+-lexeme
+ lex: эсэсовской
+ gramm: ADJ,rus
+ stem: эсэсовско.
+ paradigm: connect_adjectives-j
+ trans_ru: эсэсовский
+
+-lexeme
+ lex: бамбуковой
+ gramm: ADJ,rus
+ stem: бамбуково.
+ paradigm: connect_adjectives-j
+ trans_ru: бамбуковый
+
+-lexeme
+ lex: долгоаршинной
+ gramm: ADJ,rus
+ stem: долгоаршинно.//долгоаршинны.
+ paradigm: connect_adjectives-j
+ trans_ru: долгоаршинный
+
+-lexeme
+ lex: колхидской
+ gramm: ADJ,rus
+ stem: колхидско.
+ paradigm: connect_adjectives-j
+ trans_ru: колхидский
+
+-lexeme
+ lex: никонианской
+ gramm: ADJ,rus
+ stem: никонианско.
+ paradigm: connect_adjectives-j
+ trans_ru: никонианский
+
+-lexeme
+ lex: общечеловеческой
+ gramm: ADJ,rus
+ stem: общечеловеческо.
+ paradigm: connect_adjectives-j
+ trans_ru: общечеловеческий
+
+-lexeme
+ lex: вертикальной
+ gramm: ADJ,rus
+ stem: вертикально.
+ paradigm: connect_adjectives-j
+ trans_ru: вертикальный
+
+-lexeme
+ lex: недостойной
+ gramm: ADJ,rus
+ stem: недостойно.
+ paradigm: connect_adjectives-j
+ trans_ru: недостойный
 

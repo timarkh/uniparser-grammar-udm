@@ -16069,7 +16069,7 @@
  trans_ru: Кирилл
 -lexeme
  lex: Кирилловна
- stem: кирилловна.
+ stem: кирилловна.//кириловна.
  gramm: N,PN,patrn
  paradigm: Noun-num-vowel
  trans_ru: Кирилловна
@@ -49590,6 +49590,12 @@
  paradigm: Noun-num-consonant
  trans_ru: АССР
 -lexeme
+ lex: ССР
+ stem: сср.//сср-.
+ gramm: N,abbr,rus
+ paradigm: Noun-num-consonant
+ trans_ru: ССР (советская социалистическая республика)
+-lexeme
  lex: АФУН
  stem: афун.//афун-.
  gramm: N,abbr,rus
@@ -74233,7 +74239,7 @@
 -lexeme
  lex: Джамму
  gramm: N,PN,topn
- stem: Джамму.
+ stem: джамму.
  paradigm: Noun-num-vowel
  trans_ru: джамму
 
@@ -97610,3 +97616,2209 @@
  gramm: N,PN,famn
  paradigm: Noun-num-consonant
  trans_ru: Берш
+
+-lexeme
+ lex: Котя
+ gramm: N,PN,persn
+ stem: котя.
+ paradigm: Noun-num-vowel
+ trans_ru: Котя
+
+-lexeme
+ lex: Дика
+ gramm: N,PN,persn
+ stem: дика.
+ paradigm: Noun-num-vowel
+ trans_ru: Дика
+
+-lexeme
+ lex: Гулливер
+ gramm: N,PN,persn
+ stem: гулливер.
+ paradigm: Noun-num-consonant
+ trans_ru: Гулливер
+
+-lexeme
+ lex: Торопчин
+ gramm: N,famn,PN
+ stem: торопчин.
+ paradigm: Noun-num-consonant
+ trans_ru: Торопчин
+
+-lexeme
+ lex: Хаджи-мурат
+ gramm: N,PN,persn
+ stem: хаджи-мурат.
+ paradigm: Noun-num-consonant
+ trans_ru: Хаджи-мурат
+
+-lexeme
+ lex: Бубенцов
+ gramm: N,famn,PN
+ stem: бубенцов.
+ paradigm: Noun-num-consonant
+ trans_ru: Бубенцов
+
+-lexeme
+ lex: Булычов
+ gramm: N,famn,PN
+ stem: булычов.
+ paradigm: Noun-num-consonant
+ trans_ru: Булычов
+
+-lexeme
+ lex: Травкин
+ gramm: N,famn,PN
+ stem: травкин.
+ paradigm: Noun-num-consonant
+ trans_ru: Травкин
+
+-lexeme
+ lex: А-кью
+ gramm: N,PN,persn
+ stem: а-кью.
+ paradigm: Noun-num-vowel
+ trans_ru: А-кью
+
+-lexeme
+ lex: Енакиев
+ gramm: N,famn,PN
+ stem: енакиев.
+ paradigm: Noun-num-consonant
+ trans_ru: Енакиев
+
+-lexeme
+ lex: Тевье
+ gramm: N,PN,persn
+ stem: тевье.
+ paradigm: Noun-num-vowel
+ trans_ru: Тевье
+
+-lexeme
+ lex: Биденко
+ gramm: N,famn,PN
+ stem: биденко.
+ paradigm: Noun-num-vowel
+ trans_ru: Биденко
+
+-lexeme
+ lex: Чертопханов
+ gramm: N,famn,PN
+ stem: чертопханов.
+ paradigm: Noun-num-consonant
+ trans_ru: Чертопханов
+
+-lexeme
+ lex: Кирила
+ gramm: N,PN,persn
+ stem: кирила.
+ paradigm: Noun-num-vowel
+ trans_ru: Кирила
+
+-lexeme
+ lex: Карпыч
+ gramm: N,PN,patrn
+ stem: карпыч.
+ paradigm: Noun-num-consonant
+ trans_ru: Карпыч
+
+-lexeme
+ lex: Таиска
+ gramm: N,PN,persn
+ stem: таиска.
+ paradigm: Noun-num-vowel
+ trans_ru: Таиска
+
+-lexeme
+ lex: Карабас
+ gramm: N,PN,persn
+ stem: карабас.
+ paradigm: Noun-num-consonant
+ trans_ru: Карабас
+
+-lexeme
+ lex: Грушницкий
+ gramm: N,famn,PN
+ stem: грушницки.
+ paradigm: Noun-num-j
+ trans_ru: Грушницкий
+
+-lexeme
+ lex: Звонцов
+ gramm: N,famn,PN
+ stem: звонцов.
+ paradigm: Noun-num-consonant
+ trans_ru: Звонцов
+
+-lexeme
+ lex: Коренкова
+ gramm: N,famn,PN
+ stem: коренкова.
+ paradigm: Noun-num-vowel
+ trans_ru: Коренкова
+
+-lexeme
+ lex: Мамочкин
+ gramm: N,famn,PN
+ stem: мамочкин.
+ paradigm: Noun-num-consonant
+ trans_ru: Мамочкин
+
+-lexeme
+ lex: Гагин
+ gramm: N,famn,PN
+ stem: гагин.
+ paradigm: Noun-num-consonant
+ trans_ru: Гагин
+
+-lexeme
+ lex: Ионафан
+ gramm: N,PN,persn
+ stem: ионафан.
+ paradigm: Noun-num-consonant
+ trans_ru: Ионафан
+
+-lexeme
+ lex: Косицын
+ gramm: N,famn,PN
+ stem: косицын.
+ paradigm: Noun-num-consonant
+ trans_ru: Косицын
+
+-lexeme
+ lex: Кудряш
+ gramm: N,PN,persn
+ stem: кудряш.
+ paradigm: Noun-num-consonant
+ trans_ru: Кудряш
+
+-lexeme
+ lex: Швабрин
+ gramm: N,famn,PN
+ stem: швабрин.
+ paradigm: Noun-num-consonant
+ trans_ru: Швабрин
+
+-lexeme
+ lex: Элиза
+ gramm: N,PN,persn
+ stem: элиза.
+ paradigm: Noun-num-vowel
+ trans_ru: Элиза
+
+-lexeme
+ lex: Ванятка
+ gramm: N,PN,persn
+ stem: ванятка.
+ paradigm: Noun-num-vowel
+ trans_ru: Ванятка
+
+-lexeme
+ lex: Фроловский
+ gramm: N,famn,PN
+ stem: фроловски.
+ paradigm: Noun-num-j
+ trans_ru: Фроловский
+
+-lexeme
+ lex: Аниканов
+ gramm: N,famn,PN
+ stem: аниканов.
+ paradigm: Noun-num-consonant
+ trans_ru: Аниканов
+
+-lexeme
+ lex: Романок
+ gramm: N,PN,persn
+ stem: романок.
+ paradigm: Noun-num-consonant
+ trans_ru: Романок
+
+-lexeme
+ lex: Барабас
+ gramm: N,PN,persn
+ stem: барабас.
+ paradigm: Noun-num-consonant
+ trans_ru: Барабас
+
+-lexeme
+ lex: Балахонов
+ gramm: N,famn,PN
+ stem: балахонов.
+ paradigm: Noun-num-consonant
+ trans_ru: Балахонов
+
+-lexeme
+ lex: Ниловна
+ gramm: N,famn,PN
+ stem: ниловна.
+ paradigm: Noun-num-vowel
+ trans_ru: Ниловна
+
+-lexeme
+ lex: Тятин
+ gramm: N,famn,PN
+ stem: тятин.
+ paradigm: Noun-num-consonant
+ trans_ru: Тятин
+
+-lexeme
+ lex: Бутлер
+ gramm: N,famn,PN
+ stem: бутлер.
+ paradigm: Noun-num-consonant
+ trans_ru: Бутлер
+
+-lexeme
+ lex: Савельич
+ gramm: N,PN,patrn
+ stem: савельич.
+ paradigm: Noun-num-consonant
+ trans_ru: Савельич
+
+-lexeme
+ lex: Добчинский
+ gramm: N,famn,PN
+ stem: добчински.
+ paradigm: Noun-num-j
+ trans_ru: Добчинский
+
+-lexeme
+ lex: Троекуров
+ gramm: N,famn,PN
+ stem: троекуров.
+ paradigm: Noun-num-consonant
+ trans_ru: Троекуров
+
+-lexeme
+ lex: Глюмдальклич
+ gramm: N,PN,persn
+ stem: глюмдальклич.
+ paradigm: Noun-num-consonant
+ trans_ru: Глюмдальклич
+
+-lexeme
+ lex: Филофей
+ gramm: N,PN,persn
+ stem: филофе.
+ paradigm: Noun-num-j
+ trans_ru: Филофей
+
+-lexeme
+ lex: Акакиевич
+ gramm: N,PN,patrn
+ stem: акакиевич.
+ paradigm: Noun-num-consonant
+ trans_ru: Акакиевич
+
+-lexeme
+ lex: Разлюляев
+ gramm: N,famn,PN
+ stem: разлюляев.
+ paradigm: Noun-num-consonant
+ trans_ru: Разлюляев
+
+-lexeme
+ lex: Ромась
+ gramm: N,famn,PN
+ stem: ромас.
+ paradigm: Noun-num-soft
+ trans_ru: Ромась
+
+-lexeme
+ lex: Артемон
+ gramm: N,PN,persn
+ stem: артемон.
+ paradigm: Noun-num-consonant
+ trans_ru: Артемон
+
+-lexeme
+ lex: Корзинкин
+ gramm: N,famn,PN
+ stem: корзинкин.
+ paradigm: Noun-num-consonant
+ trans_ru: Корзинкин
+
+-lexeme
+ lex: Ахунбаев
+ gramm: N,famn,PN
+ stem: ахунбаев.
+ paradigm: Noun-num-consonant
+ trans_ru: Ахунбаев
+
+-lexeme
+ lex: Верзин
+ gramm: N,famn,PN
+ stem: верзин.
+ paradigm: Noun-num-consonant
+ trans_ru: Верзин
+
+-lexeme
+ lex: Сильвио
+ gramm: N,PN,persn
+ stem: сильвио.
+ paradigm: Noun-num-vowel
+ trans_ru: Сильвио
+
+-lexeme
+ lex: Тыбурций
+ gramm: N,PN,persn
+ stem: тыбурци.
+ paradigm: Noun-num-j
+ trans_ru: Тыбурций
+
+-lexeme
+ lex: Весовщиков
+ gramm: N,famn,PN
+ stem: весовщиков.
+ paradigm: Noun-num-consonant
+ trans_ru: Весовщиков
+
+-lexeme
+ lex: Косых
+ gramm: N,famn,PN
+ stem: косых.
+ paradigm: Noun-num-consonant
+ trans_ru: Косых
+
+-lexeme
+ lex: Ситанов
+ gramm: N,famn,PN
+ stem: ситанов.
+ paradigm: Noun-num-consonant
+ trans_ru: Ситанов
+
+-lexeme
+ lex: Аммос
+ gramm: N,PN,persn
+ stem: аммос.
+ paradigm: Noun-num-consonant
+ trans_ru: Аммос
+
+-lexeme
+ lex: Петушков
+ gramm: N,famn,PN
+ stem: петушков.
+ paradigm: Noun-num-consonant
+ trans_ru: Петушков
+
+-lexeme
+ lex: Антиох
+ gramm: N,PN,persn
+ stem: антиох.
+ paradigm: Noun-num-consonant
+ trans_ru: Антиох
+
+-lexeme
+ lex: Гаврилка
+ gramm: N,PN,persn
+ stem: гаврилка.
+ paradigm: Noun-num-vowel
+ trans_ru: Гаврилка
+
+-lexeme
+ lex: Казбич
+ gramm: N,PN,persn
+ stem: казбич.
+ paradigm: Noun-num-consonant
+ trans_ru: Казбич
+
+-lexeme
+ lex: Кулябкин
+ gramm: N,famn,PN
+ stem: кулябкин.
+ paradigm: Noun-num-consonant
+ trans_ru: Кулябкин
+
+-lexeme
+ lex: Мутара
+ gramm: N,PN,persn
+ stem: мутара.
+ paradigm: Noun-num-vowel
+ trans_ru: Мутара
+
+-lexeme
+ lex: Чернышёв
+ gramm: N,famn,PN
+ stem: чернышёв.
+ paradigm: Noun-num-consonant
+ trans_ru: Чернышёв
+
+-lexeme
+ lex: Левко
+ gramm: N,famn,PN
+ stem: левко.
+ paradigm: Noun-num-vowel
+ trans_ru: Левко
+
+-lexeme
+ lex: Лорис-меликов
+ gramm: N,famn,PN
+ stem: лорис-меликов.
+ paradigm: Noun-num-consonant
+ trans_ru: Лорис-меликов
+
+-lexeme
+ lex: Полторацкий
+ gramm: N,famn,PN
+ stem: полторацки.
+ paradigm: Noun-num-j
+ trans_ru: Полторацкий
+
+-lexeme
+ lex: Ирпень
+ gramm: N,PN,topn
+ stem: ирпен.
+ paradigm: Noun-num-soft
+ trans_ru: Ирпень
+
+-lexeme
+ lex: Манюся
+ gramm: N,PN,persn
+ stem: манюся.
+ paradigm: Noun-num-vowel
+ trans_ru: Манюся
+
+-lexeme
+ lex: Элдар
+ gramm: N,PN,persn
+ stem: элдар.
+ paradigm: Noun-num-consonant
+ trans_ru: Элдар
+
+-lexeme
+ lex: Иудифь
+ gramm: N,PN,persn
+ stem: иудиф.
+ paradigm: Noun-num-soft
+ trans_ru: Иудифь
+
+-lexeme
+ lex: Лодыжкин
+ gramm: N,famn,PN
+ stem: лодыжкин.
+ paradigm: Noun-num-consonant
+ trans_ru: Лодыжкин
+
+-lexeme
+ lex: Шань-сы
+ gramm: N,PN,persn
+ stem: шань-сы.
+ paradigm: Noun-num-vowel
+ trans_ru: Шань-сы
+
+-lexeme
+ lex: Бугасова
+ gramm: N,famn,PN
+ stem: бугасова.
+ paradigm: Noun-num-vowel
+ trans_ru: Бугасова
+
+-lexeme
+ lex: Буча
+ gramm: N,PN,topn
+ stem: буча.
+ paradigm: Noun-num-vowel
+ trans_ru: Буча
+
+-lexeme
+ lex: Гуслин
+ gramm: N,famn,PN
+ stem: гуслин.
+ paradigm: Noun-num-consonant
+ trans_ru: Гуслин
+
+-lexeme
+ lex: Казанов
+ gramm: N,famn,PN
+ stem: казанов.
+ paradigm: Noun-num-consonant
+ trans_ru: Казанов
+
+-lexeme
+ lex: Тускуб
+ gramm: N,PN,persn
+ stem: тускуб.
+ paradigm: Noun-num-consonant
+ trans_ru: Тускуб
+
+-lexeme
+ lex: Гамзат
+ gramm: N,PN,persn
+ stem: гамзат.
+ paradigm: Noun-num-consonant
+ trans_ru: Гамзат
+
+-lexeme
+ lex: Голда
+ gramm: N,PN,persn
+ stem: голда.
+ paradigm: Noun-num-vowel
+ trans_ru: Голда
+
+-lexeme
+ lex: Зурин
+ gramm: N,famn,PN
+ stem: зурин.
+ paradigm: Noun-num-consonant
+ trans_ru: Зурин
+
+-lexeme
+ lex: Шмарин
+ gramm: N,famn,PN
+ stem: шмарин.
+ paradigm: Noun-num-consonant
+ trans_ru: Шмарин
+
+-lexeme
+ lex: Дуремар
+ gramm: N,PN,persn
+ stem: дуремар.
+ paradigm: Noun-num-consonant
+ trans_ru: Дуремар
+
+-lexeme
+ lex: Недопюскин
+ gramm: N,famn,PN
+ stem: недопюскин.
+ paradigm: Noun-num-consonant
+ trans_ru: Недопюскин
+
+-lexeme
+ lex: Солоха
+ gramm: N,PN,persn
+ stem: солоха.
+ paradigm: Noun-num-vowel
+ trans_ru: Солоха
+
+-lexeme
+ lex: Цейтл
+ gramm: N,PN,persn
+ stem: цейтл.
+ paradigm: Noun-num-consonant
+ trans_ru: Цейтл
+
+-lexeme
+ lex: Малек-адель
+ gramm: N,PN,persn
+ stem: малек-адел.
+ paradigm: Noun-num-soft
+ trans_ru: Малек-адель
+
+-lexeme
+ lex: Овсяников
+ gramm: N,famn,PN
+ stem: овсяников.
+ paradigm: Noun-num-consonant
+ trans_ru: Овсяников
+
+-lexeme
+ lex: Ездра
+ gramm: N,PN,persn
+ stem: ездра.
+ paradigm: Noun-num-vowel
+ trans_ru: Ездра
+
+-lexeme
+ lex: И-цзи
+ gramm: N,PN,persn
+ stem: и-цзи.
+ paradigm: Noun-num-vowel
+ trans_ru: И-цзи
+
+-lexeme
+ lex: Камынин
+ gramm: N,famn,PN
+ stem: камынин.
+ paradigm: Noun-num-consonant
+ trans_ru: Камынин
+
+-lexeme
+ lex: Печорин
+ gramm: N,famn,PN
+ stem: печорин.
+ paradigm: Noun-num-consonant
+ trans_ru: Печорин
+
+-lexeme
+ lex: Хан-магома
+ gramm: N,PN,persn
+ stem: хан-магома.
+ paradigm: Noun-num-vowel
+ trans_ru: Хан-магома
+
+-lexeme
+ lex: Донат
+ gramm: N,PN,persn
+ stem: донат.
+ paradigm: Noun-num-consonant
+ trans_ru: Донат
+
+-lexeme
+ lex: Костылин
+ gramm: N,famn,PN
+ stem: костылин.
+ paradigm: Noun-num-consonant
+ trans_ru: Костылин
+
+-lexeme
+ lex: Тредичино
+ gramm: N,PN,persn
+ stem: тредичино.
+ paradigm: Noun-num-vowel
+ trans_ru: Тредичино
+
+-lexeme
+ lex: Маккавей
+ gramm: N,PN,persn
+ stem: маккаве.
+ paradigm: Noun-num-j
+ trans_ru: Маккавей
+
+-lexeme
+ lex: Хоботов
+ gramm: N,famn,PN
+ stem: хоботов.
+ paradigm: Noun-num-consonant
+ trans_ru: Хоботов
+
+-lexeme
+ lex: Чжао
+ gramm: N,famn,PN
+ stem: чжао.
+ paradigm: Noun-num-vowel
+ trans_ru: Чжао
+
+-lexeme
+ lex: Бугорков
+ gramm: N,famn,PN
+ stem: бугорков.
+ paradigm: Noun-num-consonant
+ trans_ru: Бугорков
+
+-lexeme
+ lex: Марпида
+ gramm: N,PN,persn
+ stem: марпида.
+ paradigm: Noun-num-vowel
+ trans_ru: Марпида
+
+-lexeme
+ lex: Менахем-мендл
+ gramm: N,PN,persn
+ stem: менахем-мендл.
+ paradigm: Noun-num-consonant
+ trans_ru: Менахем-мендл
+
+-lexeme
+ lex: Феклуша
+ gramm: N,PN,persn
+ stem: феклуша.
+ paradigm: Noun-num-vowel
+ trans_ru: Феклуша
+
+-lexeme
+ lex: Аникеев
+ gramm: N,famn,PN
+ stem: аникеев.
+ paradigm: Noun-num-consonant
+ trans_ru: Аникеев
+
+-lexeme
+ lex: Бирюк
+ gramm: N,famn,PN
+ stem: бирюк.
+ paradigm: Noun-num-consonant
+ trans_ru: Бирюк
+
+-lexeme
+ lex: Воробеич
+ gramm: N,PN,patrn
+ stem: воробеич.
+ paradigm: Noun-num-consonant
+ trans_ru: Воробеич
+
+-lexeme
+ lex: Гонза
+ gramm: N,famn,PN
+ stem: гонза.
+ paradigm: Noun-num-vowel
+ trans_ru: Гонза
+
+-lexeme
+ lex: Егорушка
+ gramm: N,PN,persn
+ stem: егорушка.
+ paradigm: Noun-num-vowel
+ trans_ru: Егорушка
+
+-lexeme
+ lex: Калиныч
+ gramm: N,PN,patrn
+ stem: калиныч.
+ paradigm: Noun-num-consonant
+ trans_ru: Калиныч
+
+-lexeme
+ lex: Цыбукин
+ gramm: N,famn,PN
+ stem: цыбукин.
+ paradigm: Noun-num-consonant
+ trans_ru: Цыбукин
+
+-lexeme
+ lex: Иванушка
+ gramm: N,PN,persn
+ stem: иванушка.
+ paradigm: Noun-num-vowel
+ trans_ru: Иванушка
+
+-lexeme
+ lex: Ниф-ниф
+ gramm: N,PN,persn
+ stem: ниф-ниф.
+ paradigm: Noun-num-consonant
+ trans_ru: Ниф-ниф
+
+-lexeme
+ lex: Пафнутьич
+ gramm: N,PN,patrn
+ stem: пафнутьич.
+ paradigm: Noun-num-consonant
+ trans_ru: Пафнутьич
+
+-lexeme
+ lex: Педоцур
+ gramm: N,famn,PN
+ stem: педоцур.
+ paradigm: Noun-num-consonant
+ trans_ru: Педоцур
+
+-lexeme
+ lex: Товия
+ gramm: N,PN,persn
+ stem: товия.
+ paradigm: Noun-num-vowel
+ trans_ru: Товия
+
+-lexeme
+ lex: Гуан-хэ
+ gramm: N,PN,topn
+ stem: гуан-хэ.
+ paradigm: Noun-num-vowel
+ trans_ru: Гуан-хэ
+
+-lexeme
+ lex: Жнивин
+ gramm: N,famn,PN
+ stem: жнивин.
+ paradigm: Noun-num-consonant
+ trans_ru: Жнивин
+
+-lexeme
+ lex: Зобунова
+ gramm: N,famn,PN
+ stem: зобунова.
+ paradigm: Noun-num-vowel
+ trans_ru: Зобунова
+
+-lexeme
+ lex: Мадлен
+ gramm: N,PN,persn
+ stem: мадлен.
+ paradigm: Noun-num-consonant
+ trans_ru: Мадлен
+
+-lexeme
+ lex: Мрали
+ gramm: N,PN,persn
+ stem: мрали.
+ paradigm: Noun-num-vowel
+ trans_ru: Мрали
+
+-lexeme
+ lex: Прозерпиночка
+ gramm: N,PN,persn
+ stem: прозерпиночка.
+ paradigm: Noun-num-vowel
+ trans_ru: Прозерпиночка
+
+-lexeme
+ lex: Радилов
+ gramm: N,famn,PN
+ stem: радилов.
+ paradigm: Noun-num-consonant
+ trans_ru: Радилов
+
+-lexeme
+ lex: Скайльс
+ gramm: N,PN,persn
+ stem: скайльс.
+ paradigm: Noun-num-consonant
+ trans_ru: Скайльс
+
+-lexeme
+ lex: Товит
+ gramm: N,PN,persn
+ stem: товит.
+ paradigm: Noun-num-consonant
+ trans_ru: Товит
+
+-lexeme
+ lex: Шейдулла
+ gramm: N,PN,persn
+ stem: шейдулла.
+ paradigm: Noun-num-vowel
+ trans_ru: Шейдулла
+
+-lexeme
+ lex: Белогорской
+ gramm: ADJ,PN,topn
+ stem: белогорско.
+ paradigm: connect_adjectives-j
+ trans_ru: Белогорский
+
+-lexeme
+ lex: Бунька
+ gramm: N,PN,persn
+ stem: бунька.
+ paradigm: Noun-num-vowel
+ trans_ru: Бунька
+
+-lexeme
+ lex: Рябка
+ gramm: N,PN,persn
+ stem: рябка.
+ paradigm: Noun-num-vowel
+ trans_ru: Рябка
+
+-lexeme
+ lex: Гнедых
+ gramm: N,famn,PN
+ stem: гнедых.
+ paradigm: Noun-num-consonant
+ trans_ru: Гнедых
+
+-lexeme
+ lex: Дарий
+ gramm: N,PN,persn
+ stem: дари.
+ paradigm: Noun-num-j
+ trans_ru: Дарий
+
+-lexeme
+ lex: Егупец
+ gramm: N,PN,topn
+ stem: егупец.
+ paradigm: Noun-num-consonant
+ trans_ru: Егупец (Египет; название Киева в произведениях Шолом-Алейхема)
+
+-lexeme
+ lex: Конде
+ gramm: N,famn,PN
+ stem: конде.
+ paradigm: Noun-num-vowel
+ trans_ru: Конде
+
+-lexeme
+ lex: Лейзер-волф
+ gramm: N,PN,persn
+ stem: лейзер-волф.
+ paradigm: Noun-num-consonant
+ trans_ru: Лейзер-волф
+
+-lexeme
+ lex: Никанор
+ gramm: N,PN,persn
+ stem: никанор.
+ paradigm: Noun-num-consonant
+ trans_ru: Никанор
+
+-lexeme
+ lex: Нохудик
+ gramm: N,PN,persn
+ stem: нохудик.
+ paradigm: Noun-num-consonant
+ trans_ru: Нохудик
+
+-lexeme
+ lex: Шпринца
+ gramm: N,PN,persn
+ stem: шпринца.
+ paradigm: Noun-num-vowel
+ trans_ru: Шпринца
+
+-lexeme
+ lex: Адриан
+ gramm: N,PN,persn
+ stem: адриан.
+ paradigm: Noun-num-consonant
+ trans_ru: Адриан
+
+-lexeme
+ lex: Бойберик
+ gramm: N,PN,topn
+ stem: бойберик.
+ paradigm: Noun-num-consonant
+ trans_ru: Бойберик
+
+-lexeme
+ lex: Гамзало
+ gramm: N,PN,persn
+ stem: гамзало.
+ paradigm: Noun-num-vowel
+ trans_ru: Гамзало
+
+-lexeme
+ lex: Ихошка
+ gramm: N,PN,persn
+ stem: ихошка.
+ paradigm: Noun-num-vowel
+ trans_ru: Ихошка
+
+-lexeme
+ lex: Набатов
+ gramm: N,famn,PN
+ stem: набатов.
+ paradigm: Noun-num-consonant
+ trans_ru: Набатов
+
+-lexeme
+ lex: Пишта
+ gramm: N,PN,persn
+ stem: пишта.
+ paradigm: Noun-num-vowel
+ trans_ru: Пишта
+
+-lexeme
+ lex: Шигай-бай
+ gramm: N,PN,persn
+ stem: шигай-ба.
+ paradigm: Noun-num-j
+ trans_ru: Шигай-бай
+
+-lexeme
+ lex: Базилио
+ gramm: N,PN,persn
+ stem: базилио.
+ paradigm: Noun-num-vowel
+ trans_ru: Базилио
+
+-lexeme
+ lex: Бейлка
+ gramm: N,PN,persn
+ stem: бейлка.
+ paradigm: Noun-num-vowel
+ trans_ru: Бейлка
+
+-lexeme
+ lex: Васятка
+ gramm: N,PN,persn
+ stem: васятка.
+ paradigm: Noun-num-vowel
+ trans_ru: Васятка
+
+-lexeme
+ lex: Вулич
+ gramm: N,famn,PN
+ stem: вулич.
+ paradigm: Noun-num-consonant
+ trans_ru: Вулич
+
+-lexeme
+ lex: Галена
+ gramm: N,PN,persn
+ stem: галена.
+ paradigm: Noun-num-vowel
+ trans_ru: Галена
+
+-lexeme
+ lex: Герда
+ gramm: N,PN,persn
+ stem: герда.
+ paradigm: Noun-num-vowel
+ trans_ru: Герда
+
+-lexeme
+ lex: Капендюхин
+ gramm: N,famn,PN
+ stem: капендюхин.
+ paradigm: Noun-num-consonant
+ trans_ru: Капендюхин
+
+-lexeme
+ lex: Краснодон
+ gramm: N,PN,topn
+ stem: краснодон.
+ paradigm: Noun-num-consonant
+ trans_ru: Краснодон
+
+-lexeme
+ lex: Ксури
+ gramm: N,PN,persn
+ stem: ксури.
+ paradigm: Noun-num-vowel
+ trans_ru: Ксури
+
+-lexeme
+ lex: Нуф-нуф
+ gramm: N,PN,persn
+ stem: нуф-нуф.
+ paradigm: Noun-num-consonant
+ trans_ru: Нуф-нуф
+
+-lexeme
+ lex: Олоферн
+ gramm: N,PN,persn
+ stem: олоферн.
+ paradigm: Noun-num-consonant
+ trans_ru: Олоферн
+
+-lexeme
+ lex: Солнцев
+ gramm: N,famn,PN
+ stem: солнцев.
+ paradigm: Noun-num-consonant
+ trans_ru: Солнцев
+
+-lexeme
+ lex: Ханефи
+ gramm: N,PN,persn
+ stem: ханефи.
+ paradigm: Noun-num-vowel
+ trans_ru: Ханефи
+
+-lexeme
+ lex: Бадарчи
+ gramm: N,famn,PN
+ stem: бадарчи.
+ paradigm: Noun-num-vowel
+ trans_ru: Бадарчи
+
+-lexeme
+ lex: Ершович
+ gramm: N,PN,patrn
+ stem: ершович.
+ paradigm: Noun-num-consonant
+ trans_ru: Ершович
+
+-lexeme
+ lex: Кирьяк
+ gramm: N,PN,persn
+ stem: кирьяк.
+ paradigm: Noun-num-consonant
+ trans_ru: Кирьяк
+
+-lexeme
+ lex: Мазин
+ gramm: N,famn,PN
+ stem: мазин.
+ paradigm: Noun-num-consonant
+ trans_ru: Мазин
+
+-lexeme
+ lex: Свенд
+ gramm: N,PN,persn
+ stem: свенд.
+ paradigm: Noun-num-consonant
+ trans_ru: Свенд
+
+-lexeme
+ lex: Спиллен
+ gramm: N,famn,PN
+ stem: спиллен.
+ paradigm: Noun-num-consonant
+ trans_ru: Спиллен
+
+-lexeme
+ lex: Вакхид
+ gramm: N,PN,persn
+ stem: вакхид.
+ paradigm: Noun-num-consonant
+ trans_ru: Вакхид
+
+-lexeme
+ lex: Голубь
+ gramm: N,famn,PN
+ stem: голуб.
+ paradigm: Noun-num-soft
+ trans_ru: Голубь
+
+-lexeme
+ lex: Дубровский
+ gramm: N,famn,PN
+ stem: дубровски.
+ paradigm: Noun-num-j
+ trans_ru: Дубровский
+
+-lexeme
+ lex: Ефимушка
+ gramm: N,PN,persn
+ stem: ефимушка.
+ paradigm: Noun-num-vowel
+ trans_ru: Ефимушка
+
+-lexeme
+ lex: Комарович
+ gramm: N,PN,patrn
+ stem: комарович.
+ paradigm: Noun-num-consonant
+ trans_ru: Комарович
+
+-lexeme
+ lex: Мещерский
+ gramm: N,famn,PN
+ stem: мещерски.
+ paradigm: Noun-num-j
+ trans_ru: Мещерский
+
+-lexeme
+ lex: Пропотей
+ gramm: N,PN,persn
+ stem: пропоте.
+ paradigm: Noun-num-j
+ trans_ru: Пропотей
+
+-lexeme
+ lex: Самплеменник
+ gramm: N,PN,persn
+ stem: самплеменник.
+ paradigm: Noun-num-consonant
+ trans_ru: Самплеменник
+
+-lexeme
+ lex: Арончик
+ gramm: N,PN,persn
+ stem: арончик.
+ paradigm: Noun-num-consonant
+ trans_ru: Арончик
+
+-lexeme
+ lex: Венцел
+ gramm: N,PN,persn
+ stem: венцел.
+ paradigm: Noun-num-consonant
+ trans_ru: Венцел
+
+-lexeme
+ lex: Ельников
+ gramm: N,famn,PN
+ stem: ельников.
+ paradigm: Noun-num-consonant
+ trans_ru: Ельников
+
+-lexeme
+ lex: Лилипутия
+ gramm: N,PN,topn
+ stem: лилипутия.
+ paradigm: Noun-num-vowel
+ trans_ru: Лилипутия
+
+-lexeme
+ lex: Наумыч
+ gramm: N,PN,patrn
+ stem: наумыч.
+ paradigm: Noun-num-consonant
+ trans_ru: Наумыч
+
+-lexeme
+ lex: Посудин
+ gramm: N,famn,PN
+ stem: посудин.
+ paradigm: Noun-num-consonant
+ trans_ru: Посудин
+
+-lexeme
+ lex: Рагуил
+ gramm: N,PN,persn
+ stem: рагуил.
+ paradigm: Noun-num-consonant
+ trans_ru: Рагуил
+
+-lexeme
+ lex: Тевль
+ gramm: N,PN,persn
+ stem: тевл.
+ paradigm: Noun-num-soft
+ trans_ru: Тевль
+
+-lexeme
+ lex: Азария
+ gramm: N,PN,persn
+ stem: азария.
+ paradigm: Noun-num-vowel
+ trans_ru: Азария
+
+-lexeme
+ lex: Басаврюк
+ gramm: N,PN,persn
+ stem: басаврюк.
+ paradigm: Noun-num-consonant
+ trans_ru: Басаврюк
+
+-lexeme
+ lex: Присыпкина
+ gramm: N,famn,PN
+ stem: присыпкина.
+ paradigm: Noun-num-vowel
+ trans_ru: Присыпкина
+
+-lexeme
+ lex: Прошин
+ gramm: N,famn,PN
+ stem: прошин.
+ paradigm: Noun-num-consonant
+ trans_ru: Прошин
+
+-lexeme
+ lex: Сарапанчиков
+ gramm: N,famn,PN
+ stem: сарапанчиков.
+ paradigm: Noun-num-consonant
+ trans_ru: Сарапанчиков
+
+-lexeme
+ lex: Соболько
+ gramm: N,famn,PN
+ stem: соболько.
+ paradigm: Noun-num-vowel
+ trans_ru: Соболько
+
+-lexeme
+ lex: Шамиль
+ gramm: N,PN,persn
+ stem: шамил.
+ paradigm: Noun-num-soft
+ trans_ru: Шамиль
+
+-lexeme
+ lex: Барашкин
+ gramm: N,famn,PN
+ stem: барашкин.
+ paradigm: Noun-num-consonant
+ trans_ru: Барашкин
+
+-lexeme
+ lex: Жорка
+ gramm: N,PN,persn
+ stem: жорка.
+ paradigm: Noun-num-vowel
+ trans_ru: Жорка
+
+-lexeme
+ lex: Лыско
+ gramm: N,famn,PN
+ stem: лыско.
+ paradigm: Noun-num-vowel
+ trans_ru: Лыско
+
+-lexeme
+ lex: Наф-наф
+ gramm: N,PN,persn
+ stem: наф-наф.
+ paradigm: Noun-num-consonant
+ trans_ru: Наф-наф
+
+-lexeme
+ lex: Никифорыч
+ gramm: N,PN,patrn
+ stem: никифорыч.
+ paradigm: Noun-num-consonant
+ trans_ru: Никифорыч
+
+-lexeme
+ lex: Стёпкин
+ gramm: N,famn,PN
+ stem: стёпкин.
+ paradigm: Noun-num-consonant
+ trans_ru: Стёпкин
+
+-lexeme
+ lex: Трилли
+ gramm: N,PN,persn
+ stem: трилли.
+ paradigm: Noun-num-vowel
+ trans_ru: Трилли
+
+-lexeme
+ lex: Варенька
+ gramm: N,PN,persn
+ stem: варенька.
+ paradigm: Noun-num-vowel
+ trans_ru: Варенька
+
+-lexeme
+ lex: Деренков
+ gramm: N,famn,PN
+ stem: деренков.
+ paradigm: Noun-num-consonant
+ trans_ru: Деренков
+
+-lexeme
+ lex: Дмитрич
+ gramm: N,PN,patrn
+ stem: дмитрич.
+ paradigm: Noun-num-consonant
+ trans_ru: Дмитрич
+
+-lexeme
+ lex: Есфирь
+ gramm: N,PN,persn
+ stem: есфир.
+ paradigm: Noun-num-soft
+ trans_ru: Есфирь
+
+-lexeme
+ lex: Мокроусов
+ gramm: N,famn,PN
+ stem: мокроусов.
+ paradigm: Noun-num-consonant
+ trans_ru: Мокроусов
+
+-lexeme
+ lex: Навуходоносор
+ gramm: N,PN,persn
+ stem: навуходоносор.
+ paradigm: Noun-num-consonant
+ trans_ru: Навуходоносор
+
+-lexeme
+ lex: Полутыкин
+ gramm: N,famn,PN
+ stem: полутыкин.
+ paradigm: Noun-num-consonant
+ trans_ru: Полутыкин
+
+-lexeme
+ lex: Цыпляков
+ gramm: N,famn,PN
+ stem: цыпляков.
+ paradigm: Noun-num-consonant
+ trans_ru: Цыпляков
+
+-lexeme
+ lex: Шабашкин
+ gramm: N,famn,PN
+ stem: шабашкин.
+ paradigm: Noun-num-consonant
+ trans_ru: Шабашкин
+
+-lexeme
+ lex: Шишлин
+ gramm: N,famn,PN
+ stem: шишлин.
+ paradigm: Noun-num-consonant
+ trans_ru: Шишлин
+
+-lexeme
+ lex: Алким
+ gramm: N,PN,persn
+ stem: алким.
+ paradigm: Noun-num-consonant
+ trans_ru: Алким
+
+-lexeme
+ lex: Артаксеркс
+ gramm: N,PN,persn
+ stem: артаксеркс.
+ paradigm: Noun-num-consonant
+ trans_ru: Артаксеркс
+
+-lexeme
+ lex: Ассур
+ gramm: N,PN,persn
+ stem: ассур.
+ paradigm: Noun-num-consonant
+ trans_ru: Ассур
+
+-lexeme
+ lex: Бао-эр
+ gramm: N,PN,persn
+ stem: бао-эр.
+ paradigm: Noun-num-consonant
+ trans_ru: Бао-эр
+
+-lexeme
+ lex: Бурмин
+ gramm: N,famn,PN
+ stem: бурмин.
+ paradigm: Noun-num-consonant
+ trans_ru: Бурмин
+
+-lexeme
+ lex: Девлечьяр
+ gramm: N,PN,persn
+ stem: девлечьяр.
+ paradigm: Noun-num-consonant
+ trans_ru: Девлечьяр
+
+-lexeme
+ lex: Дефорж
+ gramm: N,famn,PN
+ stem: дефорж.
+ paradigm: Noun-num-consonant
+ trans_ru: Дефорж
+
+-lexeme
+ lex: Ёжиков
+ gramm: N,famn,PN
+ stem: ёжиков.
+ paradigm: Noun-num-consonant
+ trans_ru: Ёжиков
+
+-lexeme
+ lex: Земнухов
+ gramm: N,famn,PN
+ stem: земнухов.
+ paradigm: Noun-num-consonant
+ trans_ru: Земнухов
+
+-lexeme
+ lex: Клещов
+ gramm: N,famn,PN
+ stem: клещов.
+ paradigm: Noun-num-consonant
+ trans_ru: Клещов
+
+-lexeme
+ lex: Коробкин
+ gramm: N,famn,PN
+ stem: коробкин.
+ paradigm: Noun-num-consonant
+ trans_ru: Коробкин
+
+-lexeme
+ lex: Куинбус
+ gramm: N,PN,persn
+ stem: куинбус.
+ paradigm: Noun-num-consonant
+ trans_ru: Куинбус
+
+-lexeme
+ lex: Ларионыч
+ gramm: N,PN,patrn
+ stem: ларионыч.
+ paradigm: Noun-num-consonant
+ trans_ru: Ларионыч
+
+-lexeme
+ lex: Менелай
+ gramm: N,PN,persn
+ stem: менела.
+ paradigm: Noun-num-j
+ trans_ru: Менелай
+
+-lexeme
+ lex: Пампалче
+ gramm: N,famn,PN
+ stem: пампалче.
+ paradigm: Noun-num-vowel
+ trans_ru: Пампалче
+
+-lexeme
+ lex: Плетнёв
+ gramm: N,famn,PN
+ stem: плетнёв.
+ paradigm: Noun-num-consonant
+ trans_ru: Плетнёв
+
+-lexeme
+ lex: Соацера
+ gramm: N,PN,topn
+ stem: соацера.
+ paradigm: Noun-num-vowel
+ trans_ru: Соацера
+
+-lexeme
+ lex: Шомвуква
+ gramm: N,PN,topn
+ stem: шомвуква.
+ paradigm: Noun-num-vowel
+ trans_ru: Шомвуква
+
+-lexeme
+ lex: Яценко
+ gramm: N,famn,PN
+ stem: яценко.
+ paradigm: Noun-num-vowel
+ trans_ru: Яценко
+
+-lexeme
+ lex: Бочкин
+ gramm: N,famn,PN
+ stem: бочкин.
+ paradigm: Noun-num-consonant
+ trans_ru: Бочкин
+
+-lexeme
+ lex: Бурнин
+ gramm: N,famn,PN
+ stem: бурнин.
+ paradigm: Noun-num-consonant
+ trans_ru: Бурнин
+
+-lexeme
+ lex: Евсейка
+ gramm: N,PN,persn
+ stem: евсейка.
+ paradigm: Noun-num-vowel
+ trans_ru: Евсейка
+
+-lexeme
+ lex: Лукашин
+ gramm: N,famn,PN
+ stem: лукашин.
+ paradigm: Noun-num-consonant
+ trans_ru: Лукашин
+
+-lexeme
+ lex: Муштаков
+ gramm: N,famn,PN
+ stem: муштаков.
+ paradigm: Noun-num-consonant
+ trans_ru: Муштаков
+
+-lexeme
+ lex: Нахимов
+ gramm: N,famn,PN
+ stem: нахимов.
+ paradigm: Noun-num-consonant
+ trans_ru: Нахимов
+
+-lexeme
+ lex: Олежек
+ gramm: N,PN,persn
+ stem: олежек.
+ paradigm: Noun-num-consonant
+ trans_ru: Олежек
+
+-lexeme
+ lex: Очумелов
+ gramm: N,famn,PN
+ stem: очумелов.
+ paradigm: Noun-num-consonant
+ trans_ru: Очумелов
+
+-lexeme
+ lex: Сахабутдин
+ gramm: N,PN,persn
+ stem: сахабутдин.
+ paradigm: Noun-num-consonant
+ trans_ru: Сахабутдин
+
+-lexeme
+ lex: Сербиченко
+ gramm: N,famn,PN
+ stem: сербиченко.
+ paradigm: Noun-num-vowel
+ trans_ru: Сербиченко
+
+-lexeme
+ lex: Феферл
+ gramm: N,PN,persn
+ stem: феферл.
+ paradigm: Noun-num-consonant
+ trans_ru: Феферл
+
+-lexeme
+ lex: Челищев
+ gramm: N,famn,PN
+ stem: челищев.
+ paradigm: Noun-num-consonant
+ trans_ru: Челищев
+
+-lexeme
+ lex: Чжи-жэнь
+ gramm: N,PN,persn
+ stem: чжи-жэн.
+ paradigm: Noun-num-soft
+ trans_ru: Чжи-жэнь
+
+-lexeme
+ lex: Балаев
+ gramm: N,famn,PN
+ stem: балаев.
+ paradigm: Noun-num-consonant
+ trans_ru: Балаев
+
+-lexeme
+ lex: Буркин
+ gramm: N,famn,PN
+ stem: буркин.
+ paradigm: Noun-num-consonant
+ trans_ru: Буркин
+
+-lexeme
+ lex: Бутурлин
+ gramm: N,famn,PN
+ stem: бутурлин.
+ paradigm: Noun-num-consonant
+ trans_ru: Бутурлин
+
+-lexeme
+ lex: Викторушка
+ gramm: N,PN,persn
+ stem: викторушка.
+ paradigm: Noun-num-vowel
+ trans_ru: Викторушка
+
+-lexeme
+ lex: Ермохин
+ gramm: N,famn,PN
+ stem: ермохин.
+ paradigm: Noun-num-consonant
+ trans_ru: Ермохин
+
+-lexeme
+ lex: Ипполитыч
+ gramm: N,PN,patrn
+ stem: ипполитыч.
+ paradigm: Noun-num-consonant
+ trans_ru: Ипполитыч
+
+-lexeme
+ lex: Кирибеевич
+ gramm: N,PN,patrn
+ stem: кирибеевич.
+ paradigm: Noun-num-consonant
+ trans_ru: Кирибеевич
+
+-lexeme
+ lex: Колокольчиков
+ gramm: N,famn,PN
+ stem: колокольчиков.
+ paradigm: Noun-num-consonant
+ trans_ru: Колокольчиков
+
+-lexeme
+ lex: Лбищенск
+ gramm: N,PN,topn
+ stem: лбищенск.
+ paradigm: Noun-num-consonant
+ trans_ru: Лбищенск
+
+-lexeme
+ lex: Луковцев
+ gramm: N,famn,PN
+ stem: луковцев.
+ paradigm: Noun-num-consonant
+ trans_ru: Луковцев
+
+-lexeme
+ lex: Мардохей
+ gramm: N,PN,persn
+ stem: мардохе.
+ paradigm: Noun-num-j
+ trans_ru: Мардохей
+
+-lexeme
+ lex: Моргач
+ gramm: N,PN,persn
+ stem: моргач.
+ paradigm: Noun-num-consonant
+ trans_ru: Моргач
+
+-lexeme
+ lex: Мотька
+ gramm: N,PN,persn
+ stem: мотька.
+ paradigm: Noun-num-vowel
+ trans_ru: Мотька
+
+-lexeme
+ lex: Полянский
+ gramm: N,famn,PN
+ stem: полянски.
+ paradigm: Noun-num-j
+ trans_ru: Полянский
+
+-lexeme
+ lex: Сергейка
+ gramm: N,PN,persn
+ stem: сергейка.
+ paradigm: Noun-num-vowel
+ trans_ru: Сергейка
+
+-lexeme
+ lex: Стецько
+ gramm: N,famn,PN
+ stem: стецько.
+ paradigm: Noun-num-vowel
+ trans_ru: Стецько
+
+-lexeme
+ lex: Хрымин
+ gramm: N,famn,PN
+ stem: хрымин.
+ paradigm: Noun-num-consonant
+ trans_ru: Хрымин
+
+-lexeme
+ lex: Эфраим
+ gramm: N,PN,persn
+ stem: эфраим.
+ paradigm: Noun-num-consonant
+ trans_ru: Эфраим
+
+-lexeme
+ lex: Агапит
+ gramm: N,PN,persn
+ stem: агапит.
+ paradigm: Noun-num-consonant
+ trans_ru: Агапит
+
+-lexeme
+ lex: Ганечка
+ gramm: N,PN,persn
+ stem: ганечка.
+ paradigm: Noun-num-vowel
+ trans_ru: Ганечка
+
+-lexeme
+ lex: Данилыч
+ gramm: N,PN,patrn
+ stem: данилыч.
+ paradigm: Noun-num-consonant
+ trans_ru: Данилыч
+
+-lexeme
+ lex: Дарьюшка
+ gramm: N,PN,persn
+ stem: дарьюшка.
+ paradigm: Noun-num-vowel
+ trans_ru: Дарьюшка
+
+-lexeme
+ lex: Диканька
+ gramm: N,PN,topn
+ stem: диканька.
+ paradigm: Noun-num-vowel
+ trans_ru: Диканька
+
+-lexeme
+ lex: Емеля
+ gramm: N,PN,persn
+ stem: емеля.
+ paradigm: Noun-num-vowel
+ trans_ru: Емеля
+
+-lexeme
+ lex: Ефстрат
+ gramm: N,PN,persn
+ stem: ефстрат.
+ paradigm: Noun-num-consonant
+ trans_ru: Ефстрат
+
+-lexeme
+ lex: Кистеневка
+ gramm: N,PN,topn
+ stem: кистеневка.
+ paradigm: Noun-num-vowel
+ trans_ru: Кистеневка
+
+-lexeme
+ lex: Клош-кван
+ gramm: N,PN,persn
+ stem: клош-кван.
+ paradigm: Noun-num-consonant
+ trans_ru: Клош-кван
+
+-lexeme
+ lex: Корсунова
+ gramm: N,famn,PN
+ stem: корсунова.
+ paradigm: Noun-num-vowel
+ trans_ru: Корсунова
+
+-lexeme
+ lex: Маттафия
+ gramm: N,PN,persn
+ stem: маттафия.
+ paradigm: Noun-num-vowel
+ trans_ru: Маттафия
+
+-lexeme
+ lex: Митенька
+ gramm: N,PN,persn
+ stem: митенька.
+ paradigm: Noun-num-vowel
+ trans_ru: Митенька
+
+-lexeme
+ lex: Мэфтук
+ gramm: N,PN,persn
+ stem: мэфтук.
+ paradigm: Noun-num-consonant
+ trans_ru: Мэфтук
+
+-lexeme
+ lex: Окатетта
+ gramm: N,famn,PN
+ stem: окатетта.
+ paradigm: Noun-num-vowel
+ trans_ru: Окатетта
+
+-lexeme
+ lex: Палаша
+ gramm: N,PN,persn
+ stem: палаша.
+ paradigm: Noun-num-vowel
+ trans_ru: Палаша
+
+-lexeme
+ lex: Скребицкий
+ gramm: N,famn,PN
+ stem: скребицки.
+ paradigm: Noun-num-j
+ trans_ru: Скребицкий
+
+-lexeme
+ lex: Слободка
+ gramm: N,PN,topn
+ stem: слободка.
+ paradigm: Noun-num-vowel
+ trans_ru: Слободка
+
+-lexeme
+ lex: Спичкин
+ gramm: N,famn,PN
+ stem: спичкин.
+ paradigm: Noun-num-consonant
+ trans_ru: Спичкин
+
+-lexeme
+ lex: Уг-глук
+ gramm: N,PN,persn
+ stem: уг-глук.
+ paradigm: Noun-num-consonant
+ trans_ru: Уг-глук
+
+-lexeme
+ lex: Уседом
+ gramm: N,PN,persn
+ stem: уседом.
+ paradigm: Noun-num-consonant
+ trans_ru: Уседом
+
+-lexeme
+ lex: Шаталова
+ gramm: N,famn,PN
+ stem: шаталова.
+ paradigm: Noun-num-vowel
+ trans_ru: Шаталова
+
+-lexeme
+ lex: Алакаевка
+ gramm: N,PN,topn
+ stem: алакаевка.
+ paradigm: Noun-num-vowel
+ trans_ru: Алакаевка
+
+-lexeme
+ lex: Аму-дарья
+ gramm: N,PN,topn
+ stem: аму-дарья.
+ paradigm: Noun-num-vowel
+ trans_ru: Аму-дарья
+
+-lexeme
+ lex: Анфилатов
+ gramm: N,famn,PN
+ stem: анфилатов.
+ paradigm: Noun-num-consonant
+ trans_ru: Анфилатов
+
+-lexeme
+ lex: Ардалион
+ gramm: N,PN,persn
+ stem: ардалион.
+ paradigm: Noun-num-consonant
+ trans_ru: Ардалион
+
+-lexeme
+ lex: Шолом-алейхем
+ gramm: N,famn,PN
+ stem: шолом-алейхем.
+ paradigm: Noun-num-consonant
+ trans_ru: Шолом-алейхем
+
+-lexeme
+ lex: Бремеич
+ gramm: N,PN,patrn
+ stem: бремеич.
+ paradigm: Noun-num-consonant
+ trans_ru: Бремеич
+
+-lexeme
+ lex: Вакула
+ gramm: N,PN,persn
+ stem: вакула.
+ paradigm: Noun-num-vowel
+ trans_ru: Вакула
+
+-lexeme
+ lex: Гуторов
+ gramm: N,famn,PN
+ stem: гуторов.
+ paradigm: Noun-num-consonant
+ trans_ru: Гуторов
+
+-lexeme
+ lex: Кашпоровна
+ gramm: N,PN,patrn
+ stem: кашпоровна.
+ paradigm: Noun-num-vowel
+ trans_ru: Кашпоровна
+
+-lexeme
+ lex: Клюгенау
+ gramm: N,famn,PN
+ stem: клюгенау.
+ paradigm: Noun-num-vowel
+ trans_ru: Клюгенау
+
+-lexeme
+ lex: Козловский
+ gramm: N,famn,PN
+ stem: козловски.
+ paradigm: Noun-num-j
+ trans_ru: Козловский
+
+-lexeme
+ lex: Неемия
+ gramm: N,PN,persn
+ stem: неемия.
+ paradigm: Noun-num-vowel
+ trans_ru: Неемия
+
+-lexeme
+ lex: Платтен
+ gramm: N,famn,PN
+ stem: платтен.
+ paradigm: Noun-num-consonant
+ trans_ru: Платтен
+
+-lexeme
+ lex: Плиний
+ gramm: N,PN,persn
+ stem: плини.
+ paradigm: Noun-num-j
+ trans_ru: Плиний
+
+-lexeme
+ lex: Прокофьич
+ gramm: N,PN,patrn
+ stem: прокофьич.
+ paradigm: Noun-num-consonant
+ trans_ru: Прокофьич
+
+-lexeme
+ lex: Скайреш
+ gramm: N,PN,persn
+ stem: скайреш.
+ paradigm: Noun-num-consonant
+ trans_ru: Скайреш
+
+-lexeme
+ lex: Скрыльников
+ gramm: N,famn,PN
+ stem: скрыльников.
+ paradigm: Noun-num-consonant
+ trans_ru: Скрыльников
+
+-lexeme
+ lex: Соликовский
+ gramm: N,famn,PN
+ stem: соликовски.
+ paradigm: Noun-num-j
+ trans_ru: Соликовский
+
+-lexeme
+ lex: Спиридоныч
+ gramm: N,PN,patrn
+ stem: спиридоныч.
+ paradigm: Noun-num-consonant
+ trans_ru: Спиридоныч
+
+-lexeme
+ lex: Терентей
+ gramm: N,PN,persn
+ stem: теренте.
+ paradigm: Noun-num-j
+ trans_ru: Терентий
+
+-lexeme
+ lex: Федька
+ gramm: N,PN,persn
+ stem: федька.
+ paradigm: Noun-num-vowel
+ trans_ru: Федька
+
+-lexeme
+ lex: Флестрин
+ gramm: N,PN,persn
+ stem: флестрин.
+ paradigm: Noun-num-consonant
+ trans_ru: Флестрин
+
+-lexeme
+ lex: Чиньыпи
+ gramm: N,PN,persn
+ stem: чиньыпи.
+ paradigm: Noun-num-vowel
+ trans_ru: Мальчик-с-пальчик
+
+-lexeme
+ lex: Шелестов
+ gramm: N,famn,PN
+ stem: шелестов.
+ paradigm: Noun-num-consonant
+ trans_ru: Шелестов
+
+-lexeme
+ lex: Антоныч
+ gramm: N,PN,patrn
+ stem: антоныч.
+ paradigm: Noun-num-consonant
+ trans_ru: Антоныч
+
+-lexeme
+ lex: Аринушка
+ gramm: N,PN,persn
+ stem: аринушка.
+ paradigm: Noun-num-vowel
+ trans_ru: Аринушка
+
+-lexeme
+ lex: Барятинский
+ gramm: N,famn,PN
+ stem: барятински.
+ paradigm: Noun-num-j
+ trans_ru: Барятинский
+
+-lexeme
+ lex: Булыга
+ gramm: N,famn,PN
+ stem: булыга.
+ paradigm: Noun-num-vowel
+ trans_ru: Булыга
+
+-lexeme
+ lex: Грильдриг
+ gramm: N,PN,persn
+ stem: грильдриг.
+ paradigm: Noun-num-consonant
+ trans_ru: Грильдриг
+
+-lexeme
+ lex: Евреинов
+ gramm: N,famn,PN
+ stem: евреинов.
+ paradigm: Noun-num-consonant
+ trans_ru: Евреинов
+
+-lexeme
+ lex: Закавказье
+ gramm: N,PN,topn
+ stem: закавказье.
+ paradigm: Noun-num-vowel
+ trans_ru: Закавказье
+
+-lexeme
+ lex: Карганов
+ gramm: N,famn,PN
+ stem: карганов.
+ paradigm: Noun-num-consonant
+ trans_ru: Карганов
+
+-lexeme
+ lex: Кожемяка
+ gramm: N,PN,persn
+ stem: кожемяка.
+ paradigm: Noun-num-vowel
+ trans_ru: Кожемяка
+
+-lexeme
+ lex: Куприян
+ gramm: N,PN,persn
+ stem: куприян.
+ paradigm: Noun-num-consonant
+ trans_ru: Куприян
+
+-lexeme
+ lex: Малаша
+ gramm: N,PN,persn
+ stem: малаша.
+ paradigm: Noun-num-vowel
+ trans_ru: Малаша
+
+-lexeme
+ lex: Мурка
+ gramm: N,PN,persn
+ stem: мурка.
+ paradigm: Noun-num-vowel
+ trans_ru: Мурка
+
+-lexeme
+ lex: Аполлоний
+ gramm: N,PN,persn
+ stem: аполлони.
+ paradigm: Noun-num-j
+ trans_ru: Аполлоний
+
+-lexeme
+ lex: Пятигоров
+ gramm: N,famn,PN
+ stem: пятигоров.
+ paradigm: Noun-num-consonant
+ trans_ru: Пятигоров
+
+-lexeme
+ lex: Арутюнянц
+ gramm: N,famn,PN
+ stem: арутюнянц.
+ paradigm: Noun-num-consonant
+ trans_ru: Арутюнянц
+
+-lexeme
+ lex: Симбирск
+ gramm: N,PN,topn
+ stem: симбирск.
+ paradigm: Noun-num-consonant
+ trans_ru: Симбирск
+
+-lexeme
+ lex: Патимат
+ gramm: N,PN,persn
+ stem: патимат.
+ paradigm: Noun-num-consonant
+ trans_ru: Патимат
+
+-lexeme
+ lex: Индигирка
+ gramm: N,PN,topn
+ stem: индигирка.
+ paradigm: Noun-num-vowel
+ trans_ru: Индигирка
+
+-lexeme
+ lex: Калькутта
+ gramm: N,PN,topn
+ stem: калькутта.
+ paradigm: Noun-num-vowel
+ trans_ru: Калькутта
+
+-lexeme
+ lex: Коллонтай
+ gramm: N,famn,PN
+ stem: коллонта.
+ paradigm: Noun-num-j
+ trans_ru: Коллонтай
+
+-lexeme
+ lex: Джафаров
+ gramm: N,famn,PN
+ stem: джафаров.
+ paradigm: Noun-num-consonant
+ trans_ru: Джафаров
+
