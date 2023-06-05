@@ -7718,7 +7718,7 @@
 -lexeme
  lex: браво
  stem: браво.
- gramm: INTRJ
+ gramm: INTRJ,rus
  paradigm: Empty
  trans_ru: браво
 
@@ -21552,3 +21552,10 @@
  paradigm: poss-pl
  paradigm: Comparative
  trans_ru: по душе
+
+-lexeme
+ lex: апчхи
+ stem: апчхи.
+ gramm: INTRJ,rus
+ paradigm: Comparative
+ trans_ru: апчхи
