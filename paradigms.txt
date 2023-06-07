@@ -1872,8 +1872,14 @@
  -flex: .[й]ысь<.>
   gramm: case_comp,el
   gloss: EL
+ -flex: .[й]ись<.>
+  gramm: case_comp,el,nonst
+  gloss: EL
  -flex: .[й]ысен<.>
   gramm: case_comp,egr
+  gloss: EGR
+ -flex: .[й]исен<.>
+  gramm: case_comp,egr,nonst
   gloss: EGR
  -flex: .ёзь<.>
   gramm: case_comp,term
@@ -1972,8 +1978,14 @@
  -flex: .ьысь<.>
   gramm: case_comp,el
   gloss: EL
+ -flex: .ись<.>
+  gramm: case_comp,el,nonst
+  gloss: EL
  -flex: .ьысен<.>
   gramm: case_comp,egr
+  gloss: EGR
+ -flex: .исен<.>
+  gramm: case_comp,egr,nonst
   gloss: EGR
  -flex: .ёзь<.>
   gramm: case_comp,term
@@ -2068,8 +2080,14 @@
  -flex: .ъёс|ысь<.>
   gramm: case_comp,pl_comp,pl,el
   gloss: PL|EL
+ -flex: .ъёс|ӥсь<.>
+  gramm: case_comp,pl_comp,pl,el,nonst
+  gloss: PL|EL
  -flex: .ъёс|ысен<.>
   gramm: case_comp,pl_comp,pl,egr
+  gloss: PL|EGR
+ -flex: .ъёс|ӥсен<.>
+  gramm: case_comp,pl_comp,pl,egr,nonst
   gloss: PL|EGR
  -flex: .ъёс|озь<.>
   gramm: case_comp,pl_comp,pl,term
@@ -2161,8 +2179,14 @@
  -flex: .ьёс|ысь<.>
   gramm: case_comp,pl_comp,pl,el
   gloss: PL|EL
+ -flex: .ьёс|ӥсь<.>
+  gramm: case_comp,pl_comp,pl,el,nonst
+  gloss: PL|EL
  -flex: .ьёс|ысен<.>
   gramm: case_comp,pl_comp,pl,egr
+  gloss: PL|EGR
+ -flex: .ьёс|ӥсен<.>
+  gramm: case_comp,pl_comp,pl,egr,nonst
   gloss: PL|EGR
  -flex: .ёс|озь<.>
   gramm: case_comp,pl_comp,pl,term
@@ -5895,27 +5919,27 @@
   gloss: PL.ADJ
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
   paradigm: Comparative
- -flex: .эсь<.>
+ -flex: .эс<.>
   gramm: pl,adj_nmlz
   gloss: PL.ADJ
-  paradigm: Noun-case
-  paradigm: Noun-case-poss-1,sg
-  paradigm: Noun-case-poss-2,sg
-  paradigm: Noun-case-poss-3,sg
-  paradigm: Noun-case-poss-1,pl
-  paradigm: Noun-case-poss-2,pl
-  paradigm: Noun-case-poss-3,pl
- -flex: .есь<.>
+  paradigm: Noun-case-soft
+  paradigm: Noun-case-poss-1,sg-soft
+  paradigm: Noun-case-poss-2,sg-soft
+  paradigm: Noun-case-poss-3,sg-soft
+  paradigm: Noun-case-poss-1,pl-soft
+  paradigm: Noun-case-poss-2,pl-soft
+  paradigm: Noun-case-poss-3,pl-soft
+ -flex: .ес<.>
   gramm: pl,adj_nmlz
   gloss: PL.ADJ
   regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
-  paradigm: Noun-case
-  paradigm: Noun-case-poss-1,sg
-  paradigm: Noun-case-poss-2,sg
-  paradigm: Noun-case-poss-3,sg
-  paradigm: Noun-case-poss-1,pl
-  paradigm: Noun-case-poss-2,pl
-  paradigm: Noun-case-poss-3,pl
+  paradigm: Noun-case-soft
+  paradigm: Noun-case-poss-1,sg-soft
+  paradigm: Noun-case-poss-2,sg-soft
+  paradigm: Noun-case-poss-3,sg-soft
+  paradigm: Noun-case-poss-1,pl-soft
+  paradigm: Noun-case-poss-2,pl-soft
+  paradigm: Noun-case-poss-3,pl-soft
  -flex: .эсь|ёс<.>
   gramm: pl,adj_nmlz
   gloss: PL.ADJ|PL

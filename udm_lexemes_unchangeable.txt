@@ -1006,6 +1006,13 @@
  trans_ru: ещё
 
 -lexeme
+ lex: эшшозэ
+ stem: эшшозэ.//ешшозэ.//ишшозэ.//ишозэ.
+ gramm: ADV,rus,3sg
+ paradigm: Empty
+ trans_ru: ещё
+
+-lexeme
  lex: гинэ
  stem: гинэ.//гине.
  gramm: PART
@@ -7725,7 +7732,7 @@
 
 -lexeme
  lex: ой
- stem: ой.//оой.//ооой.//оооой.//ооооой.//о-ой.//о-о-ой.
+ stem: ой.//оой.//ооой.//оооой.//ооооой.//о-ой.//о-о-ой.//о-о-о-ой.
  gramm: INTRJ
  paradigm: Empty
  trans_ru: ах, ой
@@ -7809,7 +7816,7 @@
 
 -lexeme
  lex: эй
- stem: эй.
+ stem: эй.//ээй.//эээй.//ээээй.//э-эй.//э-э-эй.//э-э-э-эй.
  gramm: INTRJ
  paradigm: Empty
  trans_ru: эй
@@ -7851,7 +7858,7 @@
 
 -lexeme
  lex: ай
- stem: ай.
+ stem: ай.//аай.//ааай.//аааай.//а-ай.//а-а-ай.//а-а-а-ай.
  gramm: INTRJ
  paradigm: Empty
  trans_ru: ай, ах, ой
@@ -8672,7 +8679,7 @@
 -lexeme
  lex: зря
  stem: зря.
- gramm: ADV
+ gramm: ADV,rus
  paradigm: connect_adverbs
  trans_ru: зря
 
@@ -8686,7 +8693,7 @@
 -lexeme
  lex: сётаки
  stem: сётаки.
- gramm: ADV
+ gramm: ADV,rus
  paradigm: connect_adverbs
  trans_ru: всё-таки
 
@@ -8791,7 +8798,7 @@
 -lexeme
  lex: радын-радын
  stem: радын-радын.
- gramm: ADV
+ gramm: ADV,rus
  paradigm: connect_adverbs
  trans_ru: временами, иногда
 
@@ -21608,4 +21615,11 @@
  gramm: INTRJ
  stem: айы.
  paradigm: Comparative
- trans_ru: а
+ trans_ru: да
+
+-lexeme
+ lex: сё
+ gramm: PART,rus
+ stem: сё.//уссё.
+ paradigm: Comparative
+ trans_ru: всё

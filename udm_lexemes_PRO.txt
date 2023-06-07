@@ -1882,3 +1882,12 @@
  stem: таӵож.
  paradigm: connect_adverbs
  trans_ru: досюда
+
+-lexeme
+ lex: эта
+ gramm: ADJPRO,rus
+ stem: эта.
+ paradigm: Comparative
+ trans_ru: этот
+
+

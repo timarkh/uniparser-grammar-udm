@@ -11144,7 +11144,7 @@
  stem: выж.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: мост
+ trans_ru: мост; пол
 
 -lexeme
  lex: выжлёгет
@@ -49865,6 +49865,13 @@
  trans_ru: 1. эпидемия 2. детские инфекционные болезни
 
 -lexeme
+ lex: пӧр
+ stem: пӧр.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: стряпня; приготовление пищи, домашние дела
+
+-lexeme
  lex: пӧрос
  stem: пӧрос.
  gramm: N
@@ -59908,6 +59915,13 @@
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: изгородь
+
+-lexeme
+ lex: тын
+ stem: тын.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: дыхание
 
 -lexeme
  lex: тынӥсьлык
@@ -140964,4 +140978,32 @@
  stem: пуконтӥ.
  paradigm: Noun-num-vowel
  trans_ru: место для сидения
+
+-lexeme
+ lex: султонтӥ
+ gramm: N
+ stem: султонтӥ.
+ paradigm: Noun-num-vowel
+ trans_ru: время пробуждения; место для вставания
+
+-lexeme
+ lex: шудонтӥ
+ gramm: N
+ stem: шудонтӥ.
+ paradigm: Noun-num-vowel
+ trans_ru: место для игр
+
+-lexeme
+ lex: апаймурт
+ gramm: N,anim,hum
+ stem: апаймурт.
+ paradigm: Noun-num-consonant
+ trans_ru: женщина, девушка
+
+-lexeme
+ lex: рысь
+ gramm: N,rus,anim
+ stem: рыс.
+ paradigm: Noun-num-soft
+ trans_ru: рысь
 

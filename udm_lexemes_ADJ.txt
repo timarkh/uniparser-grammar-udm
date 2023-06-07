@@ -6146,6 +6146,13 @@
  trans_ru: толщиной равный чему-то
 
 -lexeme
+ lex: кемда
+ stem: кемда.//кемд.
+ gramm: ADJ,rel_adj
+ paradigm: connect_adjectives
+ trans_ru: длительностью равный чему-то
+
+-lexeme
  lex: дурыс
  stem: дурыс.
  gramm: ADJ

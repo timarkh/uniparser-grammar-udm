@@ -617,9 +617,16 @@
 -lexeme
  lex: араны
  stem: ара.
- gramm: V,II,tr,with_instr
+ gramm: V,II,intr
  paradigm: connect_verbs-II
  trans_ru: разгореться
+
+-lexeme
+ lex: араны
+ stem: ара.
+ gramm: V,II,tr,with_instr
+ paradigm: connect_verbs-II
+ trans_ru: жать
 
 -lexeme
  lex: араны-кутсаны
@@ -2595,6 +2602,13 @@
  gramm: V,II,tr
  paradigm: connect_verbs-II
  trans_ru: 1. связать парами 2. развешивать парами
+
+-lexeme
+ lex: веръяны
+ stem: веръя.
+ gramm: V,II,tr,mult
+ paradigm: connect_verbs-II
+ trans_ru: пробовать
 
 -lexeme
  lex: верыны
@@ -12126,6 +12140,13 @@
  trans_ru: качать
 
 -lexeme
+ lex: мерттаны
+ stem: мертта.
+ gramm: V,II,tr,with_instr
+ paradigm: connect_verbs-II
+ trans_ru: мерить
+
+-lexeme
  lex: мерттыны
  stem: мертт.|мерт.|мертт.
  gramm: V,I,tr
@@ -14200,9 +14221,16 @@
 -lexeme
  lex: паланы
  stem: пала.
+ gramm: V,II,intr
+ paradigm: connect_verbs-II
+ trans_ru: разбегаться; смеяться, улыбаться
+
+-lexeme
+ lex: паланы
+ stem: пала.
  gramm: V,II,tr,with_instr
  paradigm: connect_verbs-II
- trans_ru: 1. разбегаться 2. смеяться, улыбаться
+ trans_ru: очищать, шелушить, лущить
 
 -lexeme
  lex: палгытыны
