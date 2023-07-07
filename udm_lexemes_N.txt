@@ -1,4 +1,13 @@
-﻿-lexeme
+﻿
+-lexeme
+ lex: PLACEHOLDER_COMMON_NOUN
+ gramm: N
+ stem: PLACEHOLDER_COMMON_NOUN.//PLACEHOLDER_COMMON_NOUN-.
+ paradigm: Noun-num-consonant
+ paradigm: Noun-num-vowel
+ trans_ru: (скрытое существительное)
+
+-lexeme
  lex: cар
  stem: cар.
  gramm: N,body
@@ -141006,4 +141015,5 @@
  stem: рыс.
  paradigm: Noun-num-soft
  trans_ru: рысь
+
 

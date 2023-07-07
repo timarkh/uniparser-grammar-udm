@@ -1,5 +1,13 @@
 
 -lexeme
+ lex: PLACEHOLDER_NAME
+ gramm: N,PN
+ stem: PLACEHOLDER_NAME.//PLACEHOLDER_NAME-.
+ paradigm: Noun-num-consonant
+ paradigm: Noun-num-vowel
+ trans_ru: (скрытое имя собственное)
+
+-lexeme
  lex: Идна
  stem: идна.
  gramm: N,PN,persn
