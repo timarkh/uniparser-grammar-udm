@@ -141016,4 +141016,52 @@
  paradigm: Noun-num-soft
  trans_ru: рысь
 
+-lexeme
+ lex: севок
+ gramm: N,rus
+ stem: севок.
+ paradigm: Noun-num-consonant
+ trans_ru: севок
+
+-lexeme
+ lex: блин
+ gramm: N,rus
+ stem: блин.
+ paradigm: Noun-num-consonant
+ trans_ru: блин
+
+-lexeme
+ lex: церков
+ gramm: N
+ stem: церков.
+ paradigm: Noun-num-consonant
+ trans_ru: церковь
+
+-lexeme
+ lex: сагат
+ gramm: N
+ stem: сагат.
+ paradigm: Noun-num-consonant
+ trans_ru: час; часы
+
+-lexeme
+ lex: тарзанка
+ gramm: N,rus
+ stem: тарзанка.
+ paradigm: Noun-num-vowel
+ trans_ru: тарзанка
+
+-lexeme
+ lex: телефономан
+ gramm: N,anim,hum,rus
+ stem: телефономан.
+ paradigm: Noun-num-consonant
+ trans_ru: телефономан
+
+-lexeme
+ lex: тэквандо
+ gramm: N,rus
+ stem: тэквандо.
+ paradigm: Noun-num-vowel
+ trans_ru: таэквондо
 

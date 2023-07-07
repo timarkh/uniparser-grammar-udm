@@ -55316,3 +55316,59 @@
  paradigm: connect_verbs-II
  trans_ru: говорить, болтать
 
+-lexeme
+ lex: тӥланы
+ gramm: V,tr,II
+ stem: тӥла.
+ paradigm: connect_verbs-II
+ trans_ru: желать
+
+-lexeme
+ lex: буръяськыны
+ gramm: V,I,intr
+ stem: буръяськ.
+ paradigm: connect_verbs-I
+ trans_ru: улучшиться
+
+-lexeme
+ lex: зургытыны
+ gramm: V,tr,I
+ stem: зургыт.
+ paradigm: connect_verbs-I
+ trans_ru: швырнуть
+
+-lexeme
+ lex: казалдырыны
+ gramm: V,tr,I
+ stem: казалдыр.
+ paradigm: connect_verbs-I
+ trans_ru: оставить
+
+-lexeme
+ lex: казалыны
+ gramm: V,intr,I
+ stem: казал.
+ paradigm: connect_verbs-I
+ trans_ru: остаться
+
+-lexeme
+ lex: комбыжъяны
+ gramm: V,II,mult,tr
+ stem: комбыжъя.
+ paradigm: connect_verbs-II
+ trans_ru: царапать
+
+-lexeme
+ lex: куакаӟыны
+ gramm: V,I,intr
+ stem: куакаӟ.
+ paradigm: connect_verbs-I
+ trans_ru: обезьянничать
+
+-lexeme
+ lex: мозтыны
+ gramm: V,tr,I
+ stem: мозт.
+ paradigm: connect_verbs-I
+ trans_ru: освободить, отцепить
+
