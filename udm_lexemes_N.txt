@@ -40205,6 +40205,13 @@
  trans_ru: няня
 
 -lexeme
+ lex: няня
+ stem: няня.
+ gramm: N
+ paradigm: Noun-num-vowel
+ trans_ru: хлебушек
+
+-lexeme
  lex: нярӟем
  stem: нярӟем.
  gramm: N,body
@@ -133249,7 +133256,7 @@
 -lexeme
  lex: абитуриентка
  stem: абитуриентка.
- gramm: N,rus
+ gramm: N,rus,anim,hum
  paradigm: Noun-num-vowel
  trans_ru: абитуриентка
 
@@ -141065,3 +141072,9 @@
  paradigm: Noun-num-vowel
  trans_ru: таэквондо
 
+-lexeme
+ lex: аби
+ stem: аби.
+ gramm: N,anim,hum
+ paradigm: Noun-num-vowel
+ trans_ru: диал. бабушка; тёща; свекровь
