@@ -1,4 +1,11 @@
 -lexeme
+ lex: PLACEHOLDER_ADJ
+ gramm: ADJ
+ stem: placeholder_adj.//placeholder_adj-.
+ paradigm: connect_adjectives
+ trans_ru: (скрытое прилагательное)
+
+-lexeme
  lex: сабырсыз
  stem: сабырсыз.
  gramm: ADJ

@@ -2,7 +2,7 @@
 -lexeme
  lex: PLACEHOLDER_VERB
  gramm: V
- stem: PLACEHOLDER_VERB.//PLACEHOLDER_VERB-.
+ stem: placeholder_verb.//placeholder_verb-.
  paradigm: connect_verbs-II
  paradigm: connect_verbs-I
  trans_ru: (скрытый глагол)

@@ -2,16 +2,17 @@
 -lexeme
  lex: PLACEHOLDER_COMMON_NOUN
  gramm: N
- stem: PLACEHOLDER_COMMON_NOUN.//PLACEHOLDER_COMMON_NOUN-.
+ stem: placeholder_common_noun.//placeholder_common_noun-.//placeholder_noun.//placeholder_noun-.
  paradigm: Noun-num-consonant
  paradigm: Noun-num-vowel
  trans_ru: (скрытое существительное)
 
 -lexeme
- lex: cар
- stem: cар.
+ lex: сар
+ stem: сар.
  gramm: N,body
  paradigm: Noun-num-consonant
+ paradigm: Noun-num-consonant-y
  trans_ru: таз, тазовый пояс
 
 -lexeme
@@ -52498,7 +52499,8 @@
  stem: сарвыл.
  gramm: N,body
  paradigm: Noun-num-consonant
- trans_ru: ягодица, круп
+ paradigm: Noun-num-consonant-y
+ trans_ru: ягодица, таз
 
 -lexeme
  lex: сарда

@@ -2,7 +2,7 @@
 -lexeme
  lex: PLACEHOLDER_NAME
  gramm: N,PN
- stem: PLACEHOLDER_NAME.//PLACEHOLDER_NAME-.
+ stem: placeholder_name.//placeholder_name-.
  paradigm: Noun-num-consonant
  paradigm: Noun-num-vowel
  trans_ru: (скрытое имя собственное)
