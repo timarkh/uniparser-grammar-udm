@@ -48077,3 +48077,17 @@
  paradigm: connect_adjectives-j
  trans_ru: недостойный
 
+-lexeme
+ lex: чек
+ gramm: ADJ
+ stem: чек.
+ paradigm: connect_adjectives
+ trans_ru: соседний, окрестный
+
+-lexeme
+ lex: компакт
+ gramm: ADJ,rus
+ stem: компакт.
+ paradigm: connect_adjectives
+ trans_ru: компактный
+

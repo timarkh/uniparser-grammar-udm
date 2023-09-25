@@ -21631,3 +21631,10 @@
  paradigm: Comparative
  trans_ru: благодарение богу, слава богу
 
+-lexeme
+ lex: наготове
+ gramm: ADV,rus
+ stem: наготове.
+ paradigm: connect_adverbs
+ trans_ru: наготове
+

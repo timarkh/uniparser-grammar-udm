@@ -99913,3 +99913,52 @@
  paradigm: Noun-num-consonant
  trans_ru: Басьяновский
 
+-lexeme
+ lex: Танып-Чишма
+ gramm: N,PN,topn
+ stem: танып-чишма.
+ paradigm: Noun-num-vowel
+ trans_ru: Танып-Чишма
+
+-lexeme
+ lex: Чишма
+ gramm: N,PN,topn
+ stem: чишма.
+ paradigm: Noun-num-vowel
+ trans_ru: Чишма
+
+-lexeme
+ lex: Миндиярович
+ gramm: N,PN,patrn
+ stem: миндиярович.
+ paradigm: Noun-num-consonant
+ trans_ru: Миндиярович
+
+-lexeme
+ lex: Казанчи
+ gramm: N,PN,topn
+ stem: казанчи.
+ paradigm: Noun-num-vowel
+ trans_ru: Казанчи
+
+-lexeme
+ lex: Бузьырлы
+ gramm: N,PN,topn
+ stem: бузьырлы.
+ paradigm: Noun-num-vowel
+ trans_ru: Таныповка
+
+-lexeme
+ lex: Татыштӥ
+ gramm: N,PN,topn
+ stem: татыштӥ.
+ paradigm: Noun-num-vowel
+ trans_ru: Верхние Татышлы
+
+-lexeme
+ lex: Нухов
+ gramm: N,famn,PN
+ stem: нухов.
+ paradigm: Noun-num-consonant
+ trans_ru: Нухов
+

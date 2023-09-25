@@ -141080,3 +141080,25 @@
  gramm: N,anim,hum
  paradigm: Noun-num-vowel
  trans_ru: диал. бабушка; тёща; свекровь
+
+-lexeme
+ lex: кыяк
+ gramm: N
+ stem: кыяк.
+ paradigm: Noun-num-consonant
+ trans_ru: камыш
+
+-lexeme
+ lex: двухэтажка
+ gramm: N,rus
+ stem: двухэтажка.
+ paradigm: Noun-num-vowel
+ trans_ru: двухэтажка
+
+-lexeme
+ lex: трёхэтажка
+ gramm: N,rus
+ stem: трёхэтажка.//трехэтажка.
+ paradigm: Noun-num-vowel
+ trans_ru: трёхэтажка
+
