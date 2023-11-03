@@ -21638,3 +21638,17 @@
  paradigm: connect_adverbs
  trans_ru: наготове
 
+-lexeme
+ lex: ту-ту-тут
+ gramm: IMIT
+ stem: ту-ту-тут.
+ paradigm: Comparative
+ trans_ru: ту-ту-тут
+
+-lexeme
+ lex: ту-тут
+ gramm: IMIT
+ stem: ту-тут.
+ paradigm: Comparative
+ trans_ru: ту-тут
+

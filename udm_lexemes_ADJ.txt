@@ -48091,3 +48091,23 @@
  paradigm: connect_adjectives
  trans_ru: компактный
 
+-lexeme
+ lex: Янаульский
+ gramm: ADJ,PN,topn
+ stem: янаульски.
+ paradigm: connect_adjectives-j
+ trans_ru: Янаульский (район)
+
+-lexeme
+ lex: Мишкинский
+ gramm: ADJ,PN,topn
+ stem: мишкински.
+ paradigm: connect_adjectives-j
+ trans_ru: Мишкинский (район)
+
+-lexeme
+ lex: витетажный
+ gramm: ADJ,rus
+ stem: витетажны.
+ paradigm: connect_adjectives-j
+ trans_ru: пятиэтажный

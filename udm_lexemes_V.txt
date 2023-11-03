@@ -55372,3 +55372,31 @@
  paradigm: connect_verbs-I
  trans_ru: освободить, отцепить
 
+-lexeme
+ lex: шекарӟыны
+ gramm: V,intr,rus,I
+ stem: шекарӟ.
+ paradigm: connect_verbs-I-soft
+ trans_ru: становиться сладким
+
+-lexeme
+ lex: сэнгыраны
+ gramm: V,intr,II
+ stem: сэнгыра.
+ paradigm: connect_verbs-II
+ trans_ru: дремать
+
+-lexeme
+ lex: чыскалляны
+ gramm: V,tr,II
+ stem: чыскалля.
+ paradigm: connect_verbs-II
+ trans_ru: щипать
+
+-lexeme
+ lex: лыкылданы
+ gramm: V,II,intr
+ stem: лыкылда.
+ paradigm: connect_verbs-II
+ trans_ru: много говорить, болтать
+

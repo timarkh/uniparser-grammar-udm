@@ -13967,6 +13967,7 @@
  stem: гур.
  gramm: N
  paradigm: Noun-num-consonant
+ paradigm: Noun-num-consonant-y
  trans_ru: мотив; напев; мелодия
 
 -lexeme
@@ -35506,6 +35507,13 @@
  trans_ru: мама, мать
 
 -lexeme
+ lex: ӵужмемей
+ stem: ӵужмеме.
+ gramm: N,anim,hum
+ paradigm: Noun-num-j
+ trans_ru: бабушка по матери
+
+-lexeme
  lex: меморандум
  stem: меморандум.
  gramm: N,rus
@@ -48473,6 +48481,7 @@
  stem: пул.
  gramm: N
  paradigm: Noun-num-consonant
+ paradigm: Noun-num-consonant-y
  trans_ru: доска, тёс
 
 -lexeme
@@ -141102,3 +141111,101 @@
  paradigm: Noun-num-vowel
  trans_ru: трёхэтажка
 
+-lexeme
+ lex: грядка
+ gramm: N,rus
+ stem: грядка.//грядк.
+ paradigm: Noun-num-vowel
+ trans_ru: грядка
+
+-lexeme
+ lex: сифарат
+ gramm: N,rus
+ stem: сифарат.
+ paradigm: Noun-num-consonant
+ trans_ru: сепаратор
+
+-lexeme
+ lex: шекар
+ gramm: N,rus
+ stem: шекар.
+ paradigm: Noun-num-consonant
+ trans_ru: сахар
+
+-lexeme
+ lex: автодойка
+ gramm: N,rus
+ stem: автодойка.//автодойк.
+ paradigm: Noun-num-vowel
+ trans_ru: автодойка
+
+-lexeme
+ lex: шкафчик
+ gramm: N,rus
+ stem: шкафчик.
+ paradigm: Noun-num-consonant
+ trans_ru: шкафчик
+
+-lexeme
+ lex: мусорка
+ gramm: N,rus
+ stem: мусорка.//мусорк.
+ paradigm: Noun-num-vowel
+ trans_ru: мусорка
+
+-lexeme
+ lex: грех
+ gramm: N,rus
+ stem: грех.
+ paradigm: Noun-num-consonant
+ trans_ru: грех
+
+-lexeme
+ lex: круиз
+ gramm: N,rus
+ stem: круиз.
+ paradigm: Noun-num-consonant
+ trans_ru: круиз
+
+-lexeme
+ lex: ксерокс
+ gramm: N,rus
+ stem: ксерокс.
+ paradigm: Noun-num-consonant
+ trans_ru: ксерокс
+
+-lexeme
+ lex: ксилофон
+ gramm: N,rus
+ stem: ксилофон.
+ paradigm: Noun-num-consonant
+ trans_ru: ксилофон
+
+-lexeme
+ lex: куныл
+ gramm: N
+ stem: куныл.
+ paradigm: Noun-num-consonant
+ trans_ru: настроение
+
+-lexeme
+ lex: саби
+ gramm: N,hum,anim
+ stem: саби.
+ paradigm: Noun-num-vowel
+ trans_ru: младенец
+
+-lexeme
+ lex: лампу
+ gramm: N
+ stem: лампу.
+ paradigm: Noun-num-vowel
+ trans_ru: поддон
+
+-lexeme
+ lex: гурпул
+ stem: гурпул.
+ gramm: N
+ paradigm: Noun-num-consonant
+ paradigm: Noun-num-consonant-y
+ trans_ru: заслонка

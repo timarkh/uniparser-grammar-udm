@@ -99962,3 +99962,30 @@
  paradigm: Noun-num-consonant
  trans_ru: Нухов
 
+-lexeme
+ lex: Джеки
+ gramm: N,persn,PN
+ stem: джеки.
+ paradigm: Noun-num-vowel
+ trans_ru: Джеки
+
+-lexeme
+ lex: Сабанчина
+ gramm: N,famn,PN
+ stem: сабанчина.
+ paradigm: Noun-num-vowel
+ trans_ru: Сабанчина
+
+-lexeme
+ lex: Флюр
+ gramm: N,persn,PN
+ stem: флюр.
+ paradigm: Noun-num-consonant
+ trans_ru: Флюр
+
+-lexeme
+ lex: Гурзуф
+ gramm: N,PN,topn
+ stem: гурзуф.
+ paradigm: Noun-num-consonant
+ trans_ru: Гурзуф
