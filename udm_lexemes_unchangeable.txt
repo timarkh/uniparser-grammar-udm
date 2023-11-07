@@ -18066,6 +18066,21 @@
  trans_ru: по; длиной с...; вместе, совместно
 
 -lexeme
+ lex: кузя
+ gramm: POST,el
+ stem: кузяысь.//кузяись.
+ paradigm: Comparative
+ trans_ru: по; длиной с...; вместе, совместно
+
+-lexeme
+ lex: кузя
+ gramm: POST,el
+ stem: кузяысьты.//кузяисьты.
+ paradigm: poss-sg
+ paradigm: poss-pl
+ trans_ru: по; длиной с...; вместе, совместно
+
+-lexeme
  lex: пала
  gramm: POST
  stem: пала.

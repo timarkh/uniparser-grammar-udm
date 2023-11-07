@@ -608,6 +608,13 @@
  trans_ru: почём
 
 -lexeme
+ lex: кӧняе
+ stem: кӧняе.
+ gramm: ADVPRO,ill
+ paradigm: connect_adverbs_px
+ trans_ru: почём
+
+-lexeme
  lex: котькӧня
  stem: котькӧня.
  gramm: ADVPRO
