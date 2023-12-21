@@ -2822,9 +2822,16 @@
 
 -lexeme
  lex: тӧдьы
- stem: тӧдьы.//тӧдь.//тэдьы.//тэдь.
+ stem: тӧдьы.//тэдьы.
  gramm: ADJ
  paradigm: connect_adjectives
+ trans_ru: белый
+
+-lexeme
+ lex: тӧдьы
+ stem: тӧд.//тэд.
+ gramm: ADJ
+ paradigm: connect_adjectives-soft
  trans_ru: белый
 
 -lexeme
@@ -48111,3 +48118,10 @@
  stem: витетажны.
  paradigm: connect_adjectives-j
  trans_ru: пятиэтажный
+
+-lexeme
+ lex: чет
+ gramm: ADJ
+ stem: чет.
+ paradigm: connect_adjectives
+ trans_ru: чужой

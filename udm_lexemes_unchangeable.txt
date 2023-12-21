@@ -4903,7 +4903,14 @@
 -lexeme
  lex: кемалась
  stem: кемалась.
- gramm: ADV
+ gramm: ADV,el
+ paradigm: connect_adverbs
+ trans_ru: давно
+
+-lexeme
+ lex: кемаен
+ stem: кемаен.
+ gramm: ADV,ins
  paradigm: connect_adverbs
  trans_ru: давно
 
@@ -8749,7 +8756,7 @@
 -lexeme
  lex: кемалы
  stem: кемалы.
- gramm: ADV
+ gramm: ADV,dat
  paradigm: connect_adverbs
  trans_ru: надолго
 
@@ -10475,7 +10482,7 @@
 -lexeme
  lex: кематэк
  stem: кематэк.
- gramm: ADV
+ gramm: ADV,car
  paradigm: connect_adverbs
  trans_ru: долго, продолжительное время
 
@@ -12239,7 +12246,7 @@
 -lexeme
  lex: кемаласен
  stem: кемаласен.
- gramm: ADV
+ gramm: ADV,egr
  paradigm: Comparative
  trans_ru: издавна
 -lexeme

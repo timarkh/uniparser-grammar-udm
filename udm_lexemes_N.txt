@@ -110886,6 +110886,13 @@
  trans_ru: покрывало
 
 -lexeme
+ lex: покрывало
+ gramm: N,rus
+ stem: покрывал.
+ paradigm: Noun-num-consonant
+ trans_ru: покрывало
+
+-lexeme
  lex: полба
  gramm: N,rus
  stem: полба.
@@ -141209,3 +141216,40 @@
  paradigm: Noun-num-consonant
  paradigm: Noun-num-consonant-y
  trans_ru: заслонка
+
+-lexeme
+ lex: танго
+ gramm: N
+ stem: танго.
+ paradigm: Noun-num-vowel
+ trans_ru: тело
+
+-lexeme
+ lex: тан
+ gramm: N,body
+ stem: тан.
+ paradigm: Noun-num-consonant
+ paradigm: Noun-num-consonant-y
+ trans_ru: тело
+
+-lexeme
+ lex: сотӥ
+ gramm: N,rus
+ stem: сотӥ.
+ paradigm: Noun-num-vowel
+ trans_ru: сотка
+
+-lexeme
+ lex: нянякай
+ gramm: N
+ stem: няняка.
+ paradigm: Noun-num-j
+ trans_ru: хлебушек
+
+-lexeme
+ lex: старообрядчество
+ gramm: N,rus
+ stem: старообрядчество.
+ paradigm: Noun-num-vowel
+ trans_ru: старообрядчество
+
