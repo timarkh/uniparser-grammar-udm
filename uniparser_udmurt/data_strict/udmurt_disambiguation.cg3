@@ -9,13 +9,14 @@ LIST NegVerbsNpst = "уг" ("уд" V) "уз" ("ум" V);
 LIST Clitics = "но" "ни" "ини" "инь" "на" "пе" "пӧй" "а" "о" "ук" "ик" "ке" "ма" "гинэ" "гынэ" "гынэк" "лэся" "вылды";
 LIST VerbalClitics = "ни" "ини" "инь" "на" "ук" "лэся" "вылды";
 SET NotClitics = (*) - Clitics;
-LIST Poss = 1sg 2sg 3sg 1pl 2pl 3pl;
+LIST Poss = 1sg 2sg 3sg 1pl 2pl 3pl poss_comp;
 LIST PossNot3sg = 1sg 2sg 1pl 2pl 3pl;
 SET NN = (N sg nom) - Poss;
 SET NomPoss = (N sg nom 1sg) OR (N sg nom 2sg) OR (N sg nom 3sg) OR (N sg nom 1pl) OR (N sg nom 2pl) OR (N sg nom 3pl);
 LIST DemPersPro = "<со>" "<та>";
 LIST NAdj = N A;
 LIST VPred = V PREDIC;
+SET VFinPred = (V res) OR (V deb) OR (V 1) OR (V 2) OR (V 3) OR (PREDIC);
 SET VTr1 = (V tr) OR (V caus);
 SET VTr2 = VTr1 - (pass);
 SET VTr = VTr2 OR ("вераны") OR ("шуккыны") OR ("пырыны") OR ("вазьыны") OR ("оскыны");
@@ -216,7 +217,8 @@ REMOVE (adj_nmlz) IF (0 (attr_o adj_nmlz))
 
 
 SECTION    # Numerals
-REMOVE (nom) IF (0 (NUM) - Poss - (sg) - (pl));
+REMOVE (nom) IF (0 (NUM nom) - Poss - (sg) - (pl));
+REMOVE (acc) IF (0 (NUM nom 3sg) OR (NUM nom poss_comp));
 
 SECTION    # Pronouns
 
@@ -335,3 +337,12 @@ SELECT (N) IF (0 ("<кыз>"i) OR ("<кызэ>"i))
               (1 (POST) OR ("вай") OR ("лыс") OR ("выжы") OR ("ул") OR ("выл") OR ("котыр") OR ("йыл") OR ("нюк") OR ("шудыны") OR ("сылыны") OR ("будыны") OR ("кизьыны") OR ("кидыс"));
 SELECT (N) IF (0 ("<кыз>"i) OR ("<кызэ>"i))
               (-1 (ADJ) OR (attr_o) OR ("<ар>"i) OR ("<чебермам>"i) OR ("<чеберъям>"i) OR ("<будэм>"i) OR ("<будӥсь>"i));
+
+# индэ: discourse particle vs. sky.ACC.2SG
+SELECT (PART) IF (0 ("индэ"i))
+                 (*-1 VFinPred BARRIER NotClitics)
+                 (NEGATE 1 VTr);
+
+# ог: NUM vs. PREP
+SELECT (NUM) IF (0 ("ог"))
+                (NEGATE 1 (NUM));
