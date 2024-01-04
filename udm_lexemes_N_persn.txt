@@ -48179,6 +48179,12 @@
  paradigm: Noun-num-consonant
  trans_ru: Джон
 -lexeme
+ lex: Джованни
+ stem: джованни.
+ gramm: N,PN,persn
+ paradigm: Noun-num-vowel
+ trans_ru: Джованни
+-lexeme
  lex: Ева
  stem: ева.
  gramm: N,PN,persn

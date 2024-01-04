@@ -118,6 +118,7 @@
   {"gloss": ".*-PASS-PASS-FUT.*"},
   {"wfGlossed": ".*-[еэ]сь(-гес)?", "gramm": "^ADJ.*,pl,adj_nmlz,nom(,comp)?$"},
   {"wf": "сиенъёслы", "gramm": ".*pl_comp.*"},
-  {"wf": ".+онтӥ.+", "gramm": ".*case_comp.*", "gloss": ".*-VN-PROL-.*"}
+  {"wf": "^(и|.+[аяоё])нтӥ([^мдз].*|[мдз][еэ].*)", "gramm": ".*case_comp.*", "gloss": ".*-VN-PROL-.*"},
+  {"wf": "^палэнтӥ.*", "gramm": ".*case_comp.*", "gloss": ".*-INS-PROL-.*"}
 ]
 

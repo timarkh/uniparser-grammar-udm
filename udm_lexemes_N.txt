@@ -5302,6 +5302,13 @@
  trans_ru: берет
 
 -lexeme
+ lex: берет
+ stem: бирет.
+ gramm: N,rus,missp
+ paradigm: Noun-num-consonant
+ trans_ru: берет
+
+-lexeme
  lex: беризь
  stem: бериз.
  gramm: N
@@ -18692,6 +18699,13 @@
  trans_ru: весть, известие
 
 -lexeme
+ lex: ивортэт
+ stem: ивортэт.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: информация
+
+-lexeme
  lex: ивор-тодон
  stem: ивор-тодон.
  gramm: N
@@ -18704,6 +18718,13 @@
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: 1. информация 2. служба новостей
+
+-lexeme
+ lex: тодэтбур
+ stem: тодэтбур.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: информация
 
 -lexeme
  lex: иворчи
@@ -23655,6 +23676,13 @@
  gramm: N
  paradigm: Noun-num-vowel
  trans_ru: правление, руководство, администрация
+
+-lexeme
+ lex: аскивалтонни
+ stem: аскивалтонни.
+ gramm: N
+ paradigm: Noun-num-vowel
+ trans_ru: самоуправление
 
 -lexeme
  lex: кивалтос
@@ -56875,7 +56903,7 @@
  stem: сӧзнэт.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: терм. система
+ trans_ru: система
 
 -lexeme
  lex: сӧзул
@@ -76414,7 +76442,7 @@
  trans_ru: сон
 -lexeme
  lex: гаджет
- stem: гаджет.
+ stem: гаджет.//гаӝет.
  gramm: N,rus
  paradigm: Noun-num-consonant
  trans_ru: гаджет
@@ -121837,6 +121865,13 @@
  trans_ru: воспитанник
 
 -lexeme
+ lex: странник
+ gramm: N,rus,anim,hum
+ stem: странник.
+ paradigm: Noun-num-consonant
+ trans_ru: странник
+
+-lexeme
  lex: восстановление
  gramm: N,rus
  stem: восстановлени.
@@ -141253,3 +141288,156 @@
  paradigm: Noun-num-vowel
  trans_ru: старообрядчество
 
+-lexeme
+ lex: лякет
+ stem: лякет.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: наклейка, вложение, довесок; марка
+
+-lexeme
+ lex: ляки
+ stem: ляки.
+ gramm: N
+ paradigm: Noun-num-vowel
+ trans_ru: марка
+
+-lexeme
+ lex: вырӟет
+ stem: вырӟет.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: импульс
+
+-lexeme
+ lex: согет
+ stem: согет.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: фата, покрывало невесты
+
+-lexeme
+ lex: изет
+ stem: изет.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: сон
+
+-lexeme
+ lex: сузъет
+ stem: сузъет.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: выпуск, сборник
+
+-lexeme
+ lex: дэмӟет
+ stem: дэмӟет.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: застёжка; прицеп
+
+-lexeme
+ lex: вирӟибет
+ stem: вирӟибет.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: кровяное давление
+
+-lexeme
+ lex: вупукет
+ stem: вупукет.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: лужа
+
+-lexeme
+ lex: пеллет
+ stem: пеллет.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: пеллет
+
+-lexeme
+ lex: агроуниверситет
+ stem: агроуниверситет.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: агроуниверситет
+
+-lexeme
+ lex: онкокабинет
+ stem: онкокабинет.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: онкокабинет
+
+-lexeme
+ lex: капчиатлет
+ stem: капчиатлет.
+ gramm: N,rus,anim,hum
+ paradigm: Noun-num-consonant
+ trans_ru: легкоатлет
+
+-lexeme
+ lex: генсовет
+ stem: генсовет.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: генеральный совет
+
+-lexeme
+ lex: виджет
+ stem: виджет.//виӝет.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: виджет
+
+-lexeme
+ lex: чыртыэгес
+ stem: чыртыэгес.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: бусы
+
+-lexeme
+ lex: тачки
+ stem: тачки.
+ gramm: N
+ paradigm: Noun-num-vowel
+ trans_ru: лента
+
+-lexeme
+ lex: кылкутэт
+ stem: кылкутэт.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: отвтственность
+
+-lexeme
+ lex: кичӧлтэт
+ stem: кичӧлтэт.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: инициатива; почин
+
+-lexeme
+ lex: басьтэт
+ stem: басьтэт.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: приёмник; сниматель
+
+-lexeme
+ lex: лэсьтэт
+ stem: лэсьтэт.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: устройство
+
+-lexeme
+ lex: сынэт
+ stem: сынэт.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: расчёска

@@ -1546,7 +1546,7 @@
  -flex: .ез<.>
   gramm: case_comp,acc
   gloss: ACC
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя-][<>.]*$
  -flex: .лэн<.>
   gramm: case_comp,gen
   gloss: GEN
@@ -1562,7 +1562,7 @@
  -flex: .ен<.>
   gramm: case_comp,ins
   gloss: INS
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя-][<>.]*$
  -flex: .тэк<.>
   gramm: case_comp,car
   gloss: CAR
@@ -1580,42 +1580,42 @@
  -flex: .ез<.>
   gramm: case_comp,poss_comp,nom
   gloss: P.3SG
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя-][<>.]*$
  -flex: .эз|лэн<.>
   gloss: P.3SG|GEN
   gramm: case_comp,poss_comp,gen
  -flex: .ез|лэн<.>
   gloss: P.3SG|GEN
   gramm: case_comp,poss_comp,gen
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя-][<>.]*$
  -flex: .эз|лэсь<.>
   gloss: P.3SG|ABL
   gramm: case_comp,poss_comp,abl
  -flex: .ез|лэсь<.>
   gloss: P.3SG|ABL
   gramm: case_comp,poss_comp,abl
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя-][<>.]*$
  -flex: .эз|лы<.>
   gloss: P.3SG|DAT
   gramm: case_comp,poss_comp,dat
  -flex: .ез|лы<.>
   gloss: P.3SG|DAT
   gramm: case_comp,poss_comp,dat
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя-][<>.]*$
  -flex: .эз|тэк<.>
   gloss: P.3SG|CAR
   gramm: case_comp,poss_comp,car
  -flex: .ез|тэк<.>
   gloss: P.3SG|CAR
   gramm: case_comp,poss_comp,car
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя-][<>.]*$
  -flex: .эз|ъя<.>
   gloss: P.3SG|ADV
   gramm: case_comp,poss_comp,adv
  -flex: .ез|ъя<.>
   gloss: P.3SG|ADV
   gramm: case_comp,poss_comp,adv
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя-][<>.]*$
  -flex: .зэ<.>//.сэ<.>
   gloss: P.3SG.ACC
   gramm: case_comp,poss_comp,acc
@@ -1625,7 +1625,7 @@
  -flex: .ен|ыз<.>
   gloss: INS|P.3SG
   gramm: case_comp,poss_comp,ins
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя-][<>.]*$
  paradigm: Comparative
 
 
@@ -1673,7 +1673,7 @@
  -flex: .ез<.>
   gramm: case_comp,acc
   gloss: ACC
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя-][<>.]*$
  -flex: .лэн<.>
   gramm: case_comp,gen
   gloss: GEN
@@ -1689,13 +1689,13 @@
  -flex: .ен<.>
   gramm: case_comp,ins
   gloss: INS
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя-][<>.]*$
  -flex: .тэк<.>
   gramm: case_comp,car
   gloss: CAR
   regex-prev: ^.*[^<>.ыя][<>.]*$
  -flex: .я<.>
-  regex-prev: ^.*[йаеёиӥоӧуыэюя][<>.]*$
+  regex-prev: ^.*[йаеёиӥоӧуыэюя-][<>.]*$
   gramm: case_comp,adv
   gloss: ADV
  -flex: .ъя<.>
@@ -1712,7 +1712,7 @@
  -flex: .е<.>
   gramm: case_comp,ill
   gloss: ILL
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуэюя][<>.]*$
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуэюя-][<>.]*$
  -flex: .ысь<.>
   regex-prev: ^.*[^<>.ы][<>.]*$
   gramm: case_comp,el
@@ -1734,7 +1734,7 @@
  -flex: .етӥ<.>
   gramm: case_comp,prol
   gloss: PROL
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя-][<>.]*$
  -flex: .лань<.>
   gramm: case_comp,app
   gloss: APP
@@ -1744,49 +1744,49 @@
  -flex: .ез<.>
   gramm: case_comp,poss_comp,nom
   gloss: P.3SG
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя-][<>.]*$
  -flex: .эз|лэн<.>
   gloss: P.3SG|GEN
   gramm: case_comp,poss_comp,gen
  -flex: .ез|лэн<.>
   gloss: P.3SG|GEN
   gramm: case_comp,poss_comp,gen
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя-][<>.]*$
  -flex: .эз|лэсь<.>
   gloss: P.3SG|ABL
   gramm: case_comp,poss_comp,abl
  -flex: .ез|лэсь<.>
   gloss: P.3SG|ABL
   gramm: case_comp,poss_comp,abl
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя-][<>.]*$
  -flex: .эз|лы<.>
   gloss: P.3SG|DAT
   gramm: case_comp,poss_comp,dat
  -flex: .ез|лы<.>
   gloss: P.3SG|DAT
   gramm: case_comp,poss_comp,dat
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя-][<>.]*$
  -flex: .эз|тэк<.>
   gloss: P.3SG|CAR
   gramm: case_comp,poss_comp,car
  -flex: .ез|тэк<.>
   gloss: P.3SG|CAR
   gramm: case_comp,poss_comp,car
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя-][<>.]*$
  -flex: .эз|ъя<.>
   gloss: P.3SG|ADV
   gramm: case_comp,poss_comp,adv
  -flex: .ез|ъя<.>
   gloss: P.3SG|ADV
   gramm: case_comp,poss_comp,adv
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя-][<>.]*$
  -flex: .эз|лань<.>
   gloss: P.3SG|APP
   gramm: case_comp,poss_comp,app
  -flex: .ез|лань<.>
   gloss: P.3SG|APP
   gramm: case_comp,poss_comp,app
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя-][<>.]*$
  -flex: .зэ<.>//.сэ<.>
   gloss: P.3SG.ACC
   gramm: case_comp,poss_comp,acc
@@ -1796,7 +1796,7 @@
  -flex: .ен|ыз<.>
   gloss: INS|P.3SG
   gramm: case_comp,poss_comp,ins
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя-][<>.]*$
  -flex: .а|з<.>
   gloss: LOC|P.3SG
   gramm: case_comp,poss_comp,loc
@@ -1805,11 +1805,11 @@
   gramm: case_comp,poss_comp,ill
  -flex: .я|з<.>
   gloss: LOC|P.3SG
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя-][<>.]*$
   gramm: case_comp,poss_comp,loc
  -flex: .я|з<.>
   gloss: ILL|P.3SG
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя-][<>.]*$
   gramm: case_comp,poss_comp,ill
  -flex: .ысьт|ыз<.>//.ӥсьт|ыз<.>
   gloss: EL|P.3SG
@@ -1824,7 +1824,7 @@
   gramm: case_comp,poss_comp,term
  -flex: .ёзя|з<.>
   gloss: TERM|P.3SG
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя-][<>.]*$
   gramm: case_comp,poss_comp,term
  -flex: .этӥ|з<.>//.ытӥ|з<.>//.эти|з<.>//.ыти|з<.>
   gloss: PROL|P.3SG
@@ -1836,7 +1836,7 @@
  -flex: .етӥ|з<.>//.ети|з<.>
   gloss: PROL|P.3SG
   gramm: case_comp,poss_comp,prol
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя-][<>.]*$
  paradigm: Comparative
 
 -paradigm: Noun-case-compounding-j
@@ -3554,7 +3554,7 @@
  -flex: .е<.>
   gramm: 1sg
   gloss: P.1SG
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя-][<>.]*$
   paradigm: Noun-case-after-poss
  
  -flex: .ме<.>
@@ -3569,7 +3569,7 @@
  -flex: .ен|ым<.>
   gramm: ins,1sg
   gloss: INS|P.1SG
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя-][<>.]*$
   paradigm: Comparative
  -flex: .а|м<.>
   gramm: loc,1sg
@@ -3580,12 +3580,12 @@
   gloss: ILL|P.1SG
   paradigm: Comparative
  -flex: .я|м<.>
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя-][<>.]*$
   gramm: loc,1sg
   gloss: LOC|P.1SG
   paradigm: Comparative
  -flex: .я|м<.>
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя-][<>.]*$
   gramm: ill,1sg
   gloss: ILL|P.1SG
   paradigm: Comparative
@@ -3597,7 +3597,7 @@
   gramm: el,1sg,nonst
   gloss: EL|P.1SG
   paradigm: Comparative
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя-][<>.]*$
  -flex: .ысен|ым<.>//.ӥсен|ым<.>
   gramm: egr,1sg
   gloss: EGR|P.1SG
@@ -3606,7 +3606,7 @@
   gramm: egr,1sg,nonst
   gloss: EGR|P.1SG
   paradigm: Comparative
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя-][<>.]*$
  -flex: .озя|м<.>
   gramm: term,1sg
   gloss: TERM|P.1SG
@@ -3614,7 +3614,7 @@
  -flex: .ёзя|м<.>
   gramm: term,1sg
   gloss: TERM|P.1SG
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя-][<>.]*$
   paradigm: Comparative
  -flex: .этӥ|м<.>//.ытӥ|м<.>//.тӥ|м<.>//.эти|м<.>//.ыти|м<.>//.ти|м<.>
   gramm: prol,1sg
@@ -3623,7 +3623,7 @@
  -flex: .етӥ|м<.>//.ети|м<.>
   gramm: prol,1sg
   gloss: PROL|P.1SG
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя-][<>.]*$
   paradigm: Comparative
 
 -paradigm: Noun-case-poss-1,sg-korka
@@ -3649,7 +3649,7 @@
  -flex: .ед<.>
   gramm: 2sg
   gloss: P.2SG
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя-][<>.]*$
   paradigm: Noun-case-after-poss
  
  -flex: .дэ<.>
@@ -3669,7 +3669,7 @@
  -flex: .ен|ыд<.>
   gramm: ins,2sg
   gloss: INS|P.2SG
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя-][<>.]*$
   paradigm: Comparative
  -flex: .а|д<.>
   gramm: loc,2sg
@@ -3680,12 +3680,12 @@
   gloss: ILL|P.2SG
   paradigm: Comparative
  -flex: .я|д<.>
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя-][<>.]*$
   gramm: loc,2sg
   gloss: LOC|P.2SG
   paradigm: Comparative
  -flex: .я|д<.>
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя-][<>.]*$
   gramm: ill,2sg
   gloss: ILL|P.2SG
   paradigm: Comparative
@@ -3697,7 +3697,7 @@
   gramm: el,2sg,nonst
   gloss: EL|P.2SG
   paradigm: Comparative
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя-][<>.]*$
  -flex: .ысен|ыд<.>//.ӥсен|ыд<.>
   gramm: egr,2sg
   gloss: EGR|P.2SG
@@ -3706,7 +3706,7 @@
   gramm: egr,2sg,nonst
   gloss: EGR|P.2SG
   paradigm: Comparative
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя-][<>.]*$
  -flex: .озя|д<.>
   gramm: term,2sg
   gloss: TERM|P.2SG
@@ -3714,7 +3714,7 @@
  -flex: .ёзя|д<.>
   gramm: term,2sg
   gloss: TERM|P.2SG
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя-][<>.]*$
   paradigm: Comparative
  -flex: .этӥ|д<.>//.ытӥ|д<.>//.тӥ|д<.>//.эти|д<.>//.ыти|д<.>//.ти|д<.>
   gramm: prol,2sg
@@ -3723,7 +3723,7 @@
  -flex: .етӥ|д<.>//.ети|д<.>
   gramm: prol,2sg
   gloss: PROL|P.2SG
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя-][<>.]*$
   paradigm: Comparative
 
 -paradigm: Noun-case-poss-2,sg-korka
@@ -3749,7 +3749,7 @@
  -flex: .ез<.>
   gramm: 3sg
   gloss: P.3SG
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя-][<>.]*$
   paradigm: Noun-case-after-poss
  
  -flex: .зэ<.>
@@ -3769,7 +3769,7 @@
  -flex: .ен|ыз<.>
   gramm: ins,3sg
   gloss: INS|P.3SG
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя-][<>.]*$
   paradigm: Comparative
  -flex: .а|з<.>
   gramm: loc,3sg
@@ -3784,17 +3784,17 @@
   gloss: ILL|P.3SG
   paradigm: Comparative
  -flex: .я|з<.>
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя-][<>.]*$
   gramm: loc,3sg
   gloss: LOC|P.3SG
   paradigm: Comparative
  -flex: .я|з|лы<.>
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя-][<>.]*$
   gramm: loc,3sg,dat,case_comp
   gloss: LOC|P.3SG|DAT
   paradigm: Comparative
  -flex: .я|з<.>
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя-][<>.]*$
   gramm: ill,3sg
   gloss: ILL|P.3SG
   paradigm: Comparative
@@ -3806,7 +3806,7 @@
   gramm: el,3sg,nonst
   gloss: EL|P.3SG
   paradigm: Comparative
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя-][<>.]*$
  -flex: .ысен|ыз<.>//.ӥсен|ыз<.>
   gramm: egr,3sg
   gloss: EGR|P.3SG
@@ -3815,7 +3815,7 @@
   gramm: egr,3sg,nonst
   gloss: EGR|P.3SG
   paradigm: Comparative
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя-][<>.]*$
  -flex: .озя|з<.>
   gramm: term,3sg
   gloss: TERM|P.3SG
@@ -3823,7 +3823,7 @@
  -flex: .ёзя|з<.>
   gramm: term,3sg
   gloss: TERM|P.3SG
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя-][<>.]*$
   paradigm: Comparative
  -flex: .этӥ|з<.>//.ытӥ|з<.>//.тӥ|з<.>//.эти|з<.>//.ыти|з<.>//.ти|з<.>
   gramm: prol,3sg
@@ -3832,7 +3832,7 @@
  -flex: .етӥ|з<.>//.ети|з<.>
   gramm: prol,3sg
   gloss: PROL|P.3SG
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя-][<>.]*$
   paradigm: Comparative
 
 -paradigm: Noun-case-poss-3,sg-korka
@@ -3869,7 +3869,7 @@
  -flex: .ен|ым<.>
   gramm: ins,1sg
   gloss: INS|P.1SG
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя-][<>.]*$
   paradigm: Comparative
  -flex: .а|м<.>
   gramm: loc,1sg
@@ -3880,12 +3880,12 @@
   gloss: ILL|P.1SG
   paradigm: Comparative
  -flex: .я|м<.>
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя-][<>.]*$
   gramm: loc,1sg
   gloss: LOC|P.1SG
   paradigm: Comparative
  -flex: .я|м<.>
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя-][<>.]*$
   gramm: ill,1sg
   gloss: ILL|P.1SG
   paradigm: Comparative
@@ -3897,7 +3897,7 @@
   gramm: el,1sg,nonst
   gloss: EL|P.1SG
   paradigm: Comparative
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя-][<>.]*$
  -flex: .ысен|ым<.>//.ӥсен|ым<.>
   gramm: egr,1sg
   gloss: EGR|P.1SG
@@ -3906,7 +3906,7 @@
   gramm: egr,1sg,nonst
   gloss: EGR|P.1SG
   paradigm: Comparative
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя-][<>.]*$
  -flex: .озя|м<.>
   gramm: term,1sg
   gloss: TERM|P.1SG
@@ -3918,7 +3918,7 @@
  -flex: .етӥ|м<.>//.ети|м<.>
   gramm: prol,1sg
   gloss: PROL|P.1SG
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя-][<>.]*$
   paradigm: Comparative
 
 -paradigm: Noun-case-poss-pal-1,sg
@@ -3953,7 +3953,7 @@
  -flex: .ен|ыд<.>
   gramm: ins,2sg
   gloss: INS|P.2SG
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя-][<>.]*$
   paradigm: Comparative
  -flex: .а|д<.>
   gramm: loc,2sg
@@ -3964,12 +3964,12 @@
   gloss: ILL|P.2SG
   paradigm: Comparative
  -flex: .я|д<.>
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя-][<>.]*$
   gramm: loc,2sg
   gloss: LOC|P.2SG
   paradigm: Comparative
  -flex: .я|д<.>
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя-][<>.]*$
   gramm: ill,2sg
   gloss: ILL|P.2SG
   paradigm: Comparative
@@ -3981,7 +3981,7 @@
   gramm: el,2sg,nonst
   gloss: EL|P.2SG
   paradigm: Comparative
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя-][<>.]*$
  -flex: .ысен|ыд<.>//.ӥсен|ыд<.>
   gramm: egr,2sg
   gloss: EGR|P.2SG
@@ -3990,7 +3990,7 @@
   gramm: egr,2sg,nonst
   gloss: EGR|P.2SG
   paradigm: Comparative
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя-][<>.]*$
  -flex: .озя|д<.>
   gramm: term,2sg
   gloss: TERM|P.2SG
@@ -4002,7 +4002,7 @@
  -flex: .етӥ|д<.>//.ети|д<.>
   gramm: prol,2sg
   gloss: PROL|P.2SG
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя-][<>.]*$
   paradigm: Comparative
 
 -paradigm: Noun-case-poss-pal-2,sg
@@ -4037,7 +4037,7 @@
  -flex: .ен|ыз<.>
   gramm: ins,3sg
   gloss: INS|P.3SG
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя-][<>.]*$
   paradigm: Comparative
  -flex: .а|з<.>
   gramm: loc,3sg
@@ -4048,12 +4048,12 @@
   gloss: ILL|P.3SG
   paradigm: Comparative
  -flex: .я|з<.>
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя-][<>.]*$
   gramm: loc,3sg
   gloss: LOC|P.3SG
   paradigm: Comparative
  -flex: .я|з<.>
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя-][<>.]*$
   gramm: ill,3sg
   gloss: ILL|P.3SG
   paradigm: Comparative
@@ -4065,7 +4065,7 @@
   gramm: el,3sg,nonst
   gloss: EL|P.3SG
   paradigm: Comparative
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя-][<>.]*$
  -flex: .ысен|ыз<.>//.ӥсен|ыз<.>
   gramm: egr,3sg
   gloss: EGR|P.3SG
@@ -4074,7 +4074,7 @@
   gramm: egr,3sg,nonst
   gloss: EGR|P.3SG
   paradigm: Comparative
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя-][<>.]*$
  -flex: .озя|з<.>
   gramm: term,3sg
   gloss: TERM|P.3SG
@@ -4086,7 +4086,7 @@
  -flex: .етӥ|з<.>//.ети|з<.>
   gramm: prol,3sg
   gloss: PROL|P.3SG
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя-][<>.]*$
   paradigm: Comparative
 
 -paradigm: Noun-case-poss-pal-3,sg
@@ -4122,7 +4122,7 @@
  -flex: .ен|ымы<.>//.ин|ымы<.>
   gramm: ins,1pl
   gloss: INS|P.1PL
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя-][<>.]*$
   paradigm: Comparative
  -flex: .а|мы<.>
   gramm: loc,1pl
@@ -4133,12 +4133,12 @@
   gloss: ILL|P.1PL
   paradigm: Comparative
  -flex: .я|мы<.>
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя-][<>.]*$
   gramm: loc,1pl
   gloss: LOC|P.1PL
   paradigm: Comparative
  -flex: .я|мы<.>
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя-][<>.]*$
   gramm: ill,1pl
   gloss: ILL|P.1PL
   paradigm: Comparative
@@ -4150,7 +4150,7 @@
   gramm: el,1pl,nonst
   gloss: EL|P.1PL
   paradigm: Comparative
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя-][<>.]*$
  -flex: .ысен|ымы<.>//.ӥсен|ымы<.>
   gramm: egr,1pl
   gloss: EGR|P.1PL
@@ -4159,7 +4159,7 @@
   gramm: egr,1pl,nonst
   gloss: EGR|P.1PL
   paradigm: Comparative
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя-][<>.]*$
  -flex: .озя|мы<.>
   gramm: term,1pl
   gloss: TERM|P.1PL
@@ -4167,7 +4167,7 @@
  -flex: .ёзя|мы<.>
   gramm: term,1pl
   gloss: TERM|P.1PL
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя-][<>.]*$
   paradigm: Comparative
  -flex: .ытӥ|мы<.>//.тӥ|мы<.>//.ыти|мы<.>//.ти|мы<.>//.этӥ|мы<.>
   gramm: prol,1pl
@@ -4241,7 +4241,7 @@
  -flex: .ен|ыды<.>//.ин|ыды<.>
   gramm: ins,2pl
   gloss: INS|P.2PL
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя-][<>.]*$
   paradigm: Comparative
  -flex: .а|ды<.>
   gramm: loc,2pl
@@ -4252,12 +4252,12 @@
   gloss: ILL|P.2PL
   paradigm: Comparative
  -flex: .я|ды<.>
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя-][<>.]*$
   gramm: loc,2pl
   gloss: LOC|P.2PL
   paradigm: Comparative
  -flex: .я|ды<.>
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя-][<>.]*$
   gramm: ill,2pl
   gloss: ILL|P.2PL
   paradigm: Comparative
@@ -4269,7 +4269,7 @@
   gramm: el,2pl,nonst
   gloss: EL|P.2PL
   paradigm: Comparative
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя-][<>.]*$
  -flex: .ысен|ыды<.>//.ӥсен|ыды<.>
   gramm: egr,2pl
   gloss: EGR|P.2PL
@@ -4278,7 +4278,7 @@
   gramm: egr,2pl,nonst
   gloss: EGR|P.2PL
   paradigm: Comparative
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя-][<>.]*$
  -flex: .озя|ды<.>
   gramm: term,2pl
   gloss: TERM|P.2PL
@@ -4286,7 +4286,7 @@
  -flex: .ёзя|ды<.>
   gramm: term,2pl
   gloss: TERM|P.2PL
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя-][<>.]*$
   paradigm: Comparative
  -flex: .ытӥ|ды<.>//.тӥ|ды<.>//.ыти|ды<.>//.ти|ды<.>//.этӥ|ды<.>
   gramm: prol,2pl
@@ -4295,7 +4295,7 @@
  -flex: .етӥ|ды<.>
   gramm: prol,2pl
   gloss: PROL|P.2PL
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя-][<>.]*$
   paradigm: Comparative
 
 -paradigm: Noun-case-poss-2,pl-korka
@@ -4360,7 +4360,7 @@
  -flex: .ен|ызы<.>//.ин|ызы<.>
   gramm: ins,3pl
   gloss: INS|P.3PL
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя-][<>.]*$
   paradigm: Comparative
  -flex: .а|зы<.>
   gramm: loc,3pl
@@ -4371,12 +4371,12 @@
   gloss: ILL|P.3PL
   paradigm: Comparative
  -flex: .я|зы<.>
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя-][<>.]*$
   gramm: loc,3pl
   gloss: LOC|P.3PL
   paradigm: Comparative
  -flex: .я|зы<.>
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя-][<>.]*$
   gramm: ill,3pl
   gloss: ILL|P.3PL
   paradigm: Comparative
@@ -4388,7 +4388,7 @@
   gramm: el,3pl,nonst
   gloss: EL|P.3PL
   paradigm: Comparative
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя-][<>.]*$
  -flex: .ысен|ызы<.>//.ӥсен|ызы<.>
   gramm: egr,3pl
   gloss: EGR|P.3PL
@@ -4397,7 +4397,7 @@
   gramm: egr,3pl,nonst
   gloss: EGR|P.3PL
   paradigm: Comparative
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя-][<>.]*$
  -flex: .озя|зы<.>
   gramm: term,3pl
   gloss: TERM|P.3PL
@@ -4405,7 +4405,7 @@
  -flex: .ёзя|зы<.>
   gramm: term,3pl
   gloss: TERM|P.3PL
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя-][<>.]*$
   paradigm: Comparative
  -flex: .ытӥ|зы<.>//.тӥ|зы<.>//.ыти|зы<.>//.ти|зы<.>//.этӥ|зы<.>
   gramm: prol,3pl
@@ -4414,7 +4414,7 @@
  -flex: .етӥ|зы<.>
   gramm: prol,3pl
   gloss: PROL|P.3PL
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя][<>.]*$
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя-][<>.]*$
   paradigm: Comparative
 
 -paradigm: Noun-case-poss-3,pl-korka
@@ -6208,6 +6208,14 @@
   gramm: vn
   gloss: VN
   paradigm: Noun-num-consonant
+ -flex: .он|тӥ<.>
+  gramm: nmlz_place,nmlz_ti
+  gloss: VN|NMLZ.PLACE
+  paradigm: Noun-num-vowel
+ -flex: .он|ни<.>
+  gramm: nmlz_place,nmlz_ni
+  gloss: VN|NMLZ.PLACE
+  paradigm: Noun-num-vowel
  -flex: .он|ъя<.>
   gramm: cvb,dur
   gloss: VN|ADV
@@ -6227,6 +6235,16 @@
   gloss: VN
   paradigm: Noun-num-consonant
   regex-prev: ^.*[аеёиӥоӧуыэюяьъ][<>.]*$
+ -flex: <1>.ён|тӥ<.>
+  gramm: nmlz_place,nmlz_ti
+  gloss: VN|NMLZ.PLACE
+  paradigm: Noun-num-vowel
+  regex-prev: ^.*[аеёиӥоӧуыэюяьъ][<>.]*$
+ -flex: <1>.ён|ни<.>
+  gramm: nmlz_place,nmlz_ni
+  gloss: VN|NMLZ.PLACE
+  paradigm: Noun-num-vowel
+  regex-prev: ^.*[аеёиӥоӧуыэюяьъ][<>.]*$
  -flex: <1>.ён|ъя<.>
   gramm: cvb,dur
   gloss: VN|ADV
@@ -6245,6 +6263,14 @@
   gramm: vn
   gloss: VN
   paradigm: Noun-num-consonant
+ -flex: .ён|тӥ<.>
+  gramm: nmlz_place,nmlz_ti
+  gloss: VN|NMLZ.PLACE
+  paradigm: Noun-num-vowel
+ -flex: .ён|ни<.>
+  gramm: nmlz_place,nmlz_ni
+  gloss: VN|NMLZ.PLACE
+  paradigm: Noun-num-vowel
  -flex: .ён|ъя<.>
   gramm: cvb,dur
   gloss: VN|ADV
@@ -6263,6 +6289,14 @@
   gramm: vn
   gloss: VN
   paradigm: Noun-num-consonant
+ -flex: .н|тӥ<.>
+  gramm: nmlz_place,nmlz_ti
+  gloss: VN|NMLZ.PLACE
+  paradigm: Noun-num-vowel
+ -flex: .н|ни<.>
+  gramm: nmlz_place,nmlz_ni
+  gloss: VN|NMLZ.PLACE
+  paradigm: Noun-num-vowel
  -flex: .н|ъя<.>
   gramm: cvb,dur
   gloss: VN|ADV
@@ -7052,13 +7086,9 @@
  -flex: <0>.ымтэ|я|ськ<.>
   gramm: fict_neg
   gloss: PTCP.NEG|MULT|PASS
- -flex: <0>.ыт<.>//<0>.тыр<.>//<0>.ттыр<.>//<0>.эт<.>//<0>.т<.>
+ -flex: <0>.ыт<.>//<0>.тыр<.>//<0>.ттыр<.>//<0>.т<.>
   gramm: caus
   gloss: CAUS
- -flex: .ет<.>
-  gramm: caus
-  gloss: CAUS
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюяъ][<>.]*$
  paradigm: Aspect-y2-y
  paradigm: Aspect-y2-a
  paradigm: Infinitive-I
@@ -7104,13 +7134,9 @@
  -flex: <0>.ымтэ|я|ськ<.>
   gramm: fict_neg
   gloss: PTCP.NEG|MULT|PASS
- -flex: <0>.ыт<.>//<0>.тыр<.>//<0>.ттыр<.>//<0>.эт<.>//<0>.т<.>
+ -flex: <0>.ыт<.>//<0>.тыр<.>//<0>.ттыр<.>//<0>.т<.>
   gramm: caus
   gloss: CAUS
- -flex: <0>.ет<.>
-  gramm: caus
-  gloss: CAUS
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюяъ][<>.]*$
  paradigm: Aspect-y2-y
  paradigm: Aspect-y2-a
  paradigm: Infinitive-I
@@ -7129,13 +7155,9 @@
  paradigm: Verbal-noun-I
 
 -paradigm: Aspect-I-a
- -flex: <0>.ыт|ъя<.>//<0>.эт|ъя<.>//<0>.т|ъя<.>
+ -flex: <0>.ыт|ъя<.>//<0>.т|ъя<.>
   gramm: caus,mult
   gloss: CAUS|MULT
- -flex: .ет|ъя<.>
-  gramm: caus,mult
-  gloss: CAUS|MULT
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюяъ][<>.]*$
  paradigm: Aspect-a2-y
  paradigm: Aspect-a2-a
  paradigm: Infinitive-II
@@ -7153,13 +7175,9 @@
  paradigm: Verbal-noun-II
 
 -paradigm: Aspect-I-a-CC
- -flex: <0>.ыт|ъя<.>//<0>.эт|ъя<.>//<0>.т|ъя<.>
+ -flex: <0>.ыт|ъя<.>//<0>.т|ъя<.>
   gramm: caus,mult
   gloss: CAUS|MULT
- -flex: <0>.ет|ъя<.>
-  gramm: caus,mult
-  gloss: CAUS|MULT
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюяъ][<>.]*$
  paradigm: Aspect-a2-y
  paradigm: Aspect-a2-a
  paradigm: Infinitive-II
@@ -7190,7 +7208,7 @@
  -flex: .[ь]ымтэ|я|ськ<.>
   gramm: fict_neg
   gloss: PTCP.NEG|MULT|PASS
- -flex: .[ь]ыт<.>//.[ь]тыр<.>//.[ь]ттыр<.>//.ет<.>//.[ь]т<.>
+ -flex: .[ь]ыт<.>//.[ь]тыр<.>//.[ь]ттыр<.>//.[ь]т<.>
   gramm: caus
   gloss: CAUS
  paradigm: Aspect-y2-y
@@ -7211,7 +7229,7 @@
  paradigm: Verbal-noun-I
 
 -paradigm: Aspect-I-soft-a
- -flex: .[ь]ыт|ъя<.>//.ет|ъя<.>//.[ь]т|ъя<.>
+ -flex: .[ь]ыт|ъя<.>//.[ь]т|ъя<.>
   gramm: caus,mult
   gloss: CAUS|MULT
  paradigm: Aspect-a2-y
