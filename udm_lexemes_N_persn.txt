@@ -100002,3 +100002,158 @@
  stem: дамира.
  paradigm: Noun-num-vowel
  trans_ru: Дамира
+
+-lexeme
+ lex: Березник
+ gramm: N,PN,topn
+ stem: березник.
+ paradigm: Noun-num-consonant
+ trans_ru: Березники
+
+-lexeme
+ lex: Мукатнур
+ gramm: N,persn,PN
+ stem: мукатнур.
+ paradigm: Noun-num-consonant
+ trans_ru: Мукатнур
+
+-lexeme
+ lex: Буркан
+ gramm: N,persn,PN
+ stem: буркан.
+ paradigm: Noun-num-consonant
+ trans_ru: Бурхан
+
+-lexeme
+ lex: Нуриман
+ gramm: ADJ,PN,topn
+ stem: нуриман.
+ paradigm: connect_adjectives
+ trans_ru: Нуримановский
+
+-lexeme
+ lex: Краснояр
+ gramm: N,PN,topn
+ stem: краснояр.
+ paradigm: Noun-num-consonant
+ trans_ru: Краснояр
+
+-lexeme
+ lex: Шуфай
+ gramm: N,PN,persn
+ stem: шуфа.
+ paradigm: Noun-num-j
+ trans_ru: Шуфай
+
+-lexeme
+ lex: Асау
+ gramm: N,topn,PN
+ stem: асау.
+ paradigm: Noun-num-vowel
+ trans_ru: Асавка
+
+-lexeme
+ lex: Юг-Хутор
+ gramm: N,topn,PN
+ stem: юг-хутор.
+ paradigm: Noun-num-consonant
+ trans_ru: Юг-Хутор
+
+-lexeme
+ lex: Фаркулло
+ gramm: N,PN,persn
+ stem: фаркулло.
+ paradigm: Noun-num-vowel
+ trans_ru: Фаркулла
+
+-lexeme
+ lex: Маматай
+ gramm: N,topn,PN
+ stem: мамата.
+ paradigm: Noun-num-j
+ trans_ru: Маматаево
+
+-lexeme
+ lex: Мензада
+ gramm: N,persn,PN
+ stem: мензада.
+ paradigm: Noun-num-vowel
+ trans_ru: Мензада
+
+-lexeme
+ lex: Кутыр
+ gramm: N,topn,PN
+ stem: кутыр.
+ paradigm: Noun-num-consonant
+ trans_ru: Юг-Хутор
+
+-lexeme
+ lex: Шайкыттӥн
+ gramm: N,persn,PN
+ stem: шайкыттӥн.
+ paradigm: Noun-num-consonant
+ trans_ru: Шайхутдин
+
+-lexeme
+ lex: Мельттӥн
+ gramm: N,persn,PN
+ stem: мельттӥн.
+ paradigm: Noun-num-consonant
+ trans_ru: Мелетдин
+
+-lexeme
+ lex: Мельыттӥн
+ gramm: N,persn,PN
+ stem: мельыттӥн.
+ paradigm: Noun-num-consonant
+ trans_ru: Мелетдин
+
+-lexeme
+ lex: Кадӥка
+ gramm: N,persn,PN
+ stem: кадӥка.
+ paradigm: Noun-num-vowel
+ trans_ru: Кадика
+
+-lexeme
+ lex: Адрен
+ gramm: N,persn,PN
+ stem: адрен.
+ paradigm: Noun-num-consonant
+ trans_ru: Андрей
+
+-lexeme
+ lex: Андымгурт
+ gramm: N,PN,topn
+ stem: андымгурт.
+ paradigm: Noun-num-consonant
+ trans_ru: Андымгурт
+
+-lexeme
+ lex: Менӟамал
+ gramm: N,PN,persn
+ stem: менӟамал.
+ paradigm: Noun-num-consonant
+ trans_ru: Меньямал
+
+-lexeme
+ lex: Марзӥя
+ gramm: N,PN,persn
+ stem: марзӥя.
+ paradigm: Noun-num-vowel
+ trans_ru: Марзия
+
+-lexeme
+ lex: Шайсултан
+ gramm: N,PN,persn
+ stem: шайсултан.
+ paradigm: Noun-num-consonant
+ trans_ru: Шайсултан
+
+-lexeme
+ lex: Ханиф
+ gramm: N,PN,persn
+ stem: ханиф.
+ paradigm: Noun-num-consonant
+ trans_ru: Ханиф
+

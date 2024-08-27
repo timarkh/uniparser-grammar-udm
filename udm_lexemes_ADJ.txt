@@ -23360,6 +23360,12 @@
  paradigm: connect_adjectives-j
  trans_ru: недостоверный
 -lexeme
+ lex: достоверной
+ stem: достоверно.//достоверны.
+ gramm: ADJ,rus
+ paradigm: connect_adjectives-j
+ trans_ru: достоверный
+-lexeme
  lex: недосягаемой
  stem: недосягаемо.
  gramm: ADJ,rus
@@ -35039,7 +35045,7 @@
 -lexeme
  lex: миллиметровой
  gramm: ADJ,rus
- stem: миллиметрово.
+ stem: миллиметрово.//миллиметровы.
  paradigm: connect_adjectives-j
  trans_ru: миллиметровый
 
@@ -48132,3 +48138,46 @@
  gramm: ADJ
  paradigm: connect_adjectives
  trans_ru: ненужный
+
+-lexeme
+ lex: бытырык
+ gramm: ADJ
+ stem: бытырык.
+ paradigm: connect_adjectives
+ trans_ru: беспорядочный, хаотичный
+
+-lexeme
+ lex: полугородской
+ gramm: ADJ,rus
+ stem: полугородско.
+ paradigm: connect_adjectives-j
+ trans_ru: полугородской
+
+-lexeme
+ lex: ӟаукау
+ gramm: ADJ
+ stem: ӟаукау.
+ paradigm: connect_adjectives
+ trans_ru: ленивый
+
+-lexeme
+ lex: деликатесной
+ gramm: ADJ,rus
+ stem: деликатесно.//деликатесны.
+ paradigm: connect_adjectives-j
+ trans_ru: деликатесный
+
+-lexeme
+ lex: электырной
+ gramm: ADJ,rus
+ stem: электырно.//электырны.
+ paradigm: connect_adjectives-j
+ trans_ru: электрический
+
+-lexeme
+ lex: метровой
+ gramm: ADJ,rus
+ stem: метрово.//метровы.
+ paradigm: connect_adjectives-j
+ trans_ru: метровый
+

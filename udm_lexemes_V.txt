@@ -55568,3 +55568,24 @@
  paradigm: connect_verbs-I
  trans_ru: уменьшить
 
+-lexeme
+ lex: дымбырлатыны
+ gramm: V,intr,I
+ stem: дымбырлат.
+ paradigm: connect_verbs-I
+ trans_ru: грохотать
+
+-lexeme
+ lex: айбатаны
+ gramm: V,intr,II
+ stem: айбата.
+ paradigm: connect_verbs-II
+ trans_ru: улучшаться
+
+-lexeme
+ lex: чотланыны
+ gramm: V,intr,I,rus
+ stem: чотлан.
+ paradigm: connect_verbs-I
+ trans_ru: считаться
+

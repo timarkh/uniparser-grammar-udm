@@ -495,6 +495,14 @@
  trans_ru: кто угодно
 
 -lexeme
+ lex: тыласакин
+ stem: тыласакин.
+ gramm: PRO
+ paradigm: Noun-mar
+ paradigm: Noun-num-soft
+ trans_ru: кто угодно, кто попало
+
+-lexeme
  lex: олокин
  stem: олокин.
  gramm: PRO
@@ -578,6 +586,20 @@
  gramm: PRO
  paradigm: Noun-mar
  trans_ru: что-то, не знаю что
+
+-lexeme
+ lex: тыласамар
+ stem: тыласамар.
+ gramm: PRO
+ paradigm: Noun-mar
+ trans_ru: что угодно, что попало
+
+-lexeme
+ lex: тыласама
+ stem: тыласама.
+ gramm: PRO
+ paradigm: Noun-mar
+ trans_ru: что угодно, что попало
 
 -lexeme
  lex: ма

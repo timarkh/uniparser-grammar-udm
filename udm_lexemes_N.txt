@@ -141441,3 +141441,172 @@
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: расчёска
+
+-lexeme
+ lex: бензокоса
+ gramm: N,rus
+ stem: бензокоса.
+ paradigm: Noun-num-vowel
+ trans_ru: бензокоса
+
+-lexeme
+ lex: островок
+ gramm: N,rus
+ stem: островок.
+ paradigm: Noun-num-consonant
+ trans_ru: островок
+
+-lexeme
+ lex: малина
+ gramm: N,rus
+ stem: малина.//малин.
+ paradigm: Noun-num-vowel
+ trans_ru: малина
+
+-lexeme
+ lex: горох
+ gramm: N,rus
+ stem: горох.
+ paradigm: Noun-num-consonant
+ trans_ru: горох
+
+-lexeme
+ lex: баурсак
+ gramm: N
+ stem: баурсак.
+ paradigm: Noun-num-consonant
+ trans_ru: баурсак
+
+-lexeme
+ lex: кико
+ gramm: N
+ stem: кико.
+ paradigm: Noun-num-vowel
+ trans_ru: ручная мельница
+
+-lexeme
+ lex: морозилка
+ gramm: N,rus
+ stem: морозилка.
+ paradigm: Noun-num-vowel
+ trans_ru: морозилка
+
+-lexeme
+ lex: шыгон
+ gramm: N,body
+ stem: шыгон.
+ paradigm: Noun-num-consonant
+ trans_ru: желудок
+
+-lexeme
+ lex: облик
+ gramm: N,rus
+ stem: облик.
+ paradigm: Noun-num-consonant
+ trans_ru: облик
+
+-lexeme
+ lex: стиралка
+ gramm: N,rus
+ stem: стиралка.
+ paradigm: Noun-num-vowel
+ trans_ru: стиральная машина
+
+-lexeme
+ lex: сокращение
+ stem: сокращени.
+ gramm: N,rus
+ paradigm: Noun-num-ije
+ trans_ru: сокращение
+
+-lexeme
+ lex: свёкр
+ gramm: N,anim,rus,hum
+ stem: свёкр.//свёкор.
+ paradigm: Noun-num-consonant
+ trans_ru: свекор
+
+-lexeme
+ lex: фермачи
+ gramm: N,anim,rus,hum
+ stem: фермачи.
+ paradigm: Noun-num-vowel
+ trans_ru: фермер
+
+-lexeme
+ lex: жимолость
+ gramm: N,rus
+ stem: жимолост.
+ paradigm: Noun-num-soft
+ trans_ru: жимолость
+
+-lexeme
+ lex: пуалма
+ gramm: N
+ stem: пуалма.
+ paradigm: Noun-num-vowel
+ trans_ru: яблоня
+
+-lexeme
+ lex: паронка
+ gramm: N,rus
+ stem: паронка.
+ paradigm: Noun-num-vowel
+ trans_ru: парёнка
+
+-lexeme
+ lex: парёнка
+ gramm: N,rus
+ stem: парёнка.
+ paradigm: Noun-num-vowel
+ trans_ru: парёнка
+
+-lexeme
+ lex: голубинка
+ gramm: N,rus
+ stem: голубинка.
+ paradigm: Noun-num-vowel
+ trans_ru: голубинка (заготовительный пункт зерна)
+
+-lexeme
+ lex: электр
+ gramm: N,rus
+ stem: электр.
+ paradigm: Noun-num-consonant
+ trans_ru: электричество
+
+-lexeme
+ lex: тыред
+ gramm: N,time_meas
+ stem: тыред.
+ paradigm: Noun-num-consonant
+ trans_ru: промежуток времени
+
+-lexeme
+ lex: чашкалык
+ gramm: N
+ stem: чашкалык.
+ paradigm: Noun-num-consonant
+ trans_ru: роща
+
+-lexeme
+ lex: постель
+ gramm: N,rus
+ stem: постел.
+ paradigm: Noun-num-soft
+ trans_ru: постель
+
+-lexeme
+ lex: мезга
+ gramm: N,rus
+ stem: мезга.
+ paradigm: Noun-num-vowel
+ trans_ru: мезга
+
+-lexeme
+ lex: плугарь
+ gramm: N,hum,anim,rus
+ stem: плугар.
+ paradigm: Noun-num-soft
+ trans_ru: плугарь
+

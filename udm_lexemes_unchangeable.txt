@@ -6601,7 +6601,7 @@
  stem: тук-тук.
  gramm: IMIT
  paradigm: Empty
- trans_ru: отрывистому, короткому стуку тук-тук, стук-стук
+ trans_ru: тук-тук
 
 -lexeme
  lex: ӵажыр-ӵажыр
@@ -6615,7 +6615,7 @@
  stem: шыч-шач.
  gramm: IMIT
  paradigm: Empty
- trans_ru: при ударах прутьями, кнутом или свисту косы при косьбе
+ trans_ru: о звуке при ударах прутьями, кнутом или свисте косы при косьбе
 
 -lexeme
  lex: шытыр-шатыр
@@ -21673,4 +21673,46 @@
  stem: ту-тут.
  paradigm: Comparative
  trans_ru: ту-тут
+
+-lexeme
+ lex: литературно
+ gramm: ADV,rus
+ stem: литературно.
+ paradigm: connect_adverbs
+ trans_ru: литературно
+
+-lexeme
+ lex: ӟак
+ gramm: ADV
+ stem: ӟак.
+ paradigm: connect_adverbs
+ trans_ru: совсем, весь
+
+-lexeme
+ lex: аттыгында
+ gramm: ADV
+ stem: аттыгында.
+ paradigm: connect_adverbs
+ trans_ru: в конце концов
+
+-lexeme
+ lex: алда
+ gramm: ADV
+ stem: алда.
+ paradigm: connect_adverbs
+ trans_ru: хорошо
+
+-lexeme
+ lex: медтэ
+ gramm: PART
+ stem: медтэ.
+ paradigm: Comparative
+ trans_ru: пусть
+
+-lexeme
+ lex: данк
+ gramm: IMIT
+ stem: данк.
+ paradigm: Empty
+ trans_ru: о резком звуке
 
