@@ -27,6 +27,13 @@
  trans_ru: расхлябанный
 
 -lexeme
+ lex: лымшор
+ stem: лымшор.
+ gramm: ADV
+ paradigm: connect_adjectives
+ trans_ru: полуденный
+
+-lexeme
  lex: весь-весь
  stem: весь-вес.
  gramm: ADJ
@@ -4471,6 +4478,13 @@
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: союзный
+
+-lexeme
+ lex: сквозной
+ stem: сквозно.//сквозны.
+ gramm: ADJ,rus
+ paradigm: connect_adjectives-j
+ trans_ru: сквозной
 
 -lexeme
  lex: сӥтярагуби

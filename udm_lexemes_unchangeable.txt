@@ -230,6 +230,13 @@
  trans_ru: всё время, целиком, до конца
 
 -lexeme
+ lex: весяк
+ stem: весякетӥ.//весяктӥ
+ gramm: ADV,prol
+ paradigm: connect_adverbs
+ trans_ru: всё время, целиком, до конца
+
+-lexeme
  lex: луэмен
  stem: луэмен.
  gramm: POST
@@ -1002,42 +1009,42 @@
  lex: эшшо
  stem: эшшо.//ешшо.//ишшо.//ишо.
  gramm: ADV,rus
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: ещё
 
 -lexeme
  lex: эшшозэ
  stem: эшшозэ.//ешшозэ.//ишшозэ.//ишозэ.
  gramm: ADV,rus,3sg
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: ещё
 
 -lexeme
  lex: гинэ
  stem: гинэ.//гине.
  gramm: PART
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: только
 
 -lexeme
  lex: гынэ
  stem: гынэ.
  gramm: PART
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: только
 
 -lexeme
  lex: гынэк
  stem: гынэк.
  gramm: PART
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: только
 
 -lexeme
  lex: гинэк
  stem: гинэк.
  gramm: PART
- paradigm: Empty
+ paradigm: Comparative
  trans_ru: только
 
 -lexeme
@@ -1101,7 +1108,7 @@
  stem: абага.
  gramm: PART
  paradigm: Comparative
- trans_ru: хорошо, ладно; таволга, лабазник,2. папоротник
+ trans_ru: хорошо, ладно
 
 -lexeme
  lex: пожалуйста
@@ -1126,7 +1133,7 @@
 
 -lexeme
  lex: мед
- stem: мед.//мёд.
+ stem: мед.
  gramm: PART
  paradigm: Comparative
  trans_ru: да, пусть
@@ -1157,7 +1164,7 @@
  stem: али.
  gramm: PART
  paradigm: Comparative
- trans_ru: 1. -ка 2. усил. же 3. ещё и
+ trans_ru: ещё; -ка
 
 -lexeme
  lex: ась
@@ -3161,13 +3168,6 @@
  gramm: ADV
  paradigm: connect_adverbs
  trans_ru: беспрепятственно, без задержки
-
--lexeme
- lex: лымшор
- stem: лымшор.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: полдневный, полуденный полуденный
 
 -lexeme
  lex: ортчыт
@@ -5318,13 +5318,21 @@
  stem: кадь.
  gramm: PART
  paradigm: connect_adverbs
- trans_ru: как будто, похожий
+ trans_ru: вроде, как будто
 
 -lexeme
  lex: кадь
  stem: кад.
  gramm: ADJ,rel_adj
  paradigm: connect_adjectives-soft
+ trans_ru: как будто, похожий
+
+-lexeme
+ lex: кадь
+ stem: кадя.
+ gramm: ADJ,rel_adj
+ paradigm: poss-sg
+ paradigm: poss-pl
  trans_ru: как будто, похожий
 
 -lexeme
@@ -6333,6 +6341,13 @@
  lex: яке
  stem: яке.//ӟаке.
  gramm: CNJ
+ paradigm: Empty
+ trans_ru: или
+
+-lexeme
+ lex: якезэ
+ stem: якезэ.//ӟакезэ.
+ gramm: CNJ,3sg
  paradigm: Empty
  trans_ru: или
 
@@ -15277,16 +15292,9 @@
  trans_ru: неладно
 
 -lexeme
- lex: неноку
- gramm: ADV
- stem: неноку.
- paradigm: connect_adverbs
- trans_ru: никогда
-
--lexeme
- lex: неправельно
+ lex: неправильно
  gramm: ADV,rus
- stem: неправельно.
+ stem: неправильно.//неправельно.
  paradigm: connect_adverbs
  trans_ru: неправильно
 
@@ -18050,8 +18058,8 @@
 
 -lexeme
  lex: кузя
- gramm: POST
  stem: кузя.
+ gramm: POST
  paradigm: poss-sg
  paradigm: poss-pl
  paradigm: Comparative
@@ -18059,30 +18067,39 @@
 
 -lexeme
  lex: кузя
- gramm: POST,loc
  stem: кузяын.
+ gramm: POST,loc
  paradigm: Comparative
  trans_ru: по; длиной с...; вместе, совместно
 
 -lexeme
  lex: кузя
- gramm: POST,loc
  stem: кузяя.//кузяа.
+ gramm: POST,loc
  paradigm: poss-sg
  paradigm: poss-pl
  trans_ru: по; длиной с...; вместе, совместно
 
 -lexeme
  lex: кузя
- gramm: POST,el
  stem: кузяысь.//кузяись.
+ gramm: POST,el
  paradigm: Comparative
  trans_ru: по; длиной с...; вместе, совместно
 
 -lexeme
  lex: кузя
- gramm: POST,el
  stem: кузяысьты.//кузяисьты.
+ gramm: POST,el
+ paradigm: poss-sg
+ paradigm: poss-pl
+ trans_ru: по; длиной с...; вместе, совместно
+
+-lexeme
+ lex: кузя
+ stem: кузяетӥ.//кузятӥ.
+ gramm: POST,prol
+ paradigm: Comparative
  paradigm: poss-sg
  paradigm: poss-pl
  trans_ru: по; длиной с...; вместе, совместно
@@ -21716,3 +21733,9 @@
  paradigm: Empty
  trans_ru: о резком звуке
 
+-lexeme
+ lex: тяжело
+ stem: тяжело.
+ gramm: PREDIC,rus
+ paradigm: connect_adverbs
+ trans_ru: тяжело

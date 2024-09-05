@@ -5526,6 +5526,7 @@
  stem: бигер.
  gramm: N,anim,hum
  paradigm: Noun-num-consonant
+ paradigm: Adjectives_Pl
  trans_ru: татарин
 
 -lexeme
@@ -5533,6 +5534,7 @@
  stem: бидер.
  gramm: N,anim,hum
  paradigm: Noun-num-consonant
+ paradigm: Adjectives_Pl
  trans_ru: татарин
 
 -lexeme
@@ -66706,6 +66708,13 @@
  trans_ru: небольшой кубик с тамгой, используемый при жеребьевке во время распределения земли
 
 -lexeme
+ lex: абага
+ stem: абага.
+ gramm: N
+ paradigm: Noun-num-vowel
+ trans_ru: таволга, лабазник; папоротник
+
+-lexeme
  lex: шабала
  stem: шабала.
  gramm: N
@@ -73355,6 +73364,7 @@
  stem: ӟуч.
  gramm: N
  paradigm: Noun-num-consonant
+ paradigm: Adjectives_Pl
  trans_ru: русский
 
 -lexeme
@@ -97374,12 +97384,14 @@
  stem: биер.
  gramm: N,anim,hum,missp
  paradigm: Noun-num-consonant
+ paradigm: Adjectives_Pl
  trans_ru: татарин
 -lexeme
  lex: бигерудмурт
  stem: бигерудмурт.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
+ paradigm: Adjectives_Pl
  trans_ru: татароудмурт
 -lexeme
  lex: билингв
@@ -99732,12 +99744,14 @@
  stem: удмут.
  gramm: N,missp,anim,hum
  paradigm: Noun-num-consonant
+ paradigm: Adjectives_Pl
  trans_ru: удмурт
 -lexeme
  lex: удмурт
  stem: удурт.
  gramm: N,missp,anim,hum
  paradigm: Noun-num-consonant
+ paradigm: Adjectives_Pl
  trans_ru: удмурт
 -lexeme
  lex: узьдымак
@@ -101153,6 +101167,13 @@
  stem: антитеза.
  paradigm: Noun-num-vowel
  trans_ru: антитеза
+
+-lexeme
+ lex: теза
+ gramm: N,rus
+ stem: теза.
+ paradigm: Noun-num-vowel
+ trans_ru: теза
 
 -lexeme
  lex: апартамент

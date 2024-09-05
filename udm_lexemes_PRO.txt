@@ -634,7 +634,14 @@
  stem: кӧняе.
  gramm: ADVPRO,ill
  paradigm: connect_adverbs_px
- trans_ru: почём
+ trans_ru: во сколько
+
+-lexeme
+ lex: кӧняын
+ stem: кӧняын.
+ gramm: ADVPRO,loc
+ paradigm: connect_adverbs_px
+ trans_ru: во сколько
 
 -lexeme
  lex: котькӧня

@@ -1717,9 +1717,21 @@
   regex-prev: ^.*[^<>.ы][<>.]*$
   gramm: case_comp,el
   gloss: EL
- -flex: .ысен<.>//.исен<.>
+ -flex: .ысен<.>
   regex-prev: ^.*[^<>.ы][<>.]*$
   gramm: case_comp,egr
+  gloss: EGR
+ -flex: .ӥсен<.>
+  gramm: case_comp,egr,dial
+  gloss: EGR
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя-][<>.]*$
+ -flex: .исен<.>
+  gramm: case_comp,egr,dial
+  gloss: EGR
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюя-][<>.]*$
+ -flex: .сен<.>
+  regex-prev: ^.*и[<>.]*$
+  gramm: case_comp,egr,dial
   gloss: EGR
  -flex: .озь<.>
   gramm: case_comp,term

@@ -28110,6 +28110,12 @@
  paradigm: Comparative
  trans_ru: запоминать
 -lexeme
+ lex: запоминаться
+ stem: запоминаться.
+ gramm: V,rus,rus_inf,rus_ipfv,refl
+ paradigm: Comparative
+ trans_ru: запоминаться
+-lexeme
  lex: запомнить
  stem: запомнить.
  gramm: V,rus,rus_inf,rus_pfv
@@ -28823,6 +28829,12 @@
  gramm: V,rus,rus_inf,rus_ipfv
  paradigm: Comparative
  trans_ru: менять
+-lexeme
+ lex: заменять
+ stem: заменять.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: заменять
 -lexeme
  lex: позволять
  stem: позволять.

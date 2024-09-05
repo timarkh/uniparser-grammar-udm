@@ -109,6 +109,10 @@ REMOVE (V imp) IF (0 (V prs 3 sg))
                   (0C ("потыны"i) OR ("кельшыны"i))
                   (*-1C (N dat) OR (PRO dat) BARRIER BOSPunct OR VPred);
 
+# ptcp vs. el
+REMOVE (N el pl_comp) IF (0 (".*[иӥ]сьёс.*"r))
+                         (0 (V ptcp act));
+
 
 SECTION    # Nouns
 # Illative vs. 1sg
