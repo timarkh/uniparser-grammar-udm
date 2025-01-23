@@ -4789,11 +4789,34 @@
  trans_ru: редко
 
 -lexeme
- lex: азьланьын
+ lex: азьлань
  stem: азьланьын.
  gramm: ADV,loc
  paradigm: connect_adverbs
  trans_ru: впереди
+
+-lexeme
+ lex: азьлань
+ stem: азьлане.
+ gramm: ADV,ill
+ paradigm: connect_adverbs
+ trans_ru: вперёд
+
+-lexeme
+ lex: азьлань
+ stem: азьланя.
+ gramm: ADV,loc
+ paradigm: poss-sg
+ paradigm: poss-pl
+ trans_ru: впереди
+
+-lexeme
+ lex: азьлань
+ stem: азьланя.
+ gramm: ADV,ill
+ paradigm: poss-sg
+ paradigm: poss-pl
+ trans_ru: вперёд
 
 -lexeme
  lex: ныгыт
@@ -5055,7 +5078,7 @@
  trans_ru: впользу, впрок
 
 -lexeme
- lex: улланьын
+ lex: уллань
  stem: улланьын.
  gramm: ADV
  paradigm: connect_adverbs
@@ -9547,9 +9570,17 @@
 
 -lexeme
  lex: кудлань
- stem: кудлан.
+ stem: кудлань.
  gramm: ADV,app
  paradigm: connect_adverbs
+ trans_ru: в какую сторону
+
+-lexeme
+ lex: кудлань
+ stem: кудланя.
+ gramm: ADV,app
+ paradigm: poss-sg
+ paradigm: poss-pl
  trans_ru: в какую сторону
 
 -lexeme
@@ -9932,7 +9963,7 @@
 
 -lexeme
  lex: оглань
- stem: оглан.
+ stem: оглань.
  gramm: ADV,app
  paradigm: connect_adverbs
  trans_ru: в одну сторону, в одном направлении, односторонне
@@ -15887,10 +15918,42 @@
  trans_ru: наружу, во двор, на улицу
 
 -lexeme
- lex: педланьтӥз
- gramm: ADV
- stem: педланьтӥз.
+ lex: педлань
+ gramm: ADV,ill
+ stem: педлане.
  paradigm: connect_adverbs
+ trans_ru: наружу, во двор, на улицу
+
+-lexeme
+ lex: педлань
+ gramm: ADV,loc
+ stem: педланьын.
+ paradigm: connect_adverbs
+ trans_ru: снаружи, во дворе, на улице
+
+-lexeme
+ lex: педлань
+ gramm: ADV,ill
+ stem: педланя.
+ paradigm: poss-sg
+ paradigm: poss-pl
+ trans_ru: наружу, во двор, на улицу
+
+-lexeme
+ lex: педлань
+ gramm: ADV,loc
+ stem: педланя.
+ paradigm: poss-sg
+ paradigm: poss-pl
+ trans_ru: снаружи, во дворе, на улице
+
+-lexeme
+ lex: педланьтӥ
+ gramm: ADV,prol
+ stem: педланьтӥ.
+ paradigm: Comparative
+ paradigm: poss-sg
+ paradigm: poss-pl
  trans_ru: снаружи, с наружней стороны
 
 -lexeme
@@ -18266,9 +18329,9 @@
  trans_ru: гм
 
 -lexeme
- lex: м-мм
+ lex: м-м-м
  gramm: INTRJ
- stem: м-мм.
+ stem: м-м-м.//м-мм.//м-м-м-м.
  paradigm: Comparative
  trans_ru: м-м-м
 
@@ -21739,3 +21802,123 @@
  gramm: PREDIC,rus
  paradigm: connect_adverbs
  trans_ru: тяжело
+
+-lexeme
+ lex: шикарно
+ gramm: ADV,rus
+ stem: шикарно.
+ paradigm: connect_adverbs
+ trans_ru: шикарно
+
+-lexeme
+ lex: чиста
+ gramm: ADV,rus
+ stem: чиста.
+ paradigm: connect_adverbs
+ trans_ru: чисто
+
+-lexeme
+ lex: поневоле
+ gramm: ADV,rus
+ stem: поневоле.
+ paradigm: connect_adverbs
+ trans_ru: поневоле
+
+-lexeme
+ lex: дружно
+ gramm: ADV,rus
+ stem: дружно.
+ paradigm: connect_adverbs
+ trans_ru: дружно
+
+-lexeme
+ lex: близко
+ gramm: ADV,rus
+ stem: близко.
+ paradigm: connect_adverbs
+ trans_ru: близко
+
+-lexeme
+ lex: неудобно
+ gramm: PREDIC,rus
+ stem: неудобно.
+ paradigm: connect_adverbs
+ trans_ru: неудобно
+
+-lexeme
+ lex: неудобно
+ gramm: ADV,rus
+ stem: неудобно.
+ paradigm: connect_adverbs
+ trans_ru: неудобно
+
+-lexeme
+ lex: тяжело
+ gramm: ADV,rus
+ stem: тяжело.
+ paradigm: connect_adverbs
+ trans_ru: тяжело
+
+-lexeme
+ lex: страшно
+ gramm: PREDIC,rus
+ stem: страшно.
+ paradigm: connect_adverbs
+ trans_ru: страшно
+
+-lexeme
+ lex: страшно
+ gramm: ADV,rus
+ stem: страшно.
+ paradigm: connect_adverbs
+ trans_ru: страшно
+
+-lexeme
+ lex: вначале
+ gramm: ADV,rus
+ stem: вначале.
+ paradigm: connect_adverbs
+ trans_ru: вначале
+
+-lexeme
+ lex: подробно
+ gramm: ADV,rus
+ stem: подробно.
+ paradigm: connect_adverbs
+ trans_ru: подробно
+
+-lexeme
+ lex: сначала
+ gramm: ADV,rus
+ stem: сначала.
+ paradigm: connect_adverbs
+ trans_ru: сначала
+
+-lexeme
+ lex: прекрасно
+ gramm: ADV,rus
+ stem: прекрасно.
+ paradigm: connect_adverbs
+ trans_ru: прекрасно
+
+-lexeme
+ lex: неправильно
+ gramm: PREDIC,rus
+ stem: неправильно.
+ paradigm: connect_adverbs
+ trans_ru: неправильно
+
+-lexeme
+ lex: неправильно
+ gramm: ADV,rus
+ stem: неправильно.
+ paradigm: connect_adverbs
+ trans_ru: неправильно
+
+-lexeme
+ lex: параллельно
+ gramm: ADV,rus
+ stem: параллельно.
+ paradigm: connect_adverbs
+ trans_ru: параллельно
+

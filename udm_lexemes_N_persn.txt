@@ -100157,3 +100157,122 @@
  paradigm: Noun-num-consonant
  trans_ru: Ханиф
 
+-lexeme
+ lex: Герман
+ gramm: N,persn,PN
+ stem: герман.
+ paradigm: Noun-num-consonant
+ trans_ru: Герман
+
+-lexeme
+ lex: Росбанк
+ gramm: N,PN
+ stem: росбанк.
+ paradigm: Noun-num-consonant
+ trans_ru: Росбанк
+
+-lexeme
+ lex: Старобалтач
+ gramm: N,topn,PN
+ stem: старобалтач.
+ paradigm: Noun-num-consonant
+ trans_ru: Старобалтачево
+
+-lexeme
+ lex: Гарейка
+ gramm: N,PN,topn
+ stem: гарейка.
+ paradigm: Noun-num-vowel
+ trans_ru: Гарейка
+
+-lexeme
+ lex: Тимураевна
+ gramm: N,PN,patrn
+ stem: тимураевна.
+ paradigm: Noun-num-vowel
+ trans_ru: Тимураевна
+
+-lexeme
+ lex: Фатиховна
+ gramm: N,PN,patrn
+ stem: фатиховна.
+ paradigm: Noun-num-vowel
+ trans_ru: Фатиховна
+
+-lexeme
+ lex: Юртаевна
+ gramm: N,PN,patrn
+ stem: юртаевна.
+ paradigm: Noun-num-vowel
+ trans_ru: Юртаевна
+
+-lexeme
+ lex: Чеевна
+ gramm: N,PN,patrn
+ stem: чеевна.
+ paradigm: Noun-num-vowel
+ trans_ru: Чеевна
+
+-lexeme
+ lex: Свияга
+ gramm: N,topn,PN
+ stem: свияга.
+ paradigm: Noun-num-vowel
+ trans_ru: Свияга
+
+-lexeme
+ lex: Кайпан
+ gramm: N,PN,topn
+ stem: кайпан.
+ paradigm: Noun-num-consonant
+ trans_ru: Кайпаново
+
+-lexeme
+ lex: Аладин
+ gramm: N,persn,PN
+ stem: аладин.
+ paradigm: Noun-num-consonant
+ trans_ru: Аладин
+
+-lexeme
+ lex: Тушкыр
+ gramm: N,PN,topn
+ stem: тушкыр.
+ paradigm: Noun-num-consonant
+ trans_ru: Тушкыр
+
+-lexeme
+ lex: Моска
+ gramm: N,persn,PN
+ stem: моска.
+ paradigm: Noun-num-vowel
+ trans_ru: Моска
+
+-lexeme
+ lex: Нурка
+ gramm: N,PN,topn
+ stem: нурка.
+ paradigm: Noun-num-vowel
+ trans_ru: Нурка
+
+-lexeme
+ lex: Норкино
+ gramm: N,PN,topn
+ stem: норкино.
+ paradigm: Noun-num-vowel
+ trans_ru: Норкино
+
+-lexeme
+ lex: Гагрин
+ gramm: N,persn,PN
+ stem: гагрин.
+ paradigm: Noun-num-consonant
+ trans_ru: Гагрин
+
+-lexeme
+ lex: Бермуш
+ gramm: N,PN,topn
+ stem: бермуш.
+ paradigm: Noun-num-consonant
+ trans_ru: Бермуш
+

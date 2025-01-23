@@ -83654,7 +83654,7 @@
  trans_ru: свет
 -lexeme
  lex: свеча
- stem: свеча.
+ stem: свеча.//веча.
  gramm: N,rus
  paradigm: Noun-num-vowel
  trans_ru: свеча
@@ -117677,6 +117677,20 @@
  trans_ru: порядка тридцати
 
 -lexeme
+ lex: ньыльдоно
+ gramm: NUM
+ stem: ньыльдоно.
+ paradigm: Comparative
+ trans_ru: порядка сорока
+
+-lexeme
+ lex: витьтоно
+ gramm: NUM
+ stem: витьтоно.
+ paradigm: Comparative
+ trans_ru: порядка пятидесяти
+
+-lexeme
  lex: миллионмос
  gramm: NUM,rus
  stem: миллионмос.
@@ -139198,6 +139212,7 @@
  stem: бобыл.
  gramm: N,anim,hum,rus
  paradigm: Noun-num-soft
+ paradigm: Noun-num-consonant
  trans_ru: бобыль
 
 -lexeme
@@ -141630,4 +141645,88 @@
  stem: плугар.
  paradigm: Noun-num-soft
  trans_ru: плугарь
+
+-lexeme
+ lex: мусульманство
+ gramm: N,rus
+ stem: мусульманство.
+ paradigm: Noun-num-vowel
+ trans_ru: мусульманство
+
+-lexeme
+ lex: огород
+ gramm: N,rus
+ stem: огород.
+ paradigm: Noun-num-consonant
+ trans_ru: огород
+
+-lexeme
+ lex: штакетник
+ gramm: N,rus
+ stem: штакетник.
+ paradigm: Noun-num-consonant
+ trans_ru: штакетник
+
+-lexeme
+ lex: виётака
+ gramm: N,anim
+ stem: виётака.
+ paradigm: Noun-num-vowel
+ trans_ru: улитка
+
+-lexeme
+ lex: отпуска
+ gramm: N,rus
+ stem: отпуска.
+ paradigm: Noun-num-vowel
+ trans_ru: отпуск
+
+-lexeme
+ lex: манжетка
+ gramm: N,rus
+ stem: манжетка.
+ paradigm: Noun-num-vowel
+ trans_ru: манжетка
+
+-lexeme
+ lex: дворик
+ gramm: N,rus
+ stem: дворик.
+ paradigm: Noun-num-consonant
+ trans_ru: дворик
+
+-lexeme
+ lex: мельница
+ gramm: N,rus
+ stem: мельница.
+ paradigm: Noun-num-vowel
+ trans_ru: мельница
+
+-lexeme
+ lex: опара
+ gramm: N,rus
+ stem: опара.
+ paradigm: Noun-num-vowel
+ trans_ru: опара
+
+-lexeme
+ lex: юболык
+ gramm: N
+ stem: юболык.
+ paradigm: Noun-num-consonant
+ trans_ru: колышек
+
+-lexeme
+ lex: ученица
+ gramm: N,rus,hum,anim
+ stem: ученица.//учениц.
+ paradigm: Noun-num-vowel
+ trans_ru: ученица
+
+-lexeme
+ lex: динозаврик
+ gramm: N,anim,rus
+ stem: динозаврик.
+ paradigm: Noun-num-consonant
+ trans_ru: динозаврик
 

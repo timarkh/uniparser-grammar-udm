@@ -376,6 +376,13 @@
  trans_ru: никакой
 
 -lexeme
+ lex: олокыӵе
+ stem: олокыӵе.//оллокыӵе.
+ gramm: ADJPRO
+ paradigm: connect_adjectives
+ trans_ru: не знаю какой
+
+-lexeme
  lex: огкыӵе
  stem: огкыӵе.
  gramm: ADJPRO
@@ -504,7 +511,7 @@
 
 -lexeme
  lex: олокин
- stem: олокин.
+ stem: олокин.//оллокин.
  gramm: PRO
  paradigm: Noun-mar
  paradigm: Noun-num-soft
@@ -582,7 +589,7 @@
 
 -lexeme
  lex: оломар
- stem: оломар.
+ stem: оломар.//олломар.
  gramm: PRO
  paradigm: Noun-mar
  trans_ru: что-то, не знаю что
@@ -610,7 +617,7 @@
 
 -lexeme
  lex: олома
- stem: олома.
+ stem: олома.//оллома.
  gramm: PRO
  paradigm: Noun-mar
  trans_ru: что-то, не знаю что
@@ -652,7 +659,7 @@
 
 -lexeme
  lex: олокӧня
- stem: олокӧня.
+ stem: олокӧня.//оллокӧня.
  gramm: ADVPRO
  paradigm: connect_adverbs_px
  trans_ru: не знаю сколько
@@ -729,7 +736,7 @@
 
 -lexeme
  lex: олоку
- stem: олоку.
+ stem: олоку.//оллоку.
  gramm: ADVPRO
  paradigm: connect_adverbs_px
  trans_ru: не знаю когда
@@ -764,7 +771,7 @@
 
 -lexeme
  lex: олокуд
- stem: олокуд.
+ stem: олокуд.//оллокуд.
  gramm: ADJPRO
  paradigm: Noun-mar
  trans_ru: не знаю который
@@ -834,7 +841,7 @@
 
 -lexeme
  lex: олокызьы
- stem: олокызьы.
+ stem: олокызьы.//оллокызьы.
  gramm: ADVPRO
  paradigm: connect_adverbs_px
  trans_ru: как-то
@@ -972,11 +979,19 @@
 
 -lexeme
  lex: олокытчы
- stem: олокытчы.//олокытцы.//олокытсы.
+ stem: олокытчы.//олокытцы.//олокытсы.//оллокытчы.//оллокытцы.//оллокытсы.
  gramm: ADVPRO,ill
  paradigm: Noun-case-compounding-core
  paradigm: Noun-case-compounding-kytchy
  trans_ru: куда-то
+
+-lexeme
+ lex: тыласакытчы
+ stem: тыласакытчы.//тыласакытцы.//тыласакытсы.
+ gramm: ADVPRO,ill
+ paradigm: Noun-case-compounding-core
+ paradigm: Noun-case-compounding-kytchy
+ trans_ru: всюду, куда угодно
 
 -lexeme
  lex: огкытчы
@@ -1035,11 +1050,19 @@
 
 -lexeme
  lex: олокытын
- stem: олокытын.//олокытчын.
+ stem: олокытын.//олокытчын.//оллокытын.//оллокытчын.
  gramm: ADVPRO,loc
  paradigm: Comparative
  paradigm: Noun-case-compounding-kytchy
  trans_ru: где-то, не знаю где
+
+-lexeme
+ lex: тыласакытын
+ stem: тыласакытын.//тыласакытчын.
+ gramm: ADVPRO,loc
+ paradigm: Comparative
+ paradigm: Noun-case-compounding-kytchy
+ trans_ru: всюду, где угодно
 
 -lexeme
  lex: огкытын
@@ -1102,10 +1125,17 @@
 
 -lexeme
  lex: олокытысь
- stem: олокытысь.//олокытӥсь.//олокытись.
+ stem: олокытысь.//олокытӥсь.//олокытись.//оллокытысь.//оллокытӥсь.//оллокытись.
  gramm: ADVPRO,el
  paradigm: Comparative
  trans_ru: откуда-то, не знаю откуда
+
+-lexeme
+ lex: тыласакытысь
+ stem: тыласакытысь.//тыласакытӥсь.//тыласакытись.
+ gramm: ADVPRO,el
+ paradigm: Comparative
+ trans_ru: отовсюду, откуда угодно
 
 -lexeme
  lex: котькытысь
@@ -1165,7 +1195,7 @@
 
 -lexeme
  lex: олокытысен
- stem: олокытысен.//олокытӥсен.
+ stem: олокытысен.//олокытӥсен.//оллокытысен.//оллокытӥсен.
  gramm: ADVPRO,egr
  paradigm: Comparative
  trans_ru: откуда-то, не знаю откуда
@@ -1228,7 +1258,7 @@
 
 -lexeme
  lex: олокытчыозь
- stem: олокытчыозь.//олокытчиёзь.
+ stem: олокытчыозь.//олокытчиёзь.//оллокытчыозь.//оллокытчиёзь.
  gramm: ADVPRO,term
  paradigm: Comparative
  trans_ru: докуда-то, не знаю докуда
@@ -1303,7 +1333,7 @@
 
 -lexeme
  lex: олокытӥ
- stem: олокытӥ.//олокыти.
+ stem: олокытӥ.//олокыти.//оллокытӥ.//оллокыти.
  gramm: ADVPRO
  paradigm: Noun-num-vowel
  paradigm: Noun-num-vowel-y
@@ -1558,6 +1588,13 @@
  stem: асме.//асьме.//ащме.//ачиме.
  gramm: PRO,1pl
  paradigm: Noun-case
+ trans_ru: сам, свой
+
+-lexeme
+ lex: ас
+ stem: асме.//асьме.//ащме.//ачиме.
+ gramm: PRO,1pl,acc
+ paradigm: Comparative
  trans_ru: сам, свой
 
 -lexeme
@@ -1841,6 +1878,12 @@
  paradigm: connect_adjectives
  trans_ru: какой величины, какого размера
 
+-lexeme
+ lex: оломабыдӟа
+ gramm: ADJPRO
+ stem: оломабыдӟа.
+ paradigm: connect_adjectives
+ trans_ru: огромный, большой
 
 -lexeme
  lex: некыӵе
