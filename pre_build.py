@@ -10,6 +10,8 @@ rxFlexVariants = re.compile('[^ /]+')
 rxYer = re.compile('ъ')
 rxYo = re.compile('ё')
 rxIVowel = re.compile('и(?=[аеёиӥоӧуыэюя])')
+rxEYe = re.compile('(?<=[бвгжӟӝйкмпрфхцчӵшщ])е')
+rxYerYerj = re.compile('(?<=[бвгжӟӝйкмпрфхцчӵшщ])ъ(?=[яеёюи])')
 dictDiacritics = {
     'ӥ': 'и',
     'ӧ': 'о',
@@ -82,10 +84,26 @@ def add_oldorth(morph):
     """
     morph = morph.group(0)
     alternatives = {morph}
+    alternatives.add(rxEYe.sub("э", rxYer.sub("'", rxYerYerj.sub('ь', morph))))
+    alternatives.add(rxEYe.sub("э", rxYer.sub("'", rxYerYerj.sub('ь', morph))))
+    alternatives.add(rxEYe.sub("э", rxYer.sub("’", rxYerYerj.sub('ь', morph))))
+    alternatives.add(rxEYe.sub("э", rxYer.sub("'", morph)))
+    alternatives.add(rxEYe.sub("э", rxYer.sub("'", morph)))
+    alternatives.add(rxEYe.sub("э", rxYer.sub("’", morph)))
+    alternatives.add(rxEYe.sub("э", rxYerYerj.sub('ь', morph)))
+    alternatives.add(rxEYe.sub("э", morph))
+    alternatives.add(rxYer.sub("'", rxYerYerj.sub('ь', morph)))
+    alternatives.add(rxYer.sub("‘", rxYerYerj.sub('ь', morph)))
+    alternatives.add(rxYer.sub("’", rxYerYerj.sub('ь', morph)))
     alternatives.add(rxYer.sub("'", morph))
     alternatives.add(rxYer.sub("‘", morph))
+    alternatives.add(rxYer.sub("’", morph))
     alternatives.add(rxYo.sub('е', rxYer.sub("'", morph)))
     alternatives.add(rxYo.sub('е', rxYer.sub("‘", morph)))
+    alternatives.add(rxYo.sub('е', rxYer.sub("’", morph)))
+    alternatives.add(rxYo.sub('е', rxYer.sub("'", rxYerYerj.sub('ь', morph))))
+    alternatives.add(rxYo.sub('е', rxYer.sub("‘", rxYerYerj.sub('ь', morph))))
+    alternatives.add(rxYo.sub('е', rxYer.sub("’", rxYerYerj.sub('ь', morph))))
     alternatives.add(rxIVowel.sub("і", morph))
     alternatives.add(rxIVowel.sub("i", morph))
     alternatives.add(rxYo.sub('е', rxIVowel.sub("і", morph)))
@@ -175,3 +193,7 @@ def parse_wordlists():
 if __name__ == '__main__':
     prepare_files()
     parse_wordlists()
+    # from uniparser_udmurt import UdmurtAnalyzer
+    # a = UdmurtAnalyzer(mode='oldorth')
+    # for wf in a.analyze_words(['шэр', 'пинал’ёс', 'пинал’ес'], format='json'):
+    #     print(wf)
