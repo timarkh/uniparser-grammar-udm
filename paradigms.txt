@@ -5783,7 +5783,7 @@
  -flex: <1>.ем<.>
   gramm: ptcp,pst
   gloss: PTCP.PST
-  regex-stem: ^.*[аеёиӥоӧуыэюяъь][<>.]*$
+  regex-stem: ^.*[аеёиӥоӧуыэюяъь'‘][<>.]*$
   paradigm: Noun-num-consonant-ptcp
  -flex: <1>.ем|ъя<.>
   gramm: cvb,dur
@@ -5793,12 +5793,12 @@
  -flex: <1>.ёно<.>
   gramm: deb
   gloss: DEB
-  regex-stem: ^.*[аеёиӥоӧуыэюяъь][<>.]*$
+  regex-stem: ^.*[аеёиӥоӧуыэюяъь'‘][<>.]*$
   paradigm: connect_adjectives
  -flex: <1>.емын<.>
   gramm: ptcp,res
   gloss: RES
-  regex-stem: ^.*[аеёиӥоӧуыэюяъь][<>.]*$
+  regex-stem: ^.*[аеёиӥоӧуыэюяъь'‘][<>.]*$
   paradigm: Noun-num-consonant-ptcp
   paradigm: Adjectives_Pl
 
@@ -5992,13 +5992,13 @@
  -flex: .ъёс<.>
   gramm: pl
   gloss: PL
-  regex-prev: ^.*[^аеёиӥоӧуыэюяйьъ.<>][.<>]*$
+  regex-prev: ^.*[^аеёиӥоӧуыэюяйьъ'‘.<>][.<>]*$
   paradigm: Noun-case-poss-y-3,sg
   paradigm: Comparative
  -flex: .ёс<.>
   gramm: pl
   gloss: PL
-  regex-prev: ^.*[йьъ][.<>]*$
+  regex-prev: ^.*[йьъ'‘][.<>]*$
   paradigm: Noun-case-poss-y-3,sg
   paradigm: Comparative
  -flex: .ъёс<.>//.ёс<.>
@@ -6246,17 +6246,17 @@
   gramm: vn
   gloss: VN
   paradigm: Noun-num-consonant
-  regex-prev: ^.*[аеёиӥоӧуыэюяьъ][<>.]*$
+  regex-prev: ^.*[аеёиӥоӧуыэюяьъ'‘][<>.]*$
  -flex: <1>.ён|тӥ<.>
   gramm: nmlz_place,nmlz_ti
   gloss: VN|NMLZ.PLACE
   paradigm: Noun-num-vowel
-  regex-prev: ^.*[аеёиӥоӧуыэюяьъ][<>.]*$
+  regex-prev: ^.*[аеёиӥоӧуыэюяьъ'‘][<>.]*$
  -flex: <1>.ён|ни<.>
   gramm: nmlz_place,nmlz_ni
   gloss: VN|NMLZ.PLACE
   paradigm: Noun-num-vowel
-  regex-prev: ^.*[аеёиӥоӧуыэюяьъ][<>.]*$
+  regex-prev: ^.*[аеёиӥоӧуыэюяьъ'‘][<>.]*$
  -flex: <1>.ён|ъя<.>
   gramm: cvb,dur
   gloss: VN|ADV
@@ -6384,30 +6384,30 @@
  -flex: <1>.е<.>
   gramm: 3,sg,prs
   gloss: PRS.3SG
-  regex-stem: ^.*[аеёиӥоӧуыэюяьъ][<>.]*$
+  regex-stem: ^.*[аеёиӥоӧуыэюяьъ'‘][<>.]*$
  -flex: <1>.ё<.>
   gramm: 3,pl,prs
   gloss: PRS.3PL
-  regex-stem: ^.*[аеёиӥоӧуыэюяьъ][<>.]*$
+  regex-stem: ^.*[аеёиӥоӧуыэюяьъ'‘][<>.]*$
  paradigm: Comparative
 
 -paradigm: Verb-pres-I-positive-i
  -flex: <1>.исько<.>
   gramm: 1,sg,prs
   gloss: PRS.12
-  regex-stem: ^.*[аеёиӥоӧуыэюяьъ][<>.]*$
+  regex-stem: ^.*[аеёиӥоӧуыэюяьъ'‘][<>.]*$
  -flex: <1>.исько|д<.>
   gramm: 2,sg,prs
   gloss: PRS.12|2SG
-  regex-stem: ^.*[аеёиӥоӧуыэюяьъ][<>.]*$
+  regex-stem: ^.*[аеёиӥоӧуыэюяьъ'‘][<>.]*$
  -flex: <1>.исько|м<.>//<1>.исько|мы<.>
   gramm: 1,pl,prs
   gloss: PRS.12|1PL
-  regex-stem: ^.*[аеёиӥоӧуыэюяьъ][<>.]*$
+  regex-stem: ^.*[аеёиӥоӧуыэюяьъ'‘][<>.]*$
  -flex: <1>.исько|ды<.>
   gramm: 2,pl,prs
   gloss: PRS.12|2PL
-  regex-stem: ^.*[аеёиӥоӧуыэюяьъ][<>.]*$
+  regex-stem: ^.*[аеёиӥоӧуыэюяьъ'‘][<>.]*$
  paradigm: Comparative
 
 -paradigm: Verb-pres-I-positive-CC
@@ -6496,27 +6496,27 @@
  -flex: <1>.и<.>
   gramm: 1,sg,pst
   gloss: PST|1SG
-  regex-stem: ^.*[аеёиӥоӧуыэюяьъ][<>.]*$
+  regex-stem: ^.*[аеёиӥоӧуыэюяьъ'‘][<>.]*$
  -flex: <1>.и|д<.>
   gramm: 2,sg,pst
   gloss: PST|2SG
-  regex-stem: ^.*[аеёиӥоӧуыэюяьъ][<>.]*$
+  regex-stem: ^.*[аеёиӥоӧуыэюяьъ'‘][<>.]*$
  -flex: <1>.и|з<.>
   gramm: 3,sg,pst
   gloss: PST|3SG
-  regex-stem: ^.*[аеёиӥоӧуыэюяьъ][<>.]*$
+  regex-stem: ^.*[аеёиӥоӧуыэюяьъ'‘][<>.]*$
  -flex: <1>.и|м<.>//<1>.и|мы<.>
   gramm: 1,pl,pst
   gloss: PST|1PL
-  regex-stem: ^.*[аеёиӥоӧуыэюяьъ][<>.]*$
+  regex-stem: ^.*[аеёиӥоӧуыэюяьъ'‘][<>.]*$
  -flex: <1>.и|ды<.>
   gramm: 2,pl,pst
   gloss: PST|2PL
-  regex-stem: ^.*[аеёиӥоӧуыэюяьъ][<>.]*$
+  regex-stem: ^.*[аеёиӥоӧуыэюяьъ'‘][<>.]*$
  -flex: <1>.и|зы<.>
   gramm: 3,pl,pst
   gloss: PST|3PL
-  regex-stem: ^.*[аеёиӥоӧуыэюяьъ][<>.]*$
+  regex-stem: ^.*[аеёиӥоӧуыэюяьъ'‘][<>.]*$
  paradigm: Comparative
 
 -paradigm: Verb-past-I-positive-soft
@@ -6566,27 +6566,27 @@
  -flex: <1>.ё<.>
   gramm: 1,sg,fut
   gloss: FUT
-  regex-prev: ^.*[аеёиӥоӧуыэюяьъ][<>.]*$
+  regex-prev: ^.*[аеёиӥоӧуыэюяьъ'‘][<>.]*$
  -flex: <1>.ё|д<.>
   gramm: 2,sg,fut
   gloss: FUT|2SG
-  regex-prev: ^.*[аеёиӥоӧуыэюяьъ][<>.]*$
+  regex-prev: ^.*[аеёиӥоӧуыэюяьъ'‘][<>.]*$
  -flex: <1>.ё|з<.>
   gramm: 3,sg,fut
   gloss: FUT|3SG
-  regex-prev: ^.*[аеёиӥоӧуыэюяьъ][<>.]*$
+  regex-prev: ^.*[аеёиӥоӧуыэюяьъ'‘][<>.]*$
  -flex: <1>.ё|м<.>//<1>.ё|мы<.>
   gramm: 1,pl,fut
   gloss: FUT|1PL
-  regex-prev: ^.*[аеёиӥоӧуыэюяьъ][<>.]*$
+  regex-prev: ^.*[аеёиӥоӧуыэюяьъ'‘][<>.]*$
  -flex: <1>.ё|ды<.>
   gramm: 2,pl,fut
   gloss: FUT|2PL
-  regex-prev: ^.*[аеёиӥоӧуыэюяьъ][<>.]*$
+  regex-prev: ^.*[аеёиӥоӧуыэюяьъ'‘][<>.]*$
  -flex: <1>.ё|зы<.>
   gramm: 3,pl,fut
   gloss: FUT|3PL
-  regex-prev: ^.*[аеёиӥоӧуыэюяьъ][<>.]*$
+  regex-prev: ^.*[аеёиӥоӧуыэюяьъ'‘][<>.]*$
  paradigm: Comparative
 
 -paradigm: Verb-future-I-positive-soft
@@ -6663,25 +6663,25 @@
  -flex: <1>.ё<.>
   gramm: 3,pl,prs,neg
   gloss: PRS.3PL
-  regex-prev: ^.*[аеёиӥоӧуыэюяьъ][<>.]*$
+  regex-prev: ^.*[аеёиӥоӧуыэюяьъ'‘][<>.]*$
 
 -paradigm: Verb-pres-I-negative-i
  -flex: <1>.иськ|ы<.>
   gramm: 1,sg,prs,neg
   gloss: PRS12|NEG.SG
-  regex-prev: ^.*[аеёиӥоӧуыэюяьъ][<>.]*$
+  regex-prev: ^.*[аеёиӥоӧуыэюяьъ'‘][<>.]*$
  -flex: <1>.иськ|ы<.>
   gramm: 2,sg,prs,neg
   gloss: PRS12|NEG.SG
-  regex-prev: ^.*[аеёиӥоӧуыэюяьъ][<>.]*$
+  regex-prev: ^.*[аеёиӥоӧуыэюяьъ'‘][<>.]*$
  -flex: <1>.иськ|е<.>
   gramm: 1,pl,prs,neg
   gloss: PRS12|NEG.PL
-  regex-prev: ^.*[аеёиӥоӧуыэюяьъ][<>.]*$
+  regex-prev: ^.*[аеёиӥоӧуыэюяьъ'‘][<>.]*$
  -flex: <1>.иськ|е<.>
   gramm: 2,pl,prs,neg
   gloss: PRS12|NEG.PL
-  regex-prev: ^.*[аеёиӥоӧуыэюяьъ][<>.]*$
+  regex-prev: ^.*[аеёиӥоӧуыэюяьъ'‘][<>.]*$
  paradigm: Comparative
 
 -paradigm: Verb-pres-I-negative-CC
@@ -6767,20 +6767,20 @@
  -flex: <1>.е<.>
   gramm: pl,fut,neg
   gloss: NEG.PL
-  regex-prev: ^.*[аеёиӥоӧуыэюяъь][<>.]*$
+  regex-prev: ^.*[аеёиӥоӧуыэюяъь'‘][<>.]*$
  -flex: <1>.е|лэ<.>
   gramm: pl,fut,neg
   gloss: NEG.PL|NEG.PL
-  regex-prev: ^.*[аеёиӥоӧуыэюяъь][<>.]*$
+  regex-prev: ^.*[аеёиӥоӧуыэюяъь'‘][<>.]*$
 
  -flex: <1>.е<.>
   gramm: pl,pst,neg
   gloss: NEG.PL
-  regex-prev: ^.*[аеёиӥоӧуыэюяъь][<>.]*$
+  regex-prev: ^.*[аеёиӥоӧуыэюяъь'‘][<>.]*$
  -flex: <1>.е|лэ<.>
   gramm: pl,pst,neg
   gloss: NEG.PL|NEG.PL
-  regex-prev: ^.*[аеёиӥоӧуыэюяъь][<>.]*$
+  regex-prev: ^.*[аеёиӥоӧуыэюяъь'‘][<>.]*$
  paradigm: Comparative
 
 -paradigm: Verb-I-negative-soft
@@ -6892,15 +6892,15 @@
  -flex: <1>.е<.>
   gramm: imp,pl
   gloss: IMP.PL
-  regex-prev: ^.*[аеёиӥоӧуыэюяъь][<>.]*$
+  regex-prev: ^.*[аеёиӥоӧуыэюяъь'‘][<>.]*$
  -flex: <1>.е|лэ<.>
   gramm: imp,pl
   gloss: IMP.PL|IMP.PL
-  regex-prev: ^.*[аеёиӥоӧуыэюяъь][<>.]*$
+  regex-prev: ^.*[аеёиӥоӧуыэюяъь'‘][<>.]*$
  -flex: <1>.ёме<.>
   gramm: hort,pl
   gloss: HORT.PL
-  regex-prev: ^.*[аеёиӥоӧуыэюяъь][<>.]*$
+  regex-prev: ^.*[аеёиӥоӧуыэюяъь'‘][<>.]*$
 
 -paradigm: Verb-imp-I-soft
  -flex: .[ь]<.>
@@ -7094,7 +7094,7 @@
  -flex: .ем|ъя|ськ<.>
   gramm: fict
   gloss: PTCP.PST|MULT|PASS
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюяъ][<>.]*$
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюяъ'‘][<>.]*$
  -flex: <0>.ымтэ|я|ськ<.>
   gramm: fict_neg
   gloss: PTCP.NEG|MULT|PASS
@@ -7142,7 +7142,7 @@
  -flex: <0>.ем|ъя|ськ<.>
   gramm: fict
   gloss: PTCP.PST|MULT|PASS
-  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюяъ][<>.]*$
+  regex-prev: ^.*[бвгжӟӝйкмпрфхцчӵшщаеёиӥоӧуыэюяъ'‘][<>.]*$
  -flex: <0>.ымтэ|я|ськ<.>
   gramm: fict_neg
   gloss: PTCP.NEG|MULT|PASS
@@ -7768,49 +7768,49 @@
  -flex: <1>.ем<.>
   gramm: evid,1,sg
   gloss: EVID
-  regex-prev: ^.*[аеёиӥоӧуыэюяъь][<>.]*$
+  regex-prev: ^.*[аеёиӥоӧуыэюяъь'‘][<>.]*$
  -flex: <1>.ем<.>
   gramm: evid,2,sg
   gloss: EVID
-  regex-prev: ^.*[аеёиӥоӧуыэюяъь][<>.]*$
+  regex-prev: ^.*[аеёиӥоӧуыэюяъь'‘][<>.]*$
  -flex: <1>.ем|ед<.>
   gramm: evid,2,sg
   gloss: EVID|2SG
-  regex-prev: ^.*[аеёиӥоӧуыэюяъь][<>.]*$
+  regex-prev: ^.*[аеёиӥоӧуыэюяъь'‘][<>.]*$
  -flex: <1>.ем<.>
   gramm: evid,3,sg
   gloss: EVID
-  regex-prev: ^.*[аеёиӥоӧуыэюяъь][<>.]*$
+  regex-prev: ^.*[аеёиӥоӧуыэюяъь'‘][<>.]*$
  -flex: <1>.ем|ез<.>
   gramm: evid,3,sg
   gloss: EVID|3SG
-  regex-prev: ^.*[аеёиӥоӧуыэюяъь][<>.]*$
+  regex-prev: ^.*[аеёиӥоӧуыэюяъь'‘][<>.]*$
 
 -paradigm: Evidentiality-I-i
  -flex: <1>.иськ|ем<.>
   gramm: evid,1,sg
   gloss: PL23|EVID
-  regex-prev: ^.*[аеёиӥоӧуыэюяъь][<>.]*$
+  regex-prev: ^.*[аеёиӥоӧуыэюяъь'‘][<>.]*$
  -flex: <1>.иськ|ем|мы<.>
   gramm: evid,1,pl
   gloss: PRS1|EVID|1PL
-  regex-prev: ^.*[аеёиӥоӧуыэюяъь][<>.]*$
+  regex-prev: ^.*[аеёиӥоӧуыэюяъь'‘][<>.]*$
  -flex: <1>.илля|м<.>
   gramm: evid,2,pl
   gloss: PL23|EVID
-  regex-prev: ^.*[аеёиӥоӧуыэюяъь][<>.]*$
+  regex-prev: ^.*[аеёиӥоӧуыэюяъь'‘][<>.]*$
  -flex: <1>.илля|м|ды<.>
   gramm: evid,2,pl
   gloss: PL23|EVID|2PL
-  regex-prev: ^.*[аеёиӥоӧуыэюяъь][<>.]*$
+  regex-prev: ^.*[аеёиӥоӧуыэюяъь'‘][<>.]*$
  -flex: <1>.илля|м<.>
   gramm: evid,3,pl
   gloss: PL23|EVID
-  regex-prev: ^.*[аеёиӥоӧуыэюяъь][<>.]*$
+  regex-prev: ^.*[аеёиӥоӧуыэюяъь'‘][<>.]*$
  -flex: <1>.илля|м|зы<.>
   gramm: evid,3,pl
   gloss: PL23|EVID|3PL
-  regex-prev: ^.*[аеёиӥоӧуыэюяъь][<>.]*$
+  regex-prev: ^.*[аеёиӥоӧуыэюяъь'‘][<>.]*$
  paradigm: Comparative
 
 -paradigm: Evidentiality-I-soft

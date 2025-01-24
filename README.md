@@ -9,7 +9,9 @@ The analyzer is available as a Python package. If you want to analyze Udmurt tex
 pip3 install uniparser-udmurt
 ```
 
-Import the module and create an instance of ``UdmurtAnalyzer`` class. Set ``mode='strict'`` if you are going to process text in standard orthography, or ``mode='nodiacritics'`` if you expect some words to lack the diacritics (which often happens in social media). After that, you can either parse tokens or lists of tokens with ``analyze_words()``, or parse a frequency list with ``analyze_wordlist()``. Here is a simple example:
+Import the module and create an instance of ``UdmurtAnalyzer`` class. Set ``mode='strict'`` if you are going to process text in the standard orthography (default value). Set ``mode='nodiacritics'`` if you expect some words to lack the diacritics (which often happens in social media), e.g. ``сыче`` instead of the correct ``сыӵе``. Set ``mode='oldorth'`` if you are processing texts written in one of the older, pre-standardized orthographies (earlier than late 1930s). Right now, apostrophes in place of ``ъ`` and some features of the pre-revolution orthography are accounted for, but not all of them.
+
+After that, you can either parse tokens or lists of tokens with ``analyze_words()``, or parse a frequency list with ``analyze_wordlist()``. Here is a simple example:
 
 ```python
 from uniparser_udmurt import UdmurtAnalyzer

@@ -14,7 +14,7 @@ class UdmurtAnalyzer(Analyzer):
         """
         super().__init__(verbose_grammar=verbose_grammar)
         self.mode = mode
-        if mode not in ('strict', 'nodiacritics'):
+        if mode not in ('strict', 'nodiacritics', 'oldorth'):
             return
         self.dirName = 'uniparser_udmurt.data_' + mode
         with as_file(files(self.dirName) / 'paradigms.txt') as self.paradigmFile,\

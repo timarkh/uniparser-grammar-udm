@@ -22,6 +22,7 @@ paradigms.txt
 bad_analyses.txt
 derivations.txt
 lex_rules.txt
+uniparser_udmurt/*/udmurt_disambiguation.cg3
 add_lex/
 .Python
 env/
