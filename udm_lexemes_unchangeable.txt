@@ -803,6 +803,13 @@
  trans_ru: даже
 
 -lexeme
+ lex: также
+ stem: также.
+ gramm: PART,rus
+ paradigm: Comparative
+ trans_ru: также
+
+-lexeme
  lex: тоже
  stem: тоже.
  gramm: PART,rus
@@ -4928,7 +4935,7 @@
  stem: кемалась.
  gramm: ADV,el
  paradigm: connect_adverbs
- trans_ru: давно
+ trans_ru: давно, издавна
 
 -lexeme
  lex: кемаен
@@ -21922,3 +21929,23 @@
  paradigm: connect_adverbs
  trans_ru: параллельно
 
+-lexeme
+ lex: строго
+ gramm: ADV,rus
+ stem: строго.
+ paradigm: connect_adverbs
+ trans_ru: строго
+
+-lexeme
+ lex: достоверно
+ gramm: ADV,rus
+ stem: достоверно.
+ paradigm: connect_adverbs
+ trans_ru: достоверно
+
+-lexeme
+ lex: вашкалась
+ stem: вашкалась.//важкалась.
+ gramm: ADV,el
+ paradigm: connect_adverbs
+ trans_ru: давно, издревле

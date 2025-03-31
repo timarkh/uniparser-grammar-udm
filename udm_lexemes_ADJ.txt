@@ -11686,7 +11686,7 @@
 
 -lexeme
  lex: етӥз
- stem: етӥз.
+ stem: етӥз.//гетӥз.
  gramm: ADJ
  paradigm: connect_adjectives
  trans_ru: ловкий, бойкий, изворотливый
@@ -48229,3 +48229,37 @@
  paradigm: connect_adjectives
  trans_ru: интересный
 
+-lexeme
+ lex: ароматной
+ gramm: ADJ,rus
+ stem: ароматно.//ароматны.
+ paradigm: connect_adjectives-j
+ trans_ru: ароматный
+
+-lexeme
+ lex: аппетитной
+ gramm: ADJ,rus
+ stem: аппетитно.//аппетитны.
+ paradigm: connect_adjectives-j
+ trans_ru: аппетитный
+
+-lexeme
+ lex: разделительной
+ gramm: ADJ,rus
+ stem: разделительно.//разделительны.
+ paradigm: connect_adjectives-j
+ trans_ru: разделительный
+
+-lexeme
+ lex: единичной
+ gramm: ADJ,rus
+ stem: единично.//единичны.
+ paradigm: connect_adjectives-j
+ trans_ru: единичный
+
+-lexeme
+ lex: зимний
+ gramm: ADJ,rus
+ stem: зимни.//зимне.
+ paradigm: connect_adjectives-j
+ trans_ru: зимний

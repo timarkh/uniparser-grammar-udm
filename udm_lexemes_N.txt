@@ -16726,7 +16726,7 @@
 
 -lexeme
  lex: ялык
- stem: ялык.
+ stem: ялык.//ӟалык.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: платок, старинный женский головной убор
@@ -20718,70 +20718,70 @@
 
 -lexeme
  lex: йӧазьдур
- stem: йӧазьдур.
+ stem: йӧазьдур.//ӟӧазьдур.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: закраина
 
 -lexeme
  lex: йӧвалег
- stem: йӧвалег.
+ stem: йӧвалег.//ӟӧвалег.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: гололедица, гололёд
 
 -lexeme
  lex: йӧвырӟытӥсь
- stem: йӧвырӟытӥс.
+ stem: йӧвырӟытӥс.//ӟӧвырӟытӥс.
  gramm: N,anim
  paradigm: Noun-num-soft
  trans_ru: трясогузка
 
 -lexeme
  lex: йӧгу
- stem: йӧгу.
+ stem: йӧгу.//ӟӧгу.
  gramm: N
  paradigm: Noun-num-vowel
  trans_ru: ледник, погреб
 
 -lexeme
  lex: йӧзор
- stem: йӧзор.
+ stem: йӧзор.//ӟӧзор.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: град
 
 -lexeme
  lex: йӧкана
- stem: йӧкана.
+ stem: йӧкана.//ӟӧкана.
  gramm: N
  paradigm: Noun-num-vowel
  trans_ru: холодильник
 
 -lexeme
  lex: йӧкур
- stem: йӧкур.
+ stem: йӧкур.//ӟӧкур.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: сосулька
 
 -lexeme
  lex: йӧкураллян
- stem: йӧкураллян.
+ stem: йӧкураллян.//ӟӧкураллян.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: образование наледи, обледенение
 
 -lexeme
  lex: йӧкурам
- stem: йӧкурам.
+ stem: йӧкурам.//ӟӧкурам.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: наледь
 
 -lexeme
  lex: йӧл
- stem: йӧл.
+ stem: йӧл.//ӟӧл.
  gramm: N
  paradigm: Noun-num-consonant
  paradigm: Noun-num-consonant-y
@@ -20789,14 +20789,14 @@
 
 -lexeme
  lex: йӧл-вӧй
- stem: йӧл-вӧ.
+ stem: йӧл-вӧ.//ӟӧл-вӧ.
  gramm: N
  paradigm: Noun-num-j
  trans_ru: собир. молочные продукты
 
 -lexeme
  lex: йӧлвыл
- stem: йӧлвыл.
+ stem: йӧлвыл.//ӟӧлвыл.
  gramm: N
  paradigm: Noun-num-consonant
  paradigm: Noun-num-consonant-y
@@ -20804,49 +20804,49 @@
 
 -lexeme
  lex: йӧлогуби
- stem: йӧлогуби.
+ stem: йӧлогуби.//ӟӧлогуби.
  gramm: N
  paradigm: Noun-num-vowel
  trans_ru: 1. гриб, содержащий млечный сок 2. белый груздь 3. волнушка
 
 -lexeme
  lex: йӧлонингуби
- stem: йӧлонингуби.
+ stem: йӧлонингуби.//ӟӧлонингуби.
  gramm: N
  paradigm: Noun-num-vowel
  trans_ru: жёлтый груздь
 
 -lexeme
  lex: йӧлопинь
- stem: йӧлопин.
+ stem: йӧлопин.//ӟӧлопин.
  gramm: N,body
  paradigm: Noun-num-soft
  trans_ru: анат. молочный зуб
 
 -lexeme
  lex: йӧлпыд
- stem: йӧлпыд.
+ stem: йӧлпыд.//ӟӧлпыд.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: варенец
 
 -lexeme
  lex: йӧлсӥс
- stem: йӧлсӥс.
+ stem: йӧлсӥс.//ӟӧлсӥс.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: плаун
 
 -lexeme
  lex: йӧлтурын
- stem: йӧлтурын.
+ stem: йӧлтурын.//ӟӧлтурын.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: 1. молочай 2. истод обыкновенный
 
 -lexeme
  lex: йӧн
- stem: йӧн.
+ stem: йӧн.//ӟӧн.
  gramm: N
  paradigm: Noun-num-consonant
  paradigm: Noun-num-consonant-y
@@ -20854,7 +20854,7 @@
 
 -lexeme
  lex: йӧн
- stem: йӧн.
+ stem: йӧн.//ӟӧн.
  gramm: N
  paradigm: Noun-num-consonant
  paradigm: Noun-num-consonant-y
@@ -20862,112 +20862,112 @@
 
 -lexeme
  lex: йӧнатэм
- stem: йӧнатэм.
+ stem: йӧнатэм.//ӟӧнатэм.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: 1. лечение, излечение, исцеление 2. перен. исправление, налаживание
 
 -lexeme
  lex: йӧндырисьтэм
- stem: йӧндырисьтэм.
+ stem: йӧндырисьтэм.//ӟӧндырисьтэм.
  gramm: N,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: несмышлёныш
 
 -lexeme
  lex: йӧндырон
- stem: йӧндырон.
+ stem: йӧндырон.//ӟӧндырон.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: понимание, понятливость, сообразительность
 
 -lexeme
  lex: йӧнъяськись
- stem: йӧнъяськис.
+ stem: йӧнъяськис.//ӟӧнъяськис.
  gramm: N,anim,hum
  paradigm: Noun-num-soft
  trans_ru: гордец, зазнайка
 
 -lexeme
  lex: йӧны
- stem: йӧны.|йӧнӥ.
+ stem: йӧны.|йӧнӥ.//ӟӧны.|ӟӧнӥ.
  gramm: N
  paradigm: Noun-num-vowel-dial-iy
  trans_ru: 1. осот 2. бодяк, чертополох
 
 -lexeme
  lex: йӧс
- stem: йӧс.
+ stem: йӧс.//ӟӧс.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: этнос, нация
 
 -lexeme
  lex: йӧсин
- stem: йӧсин.
+ stem: йӧсин.//ӟӧсин.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: полынья
 
 -lexeme
  lex: йӧскалык
- stem: йӧскалык.
+ stem: йӧскалык.//ӟӧскалык.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: нация, национальность
 
 -lexeme
  lex: йӧслык
- stem: йӧслык.
+ stem: йӧслык.//ӟӧслык.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: нация, национальность
 
 -lexeme
  lex: йӧсултон
- stem: йӧсултон.
+ stem: йӧсултон.//ӟӧсултон.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: ледостав
 
 -lexeme
  lex: йӧтусь
- stem: йӧтус.
+ stem: йӧтус.//ӟӧтус.
  gramm: N
  paradigm: Noun-num-soft
  trans_ru: каталка, лубок, лоток
 
 -lexeme
  lex: йӧтылонтэмлык
- stem: йӧтылонтэмлык.
+ stem: йӧтылонтэмлык.//ӟӧтылонтэмлык.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: неприкосновенность
 
 -lexeme
  lex: йӧтӥясь
- stem: йӧтӥяс.
+ stem: йӧтӥяс.//ӟӧтӥяс.
  gramm: N,transport
  paradigm: Noun-num-soft
  trans_ru: ледокол
 
 -lexeme
  lex: йӧӟектэм
- stem: йӧӟектэм.
+ stem: йӧӟектэм.//ӟӧӟектэм.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: замерзание, окоченение
 
 -lexeme
  lex: йӧӟонвис
- stem: йӧӟонвис.
+ stem: йӧӟонвис.//ӟӧӟонвис.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: межледниковье
 
 -lexeme
  lex: йӧӟузыри
- stem: йӧӟузыри.
+ stem: йӧӟузыри.//ӟӧӟузыри.
  gramm: N
  paradigm: Noun-num-vowel
  trans_ru: сосулька
@@ -63309,14 +63309,14 @@
 
 -lexeme
  lex: фляга
- stem: фляга.
+ stem: фляга.//фляг.
  gramm: N,rus
  paradigm: Noun-num-vowel
  trans_ru: фляга
 
 -lexeme
  lex: фляжка
- stem: фляжка.
+ stem: фляжка.//фляжк.
  gramm: N,rus
  paradigm: Noun-num-vowel
  trans_ru: фляжка
@@ -63361,6 +63361,13 @@
  stem: фонар.
  gramm: N,rus
  paradigm: Noun-num-soft
+ paradigm: Noun-num-consonant
+ trans_ru: фонарь
+
+-lexeme
+ lex: панар
+ stem: панар.
+ gramm: N,rus
  paradigm: Noun-num-consonant
  trans_ru: фонарь
 
@@ -71276,56 +71283,49 @@
 
 -lexeme
  lex: ю
- stem: ю.
+ stem: ю.//ӟу.
  gramm: N
  paradigm: Noun-num-vowel
  trans_ru: посевы хлеба, зерновые
 
 -lexeme
  lex: ю-нянь
- stem: ю-нян.
+ stem: ю-нян.//ӟу-нян.
  gramm: N
  paradigm: Noun-num-soft
  trans_ru: хлеба
 
 -lexeme
  lex: юалляськон
- stem: юалляськон.
+ stem: юалляськон.//ӟуалляськон.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: расспросы, опрос, опрашивание, допрашивание
 
 -lexeme
  lex: юантурын
- stem: юантурын.
- gramm: N
- paradigm: Noun-num-consonant
- trans_ru: дикий лук
-
--lexeme
- lex: юатурын
- stem: юатурын.
+ stem: юантурын.//ӟуантурын.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: дикий лук
 
 -lexeme
  lex: юача
- stem: юача.
+ stem: юача.//ӟуача.
  gramm: N
  paradigm: Noun-num-vowel
  trans_ru: сдобная коврижка, пряженец
 
 -lexeme
  lex: юбер
- stem: юбер.
+ stem: юбер.//ӟубер.
  gramm: N,anim
  paradigm: Noun-num-consonant
  trans_ru: скворец
 
 -lexeme
  lex: юберпи
- stem: юберпи.
+ stem: юберпи.//ӟуберпи.
  gramm: N,anim
  paradigm: Noun-num-vowel
  trans_ru: 1. скворчонок, детёныш скворца 2. детёныш сойки
@@ -71353,7 +71353,7 @@
 
 -lexeme
  lex: юбо
- stem: юбо.
+ stem: юбо.//ӟубо.
  gramm: N
  paradigm: Noun-num-vowel
  trans_ru: столб
@@ -71374,7 +71374,7 @@
 
 -lexeme
  lex: югдуркыл
- stem: югдуркыл.
+ stem: югдуркыл.//ӟугдуркыл.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: обстоятельство
@@ -71395,21 +71395,21 @@
 
 -lexeme
  lex: югыт
- stem: югыт.
+ stem: югыт.//ӟугыт.//люгыт.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: свет
 
 -lexeme
  lex: юдэс
- stem: юдэс.
+ stem: юдэс.//ӟудэс.//людэс.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: ломтик, ломоть, кусок
 
 -lexeme
  lex: юж
- stem: юж.
+ stem: юж.//ӟуж.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: наст
@@ -71423,10 +71423,10 @@
 
 -lexeme
  lex: юз
- stem: юз.
+ stem: юз.//ӟуз.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: юз-юз прохлада, свежесть
+ trans_ru: прохлада, свежесть
 
 -lexeme
  lex: юкагир
@@ -71444,21 +71444,21 @@
 
 -lexeme
  lex: юлдырга
- stem: юлдырга.
+ stem: юлдырга.//ӟулдырга.
  gramm: N,transport
  paradigm: Noun-num-vowel
  trans_ru: двуколка
 
 -lexeme
  lex: юлтош
- stem: юлтош.
+ stem: юлтош.//ӟултош.
  gramm: N,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: друг, приятель
 
 -lexeme
  lex: юм
- stem: юм.
+ stem: юм.//ӟум.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: паут, небольшой овод
@@ -71472,14 +71472,14 @@
 
 -lexeme
  lex: юмшан
- stem: юмшан.
+ stem: юмшан.//ӟумшан.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: веселье, гулянье
 
 -lexeme
  lex: юмшок
- stem: юмшок.
+ stem: юмшок.//ӟумшок.
  gramm: N,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: гуляка, участник увеселительных мероприятий
@@ -71500,14 +71500,14 @@
 
 -lexeme
  lex: юнлык
- stem: юнлык.
+ stem: юнлык.//ӟунлык.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: прочность, крепость
 
 -lexeme
  lex: юнмет
- stem: юнмет.
+ stem: юнмет.//ӟунмет.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: засада
@@ -71521,56 +71521,49 @@
 
 -lexeme
  lex: юнъюрткар
- stem: юнъюрткар.
+ stem: юнъюрткар.//ӟунъюрткар.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: крепость
 
 -lexeme
  lex: юонгуби
- stem: юонгуби.
+ stem: юонгуби.//ӟуонгуби.
  gramm: N
  paradigm: Noun-num-vowel
  trans_ru: чайный гриб
 
 -lexeme
  lex: юр
- stem: юр.
+ stem: юр.//ӟур.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: смола
 
 -lexeme
  lex: юр-яр
- stem: юр-яр.
+ stem: юр-яр.//ӟур-яр.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: шум, гам, галдёж
 
 -lexeme
  lex: юргась
- stem: юргас.
- gramm: N,anim,hum
- paradigm: Noun-num-soft
- trans_ru: инородец
-
--lexeme
- lex: юргась
- stem: юргас.
+ stem: юргас.//ӟургас.
  gramm: N,anim,hum
  paradigm: Noun-num-soft
  trans_ru: инородец
 
 -lexeme
  lex: юрго
- stem: юрго.
+ stem: юрго.//ӟурго.
  gramm: N
  paradigm: Noun-num-vowel
  trans_ru: 1. иноходь 2. бродяга
 
 -lexeme
  lex: юрдӥсь
- stem: юрдӥс.
+ stem: юрдӥс.//ӟурдӥс.
  gramm: N,anim,hum
  paradigm: Noun-num-soft
  trans_ru: привередник
@@ -71598,91 +71591,91 @@
 
 -lexeme
  lex: юрмег
- stem: юрмег.
+ stem: юрмег.//ӟурмег.
  gramm: N,anim
  paradigm: Noun-num-consonant
  trans_ru: ласка; горностай
 
 -lexeme
  lex: юрмонкидыс
- stem: юрмонкидыс.
+ stem: юрмонкидыс.//ӟурмонкидыс.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: 1. белена 2. дурман
 
 -lexeme
  lex: юрсир
- stem: юрсир.
+ stem: юрсир.//ӟурсир.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: смола
 
 -lexeme
  lex: юрт
- stem: юрт.
+ stem: юрт.//ӟурт.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: дом, постройка
 
 -lexeme
  lex: юрта
- stem: юрта.
+ stem: юрта.//ӟурта.
  gramm: N
  paradigm: Noun-num-vowel
  trans_ru: юрта
 
 -lexeme
  lex: юртбур
- stem: юртбур.
+ stem: юртбур.//ӟуртбур.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: домашний очаг
 
 -lexeme
  lex: юрттос
- stem: юрттос.
+ stem: юрттос.//ӟурттос.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: пособие
 
 -lexeme
  lex: юрттэм
- stem: юрттэм.
+ stem: юрттэм.//ӟурттэм.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: помощь, оказание помощи
 
 -lexeme
  lex: юрттэт
- stem: юрттэт.
+ stem: юрттэт.//ӟурттэт.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: 1. помощь, поддержка, выручка 2. вклад, содействие 3. обслуживание
 
 -lexeme
  lex: юртчур
- stem: юртчур.
+ stem: юртчур.//ӟуртчур.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: улица
 
 -lexeme
  lex: юртъер
- stem: юртъер.
+ stem: юртъер.//ӟуртъер.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: надворная постройка, дом, изба, двор, жилище
 
 -lexeme
  lex: юртӵӧж
- stem: юртӵӧж.
+ stem: юртӵӧж.//ӟуртӵӧж.
  gramm: N,anim
  paradigm: Noun-num-consonant
  trans_ru: домашняя утка
 
 -lexeme
  lex: юрӟым
- stem: юрӟым.
+ stem: юрӟым.//ӟурӟым.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: отвращение, омерзение, гадость
@@ -71710,84 +71703,84 @@
 
 -lexeme
  lex: ючис
- stem: ючис.
+ stem: ючис.//ӟучис.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: стожар
 
 -lexeme
  lex: ючыс
- stem: ючыс.
+ stem: ючыс.//ӟучыс.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: хвощ полевой
 
 -lexeme
  lex: юш
- stem: юш.
+ stem: юш.//ӟуш.
  gramm: N,anim
  paradigm: Noun-num-consonant
  trans_ru: окунь
 
 -lexeme
  lex: юшпи
- stem: юшпи.
+ stem: юшпи.//ӟушпи.
  gramm: N,anim
  paradigm: Noun-num-vowel
  trans_ru: окунёк, малёк окуня
 
 -lexeme
  lex: юэм
- stem: юэм.
+ stem: юэм.//ӟуэм.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: питьё
 
 -lexeme
  lex: ябалак
- stem: ябалак.
+ stem: ябалак.//ӟабалак.
  gramm: N,anim
  paradigm: Noun-num-consonant
  trans_ru: сова
 
 -lexeme
  lex: ябалга
- stem: ябалга.
+ stem: ябалга.//ӟабалга.
  gramm: N,anim
  paradigm: Noun-num-vowel
  trans_ru: стригунок
 
 -lexeme
  lex: яби
- stem: яби.
+ stem: яби.//ӟаби.
  gramm: N
  paradigm: Noun-num-vowel
  trans_ru: попона, кошма, войлок
 
 -lexeme
  lex: ябичи
- stem: ябичи.
+ stem: ябичи.//ӟабичи.
  gramm: N
  paradigm: Noun-num-vowel
  trans_ru: попона, кошма, войлок
 
 -lexeme
  lex: яблок
- stem: яблок.
+ stem: яблок.//ӟаблок.
  gramm: N,rus
  paradigm: Noun-num-consonant
  trans_ru: яблоко
 
 -lexeme
  lex: яблокпу
- stem: яблокпу.
+ stem: яблокпу.//ӟаблокпу.
  gramm: N,rus
  paradigm: Noun-num-vowel
  trans_ru: яблоня
 
 -lexeme
  lex: ябынчи
- stem: ябынчи.
+ stem: ябынчи.//ӟабынчи.
  gramm: N,anim,hum
  paradigm: Noun-num-vowel
  trans_ru: закройщик пальто
@@ -71815,21 +71808,21 @@
 
 -lexeme
  lex: яг
- stem: яг.
+ stem: яг.//ляг.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: бор
 
 -lexeme
  lex: яггуби
- stem: яггуби.
+ stem: яггуби.//ляггуби.
  gramm: N
  paradigm: Noun-num-vowel
  trans_ru: рыжик сосновый красный
 
 -lexeme
  lex: яггубиян
- stem: яггубиян.
+ stem: яггубиян.//ляггубиян.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: сбор рыжиков
@@ -71899,7 +71892,7 @@
 
 -lexeme
  lex: яды
- stem: яды.|ядӥ.
+ stem: яды.|ядӥ.//ӟады.|ӟадӥ.
  gramm: N,anim,hum
  paradigm: Noun-num-vowel-dial-iy
  trans_ru: силач, богатырь, борец
@@ -71934,14 +71927,14 @@
 
 -lexeme
  lex: якарон
- stem: якарон.
+ stem: якарон.//ӟакарон.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: проявление инициативы
 
 -lexeme
  lex: якма
- stem: якма.
+ stem: якма.//ӟакма.
  gramm: N
  paradigm: Noun-num-vowel
  trans_ru: внутренний замок
@@ -71977,35 +71970,35 @@
 
 -lexeme
  lex: ял
- stem: ял.
+ stem: ял.//ӟал.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: отдых, грива
 
 -lexeme
  lex: ялау
- stem: ялау.
+ stem: ялау.//ӟалау.
  gramm: N
  paradigm: Noun-num-vowel
  trans_ru: знамя, флаг, белый флаг
 
 -lexeme
  lex: ялкарон
- stem: ялкарон.
+ stem: ялкарон.//ӟалкарон.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: отдых, перерыв
 
 -lexeme
  lex: ялэм
- stem: ялэм.
+ stem: ялэм.//ӟалэм.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: объявление
 
 -lexeme
  lex: ям
- stem: ям.
+ stem: ям.//ӟам.
  gramm: N
  paradigm: Noun-num-consonant
  paradigm: Noun-num-consonant-y
@@ -72027,14 +72020,14 @@
 
 -lexeme
  lex: янак
- stem: янак.
+ stem: янак.//ӟанак.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: 1. косяк 2. рама
 
 -lexeme
  lex: янбаш
- stem: янбаш.
+ stem: янбаш.//ӟанбаш.
  gramm: N,body
  paradigm: Noun-num-consonant
  trans_ru: боковые стороны ляжек
@@ -72049,42 +72042,42 @@
 
 -lexeme
  lex: янгар
- stem: янгар.
+ stem: янгар.//ӟангар.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: гниль
 
 -lexeme
  lex: янгарам
- stem: янгарам.
+ stem: янгарам.//ӟангарам.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: гниль
 
 -lexeme
  lex: янгыш
- stem: янгыш.
+ stem: янгыш.//ӟангыш.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: ошибка, просчёт, проступок, вина
 
 -lexeme
  lex: янгышатэм
- stem: янгышатэм.
+ stem: янгышатэм.//ӟангышатэм.
  gramm: N,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: обвиняемый
 
 -lexeme
  lex: янгышлык
- stem: янгышлык.
+ stem: янгышлык.//ӟангышлык.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: ошибка, погрешность
 
 -lexeme
  lex: янлык
- stem: янлык.
+ stem: янлык.//ӟанлык.
  gramm: N,anim
  paradigm: Noun-num-consonant
  trans_ru: зверь, дичь
@@ -72099,14 +72092,14 @@
 
 -lexeme
  lex: янтырдунне
- stem: янтырдунне.
+ stem: янтырдунне.//ӟантырдунне.
  gramm: N
  paradigm: Noun-num-vowel
  trans_ru: технократическая цивилизация
 
 -lexeme
  lex: янчик
- stem: янчик.
+ stem: янчик.//ӟанчик.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: кисет, кошелёк, кошель
@@ -72177,7 +72170,7 @@
 
 -lexeme
  lex: ярлык
- stem: ярлык.
+ stem: ярлык.//ӟарлык.
  gramm: N,rus
  paradigm: Noun-num-consonant
  trans_ru: ярлык
@@ -72191,14 +72184,14 @@
 
 -lexeme
  lex: ярму
- stem: ярму.
+ stem: ярму.//ӟарму.
  gramm: N
  paradigm: Noun-num-vowel
  trans_ru: континент
 
 -lexeme
  lex: ярмувыр
- stem: ярмувыр.
+ stem: ярмувыр.//ӟармувыр.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: материк
@@ -72226,14 +72219,14 @@
 
 -lexeme
  lex: ясак
- stem: ясак.
+ stem: ясак.//ӟасак.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: ист. ясак
 
 -lexeme
  lex: ясанэм
- stem: ясанэм.
+ stem: ясанэм.//ӟасанэм.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: св. решение, постановление, намерение
@@ -72247,21 +72240,21 @@
 
 -lexeme
  lex: ясник
- stem: ясник.
+ stem: ясник.//ӟасник.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: чечевица
 
 -lexeme
  lex: яснык
- stem: яснык.
+ stem: яснык.//ӟаснык.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: ясмык, ясник, чечевица
 
 -lexeme
  lex: яукал
- stem: яукал.
+ stem: яукал.//ӟаукал.
  gramm: N,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: лодырь, тунеядец
@@ -78232,13 +78225,13 @@
  trans_ru: мозг
 -lexeme
  lex: йӧвылэсултон
- stem: йӧвылэсултон.
+ stem: йӧвылэсултон.//ӟӧвылэсултон.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: Крещение (праздник)
 -lexeme
  lex: йӧнлык
- stem: йӧнлык.
+ stem: йӧнлык.//ӟӧнлык.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: сила
@@ -87223,7 +87216,7 @@
  trans_ru: юниорка
 -lexeme
  lex: юрттӥськет
- stem: юрттӥськет.
+ stem: юрттӥськет.//ӟурттӥськет.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: услуга
@@ -93114,13 +93107,13 @@
  trans_ru: этнофестиваль
 -lexeme
  lex: югытлык
- stem: югытлык.
+ stem: югытлык.//ӟугытлык.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: свет
 -lexeme
  lex: юондыр
- stem: юондыр.
+ stem: юондыр.//ӟуондыр.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: праздник, пир
@@ -100145,7 +100138,7 @@
  trans_ru: эчпочмак
 -lexeme
  lex: югдыр
- stem: югдыр.
+ stem: югдыр.//ӟугдыр.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: обстоятельство, положение дел, обстановка
@@ -100163,7 +100156,7 @@
  trans_ru: юнкер
 -lexeme
  lex: юонни
- stem: юонни.
+ stem: юонни.//ӟуонни.
  gramm: N
  paradigm: Noun-num-vowel
  trans_ru: место, где пьют
@@ -105269,7 +105262,7 @@
 -lexeme
  lex: йӧнатсконни
  gramm: N
- stem: йӧнатсконни.
+ stem: йӧнатсконни.//ӟӧнатсконни.
  paradigm: Noun-num-vowel
  trans_ru: больница
 
@@ -117557,7 +117550,7 @@
 -lexeme
  lex: южвыл
  gramm: N
- stem: южвыл.
+ stem: южвыл.//ӟужвыл.
  paradigm: Noun-num-consonant
  paradigm: Noun-num-consonant-y
  trans_ru: наст
@@ -117565,7 +117558,7 @@
 -lexeme
  lex: юмыл
  gramm: N,body
- stem: юмыл.
+ stem: юмыл.//ӟумыл.
  paradigm: Noun-num-consonant
  paradigm: Noun-num-consonant-y
  trans_ru: голень
@@ -117594,7 +117587,7 @@
 -lexeme
  lex: якшы
  gramm: N
- stem: якшы.
+ stem: якшы.//ӟакшы.
  paradigm: Noun-num-vowel
  trans_ru: хорошее
 
@@ -117608,7 +117601,7 @@
 -lexeme
  lex: яра
  gramm: N,body
- stem: яра.
+ stem: яра.//ӟара.
  paradigm: Noun-num-vowel
  trans_ru: язва; рана; ссадина; струп
 
@@ -117629,14 +117622,14 @@
 -lexeme
  lex: ятаган
  gramm: N,rus
- stem: ятаган.
+ stem: ятаган.//ӟатаган.
  paradigm: Noun-num-consonant
  trans_ru: ятаган
 
 -lexeme
  lex: ятвыл
  gramm: N
- stem: ятвыл.
+ stem: ятвыл.//ӟатвыл.
  paradigm: Noun-num-consonant
  paradigm: Noun-num-consonant-y
  trans_ru: память; памятник
@@ -118413,14 +118406,14 @@
 
 -lexeme
  lex: юрттэтлык
- stem: юрттэтлык.
+ stem: юрттэтлык.//ӟурттэтлык.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: услуга
 
 -lexeme
  lex: яулык
- stem: яулык.
+ stem: яулык.//ӟаулык.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: платок
@@ -131964,7 +131957,7 @@
 -lexeme
  lex: ю-кидыс
  gramm: N
- stem: ю-кидыс.
+ stem: ю-кидыс.//ӟу-кидыс.
  paradigm: Noun-num-consonant
  trans_ru: семена злаковых
 
@@ -133092,14 +133085,14 @@
 -lexeme
  lex: ялкав
  gramm: N,anim,hum
- stem: ялкав.
+ stem: ялкав.//ӟалкав.
  paradigm: Noun-num-consonant
  trans_ru: лентяй
 
 -lexeme
  lex: ялкав
  gramm: N,anim,hum
- stem: ялкав.
+ stem: ялкав.//ӟалкав.
  paradigm: Noun-num-consonant
  trans_ru: лентяй
 
@@ -133127,7 +133120,7 @@
 -lexeme
  lex: югезь
  gramm: N
- stem: югез.
+ stem: югез.//ӟугез.
  paradigm: Noun-num-soft
  trans_ru: монета; плата, подношение
 
@@ -141712,7 +141705,7 @@
 -lexeme
  lex: юболык
  gramm: N
- stem: юболык.
+ stem: юболык.//ӟуболык.
  paradigm: Noun-num-consonant
  trans_ru: колышек
 
@@ -141729,4 +141722,74 @@
  stem: динозаврик.
  paradigm: Noun-num-consonant
  trans_ru: динозаврик
+
+-lexeme
+ lex: буан
+ gramm: N
+ stem: буан.
+ paradigm: Noun-num-consonant
+ trans_ru: силок
+
+-lexeme
+ lex: окошко
+ gramm: N,rus
+ stem: окошко.//окошк.
+ paradigm: Noun-num-vowel
+ trans_ru: окошко
+
+-lexeme
+ lex: проволка
+ gramm: N,rus
+ stem: проволка.//проволока.//проволк.//проволок.
+ paradigm: Noun-num-vowel
+ trans_ru: проволока
+
+-lexeme
+ lex: манишка
+ gramm: N,rus
+ stem: манишка.//манишк.
+ paradigm: Noun-num-vowel
+ trans_ru: манишка
+
+-lexeme
+ lex: ингредиент
+ gramm: N,rus
+ stem: ингредиент.
+ paradigm: Noun-num-consonant
+ trans_ru: ингредиент
+
+-lexeme
+ lex: вурам
+ gramm: N
+ stem: вурам.
+ paradigm: Noun-num-consonant
+ trans_ru: переулок
+
+-lexeme
+ lex: чулгес
+ gramm: N
+ stem: чулгес.
+ paradigm: Noun-num-consonant
+ trans_ru: чулок, чулки
+
+-lexeme
+ lex: кӧныл
+ gramm: N
+ stem: кӧныл.
+ paradigm: Noun-num-consonant
+ trans_ru: душа
+
+-lexeme
+ lex: отторжение
+ gramm: N,rus
+ stem: отторжени.
+ paradigm: Noun-num-ije
+ trans_ru: отторжение
+
+-lexeme
+ lex: яшник
+ gramm: N,rus
+ stem: яшник.
+ paradigm: Noun-num-consonant
+ trans_ru: ящик
 

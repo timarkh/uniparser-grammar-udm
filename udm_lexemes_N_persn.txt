@@ -100276,3 +100276,45 @@
  paradigm: Noun-num-consonant
  trans_ru: Бермуш
 
+-lexeme
+ lex: Хусаинович
+ gramm: N,PN,patrn
+ stem: хусаинович.
+ paradigm: Noun-num-consonant
+ trans_ru: Хусаинович
+
+-lexeme
+ lex: Саяпович
+ gramm: N,PN,patrn
+ stem: саяпович.
+ paradigm: Noun-num-consonant
+ trans_ru: Саяпович
+
+-lexeme
+ lex: Адуллин
+ gramm: N,PN,famn
+ stem: адуллин.
+ paradigm: Noun-num-consonant
+ trans_ru: Адуллин
+
+-lexeme
+ lex: Лёха
+ gramm: N,persn,PN
+ stem: лёха.
+ paradigm: Noun-num-vowel
+ trans_ru: Лёха
+
+-lexeme
+ lex: Сабирзяновна
+ gramm: N,patrn,PN
+ stem: сабирзяновна.
+ paradigm: Noun-num-vowel
+ trans_ru: Сабирзяновна
+
+-lexeme
+ lex: Фаниль
+ gramm: N,persn,PN
+ stem: фанил.
+ paradigm: Noun-num-soft
+ trans_ru: Фаниль
+

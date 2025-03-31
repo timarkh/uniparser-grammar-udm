@@ -13481,7 +13481,7 @@
 -lexeme
  lex: ныпъяны
  stem: ныпъя.//нӥпыя.//нупия.
- gramm: V,II,intr
+ gramm: V,II,tr
  paradigm: connect_verbs-II
  trans_ru: надеть заплечную люльку/мешок; взвалить на себя ношу
 
@@ -27881,6 +27881,12 @@
  gramm: V,rus,rus_inf,rus_ipfv
  paradigm: Comparative
  trans_ru: жалеть
+-lexeme
+ lex: сожалеть
+ stem: сожалеть.
+ gramm: V,rus,rus_inf,rus_ipfv
+ paradigm: Comparative
+ trans_ru: сожалеть
 -lexeme
  lex: жарить
  stem: жарить.
