@@ -21,7 +21,7 @@ dictDiacritics = {
     'ё': 'е'
 }
 rxParadigmChange = re.compile('( stem: *[^\r\n]+ӟ\\.\n(?: [^\r\n]*\n)*)'
-                              '( paradigm: (?:Noun|connect_verbs)[^\r\n]+?)((?:-consonant)?)\n',
+                              '( paradigm: (?:Noun|connect_verbs)[^\r\n]+?[^C])((?:-consonant)?)\n',
                               flags=re.DOTALL)
 
 
@@ -178,16 +178,69 @@ def prepare_files():
     shutil.copy2('udmurt_disambiguation.cg3', 'uniparser_udmurt/data_oldorth/')
 
 
+def process_unanalyzed(a, replacementsAllowed=0):
+    """
+    Try analyzing the unanalyzed words with another, lax model.
+    Add the results to the list of analyzed words.
+    This function is first called with a diacritic-insensitive model,
+    then with a strict model that allows for replacements.
+    """
+    unanalyzedDia = []
+    freqDict = {}
+    with open('wordlists/wordlist_unanalyzed.txt', 'r', encoding='utf-8') as fIn:
+        for word in fIn:
+            word = word.strip()
+            unanalyzedDia.append(word)
+    with open('wordlists/wordlist.csv', 'r', encoding='utf-8') as fIn:
+        for line in fIn:
+            word, freq = line.strip().split('\t')
+            freqDict[word] = freq
+    with open('wordlists/wordlist_nodia.csv', 'w', encoding='utf-8') as fOut:
+        for word in unanalyzedDia:
+            fOut.write(word + '\t' + freqDict[word] + '\n')
+    a.analyze_wordlist(freqListFile='wordlists/wordlist_nodia.csv',
+                       parsedFile='wordlists/wordlist_analyzed_nodia.txt',
+                       unparsedFile='wordlists/wordlist_unanalyzed_nodia.txt',
+                       verbose=True,
+                       replacementsAllowed=replacementsAllowed)
+    analyzedDia = set()
+    with open('wordlists/wordlist_analyzed_nodia.txt', 'r', encoding='utf-8') as fIn:
+        lines = '\n'
+        for line in fIn:
+            m = re.search('^(.*>)([^<>\r\n]+)</w>', line)
+            if m is None:
+                continue
+            word = m.group(2)
+            analyzedDia.add(word)
+            lines += m.group(1) + word + '</w>\n'
+    with open('wordlists/wordlist_analyzed.txt', 'a', encoding='utf-8') as fOut:
+        fOut.write(lines)
+    lines = []
+    with open('wordlists/wordlist_unanalyzed.txt', 'r', encoding='utf-8') as fIn:
+        for line in fIn:
+            line = line.strip()
+            if line not in analyzedDia:
+                lines.append(line)
+    with open('wordlists/wordlist_unanalyzed.txt', 'w', encoding='utf-8') as fOut:
+        fOut.write('\n'.join(lines))
+
+
 def parse_wordlists():
     """
     Analyze wordlists/wordlist.csv.
     """
     from uniparser_udmurt import UdmurtAnalyzer
     a = UdmurtAnalyzer(mode='strict')
+    aNodia = UdmurtAnalyzer(mode='nodiacritics')
     a.analyze_wordlist(freqListFile='wordlists/wordlist.csv',
                        parsedFile='wordlists/wordlist_analyzed.txt',
                        unparsedFile='wordlists/wordlist_unanalyzed.txt',
-                       verbose=True)
+                       verbose=True,
+                       replacementsAllowed=0)
+    print('Processing words that potentially have no diacritics...')
+    process_unanalyzed(aNodia)
+    print('Processing words with one replacement allowed...')
+    process_unanalyzed(a, replacementsAllowed=1)
 
 
 if __name__ == '__main__':

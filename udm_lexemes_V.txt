@@ -3061,8 +3061,8 @@
  trans_ru: зеленеть
 
 -lexeme
- lex: вожоаськыны
- stem: вожоаськ.
+ lex: вожояськыны
+ stem: вожояськ.//вожоаськ.
  gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: рядиться, одеваться в маскарадный костюм
@@ -5480,7 +5480,14 @@
  stem: жаритьт.|жарить.|жаритьт.
  gramm: V,I,tr,with_instr,rus,rus_ipfv
  paradigm: connect_verbs-I-CC
- trans_ru: зажарить, поджарить, жарить
+ trans_ru: жарить
+
+-lexeme
+ lex: варитьтыны
+ stem: варитьт.|варить.|варитьт.
+ gramm: V,I,tr,with_instr,rus,rus_ipfv
+ paradigm: connect_verbs-I-CC
+ trans_ru: варить
 
 -lexeme
  lex: жиетыны
@@ -11306,6 +11313,13 @@
  stem: лопырт.|лопыр.|лопырт.
  gramm: V,I,intr
  paradigm: connect_verbs-I-CC
+ trans_ru: 1. хлопать крыльями 2. бурлить, булькать
+
+-lexeme
+ lex: лопыръяны
+ stem: лопыръя.
+ gramm: V,II,intr
+ paradigm: connect_verbs-II
  trans_ru: 1. хлопать крыльями 2. бурлить, булькать
 
 -lexeme
@@ -25712,7 +25726,14 @@
  stem: ӟечъяськ.
  gramm: V,I,intr
  paradigm: connect_verbs-I
- trans_ru: 1. польстить, льстить 2.похвастать, хвастать 3. поздороваться
+ trans_ru: льстить; хвастать; здороваться
+
+-lexeme
+ lex: ӟучъяськыны
+ stem: ӟучъяськ.
+ gramm: V,I,intr
+ paradigm: connect_verbs-I
+ trans_ru: говорить по-русски
 
 -lexeme
  lex: ӟечыраны
@@ -42836,6 +42857,13 @@
  stem: латькет.
  paradigm: connect_verbs-I
  trans_ru: качаться (из стороны в сторону), шататься; раскачиваться
+
+-lexeme
+ lex: матькетыны
+ gramm: V,intr,I,rus
+ stem: матькет.
+ paradigm: connect_verbs-I
+ trans_ru: материться
 
 -lexeme
  lex: лачмытскыны

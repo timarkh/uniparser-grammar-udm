@@ -3,6 +3,7 @@ try:
 except ImportError:
     from importlib_resources import files, as_file
 from uniparser_morph import Analyzer
+import re
 
 
 class UdmurtAnalyzer(Analyzer):
@@ -25,8 +26,15 @@ class UdmurtAnalyzer(Analyzer):
              as_file(files(self.dirName) / 'clitics.txt') as self.cliticFile,\
              as_file(files(self.dirName) / 'bad_analyses.txt') as self.delAnaFile:
             self.load_grammar()
+        self.initialize_parser()
+        self.m.MIN_REPLACEMENT_WORD_LEN = 8
+        self.m.MIN_REPLACEMENT_STEM_LEN = 6
+        self.m.rxNoReplacements = re.compile('-|ая$|ого$|кое$|р[яы]м?$|рт(ы|ов)$|ами$|ств[оае]м?$|[нцгх]и[яию]$|ией$|'
+                                             'публик[ие]$|[бвгжкмрфхцчшщ]ь[ея][мй]?$|[рн]т[ыае]$|шие$|ч[её]та$|[ое]ва$|шь$|[ией]те$|'
+                                             '[ео]вка$|цы$|няя$|нее$|[иаоеу]ты$|[бвгджзйклмнпрстфхцчшщ]но$|кин[оае]$|'
+                                             '[ео]в[оа][мй]?$|дане$', flags=re.I)
 
-    def analyze_words(self, words, format=None, disambiguate=False):
+    def analyze_words(self, words, format=None, disambiguate=False, replacementsAllowed=0):
         """
         Analyze a single word or a (possibly nested) list of words. Return either a list of
         analyses (all possible analyses of the word) or a nested list of lists
@@ -40,8 +48,8 @@ class UdmurtAnalyzer(Analyzer):
             with as_file(files(self.dirName) / 'udmurt_disambiguation.cg3') as cgFile:
                 cgFilePath = str(cgFile)
                 return super().analyze_words(words, format=format, disambiguate=True,
-                                             cgFile=cgFilePath)
-        return super().analyze_words(words, format=format, disambiguate=False)
+                                             cgFile=cgFilePath, replacementsAllowed=replacementsAllowed)
+        return super().analyze_words(words, format=format, disambiguate=False, replacementsAllowed=replacementsAllowed)
 
 
 if __name__ == '__main__':

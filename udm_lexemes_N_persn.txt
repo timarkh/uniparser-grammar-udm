@@ -5738,6 +5738,12 @@
  paradigm: Noun-num-vowel
  trans_ru: Барамзина
 -lexeme
+ lex: Карамзина
+ stem: карамзина.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Карамзина
+-lexeme
  lex: Барзас
  stem: барзас.
  gramm: N,PN,topn
@@ -14657,6 +14663,12 @@
  paradigm: Noun-num-consonant
  trans_ru: Голливуд
 -lexeme
+ lex: Болливуд
+ stem: болливуд.
+ gramm: N,PN,topn
+ paradigm: Noun-num-consonant
+ trans_ru: Болливуд
+-lexeme
  lex: Гольдони
  stem: гольдони.
  gramm: N,PN,famn
@@ -22761,6 +22773,12 @@
  paradigm: Noun-num-vowel
  trans_ru: Снигирёва
 -lexeme
+ lex: Снегирёва
+ stem: снегирёва.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Снегирёва
+-lexeme
  lex: Собина
  stem: собина.
  gramm: N,PN,famn
@@ -28509,6 +28527,12 @@
  gramm: N,PN,famn
  paradigm: Noun-num-consonant
  trans_ru: Ботников
+-lexeme
+ lex: Сотников
+ stem: сотников.
+ gramm: N,PN,famn
+ paradigm: Noun-num-consonant
+ trans_ru: Сотников
 -lexeme
  lex: Бочарников
  stem: бочарников.
@@ -47920,6 +47944,12 @@
  paradigm: Noun-num-consonant
  trans_ru: Яровиков
 -lexeme
+ lex: Ярослава
+ stem: ярослава.
+ gramm: N,PN,persn
+ paradigm: Noun-num-vowel
+ trans_ru: Ярослава
+-lexeme
  lex: Ярославна
  stem: ярославна.
  gramm: N,PN,patrn
@@ -48154,6 +48184,12 @@
  gramm: N,PN,persn
  paradigm: Noun-num-consonant
  trans_ru: Герасим
+-lexeme
+ lex: Гульзада
+ stem: гульзада.
+ gramm: N,PN,persn
+ paradigm: Noun-num-vowel
+ trans_ru: Гульзада
 -lexeme
  lex: Гульзида
  stem: гульзида.
@@ -65443,6 +65479,13 @@
  trans_ru: Робинзон
 
 -lexeme
+ lex: Робинсон
+ gramm: N,famn,PN
+ stem: робинсон.
+ paradigm: Noun-num-consonant
+ trans_ru: Робинсон
+
+-lexeme
  lex: Рогоносов
  gramm: N,PN,famn
  stem: рогоносов.
@@ -75798,6 +75841,13 @@
  trans_ru: Гартман
 
 -lexeme
+ lex: Лотман
+ gramm: N,famn,PN
+ stem: лотман.
+ paradigm: Noun-num-consonant
+ trans_ru: Лотман
+
+-lexeme
  lex: Дизмино
  gramm: N,topn,PN
  stem: дизмино.
@@ -77245,6 +77295,13 @@
  stem: барамзин.
  paradigm: Noun-num-consonant
  trans_ru: Барамзин
+
+-lexeme
+ lex: Карамзин
+ gramm: N,famn,PN
+ stem: карамзин.
+ paradigm: Noun-num-consonant
+ trans_ru: Карамзин
 
 -lexeme
  lex: Барковская
@@ -82593,6 +82650,13 @@
  stem: тайху.
  paradigm: Noun-num-vowel
  trans_ru: Тайху
+
+-lexeme
+ lex: Тайвань
+ gramm: N,topn,PN
+ stem: тайюан.
+ paradigm: Noun-num-soft
+ trans_ru: Тайвань
 
 -lexeme
  lex: Тайюань
@@ -89519,9 +89583,9 @@
  trans_ru: Грацианов
 
 -lexeme
- lex: Гребенкин
+ lex: Гребёнкин
  gramm: N,PN,famn
- stem: гребенкин.
+ stem: гребёнкин.
  paradigm: Noun-num-consonant
  trans_ru: Гребенкин
 
@@ -90681,6 +90745,13 @@
  trans_ru: Иволгин
 
 -lexeme
+ lex: Изместьев
+ gramm: N,PN,famn
+ stem: изместьев.
+ paradigm: Noun-num-consonant
+ trans_ru: Изместьев
+
+-lexeme
  lex: Изместиев
  gramm: N,PN,famn
  stem: изместиев.
@@ -91533,6 +91604,13 @@
  stem: колотухин.
  paradigm: Noun-num-consonant
  trans_ru: Колотухин
+
+-lexeme
+ lex: Золотухин
+ gramm: N,PN,famn
+ stem: золотухин.
+ paradigm: Noun-num-consonant
+ trans_ru: Золотухин
 
 -lexeme
  lex: Колупаева
@@ -94202,6 +94280,20 @@
  trans_ru: Подсезерцева
 
 -lexeme
+ lex: Подседерцев
+ gramm: N,PN,famn
+ stem: подсезерцев.
+ paradigm: Noun-num-consonant
+ trans_ru: Подседерцев
+
+-lexeme
+ lex: Подседерцева
+ gramm: N,PN,famn
+ stem: подсезерцева.
+ paradigm: Noun-num-vowel
+ trans_ru: Подседерцева
+
+-lexeme
  lex: Подтяжкин
  gramm: N,PN,famn
  stem: подтяжкин.
@@ -94634,6 +94726,13 @@
  stem: рахматулин.
  paradigm: Noun-num-consonant
  trans_ru: Рахматулин
+
+-lexeme
+ lex: Рахматуллин
+ gramm: N,PN,famn
+ stem: рахматуллин.
+ paradigm: Noun-num-consonant
+ trans_ru: Рахматуллин
 
 -lexeme
  lex: Рачкова
@@ -95264,6 +95363,13 @@
  stem: сивенков.
  paradigm: Noun-num-consonant
  trans_ru: Сивенков
+
+-lexeme
+ lex: Силуанов
+ gramm: N,PN,famn
+ stem: силуанов.
+ paradigm: Noun-num-consonant
+ trans_ru: Силуанов
 
 -lexeme
  lex: Силуянов

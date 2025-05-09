@@ -3808,6 +3808,13 @@
  trans_ru: окаянный
 
 -lexeme
+ lex: кыккылъем
+ stem: кыккылъем.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: двуязычный
+
+-lexeme
  lex: амалъем
  stem: амалъем.
  gramm: ADJ
@@ -22138,10 +22145,16 @@
  trans_ru: максимовский
 -lexeme
  lex: маленькой
- stem: маленько.
+ stem: маленько.//маленьки.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: маленький
+-lexeme
+ lex: миленькой
+ stem: миленько.//миленьки.
+ gramm: ADJ,rus
+ paradigm: connect_adjectives-j
+ trans_ru: миленький
 -lexeme
  lex: малиновой
  stem: малиново.//малиновы.
@@ -32825,7 +32838,7 @@
 -lexeme
  lex: вечерней
  gramm: ADJ,rus
- stem: вечерне.
+ stem: вечерне.//вечерни.
  paradigm: connect_adjectives-j
  trans_ru: вечерний
 

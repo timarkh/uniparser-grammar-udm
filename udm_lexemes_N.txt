@@ -28611,9 +28611,10 @@
 
 -lexeme
  lex: культура
- stem: культура.
+ stem: культура.//культур.
  gramm: N,rus
  paradigm: Noun-num-vowel
+ paradigm: Noun-num-consonant
  trans_ru: культура
 
 -lexeme
@@ -30211,13 +30212,6 @@
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru:
-
--lexeme
- lex: кылгожтон
- stem: кылгожтон.
- gramm: N
- paradigm: Noun-num-consonant
- trans_ru: интервью
 
 -lexeme
  lex: кылгожтон
@@ -32896,9 +32890,10 @@
 
 -lexeme
  lex: литература
- stem: литература.
+ stem: литература.//литератур.
  gramm: N,rus
  paradigm: Noun-num-vowel
+ paradigm: Noun-num-consonant
  trans_ru: литература
 
 -lexeme
@@ -45147,9 +45142,10 @@
 
 -lexeme
  lex: пластмасса
- stem: пластмасса.
+ stem: пластмасса.//пластмасс.
  gramm: N,rus
  paradigm: Noun-num-vowel
+ paradigm: Noun-num-consonant
  trans_ru: пластмасса
 
 -lexeme
@@ -62138,6 +62134,13 @@
  trans_ru: уравнение
 
 -lexeme
+ lex: равнение
+ stem: равнени.
+ gramm: N,rus
+ paradigm: Noun-num-ije
+ trans_ru: равнение
+
+-lexeme
  lex: уравниловка
  stem: уравниловка.
  gramm: N,rus
@@ -75711,7 +75714,7 @@
  trans_ru: величие
 -lexeme
  lex: быдӟымнунал
- stem: быдӟымнунал.//быдӟымнуналм.//будӟынал.
+ stem: быдӟымнунал.//быдӟымнуналм.//будӟынал.//быдӟынал.
  gramm: N,time_meas
  paradigm: Noun-num-consonant
  trans_ru: Пасха
@@ -78051,7 +78054,7 @@
  lex: интервью
  stem: интервью.
  gramm: N,rus
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-vowel
  trans_ru: интервью
 -lexeme
  lex: интермедия
@@ -84764,7 +84767,7 @@
  trans_ru: субвенция
 -lexeme
  lex: субкультура
- stem: субкультура.
+ stem: субкультура.//субкультур.
  gramm: N,rus
  paradigm: Noun-num-vowel
  trans_ru: субкультура
@@ -96494,6 +96497,12 @@
  paradigm: Noun-num-ije
  trans_ru: обучение
 -lexeme
+ lex: облучение
+ stem: облучени.
+ gramm: N,rus
+ paradigm: Noun-num-ije
+ trans_ru: облучение
+-lexeme
  lex: объяснение
  stem: объяснени.
  gramm: N,rus
@@ -97111,6 +97120,12 @@
  gramm: N,rus
  paradigm: Noun-num-ije
  trans_ru: хождение
+-lexeme
+ lex: рождение
+ stem: рождени.
+ gramm: N,rus
+ paradigm: Noun-num-ije
+ trans_ru: рождение
 -lexeme
  lex: цветение
  stem: цветени.
@@ -97932,6 +97947,12 @@
  gramm: N,rus,anim,hum
  paradigm: Noun-num-vowel
  trans_ru: журналюга
+-lexeme
+ lex: заимствование
+ stem: заимствовани.
+ gramm: N,rus
+ paradigm: Noun-num-ije
+ trans_ru: заимствование
 -lexeme
  lex: заимствование
  stem: заимстовани.
@@ -105134,6 +105155,13 @@
  trans_ru: инквизитор
 
 -lexeme
+ lex: реквизитор
+ gramm: N,rus,anim,hum
+ stem: реквизитор.
+ paradigm: Noun-num-consonant
+ trans_ru: реквизитор
+
+-lexeme
  lex: инкутэт
  gramm: N
  stem: инкутэт.
@@ -106618,6 +106646,13 @@
  stem: кофеин.
  paradigm: Noun-num-consonant
  trans_ru: кофеин
+
+-lexeme
+ lex: кодеин
+ gramm: N,rus
+ stem: кодеин.
+ paradigm: Noun-num-consonant
+ trans_ru: кодеин
 
 -lexeme
  lex: кофейник
@@ -111249,6 +111284,13 @@
  stem: поручени.
  paradigm: Noun-num-ije
  trans_ru: поручение
+
+-lexeme
+ lex: получение
+ gramm: N,rus
+ stem: поручени.
+ paradigm: Noun-num-ije
+ trans_ru: получение
 
 -lexeme
  lex: поручик
@@ -118944,6 +118986,13 @@
  trans_ru: прозвание
 
 -lexeme
+ lex: призвание
+ gramm: N,rus
+ stem: призвани.
+ paradigm: Noun-num-ije
+ trans_ru: призвание
+
+-lexeme
  lex: радиоцех
  gramm: N,rus
  stem: радиоцех.
@@ -123784,6 +123833,13 @@
  trans_ru: изменение
 
 -lexeme
+ lex: измерение
+ gramm: N,rus
+ stem: изменени.
+ paradigm: Noun-num-ije
+ trans_ru: измерение
+
+-lexeme
  lex: изобретательство
  gramm: N,rus
  stem: изобретательство.
@@ -125688,11 +125744,11 @@
  trans_ru: нарком-комиссар
 
 -lexeme
- lex: нархозучет
+ lex: нархозучёт
  gramm: N,rus
  stem: нархозучет.
  paradigm: Noun-num-consonant
- trans_ru: нархозучет
+ trans_ru: нархозучёт
 
 -lexeme
  lex: насаждение
@@ -125700,6 +125756,13 @@
  stem: насаждени.
  paradigm: Noun-num-ije
  trans_ru: насаждение
+
+-lexeme
+ lex: наслаждение
+ gramm: N,rus
+ stem: наслаждени.
+ paradigm: Noun-num-ije
+ trans_ru: наслаждение
 
 -lexeme
  lex: насильник
