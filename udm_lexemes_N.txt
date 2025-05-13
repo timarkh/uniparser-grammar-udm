@@ -29955,7 +29955,7 @@
 
 -lexeme
  lex: кызь
- stem: 20.//20-.//xx.//xx-.
+ stem: 20.//20-.//xx.//xx-.//хх.//хх-.
  gramm: NUM
  paradigm: connect_num
  trans_ru: двадцать
@@ -36086,7 +36086,7 @@
 
 -lexeme
  lex: микрорайон
- stem: микрорайон.
+ stem: микрорайон.//мкр.//мкр-.
  gramm: N,rus
  paradigm: Noun-num-consonant
  trans_ru: микрорайон
@@ -36163,7 +36163,7 @@
 
 -lexeme
  lex: миллиард
- stem: миллиард.
+ stem: миллиард.//миллярд.
  gramm: N,rus
  paradigm: Noun-num-consonant
  trans_ru: миллиард
@@ -36177,7 +36177,7 @@
 
 -lexeme
  lex: миллиметр
- stem: миллиметр.
+ stem: миллиметр.//мм.//мм-.
  gramm: N,rus
  paradigm: Noun-num-consonant
  trans_ru: миллиметр
@@ -50514,7 +50514,7 @@
 
 -lexeme
  lex: район
- stem: район.
+ stem: район.//р-н.
  gramm: N,rus
  paradigm: Noun-num-consonant
  trans_ru: район
@@ -53813,7 +53813,7 @@
 
 -lexeme
  lex: синпель
- stem: синпел.
+ stem: синпел.//син-пел.
  gramm: N
  paradigm: Noun-num-soft
  trans_ru: память
@@ -95627,7 +95627,7 @@
  trans_ru: рэп
 -lexeme
  lex: смс
- stem: смс.
+ stem: смс.//смс-.
  gramm: N,rus
  paradigm: Noun-num-consonant
  trans_ru: смс

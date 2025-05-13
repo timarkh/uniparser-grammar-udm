@@ -9571,16 +9571,16 @@
 
 -lexeme
  lex: чебер
- stem: чебер.//чебеер.//чебееер.//чибер.
+ stem: чебер.//чебеер.//чебееер.
  gramm: ADJ
  paradigm: connect_adjectives
  trans_ru: красивый
 
 -lexeme
  lex: чебер
- stem: чебе
- gramm: ADJ
- paradigm: connect_adjectives-j
+ stem: ӵебер.//чибер.
+ gramm: ADJ,missp
+ paradigm: connect_adjectives
  trans_ru: красивый
 
 -lexeme
@@ -32086,10 +32086,10 @@
 
 -lexeme
  lex: шоръёзо
- stem: шоръёзо.
+ stem: шоръёзо.//шор-ёзо.
  gramm: ADJ
  paradigm: connect_adjectives
- trans_ru: средний
+ trans_ru: средняя (школа)
 
 -lexeme
  lex: курдыт
