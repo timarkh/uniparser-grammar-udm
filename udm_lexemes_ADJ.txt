@@ -26069,7 +26069,7 @@
  trans_ru: посессивный
 -lexeme
  lex: последний
- stem: последни.//последно.//последни.//последны.
+ stem: последни.//последно.//последни.//последны.//последне.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: последний
@@ -48276,3 +48276,192 @@
  stem: зимни.//зимне.
  paradigm: connect_adjectives-j
  trans_ru: зимний
+
+-lexeme
+ lex: татыш
+ gramm: ADJ
+ stem: татыш.
+ paradigm: connect_adjectives
+ trans_ru: татышлинский
+
+-lexeme
+ lex: гортанной
+ gramm: ADJ,rus
+ stem: гортанно.//гортанны.
+ paradigm: connect_adjectives-j
+ trans_ru: гортанный
+
+-lexeme
+ lex: обширной
+ gramm: ADJ,rus
+ stem: обширно.//обширны.
+ paradigm: connect_adjectives-j
+ trans_ru: обширный
+
+-lexeme
+ lex: душистой
+ gramm: ADJ,rus
+ stem: душисто.//душисты.
+ paradigm: connect_adjectives-j
+ trans_ru: душистый
+
+-lexeme
+ lex: азьвыл
+ stem: азьвыл.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: прежний, предыдущий; прошлый
+
+-lexeme
+ lex: азьнырысь
+ stem: азьнырыс.
+ gramm: ADJ
+ paradigm: connect_adjectives-soft
+ trans_ru: диал. самый первый
+
+-lexeme
+ lex: аип
+ stem: аип.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: уст. виновный
+
+-lexeme
+ lex: беззаконной
+ stem: беззаконно.//беззаконны.
+ gramm: ADJ,rus
+ paradigm: connect_adjectives-j
+ trans_ru: беззаконный
+
+-lexeme
+ lex: былама
+ stem: былама.//блама.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: диал. вздорный, абсурдный; повсеместный
+
+-lexeme
+ lex: бытымыр
+ stem: бытымыр.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: диал. вечный
+
+-lexeme
+ lex: вавилонской
+ stem: вавилонско.
+ gramm: ADJ,rus
+ paradigm: connect_adjectives-j
+ trans_ru: вавилонский
+
+-lexeme
+ lex: вадьла
+ stem: вадьла.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: диал. древний, старинный
+
+-lexeme
+ lex: вазьнырысь
+ stem: вазьнырыс.
+ gramm: ADJ
+ paradigm: connect_adjectives-soft
+ trans_ru: диал. самый первый
+
+-lexeme
+ lex: вамен
+ stem: вамен.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: поперечный
+
+-lexeme
+ lex: велись
+ stem: велис.
+ gramm: ADJ
+ paradigm: connect_adjectives-soft
+ trans_ru: диал. первый, начальный
+
+-lexeme
+ lex: винамат
+ stem: винамат.
+ gramm: ADJ,rus
+ paradigm: connect_adjectives
+ trans_ru: диал. виновный, виноватый
+
+-lexeme
+ lex: галилейской
+ stem: галилейско.//галилейски.
+ gramm: ADJ,rus,PN
+ paradigm: connect_adjectives-j
+ trans_ru: галилейский
+
+-lexeme
+ lex: гефсиманской
+ stem: гефсиманско.//гефсимански.
+ gramm: ADJ,rus,PN
+ paradigm: connect_adjectives-j
+ trans_ru: гефсиманский
+
+-lexeme
+ lex: гижлоесь
+ stem: гижлоес.
+ gramm: ADJ,oblin
+ paradigm: connect_adjectives-soft
+ trans_ru: покрытый болячками (коростой)
+
+-lexeme
+ lex: израильской
+ stem: израильско.//израильски.
+ gramm: ADJ,rus
+ paradigm: connect_adjectives-j
+ trans_ru: израильский
+
+-lexeme
+ lex: иудейской
+ stem: иудейско.//иудейски.
+ gramm: ADJ,rus
+ paradigm: connect_adjectives-j
+ trans_ru: иудейский
+
+-lexeme
+ lex: модэс
+ stem: модэс.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: диал. руководящий
+
+-lexeme
+ lex: понтийской
+ stem: понтийско.//понтийски.
+ gramm: ADJ,rus,PN
+ paradigm: connect_adjectives-j
+ trans_ru: понтийский
+
+-lexeme
+ lex: сюлэг
+ stem: сюлэг.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: узкий
+
+-lexeme
+ lex: тырмыт
+ stem: тырмыт.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: достаточный, полный
+
+-lexeme
+ lex: ханаанской
+ stem: ханаанско.//ханаански.
+ gramm: ADJ,rus,PN
+ paradigm: connect_adjectives-j
+ trans_ru: ханаанский
+
+-lexeme
+ lex: шайтано
+ stem: шайтано.
+ gramm: ADJ
+ paradigm: connect_adjectives
+ trans_ru: бесноватый (шайтано мурт)

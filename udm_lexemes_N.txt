@@ -61790,7 +61790,7 @@
 
 -lexeme
  lex: улос
- stem: улос.
+ stem: улос.//улоск.
  gramm: N
  paradigm: Noun-num-consonant
  paradigm: Noun-num-consonant-y
@@ -68889,7 +68889,7 @@
  stem: шырпы.|шырпи.
  gramm: N
  paradigm: Noun-num-vowel-dial-iy
- trans_ru: заноза
+ trans_ru: заноза; спичка
 
 -lexeme
  lex: шырсяська
@@ -79451,7 +79451,7 @@
  stem: кунока.
  gramm: N
  paradigm: Noun-num-vowel
- trans_ru: гостиница
+ trans_ru: гостиница; квартира (дом) хозяина, у которого гостят
 -lexeme
  lex: кунсьӧр
  stem: кунсьӧр.
@@ -141856,3 +141856,599 @@
  paradigm: Noun-num-consonant
  trans_ru: ящик
 
+-lexeme
+ lex: несушка
+ gramm: N,rus,anim
+ stem: несушка.//несушк.
+ paradigm: Noun-num-vowel
+ trans_ru: несушка
+
+-lexeme
+ lex: зелень
+ gramm: N,rus
+ stem: зелен.
+ paradigm: Noun-num-soft
+ trans_ru: зелень
+
+-lexeme
+ lex: электропастух
+ gramm: N,rus
+ stem: электропастух.
+ paradigm: Noun-num-consonant
+ trans_ru: электропастух (забор под напряжением)
+
+-lexeme
+ lex: ноготки
+ gramm: N,rus
+ stem: ноготки.
+ paradigm: Noun-num-vowel
+ trans_ru: ноготки
+
+-lexeme
+ lex: смесь
+ gramm: N,rus
+ stem: смес.
+ paradigm: Noun-num-soft
+ trans_ru: смесь
+
+-lexeme
+ lex: портянки
+ gramm: N,rus
+ stem: портянки.
+ paradigm: Noun-num-vowel
+ trans_ru: портянки
+
+-lexeme
+ lex: слова
+ gramm: N,rus
+ stem: слова.
+ paradigm: Noun-num-vowel
+ trans_ru: слова
+
+-lexeme
+ lex: былазык
+ gramm: N
+ stem: былазык.
+ paradigm: Noun-num-consonant
+ trans_ru: браслет
+
+-lexeme
+ lex: аип
+ stem: аип.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: уст. вина
+
+-lexeme
+ lex: акрида
+ stem: акрида.
+ gramm: N,anim,rus,anim
+ paradigm: Noun-num-vowel
+ trans_ru: акрида
+
+-lexeme
+ lex: акы
+ stem: акы.
+ gramm: N,anim,hum
+ paradigm: Noun-num-vowel
+ trans_ru: старшая сестра; тётя
+
+-lexeme
+ lex: ассарий
+ stem: ассари.
+ gramm: N,rus
+ paradigm: Noun-num-j
+ trans_ru: ассарий
+
+-lexeme
+ lex: атасзырӟон
+ stem: атасзырӟон.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: боярышник; диал. терновник, тёрн
+
+-lexeme
+ lex: атасгырӟон
+ stem: атасгырӟон.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: боярышник; диал. терновник, тёрн
+
+-lexeme
+ lex: беда
+ stem: беда.
+ gramm: N,rus
+ paradigm: Noun-num-vowel
+ trans_ru: беда
+
+-lexeme
+ lex: беркут
+ stem: беркут.
+ gramm: N,anim,rus
+ paradigm: Noun-num-consonant
+ trans_ru: беркут
+
+-lexeme
+ lex: бурыт
+ stem: бурыт.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: уст. долг
+
+-lexeme
+ lex: былама
+ stem: былама.//блама.
+ gramm: N
+ paradigm: Noun-num-vowel
+ trans_ru: диал. вздор, абсурд
+
+-lexeme
+ lex: вармайы
+ stem: вармайы.//вармайи.
+ gramm: N,anim,hum
+ paradigm: Noun-num-vowel
+ trans_ru: тесть
+
+-lexeme
+ lex: веельзевул
+ stem: веельзевул.
+ gramm: N,rus,supernat
+ paradigm: Noun-num-consonant
+ trans_ru: веельзевул
+
+-lexeme
+ lex: верста
+ stem: верста.
+ gramm: N,rus
+ paradigm: Noun-num-vowel
+ trans_ru: верста
+
+-lexeme
+ lex: винамат
+ stem: винамат.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: диал. вина; виновник
+
+-lexeme
+ lex: возёбур
+ stem: возёбур.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: диал. приветствие
+
+-lexeme
+ lex: волхв
+ stem: волхв.
+ gramm: N,anim,hum,rus
+ paradigm: Noun-num-consonant
+ trans_ru: волхв
+
+-lexeme
+ lex: вур
+ stem: вур.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: диал. штраф
+
+-lexeme
+ lex: выжы-кум
+ stem: выжы-кум.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: род; родня, родство, свойство
+
+-lexeme
+ lex: выжы-кумы
+ stem: выжы-кумы.
+ gramm: N
+ paradigm: Noun-num-vowel
+ trans_ru: род; родня, родство, свойство
+
+-lexeme
+ lex: геенна
+ stem: геенна.
+ gramm: N,rus
+ paradigm: Noun-num-vowel
+ trans_ru: геенна
+
+-lexeme
+ lex: господь
+ stem: господ.
+ gramm: N,rus,supernat
+ paradigm: Noun-num-soft
+ trans_ru: господь
+
+-lexeme
+ lex: денарий
+ stem: денари.
+ gramm: N,rus
+ paradigm: Noun-num-j
+ trans_ru: денарий
+
+-lexeme
+ lex: дерли
+ stem: дерли.
+ gramm: N
+ paradigm: Noun-num-vowel
+ trans_ru: уст. брение
+
+-lexeme
+ lex: дидрахма
+ stem: дидрахма.
+ gramm: N,rus
+ paradigm: Noun-num-vowel
+ trans_ru: дидрахма
+
+-lexeme
+ lex: драхма
+ stem: драхма.
+ gramm: N,rus
+ paradigm: Noun-num-vowel
+ trans_ru: драхма
+
+-lexeme
+ lex: египтянин
+ stem: египтянин.
+ gramm: N,anim,hum,rus
+ paradigm: Noun-num-consonant
+ trans_ru: египтянин
+
+-lexeme
+ lex: еллин
+ stem: еллин.
+ gramm: N,anim,hum,rus
+ paradigm: Noun-num-consonant
+ trans_ru: эллин
+
+-lexeme
+ lex: жертвенник
+ stem: жертвенник.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: жертвенник
+
+-lexeme
+ lex: заповедь
+ stem: заповед.
+ gramm: N,rus
+ paradigm: Noun-num-soft
+ trans_ru: заповедь
+
+-lexeme
+ lex: заят
+ stem: заят.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: диал. время
+
+-lexeme
+ lex: зуон
+ stem: зуон.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: диал. спасение
+
+-lexeme
+ lex: игемон
+ stem: игемон.
+ gramm: N,anim,hum,rus
+ paradigm: Noun-num-consonant
+ trans_ru: игемон
+
+-lexeme
+ lex: катехизис
+ stem: катехизис.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: катехизис
+
+-lexeme
+ lex: кивот
+ stem: кивот.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: кивот
+
+-lexeme
+ lex: клэм
+ stem: клэм.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: диал. плод
+
+-lexeme
+ lex: копьё
+ stem: копьё.
+ gramm: N,rus
+ paradigm: Noun-num-vowel
+ trans_ru: копьё
+
+-lexeme
+ lex: крест
+ stem: крест.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: крест
+
+-lexeme
+ lex: крещон
+ stem: крещон.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: диал. крещение
+
+-lexeme
+ lex: куйкы
+ stem: куйкы.
+ gramm: N
+ paradigm: Noun-num-vowel
+ trans_ru: диал. горе; печаль
+
+-lexeme
+ lex: легезь
+ stem: легез.
+ gramm: N
+ paradigm: Noun-num-soft
+ trans_ru: шиповник
+
+-lexeme
+ lex: мадё
+ stem: мадё.
+ gramm: N
+ paradigm: Noun-num-vowel
+ trans_ru: диал. слава
+
+-lexeme
+ lex: манна
+ stem: манна.
+ gramm: N,rus
+ paradigm: Noun-num-vowel
+ trans_ru: манна
+
+-lexeme
+ lex: милостыня
+ stem: милостыня.
+ gramm: N,rus
+ paradigm: Noun-num-vowel
+ trans_ru: милостыня
+
+-lexeme
+ lex: милость
+ stem: милост.
+ gramm: N,rus
+ paradigm: Noun-num-soft
+ trans_ru: милость
+
+-lexeme
+ lex: модэс
+ stem: модэс.
+ gramm: N,anim,hum
+ paradigm: Noun-num-consonant
+ trans_ru: диал. начальник
+
+-lexeme
+ lex: мытарь
+ stem: мытар.
+ gramm: N,anim,hum,rus
+ paradigm: Noun-num-soft
+ trans_ru: мытарь
+
+-lexeme
+ lex: назорей
+ stem: назоре.
+ gramm: N,anim,hum,rus
+ paradigm: Noun-num-j
+ trans_ru: назорей
+
+-lexeme
+ lex: нимо-туло
+ stem: нимо-туло.
+ gramm: N,attr_o
+ paradigm: Noun-num-vowel
+ trans_ru: по имени
+
+-lexeme
+ lex: нюнь
+ stem: нюн.
+ gramm: N
+ paradigm: Noun-num-soft
+ trans_ru: диал. старший брат
+
+-lexeme
+ lex: нюнё
+ stem: нюнё.
+ gramm: N
+ paradigm: Noun-num-vowel
+ trans_ru: диал. старший брат
+
+-lexeme
+ lex: обедня
+ stem: обедня.
+ gramm: N,rus
+ paradigm: Noun-num-vowel
+ trans_ru: обедня
+
+-lexeme
+ lex: обидь
+ stem: обид.
+ gramm: N,rus
+ paradigm: Noun-num-soft
+ trans_ru: диал. обида
+
+-lexeme
+ lex: пастырь
+ stem: пастыр.
+ gramm: N,anim,hum,rus
+ paradigm: Noun-num-soft
+ trans_ru: пастырь
+
+-lexeme
+ lex: полон
+ stem: полон.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: диал. плен
+
+-lexeme
+ lex: полушка
+ stem: полушка.
+ gramm: N,rus
+ paradigm: Noun-num-vowel
+ trans_ru: полушка
+
+-lexeme
+ lex: поп
+ stem: поп.
+ gramm: N,anim,hum,rus
+ paradigm: Noun-num-consonant
+ trans_ru: поп
+
+-lexeme
+ lex: постной
+ stem: постно.
+ gramm: N,rus
+ paradigm: Noun-num-j
+ trans_ru: пост
+
+-lexeme
+ lex: потоп
+ stem: потоп.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: потоп
+
+-lexeme
+ lex: пророчица
+ stem: пророчица.
+ gramm: N,anim,hum,rus
+ paradigm: Noun-num-vowel
+ trans_ru: пророчица
+
+-lexeme
+ lex: саддукей
+ stem: саддуке.
+ gramm: N,rus
+ paradigm: Noun-num-j
+ trans_ru: саддукей
+
+-lexeme
+ lex: синагога
+ stem: синагога.
+ gramm: N,rus
+ paradigm: Noun-num-vowel
+ trans_ru: синагога
+
+-lexeme
+ lex: синазькыль
+ stem: синазькыл.
+ gramm: N
+ paradigm: Noun-num-soft
+ trans_ru: ненависть
+
+-lexeme
+ lex: слава
+ stem: слава.
+ gramm: N,rus
+ paradigm: Noun-num-vowel
+ trans_ru: слава
+
+-lexeme
+ lex: смирна
+ stem: смирна.
+ gramm: N,rus
+ paradigm: Noun-num-vowel
+ trans_ru: смирна
+
+-lexeme
+ lex: смоква
+ stem: смоква.
+ gramm: N,rus
+ paradigm: Noun-num-vowel
+ trans_ru: смоква
+
+-lexeme
+ lex: смоковница
+ stem: смоковница.
+ gramm: N,rus
+ paradigm: Noun-num-vowel
+ trans_ru: смоковница
+
+-lexeme
+ lex: таинство
+ stem: таинство.
+ gramm: N,rus
+ paradigm: Noun-num-vowel
+ trans_ru: таинство
+
+-lexeme
+ lex: уно
+ stem: уно.
+ gramm: N
+ paradigm: Noun-num-vowel
+ trans_ru: множество
+
+-lexeme
+ lex: урд
+ stem: урд.
+ gramm: N,body
+ paradigm: Noun-num-consonant
+ paradigm: Noun-num-consonant-y
+ trans_ru: бок, боковая сторона
+
+-lexeme
+ lex: фарисей
+ stem: фарисе.
+ gramm: N,rus
+ paradigm: Noun-num-j
+ trans_ru: фарисей
+
+-lexeme
+ lex: шонер
+ stem: шонер.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: правда, истина
+
+-lexeme
+ lex: шырпы
+ stem: шырпы.
+ gramm: N
+ paradigm: Noun-num-vowel
+ trans_ru: спичка
+
+-lexeme
+ lex: эшакерпи
+ stem: эшакерпи.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: ослёнок
+
+-lexeme
+ lex: юлдошкыз
+ stem: юлдошкыз.
+ gramm: N,anim,hum
+ paradigm: Noun-num-consonant
+ trans_ru: диал. товарищ; уст. жених
+
+-lexeme
+ lex: ӝытлапал
+ stem: ӝытлапал.
+ gramm: N
+ paradigm: Noun-num-consonant
+ paradigm: Noun-num-pal
+ trans_ru: диал. вечер
+
+-lexeme
+ lex: ӟозы
+ stem: ӟозы.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: диал. кузнечик
+
+-lexeme
+ lex: агнец
+ stem: агнец.
+ gramm: N,rus,anim
+ paradigm: Noun-num-consonant
+ trans_ru: агнец

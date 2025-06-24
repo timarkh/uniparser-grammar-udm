@@ -148,14 +148,21 @@
 -lexeme
  lex: ӧйлась
  stem: ӧйлась.
- gramm: V
+ gramm: V,intr,pst
  paradigm: Comparative
  trans_ru: не получилось
 
 -lexeme
+ lex: лась
+ stem: лась.
+ gramm: V,intr,pst
+ paradigm: Comparative
+ trans_ru: разг. быть, стать
+
+-lexeme
  lex: луыны
  stem: ло.
- gramm: V,fut,3sg
+ gramm: V,intr,fut,3sg
  paradigm: Noun-num-vowel
  trans_ru: быть
 
@@ -8575,12 +8582,14 @@
  gramm: PART
  paradigm: Empty
  trans_ru: пожалуйста
+
 -lexeme
  lex: табыдӟа
  stem: табыдӟа.//табыдча.//табытча.//табыдца.
  gramm: ADV
  paradigm: connect_adverbs
  trans_ru: такого размера, столько
+
 -lexeme
  lex: собыдӟа
  stem: собыдӟа.//собыдча.//событча.//собыдца.
@@ -21949,3 +21958,157 @@
  gramm: ADV,el
  paradigm: connect_adverbs
  trans_ru: давно, издревле
+
+-lexeme
+ lex: вай-вай
+ gramm: IMIT
+ stem: вай-вай.
+ paradigm: Comparative
+ trans_ru: сильно
+
+-lexeme
+ lex: азьнырысь
+ stem: азьнырысь.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: диал. сперва
+
+-lexeme
+ lex: аль
+ stem: аль.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: разг. сейчас
+
+-lexeme
+ lex: былама
+ stem: былама.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: диал. вздорно, абсурдно; повсеместно, повсюду
+
+-lexeme
+ lex: бытымыр
+ stem: бытымыр.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: диал. вечно
+
+-lexeme
+ lex: вадьла
+ stem: вадьла.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: диал. раньше, прежде, в старину
+
+-lexeme
+ lex: вазьнырысь
+ stem: вазьнырысь.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: диал. сперва
+
+-lexeme
+ lex: вамен
+ stem: вамен.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: поперёк
+
+-lexeme
+ lex: велись
+ stem: велись.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: диал. только сейчас; снова, вновь, заново
+
+-lexeme
+ lex: вочак
+ stem: вочак.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: диал. полностью, целиком
+
+-lexeme
+ lex: куйкы
+ stem: куйкы.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: диал. горестно; печально
+
+-lexeme
+ lex: ношна
+ stem: ношна.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: опять, снова
+
+-lexeme
+ lex: нуналбыт
+ stem: нуналбыт.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: весь день
+
+-lexeme
+ lex: праказэ
+ stem: праказэ.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: диал. вовек
+
+-lexeme
+ lex: проти
+ stem: проти.
+ gramm: ADV,rus
+ paradigm: connect_adverbs
+ trans_ru: диал. против
+
+-lexeme
+ lex: пыраксэ
+ stem: пыраксэ.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: диал. навсегда; вовек
+
+-lexeme
+ lex: сюлэг
+ stem: сюлэг.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: узко
+
+-lexeme
+ lex: чатырак
+ stem: чатырак.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: вверх
+
+-lexeme
+ lex: чуп
+ stem: чуп.
+ gramm: IMIT
+ paradigm: Comparative
+ trans_ru: процеловать (чуп карыны)
+
+-lexeme
+ lex: шонер
+ stem: шонер.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: прямо; верно, правильно
+
+-lexeme
+ lex: шуксын
+ stem: шуксын.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: диал. напрасно
+
+-lexeme
+ lex: ӝытлапал
+ stem: ӝытлапал.
+ gramm: ADV
+ paradigm: connect_adverbs
+ trans_ru: диал. вечером

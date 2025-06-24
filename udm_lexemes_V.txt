@@ -55583,7 +55583,7 @@
  lex: шекарӟыны
  gramm: V,intr,rus,I
  stem: шекарӟ.
- paradigm: connect_verbs-I-soft
+ paradigm: connect_verbs-I
  trans_ru: становиться сладким
 
 -lexeme
@@ -55641,3 +55641,143 @@
  stem: зургытъя.
  paradigm: connect_verbs-II
  trans_ru: кидаться
+
+-lexeme
+ lex: аиптыны
+ stem: аипт.
+ gramm: V,I,tr
+ paradigm: connect_verbs-I
+ trans_ru: уст. обвинить
+
+-lexeme
+ lex: валесяськыны
+ stem: валесяськ.
+ gramm: V,I,intr
+ paradigm: connect_verbs-I
+ trans_ru: диал. причаститься
+
+-lexeme
+ lex: выльяны
+ stem: вылья.
+ gramm: V,II,tr
+ paradigm: connect_verbs-II
+ trans_ru: диал. обновить, обновлять
+
+-lexeme
+ lex: газьыртыны
+ stem: газьырт.
+ gramm: V,I,intr
+ paradigm: connect_verbs-I
+ trans_ru: диал. скрежетать
+
+-lexeme
+ lex: гыаны
+ stem: гыа.
+ gramm: V,II,intr
+ paradigm: connect_verbs-II
+ trans_ru: рябить; колыхаться, волноваться
+
+-lexeme
+ lex: йыбыръяны
+ stem: йыбыръя.
+ gramm: V,II,intr,mult
+ paradigm: connect_verbs-II
+ trans_ru: диал. просить, умолять; молиться
+
+-lexeme
+ lex: кенешаны
+ stem: кенеша.
+ gramm: V,II,intr
+ paradigm: connect_verbs-II
+ trans_ru: диал. обсуждать, советовать
+
+-lexeme
+ lex: куйкияны
+ stem: куйкия.
+ gramm: V,II,intr
+ paradigm: connect_verbs-II
+ trans_ru: диал. горевать
+
+-lexeme
+ lex: лекатыны
+ stem: лекат.
+ gramm: V,I,tr
+ paradigm: connect_verbs-I
+ trans_ru: хулить, осуждать, бранить; дать забодать
+
+-lexeme
+ lex: матэтскыны
+ stem: матэтск.
+ gramm: V,I,intr
+ paradigm: connect_verbs-I
+ trans_ru: приблизиться; сблизиться
+
+-lexeme
+ lex: мозтыны
+ stem: мозт.
+ gramm: V,I,tr
+ paradigm: connect_verbs-I
+ trans_ru: диал. освободить; отпустить
+
+-lexeme
+ lex: ниматыны
+ stem: нимат.
+ gramm: V,I,tr
+ paradigm: connect_verbs-I
+ trans_ru: прославить; диал. назвать
+
+-lexeme
+ lex: ораны
+ stem: ора.
+ gramm: V,II,tr
+ paradigm: connect_verbs-II
+ trans_ru: диал. грызть; кусать (о собаке)
+
+-lexeme
+ lex: пальсаны
+ stem: пальса.
+ gramm: V,II,tr
+ paradigm: connect_verbs-II
+ trans_ru: диал. распять
+
+-lexeme
+ lex: пустамыны
+ stem: пустам.
+ gramm: V,I,intr,rus
+ paradigm: connect_verbs-I
+ trans_ru: диал. опустошиться
+
+-lexeme
+ lex: сагыныны
+ stem: сагын.
+ gramm: V,I,tr
+ paradigm: connect_verbs-I
+ trans_ru: диал. почитать
+
+-lexeme
+ lex: чиректыны
+ stem: чирект.
+ gramm: V,I,intr
+ paradigm: connect_verbs-I
+ trans_ru: диал. позвать, окликнуть, окрикнуть; крикнуть
+
+-lexeme
+ lex: чирекъяны
+ stem: чирекъя.
+ gramm: V,II,intr,mult
+ paradigm: connect_verbs-II
+ trans_ru: диал. окликать, звать; кричать; покрикивать
+
+-lexeme
+ lex: явыны
+ stem: яв.
+ gramm: V,I,tr
+ paradigm: connect_verbs-I
+ trans_ru: диал. объявить, сообщить
+
+-lexeme
+ lex: ӝыжетыны
+ stem: ӝыжет.
+ gramm: V,I,tr
+ paradigm: connect_verbs-I
+ trans_ru: диал. успокоить

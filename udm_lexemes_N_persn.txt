@@ -100424,3 +100424,513 @@
  paradigm: Noun-num-soft
  trans_ru: Фаниль
 
+-lexeme
+ lex: Югорск
+ gramm: N,PN,topn
+ stem: югорск.
+ paradigm: Noun-num-consonant
+ trans_ru: Югорск
+
+-lexeme
+ lex: Гоготовка
+ gramm: N,PN,topn
+ stem: гоготовка.
+ paradigm: Noun-num-vowel
+ trans_ru: Гоготовка
+
+-lexeme
+ lex: Фарколла
+ gramm: N,persn,PN
+ stem: фарколла.
+ paradigm: Noun-num-vowel
+ trans_ru: Фарколла
+
+-lexeme
+ lex: Фатик
+ gramm: N,persn,PN
+ stem: фатик.
+ paradigm: Noun-num-consonant
+ trans_ru: Фатик
+
+-lexeme
+ lex: Истяпан
+ gramm: N,persn,PN
+ stem: истяпан.
+ paradigm: Noun-num-consonant
+ trans_ru: Истяпан (Степан)
+
+-lexeme
+ lex: Арибашево
+ gramm: N,topn,PN
+ stem: арибашево.
+ paradigm: Noun-num-vowel
+ trans_ru: Арибашево
+
+-lexeme
+ lex: Уразгильда
+ gramm: N,PN,topn
+ stem: уразгильда.
+ paradigm: Noun-num-vowel
+ trans_ru: Уразгильды
+
+-lexeme
+ lex: Башкибаш
+ gramm: N,PN,topn
+ stem: башкибаш.
+ paradigm: Noun-num-consonant
+ trans_ru: Башкибаш
+
+-lexeme
+ lex: Новтатышлы
+ gramm: N,PN,topn
+ stem: новтатышлы.//нов-татышлы.
+ paradigm: Noun-num-vowel
+ trans_ru: Новые Татышлы
+
+-lexeme
+ lex: уфимской
+ gramm: ADJ,PN,topn
+ stem: уфимско.//уфимски.
+ paradigm: connect_adjectives-j
+ trans_ru: уфимский
+
+-lexeme
+ lex: белорецкой
+ gramm: N,PN,topn
+ stem: белорецко.//белорецки.
+ paradigm: Noun-num-j
+ trans_ru: белорецкий
+
+-lexeme
+ lex: Фанга
+ gramm: N,PN
+ stem: фанга.
+ paradigm: Noun-num-vowel
+ trans_ru: Фанга
+
+-lexeme
+ lex: Самарканд
+ gramm: N,PN,topn
+ stem: самарканд.
+ paradigm: Noun-num-consonant
+ trans_ru: Самарканд
+
+-lexeme
+ lex: Мелиса
+ gramm: N,PN,persn
+ stem: мелиса.
+ paradigm: Noun-num-vowel
+ trans_ru: Мелиса
+
+-lexeme
+ lex: Сайдифа
+ gramm: N,PN,persn
+ stem: сайдифа.
+ paradigm: Noun-num-vowel
+ trans_ru: Сайдифа
+
+-lexeme
+ lex: Майтап
+ gramm: N,PN,persn
+ stem: майтап.
+ paradigm: Noun-num-consonant
+ trans_ru: Майтап
+
+-lexeme
+ lex: Тауш
+ gramm: N,PN,topn
+ stem: тауш.
+ paradigm: Noun-num-consonant
+ trans_ru: Тауш
+
+-lexeme
+ lex: Менкиӟиян
+ gramm: N,PN,persn
+ stem: менкиӟиян.
+ paradigm: Noun-num-consonant
+ trans_ru: Менкиджиян
+
+-lexeme
+ lex: Байшада
+ gramm: N,PN,persn
+ stem: байшада.
+ paradigm: Noun-num-vowel
+ trans_ru: Байшада
+
+-lexeme
+ lex: Авель
+ stem: авел.
+ gramm: N,PN,persn
+ paradigm: Noun-num-soft
+ trans_ru: Авель
+
+-lexeme
+ lex: Авиуд
+ stem: авиуд.
+ gramm: N,PN,persn
+ paradigm: Noun-num-consonant
+ trans_ru: Авиуд
+
+-lexeme
+ lex: Азор
+ stem: азор.
+ gramm: N,PN,persn
+ paradigm: Noun-num-consonant
+ trans_ru: Азор
+
+-lexeme
+ lex: Аримафея
+ stem: аримафея.
+ gramm: N,PN,topn
+ paradigm: Noun-num-vowel
+ trans_ru: Аримафея
+
+-lexeme
+ lex: Аса
+ stem: аса.
+ gramm: N,PN,persn
+ paradigm: Noun-num-vowel
+ trans_ru: Аса
+
+-lexeme
+ lex: Ахаз
+ stem: ахаз.
+ gramm: N,PN,persn
+ paradigm: Noun-num-consonant
+ trans_ru: Ахаз
+
+-lexeme
+ lex: Ахим
+ stem: ахим.
+ gramm: N,PN,persn
+ paradigm: Noun-num-consonant
+ trans_ru: Ахим
+
+-lexeme
+ lex: Варавва
+ stem: варавва.
+ gramm: N,PN,persn
+ paradigm: Noun-num-vowel
+ trans_ru: Варавва
+
+-lexeme
+ lex: Варфоломей
+ stem: варфоломе.
+ gramm: N,PN,persn
+ paradigm: Noun-num-j
+ trans_ru: Варфоломей
+
+-lexeme
+ lex: Вифлеем
+ stem: вифлеем.
+ gramm: N,PN,topn
+ paradigm: Noun-num-consonant
+ trans_ru: Вифлеем
+
+-lexeme
+ lex: Вифсаида
+ stem: вифсаида.
+ gramm: N,PN,topn
+ paradigm: Noun-num-vowel
+ trans_ru: Вифсаида
+
+-lexeme
+ lex: Гедеон
+ stem: гедеон.
+ gramm: N,PN,persn
+ paradigm: Noun-num-consonant
+ trans_ru: Гедеон
+
+-lexeme
+ lex: Геннисарет
+ stem: геннисарет.
+ gramm: N,PN,topn
+ paradigm: Noun-num-consonant
+ trans_ru: Геннисарет
+
+-lexeme
+ lex: Гоморр
+ stem: гоморр.
+ gramm: N,PN,persn
+ paradigm: Noun-num-consonant
+ trans_ru: Гоморр
+
+-lexeme
+ lex: Дидим
+ stem: дидим.
+ gramm: N,PN,persn
+ paradigm: Noun-num-consonant
+ trans_ru: Дидим
+
+-lexeme
+ lex: Елеазар
+ stem: елеазар.
+ gramm: N,PN,persn
+ paradigm: Noun-num-consonant
+ trans_ru: Елеазар
+
+-lexeme
+ lex: Елеон
+ stem: елеон.
+ gramm: N,PN,topn
+ paradigm: Noun-num-consonant
+ trans_ru: Елеон
+
+-lexeme
+ lex: Елиуд
+ stem: елиуд.
+ gramm: N,PN,persn
+ paradigm: Noun-num-consonant
+ trans_ru: Елиуд
+
+-lexeme
+ lex: Енох
+ stem: енох.
+ gramm: N,PN,persn
+ paradigm: Noun-num-consonant
+ trans_ru: Енох
+
+-lexeme
+ lex: Завулон
+ stem: завулон.
+ gramm: N,PN,persn
+ paradigm: Noun-num-consonant
+ trans_ru: Завулон
+
+-lexeme
+ lex: Закхей
+ stem: закхе.
+ gramm: N,PN,persn
+ paradigm: Noun-num-j
+ trans_ru: Закхей
+
+-lexeme
+ lex: Зилот
+ stem: зилот.
+ gramm: N,PN,persn
+ paradigm: Noun-num-consonant
+ trans_ru: Зилот
+
+-lexeme
+ lex: Иаир
+ stem: иаир.
+ gramm: N,PN,persn
+ paradigm: Noun-num-consonant
+ trans_ru: Иаир
+
+-lexeme
+ lex: Иеровоам
+ stem: иеровоам.
+ gramm: N,PN,persn
+ paradigm: Noun-num-consonant
+ trans_ru: Иеровоам
+
+-lexeme
+ lex: Иоафам
+ stem: иоафам.
+ gramm: N,PN,persn
+ paradigm: Noun-num-consonant
+ trans_ru: Иоафам
+
+-lexeme
+ lex: Иорам
+ stem: иорам.
+ gramm: N,PN,persn
+ paradigm: Noun-num-consonant
+ trans_ru: Иорам
+
+-lexeme
+ lex: Иосафат
+ stem: иосафат.
+ gramm: N,PN,persn
+ paradigm: Noun-num-consonant
+ trans_ru: Иосафат
+
+-lexeme
+ lex: Иосий
+ stem: иоси.
+ gramm: N,PN,persn
+ paradigm: Noun-num-j
+ trans_ru: Иосий
+
+-lexeme
+ lex: Иродиада
+ stem: иродиада.
+ gramm: N,PN,persn
+ paradigm: Noun-num-vowel
+ trans_ru: Иродиада
+
+-lexeme
+ lex: Искариот
+ stem: искариот.
+ gramm: N,PN,persn
+ paradigm: Noun-num-consonant
+ trans_ru: Искариот
+
+-lexeme
+ lex: Каиафа
+ stem: каиафа.
+ gramm: N,PN,persn
+ paradigm: Noun-num-vowel
+ trans_ru: Каиафа
+
+-lexeme
+ lex: Каин
+ stem: каин.
+ gramm: N,PN,persn
+ paradigm: Noun-num-consonant
+ trans_ru: Каин
+
+-lexeme
+ lex: Левий
+ stem: леви.
+ gramm: N,PN,persn
+ paradigm: Noun-num-j
+ trans_ru: Левий
+
+-lexeme
+ lex: Маттафия
+ stem: маттафия.
+ gramm: N,PN,persn
+ paradigm: Noun-num-vowel
+ trans_ru: Маттафия
+
+-lexeme
+ lex: Матфан
+ stem: матфан.
+ gramm: N,PN,persn
+ paradigm: Noun-num-consonant
+ trans_ru: Матфан
+
+-lexeme
+ lex: Мисаил
+ stem: мисаил.
+ gramm: N,PN,persn
+ paradigm: Noun-num-consonant
+ trans_ru: Мисаил
+
+-lexeme
+ lex: Назарянин
+ stem: назарянин.
+ gramm: N,PN,famn
+ paradigm: Noun-num-consonant
+ trans_ru: Назарянин
+
+-lexeme
+ lex: Нафанаил
+ stem: нафанаил.
+ gramm: N,PN,persn
+ paradigm: Noun-num-consonant
+ trans_ru: Нафанаил
+
+-lexeme
+ lex: Никодим
+ stem: никодим.
+ gramm: N,PN,persn
+ paradigm: Noun-num-consonant
+ trans_ru: Никодим
+
+-lexeme
+ lex: Ной
+ stem: но.
+ gramm: N,PN,persn
+ paradigm: Noun-num-j
+ trans_ru: Ной
+
+-lexeme
+ lex: Озия
+ stem: озия.
+ gramm: N,PN,persn
+ paradigm: Noun-num-vowel
+ trans_ru: Озия
+
+-lexeme
+ lex: Понтий
+ stem: понти.
+ gramm: N,PN,famn
+ paradigm: Noun-num-j
+ trans_ru: Понтий
+
+-lexeme
+ lex: Ровоам
+ stem: ровоам.
+ gramm: N,PN,persn
+ paradigm: Noun-num-consonant
+ trans_ru: Ровоам
+
+-lexeme
+ lex: Самуил
+ stem: самуил.
+ gramm: N,PN,persn
+ paradigm: Noun-num-consonant
+ trans_ru: Самуил
+
+-lexeme
+ lex: Самул
+ stem: самул.
+ gramm: N,PN,persn
+ paradigm: Noun-num-consonant
+ trans_ru: Самул
+
+-lexeme
+ lex: Сидон
+ stem: сидон.
+ gramm: N,PN,topn
+ paradigm: Noun-num-consonant
+ trans_ru: Сидон
+
+-lexeme
+ lex: Силоам
+ stem: силоам.
+ gramm: N,PN,topn
+ paradigm: Noun-num-consonant
+ trans_ru: Силоам
+
+-lexeme
+ lex: Синай
+ stem: сина.
+ gramm: N,PN,topn
+ paradigm: Noun-num-j
+ trans_ru: Синай
+
+-lexeme
+ lex: Сиф
+ stem: сиф.
+ gramm: N,PN,persn
+ paradigm: Noun-num-consonant
+ trans_ru: Сиф
+
+-lexeme
+ lex: Тивериада
+ stem: тивериада.
+ gramm: N,PN,topn
+ paradigm: Noun-num-vowel
+ trans_ru: Тивериада
+
+-lexeme
+ lex: Фаддей
+ stem: фадде.
+ gramm: N,PN,persn
+ paradigm: Noun-num-j
+ trans_ru: Фаддей
+
+-lexeme
+ lex: Фарес
+ stem: фарес.
+ gramm: N,PN,persn
+ paradigm: Noun-num-consonant
+ trans_ru: Фарес
+
+-lexeme
+ lex: Ханаан
+ stem: ханаан.
+ gramm: N,PN,topn
+ paradigm: Noun-num-consonant
+ trans_ru: Ханаан
+
+-lexeme
+ lex: Хоразин
+ stem: хоразин.
+ gramm: N,PN,topn
+ paradigm: Noun-num-consonant
+ trans_ru: Хоразин
