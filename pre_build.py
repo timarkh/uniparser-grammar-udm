@@ -247,6 +247,6 @@ if __name__ == '__main__':
     prepare_files()
     parse_wordlists()
     # from uniparser_udmurt import UdmurtAnalyzer
-    # a = UdmurtAnalyzer(mode='oldorth')
-    # for wf in a.analyze_words(['шэр', 'пинал’ёс', 'пинал’ес'], format='json'):
+    # a = UdmurtAnalyzer(mode='strict')
+    # for wf in a.analyze_words(['гижлоосыз', 'лудтӥ', 'тӥялтоно', 'кизьыкуз', 'иськавынлэсь'], format='json'):
     #     print(wf)
