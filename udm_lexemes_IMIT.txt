@@ -5983,3 +5983,16 @@
  paradigm: Comparative
  trans_ru: рынга-рынга
 
+-lexeme
+ lex: вай-вай
+ gramm: IMIT
+ stem: вай-вай.
+ paradigm: Comparative
+ trans_ru: сильно
+
+-lexeme
+ lex: чуп
+ stem: чуп.
+ gramm: IMIT
+ paradigm: Comparative
+ trans_ru: процеловать (чуп карыны)

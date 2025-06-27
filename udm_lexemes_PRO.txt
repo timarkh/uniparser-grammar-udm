@@ -627,6 +627,7 @@
  stem: кӧня.
  gramm: ADVPRO
  paradigm: connect_adverbs_px
+ paradigm: Noun-vowel-pl-case
  trans_ru: сколько
 
 -lexeme
@@ -655,6 +656,7 @@
  stem: котькӧня.
  gramm: ADVPRO
  paradigm: connect_adverbs_px
+ paradigm: Noun-vowel-pl-case
  trans_ru: сколько угодно
 
 -lexeme
@@ -662,6 +664,7 @@
  stem: олокӧня.//оллокӧня.
  gramm: ADVPRO
  paradigm: connect_adverbs_px
+ paradigm: Noun-vowel-pl-case
  trans_ru: не знаю сколько
 
 -lexeme
@@ -669,6 +672,7 @@
  stem: нокӧня.
  gramm: ADVPRO
  paradigm: connect_adverbs_px
+ paradigm: Noun-vowel-pl-case
  trans_ru: нисколько
 
 -lexeme
@@ -676,6 +680,7 @@
  stem: огкӧня.
  gramm: ADVPRO
  paradigm: connect_adverbs_px
+ paradigm: Noun-vowel-pl-case
  trans_ru: нисколько
 
 -lexeme
@@ -683,6 +688,7 @@
  stem: кӧняке.
  gramm: ADVPRO
  paradigm: connect_adverbs_px
+ paradigm: Noun-vowel-pl-case
  trans_ru: сколько-то
 
 -lexeme
@@ -697,6 +703,7 @@
  stem: сомында.//содмында.
  gramm: ADV
  paradigm: connect_adverbs_px
+ paradigm: Noun-vowel-pl-case
  trans_ru: столько
 
 -lexeme
@@ -917,6 +924,20 @@
  paradigm: Noun-case-poss-3,pl
  paradigm: Noun-case-poss-2,pl
  paradigm: Noun-case-poss-1,pl
+ trans_ru: все, всё
+
+-lexeme
+ lex: вична
+ stem: вич.//вись.
+ gramm: PRO
+ paradigm: collective
+ trans_ru: все, всё
+
+-lexeme
+ lex: вочна
+ stem: воч.//вось.
+ gramm: PRO
+ paradigm: collective
  trans_ru: все, всё
 
 -lexeme

@@ -308,6 +308,14 @@
 
 -lexeme
  lex: ӵоже
+ stem: ӵожа.
+ gramm: POST
+ paradigm: poss-sg
+ paradigm: poss-pl
+ trans_ru: за, в течение, в продолжение
+
+-lexeme
+ lex: ӵоже
  stem: ӵожелы.
  gramm: POST,dat
  paradigm: Comparative
@@ -21960,13 +21968,6 @@
  trans_ru: давно, издревле
 
 -lexeme
- lex: вай-вай
- gramm: IMIT
- stem: вай-вай.
- paradigm: Comparative
- trans_ru: сильно
-
--lexeme
  lex: азьнырысь
  stem: азьнырысь.
  gramm: ADV
@@ -22021,13 +22022,6 @@
  gramm: ADV
  paradigm: connect_adverbs
  trans_ru: диал. только сейчас; снова, вновь, заново
-
--lexeme
- lex: вочак
- stem: вочак.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: диал. полностью, целиком
 
 -lexeme
  lex: куйкы
@@ -22086,13 +22080,6 @@
  trans_ru: вверх
 
 -lexeme
- lex: чуп
- stem: чуп.
- gramm: IMIT
- paradigm: Comparative
- trans_ru: процеловать (чуп карыны)
-
--lexeme
  lex: шонер
  stem: шонер.
  gramm: ADV
@@ -22112,3 +22099,10 @@
  gramm: ADV
  paradigm: connect_adverbs
  trans_ru: диал. вечером
+
+-lexeme
+ lex: возё-буро
+ stem: возё-буро.
+ gramm: PART
+ paradigm: Comparative
+ trans_ru: приветствовать (возё-буро карыны)

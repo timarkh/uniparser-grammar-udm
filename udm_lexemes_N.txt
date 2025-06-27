@@ -20264,7 +20264,7 @@
 
 -lexeme
  lex: йылос
- stem: йылос.
+ stem: йылос.//йылоск.//йылс.
  gramm: N
  paradigm: Noun-num-consonant
  trans_ru: верхушка, вершина
@@ -59311,7 +59311,7 @@
  lex: тупал
  stem: тупал.
  gramm: N
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-pal
  trans_ru: заречная сторона, заречье
 
 -lexeme
@@ -84163,7 +84163,7 @@
  lex: сопал
  stem: сопал.
  gramm: N
- paradigm: Noun-num-consonant
+ paradigm: Noun-num-pal
  trans_ru: та сторона
 -lexeme
  lex: соперник
@@ -142418,8 +142418,22 @@
  trans_ru: спичка
 
 -lexeme
+ lex: осанна
+ stem: осанна.
+ gramm: N,rus
+ paradigm: Noun-num-vowel
+ trans_ru: осанна
+
+-lexeme
  lex: эшакерпи
  stem: эшакерпи.
+ gramm: N,anim
+ paradigm: Noun-num-vowel
+ trans_ru: ослёнок
+
+-lexeme
+ lex: ишакпи
+ stem: ишакпи.
  gramm: N,anim
  paradigm: Noun-num-vowel
  trans_ru: ослёнок
@@ -142429,7 +142443,7 @@
  stem: юлдошкыз.
  gramm: N,anim,hum
  paradigm: Noun-num-consonant
- trans_ru: диал. товарищ; уст. жених
+ trans_ru: товарищ; уст. жених
 
 -lexeme
  lex: ӝытлапал
@@ -142437,14 +142451,14 @@
  gramm: N
  paradigm: Noun-num-consonant
  paradigm: Noun-num-pal
- trans_ru: диал. вечер
+ trans_ru: вечер
 
 -lexeme
  lex: ӟозы
  stem: ӟозы.
  gramm: N,anim
  paradigm: Noun-num-vowel
- trans_ru: диал. кузнечик
+ trans_ru: кузнечик
 
 -lexeme
  lex: агнец
@@ -142452,3 +142466,24 @@
  gramm: N,rus,anim
  paradigm: Noun-num-consonant
  trans_ru: агнец
+
+-lexeme
+ lex: гижлочер
+ stem: гижлочер.
+ gramm: N
+ paradigm: Noun-num-consonant
+ trans_ru: проказа
+
+-lexeme
+ lex: равви
+ stem: равви.
+ gramm: N,anim,hum,rus
+ paradigm: Noun-num-vowel
+ trans_ru: равви, учитель
+
+-lexeme
+ lex: евнух
+ stem: евнух.
+ gramm: N,anim,hum,rus
+ paradigm: Noun-num-consonant
+ trans_ru: евнух

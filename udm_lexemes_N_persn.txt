@@ -97899,6 +97899,13 @@
  trans_ru: Ионафан
 
 -lexeme
+ lex: Нафан
+ gramm: N,PN,persn
+ stem: нафан.
+ paradigm: Noun-num-consonant
+ trans_ru: Нафан
+
+-lexeme
  lex: Косицын
  gramm: N,famn,PN
  stem: косицын.
@@ -100934,3 +100941,45 @@
  gramm: N,PN,topn
  paradigm: Noun-num-consonant
  trans_ru: Хоразин
+
+-lexeme
+ lex: Агриппа
+ stem: агриппа.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Агриппа
+
+-lexeme
+ lex: Корнилий
+ stem: корнили.
+ gramm: N,PN,persn
+ paradigm: Noun-num-j
+ trans_ru: Корнилий
+
+-lexeme
+ lex: Левий
+ stem: леви.
+ gramm: N,PN,persn
+ paradigm: Noun-num-j
+ trans_ru: Левий
+
+-lexeme
+ lex: Фессалоника
+ stem: фессалоника.
+ gramm: N,PN,topn
+ paradigm: Noun-num-vowel
+ trans_ru: Фессалоника (Салоники)
+
+-lexeme
+ lex: Салоники
+ stem: салоники.
+ gramm: N,PN,topn
+ paradigm: Noun-num-vowel
+ trans_ru: Салоники
+
+-lexeme
+ lex: Иов
+ stem: иов.
+ gramm: N,PN,persn
+ paradigm: Noun-num-consonant
+ trans_ru: Иов
