@@ -23,7 +23,7 @@
 
 -lexeme
  lex: мон
- stem: мынэсьтым.
+ stem: мынэсьтым.//мынӥсьтым.//мысьтым.
  gramm: PRO,abl,sg
  paradigm: Noun-case-compounding
  paradigm: Noun-case-compounding-pl-consonant
@@ -182,7 +182,7 @@
 
 -lexeme
  lex: тон
- stem: тынэсьтыд.
+ stem: тынэсьтыд.//тынӥсьтыд.//тысьтыд.
  gramm: PRO,abl,sg
  paradigm: Noun-case-compounding
  paradigm: Noun-case-compounding-pl-consonant

@@ -100983,3 +100983,60 @@
  gramm: N,PN,persn
  paradigm: Noun-num-consonant
  trans_ru: Иов
+
+-lexeme
+ lex: Зӥё
+ gramm: N,PN,persn
+ stem: зӥё.
+ paradigm: Noun-num-vowel
+ trans_ru: Зиё
+
+-lexeme
+ lex: Кутместау
+ gramm: N,PN,topn
+ stem: кутместау.
+ paradigm: Noun-num-vowel
+ trans_ru: Урманкуль
+
+-lexeme
+ lex: Тупралэ
+ gramm: N,PN,topn
+ stem: тупралэ.
+ paradigm: Noun-num-vowel
+ trans_ru: Тупралы
+
+-lexeme
+ lex: Барда
+ gramm: N,PN,topn
+ stem: барда.
+ paradigm: Noun-num-vowel
+ trans_ru: Барда
+
+-lexeme
+ lex: Харди
+ gramm: N,persn,PN
+ stem: харди.
+ paradigm: Noun-num-vowel
+ trans_ru: Харди
+
+-lexeme
+ lex: Гульфира
+ gramm: N,persn,PN
+ stem: гульфира.
+ paradigm: Noun-num-vowel
+ trans_ru: Гульфира
+
+-lexeme
+ lex: Мухаметгаяновна
+ gramm: N,patrn,PN
+ stem: мухаметгаяновна.
+ paradigm: Noun-num-vowel
+ trans_ru: Мухаметгаяновна
+
+-lexeme
+ lex: Минлибаева
+ gramm: N,famn,PN
+ stem: минлибаева.
+ paradigm: Noun-num-vowel
+ trans_ru: Минлибаева
+

@@ -20015,7 +20015,8 @@
  stem: иськавын.
  gramm: N,anim,hum
  paradigm: Noun-num-consonant
- trans_ru: 1. родня, родственники, иськаун патронимия, отцовский род 2. сосед
+ paradigm: Noun-num-consonant-y
+ trans_ru: 1. родня, патронимия, отцовский род 2. сосед
 
 -lexeme
  lex: иськан
@@ -35120,7 +35121,7 @@
 
 -lexeme
  lex: материал
- stem: материал.
+ stem: материал.//материял.
  gramm: N,rus
  paradigm: Noun-num-consonant
  trans_ru: материал
@@ -36531,6 +36532,13 @@
  gramm: N,rus
  paradigm: Noun-num-soft
  trans_ru: модель
+
+-lexeme
+ lex: топ-модель
+ stem: топ-модел.
+ gramm: N,rus,anim,hum
+ paradigm: Noun-num-soft
+ trans_ru: топ-модель
 
 -lexeme
  lex: модельщик
@@ -78225,6 +78233,7 @@
  stem: йырвиым.
  gramm: N,body
  paradigm: Noun-num-consonant
+ paradigm: Noun-num-consonant-y
  trans_ru: мозг
 -lexeme
  lex: йӧвылэсултон
@@ -80250,6 +80259,12 @@
  gramm: N,rus,anim,hum
  paradigm: Noun-num-consonant
  trans_ru: менеджер
+-lexeme
+ lex: топ-менеджер
+ stem: топ-менеджер.
+ gramm: N,rus,anim,hum
+ paradigm: Noun-num-consonant
+ trans_ru: топ-менеджер
 -lexeme
  lex: менеджмент
  stem: менеджмент.
@@ -97984,6 +97999,12 @@
  paradigm: Noun-num-consonant
  trans_ru: звук
 -lexeme
+ lex: ультразвук
+ stem: ультразвук.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: ультразвук
+-lexeme
  lex: зеркало
  stem: зеркало.
  gramm: N,rus
@@ -98979,7 +99000,7 @@
  trans_ru: переживание
 -lexeme
  lex: перекрёсток
- stem: перекресток.
+ stem: перекрёсток.
  gramm: N,rus
  paradigm: Noun-num-consonant
  trans_ru: перекрёсток
@@ -107260,6 +107281,13 @@
  lex: куфайка
  gramm: N,rus
  stem: куфайка.
+ paradigm: Noun-num-vowel
+ trans_ru: фуфайка
+
+-lexeme
+ lex: пуфайка
+ gramm: N,rus
+ stem: пуфайка.
  paradigm: Noun-num-vowel
  trans_ru: фуфайка
 
@@ -120573,6 +120601,13 @@
  gramm: N,anim
  stem: сиськукчо.
  paradigm: Noun-num-vowel
+ trans_ru: дятел
+
+-lexeme
+ lex: сиськокась
+ gramm: N,anim
+ stem: сиськокас.
+ paradigm: Noun-num-soft
  trans_ru: дятел
 
 -lexeme
@@ -142487,3 +142522,108 @@
  gramm: N,anim,hum,rus
  paradigm: Noun-num-consonant
  trans_ru: евнух
+
+-lexeme
+ lex: татарочка
+ gramm: N,anim,hum,rus
+ stem: татарочка.//татарочк.
+ paradigm: Noun-num-vowel
+ trans_ru: татарочка
+
+-lexeme
+ lex: песяйка
+ gramm: N,anim,hum,rus_afx
+ stem: песяйка.
+ paradigm: Noun-num-vowel
+ trans_ru: бабушка (по отцу)
+
+-lexeme
+ lex: куйыг
+ gramm: N
+ stem: куйыг.
+ paradigm: Noun-num-consonant
+ trans_ru: горе
+
+-lexeme
+ lex: картоф
+ gramm: N,rus
+ stem: картоф.
+ paradigm: Noun-num-consonant
+ trans_ru: картофель
+
+-lexeme
+ lex: картофель
+ gramm: N,rus
+ stem: картофел.
+ paradigm: Noun-num-soft
+ trans_ru: картофель
+
+-lexeme
+ lex: чуйин
+ gramm: N
+ stem: чуйин.
+ paradigm: Noun-num-consonant
+ trans_ru: чугун
+
+-lexeme
+ lex: молозиво
+ gramm: N,rus
+ stem: молозиво.
+ paradigm: Noun-num-vowel
+ trans_ru: молозиво
+
+-lexeme
+ lex: манты
+ stem: манты.
+ gramm: N,rus
+ paradigm: Noun-num-vowel
+ trans_ru: манты
+
+-lexeme
+ lex: каша
+ stem: каша.
+ gramm: N,rus
+ paradigm: Noun-num-vowel
+ trans_ru: каша
+
+-lexeme
+ lex: заморозки
+ stem: заморозки.
+ gramm: N,rus
+ paradigm: Noun-num-vowel
+ trans_ru: заморозки
+
+-lexeme
+ lex: ложка
+ stem: ложка.
+ gramm: N,rus
+ paradigm: Noun-num-vowel
+ trans_ru: ложка
+
+-lexeme
+ lex: масло
+ stem: масло.
+ gramm: N,rus
+ paradigm: Noun-num-vowel
+ trans_ru: масло
+
+-lexeme
+ lex: осадок
+ stem: осадок.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: осадок
+
+-lexeme
+ lex: топинамбур
+ stem: топинамбур.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: топинамбур
+
+-lexeme
+ lex: топпинг
+ stem: топпинг.
+ gramm: N,rus
+ paradigm: Noun-num-consonant
+ trans_ru: топпинг

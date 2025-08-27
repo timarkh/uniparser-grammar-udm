@@ -28439,7 +28439,7 @@
  trans_ru: скучный
 -lexeme
  lex: сладкой
- stem: сладко.
+ stem: сладко.//сладки.
  gramm: ADJ,rus
  paradigm: connect_adjectives-j
  trans_ru: сладкий
@@ -48465,3 +48465,31 @@
  gramm: ADJ
  paradigm: connect_adjectives
  trans_ru: бесноватый (шайтано мурт)
+
+-lexeme
+ lex: тыгыз
+ gramm: ADJ
+ stem: тыгыз.
+ paradigm: connect_adjectives
+ trans_ru: гладкий, ровный, плоский
+
+-lexeme
+ lex: мягкой
+ stem: мягко.//мягки.
+ gramm: ADJ,rus
+ paradigm: connect_adjectives-j
+ trans_ru: мягкий
+
+-lexeme
+ lex: столовой
+ stem: столово.//столовы.
+ gramm: ADJ,rus
+ paradigm: connect_adjectives-j
+ trans_ru: столовый
+
+-lexeme
+ lex: подсолнечной
+ stem: подсолнечно.//подсолнечны.
+ gramm: ADJ,rus
+ paradigm: connect_adjectives-j
+ trans_ru: подсолнечный
