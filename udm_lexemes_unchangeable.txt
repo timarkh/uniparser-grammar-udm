@@ -2668,7 +2668,7 @@
 
 -lexeme
  lex: оломакеме
- stem: оломакеме.
+ stem: оломакеме.//олломакеме.
  gramm: ADV
  paradigm: connect_adverbs
  trans_ru: далеко-далеко, очень далеко, неизвестно как далеко, неизвестно в какую даль
@@ -4117,7 +4117,7 @@
 
 -lexeme
  lex: оломакемын
- stem: оломакемын.
+ stem: оломакемын.//олломакемын.
  gramm: ADV
  paradigm: connect_adverbs
  trans_ru: где-то далеко, неизвестно где
@@ -4433,14 +4433,14 @@
 
 -lexeme
  lex: олокудкемын
- stem: олокудкемын.
+ stem: олокудкемын.//оллокудкемын.
  gramm: ADV
  paradigm: connect_adverbs
  trans_ru: неизвестно, как далеко
 
 -lexeme
  lex: оломакем
- stem: оломакем.
+ stem: оломакем.//олломакем.
  gramm: ADV
  paradigm: connect_adverbs
  trans_ru: далеко, неизвестно как далеко
@@ -4658,14 +4658,14 @@
 
 -lexeme
  lex: оло
- stem: оло.
+ stem: оло.//олло.
  gramm: CNJ
  paradigm: Empty
  trans_ru: или, то ли; вероятно
 
 -lexeme
  lex: оло
- stem: оло.
+ stem: оло.//олло.
  gramm: PARENTH
  paradigm: Empty
  trans_ru: вероятно, возможно, может быть, пожалуй; наверно
@@ -5143,7 +5143,7 @@
 
 -lexeme
  lex: оло-керак
- stem: оло-керак.
+ stem: оло-керак.//олло-керак.
  gramm: ADV
  paradigm: connect_adverbs
  trans_ru: возможно, может быть
@@ -9160,14 +9160,14 @@
 
 -lexeme
  lex: олокудня
- stem: олокудня.
+ stem: олокудня.//оллокудня.
  gramm: ADV
  paradigm: connect_adverbs
  trans_ru: очень долго, неизвестно сколько
 
 -lexeme
  lex: олокудняла
- stem: олокудняла.
+ stem: олокудняла.//оллокудняла.
  gramm: ADV
  paradigm: connect_adverbs
  trans_ru: очень долго, неизвестно сколько
@@ -9223,21 +9223,21 @@
 
 -lexeme
  lex: олокудкемысен
- stem: олокудкемысен.
+ stem: олокудкемысен.//оллокудкемысен.
  gramm: ADV,egr
  paradigm: connect_adverbs
  trans_ru: неизвестно с какого расстояния
 
 -lexeme
  lex: олокудкемысь
- stem: олокудкемысь.
+ stem: олокудкемысь.//оллокудкемысь.
  gramm: ADV,el
  paradigm: connect_adverbs
  trans_ru: неизвестно с какого расстояния
 
 -lexeme
  lex: олокудкеме
- stem: олокудкеме.
+ stem: олокудкеме.//оллокудкеме.
  gramm: ADV,ill
  paradigm: connect_adverbs
  trans_ru: неизвестно, как далеко
@@ -10516,7 +10516,7 @@
 
 -lexeme
  lex: олошай
- stem: олошай.
+ stem: олошай.//оллошай.
  gramm: ADV
  paradigm: connect_adverbs
  trans_ru: не знаю что, чёрт знает что, неизвестно что
@@ -10964,7 +10964,7 @@
 
 -lexeme
  lex: оломакема
- stem: оломакема.
+ stem: оломакема.//олломакема.
  gramm: ADV
  paradigm: connect_adverbs
  trans_ru: долго-долго, очень долго, неизвестно как долго
@@ -15832,63 +15832,63 @@
 -lexeme
  lex: олокематэк
  gramm: ADV
- stem: олокематэк.
+ stem: олокематэк.//оллокематэк.
  paradigm: connect_adverbs
  trans_ru: долго
 
 -lexeme
  lex: олокуддырысен
  gramm: ADV
- stem: олокуддырысен.
+ stem: олокуддырысен.//оллокуддырысен.
  paradigm: connect_adverbs
  trans_ru: с давних (неизвестных) времён
 
 -lexeme
  lex: олокуддырысь
  gramm: ADV
- stem: олокуддырысь.
+ stem: олокуддырысь.//оллокуддырысь.
  paradigm: connect_adverbs
  trans_ru: с давних (неизвестных) времён
 
 -lexeme
  lex: олокуднялась
  gramm: ADV
- stem: олокуднялась.
+ stem: олокуднялась.//оллокуднялась.
  paradigm: connect_adverbs
  trans_ru: с давних (неизвестных) времён
 
 -lexeme
  lex: олокулы
  gramm: ADV
- stem: олокулы.
+ stem: олокулы.//оллокулы.
  paradigm: connect_adverbs
  trans_ru: на какое-то (неизвестное) время
 
 -lexeme
  lex: оломакемысь
  gramm: ADV
- stem: оломакемысь.
+ stem: оломакемысь.//олломакемысь.
  paradigm: connect_adverbs
  trans_ru: издалека
 
 -lexeme
  lex: оломакузьда
  gramm: ADV
- stem: оломакузьда.
+ stem: оломакузьда.//олломакузьда.
  paradigm: connect_adverbs
  trans_ru: протяжно, очень длинно
 
 -lexeme
  lex: оломамында
  gramm: ADV
- stem: оломамында.
+ stem: оломамында.//олломамында.
  paradigm: connect_adverbs
  trans_ru: неисчислимо много
 
 -lexeme
  lex: оломаркеметӥ
  gramm: ADV
- stem: оломаркеметӥ.
+ stem: оломаркеметӥ.//олломаркеметӥ.
  paradigm: connect_adverbs
  trans_ru: на дальнем расстоянии
 
@@ -19181,14 +19181,14 @@
 -lexeme
  lex: олокытӥ-мартӥ
  gramm: ADV
- stem: олокытӥ-мартӥ.
+ stem: олокытӥ-мартӥ.//оллокытӥ-мартӥ.
  paradigm: connect_adverbs
  trans_ru: неизвестно, где и как (когда)
 
 -lexeme
  lex: олокытысь-маысь
  gramm: ADV
- stem: олокытысь-маысь.
+ stem: олокытысь-маысь.//оллокытысь-маысь.
  paradigm: connect_adverbs
  trans_ru: откуда-то, неизвестно откуда
 

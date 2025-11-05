@@ -101040,3 +101040,45 @@
  paradigm: Noun-num-vowel
  trans_ru: Минлибаева
 
+-lexeme
+ lex: Айгыл
+ gramm: N,topn,PN
+ stem: айгыл.
+ paradigm: Noun-num-consonant
+ trans_ru: Айгыл
+
+-lexeme
+ lex: Утар-Елга
+ gramm: N,topn,PN
+ stem: утар-елга.
+ paradigm: Noun-num-vowel
+ trans_ru: Утар-Елга
+
+-lexeme
+ lex: Кабырга
+ gramm: N,topn,PN
+ stem: кабырга.
+ paradigm: Noun-num-vowel
+ trans_ru: Кабырга
+
+-lexeme
+ lex: Ташлы-Елга
+ gramm: N,topn,PN
+ stem: ташлы-елга.
+ paradigm: Noun-num-vowel
+ trans_ru: Ташлы-Елга
+
+-lexeme
+ lex: Новобалтач
+ gramm: N,topn,PN
+ stem: новобалтач.
+ paradigm: Noun-num-consonant
+ trans_ru: Новобалтачево
+
+-lexeme
+ lex: Гарабаш
+ gramm: N,topn,PN
+ stem: гарабаш.
+ paradigm: Noun-num-consonant
+ trans_ru: Гарибашево
+

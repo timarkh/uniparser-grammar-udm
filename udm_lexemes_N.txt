@@ -38899,6 +38899,7 @@
  stem: наци.
  gramm: N,rus
  paradigm: Noun-num-ija
+ paradigm: Noun-num-j
  trans_ru: нация
 
 -lexeme
@@ -142627,3 +142628,116 @@
  gramm: N,rus
  paradigm: Noun-num-consonant
  trans_ru: топпинг
+
+-lexeme
+ lex: смородина
+ gramm: N,rus
+ stem: смородина.//смородин.
+ paradigm: Noun-num-vowel
+ trans_ru: смородина
+
+-lexeme
+ lex: фартук
+ gramm: N,rus
+ stem: фартук.
+ paradigm: Noun-num-consonant
+ trans_ru: фартук
+
+-lexeme
+ lex: серебро
+ gramm: N,rus
+ stem: серебро.//серебр.
+ paradigm: Noun-num-vowel
+ trans_ru: серебро
+
+-lexeme
+ lex: сырга
+ gramm: N
+ stem: сырга.
+ paradigm: Noun-num-vowel
+ trans_ru: нагрудник
+
+-lexeme
+ lex: зарплат
+ gramm: N,rus
+ stem: зарплат.
+ paradigm: Noun-num-consonant
+ trans_ru: зарплата
+
+-lexeme
+ lex: матрушка
+ gramm: N
+ stem: матрушка.//матрушк.
+ paradigm: Noun-num-vowel
+ trans_ru: душица
+
+-lexeme
+ lex: пихта
+ gramm: N,rus
+ stem: пихта.//пихт.
+ paradigm: Noun-num-vowel
+ trans_ru: пихта
+
+-lexeme
+ lex: нитка
+ gramm: N,rus
+ stem: нитка.//нитк.
+ paradigm: Noun-num-vowel
+ trans_ru: нитка
+
+-lexeme
+ lex: нэнэйка
+ gramm: N,anim,hum,rus_afx
+ stem: нэнэйка.
+ paradigm: Noun-num-vowel
+ trans_ru: бабушка
+
+-lexeme
+ lex: здоровье
+ gramm: N,rus
+ stem: здоровье.
+ paradigm: Noun-num-vowel
+ trans_ru: здоровье
+
+-lexeme
+ lex: пенька
+ gramm: N,rus
+ stem: пенька.//пеньк.
+ paradigm: Noun-num-vowel
+ trans_ru: пенька
+
+-lexeme
+ lex: лисичка
+ gramm: N,rus
+ stem: лисичка.//лисичк.
+ paradigm: Noun-num-vowel
+ trans_ru: лисичка (гриб)
+
+-lexeme
+ lex: подкоровник
+ gramm: N,rus
+ stem: подкоровник.
+ paradigm: Noun-num-consonant
+ trans_ru: подкоровник (гриб)
+
+-lexeme
+ lex: рядовка
+ gramm: N,rus
+ stem: рядовка.//рядовк.
+ paradigm: Noun-num-vowel
+ trans_ru: рядовка (гриб)
+
+-lexeme
+ lex: ночёвка
+ gramm: N,rus
+ stem: ночёвка.//ночёвк.
+ paradigm: Noun-num-vowel
+ trans_ru: ночёвка
+
+-lexeme
+ lex: АВМ
+ gramm: N,abbr,rus
+ stem: авм.//авм-.
+ paradigm: Noun-num-consonant
+ trans_ru: АВМ (агрегатная вальцовая мельница)
+
