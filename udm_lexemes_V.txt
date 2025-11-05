@@ -24995,7 +24995,7 @@
 
 -lexeme
  lex: юыны
- stem: ю.
+ stem: ю.//ӟу.
  gramm: V,I,tr,with_instr
  paradigm: connect_verbs-I
  trans_ru: пить; пьянствовать
@@ -55802,3 +55802,101 @@
  gramm: V,tr,rus,rus_inf,rus_ipfv
  paradigm: Comparative
  trans_ru: хаять
+
+-lexeme
+ lex: утрачиваться
+ stem: утрачиваться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv,intr
+ paradigm: Comparative
+ trans_ru: утрачиваться
+
+-lexeme
+ lex: сбыться
+ stem: сбыться.
+ gramm: V,rus,rus_inf,refl,rus_pfv,intr
+ paradigm: Comparative
+ trans_ru: сбыться
+
+-lexeme
+ lex: обашкириться
+ stem: обашкириться.
+ gramm: V,rus,rus_inf,refl,rus_pfv,intr
+ paradigm: Comparative
+ trans_ru: обашкириться
+
+-lexeme
+ lex: отатариться
+ stem: отатариться.
+ gramm: V,rus,rus_inf,refl,rus_pfv,intr
+ paradigm: Comparative
+ trans_ru: отатариться
+
+-lexeme
+ lex: качаться
+ stem: качаться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv,intr
+ paradigm: Comparative
+ trans_ru: качаться
+
+-lexeme
+ lex: соприкасаться
+ stem: соприкасаться.
+ gramm: V,rus,rus_inf,refl,rus_ipfv,intr
+ paradigm: Comparative
+ trans_ru: соприкасаться
+
+-lexeme
+ lex: соизволить
+ stem: соизволить.
+ gramm: V,rus,rus_inf,rus_pfv,intr
+ paradigm: Comparative
+ trans_ru: соизволить
+
+-lexeme
+ lex: бродить
+ stem: бродить.
+ gramm: V,rus,rus_inf,rus_ipfv,intr
+ paradigm: Comparative
+ trans_ru: бродить
+
+-lexeme
+ lex: поджаривать
+ stem: поджаривать.
+ gramm: V,rus,rus_inf,rus_ipfv,tr
+ paradigm: Comparative
+ trans_ru: поджаривать
+
+-lexeme
+ lex: отжимать
+ stem: отжимать.
+ gramm: V,rus,rus_inf,rus_ipfv,tr
+ paradigm: Comparative
+ trans_ru: отжимать
+
+-lexeme
+ lex: палить
+ stem: палить.
+ gramm: V,rus,rus_inf,rus_ipfv,tr
+ paradigm: Comparative
+ trans_ru: палить
+
+-lexeme
+ lex: перехитрить
+ stem: перехитрить.
+ gramm: V,rus,rus_inf,rus_pfv,tr
+ paradigm: Comparative
+ trans_ru: перехитрить
+
+-lexeme
+ lex: накрывать
+ stem: накрывать.
+ gramm: V,rus,rus_inf,rus_ipfv,tr
+ paradigm: Comparative
+ trans_ru: накрывать
+
+-lexeme
+ lex: придумывать
+ stem: придумывать.
+ gramm: V,rus,rus_inf,rus_ipfv,tr
+ paradigm: Comparative
+ trans_ru: придумывать

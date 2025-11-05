@@ -13812,7 +13812,7 @@
 
 -lexeme
  lex: губи
- stem: губи.
+ stem: губи.//гиби.
  gramm: N
  paradigm: Noun-num-vowel
  trans_ru: гриб
@@ -142740,4 +142740,11 @@
  stem: авм.//авм-.
  paradigm: Noun-num-consonant
  trans_ru: АВМ (агрегатная вальцовая мельница)
+
+-lexeme
+ lex: булгы
+ gramm: N
+ stem: булгы.
+ paradigm: Noun-num-vowel
+ trans_ru: картошка
 
