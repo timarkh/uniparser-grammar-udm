@@ -5996,3 +5996,1764 @@
  gramm: IMIT
  paradigm: Comparative
  trans_ru: процеловать (чуп карыны)
+
+
+-lexeme
+ lex: буг-буг
+ stem: буг-буг.
+ gramm: IMIT
+ paradigm: Comparative
+ trans_ru: выражает обязательно-зрительный образ мелкого, пушистого или плотного состояния предмета
+ trans_en: 
+
+-lexeme
+ lex: бук-бук
+ stem: бук-бук.
+ gramm: IMIT
+ paradigm: Comparative
+ trans_ru: мягкий, пушистый
+ trans_en: 
+
+-lexeme
+ lex: буль
+ stem: буль.
+ gramm: IMIT,rus
+ paradigm: Comparative
+ trans_ru: буль
+ trans_en: 
+
+-lexeme
+ lex: буль-буль
+ stem: буль-буль.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о булькании воды; буль-буль
+ trans_en: 
+
+-lexeme
+ lex: бульк
+ stem: бульк.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: бултых
+ trans_en: 
+
+-lexeme
+ lex: булькак
+ stem: булькак.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: булькнув, с бульканьем, бултых
+ trans_en: 
+
+-lexeme
+ lex: быз-з
+ stem: быз-з.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о плаче ребёнка, жужжании пчёл, шмелей, оводов
+ trans_en: 
+
+-lexeme
+ lex: виж-важ
+ stem: виж-важ.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о звуке пилы при пилке дров
+ trans_en: 
+
+-lexeme
+ lex: вуӵ-вуӵ
+ stem: вуӵ-вуӵ.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о клокотании кипящей густой массы
+ trans_en: 
+
+-lexeme
+ lex: вуӵак
+ stem: вуӵак.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о мгновенном глухом стуке
+ trans_en: 
+
+-lexeme
+ lex: вуӵыр-вуӵыр
+ stem: вуӵыр-вуӵыр.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о клокотании кипящей густой массы
+ trans_en: 
+
+-lexeme
+ lex: вырт-вырт
+ stem: вырт-вырт.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о биении сердца тук-тук
+ trans_en: 
+
+-lexeme
+ lex: га-га-га
+ stem: га-га-га.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о гоготании гусей га-га-га
+ trans_en: 
+
+-lexeme
+ lex: гагак-гагак
+ stem: гагак-гагак.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о крике гусей га-га-га
+ trans_en: 
+
+-lexeme
+ lex: гарк
+ stem: гарк.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: об одиночном крике утки, вороны
+ trans_en: 
+
+-lexeme
+ lex: гарк-гарк
+ stem: гарк-гарк.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о крике утки, вороны
+ trans_en: 
+
+-lexeme
+ lex: гуж
+ stem: гуж.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о жужжании пчел
+ trans_en: 
+
+-lexeme
+ lex: гуж-гаж
+ stem: гуж-гаж.
+ gramm: IMIT
+ paradigm: Comparative
+ trans_ru: шумно
+ trans_en: 
+
+-lexeme
+ lex: гуль-гуль
+ stem: гуль-гуль.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о бульканье жидкости при питье; буль-буль
+ trans_en: 
+
+-lexeme
+ lex: гультыр-гультыр
+ stem: гультыр-гультыр.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о ворковании голубей
+ trans_en: 
+
+-lexeme
+ lex: гумб
+ stem: гумб.
+ gramm: IMIT
+ paradigm: Comparative
+ trans_ru: обозначение глухого звука
+ trans_en: 
+
+-lexeme
+ lex: гур-гур
+ stem: гур-гур.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о ворковании голубей
+ trans_en: 
+
+-lexeme
+ lex: гуук-гуук
+ stem: гуук-гуук.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о ворковании голубей
+ trans_en: 
+
+-lexeme
+ lex: гыттыр-гыттыр
+ stem: гыттыр-гыттыр.
+ gramm: IMIT
+ paradigm: Comparative
+ trans_ru: изобразительное слово с неясным значением
+ trans_en: 
+
+-lexeme
+ lex: дамбыр
+ stem: дамбыр.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: грохоту
+ trans_en: 
+
+-lexeme
+ lex: дамбырак
+ stem: дамбырак.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о грохоте при падении громоздких предметов
+ trans_en: 
+
+-lexeme
+ lex: данк
+ stem: данк.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о резком звуке
+ trans_en: 
+
+-lexeme
+ lex: дзинь
+ stem: дзинь.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о звоне, бряцании
+ trans_en: 
+
+-lexeme
+ lex: домбыр-домбыр
+ stem: домбыр-домбыр.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о бренчании на музыкальном инструменте
+ trans_en: 
+
+-lexeme
+ lex: дурт-дурт
+ stem: дурт-дурт.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о стуке телеги по тряской дороге стук-стук
+ trans_en: 
+
+-lexeme
+ lex: дыбыр
+ stem: дыбыр.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: продолжительномы и постоянному стуку, грохоту
+ trans_en: 
+
+-lexeme
+ lex: дыбыр-дабыр
+ stem: дыбыр-дабыр.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о падении громоздких предметов
+ trans_en: 
+
+-lexeme
+ lex: дыбыр-йыг
+ stem: дыбыр-йыг.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о сильном стуке, грохоте
+ trans_en: 
+
+-lexeme
+ lex: дыбыр-шалтыр
+ stem: дыбыр-шалтыр.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о стуке, грохоте
+ trans_en: 
+
+-lexeme
+ lex: дыгыр
+ stem: дыгыр.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о стуке по неровной поверхности
+ trans_en: 
+
+-lexeme
+ lex: дымбыр
+ stem: дымбыр.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о грохоте, стуке при езде
+ trans_en: of rumbling, clattering noise when driving
+
+-lexeme
+ lex: дымбыр-дамбыр
+ stem: дымбыр-дамбыр.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о продолжительном грохоте, стуке с грохотом
+ trans_en: 
+
+-lexeme
+ lex: дымбыр-дымбыр
+ stem: дымбыр-дымбыр.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о грохоте, стуке при езде по мостовой, по мосту, деревянному настилу
+ trans_en: 
+
+-lexeme
+ lex: дымбыр-йыг
+ stem: дымбыр-йыг.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о грохоте, стуке
+ trans_en: 
+
+-lexeme
+ lex: дымбыр-шалтыр
+ stem: дымбыр-шалтыр.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о грохоте
+ trans_en: 
+
+-lexeme
+ lex: дымбырак
+ stem: дымбырак.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о однократном грохоте, стуке; совсем, совершенно
+ trans_en: 
+
+-lexeme
+ lex: дынгыр
+ stem: дынгыр.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о грохоте, стуке при езде по мёрзлой земле; грохоча
+ trans_en: 
+
+-lexeme
+ lex: дынгыр-дангыр
+ stem: дынгыр-дангыр.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: грохот, стук при езде по неровному месту, мёрзлой земле
+ trans_en: 
+
+-lexeme
+ lex: дынгыр-дынгыр
+ stem: дынгыр-дынгыр.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о продолжительном грохоте, стуке при езде по мёрзлой земле
+ trans_en: 
+
+-lexeme
+ lex: дынгыр-шалтыр
+ stem: дынгыр-шалтыр.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о стуке, грохоте при падении громоздких предметов
+ trans_en: 
+
+-lexeme
+ lex: жабыль-жабыль
+ stem: жабыль-жабыль.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о шуме прибоя
+ trans_en: 
+
+-lexeme
+ lex: жаль-жаль
+ stem: жаль-жаль.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: об обильном дожде, падении воды
+ trans_en: 
+
+-lexeme
+ lex: жальк-жальк
+ stem: жальк-жальк.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о шуме воды
+ trans_en: 
+
+-lexeme
+ lex: жальтыр
+ stem: жальтыр.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о журчании воды, стуку, звону металлических предметов
+ trans_en: 
+
+-lexeme
+ lex: жальыр
+ stem: жальыр.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о журчании воды
+ trans_en: 
+
+-lexeme
+ lex: жальыр-жальыр
+ stem: жальыр-жальыр.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о сильном журчании воды
+ trans_en: 
+
+-lexeme
+ lex: жангыр
+ stem: жангыр.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о звоне, напр. колокола
+ trans_en: 
+
+-lexeme
+ lex: жангырак
+ stem: жангырак.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: об однократном внезапном звоне, напр. колокола
+ trans_en: 
+
+-lexeme
+ lex: жи-жи
+ stem: жи-жи.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о звоне пилы
+ trans_en: 
+
+-lexeme
+ lex: жильтырак
+ stem: жильтырак.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: звук однократного звона цепи или металлических предметов
+ trans_en: 
+
+-lexeme
+ lex: жильыр
+ stem: жильыр.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о журчании воды журча, с журчанием
+ trans_en: 
+
+-lexeme
+ lex: жильыр-жальыр
+ stem: жильыр-жальыр.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о журчании воды
+ trans_en: 
+
+-lexeme
+ lex: жин
+ stem: жин.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о звоне посуды
+ trans_en: of clinking of dishes
+
+-lexeme
+ lex: жин-жон
+ stem: жин-жон.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: динь-бом
+ trans_en: 
+
+-lexeme
+ lex: жин-куан
+ stem: жин-куан.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о звоне посуды
+ trans_en: 
+
+-lexeme
+ lex: жингыр
+ stem: жингыр.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о звоне стеклянной посуды, металлических предметов
+ trans_en: 
+
+-lexeme
+ lex: жингыр-куангыр
+ stem: жингыр-куангыр.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о звоне стеклянных и металлических предметов
+ trans_en: 
+
+-lexeme
+ lex: жомбыляк
+ stem: жомбыляк.//жомбляк.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о всплеске воды
+ trans_en: 
+
+-lexeme
+ lex: жонгыр
+ stem: жонгыр.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о звоне, напр. проводов
+ trans_en: 
+
+-lexeme
+ lex: жульк-жальк
+ stem: жульк-жальк.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о шуме прибоя, сильном плеске
+ trans_en: 
+
+-lexeme
+ lex: жур
+ stem: жур.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о звуке вращающихся предметов, напр. мотора
+ trans_en: 
+
+-lexeme
+ lex: жӧт
+ stem: жӧт.
+ gramm: IMIT
+ paradigm: Comparative
+ trans_ru: очень
+ trans_en: 
+
+-lexeme
+ lex: зар-зар
+ stem: зар-зар.
+ gramm: IMIT
+ paradigm: Comparative
+ trans_ru: 
+ trans_en: 
+
+-lexeme
+ lex: зыгыр
+ stem: зыгыр.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: звукоподр.
+ trans_en: 
+
+-lexeme
+ lex: зыл-зыл
+ stem: зыл-зыл.
+ gramm: IMIT
+ paradigm: Comparative
+ trans_ru: 
+ trans_en: 
+
+-lexeme
+ lex: йыг
+ stem: йыг.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: об одиночном стуке, ударе о твёрдый предмет
+ trans_en: of a thud
+
+-lexeme
+ lex: йыг-дым
+ stem: йыг-дым.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о стуке, ударе о твёрдый предмет
+ trans_en: 
+
+-lexeme
+ lex: йыг-йыг
+ stem: йыг-йыг.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: стук-стук
+ trans_en: knock-knock
+
+-lexeme
+ lex: к-хым
+ stem: к-хым.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о покашливании
+ trans_en: 
+
+-lexeme
+ lex: кар-кар
+ stem: кар-кар.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о карканье вороны кар-р-р
+ trans_en: 
+
+-lexeme
+ lex: кежыр
+ stem: кежыр.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о хрусте сухих предметов
+ trans_en: 
+
+-lexeme
+ lex: киль-киль
+ stem: киль-киль.
+ gramm: IMIT
+ paradigm: Comparative
+ trans_ru: звукоподр. сосновой коры
+ trans_en: 
+
+-lexeme
+ lex: кильтыр-куальтыр
+ stem: кильтыр-куальтыр.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о переливании воды, урчании в животе, падении мелких предметов
+ trans_en: 
+
+-lexeme
+ lex: кис-куань
+ stem: кис-куань.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о писке, визге щенят
+ trans_en: 
+
+-lexeme
+ lex: клок-клок
+ stem: клок-клок.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о квохтанье, клохтанье курицы-наседки
+ trans_en: 
+
+-lexeme
+ lex: клёнк
+ stem: клёнк.
+ gramm: IMIT
+ paradigm: Comparative
+ trans_ru: звукоподражание удару
+ trans_en: 
+
+-lexeme
+ lex: клёп-клёп
+ stem: клёп-клёп.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: при …
+ trans_en: 
+
+-lexeme
+ lex: ко-ко-ко
+ stem: ко-ко-ко.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о клохтанье куриц
+ trans_en: 
+
+-lexeme
+ lex: кокорикок
+ stem: кокорикок.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о пении петуха кукареку
+ trans_en: 
+
+-lexeme
+ lex: кор-кор
+ stem: кор-кор.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о глухом дребезжащем звуке
+ trans_en: 
+
+-lexeme
+ lex: кот-кот-котӥк
+ stem: кот-кот-котӥк.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о кудахтанье курицы; куд-кудах
+ trans_en: 
+
+-lexeme
+ lex: крок-крок
+ stem: крок-крок.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о карканье вороны кар-кар
+ trans_en: 
+
+-lexeme
+ lex: кром-кром
+ stem: кром-кром.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о хрусте при пережёвывании корма
+ trans_en: 
+
+-lexeme
+ lex: кроч-кроч
+ stem: кроч-кроч.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о хрусте при пережевывании
+ trans_en: 
+
+-lexeme
+ lex: куаж-куаж
+ stem: куаж-куаж.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: подр. хрусту при еде или хрусту сухих хрупких предметов хруст-хруст
+ trans_en: 
+
+-lexeme
+ lex: куаляк
+ stem: куаляк.
+ gramm: IMIT
+ paradigm: Comparative
+ trans_ru: 
+ trans_en: 
+
+-lexeme
+ lex: куань-куань
+ stem: куань-куань.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о скулении, визгу, писку щенят, собак
+ trans_en: 
+
+-lexeme
+ lex: куаш-куаш
+ stem: куаш-куаш.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: (поговорить) по душам
+ trans_en: 
+
+-lexeme
+ lex: куаштыр
+ stem: куаштыр.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о шорохе, шуршании, шелесте
+ trans_en: 
+
+-lexeme
+ lex: куӵык-куӵык
+ stem: куӵык-куӵык.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: икоте, кудахтанью кур, стрекотанию сороки
+ trans_en: 
+
+-lexeme
+ lex: кыж-куаж
+ stem: кыж-куаж.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о скрежетании металлических предметов
+ trans_en: 
+
+-lexeme
+ lex: кылтыр
+ stem: кылтыр.
+ gramm: IMIT
+ paradigm: connect_adverbs
+ trans_ru: со скрипом
+ trans_en: 
+
+-lexeme
+ lex: кылтыр-колтыр
+ stem: кылтыр-колтыр.
+ gramm: IMIT
+ paradigm: connect_adverbs
+ trans_ru: со скрипом
+ trans_en: 
+
+-lexeme
+ lex: кыльконг
+ stem: кыльконг.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о карканье ворона
+ trans_en: 
+
+-lexeme
+ lex: кыр-кыр
+ stem: кыр-кыр.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о крике чёрного дятла
+ trans_en: 
+
+-lexeme
+ lex: кыштыр
+ stem: кыштыр.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о тихом шорохе, шелесте, шуршании
+ trans_en: of rustling
+
+-lexeme
+ lex: кыштыр-куаштыр
+ stem: кыштыр-куаштыр.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о шорохе, шелесте; тихонько, не шумя
+ trans_en: 
+
+-lexeme
+ lex: кыштырак
+ stem: кыштырак.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о мимолётном шорохе, шелесте, шуршании
+ trans_en: 
+
+-lexeme
+ lex: кӧд
+ stem: кӧд.
+ gramm: IMIT
+ paradigm: Comparative
+ trans_ru: бледный, бледно
+ trans_en: 
+
+-lexeme
+ lex: кӧж
+ stem: кӧж.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о хрусте
+ trans_en: 
+
+-lexeme
+ lex: лар
+ stem: лар.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о блеянии овец
+ trans_en: 
+
+-lexeme
+ lex: лач-лач
+ stem: лач-лач.
+ gramm: IMIT
+ paradigm: Comparative
+ trans_ru: 
+ trans_en: 
+
+-lexeme
+ lex: лаштрак
+ stem: лаштрак.
+ gramm: IMIT
+ paradigm: Comparative
+ trans_ru: с глухим звуком
+ trans_en: 
+
+-lexeme
+ lex: лорс
+ stem: лорс.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о внезапном хрусте
+ trans_en: 
+
+-lexeme
+ lex: лосыр
+ stem: лосыр.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о хрусте, треске
+ trans_en: 
+
+-lexeme
+ lex: лосырак
+ stem: лосырак.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: внезапном резком треске сучьев, хрусте суставов
+ trans_en: 
+
+-lexeme
+ lex: лынгыр-лангыр
+ stem: лынгыр-лангыр.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о разноголосом звоне колокольчиков
+ trans_en: 
+
+-lexeme
+ lex: лырк-лырк
+ stem: лырк-лырк.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: об умеренном биении пульса, сердца; стук-стук
+ trans_en: 
+
+-lexeme
+ lex: лыч-лач
+ stem: лыч-лач.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: шлепкам и ударим кнута, пощечины
+ trans_en: 
+
+-lexeme
+ lex: люр-люр
+ stem: люр-люр.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о чириканье птиц
+ trans_en: 
+
+-lexeme
+ lex: люр-ляр
+ stem: люр-ляр.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о блеянии овец, коз
+ trans_en: 
+
+-lexeme
+ lex: ме-е-е
+ stem: ме-е-е.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о блеянии овец
+ trans_en: 
+
+-lexeme
+ lex: мяу
+ stem: мяу.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о мяуканье кошки; мяу
+ trans_en: 
+
+-lexeme
+ lex: нясь-нясь
+ stem: нясь-нясь.
+ gramm: IMIT
+ paradigm: Comparative
+ trans_ru: 
+ trans_en: 
+
+-lexeme
+ lex: орсь-орсь
+ stem: орсь-орсь.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о хрюканье свиньи хрю-хрю
+ trans_en: 
+
+-lexeme
+ lex: пинь-пинь
+ stem: пинь-пинь.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о цвиньканье, пиньканье некоторых птиц, напр. синиц
+ trans_en: 
+
+-lexeme
+ lex: пиёк-пиёк
+ stem: пиёк-пиёк.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о крике сарыча
+ trans_en: 
+
+-lexeme
+ lex: пуж-пуж
+ stem: пуж-пуж.
+ gramm: IMIT
+ paradigm: Comparative
+ trans_ru: 
+ trans_en: 
+
+-lexeme
+ lex: самблык
+ stem: самблык.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о прыжке лягушки
+ trans_en: 
+
+-lexeme
+ lex: сыльтыр-сальтыр
+ stem: сыльтыр-сальтыр.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о чём-то некрасивом
+ trans_en: 
+
+-lexeme
+ lex: такыр
+ stem: такыр.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о треске, постукивании
+ trans_en: 
+
+-lexeme
+ lex: тап
+ stem: тап.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о глухом одиноком стуке, топоте ног, цоканье копыт топ
+ trans_en: 
+
+-lexeme
+ lex: тапыр
+ stem: тапыр.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о топоте ног, цоканье копыт
+ trans_en: of clatter of feet, hooves
+
+-lexeme
+ lex: тарарат
+ stem: тарарат.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о крике домашних и диких гусей: ~ карыны кричать «тарарат»
+ trans_en: 
+
+-lexeme
+ lex: тарс
+ stem: тарс.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о треске при раскрытии сухих стручков
+ trans_en: 
+
+-lexeme
+ lex: тачыр-тач
+ stem: тачыр-тач.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о потрескивании при ломке сухих сучьев, ветвей, лучины при горении с треском
+ trans_en: 
+
+-lexeme
+ lex: тик-так
+ stem: тик-так.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: тик-так (о тикании часов)
+ trans_en: 
+
+-lexeme
+ lex: торк
+ stem: торк.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о глухом стуке, ударе
+ trans_en: 
+
+-lexeme
+ lex: торк-торк
+ stem: торк-торк.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о глухом стуке о твёрдый предмет
+ trans_en: 
+
+-lexeme
+ lex: торкак
+ stem: торкак.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о глухом одиночном стуке, ударе
+ trans_en: 
+
+-lexeme
+ lex: торс
+ stem: торс.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о треске сухих предметов
+ trans_en: 
+
+-lexeme
+ lex: тра-та-та
+ stem: тра-та-та.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: стрельбе из пулемёта, автомата тра-та-та
+ trans_en: 
+
+-lexeme
+ lex: трах
+ stem: трах.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о звуке взрыва и т. д.
+ trans_en: 
+
+-lexeme
+ lex: трах-тарарах
+ stem: трах-тарарах.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: раскатам грома, частой стрельбе
+ trans_en: 
+
+-lexeme
+ lex: ту-ту-тут
+ stem: ту-ту-тут.
+ gramm: IMIT
+ paradigm: Comparative
+ trans_ru: ту-ту-тут
+ trans_en: 
+
+-lexeme
+ lex: ту-тут
+ stem: ту-тут.
+ gramm: IMIT
+ paradigm: Comparative
+ trans_ru: ту-тут
+ trans_en: 
+
+-lexeme
+ lex: тук-тук
+ stem: тук-тук.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: тук-тук
+ trans_en: 
+
+-lexeme
+ lex: туптӥ-таптӥ
+ stem: туптӥ-таптӥ.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о топоте детских ног
+ trans_en: 
+
+-lexeme
+ lex: тучыр-тачыр
+ stem: тучыр-тачыр.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: треску, потрескиванию личины при горении, при сильном морозе и т. п.
+ trans_en: 
+
+-lexeme
+ lex: тучырак
+ stem: тучырак.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: см. тачырак
+ trans_en: 
+
+-lexeme
+ lex: туӵ-таӵ
+ stem: туӵ-таӵ.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о потрескивании сухих дров в печке, шлепкам, частым выстрелам
+ trans_en: 
+
+-lexeme
+ lex: тынгыль-тынгыль
+ stem: тынгыль-тынгыль.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о звоне колокольчиков
+ trans_en: 
+
+-lexeme
+ lex: тып-тап
+ stem: тып-тап.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о топоте ног
+ trans_en: 
+
+-lexeme
+ lex: тыпрак
+ stem: тыпрак.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: топоту лошадей
+ trans_en: 
+
+-lexeme
+ lex: тём-тём
+ stem: тём-тём.
+ gramm: IMIT
+ paradigm: Comparative
+ trans_ru: тёмный
+ trans_en: dark
+
+-lexeme
+ lex: тёр
+ stem: тёр.
+ gramm: IMIT
+ paradigm: Comparative
+ trans_ru: звукоподр. падающей струйке жидкости или сыпучих материалов
+ trans_en: 
+
+-lexeme
+ lex: тӥльк-тальк
+ stem: тӥльк-тальк.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о стуке металлических предметов стук-бряк
+ trans_en: 
+
+-lexeme
+ lex: тӥнгыль-тӥнгыль
+ stem: тӥнгыль-тӥнгыль.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о звоне колокольчика
+ trans_en: 
+
+-lexeme
+ lex: тӥрс
+ stem: тӥрс.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о треске при ломке хрупких предметов
+ trans_en: 
+
+-lexeme
+ lex: тӥч-тач
+ stem: тӥч-тач.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о треске при ломке сухих сучьев, потрескивании дров при горении, шлепках, ударах по щеке
+ trans_en: 
+
+-lexeme
+ lex: тӥчи-тачи
+ stem: тӥчи-тачи.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о точении
+ trans_en: 
+
+-lexeme
+ lex: уа-уа
+ stem: уа-уа.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о плаче младенца
+ trans_en: 
+
+-lexeme
+ lex: угу-гу-у
+ stem: угу-гу-у.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о крике филина или лесовика
+ trans_en: 
+
+-lexeme
+ lex: унь-мань
+ stem: унь-мань.
+ gramm: IMIT
+ paradigm: Comparative
+ trans_ru: искалечить, обидеть (с карыны)
+ trans_en: 
+
+-lexeme
+ lex: ус-ус
+ stem: ус-ус.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о науськиванье, натравливании собак
+ trans_en: 
+
+-lexeme
+ lex: фьюить
+ stem: фьюить.
+ gramm: IMIT,rus
+ paradigm: Comparative
+ trans_ru: фьюить
+ trans_en: 
+
+-lexeme
+ lex: хвать
+ stem: хвать.
+ gramm: IMIT,rus
+ paradigm: Comparative
+ trans_ru: хвать
+ trans_en: 
+
+-lexeme
+ lex: чан-чан
+ stem: чан-чан.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о колокольном звоне
+ trans_en: 
+
+-lexeme
+ lex: чап-чап
+ stem: чап-чап.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о чавканье при еде
+ trans_en: 
+
+-lexeme
+ lex: чапыль-чапыль
+ stem: чапыль-чапыль.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: подр. звукам, производимым утками, гусями при отыскивании пищи в воде
+ trans_en: 
+
+-lexeme
+ lex: чиз-чиз
+ stem: чиз-чиз.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о звуке брызжуших тонких струек воды или молока
+ trans_en: 
+
+-lexeme
+ lex: чик-чилик
+ stem: чик-чилик.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о крике воробья и некоторых других птиц: чирик, чик-чирик
+ trans_en: 
+
+-lexeme
+ lex: чикыр-чикыр
+ stem: чикыр-чикыр.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о писке мышей, скрежете зубов
+ trans_en: 
+
+-lexeme
+ lex: чин-пан
+ stem: чин-пан.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о визгливом или звонком голосе
+ trans_en: 
+
+-lexeme
+ lex: чин-чан
+ stem: чин-чан.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о крике галки
+ trans_en: 
+
+-lexeme
+ lex: чин-чин
+ stem: чин-чин.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о стуке при ударе о твёрдое дерево
+ trans_en: 
+
+-lexeme
+ lex: чир
+ stem: чир.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о пронзительном крике
+ trans_en: 
+
+-lexeme
+ lex: чирк
+ stem: чирк.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: при зажигании спички чирк
+ trans_en: 
+
+-lexeme
+ lex: чузыр
+ stem: чузыр.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: шуму при пересыпании сыпучих тел, напр. зерна, песка
+ trans_en: 
+
+-lexeme
+ lex: чупыр-чупыр
+ stem: чупыр-чупыр.
+ gramm: IMIT
+ paradigm: Comparative
+ trans_ru: 
+ trans_en: 
+
+-lexeme
+ lex: чылк
+ stem: чылк.
+ gramm: IMIT
+ paradigm: connect_adjectives
+ trans_ru: очень (чистый)
+ trans_en: very (clean)
+
+-lexeme
+ lex: чыс-с-с
+ stem: чыс-с-с.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о шипении змеи
+ trans_en: 
+
+-lexeme
+ lex: шал-шал
+ stem: шал-шал.
+ gramm: IMIT
+ paradigm: Comparative
+ trans_ru: 
+ trans_en: 
+
+-lexeme
+ lex: шалтыр
+ stem: шалтыр.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о стуке деревянными предметами
+ trans_en: of a thud made by wooden objects
+
+-lexeme
+ lex: шальк
+ stem: шальк.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о стуке щеколды, хлопании
+ trans_en: of clanking of a latch, slamming
+
+-lexeme
+ lex: шальк-шальк
+ stem: шальк-шальк.
+ gramm: IMIT
+ paradigm: Comparative
+ trans_ru: 
+ trans_en: 
+
+-lexeme
+ lex: шальт-шальт
+ stem: шальт-шальт.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о звоне монет, железных подвесок, мониста и звуку других звенящих металлических предметов
+ trans_en: 
+
+-lexeme
+ lex: шап-шап
+ stem: шап-шап.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о звуке падающих капель
+ trans_en: 
+
+-lexeme
+ lex: шапыр
+ stem: шапыр.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о шуме падающих капель
+ trans_en: 
+
+-lexeme
+ lex: шапыр-шапыр
+ stem: шапыр-шапыр.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о шуме капель дождя
+ trans_en: 
+
+-lexeme
+ lex: шар-р
+ stem: шар-р.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о шорохе сыплющегося зерна
+ trans_en: 
+
+-lexeme
+ lex: шач
+ stem: шач.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: при хлестании плетью, кнутом и т.д.
+ trans_en: 
+
+-lexeme
+ lex: шенгыль-пенгыль
+ stem: шенгыль-пенгыль.
+ gramm: IMIT
+ paradigm: Comparative
+ trans_ru: 
+ trans_en: 
+
+-lexeme
+ lex: шильк-шальк
+ stem: шильк-шальк.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о бряцании металлических предметов
+ trans_en: 
+
+-lexeme
+ lex: шильтыр
+ stem: шильтыр.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о бряцании мелких металлических предметов
+ trans_en: 
+
+-lexeme
+ lex: шлач
+ stem: шлач.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о щёлканье кнутом, звуке пощёчины
+ trans_en: 
+
+-lexeme
+ lex: шлич-шлач
+ stem: шлич-шлач.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о щёлканье кнутом, звуке пощёчины
+ trans_en: 
+
+-lexeme
+ lex: шлёп
+ stem: шлёп.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о плеске, ударе ладонью
+ trans_en: 
+
+-lexeme
+ lex: шултыр-шалтыр
+ stem: шултыр-шалтыр.
+ gramm: IMIT
+ paradigm: connect_adverbs
+ trans_ru: с грохотом
+ trans_en: 
+
+-lexeme
+ lex: шур-шур
+ stem: шур-шур.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о шуршании платья, листьев
+ trans_en: 
+
+-lexeme
+ lex: шурк-шарк
+ stem: шурк-шарк.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о шарканье ног
+ trans_en: 
+
+-lexeme
+ lex: шылт-шалт
+ stem: шылт-шалт.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о стуке о твёрдый предмет стук-бряк
+ trans_en: 
+
+-lexeme
+ lex: шылтыр
+ stem: шылтыр.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о шуме при падении громоздких предметов
+ trans_en: 
+
+-lexeme
+ lex: шылтыр-шалтыр
+ stem: шылтыр-шалтыр.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о шуме при падении громоздких предметов
+ trans_en: 
+
+-lexeme
+ lex: шыльк-шальк
+ stem: шыльк-шальк.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: звону металлических предметов
+ trans_en: 
+
+-lexeme
+ lex: шып-шап
+ stem: шып-шап.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о звуках падающих капель; кап-кап
+ trans_en: 
+
+-lexeme
+ lex: шыпыр-шапыр
+ stem: шыпыр-шапыр.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о крупных каплях дождя
+ trans_en: 
+
+-lexeme
+ lex: шырк-шарк
+ stem: шырк-шарк.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о стуке, топоте ног
+ trans_en: 
+
+-lexeme
+ lex: шытыр-шатыр
+ stem: шытыр-шатыр.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о глухом стуке или треске разгрызаемых зёрен
+ trans_en: 
+
+-lexeme
+ lex: шыч-шач
+ stem: шыч-шач.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о звуке при ударах прутьями, кнутом или свисте косы при косьбе
+ trans_en: 
+
+-lexeme
+ lex: шычыр-шачыр
+ stem: шычыр-шачыр.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: при ударах прутьями, кнутом или свисту косы при косьбе
+ trans_en: 
+
+-lexeme
+ lex: юг
+ stem: юг.
+ gramm: IMIT
+ paradigm: Comparative
+ trans_ru: светло
+ trans_en: brightly
+
+-lexeme
+ lex: ӝик
+ stem: ӝик.
+ gramm: IMIT
+ paradigm: Comparative
+ trans_ru: аккуратно; крепко-накрепко; туго
+ trans_en: neatly; tightly; firmly
+
+-lexeme
+ lex: ӝик-ӝик
+ stem: ӝик-ӝик.
+ gramm: IMIT
+ paradigm: Comparative
+ trans_ru: аккуратно; крепко-накрепко; туго
+ trans_en: 
+
+-lexeme
+ lex: ӝикыр-ӝикыр
+ stem: ӝикыр-ӝикыр.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о скрипе, хрусте
+ trans_en: 
+
+-lexeme
+ lex: ӝуй-ӝуй
+ stem: ӝуй-ӝуй.
+ gramm: IMIT
+ paradigm: Comparative
+ trans_ru: пышный
+ trans_en: 
+
+-lexeme
+ lex: ӟильыр
+ stem: ӟильыр.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о чириканьи, щебетании птиц, журчании воды
+ trans_en: 
+
+-lexeme
+ lex: ӵаж
+ stem: ӵаж.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о шуме дождя, треске разрываемой материи
+ trans_en: of sound of rain, cracking of torn cloth
+
+-lexeme
+ lex: ӵажыр
+ stem: ӵажыр.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о треске при горении
+ trans_en: 
+
+-lexeme
+ lex: ӵажыр-ӵажыр
+ stem: ӵажыр-ӵажыр.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о сильном треске при горении, при разрывании материи
+ trans_en: 
+
+-lexeme
+ lex: ӵажырак
+ stem: ӵажырак.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о треске при горении
+ trans_en: 
+
+-lexeme
+ lex: ӵаштыр
+ stem: ӵаштыр.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о шуршании
+ trans_en: 
+
+-lexeme
+ lex: ӵаштыр-ӵаштыр
+ stem: ӵаштыр-ӵаштыр.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о шуршании
+ trans_en: 
+
+-lexeme
+ lex: ӵуш-паш
+ stem: ӵуш-паш.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о шаркании ног
+ trans_en: 
+
+-lexeme
+ lex: ӵык-ӵык
+ stem: ӵык-ӵык.
+ gramm: IMIT
+ paradigm: Empty
+ trans_ru: о голосе соловья
+ trans_en: 

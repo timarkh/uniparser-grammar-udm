@@ -5,6 +5,7 @@
  paradigm: Noun-num-consonant
  paradigm: Noun-num-consonant-y
  trans_ru: около
+ trans_en: near, at
 
 -lexeme
  lex: сьӧр
@@ -12,7 +13,8 @@
  gramm: N,rel_n
  paradigm: Noun-num-consonant
  paradigm: Noun-num-consonant-y
- trans_ru: за, сзади (у задней части ориентира)
+ trans_ru: за, сзади (ориентир находится между объектом и говорящим)
+ trans_en: behind
 
 -lexeme
  lex: сьӧр
@@ -20,7 +22,8 @@
  gramm: N,rel_n
  paradigm: Noun-num-consonant
  paradigm: Noun-num-consonant-y
- trans_ru: за, сзади (у задней части ориентира)
+ trans_ru: за, сзади (ориентир находится между объектом и говорящим)
+ trans_en: behind
 
 -lexeme
  lex: бер
@@ -28,7 +31,8 @@
  gramm: N,rel_n
  paradigm: Noun-num-consonant
  paradigm: Noun-num-consonant-y
- trans_ru: за, сзади (ориентир находится между объектом и говорящим)
+ trans_ru: за, сзади (у задней части ориентира)
+ trans_en: behind, at the back
 
 -lexeme
  lex: берпал
@@ -36,6 +40,7 @@
  gramm: N,rel_n
  paradigm: Noun-num-pal
  trans_ru: зад
+ trans_en: back
 
 -lexeme
  lex: азь
@@ -44,6 +49,7 @@
  paradigm: Noun-num-soft
  paradigm: Noun-num-soft-y
  trans_ru: перед
+ trans_en: front
 
 -lexeme
  lex: азьпал
@@ -51,6 +57,7 @@
  gramm: N,rel_n
  paradigm: Noun-num-pal
  trans_ru: перед
+ trans_en: front
 
 -lexeme
  lex: борд
@@ -59,6 +66,7 @@
  paradigm: Noun-num-consonant
  paradigm: Noun-num-consonant-y
  trans_ru: около
+ trans_en: near, at, on
 
 -lexeme
  lex: шор
@@ -66,7 +74,8 @@
  gramm: N,rel_n
  paradigm: Noun-num-consonant
  paradigm: Noun-num-consonant-y
- trans_ru: середина
+ trans_ru: середина; напротив
+ trans_en: middle; opposite
 
 -lexeme
  lex: шор
@@ -75,6 +84,7 @@
  paradigm: Noun-case-compounding
  paradigm: Comparative
  trans_ru: середина
+ trans_en: middle
 
 -lexeme
  lex: вис
@@ -83,6 +93,7 @@
  paradigm: Noun-num-consonant
  paradigm: Noun-num-consonant-y
  trans_ru: промежуток; между
+ trans_en: gap; between
 
 -lexeme
  lex: вис
@@ -91,6 +102,7 @@
  paradigm: Noun-num-consonant
  paradigm: Noun-num-consonant-y
  trans_ru: промежуток; между
+ trans_en: gap; between
 
 -lexeme
  lex: урдэс
@@ -99,6 +111,7 @@
  paradigm: Noun-num-consonant
  paradigm: Noun-num-consonant-y
  trans_ru: бок, сторона; сбоку
+ trans_en: side, beside
 
 -lexeme
  lex: урдэс
@@ -107,6 +120,7 @@
  paradigm: Noun-num-consonant
  paradigm: Noun-num-consonant-y
  trans_ru: бок, сторона; сбоку
+ trans_en: side, beside
 
 -lexeme
  lex: урдэс
@@ -115,6 +129,7 @@
  paradigm: Noun-num-consonant
  paradigm: Noun-num-consonant-y
  trans_ru: бок, сторона; сбоку
+ trans_en: side, beside
 
 -lexeme
  lex: вадес
@@ -123,6 +138,7 @@
  paradigm: Noun-num-consonant
  paradigm: Noun-num-consonant-y
  trans_ru: напротив
+ trans_en: opposite
 
 -lexeme
  lex: вадес
@@ -131,6 +147,7 @@
  paradigm: Noun-num-consonant
  paradigm: Noun-num-consonant-y
  trans_ru: напротив
+ trans_en: opposite
 
 -lexeme
  lex: вадес
@@ -139,6 +156,7 @@
  paradigm: Noun-num-consonant
  paradigm: Noun-num-consonant-y
  trans_ru: напротив
+ trans_en: opposite
 
 -lexeme
  lex: бӧрсь
@@ -147,6 +165,7 @@
  paradigm: Noun-num-soft
  paradigm: Noun-case-soft-ill-y
  trans_ru: следом за
+ trans_en: following
 
 -lexeme
  lex: шӧлк
@@ -155,6 +174,7 @@
  paradigm: Noun-num-consonant
  paradigm: Noun-num-consonant-y
  trans_ru: вслед за
+ trans_en: following
 
 -lexeme
  lex: шӧлыс
@@ -163,6 +183,7 @@
  paradigm: Noun-num-consonant
  paradigm: Noun-num-consonant-y
  trans_ru: вслед за
+ trans_en: following
 
 -lexeme
  lex: котыр
@@ -171,6 +192,7 @@
  paradigm: Noun-num-consonant
  paradigm: Noun-num-consonant-y
  trans_ru: окрестность; вокруг
+ trans_en: vicinity; around
 
 -lexeme
  lex: улс
@@ -179,6 +201,7 @@
  paradigm: Noun-num-consonant
  paradigm: Noun-num-consonant-y
  trans_ru: расстояние; под
+ trans_en: distance; under
 
 -lexeme
  lex: йыл
@@ -187,6 +210,7 @@
  paradigm: Noun-num-consonant
  paradigm: Noun-num-consonant-y
  trans_ru: вершина, верхушка
+ trans_en: apex
 
 -lexeme
  lex: пӧл
@@ -195,6 +219,7 @@
  paradigm: Noun-num-consonant
  paradigm: Noun-num-consonant-y
  trans_ru: среди
+ trans_en: among
 
 -lexeme
  lex: пуш
@@ -203,6 +228,7 @@
  paradigm: Noun-num-consonant
  paradigm: Noun-num-consonant-y
  trans_ru: внутренность; внутри
+ trans_en: inside
 
 -lexeme
  lex: пуш
@@ -211,6 +237,7 @@
  paradigm: Noun-num-consonant
  paradigm: Noun-num-consonant-y
  trans_ru: внутренность; внутри
+ trans_en: inside
 
 -lexeme
  lex: кусып
@@ -219,6 +246,7 @@
  paradigm: Noun-num-consonant
  paradigm: Noun-num-consonant-y
  trans_ru: промежуток; между
+ trans_en: interval; between
 
 -lexeme
  lex: кусып
@@ -227,6 +255,7 @@
  paradigm: Noun-num-consonant
  paradigm: Noun-num-consonant-y
  trans_ru: промежуток; между
+ trans_en: interval; between
 
 -lexeme
  lex: кусып
@@ -235,6 +264,7 @@
  paradigm: Noun-num-consonant
  paradigm: Noun-num-consonant-y
  trans_ru: промежуток; между
+ trans_en: interval; between
 
 -lexeme
  lex: пулс
@@ -243,6 +273,7 @@
  paradigm: Noun-num-consonant
  paradigm: Noun-num-consonant-y
  trans_ru: промежуток; между
+ trans_en: interval; between
 
 -lexeme
  lex: выл
@@ -251,6 +282,7 @@
  paradigm: Noun-num-consonant
  paradigm: Noun-num-consonant-y
  trans_ru: верх, поверхность; сверху
+ trans_en: top; on, above
 
 -lexeme
  lex: выллапал
@@ -259,6 +291,7 @@
  paradigm: Noun-num-consonant
  paradigm: Noun-num-pal
  trans_ru: верхняя сторона
+ trans_en: top side
 
 -lexeme
  lex: ул
@@ -267,6 +300,7 @@
  paradigm: Noun-num-consonant
  paradigm: Noun-num-consonant-y
  trans_ru: низ; снизу
+ trans_en: bottom; under
 
 -lexeme
  lex: уллапал
@@ -275,6 +309,7 @@
  paradigm: Noun-num-consonant
  paradigm: Noun-num-pal
  trans_ru: нижняя сторона
+ trans_en: bottom side
 
 -lexeme
  lex: дор
@@ -283,6 +318,7 @@
  paradigm: Noun-num-consonant
  paradigm: Noun-num-consonant-y
  trans_ru: около
+ trans_en: near, at
 
 -lexeme
  lex: места
@@ -290,6 +326,7 @@
  gramm: N,rel_n
  paradigm: Noun-num-vowel
  trans_ru: место; вместо
+ trans_en: place; instead
 
 -lexeme
  lex: пумит
@@ -298,6 +335,7 @@
  paradigm: Noun-num-consonant
  paradigm: Noun-num-consonant-y
  trans_ru: напротив
+ trans_en: across, opposite
 
 -lexeme
  lex: мыш
@@ -306,6 +344,7 @@
  paradigm: Noun-num-consonant
  paradigm: Noun-num-consonant-y
  trans_ru: зад, тыл; сзади
+ trans_en: back
 
 -lexeme
  lex: мыш
@@ -314,3 +353,4 @@
  paradigm: Noun-num-consonant
  paradigm: Noun-num-consonant-y
  trans_ru: зад, тыл; сзади
+ trans_en: back

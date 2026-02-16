@@ -4,6 +4,7 @@
  gramm: PRO
  paradigm: PRO-pers
  trans_ru: я
+ trans_en: I
 
 -lexeme
  lex: мон
@@ -12,6 +13,7 @@
  gloss: STEM&ACC
  paradigm: Comparative
  trans_ru: я
+ trans_en: I
 
 -lexeme
  lex: мон
@@ -20,6 +22,7 @@
  paradigm: Noun-case-compounding
  paradigm: Noun-case-compounding-pl-consonant
  trans_ru: я
+ trans_en: I
 
 -lexeme
  lex: мон
@@ -28,6 +31,7 @@
  paradigm: Noun-case-compounding
  paradigm: Noun-case-compounding-pl-consonant
  trans_ru: я
+ trans_en: I
 
 -lexeme
  lex: мон
@@ -35,6 +39,7 @@
  gramm: PRO,dat,sg
  paradigm: Comparative
  trans_ru: я
+ trans_en: I
 
 -lexeme
  lex: мон
@@ -43,6 +48,7 @@
  gloss: STEM&CAR
  paradigm: Comparative
  trans_ru: я
+ trans_en: I
 
 -lexeme
  lex: мон
@@ -51,6 +57,7 @@
  gloss: STEM&ADV
  paradigm: Comparative
  trans_ru: я
+ trans_en: I
 
 -lexeme
  lex: мон
@@ -59,6 +66,7 @@
  gloss: STEM&INS
  paradigm: Comparative
  trans_ru: я
+ trans_en: I
 
 -lexeme
  lex: мон
@@ -67,6 +75,7 @@
  gloss: STEM&APP
  paradigm: Comparative
  trans_ru: я
+ trans_en: I
 
 -lexeme
  lex: ми
@@ -74,6 +83,7 @@
  gramm: PRO,nom,pl
  paradigm: Comparative
  trans_ru: мы
+ trans_en: we
 
 -lexeme
  lex: ми
@@ -81,6 +91,7 @@
  gramm: PRO,acc,pl
  paradigm: Comparative
  trans_ru: мы
+ trans_en: we
 
 -lexeme
  lex: ми
@@ -88,6 +99,7 @@
  gramm: PRO,acc,pl
  paradigm: Comparative
  trans_ru: мы
+ trans_en: we
 
 -lexeme
  lex: ми
@@ -96,6 +108,7 @@
  paradigm: Noun-case-compounding
  paradigm: Noun-case-compounding-pl-consonant
  trans_ru: мы
+ trans_en: we
 
 -lexeme
  lex: ми
@@ -104,6 +117,7 @@
  paradigm: Noun-case-compounding
  paradigm: Noun-case-compounding-pl-consonant
  trans_ru: мы
+ trans_en: we
 
 -lexeme
  lex: ми
@@ -111,6 +125,7 @@
  gramm: PRO,dat,pl
  paradigm: Comparative
  trans_ru: мы
+ trans_en: we
 
 -lexeme
  lex: ми
@@ -118,6 +133,7 @@
  gramm: PRO,dat,pl
  paradigm: Comparative
  trans_ru: мы
+ trans_en: we
 
 -lexeme
  lex: ми
@@ -126,6 +142,7 @@
  gloss: STEM&CAR
  paradigm: Comparative
  trans_ru: мы
+ trans_en: we
 
 -lexeme
  lex: ми
@@ -134,6 +151,7 @@
  gloss: STEM&ADV
  paradigm: Comparative
  trans_ru: мы
+ trans_en: we
 
 -lexeme
  lex: ми
@@ -141,6 +159,7 @@
  gramm: PRO,ins,pl
  paradigm: Comparative
  trans_ru: мы
+ trans_en: we
 
 -lexeme
  lex: ми
@@ -148,6 +167,7 @@
  gramm: PRO,ins,pl
  paradigm: Comparative
  trans_ru: мы
+ trans_en: we
 
 -lexeme
  lex: ми
@@ -156,6 +176,7 @@
  gloss: STEM&APP
  paradigm: Comparative
  trans_ru: мы
+ trans_en: we
 
 -lexeme
  lex: тон
@@ -163,6 +184,7 @@
  gramm: PRO
  paradigm: PRO-pers
  trans_ru: ты
+ trans_en: you
 
 -lexeme
  lex: тон
@@ -171,6 +193,7 @@
  gloss: STEM&ACC
  paradigm: Comparative
  trans_ru: ты
+ trans_en: you
 
 -lexeme
  lex: тон
@@ -179,6 +202,7 @@
  paradigm: Noun-case-compounding
  paradigm: Noun-case-compounding-pl-consonant
  trans_ru: ты
+ trans_en: you
 
 -lexeme
  lex: тон
@@ -187,6 +211,7 @@
  paradigm: Noun-case-compounding
  paradigm: Noun-case-compounding-pl-consonant
  trans_ru: ты
+ trans_en: you
 
 -lexeme
  lex: тон
@@ -194,6 +219,7 @@
  gramm: PRO,dat,sg
  paradigm: Comparative
  trans_ru: ты
+ trans_en: you
 
 -lexeme
  lex: тон
@@ -202,6 +228,7 @@
  gloss: STEM&CAR
  paradigm: Comparative
  trans_ru: ты
+ trans_en: you
 
 -lexeme
  lex: тон
@@ -210,6 +237,7 @@
  gloss: STEM&ADV
  paradigm: Comparative
  trans_ru: ты
+ trans_en: you
 
 -lexeme
  lex: тон
@@ -218,6 +246,7 @@
  gloss: STEM&INS
  paradigm: Comparative
  trans_ru: ты
+ trans_en: you
 
 -lexeme
  lex: тон
@@ -226,6 +255,7 @@
  gloss: STEM&APP
  paradigm: Comparative
  trans_ru: ты
+ trans_en: you
 
 -lexeme
  lex: тӥ
@@ -233,6 +263,7 @@
  gramm: PRO,nom,pl
  paradigm: Comparative
  trans_ru: вы
+ trans_en: you
 
 -lexeme
  lex: тӥ
@@ -240,6 +271,7 @@
  gramm: PRO,acc,pl
  paradigm: Comparative
  trans_ru: вы
+ trans_en: you
 
 -lexeme
  lex: тӥ
@@ -247,6 +279,7 @@
  gramm: PRO,acc,pl
  paradigm: Comparative
  trans_ru: вы
+ trans_en: you
 
 -lexeme
  lex: тӥ
@@ -255,6 +288,7 @@
  paradigm: Noun-case-compounding
  paradigm: Noun-case-compounding-pl-consonant
  trans_ru: вы
+ trans_en: you
 
 -lexeme
  lex: тӥ
@@ -263,6 +297,7 @@
  paradigm: Noun-case-compounding
  paradigm: Noun-case-compounding-pl-consonant
  trans_ru: вы
+ trans_en: you
 
 -lexeme
  lex: тӥ
@@ -270,6 +305,7 @@
  gramm: PRO,dat,pl
  paradigm: Comparative
  trans_ru: вы
+ trans_en: you
 
 -lexeme
  lex: тӥ
@@ -277,6 +313,7 @@
  gramm: PRO,dat,pl
  paradigm: Comparative
  trans_ru: вы
+ trans_en: you
 
 -lexeme
  lex: тӥ
@@ -285,6 +322,7 @@
  gloss: STEM&CAR
  paradigm: Comparative
  trans_ru: вы
+ trans_en: you
 
 -lexeme
  lex: тӥ
@@ -293,6 +331,7 @@
  gloss: STEM&ADV
  paradigm: Comparative
  trans_ru: вы
+ trans_en: you
 
 -lexeme
  lex: тӥ
@@ -300,6 +339,7 @@
  gramm: PRO,ins,pl
  paradigm: Comparative
  trans_ru: вы
+ trans_en: you
 
 -lexeme
  lex: тӥ
@@ -307,6 +347,7 @@
  gramm: PRO,ins,pl
  paradigm: Comparative
  trans_ru: вы
+ trans_en: you
 
 -lexeme
  lex: тӥ
@@ -315,6 +356,7 @@
  gloss: STEM&APP
  paradigm: Comparative
  trans_ru: вы
+ trans_en: you
 
 -lexeme
  lex: со
@@ -322,6 +364,7 @@
  gramm: PRO
  paradigm: Noun-mar
  trans_ru: он/она/оно; тот, этот
+ trans_en: he/she/it; that
 
 -lexeme
  lex: со
@@ -330,6 +373,7 @@
  gloss: STEM&ACC
  paradigm: Comparative
  trans_ru: он/она/оно; тот, этот
+ trans_en: he/she/it; that
 
 -lexeme
  lex: мон
@@ -337,6 +381,7 @@
  gramm: PRO,ins,sg
  paradigm: Comparative
  trans_ru: я
+ trans_en: I
 
 -lexeme
  lex: тон
@@ -344,6 +389,7 @@
  gramm: PRO,ins,sg
  paradigm: Comparative
  trans_ru: ты
+ trans_en: you
 
 
 
@@ -353,6 +399,7 @@
  gramm: ADJPRO
  paradigm: connect_adjectives
  trans_ru: какой
+ trans_en: what, what kind
 
 -lexeme
  lex: кыӵе
@@ -360,6 +407,7 @@
  gramm: ADJPRO,nonst
  paradigm: connect_adjectives
  trans_ru: какой
+ trans_en: what, what kind
 
 -lexeme
  lex: кыӵеке
@@ -367,6 +415,7 @@
  gramm: ADJPRO
  paradigm: connect_adjectives
  trans_ru: какой
+ trans_en: what, what kind
 
 -lexeme
  lex: нокыӵе
@@ -374,6 +423,7 @@
  gramm: ADJPRO
  paradigm: connect_adjectives
  trans_ru: никакой
+ trans_en: not any
 
 -lexeme
  lex: олокыӵе
@@ -381,6 +431,7 @@
  gramm: ADJPRO
  paradigm: connect_adjectives
  trans_ru: не знаю какой
+ trans_en: don't know what, God knows what
 
 -lexeme
  lex: огкыӵе
@@ -388,6 +439,7 @@
  gramm: ADJPRO
  paradigm: connect_adjectives
  trans_ru: никакой
+ trans_en: not any
 
 -lexeme
  lex: ненокыӵе
@@ -395,6 +447,7 @@
  gramm: ADJPRO
  paradigm: connect_adjectives
  trans_ru: никакой
+ trans_en: not any
 
 -lexeme
  lex: нокыӵе
@@ -402,6 +455,7 @@
  gramm: ADJPRO,nonst
  paradigm: connect_adjectives
  trans_ru: никакой
+ trans_en: not any
 
 -lexeme
  lex: котькыӵе
@@ -409,6 +463,7 @@
  gramm: ADJPRO
  paradigm: connect_adjectives
  trans_ru: какой угодно
+ trans_en: any
 
 -lexeme
  lex: котькыӵе
@@ -416,6 +471,7 @@
  gramm: ADJPRO,nonst
  paradigm: connect_adjectives
  trans_ru: какой угодно
+ trans_en: any
 
 -lexeme
  lex: сыӵе
@@ -423,6 +479,7 @@
  gramm: ADJPRO
  paradigm: connect_adjectives
  trans_ru: такой
+ trans_en: such, like that
 
 -lexeme
  lex: ыӵе
@@ -430,6 +487,7 @@
  gramm: ADJPRO
  paradigm: connect_adjectives
  trans_ru: такой
+ trans_en: such, like that
 
 -lexeme
  lex: таӵе
@@ -437,6 +495,7 @@
  gramm: ADJPRO
  paradigm: connect_adjectives
  trans_ru: такой
+ trans_en: such, like this
 
 -lexeme
  lex: кин
@@ -445,6 +504,7 @@
  paradigm: Noun-mar
  paradigm: Noun-num-soft
  trans_ru: кто
+ trans_en: who
 
 -lexeme
  lex: кинке
@@ -452,6 +512,7 @@
  gramm: PRO
  paradigm: Noun-num-vowel
  trans_ru: кто-то
+ trans_en: somebody
 
 -lexeme
  lex: кинке
@@ -460,6 +521,7 @@
  paradigm: Noun-num-consonant
  paradigm: Noun-num-soft
  trans_ru: кто-то
+ trans_en: somebody
 
 -lexeme
  lex: нокин
@@ -468,6 +530,7 @@
  paradigm: Noun-mar
  paradigm: Noun-num-soft
  trans_ru: никто
+ trans_en: nobody
 
 -lexeme
  lex: огкин
@@ -476,6 +539,7 @@
  paradigm: Noun-mar
  paradigm: Noun-num-soft
  trans_ru: никто
+ trans_en: nobody
 
 -lexeme
  lex: некин
@@ -484,6 +548,7 @@
  paradigm: Noun-mar
  paradigm: Noun-num-soft
  trans_ru: никто
+ trans_en: nobody
 
 -lexeme
  lex: ненокин
@@ -492,6 +557,7 @@
  paradigm: Noun-mar
  paradigm: Noun-num-soft
  trans_ru: никто
+ trans_en: nobody
 
 -lexeme
  lex: котькин
@@ -500,6 +566,7 @@
  paradigm: Noun-mar
  paradigm: Noun-num-soft
  trans_ru: кто угодно
+ trans_en: anybody
 
 -lexeme
  lex: тыласакин
@@ -508,6 +575,7 @@
  paradigm: Noun-mar
  paradigm: Noun-num-soft
  trans_ru: кто угодно, кто попало
+ trans_en: anybody
 
 -lexeme
  lex: олокин
@@ -516,6 +584,7 @@
  paradigm: Noun-mar
  paradigm: Noun-num-soft
  trans_ru: кто-то, не знаю кто
+ trans_en: don't know who, God knows who
 
 -lexeme
  lex: мар
@@ -523,6 +592,7 @@
  gramm: PRO
  paradigm: Noun-mar
  trans_ru: что
+ trans_en: what
 
 -lexeme
  lex: марке
@@ -530,6 +600,7 @@
  gramm: PRO
  paradigm: Noun-num-vowel
  trans_ru: что-то
+ trans_en: something
 
 -lexeme
  lex: марке
@@ -537,6 +608,7 @@
  gramm: PRO
  paradigm: Noun-num-consonant
  trans_ru: что-то
+ trans_en: something
 
 -lexeme
  lex: маке
@@ -544,6 +616,7 @@
  gramm: PRO
  paradigm: Noun-mar
  trans_ru: что-то
+ trans_en: something
 
 -lexeme
  lex: номыр
@@ -551,6 +624,7 @@
  gramm: PRO
  paradigm: Noun-mar
  trans_ru: ничто
+ trans_en: nothing
 
 -lexeme
  lex: огмыр
@@ -558,6 +632,7 @@
  gramm: PRO
  paradigm: Noun-mar
  trans_ru: ничто
+ trans_en: nothing
 
 -lexeme
  lex: огмар
@@ -565,6 +640,7 @@
  gramm: PRO
  paradigm: Noun-mar
  trans_ru: ничто
+ trans_en: nothing
 
 -lexeme
  lex: немар
@@ -572,6 +648,7 @@
  gramm: PRO
  paradigm: Noun-mar
  trans_ru: нечего
+ trans_en: there is nothing
 
 -lexeme
  lex: котьмар
@@ -579,6 +656,7 @@
  gramm: PRO
  paradigm: Noun-mar
  trans_ru: что угодно
+ trans_en: anything
 
 -lexeme
  lex: котьма
@@ -586,6 +664,7 @@
  gramm: PRO
  paradigm: Noun-mar
  trans_ru: что угодно
+ trans_en: anything
 
 -lexeme
  lex: оломар
@@ -593,6 +672,7 @@
  gramm: PRO
  paradigm: Noun-mar
  trans_ru: что-то, не знаю что
+ trans_en: don't know what, God knows what
 
 -lexeme
  lex: тыласамар
@@ -600,6 +680,7 @@
  gramm: PRO
  paradigm: Noun-mar
  trans_ru: что угодно, что попало
+ trans_en: anything
 
 -lexeme
  lex: тыласама
@@ -607,6 +688,7 @@
  gramm: PRO
  paradigm: Noun-mar
  trans_ru: что угодно, что попало
+ trans_en: anything
 
 -lexeme
  lex: ма
@@ -614,6 +696,7 @@
  gramm: PRO
  paradigm: Noun-mar
  trans_ru: что
+ trans_en: what
 
 -lexeme
  lex: олома
@@ -621,6 +704,7 @@
  gramm: PRO
  paradigm: Noun-mar
  trans_ru: что-то, не знаю что
+ trans_en: don't know what, God knows what
 
 -lexeme
  lex: кӧня
@@ -629,6 +713,7 @@
  paradigm: connect_adverbs_px
  paradigm: Noun-vowel-pl-case
  trans_ru: сколько
+ trans_en: how many, how much
 
 -lexeme
  lex: кӧняен
@@ -636,6 +721,7 @@
  gramm: ADVPRO,ins
  paradigm: connect_adverbs_px
  trans_ru: почём
+ trans_en: for how much
 
 -lexeme
  lex: кӧняе
@@ -643,6 +729,7 @@
  gramm: ADVPRO,ill
  paradigm: connect_adverbs_px
  trans_ru: во сколько
+ trans_en: at what time
 
 -lexeme
  lex: кӧняын
@@ -650,6 +737,7 @@
  gramm: ADVPRO,loc
  paradigm: connect_adverbs_px
  trans_ru: во сколько
+ trans_en: at what time
 
 -lexeme
  lex: котькӧня
@@ -658,6 +746,7 @@
  paradigm: connect_adverbs_px
  paradigm: Noun-vowel-pl-case
  trans_ru: сколько угодно
+ trans_en: any amount
 
 -lexeme
  lex: олокӧня
@@ -666,6 +755,7 @@
  paradigm: connect_adverbs_px
  paradigm: Noun-vowel-pl-case
  trans_ru: не знаю сколько
+ trans_en: don't know how many, God knows how many
 
 -lexeme
  lex: нокӧня
@@ -674,6 +764,7 @@
  paradigm: connect_adverbs_px
  paradigm: Noun-vowel-pl-case
  trans_ru: нисколько
+ trans_en: no amount
 
 -lexeme
  lex: огкӧня
@@ -682,6 +773,7 @@
  paradigm: connect_adverbs_px
  paradigm: Noun-vowel-pl-case
  trans_ru: нисколько
+ trans_en: no amount
 
 -lexeme
  lex: кӧняке
@@ -690,6 +782,7 @@
  paradigm: connect_adverbs_px
  paradigm: Noun-vowel-pl-case
  trans_ru: сколько-то
+ trans_en: some amount
 
 -lexeme
  lex: кӧнякелы
@@ -697,6 +790,7 @@
  gramm: ADVPRO,dat
  paradigm: connect_adverbs_px
  trans_ru: на сколько-то
+ trans_en: for some time
 
 -lexeme
  lex: сомында
@@ -705,6 +799,7 @@
  paradigm: connect_adverbs_px
  paradigm: Noun-vowel-pl-case
  trans_ru: столько
+ trans_en: that many
 
 -lexeme
  lex: малы
@@ -712,6 +807,7 @@
  gramm: PRO
  paradigm: connect_adverbs_px
  trans_ru: зачем
+ trans_en: why
 
 -lexeme
  lex: соку
@@ -719,6 +815,7 @@
  gramm: ADVPRO
  paradigm: connect_adverbs_px
  trans_ru: тогда
+ trans_en: then
 
 -lexeme
  lex: сокы
@@ -726,6 +823,7 @@
  gramm: ADVPRO
  paradigm: connect_adverbs_px
  trans_ru: тогда
+ trans_en: then
 
 -lexeme
  lex: ку
@@ -733,6 +831,7 @@
  gramm: ADVPRO
  paradigm: Comparative
  trans_ru: когда
+ trans_en: when
 
 -lexeme
  lex: котьку
@@ -740,6 +839,7 @@
  gramm: ADVPRO
  paradigm: connect_adverbs_px
  trans_ru: когда угодно
+ trans_en: anytime
 
 -lexeme
  lex: олоку
@@ -747,6 +847,7 @@
  gramm: ADVPRO
  paradigm: connect_adverbs_px
  trans_ru: не знаю когда
+ trans_en: don't know when, God knows when
 
 -lexeme
  lex: ноку
@@ -754,6 +855,7 @@
  gramm: ADVPRO
  paradigm: connect_adverbs_px
  trans_ru: никогда
+ trans_en: never
 
 -lexeme
  lex: огку
@@ -761,6 +863,7 @@
  gramm: ADVPRO
  paradigm: connect_adverbs_px
  trans_ru: никогда
+ trans_en: never
 
 -lexeme
  lex: неноку
@@ -768,6 +871,7 @@
  gramm: ADVPRO
  paradigm: connect_adverbs_px
  trans_ru: никогда
+ trans_en: never
 
 -lexeme
  lex: котькуд
@@ -775,6 +879,7 @@
  gramm: ADJPRO
  paradigm: Noun-mar
  trans_ru: который угодно
+ trans_en: whichever
 
 -lexeme
  lex: олокуд
@@ -782,6 +887,7 @@
  gramm: ADJPRO
  paradigm: Noun-mar
  trans_ru: не знаю который
+ trans_en: don't know which, God knows which
 
 -lexeme
  lex: нокуд
@@ -789,6 +895,7 @@
  gramm: ADJPRO
  paradigm: Noun-mar
  trans_ru: никоторый
+ trans_en: neither, none
 
 -lexeme
  lex: огкуд
@@ -796,6 +903,7 @@
  gramm: ADJPRO
  paradigm: Noun-mar
  trans_ru: никоторый
+ trans_en: neither, none
 
 -lexeme
  lex: ненокуд
@@ -803,6 +911,7 @@
  gramm: ADJPRO
  paradigm: Noun-mar
  trans_ru: никоторый
+ trans_en: neither, none
 
 -lexeme
  lex: куд
@@ -810,6 +919,7 @@
  gramm: ADJPRO
  paradigm: Noun-mar
  trans_ru: который
+ trans_en: which
 
 -lexeme
  lex: кызьы
@@ -817,6 +927,7 @@
  gramm: ADVPRO
  paradigm: connect_adverbs_px
  trans_ru: как
+ trans_en: how
 
 -lexeme
  lex: кызьыке
@@ -824,6 +935,7 @@
  gramm: ADVPRO
  paradigm: connect_adverbs_px
  trans_ru: как-то
+ trans_en: somehow
 
 -lexeme
  lex: нокызьы
@@ -831,6 +943,7 @@
  gramm: ADVPRO
  paradigm: connect_adverbs_px
  trans_ru: никак
+ trans_en: no way
 
 -lexeme
  lex: огкызьы
@@ -838,6 +951,7 @@
  gramm: ADVPRO
  paradigm: connect_adverbs_px
  trans_ru: никак
+ trans_en: no way
 
 -lexeme
  lex: ненокызьы
@@ -845,6 +959,7 @@
  gramm: ADVPRO
  paradigm: connect_adverbs_px
  trans_ru: никак
+ trans_en: no way
 
 -lexeme
  lex: олокызьы
@@ -852,6 +967,7 @@
  gramm: ADVPRO
  paradigm: connect_adverbs_px
  trans_ru: как-то
+ trans_en: don't know how, God knows how
 
 -lexeme
  lex: котькызьы
@@ -859,6 +975,7 @@
  gramm: ADVPRO
  paradigm: connect_adverbs_px
  trans_ru: как угодно
+ trans_en: anyhow
 
 -lexeme
  lex: макем
@@ -866,6 +983,7 @@
  gramm: ADVPRO
  paradigm: connect_adverbs_px
  trans_ru: насколько
+ trans_en: for how much
 
 -lexeme
  lex: сокем
@@ -873,6 +991,7 @@
  gramm: ADVPRO
  paradigm: connect_adverbs_px
  trans_ru: настолько
+ trans_en: that much
 
 -lexeme
  lex: такем
@@ -880,6 +999,7 @@
  gramm: ADVPRO
  paradigm: connect_adverbs_px
  trans_ru: настолько
+ trans_en: this much
 
 
 -lexeme
@@ -888,6 +1008,21 @@
  gramm: PRO
  paradigm: Noun-mar
  trans_ru: этот
+ trans_en: this
+
+-lexeme
+ lex: вань
+ stem: ван.//уан.
+ gramm: PRO
+ paradigm: Noun-case-poss-y-3,sg-soft
+ paradigm: Noun-case-poss-3,sg-soft
+ paradigm: Noun-case-poss-y-2,sg-soft
+ paradigm: Noun-case-poss-2,sg-soft
+ paradigm: Noun-case-poss-3,pl-soft
+ paradigm: Noun-case-poss-2,pl-soft
+ paradigm: Noun-case-poss-1,pl-soft
+ trans_ru: все, всё
+ trans_en: all
 
 -lexeme
  lex: вань
@@ -900,7 +1035,9 @@
  paradigm: Noun-case-poss-3,pl
  paradigm: Noun-case-poss-2,pl
  paradigm: Noun-case-poss-1,pl
+ paradigm: Noun-vowel-pl-case
  trans_ru: все, всё
+ trans_en: all
 
 -lexeme
  lex: вичак
@@ -913,6 +1050,7 @@
  paradigm: Noun-case-poss-2,pl
  paradigm: Noun-case-poss-1,pl
  trans_ru: все, всё
+ trans_en: all
 
 -lexeme
  lex: вочак
@@ -925,6 +1063,7 @@
  paradigm: Noun-case-poss-2,pl
  paradigm: Noun-case-poss-1,pl
  trans_ru: все, всё
+ trans_en: all
 
 -lexeme
  lex: вична
@@ -932,6 +1071,7 @@
  gramm: PRO
  paradigm: collective
  trans_ru: все, всё
+ trans_en: all
 
 -lexeme
  lex: вочна
@@ -939,6 +1079,7 @@
  gramm: PRO
  paradigm: collective
  trans_ru: все, всё
+ trans_en: all
 
 -lexeme
  lex: чисто
@@ -950,6 +1091,7 @@
  paradigm: Noun-case-poss-2,pl
  paradigm: Noun-case-poss-1,pl
  trans_ru: все, всё
+ trans_en: all
 
 -lexeme
  lex: отчы
@@ -958,6 +1100,7 @@
  paradigm: Noun-case-compounding-core
  paradigm: Noun-case-compounding-kytchy
  trans_ru: туда
+ trans_en: there
 
 -lexeme
  lex: сотчы
@@ -966,6 +1109,7 @@
  paradigm: Noun-case-compounding-core
  paradigm: Noun-case-compounding-kytchy
  trans_ru: туда
+ trans_en: there
 
 -lexeme
  lex: татчы
@@ -974,6 +1118,7 @@
  paradigm: Noun-case-compounding-core
  paradigm: Noun-case-compounding-kytchy
  trans_ru: сюда
+ trans_en: here
 
 -lexeme
  lex: кытчы
@@ -982,6 +1127,7 @@
  paradigm: Noun-case-compounding-core
  paradigm: Noun-case-compounding-kytchy
  trans_ru: куда
+ trans_en: where
 
 -lexeme
  lex: кытчыке
@@ -989,6 +1135,7 @@
  gramm: ADVPRO,ill
  paradigm: Comparative
  trans_ru: куда-то
+ trans_en: somewhere
 
 -lexeme
  lex: котькытчы
@@ -997,6 +1144,7 @@
  paradigm: Noun-case-compounding-core
  paradigm: Noun-case-compounding-kytchy
  trans_ru: куда угодно
+ trans_en: anywhere
 
 -lexeme
  lex: олокытчы
@@ -1005,6 +1153,7 @@
  paradigm: Noun-case-compounding-core
  paradigm: Noun-case-compounding-kytchy
  trans_ru: куда-то
+ trans_en: don't know where, God knows where
 
 -lexeme
  lex: тыласакытчы
@@ -1013,6 +1162,7 @@
  paradigm: Noun-case-compounding-core
  paradigm: Noun-case-compounding-kytchy
  trans_ru: всюду, куда угодно
+ trans_en: anywhere
 
 -lexeme
  lex: огкытчы
@@ -1021,6 +1171,7 @@
  paradigm: Noun-case-compounding-core
  paradigm: Noun-case-compounding-kytchy
  trans_ru: никуда
+ trans_en: nowhere
 
 -lexeme
  lex: нокытчы
@@ -1029,6 +1180,7 @@
  paradigm: Noun-case-compounding-core
  paradigm: Noun-case-compounding-kytchy
  trans_ru: никуда; некуда
+ trans_en: nowhere
 
 -lexeme
  lex: отын
@@ -1037,6 +1189,7 @@
  paradigm: Comparative
  paradigm: Noun-case-compounding-kytchy
  trans_ru: там, тут
+ trans_en: there
 
 -lexeme
  lex: сотын
@@ -1045,6 +1198,7 @@
  paradigm: Comparative
  paradigm: Noun-case-compounding-kytchy
  trans_ru: там, тут
+ trans_en: there
 
 -lexeme
  lex: татын
@@ -1053,6 +1207,7 @@
  paradigm: Comparative
  paradigm: Noun-case-compounding-kytchy
  trans_ru: здесь
+ trans_en: here
 
 -lexeme
  lex: кытын
@@ -1061,13 +1216,15 @@
  paradigm: Noun-case-compounding-core
  paradigm: Noun-case-compounding-kytchy
  trans_ru: где
+ trans_en: where
 
 -lexeme
  lex: кытынке
  stem: кытынке.//кытчынке.
  gramm: ADVPRO,loc
  paradigm: Comparative
- trans_ru: где
+ trans_ru: где-то
+ trans_en: somewhere
 
 -lexeme
  lex: олокытын
@@ -1076,6 +1233,7 @@
  paradigm: Comparative
  paradigm: Noun-case-compounding-kytchy
  trans_ru: где-то, не знаю где
+ trans_en: don't know where, God knows where
 
 -lexeme
  lex: тыласакытын
@@ -1084,6 +1242,7 @@
  paradigm: Comparative
  paradigm: Noun-case-compounding-kytchy
  trans_ru: всюду, где угодно
+ trans_en: anywhere
 
 -lexeme
  lex: огкытын
@@ -1092,6 +1251,7 @@
  paradigm: Comparative
  paradigm: Noun-case-compounding-kytchy
  trans_ru: нигде
+ trans_en: nowhere
 
 -lexeme
  lex: котькытын
@@ -1100,6 +1260,7 @@
  paradigm: Comparative
  paradigm: Noun-case-compounding-kytchy
  trans_ru: где угодно
+ trans_en: anywhere
 
 -lexeme
  lex: нокытын
@@ -1108,6 +1269,7 @@
  paradigm: Comparative
  paradigm: Noun-case-compounding-kytchy
  trans_ru: нигде
+ trans_en: nowhere
 
 -lexeme
  lex: отысь
@@ -1115,6 +1277,7 @@
  gramm: ADVPRO,el
  paradigm: Comparative
  trans_ru: оттуда
+ trans_en: from there
 
 -lexeme
  lex: сотысь
@@ -1122,6 +1285,7 @@
  gramm: ADVPRO,el
  paradigm: Comparative
  trans_ru: оттуда
+ trans_en: from there
 
 -lexeme
  lex: татысь
@@ -1129,6 +1293,7 @@
  gramm: ADVPRO,el
  paradigm: Comparative
  trans_ru: отсюда
+ trans_en: from here
 
 -lexeme
  lex: кытысь
@@ -1136,6 +1301,7 @@
  gramm: ADVPRO,el
  paradigm: Noun-case-compounding-core
  trans_ru: откуда
+ trans_en: from where
 
 -lexeme
  lex: кытыське
@@ -1143,6 +1309,7 @@
  gramm: ADVPRO,el
  paradigm: Comparative
  trans_ru: откуда-то
+ trans_en: from somewhere
 
 -lexeme
  lex: олокытысь
@@ -1150,6 +1317,7 @@
  gramm: ADVPRO,el
  paradigm: Comparative
  trans_ru: откуда-то, не знаю откуда
+ trans_en: don't know from where, God knows from where
 
 -lexeme
  lex: тыласакытысь
@@ -1157,6 +1325,7 @@
  gramm: ADVPRO,el
  paradigm: Comparative
  trans_ru: отовсюду, откуда угодно
+ trans_en: from anywhere
 
 -lexeme
  lex: котькытысь
@@ -1164,6 +1333,7 @@
  gramm: ADVPRO,el
  paradigm: Comparative
  trans_ru: откуда угодно
+ trans_en: from anywhere
 
 -lexeme
  lex: огкытысь
@@ -1171,6 +1341,7 @@
  gramm: ADVPRO,el
  paradigm: Comparative
  trans_ru: ниоткуда
+ trans_en: from nowhere
 
 -lexeme
  lex: нокытысь
@@ -1178,6 +1349,7 @@
  gramm: ADVPRO,el
  paradigm: Comparative
  trans_ru: ниоткуда
+ trans_en: from nowhere
 
 -lexeme
  lex: отысен
@@ -1185,6 +1357,7 @@
  gramm: ADVPRO,egr
  paradigm: Comparative
  trans_ru: оттуда
+ trans_en: from there
 
 -lexeme
  lex: сотысен
@@ -1192,6 +1365,7 @@
  gramm: ADVPRO,egr
  paradigm: Comparative
  trans_ru: оттуда; с тех пор
+ trans_en: from there; since then
 
 -lexeme
  lex: татысен
@@ -1199,6 +1373,7 @@
  gramm: ADVPRO,egr
  paradigm: Comparative
  trans_ru: отсюда
+ trans_en: from here
 
 -lexeme
  lex: кытысен
@@ -1206,6 +1381,7 @@
  gramm: ADVPRO,egr
  paradigm: Noun-case-compounding-core
  trans_ru: откуда
+ trans_en: from where
 
 -lexeme
  lex: кытысенке
@@ -1213,6 +1389,7 @@
  gramm: ADVPRO,egr
  paradigm: Comparative
  trans_ru: откуда-то
+ trans_en: from somewhere
 
 -lexeme
  lex: олокытысен
@@ -1220,6 +1397,7 @@
  gramm: ADVPRO,egr
  paradigm: Comparative
  trans_ru: откуда-то, не знаю откуда
+ trans_en: don't know from where, God knows from where
 
 -lexeme
  lex: котькытысен
@@ -1227,6 +1405,7 @@
  gramm: ADVPRO,egr
  paradigm: Comparative
  trans_ru: откуда угодно
+ trans_en: from anywhere
 
 -lexeme
  lex: нокытысен
@@ -1234,6 +1413,7 @@
  gramm: ADVPRO,egr
  paradigm: Comparative
  trans_ru: ниоткуда
+ trans_en: from nowhere
 
 -lexeme
  lex: огкытысен
@@ -1241,20 +1421,23 @@
  gramm: ADVPRO,egr
  paradigm: Comparative
  trans_ru: ниоткуда
+ trans_en: from nowhere
 
 -lexeme
  lex: отчыозь
  stem: отчыозь.//отчиёзь.
  gramm: ADVPRO,term
  paradigm: Comparative
- trans_ru: дотуда
+ trans_ru: дотуда; до тех пор
+ trans_en: until there; until then
 
 -lexeme
  lex: сотчыозь
  stem: сотчыозь.//сотчиёзь.
  gramm: ADVPRO,term
  paradigm: Comparative
- trans_ru: дотуда
+ trans_ru: дотуда; до тех пор
+ trans_en: until there; until then
 
 -lexeme
  lex: татчыозь
@@ -1262,6 +1445,7 @@
  gramm: ADVPRO,term
  paradigm: Comparative
  trans_ru: досюда
+ trans_en: until here
 
 -lexeme
  lex: кытчыозь
@@ -1269,6 +1453,7 @@
  gramm: ADVPRO,term
  paradigm: Comparative
  trans_ru: докуда
+ trans_en: until where
 
 -lexeme
  lex: кытчыозьке
@@ -1276,6 +1461,7 @@
  gramm: ADVPRO,term
  paradigm: Comparative
  trans_ru: докуда-то
+ trans_en: until somewhere
 
 -lexeme
  lex: олокытчыозь
@@ -1283,6 +1469,7 @@
  gramm: ADVPRO,term
  paradigm: Comparative
  trans_ru: докуда-то, не знаю докуда
+ trans_en: don't know until where, God knows until where
 
 -lexeme
  lex: котькытчыозь
@@ -1290,6 +1477,7 @@
  gramm: ADVPRO,term
  paradigm: Comparative
  trans_ru: докуда угодно
+ trans_en: until anywhere
 
 -lexeme
  lex: огкытчыозь
@@ -1297,6 +1485,7 @@
  gramm: ADVPRO,term
  paradigm: Comparative
  trans_ru: нидокуда
+ trans_en: until nowhere
 
 -lexeme
  lex: нокытчыозь
@@ -1304,6 +1493,7 @@
  gramm: ADVPRO,term
  paradigm: Comparative
  trans_ru: нидокуда
+ trans_en: until nowhere
 
 -lexeme
  lex: кытӥ
@@ -1312,6 +1502,7 @@
  paradigm: Noun-num-vowel
  paradigm: Noun-num-vowel-y
  trans_ru: где
+ trans_en: where
 
 -lexeme
  lex: кытӥке
@@ -1319,6 +1510,7 @@
  gramm: ADVPRO
  paradigm: Noun-num-vowel
  trans_ru: где-то
+ trans_en: somewhere
 
 -lexeme
  lex: отӥ
@@ -1327,6 +1519,7 @@
  paradigm: Noun-num-vowel
  paradigm: Noun-num-vowel-y
  trans_ru: там
+ trans_en: there
 
 -lexeme
  lex: сотӥ
@@ -1335,6 +1528,7 @@
  paradigm: Noun-num-vowel
  paradigm: Noun-num-vowel-y
  trans_ru: там
+ trans_en: there
 
 -lexeme
  lex: татӥ
@@ -1343,6 +1537,7 @@
  paradigm: Noun-num-vowel
  paradigm: Noun-num-vowel-y
  trans_ru: тут
+ trans_en: here
 
 -lexeme
  lex: котькытӥ
@@ -1351,6 +1546,7 @@
  paradigm: Noun-num-vowel
  paradigm: Noun-num-vowel-y
  trans_ru: где угодно
+ trans_en: anywhere
 
 -lexeme
  lex: олокытӥ
@@ -1359,6 +1555,7 @@
  paradigm: Noun-num-vowel
  paradigm: Noun-num-vowel-y
  trans_ru: где-то, не знаю где
+ trans_en: don't know where, God knows where
 
 -lexeme
  lex: огкытӥ
@@ -1367,6 +1564,7 @@
  paradigm: Noun-num-vowel
  paradigm: Noun-num-vowel-y
  trans_ru: нигде
+ trans_en: nowhere
 
 -lexeme
  lex: нокытӥ
@@ -1375,6 +1573,7 @@
  paradigm: Noun-num-vowel
  paradigm: Noun-num-vowel-y
  trans_ru: нигде; негде
+ trans_en: nowhere
 
 
 -lexeme
@@ -1383,6 +1582,7 @@
  gramm: PRO,nom,sg
  paradigm: Comparative
  trans_ru: сам, свой
+ trans_en: oneself
 
 -lexeme
  lex: ас
@@ -1390,6 +1590,7 @@
  gramm: PRO,3sg,nom
  paradigm: Comparative
  trans_ru: сам, свой
+ trans_en: oneself
 
 -lexeme
  lex: ас
@@ -1397,6 +1598,7 @@
  gramm: PRO,1sg,nom
  paradigm: Comparative
  trans_ru: сам, свой
+ trans_en: oneself
 
 -lexeme
  lex: ас
@@ -1404,6 +1606,7 @@
  gramm: PRO,2sg,nom
  paradigm: Comparative
  trans_ru: сам, свой
+ trans_en: oneself
 
 -lexeme
  lex: ас
@@ -1412,6 +1615,7 @@
  paradigm: Noun-case-compounding
  paradigm: Noun-case-compounding-pl-consonant
  trans_ru: сам, свой
+ trans_en: oneself
 
 -lexeme
  lex: ас
@@ -1420,6 +1624,7 @@
  paradigm: Noun-case-compounding
  paradigm: Noun-case-compounding-pl-consonant
  trans_ru: сам, свой
+ trans_en: oneself
 
 -lexeme
  lex: ас
@@ -1428,6 +1633,7 @@
  paradigm: Noun-case-compounding
  paradigm: Noun-case-compounding-pl-consonant
  trans_ru: сам, свой
+ trans_en: oneself
 
 -lexeme
  lex: ас
@@ -1436,6 +1642,7 @@
  paradigm: Noun-case-compounding
  paradigm: Noun-case-compounding-pl-consonant
  trans_ru: сам, свой
+ trans_en: oneself
 
 -lexeme
  lex: ас
@@ -1445,6 +1652,7 @@
  paradigm: Noun-case-compounding
  paradigm: Noun-case-compounding-pl-consonant
  trans_ru: сам, свой
+ trans_en: oneself
 
 -lexeme
  lex: ас
@@ -1454,6 +1662,7 @@
  paradigm: Noun-case-compounding
  paradigm: Noun-case-compounding-pl-consonant
  trans_ru: сам, свой
+ trans_en: oneself
 
 -lexeme
  lex: ас
@@ -1463,6 +1672,7 @@
  paradigm: Noun-case-compounding
  paradigm: Noun-case-compounding-pl-consonant
  trans_ru: сам, свой
+ trans_en: oneself
 
 -lexeme
  lex: ас
@@ -1472,6 +1682,7 @@
  paradigm: Noun-case-compounding
  paradigm: Noun-case-compounding-pl-consonant
  trans_ru: сам, свой
+ trans_en: oneself
 
 -lexeme
  lex: ас
@@ -1481,6 +1692,7 @@
  paradigm: Noun-case-compounding
  paradigm: Noun-case-compounding-pl-consonant
  trans_ru: сам, свой
+ trans_en: oneself
 
 -lexeme
  lex: ас
@@ -1490,6 +1702,7 @@
  paradigm: Noun-case-compounding
  paradigm: Noun-case-compounding-pl-consonant
  trans_ru: сам, свой
+ trans_en: oneself
 
 -lexeme
  lex: ас
@@ -1497,6 +1710,7 @@
  gramm: PRO,3sg,dat
  paradigm: Comparative
  trans_ru: сам, свой
+ trans_en: oneself
 
 -lexeme
  lex: ас
@@ -1504,6 +1718,7 @@
  gramm: PRO,1sg,dat
  paradigm: Comparative
  trans_ru: сам, свой
+ trans_en: oneself
 
 -lexeme
  lex: ас
@@ -1511,6 +1726,7 @@
  gramm: PRO,2sg,dat
  paradigm: Comparative
  trans_ru: сам, свой
+ trans_en: oneself
 
 -lexeme
  lex: ас
@@ -1518,6 +1734,7 @@
  gramm: PRO,3sg,ins
  paradigm: Comparative
  trans_ru: сам, свой
+ trans_en: oneself
 
 -lexeme
  lex: ас
@@ -1525,6 +1742,7 @@
  gramm: PRO,3pl,ins
  paradigm: Comparative
  trans_ru: сам, свой
+ trans_en: oneself
 
 -lexeme
  lex: ас
@@ -1532,6 +1750,7 @@
  gramm: PRO,1sg,ins
  paradigm: Comparative
  trans_ru: сам, свой
+ trans_en: oneself
 
 -lexeme
  lex: ас
@@ -1539,6 +1758,7 @@
  gramm: PRO,1pl,ins
  paradigm: Comparative
  trans_ru: сам, свой
+ trans_en: oneself
 
 -lexeme
  lex: ас
@@ -1546,6 +1766,7 @@
  gramm: PRO,2sg,ins
  paradigm: Comparative
  trans_ru: сам, свой
+ trans_en: oneself
 
 -lexeme
  lex: ас
@@ -1553,6 +1774,7 @@
  gramm: PRO,2pl,ins
  paradigm: Comparative
  trans_ru: сам, свой
+ trans_en: oneself
 
 -lexeme
  lex: ас
@@ -1560,6 +1782,7 @@
  gramm: PRO,3sg,adv
  paradigm: Comparative
  trans_ru: сам, свой
+ trans_en: oneself
 
 -lexeme
  lex: ас
@@ -1567,6 +1790,7 @@
  gramm: PRO,1sg,adv
  paradigm: Comparative
  trans_ru: сам, свой
+ trans_en: oneself
 
 -lexeme
  lex: ас
@@ -1574,6 +1798,7 @@
  gramm: PRO,2sg,adv
  paradigm: Comparative
  trans_ru: сам, свой
+ trans_en: oneself
 
 
 -lexeme
@@ -1582,6 +1807,7 @@
  gramm: PRO,3sg,car
  paradigm: Comparative
  trans_ru: сам, свой
+ trans_en: oneself
 
 -lexeme
  lex: ас
@@ -1589,6 +1815,7 @@
  gramm: PRO,1sg,car
  paradigm: Comparative
  trans_ru: сам, свой
+ trans_en: oneself
 
 -lexeme
  lex: ас
@@ -1596,6 +1823,7 @@
  gramm: PRO,2sg,car
  paradigm: Comparative
  trans_ru: сам, свой
+ trans_en: oneself
 
 -lexeme
  lex: ас
@@ -1603,6 +1831,7 @@
  gramm: PRO,3sg,acc
  paradigm: Noun-case
  trans_ru: сам, свой
+ trans_en: oneself
 
 -lexeme
  lex: ас
@@ -1610,6 +1839,7 @@
  gramm: PRO,1pl
  paradigm: Noun-case
  trans_ru: сам, свой
+ trans_en: oneself
 
 -lexeme
  lex: ас
@@ -1617,6 +1847,7 @@
  gramm: PRO,1pl,acc
  paradigm: Comparative
  trans_ru: сам, свой
+ trans_en: oneself
 
 -lexeme
  lex: ас
@@ -1624,6 +1855,7 @@
  gramm: PRO,2pl
  paradigm: Noun-case
  trans_ru: сам, свой
+ trans_en: oneself
 
 -lexeme
  lex: ас
@@ -1631,6 +1863,7 @@
  gramm: PRO,3pl,acc
  paradigm: Comparative
  trans_ru: сам, свой
+ trans_en: oneself
 
 -lexeme
  lex: ас
@@ -1640,6 +1873,7 @@
  paradigm: Noun-case-y
  paradigm: Noun-case-ill-y
  trans_ru: сам, свой
+ trans_en: oneself
 
 -lexeme
  lex: ас
@@ -1649,6 +1883,7 @@
  paradigm: Noun-case-y
  paradigm: Noun-case-ill-y
  trans_ru: сам, свой
+ trans_en: oneself
 
 -lexeme
  lex: ас
@@ -1656,6 +1891,7 @@
  gramm: PRO,1pl,acc
  paradigm: Comparative
  trans_ru: сам, свой
+ trans_en: oneself
 
 -lexeme
  lex: ас
@@ -1663,6 +1899,7 @@
  gramm: PRO,acc
  paradigm: Comparative
  trans_ru: сам, свой
+ trans_en: oneself
 
 -lexeme
  lex: ас
@@ -1670,6 +1907,7 @@
  gramm: PRO,1pl,acc
  paradigm: Comparative
  trans_ru: сам, свой
+ trans_en: oneself
 
 -lexeme
  lex: ас
@@ -1677,6 +1915,7 @@
  gramm: PRO,2pl,acc
  paradigm: Comparative
  trans_ru: сам, свой
+ trans_en: oneself
 
 -lexeme
  lex: ас
@@ -1684,6 +1923,7 @@
  gramm: PRO,2pl,acc
  paradigm: Comparative
  trans_ru: сам, свой
+ trans_en: oneself
 
 -lexeme
  lex: ас
@@ -1691,6 +1931,7 @@
  gramm: PRO,3pl,acc
  paradigm: Comparative
  trans_ru: сам, свой
+ trans_en: oneself
 
 -lexeme
  lex: ас
@@ -1698,6 +1939,7 @@
  gramm: PRO,3pl,acc
  paradigm: Comparative
  trans_ru: сам, свой
+ trans_en: oneself
 
 -lexeme
  lex: ас
@@ -1705,6 +1947,7 @@
  gramm: PRO,3pl,nom
  paradigm: Noun-num-vowel
  trans_ru: сам, свой
+ trans_en: oneself
 
 -lexeme
  lex: ас
@@ -1712,6 +1955,7 @@
  gramm: PRO,1pl,nom
  paradigm: Comparative
  trans_ru: сам, свой
+ trans_en: oneself
 
 -lexeme
  lex: ас
@@ -1719,6 +1963,7 @@
  gramm: PRO,2pl,nom
  paradigm: Comparative
  trans_ru: сам, свой
+ trans_en: oneself
 
 -lexeme
  lex: ас
@@ -1726,6 +1971,7 @@
  gramm: PRO,3pl,nom
  paradigm: Noun-num-consonant
  trans_ru: сам, свой
+ trans_en: oneself
 
 -lexeme
  lex: ас
@@ -1733,6 +1979,7 @@
  gramm: PRO,1pl,nom
  paradigm: Comparative
  trans_ru: сам, свой
+ trans_en: oneself
 
 -lexeme
  lex: ас
@@ -1740,6 +1987,7 @@
  gramm: PRO,2pl,nom
  paradigm: Comparative
  trans_ru: сам, свой
+ trans_en: oneself
 
 -lexeme
  lex: ас
@@ -1749,6 +1997,7 @@
  paradigm: Noun-case-compounding
  paradigm: Noun-case-compounding-pl-consonant
  trans_ru: сам, свой
+ trans_en: oneself
 
 -lexeme
  lex: ас
@@ -1758,6 +2007,7 @@
  paradigm: Noun-case-compounding
  paradigm: Noun-case-compounding-pl-consonant
  trans_ru: сам, свой
+ trans_en: oneself
 
 -lexeme
  lex: ас
@@ -1767,6 +2017,7 @@
  paradigm: Noun-case-compounding
  paradigm: Noun-case-compounding-pl-consonant
  trans_ru: сам, свой
+ trans_en: oneself
 
 -lexeme
  lex: ас
@@ -1774,6 +2025,7 @@
  gramm: PRO,3pl,abl
  paradigm: Comparative
  trans_ru: сам, свой
+ trans_en: oneself
 
 -lexeme
  lex: ас
@@ -1782,6 +2034,7 @@
  paradigm: Noun-case-compounding-soft
  paradigm: Noun-case-compounding-pl-soft
  trans_ru: сам, свой
+ trans_en: oneself
 
 -lexeme
  lex: ас
@@ -1789,6 +2042,7 @@
  gramm: PRO,1pl,abl
  paradigm: Comparative
  trans_ru: сам, свой
+ trans_en: oneself
 
 -lexeme
  lex: ас
@@ -1797,6 +2051,7 @@
  paradigm: Noun-case-compounding-soft
  paradigm: Noun-case-compounding-pl-soft
  trans_ru: сам, свой
+ trans_en: oneself
 
 -lexeme
  lex: ас
@@ -1804,6 +2059,7 @@
  gramm: PRO,2pl,abl
  paradigm: Comparative
  trans_ru: сам, свой
+ trans_en: oneself
 
 -lexeme
  lex: ас
@@ -1812,6 +2068,7 @@
  paradigm: Noun-case-compounding-soft
  paradigm: Noun-case-compounding-pl-soft
  trans_ru: сам, свой
+ trans_en: oneself
 
 -lexeme
  lex: ас
@@ -1819,6 +2076,7 @@
  gramm: PRO,3pl,dat
  paradigm: Noun-num-vowel
  trans_ru: сам, свой
+ trans_en: oneself
 
 -lexeme
  lex: ас
@@ -1826,6 +2084,7 @@
  gramm: PRO,1pl,dat
  paradigm: Comparative
  trans_ru: сам, свой
+ trans_en: oneself
 
 -lexeme
  lex: ас
@@ -1833,6 +2092,7 @@
  gramm: PRO,2pl,dat
  paradigm: Comparative
  trans_ru: сам, свой
+ trans_en: oneself
 
 -lexeme
  lex: ас
@@ -1840,6 +2100,7 @@
  gramm: PRO,3pl,adv
  paradigm: Noun-num-vowel
  trans_ru: сам, свой
+ trans_en: oneself
 
 -lexeme
  lex: ас
@@ -1847,6 +2108,7 @@
  gramm: PRO,1pl,adv
  paradigm: Comparative
  trans_ru: сам, свой
+ trans_en: oneself
 
 -lexeme
  lex: ас
@@ -1854,6 +2116,7 @@
  gramm: PRO,2pl,adv
  paradigm: Comparative
  trans_ru: сам, свой
+ trans_en: oneself
 
 -lexeme
  lex: ас
@@ -1861,6 +2124,7 @@
  gramm: PRO,3pl,car
  paradigm: Noun-num-vowel
  trans_ru: сам, свой
+ trans_en: oneself
 
 -lexeme
  lex: ас
@@ -1868,6 +2132,7 @@
  gramm: PRO,1pl,car
  paradigm: Comparative
  trans_ru: сам, свой
+ trans_en: oneself
 
 -lexeme
  lex: ас
@@ -1875,6 +2140,7 @@
  gramm: PRO,2pl,car
  paradigm: Comparative
  trans_ru: сам, свой
+ trans_en: oneself
 
 -lexeme
  lex: ог-огзы
@@ -1882,6 +2148,7 @@
  gramm: PRO
  paradigm: Noun-num-consonant
  trans_ru: друг друга
+ trans_en: each other
 
 -lexeme
  lex: куд-ог
@@ -1889,6 +2156,7 @@
  gramm: ADJPRO
  paradigm: Noun-num-consonant
  trans_ru: некоторый
+ trans_en: some
 
 
 
@@ -1898,6 +2166,7 @@
  stem: кудбыдӟа.
  paradigm: connect_adjectives
  trans_ru: какой величины, какого размера
+ trans_en: which size
 
 -lexeme
  lex: оломабыдӟа
@@ -1905,6 +2174,7 @@
  stem: оломабыдӟа.
  paradigm: connect_adjectives
  trans_ru: огромный, большой
+ trans_en: God knows how large
 
 -lexeme
  lex: некыӵе
@@ -1912,6 +2182,7 @@
  stem: некыӵе.
  paradigm: Comparative
  trans_ru: никакой
+ trans_en: not any
 
 -lexeme
  lex: нема
@@ -1919,6 +2190,7 @@
  stem: нема.
  paradigm: Noun-mar
  trans_ru: ничего, нечего
+ trans_en: nothing
 
 -lexeme
  lex: неномыр
@@ -1926,13 +2198,15 @@
  stem: неномыр.//неномр.
  paradigm: Noun-mar
  trans_ru: ничего
+ trans_en: nothing
 
 -lexeme
  lex: окмар
  gramm: PRO
  stem: окмар.
  paradigm: Noun-mar
- trans_ru: диал. ничего
+ trans_ru: ничего
+ trans_en: nothing
 
 -lexeme
  lex: олошай
@@ -1940,6 +2214,7 @@
  stem: олоша.
  paradigm: Noun-num-j
  trans_ru: не знаю что, чёрт знает что; неизвестно что
+ trans_en: God knows what
 
 -lexeme
  lex: ома
@@ -1947,6 +2222,7 @@
  stem: ома.
  paradigm: Noun-mar
  trans_ru: неизвестно что, что-то, что только
+ trans_en: don't know what, God knows what
 
 -lexeme
  lex: омар
@@ -1954,6 +2230,7 @@
  stem: омар.
  paradigm: Noun-mar
  trans_ru: неизвестно что, что-то, что только
+ trans_en: don't know what, God knows what
 
 -lexeme
  lex: это
@@ -1961,6 +2238,7 @@
  stem: это.
  paradigm: Comparative
  trans_ru: это
+ trans_en: this
 
 -lexeme
  lex: маркем
@@ -1968,6 +2246,7 @@
  stem: маркем.
  paradigm: connect_adverbs
  trans_ru: насколько
+ trans_en: for how much
 
 -lexeme
  lex: потому
@@ -1975,6 +2254,7 @@
  stem: потому.
  paradigm: connect_adverbs
  trans_ru: потому
+ trans_en: therefore
 
 -lexeme
  lex: таӵож
@@ -1982,6 +2262,7 @@
  stem: таӵож.
  paradigm: connect_adverbs
  trans_ru: досюда
+ trans_en: until here
 
 -lexeme
  lex: эта
@@ -1989,5 +2270,6 @@
  stem: эта.
  paradigm: Noun-num-vowel
  trans_ru: этот
+ trans_en: this
 
 

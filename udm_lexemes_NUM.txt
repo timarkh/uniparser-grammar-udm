@@ -1,0 +1,456 @@
+-lexeme
+ lex: вить
+ stem: 5.//5-.
+ gramm: NUM
+ paradigm: connect_num
+ trans_ru: пять
+ trans_en: five
+
+-lexeme
+ lex: вить
+ stem: вит.
+ gramm: NUM
+ paradigm: connect_num-soft
+ trans_ru: пять
+ trans_en: five
+
+-lexeme
+ lex: витьтон
+ stem: витьтон.//50.//50-.
+ gramm: NUM
+ paradigm: connect_num
+ trans_ru: пятьдесят
+ trans_en: fifty
+
+-lexeme
+ lex: витьтоно
+ stem: витьтоно.
+ gramm: NUM
+ paradigm: Comparative
+ trans_ru: порядка пятидесяти
+ trans_en: around fifty
+
+-lexeme
+ lex: восемнадцать
+ stem: восемнадцать.
+ gramm: NUM,rus
+ paradigm: Comparative
+ trans_ru: восемнадцать
+ trans_en: eighteen
+
+-lexeme
+ lex: восьмой
+ stem: восьмой.
+ gramm: NUM,ord,rus
+ paradigm: Comparative
+ trans_ru: восьмой
+ trans_en: eighth
+
+-lexeme
+ lex: дас
+ stem: дас.//10.//10-.
+ gramm: NUM
+ paradigm: connect_num
+ trans_ru: десять
+ trans_en: ten
+
+-lexeme
+ lex: дасо
+ stem: дасо.
+ gramm: NUM
+ paradigm: connect_num
+ trans_ru: десяток; около десяти
+ trans_en: ten; around ten
+
+-lexeme
+ lex: двадцать
+ stem: двадцать.
+ gramm: NUM,rus
+ paradigm: Comparative
+ trans_ru: двадцать
+ trans_en: twenty
+
+-lexeme
+ lex: двенадцать
+ stem: двенадцать.
+ gramm: NUM,rus
+ paradigm: Comparative
+ trans_ru: двенадцать
+ trans_en: twelve
+
+-lexeme
+ lex: девяносто
+ stem: девяносто.
+ gramm: NUM,rus
+ paradigm: Comparative
+ trans_ru: девяносто
+ trans_en: ninety
+
+-lexeme
+ lex: девять
+ stem: девят.
+ gramm: NUM,rus
+ paradigm: connect_num-soft
+ trans_ru: девять
+ trans_en: nine
+
+-lexeme
+ lex: десять
+ stem: десять.
+ gramm: NUM,rus
+ paradigm: Comparative
+ trans_ru: десять
+ trans_en: ten
+
+-lexeme
+ lex: киямыстас
+ stem: киямыстас.
+ gramm: NUM
+ paradigm: connect_num
+ trans_ru: восемьдесят
+ trans_en: eighty
+
+-lexeme
+ lex: куамын
+ stem: куамын.//30.//30-.//xxx.//xxx-.
+ gramm: NUM
+ paradigm: connect_num
+ trans_ru: тридцать
+ trans_en: thirty
+
+-lexeme
+ lex: куамыно
+ stem: куамыно.
+ gramm: NUM
+ paradigm: Comparative
+ trans_ru: порядка тридцати
+ trans_en: around thirty
+
+-lexeme
+ lex: куать
+ stem: 6.//6-.
+ gramm: NUM
+ paradigm: connect_num
+ trans_ru: шесть
+ trans_en: six
+
+-lexeme
+ lex: куать
+ stem: куат.
+ gramm: NUM
+ paradigm: connect_num-soft
+ trans_ru: шесть
+ trans_en: six
+
+-lexeme
+ lex: куатьдас
+ stem: куатьдас.
+ gramm: NUM
+ paradigm: connect_num
+ trans_ru: шестьдесят
+ trans_en: sixty
+
+-lexeme
+ lex: куатьтон
+ stem: куатьтон.//60.//60-.
+ gramm: NUM
+ paradigm: connect_num
+ trans_ru: шестьдесят
+ trans_en: sixty
+
+-lexeme
+ lex: куинь
+ stem: 3.//3-.
+ gramm: NUM
+ paradigm: connect_num
+ trans_ru: три
+ trans_en: three
+
+-lexeme
+ lex: куинь
+ stem: куин.//кун.
+ gramm: NUM
+ paradigm: connect_num-soft
+ trans_ru: три
+ trans_en: three
+
+-lexeme
+ lex: куинь
+ stem: куиньм.
+ gramm: NUM
+ paradigm: connect_num
+ trans_ru: три
+ trans_en: three
+
+-lexeme
+ lex: кызь
+ stem: 20.//20-.//xx.//xx-.//хх.//хх-.
+ gramm: NUM
+ paradigm: connect_num
+ trans_ru: двадцать
+ trans_en: twenty
+
+-lexeme
+ lex: кызь
+ stem: кыз.
+ gramm: NUM
+ paradigm: connect_num-soft
+ trans_ru: двадцать
+ trans_en: twenty
+
+-lexeme
+ lex: кызё
+ stem: кызё.
+ gramm: NUM
+ paradigm: connect_num
+ trans_ru: порядка двадцати
+ trans_en: around twenty
+
+-lexeme
+ lex: кык
+ stem: кык.//кыкт.//2.//2-.
+ gramm: NUM
+ paradigm: connect_num
+ trans_ru: два
+ trans_en: two
+
+-lexeme
+ lex: кыкъямыстон
+ stem: кыкъямыстон.
+ gramm: NUM
+ paradigm: connect_num
+ trans_ru: восемьдесят
+ trans_en: eighty
+
+-lexeme
+ lex: миллионмос
+ stem: миллионмос.
+ gramm: NUM,rus
+ paradigm: Comparative
+ trans_ru: одна миллионная
+ trans_en: one millionth
+
+-lexeme
+ lex: млн
+ stem: млн.
+ gramm: NUM,abbr,rus
+ paradigm: Comparative
+ trans_ru: миллион
+ trans_en: million
+
+-lexeme
+ lex: ньыль
+ stem: 4.//4-.
+ gramm: NUM
+ paradigm: connect_num
+ trans_ru: четыре
+ trans_en: four
+
+-lexeme
+ lex: ньыль
+ stem: ньыл.//нил.
+ gramm: NUM
+ paradigm: connect_num-soft
+ trans_ru: четыре
+ trans_en: four
+
+-lexeme
+ lex: ньыльдон
+ stem: ньыльдон.//40.//40-.
+ gramm: NUM
+ paradigm: connect_num
+ trans_ru: сорок
+ trans_en: fourty
+
+-lexeme
+ lex: ньыльдоно
+ stem: ньыльдоно.
+ gramm: NUM
+ paradigm: Comparative
+ trans_ru: порядка сорока
+ trans_en: around fourty
+
+-lexeme
+ lex: ог
+ stem: ог.
+ gramm: NUM
+ paradigm: connect_num
+ trans_ru: один
+ trans_en: one
+
+-lexeme
+ lex: одиннадцать
+ stem: одиннадцать.
+ gramm: NUM,rus
+ paradigm: Comparative
+ trans_ru: одиннадцать
+ trans_en: eleven
+
+-lexeme
+ lex: одӥг
+ stem: одӥг.//адӥг.//1.//1-.
+ gramm: NUM
+ paradigm: connect_num
+ trans_ru: один
+ trans_en: one
+
+-lexeme
+ lex: пал
+ stem: пал.
+ gramm: NUM
+ paradigm: Noun-num-consonant
+ trans_ru: один (из двух или из набора)
+ trans_en: one (of two or of a set)
+
+-lexeme
+ lex: пятнадцать
+ stem: пятнадцать.
+ gramm: NUM,rus
+ paradigm: Comparative
+ trans_ru: пятнадцать
+ trans_en: fifteen
+
+-lexeme
+ lex: семнадцать
+ stem: семнадцать.
+ gramm: NUM,rus
+ paradigm: Comparative
+ trans_ru: семнадцать
+ trans_en: seventeen
+
+-lexeme
+ lex: сизьым
+ stem: сизьым.//7.//7-.
+ gramm: NUM
+ paradigm: connect_num
+ trans_ru: семь
+ trans_en: seven
+
+-lexeme
+ lex: сизьымдон
+ stem: сизьымдон.//70.//70-.
+ gramm: NUM
+ paradigm: connect_num
+ trans_ru: семьдесят
+ trans_en: seventy
+
+-lexeme
+ lex: сю
+ stem: сю.//100.//100-.
+ gramm: NUM
+ paradigm: connect_num
+ trans_ru: сто
+ trans_en: hundred
+
+-lexeme
+ lex: сюрс
+ stem: сюрс.//100.//100-.
+ gramm: NUM
+ paradigm: Noun-num-consonant
+ paradigm: connect_num
+ trans_ru: тысяча
+ trans_en: thousand
+
+-lexeme
+ lex: сюрсмос
+ stem: сюрсмос.
+ gramm: NUM
+ paradigm: Comparative
+ trans_ru: тысячная часть
+ trans_en: one thousand
+
+-lexeme
+ lex: сӥзьым
+ stem: сӥзьым.
+ gramm: NUM
+ paradigm: connect_num
+ trans_ru: семь
+ trans_en: seven
+
+-lexeme
+ lex: тридцать
+ stem: тридцать.
+ gramm: NUM,rus
+ paradigm: Comparative
+ trans_ru: тридцать
+ trans_en: thirty
+
+-lexeme
+ lex: тринадцать
+ stem: тринадцать.
+ gramm: NUM,rus
+ paradigm: Comparative
+ trans_ru: тринадцать
+ trans_en: thirteen
+
+-lexeme
+ lex: тямыс
+ stem: тямыс.//8.//8-.
+ gramm: NUM
+ paradigm: connect_num
+ trans_ru: восемь
+ trans_en: eight
+
+-lexeme
+ lex: тямыстон
+ stem: тямыстон.//80.//80-.
+ gramm: NUM
+ paradigm: connect_num
+ trans_ru: восемьдесят
+ trans_en: eighty
+
+-lexeme
+ lex: укмыс
+ stem: укмыс.//9.//9-.
+ gramm: NUM
+ paradigm: connect_num
+ trans_ru: девять
+ trans_en: nine
+
+-lexeme
+ lex: укмыстон
+ stem: укмыстон.//90.//90-.
+ gramm: NUM
+ paradigm: connect_num
+ trans_ru: девяносто
+ trans_en: ninety
+
+-lexeme
+ lex: вторая
+ stem: вторая.
+ gramm: NUM,ord,rus
+ paradigm: connect_adjectives
+ trans_ru: второй
+ trans_en: second
+
+-lexeme
+ lex: второй
+ stem: второ.
+ gramm: NUM,ord,rus
+ paradigm: connect_adjectives-j
+ trans_ru: второй
+ trans_en: second
+
+-lexeme
+ lex: нырысетӥ
+ stem: нырысетӥ.
+ gramm: NUM,ord
+ paradigm: connect_adjectives
+ trans_ru: первый
+ trans_en: first
+
+-lexeme
+ lex: первой
+ stem: перво.//первы.//перви.
+ gramm: NUM,ord,rus
+ paradigm: connect_adjectives-j
+ trans_ru: первый
+ trans_en: first
+
+-lexeme
+ lex: третий
+ stem: трети.//трете.
+ gramm: NUM,ord,rus
+ paradigm: connect_adjectives-j
+ trans_ru: третий
+ trans_en: third

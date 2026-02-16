@@ -1,5 +1,5 @@
 # Udmurt morphological analyzer
-This is a rule-based morphological analyzer for Udmurt (``udm``; Uralic > Permic). It is based on a formalized description of literary Udmurt morphology, which also includes a number of dialectal elements, and uses [uniparser-morph](https://github.com/timarkh/uniparser-morph) for parsing. It performs full morphological analysis of Udmurt words (lemmatization, POS tagging, grammatical tagging, glossing).
+This is a rule-based morphological analyzer for Udmurt (``udm``; Uralic > Permic). It is based on a formalized description of literary Udmurt morphology, which also includes a number of dialectal elements, and uses [uniparser-morph](https://github.com/timarkh/uniparser-morph) for parsing. It performs full morphological analysis of Udmurt words (lemmatization, POS tagging, grammatical tagging, glossing; Russian and, in many cases, English translations).
 
 ## How to use
 ### Python package

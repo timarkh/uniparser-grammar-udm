@@ -210,6 +210,14 @@ def process_unanalyzed(a, replacementsAllowed=0):
             m = re.search('^(.*>)([^<>\r\n]+)</w>', line)
             if m is None:
                 continue
+            if replacementsAllowed > 0 and re.search(',(famn|patrn|persn)', m.group(1)) is not None:
+                # Replacements in proper nouns usually lead to wrongly correcting
+                # proper names that are not in the dictionary
+                continue
+            if (replacementsAllowed > 0 and (m.group(2).endswith(('и', 'ы'))
+                                             and re.search('lex="[^"]*а"', m.group(1)) is not None)):
+                # политики recognized as политика (actually words like this come from code switching)
+                continue
             word = m.group(2)
             analyzedDia.add(word)
             lines += m.group(1) + word + '</w>\n'
@@ -223,6 +231,32 @@ def process_unanalyzed(a, replacementsAllowed=0):
                 lines.append(line)
     with open('wordlists/wordlist_unanalyzed.txt', 'w', encoding='utf-8') as fOut:
         fOut.write('\n'.join(lines))
+
+
+def shorten_analyzed():
+    """
+    The analyzed word list is too long, so we'll shorten the attribute names.
+    """
+    rxTransRu = re.compile('\\btrans_ru="')
+    rxTransRu2 = re.compile('\\btrans_ru2="')
+    rxTransEn = re.compile('\\btrans_en="')
+    rxLemma = re.compile('\\blex="')
+    rxParts = re.compile('\\bparts="')
+    rxGloss = re.compile('\\bgloss="')
+    rxEmpty = re.compile(' *\\b(?:ru|en)=" *"')
+    rxAnaClose = re.compile('></ana>')
+    with open('wordlists/wordlist_analyzed.txt', 'r', encoding='utf-8-sig') as fIn:
+        text = fIn.read()
+        text = rxLemma.sub('l="', text)
+        text = rxTransRu.sub('ru="', text)
+        text = rxTransRu2.sub('ru2="', text)
+        text = rxTransEn.sub('en="', text)
+        text = rxParts.sub('mb="', text)
+        text = rxGloss.sub('gl="', text)
+        text = rxEmpty.sub('', text)
+        text = rxAnaClose.sub('/>', text)
+    with open('wordlists/wordlist_analyzed.txt', 'w', encoding='utf-8') as fOut:
+        fOut.write(text)
 
 
 def parse_wordlists():
@@ -241,6 +275,7 @@ def parse_wordlists():
     process_unanalyzed(aNodia)
     print('Processing words with one replacement allowed...')
     process_unanalyzed(a, replacementsAllowed=1)
+    shorten_analyzed()
 
 
 if __name__ == '__main__':
@@ -248,5 +283,5 @@ if __name__ == '__main__':
     parse_wordlists()
     # from uniparser_udmurt import UdmurtAnalyzer
     # a = UdmurtAnalyzer(mode='strict')
-    # for wf in a.analyze_words(['гижлоосыз', 'лудтӥ', 'тӥялтоно', 'кизьыкуз', 'иськавынлэсь'], format='json'):
+    # for wf in a.analyze_words(['йӧнатскыны', 'лудтӥ', 'тӥялтоно', 'кизьыкуз', 'иськавынлэсь'], format='xml'):
     #     print(wf)

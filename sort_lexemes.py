@@ -61,7 +61,7 @@ def yaml2csv(fnameYaml, fnameCsv):
     lex, table = load_tabulate_lexemes(fnameYaml)
     wfFreqs = {}
     lemmaFreqs = {}
-    rxLemma = re.compile('\\blex="([^\r\n"<>]+)"')
+    rxLemma = re.compile('\\bl(?:ex)?="([^\r\n"<>]+)"')
     rxWf = re.compile('>([^\r\n<>]+)</w>')
     with open('wordlists/wordlist.csv', 'r', encoding='utf-8-sig') as fWordlist:
         for line in fWordlist:
@@ -106,7 +106,7 @@ def csv2yaml(fnameCsv, fnameYaml):
     with open(fnameCsv, 'r', encoding='utf-8') as fIn:
         lexemes = fIn.readlines()
     for lex in sorted(l.strip('\r\n') for l in lexemes if len(l) > 5 and '\t' in l):
-        lemma, pos, grdic, stem, para, trans_en, trans_fr, remove, rest = lex.split('\t', 8)
+        lemma, pos, grdic, stem, para, trans_ru, trans_en, remove, rest = lex.split('\t', 8)
         if len(remove.strip()) > 0 or len(lemma) <= 0:
             continue
         if 'PN' not in grdic and re.search('\\b(topn|famn|persn|patrn)\\b', grdic) is not None:
@@ -122,14 +122,17 @@ def csv2yaml(fnameCsv, fnameYaml):
         para = para.replace(' ', '').split('/')
         lexOut = ('\n-lexeme\n lex: ' + lemma + '\n stem: ' + stem.strip().replace(' /', '/').replace(' |', '|')
                   + '\n gramm: ' + gramm + ''.join('\n paradigm: ' + p for p in sorted(para))
-                  + '\n trans_ru: ' + trans_en.strip() + '\n trans_en: ' + trans_fr.strip() + '\n')
-        lexemesOut.append(lexOut)
-    lexemesOutStr = ''.join(l for l in sorted(lexemesOut))
+                  + '\n trans_ru: ' + trans_ru.strip() + '\n trans_en: ' + trans_en.strip() + '\n')
+        lexemesOut.append([re.sub(',.*', '', gramm), lemma, lexOut])
+    lexemesOutStr = ''.join(l[2] for l in sorted(lexemesOut))
     with open(fnameYaml, 'w', encoding='utf-8') as fOut:
         fOut.write(lexemesOutStr.strip())
 
 
 if __name__ == '__main__':
-    # yaml2csv_filter()
-    yaml2csv('udm_lexemes_N.txt', 'add_lex/udm_lexemes_N.csv')
-    # csv2yaml('add_lex/udm_lexemes_N.csv', 'udm_lexemes_N-2026.02.txt')
+    # yaml2csv('udm_lexemes_N.txt', 'add_lex/udm_lexemes_N.csv')
+    # yaml2csv('udm_lexemes_V.txt', 'add_lex/udm_lexemes_V.csv')
+    # yaml2csv('udm_lexemes_N_persn.txt', 'add_lex/udm_lexemes_N_persn.csv')
+    # yaml2csv('udm_lexemes_ADJ.txt', 'add_lex/udm_lexemes_ADJ.csv')
+    # yaml2csv('udm_lexemes_unchangeable.txt', 'add_lex/udm_lexemes_unchangeable.csv')
+    csv2yaml('add_lex/udm_lexemes_N_persn.csv', 'udm_lexemes_N_persn-2026.02.txt')
