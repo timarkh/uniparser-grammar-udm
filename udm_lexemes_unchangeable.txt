@@ -730,7 +730,7 @@
  stem: бары.
  gramm: ADV
  paradigm: connect_adverbs
- trans_ru: всего лишь, лишь, всего, только
+ trans_ru: всего лишь
  trans_en: 
 
 -lexeme
@@ -1267,8 +1267,8 @@
  stem: буди.
  gramm: ADV
  paradigm: connect_adverbs
- trans_ru: может, может быть, наверное
- trans_en: 
+ trans_ru: может быть, наверное
+ trans_en: perhaps
 
 -lexeme
  lex: буй-буй
@@ -2412,14 +2412,6 @@
  gramm: ADV,rus
  paradigm: connect_adverbs
  trans_ru: вот-вот, скоро-скоро
- trans_en: 
-
--lexeme
- lex: вочак
- stem: вочак.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: всё, всё полностью, целиком
  trans_en: 
 
 -lexeme
@@ -5043,15 +5035,15 @@
  stem: казыр.
  gramm: ADV
  paradigm: connect_adverbs
- trans_ru: сейчас, теперь, сейчас же, сию же минуту
- trans_en: 
+ trans_ru: сейчас
+ trans_en: now
 
 -lexeme
  lex: казырда
  stem: казырда.
  gramm: ADV
  paradigm: connect_adverbs
- trans_ru: сейчас же, вмиг, немедленно
+ trans_ru: сейчас же, вмиг
  trans_en: 
 
 -lexeme
@@ -15417,7 +15409,7 @@
  stem: чалмытэн.
  gramm: ADV,ins
  paradigm: connect_adverbs
- trans_ru: молча, молчаливо, тихо, бесшумно
+ trans_ru: молча, тихо
  trans_en: 
 
 -lexeme
@@ -17689,7 +17681,7 @@
  stem: ӝикак.
  gramm: ADV
  paradigm: connect_adverbs
- trans_ru: 1. аккуратно 2. крепко, туго, туго-натуго
+ trans_ru: 1. аккуратно 2. крепко, туго
  trans_en: 
 
 -lexeme
@@ -18751,7 +18743,7 @@
  gramm: ADVPRO
  paradigm: connect_adverbs
  trans_ru: так, таким образом
- trans_en: 
+ trans_en: so, this way
 
 -lexeme
  lex: а
@@ -19127,14 +19119,14 @@
  gramm: INTRJ
  paradigm: Empty
  trans_ru: ах, эх
- trans_en: ah, ah
+ trans_en: ah
 
 -lexeme
  lex: акак
  stem: акак.
  gramm: INTRJ
  paradigm: Empty
- trans_ru: тьфу, гадость, дрянь, погань
+ trans_ru: тьфу, гадость
  trans_en: 
 
 -lexeme
@@ -21631,7 +21623,7 @@
  gramm: PART
  paradigm: Comparative
  trans_ru: да, да ведь
- trans_en: 
+ trans_en: right
 
 -lexeme
  lex: офигеть

@@ -13557,7 +13557,7 @@
  gramm: V,I,tr,with_instr,with_ill,with_dat
  paradigm: connect_verbs-I
  trans_ru: бить, избить
- trans_en: beat, beat up
+ trans_en: hammer, beat up
 
 -lexeme
  lex: жужгетыны
@@ -25501,7 +25501,7 @@
  gramm: V,II,intr
  paradigm: connect_verbs-II
  trans_ru: сочиться, выделять камбиальный сок; грабить, похищать
- trans_en: ooze, ooze cambial sap; rob, kidnap
+ trans_en: ooze cambial sap; rob, kidnap
 
 -lexeme
  lex: лобаны
@@ -34956,7 +34956,7 @@
  stem: пазьырск.
  gramm: V,I,intr
  paradigm: connect_verbs-I
- trans_ru: рассыпаться, рассыпаться; расползтись, расползаться
+ trans_ru: рассыпаться; расползтись
  trans_en: 
 
 -lexeme
@@ -36885,7 +36885,7 @@
  gramm: V,I,tr
  paradigm: connect_verbs-I-soft
  trans_ru: колоть; пилить
- trans_en: stab; saw
+ trans_en: chop; saw
 
 -lexeme
  lex: пиналмыны
@@ -49780,7 +49780,7 @@
  stem: судъя.
  gramm: V,II,intr,rus
  paradigm: connect_verbs-II
- trans_ru: выносить приговор, приговорить
+ trans_ru: приговорить
  trans_en: sentence
 
 -lexeme
@@ -51309,7 +51309,7 @@
  gramm: V,II,mult,tr
  paradigm: connect_verbs-II
  trans_ru: давать, раздавать; перен. бить
- trans_en: give, give away; beat
+ trans_en: give away; beat
 
 -lexeme
  lex: сётыны
@@ -51788,7 +51788,7 @@
  stem: тасырай.|тасыра.
  gramm: V,I,tr
  paradigm: connect_verbs-I
- trans_ru: бавл. выпучить, таращить, вытаращить, вытаращиться
+ trans_ru: выпучить, вытаращить
  trans_en: 
 
 -lexeme
@@ -51796,7 +51796,7 @@
  stem: татилда.
  gramm: V,II,intr
  paradigm: connect_verbs-II
- trans_ru: лепетать,; болтать без умолку, говорить быстро и невнятно
+ trans_ru: лепетать; болтать без умолку, говорить быстро и невнятно
  trans_en: 
 
 -lexeme
@@ -56692,7 +56692,7 @@
  stem: утялт.|утял.|утялт.
  gramm: V,I,tr
  paradigm: connect_verbs-I-CC
- trans_ru: сберечь; прибрать, прибраться; угостить
+ trans_ru: сберечь; прибраться; угостить
  trans_en: save; clean up; treat
 
 -lexeme
@@ -60716,7 +60716,7 @@
  stem: шоканы-века.
  gramm: V,II,intr
  paradigm: connect_verbs-II
- trans_ru: едва дышать, дышать на ладан
+ trans_ru: едва дышать
  trans_en: 
 
 -lexeme
@@ -61292,7 +61292,7 @@
  stem: шульыкм.
  gramm: V,I,intr
  paradigm: connect_verbs-I
- trans_ru: сильно промокнуть, промокнуть насквозь
+ trans_ru: сильно промокнуть
  trans_en: 
 
 -lexeme
