@@ -1166,7 +1166,7 @@
   gramm: V,.*
   gloss: STEM-ITER(.(?!VN))*$
  -add
-  trans_ru2: наваживать, удоб­рять навозом
+  trans_ru2: наваживать, удобрять навозом
 -lex_rule
  -search
   stem: шырӟ.
