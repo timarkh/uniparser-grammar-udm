@@ -135,4 +135,4 @@ if __name__ == '__main__':
     # yaml2csv('udm_lexemes_N_persn.txt', 'add_lex/udm_lexemes_N_persn.csv')
     # yaml2csv('udm_lexemes_ADJ.txt', 'add_lex/udm_lexemes_ADJ.csv')
     # yaml2csv('udm_lexemes_unchangeable.txt', 'add_lex/udm_lexemes_unchangeable.csv')
-    csv2yaml('add_lex/udm_lexemes_N_persn.csv', 'udm_lexemes_N_persn-2026.02.txt')
+    csv2yaml('add_lex/udm_lexemes_N.csv', 'udm_lexemes_N-2026.05.txt')
