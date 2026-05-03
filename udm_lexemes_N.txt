@@ -14232,7 +14232,7 @@
  stem: асчер.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: 1. эпилепсия, падучая [болезнь] 2.менструация
+ trans_ru: эпилепсия; менструация
  trans_en: 
 
 -lexeme
@@ -15944,7 +15944,7 @@
  stem: бакакуар.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: 1. курослеп, калужница 2. бадӟым ~ белокопытник лекарственный
+ trans_ru: курослеп, калужница; белокопытник лекарственный
  trans_en: 
 
 -lexeme
@@ -18269,7 +18269,7 @@
  stem: бен.
  gramm: N,anim,hum
  paradigm: Noun-num-consonant
- trans_ru: житель северных районов, где используют частицу "бен"
+ trans_ru: житель северных районов, где используют частицу бен
  trans_en: 
 
 -lexeme
@@ -20888,7 +20888,7 @@
  stem: бон.
  gramm: N,anim,hum
  paradigm: Noun-num-consonant
- trans_ru: житель южных районов, где используют частицу "бон"
+ trans_ru: житель южных районов, где используют частицу бон
  trans_en: 
 
 -lexeme
@@ -22726,7 +22726,7 @@
  stem: бургы.|бурги.
  gramm: N
  paradigm: Noun-num-vowel-dial-iy
- trans_ru: [медная] труба
+ trans_ru: медная труба
  trans_en: 
 
 -lexeme
@@ -24956,7 +24956,7 @@
  stem: вамышчи.
  gramm: N,anim,hum
  paradigm: Noun-num-vowel
- trans_ru: участник лагеря "Вамыш"
+ trans_ru: участник лагеря Вамыш
  trans_en: 
 
 -lexeme
@@ -34037,7 +34037,7 @@
  stem: гердчи.
  gramm: N,anim,hum
  paradigm: Noun-num-vowel
- trans_ru: член организации "Герд"
+ trans_ru: член организации Герд
  trans_en: 
 
 -lexeme
@@ -42753,7 +42753,7 @@
  stem: дунву.
  gramm: N
  paradigm: Noun-num-vowel
- trans_ru: инву, дунчылкытву, дунневу ?
+ trans_ru: 
  trans_en: 
 
 -lexeme
@@ -46917,7 +46917,7 @@
  stem: зарника.
  gramm: N,anim,hum
  paradigm: Noun-num-vowel
- trans_ru: золотце?
+ trans_ru: золотце
  trans_en: 
 
 -lexeme
@@ -50754,7 +50754,7 @@
  stem: инкуазьэсэп.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: 1. равновесие, баланс в природе, 2. прнцип «золотой середины»
+ trans_ru: равновесие, баланс в природе; прнцип золотой середины
  trans_en: 
 
 -lexeme
@@ -54391,7 +54391,7 @@
  stem: казёнка.
  gramm: N,rus
  paradigm: Noun-num-vowel
- trans_ru: 1. казёнка 2. чулан 3. [малые] полати
+ trans_ru: казёнка; чулан; малые полати
  trans_en: 
 
 -lexeme
@@ -60865,7 +60865,7 @@
  stem: книгачи.
  gramm: N,rus,anim,hum
  paradigm: Noun-num-vowel
- trans_ru: библиотекарь, автор?
+ trans_ru: библиотекарь, книгоиздатель
  trans_en: 
 
 -lexeme
@@ -67063,7 +67063,7 @@
  stem: куапӧськы.|куапӧськи.
  gramm: N,anim
  paradigm: Noun-num-vowel-dial-iy
- trans_ru: 1. стриж 2. деревенская ласточка + ласточка
+ trans_ru: стриж; деревенская ласточка
  trans_en: 
 
 -lexeme
@@ -67127,7 +67127,7 @@
  stem: куарагурчи.
  gramm: N,anim,hum
  paradigm: Noun-num-vowel
- trans_ru: участник проекта "Куарагур"
+ trans_ru: участник проекта Куарагур
  trans_en: 
 
 -lexeme
@@ -73129,7 +73129,7 @@
  stem: кӧр.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: 1. подушка дровень 2. подушка 3. рогатка, деревянный ошейник 3. нитченка
+ trans_ru: подушка дровень; подушка; рогатка, деревянный ошейник; нитченка
  trans_en: 
 
 -lexeme
@@ -73137,7 +73137,7 @@
  stem: кӧрбан.
  gramm: N,time_meas
  paradigm: Noun-num-consonant
- trans_ru: праздник "Кырбан"
+ trans_ru: праздник Кырбан
  trans_en: 
 
 -lexeme
@@ -80721,7 +80721,7 @@
  stem: мафик.
  gramm: N,anim,hum
  paradigm: Noun-num-consonant
- trans_ru: член сообщества "Пороз Мафи"
+ trans_ru: член сообщества Пороз Мафи
  trans_en: 
 
 -lexeme
@@ -85894,7 +85894,7 @@
  stem: муресаз.
  gramm: N
  paradigm: Noun-num-soft
- trans_ru: [женский] нагрудник
+ trans_ru: женский нагрудник
  trans_en: 
 
 -lexeme
@@ -86573,7 +86573,7 @@
  stem: мылву.
  gramm: N
  paradigm: Noun-num-vowel
- trans_ru: инву, мугву ?
+ trans_ru: 
  trans_en: 
 
 -lexeme
@@ -91425,9 +91425,17 @@
 -lexeme
  lex: ньылос
  stem: ньылос.
+ gramm: N,anim,hum
+ paradigm: Noun-num-consonant
+ trans_ru: сладкоежка
+ trans_en: 
+
+-lexeme
+ lex: ньылос
+ stem: ньылос.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: 1. сладкоежка, сластёна 2. [один] глоток 3. проглоченная рыбка
+ trans_ru: глоток
  trans_en: 
 
 -lexeme
@@ -91435,7 +91443,7 @@
  stem: ньылосъяськис.
  gramm: N,anim,hum
  paradigm: Noun-num-soft
- trans_ru: любитель сладкого, сладкоежка, сластёна, привередливый
+ trans_ru: сладкоежка
  trans_en: 
 
 -lexeme
@@ -91444,7 +91452,7 @@
  gramm: N
  paradigm: Noun-num-vowel
  trans_ru: пихта
- trans_en: 
+ trans_en: fir
 
 -lexeme
  lex: ньыльмос
@@ -93529,7 +93537,7 @@
  stem: оггуӵык.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: [один] глоток
+ trans_ru: один глоток
  trans_en: 
 
 -lexeme
@@ -97840,7 +97848,7 @@
  stem: палэзянни.
  gramm: N
  paradigm: Noun-num-vowel
- trans_ru: место, где собирают рябину – рябинник
+ trans_ru: место, где собирают рябину
  trans_en: 
 
 -lexeme
@@ -98769,7 +98777,7 @@
  stem: парсьпел.
  gramm: N
  paradigm: Noun-num-soft
- trans_ru: борщевик сибирский ("свиное ухо")
+ trans_ru: борщевик сибирский (свиное ухо)
  trans_en: 
 
 -lexeme
@@ -100432,7 +100440,7 @@
  stem: пельсьӧр.
  gramm: N,body
  paradigm: Noun-num-consonant
- trans_ru: место за ухом?
+ trans_ru: место за ухом
  trans_en: 
 
 -lexeme
@@ -105681,7 +105689,7 @@
  stem: подэм.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: [бортовой] улей
+ trans_ru: бортовой улей
  trans_en: 
 
 -lexeme
@@ -107818,7 +107826,15 @@
  stem: поры.|пори.
  gramm: N
  paradigm: Noun-num-vowel-dial-iy
- trans_ru: 1. мутовка 2. вихор, клок, прядь торчащих волос 3. кольцо aву ~ водоворот
+ trans_ru: мутовка
+ trans_en: 
+
+-lexeme
+ lex: поры
+ stem: поры.|пори.
+ gramm: N
+ paradigm: Noun-num-vowel-dial-iy
+ trans_ru: вихор, клок, прядь торчащих волос
  trans_en: 
 
 -lexeme
@@ -109988,7 +110004,7 @@
  stem: прилагательно.
  gramm: N,rus
  paradigm: Noun-num-j
- trans_ru: [имя] прилагательное
+ trans_ru: прилагательное
  trans_en: 
 
 -lexeme
@@ -113898,7 +113914,7 @@
  stem: пурӟет.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: раздуваемый [ветром] занос
+ trans_ru: раздуваемый ветром занос
  trans_en: 
 
 -lexeme
@@ -114164,7 +114180,7 @@
  gramm: N
  paradigm: Noun-num-consonant
  paradigm: Noun-num-consonant-y
- trans_ru: 1. мякиш 2. начинка 3. недра му ~ недра земли
+ trans_ru: мякиш; начинка
  trans_en: 
 
 -lexeme
@@ -114432,7 +114448,7 @@
  stem: пыдвоштӥс.
  gramm: N,anim,hum
  paradigm: Noun-num-soft
- trans_ru: ?
+ trans_ru: 
  trans_en: 
 
 -lexeme
@@ -139761,7 +139777,7 @@
  stem: тулкымчи.
  gramm: N,anim,hum
  paradigm: Noun-num-vowel
- trans_ru: член ансамбля "Тулкым"
+ trans_ru: член ансамбля Тулкым
  trans_en: 
 
 -lexeme
@@ -144408,7 +144424,7 @@
  stem: улонлык.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: ?
+ trans_ru: 
  trans_en: 
 
 -lexeme
@@ -145667,7 +145683,7 @@
  stem: усточикарчи.
  gramm: N,anim,hum
  paradigm: Noun-num-vowel
- trans_ru: участник лагеря "Усточикар"
+ trans_ru: участник лагеря Усточикар
  trans_en: 
 
 -lexeme
@@ -146003,7 +146019,7 @@
  stem: учет.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: диал. скамья вылын ог ~ пукыны немного посидеть на скамье
+ trans_ru: некоторое время
  trans_en: 
 
 -lexeme
@@ -148254,7 +148270,7 @@
  stem: форкорон.
  gramm: N,anim,hum
  paradigm: Noun-num-consonant
- trans_ru: мужчина (искажённое "воргорон")
+ trans_ru: мужчина (искажённое воргорон)
  trans_en: 
 
 -lexeme
@@ -149822,8 +149838,8 @@
  stem: химисурет.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: химическое вещество?
- trans_en: 
+ trans_ru: химикаты
+ trans_en: chemicals
 
 -lexeme
  lex: химия
@@ -158986,7 +159002,7 @@
  stem: шундыкарчи.
  gramm: N,anim,hum
  paradigm: Noun-num-ija
- trans_ru: участник лагеря "Шундыкар"
+ trans_ru: участник лагеря Шундыкар
  trans_en: 
 
 -lexeme
@@ -158994,7 +159010,7 @@
  stem: шундыкарчик.
  gramm: N,rus_afx,anim,hum
  paradigm: Noun-num-consonant
- trans_ru: участник лагеря "Шундыкар"
+ trans_ru: участник лагеря Шундыкар
  trans_en: 
 
 -lexeme
@@ -159018,7 +159034,7 @@
  stem: шундынылпи.
  gramm: N,anim,hum
  paradigm: Noun-num-vowel
- trans_ru: дети-участники лагеря "Шундыкар"
+ trans_ru: дети-участники лагеря Шундыкар
  trans_en: 
 
 -lexeme
@@ -162524,7 +162540,7 @@
  stem: эмудыс.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: медицина?
+ trans_ru: медицина
  trans_en: 
 
 -lexeme
@@ -168752,7 +168768,7 @@
  stem: ӵынкыт.
  gramm: N
  paradigm: Noun-num-consonant
- trans_ru: [сизая] дымка, марево
+ trans_ru: сизая дымка, марево
  trans_en: 
 
 -lexeme

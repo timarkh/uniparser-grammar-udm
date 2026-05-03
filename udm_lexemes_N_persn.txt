@@ -1956,7 +1956,7 @@
  stem: авик.
  gramm: N,PN
  paradigm: Noun-num-consonant
- trans_ru: Авик (бывший клуб "Авиатор" в Ижевске)
+ trans_ru: Авик (бывший клуб Авиатор в Ижевске)
  trans_en: 
 
 -lexeme
@@ -24553,7 +24553,7 @@
  stem: гто.//гто-.
  gramm: N,abbr,rus
  paradigm: Noun-num-vowel
- trans_ru: ГТО ("Готов к труду и обороне")
+ trans_ru: ГТО (Готов к труду и обороне)
  trans_en: 
 
 -lexeme
@@ -28251,7 +28251,15 @@
  gramm: N,PN,famn
  paradigm: Noun-num-consonant
  trans_ru: Гиннесс
- trans_en: 
+ trans_en: Guinness
+
+-lexeme
+ lex: Гиннес
+ stem: гиннес.
+ gramm: N,PN,famn
+ paradigm: Noun-num-consonant
+ trans_ru: Гиннесс
+ trans_en: Guinness
 
 -lexeme
  lex: Гирбасов
@@ -35568,7 +35576,7 @@
  stem: дуслык.
  gramm: N,PN
  paradigm: Noun-num-consonant
- trans_ru: Дуслык ("Дружба", название татарских ансамблей, колхозов и т. п.)
+ trans_ru: Дуслык (Дружба, название татарских ансамблей, колхозов и т. п.)
  trans_en: 
 
 -lexeme
@@ -50858,6 +50866,14 @@
  trans_en: 
 
 -lexeme
+ lex: Кислицин
+ stem: кислицин.
+ gramm: N,famn,PN
+ paradigm: Noun-num-consonant
+ trans_ru: Кислицин
+ trans_en: 
+
+-lexeme
  lex: Кислова
  stem: кислова.
  gramm: N,PN,famn
@@ -56779,7 +56795,7 @@
  stem: кузьыликар.
  gramm: N,PN
  paradigm: Noun-num-consonant
- trans_ru: "Муравейник" (коллектив)
+ trans_ru: Муравейник (коллектив)
  trans_en: 
 
 -lexeme
@@ -66202,7 +66218,7 @@
  stem: мастарлык.
  gramm: N,PN
  paradigm: Noun-num-consonant
- trans_ru: Мастарлык Ола ("город мастерства") -- название марийского мероприятия
+ trans_ru: Мастарлык Ола (город мастерства) -- название марийского мероприятия
  trans_en: 
 
 -lexeme
@@ -67588,7 +67604,7 @@
  gramm: N,PN,famn
  paradigm: Noun-num-soft
  trans_ru: Меркель
- trans_en: 
+ trans_en: Merkel
 
 -lexeme
  lex: Меркулов
@@ -70685,7 +70701,7 @@
  stem: москвашур.
  gramm: N,topn,PN
  paradigm: Noun-num-consonant
- trans_ru: Москвашур
+ trans_ru: Москва-река
  trans_en: 
 
 -lexeme
@@ -70769,11 +70785,11 @@
  trans_en: 
 
 -lexeme
- lex: Мособлпишепром
+ lex: Мособлпищепром
  stem: мособлпишепром.
- gramm: N,PN
+ gramm: N,PN,missp
  paradigm: Noun-num-consonant
- trans_ru: Мособлпишепром
+ trans_ru: Мособлпищепром
  trans_en: 
 
 -lexeme
@@ -81370,7 +81386,7 @@
  stem: пепел.
  gramm: N,PN
  paradigm: Noun-num-consonant
- trans_ru: Клуб "Пепелац"
+ trans_ru: Клуб Пепелац
  trans_en: 
 
 -lexeme
@@ -83561,7 +83577,7 @@
 
 -lexeme
  lex: Подседерцев
- stem: подсезерцев.
+ stem: подседерцев.
  gramm: N,PN,famn
  paradigm: Noun-num-consonant
  trans_ru: Подседерцев
@@ -83569,7 +83585,7 @@
 
 -lexeme
  lex: Подседерцева
- stem: подсезерцева.
+ stem: подседерцева.
  gramm: N,PN,famn
  paradigm: Noun-num-vowel
  trans_ru: Подседерцева
@@ -88313,7 +88329,7 @@
  stem: рвезелык.
  gramm: N,PN
  paradigm: Noun-num-consonant
- trans_ru: Рвезелык ("Юность", марийский ансамбль)
+ trans_ru: Рвезелык (Юность, марийский ансамбль)
  trans_en: 
 
 -lexeme
@@ -102223,6 +102239,22 @@
  trans_en: 
 
 -lexeme
+ lex: Телицын
+ stem: телицын.
+ gramm: N,PN,famn
+ paradigm: Noun-num-consonant
+ trans_ru: Телицын
+ trans_en: 
+
+-lexeme
+ lex: Телицына
+ stem: телицына.
+ gramm: N,PN,famn
+ paradigm: Noun-num-vowel
+ trans_ru: Телицына
+ trans_en: 
+
+-lexeme
  lex: Тельман
  stem: тельман.
  gramm: N,PN,famn
@@ -102484,7 +102516,7 @@
  gramm: N,PN,famn
  paradigm: Noun-num-vowel
  trans_ru: Терешкова
- trans_en: 
+ trans_en: Tereshkova
 
 -lexeme
  lex: Терещенко
@@ -113707,19 +113739,11 @@
 
 -lexeme
  lex: Чайковский
- stem: чайковски.
+ stem: чайковски.//чайковско.
  gramm: N,PN,famn
  paradigm: Noun-num-j
  trans_ru: Чайковский
  trans_en: Tchaikovsky
-
--lexeme
- lex: Чайковской
- stem: чайковско.
- gramm: N,PN,famn
- paradigm: Noun-num-j
- trans_ru: Чайковский
- trans_en: 
 
 -lexeme
  lex: Чайников
@@ -119468,7 +119492,7 @@
  gramm: N,PN,famn
  paradigm: Noun-num-vowel
  trans_ru: Шойгу
- trans_en: 
+ trans_en: Shoigu
 
 -lexeme
  lex: Шокальский
@@ -119499,7 +119523,7 @@
  stem: шолом-алейхем.
  gramm: N,famn,PN
  paradigm: Noun-num-consonant
- trans_ru: Шолом-алейхем
+ trans_ru: Шолом-Алейхем
  trans_en: 
 
 -lexeme
@@ -119508,7 +119532,7 @@
  gramm: N,PN,famn
  paradigm: Noun-num-consonant
  trans_ru: Шолохов
- trans_en: 
+ trans_en: Sholokhov
 
 -lexeme
  lex: Шомвуква
@@ -124137,7 +124161,7 @@
  stem: яшьлек.//яшьлык.
  gramm: N,PN
  paradigm: Noun-num-consonant
- trans_ru: Яшьлек ("Юность", название татарского ансамбля)
+ trans_ru: Яшьлек (Юность, название татарского ансамбля)
  trans_en: 
 
 -lexeme
@@ -124589,7 +124613,7 @@
  gramm: N,PN
  stem: юпи.
  paradigm: Noun-num-vowel
- trans_ru: "Юпи"
+ trans_ru: Юпи
  trans_en: 
 
 -lexeme

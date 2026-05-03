@@ -178,7 +178,7 @@
  stem: дьылк-дялк.
  gramm: IMIT
  paradigm: Comparative
- trans_ru: ~ карыны - сверкать, блестеть
+ trans_ru: о сверкании, блеске
 
 -lexeme
  lex: чульк
@@ -297,21 +297,21 @@
  stem: долак.
  gramm: IMIT
  paradigm: Comparative
- trans_ru: все, всё, целиком, совсем, совершенно
+ trans_ru: все, всё, целиком, совсем, подчистую
 
 -lexeme
  lex: гом
  stem: гом.
  gramm: IMIT
  paradigm: Comparative
- trans_ru: тыл ~ басьтӥз всё охватило пламенем
+ trans_ru: полностью (о пламени)
 
 -lexeme
  lex: гомак
  stem: гомак.
  gramm: IMIT
  paradigm: Comparative
- trans_ru: тыл ~ басьтӥз всё охватило пламенем
+ trans_ru: полностью (о пламени)
 
 -lexeme
  lex: лопыр
@@ -535,7 +535,7 @@
  stem: супыр-супыр.
  gramm: IMIT
  paradigm: Comparative
- trans_ru: ~ пӧзьыны -- развариться, разопреть
+ trans_ru: о разваривании
 
 -lexeme
  lex: гаӵ-гаӵ
@@ -815,14 +815,14 @@
  stem: гизи-гази.
  gramm: IMIT
  paradigm: Comparative
- trans_ru: сюлэм ~ луэ сердце ноет, кошки на сердце скребут
+ trans_ru: сердце ноет, кошки на сердце скребут (сюлэм гизи-гази луэ)
 
 -lexeme
  lex: гизи-гизи
  stem: гизи-гизи.
  gramm: IMIT
  paradigm: Comparative
- trans_ru: сюлэм ~ луэ сердце ноет, кошки на сердце скребут
+ trans_ru: сердце ноет, кошки на сердце скребут (сюлэм гизи-гизи луэ)
 
 -lexeme
  lex: вар-вар
@@ -836,7 +836,7 @@
  stem: нӧкыр-нӧкыр.
  gramm: IMIT
  paradigm: Comparative
- trans_ru: ~ шукыясьыны -- пузыриться
+ trans_ru: о появлении пузырей
 
 -lexeme
  lex: укыр-бекыр
@@ -934,7 +934,7 @@
  stem: сапыр.
  gramm: IMIT
  paradigm: Comparative
- trans_ru: ~ киськыны -- обильно сыпаться
+ trans_ru: о том, что что-то обильно сыпется
 
 -lexeme
  lex: ӵыжыр-ӵыжыр
@@ -955,7 +955,7 @@
  stem: шекыр-шекыр.
  gramm: IMIT
  paradigm: Comparative
- trans_ru: ~ карыны -- раздавить
+ trans_ru: раздавить (шекыр-шекыр карыны)
 
 -lexeme
  lex: воль-воль
@@ -1459,14 +1459,14 @@
  stem: омырак.
  gramm: IMIT
  paradigm: Comparative
- trans_ru: гурысь пӧсь ~ потэ из печки так жаром и пышет
+ trans_ru: о жаре из печи
 
 -lexeme
  lex: омырак-омырак
  stem: омырак-омырак.
  gramm: IMIT
  paradigm: Comparative
- trans_ru: гурысь пӧсь ~ потэ из печки так жаром и пышет
+ trans_ru: о жаре из печи
 
 -lexeme
  lex: кычыль
@@ -1648,7 +1648,7 @@
  stem: шар.
  gramm: IMIT
  paradigm: Comparative
- trans_ru: синвуосыз ~ васько слёзы льются градом
+ trans_ru: об обильных слезах
 
 -lexeme
  lex: чумор
@@ -1697,14 +1697,14 @@
  stem: вальтрак.
  gramm: IMIT
  paradigm: Comparative
- trans_ru: о [блестяще] гладкой поверхности
+ trans_ru: о блестяще гладкой поверхности
 
 -lexeme
  lex: вальтырак
  stem: вальтырак.
  gramm: IMIT
  paradigm: Comparative
- trans_ru: о [блестяще] гладкой поверхности
+ trans_ru: о блестяще гладкой поверхности
 
 -lexeme
  lex: кольыр
@@ -1767,7 +1767,7 @@
  stem: нымыляк.
  gramm: IMIT
  paradigm: Comparative
- trans_ru: все, целиком, дочиста
+ trans_ru: всё, целиком, дочиста
 
 -lexeme
  lex: гизьырак
@@ -1781,7 +1781,7 @@
  stem: дӧлы.
  gramm: IMIT
  paradigm: Comparative
- trans_ru: о пьяном –- кое-как ходит
+ trans_ru: кое-как (о походке пьяного)
 
 -lexeme
  lex: тар
@@ -1907,14 +1907,14 @@
  stem: писыр.
  gramm: IMIT
  paradigm: Comparative
- trans_ru: сюлэм ~ луэ -- сердце щемит
+ trans_ru: сердце щемит (сюлэм писыр луэ)
 
 -lexeme
  lex: писыр-писыр
  stem: писыр-писыр.
  gramm: IMIT
  paradigm: Comparative
- trans_ru: сюлэм ~ луэ -- сердце щемит
+ trans_ru: сердце щемит (сюлэм писыр-писыр луэ)
 
 -lexeme
  lex: турлэрик
@@ -2040,28 +2040,28 @@
  stem: юзырак.
  gramm: IMIT
  paradigm: Comparative
- trans_ru: ~ луыны -- вздрогнуть
+ trans_ru: о вздрагивании
 
 -lexeme
  lex: юзыр
  stem: юзыр.
  gramm: IMIT
  paradigm: Comparative
- trans_ru: ~ луыны -- вздрогнуть
+ trans_ru: о вздрагивании
 
 -lexeme
  lex: юзыр-кезьыр
  stem: юзыр-кезьыр.
  gramm: IMIT
  paradigm: Comparative
- trans_ru: ~ луыны -- знобить, дрожать
+ trans_ru: об ознобе, дрожи
 
 -lexeme
  lex: зурак
  stem: зурак.
  gramm: IMIT
  paradigm: Comparative
- trans_ru: ~ луыны -- вздрогнуть
+ trans_ru: о вздрагивании
 
 -lexeme
  lex: чурак
@@ -2194,21 +2194,21 @@
  stem: нюп.
  gramm: IMIT
  paradigm: Comparative
- trans_ru: пельёсты ~ карыны прясть ушами
+ trans_ru: прясть ушами (пельёсты нюп карыны)
 
 -lexeme
  lex: нюппы
  stem: нюппы.
  gramm: IMIT
  paradigm: Noun-num-consonant
- trans_ru: пельёсты ~ карыны прясть ушами
+ trans_ru: прясть ушами (пельёсты нюппы карыны)
 
 -lexeme
  lex: тӧл-тӧл
  stem: тӧл-тӧл.
  gramm: IMIT
  paradigm: Comparative
- trans_ru: прохладный, свежий – воздухе
+ trans_ru: прохладный, свежий (о воздухе)
 
 -lexeme
  lex: пань-пань
@@ -6651,7 +6651,7 @@
  stem: клёп-клёп.
  gramm: IMIT
  paradigm: Empty
- trans_ru: при …
+ trans_ru: 
  trans_en: 
 
 -lexeme
@@ -7027,7 +7027,7 @@
  stem: тарарат.
  gramm: IMIT
  paradigm: Empty
- trans_ru: о крике домашних и диких гусей: ~ карыны кричать «тарарат»
+ trans_ru: о крике гусей
  trans_en: 
 
 -lexeme

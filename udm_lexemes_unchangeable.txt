@@ -1243,7 +1243,7 @@
  stem: борӟемен.
  gramm: ADV
  paradigm: connect_adverbs
- trans_ru: верхом [на лошади]
+ trans_ru: верхом на лошади
  trans_en: 
 
 -lexeme
@@ -2637,14 +2637,6 @@
  paradigm: connect_adverbs
  trans_ru: снова
  trans_en: again
-
--lexeme
- lex: выльысь 
- stem: выльысь.
- gramm: ADV
- paradigm: connect_adverbs
- trans_ru: снова
- trans_en: 
 
 -lexeme
  lex: вылэ
@@ -6428,7 +6420,7 @@
  stem: куспатыса.
  gramm: ADV
  paradigm: connect_adverbs
- trans_ru: спустя несколько…, через
+ trans_ru: спустя несколько, через
  trans_en: 
 
 -lexeme
@@ -6812,7 +6804,7 @@
  stem: кӧнямында.
  gramm: ADV
  paradigm: connect_adverbs
- trans_ru: сколько, как много!
+ trans_ru: сколько, как много
  trans_en: 
 
 -lexeme
@@ -7620,7 +7612,7 @@
  stem: макемында.
  gramm: ADV
  paradigm: connect_adverbs
- trans_ru: множество, как много!
+ trans_ru: множество, как много
  trans_en: 
 
 -lexeme
@@ -9184,7 +9176,7 @@
  stem: ньыльнапала.
  gramm: ADV,ill
  paradigm: connect_adverbs
- trans_ru: на [все] четыре стороны
+ trans_ru: на все четыре стороны
  trans_en: 
 
 -lexeme
@@ -9584,7 +9576,7 @@
  stem: огарняскын.
  gramm: ADV
  paradigm: connect_adverbs
- trans_ru: [за] одну неделю
+ trans_ru: за одну неделю
  trans_en: 
 
 -lexeme
@@ -9592,7 +9584,7 @@
  stem: огарскын.
  gramm: ADV
  paradigm: connect_adverbs
- trans_ru: [за] один год
+ trans_ru: за один год
  trans_en: 
 
 -lexeme
@@ -9712,7 +9704,7 @@
  stem: оггужемскын.
  gramm: ADV
  paradigm: connect_adverbs
- trans_ru: за [одно] лето
+ trans_ru: за одно лето
  trans_en: 
 
 -lexeme
@@ -10008,7 +10000,7 @@
  stem: огмында.
  gramm: ADV
  paradigm: connect_adverbs
- trans_ru: поровну, одинаково [по количеству]
+ trans_ru: поровну, одинаково (по количеству)
  trans_en: 
 
 -lexeme
@@ -10016,7 +10008,7 @@
  stem: огмындаен.
  gramm: ADV
  paradigm: connect_adverbs
- trans_ru: поровну, одинаково [по количеству]
+ trans_ru: поровну, одинаково (по количеству)
  trans_en: 
 
 -lexeme
@@ -10224,7 +10216,7 @@
  stem: огсутка.
  gramm: ADV,rus
  paradigm: connect_adverbs
- trans_ru: [примерно] одни сутки
+ trans_ru: примерно одни сутки
  trans_en: 
 
 -lexeme
@@ -10248,7 +10240,7 @@
  stem: огсӥзьылскын.
  gramm: ADV
  paradigm: connect_adverbs
- trans_ru: за [одну] осень
+ trans_ru: за одну осень
  trans_en: 
 
 -lexeme
@@ -10256,7 +10248,7 @@
  stem: огтолскын.
  gramm: ADV
  paradigm: connect_adverbs
- trans_ru: за [одну] зиму
+ trans_ru: за одну зиму
  trans_en: 
 
 -lexeme
@@ -10264,7 +10256,7 @@
  stem: огтолэзьскын.
  gramm: ADV
  paradigm: connect_adverbs
- trans_ru: за [один] месяц
+ trans_ru: за один месяц
  trans_en: 
 
 -lexeme
@@ -10272,7 +10264,7 @@
  stem: огтулыскын.
  gramm: ADV
  paradigm: connect_adverbs
- trans_ru: за [одну] весну
+ trans_ru: за одну весну
  trans_en: 
 
 -lexeme
@@ -10304,7 +10296,7 @@
  stem: огуйскын.
  gramm: ADV
  paradigm: connect_adverbs
- trans_ru: за [одну] ночь
+ trans_ru: за одну ночь
  trans_en: 
 
 -lexeme
@@ -10488,7 +10480,7 @@
  stem: огӵош.
  gramm: ADV
  paradigm: connect_adverbs
- trans_ru: все одновременно [вместе], одновременно
+ trans_ru: все вместе, одновременно
  trans_en: 
 
 -lexeme
@@ -10496,7 +10488,7 @@
  stem: огӵукна.
  gramm: ADV
  paradigm: connect_adverbs
- trans_ru: однажды утром, в одно утро
+ trans_ru: однажды утром
  trans_en: 
 
 -lexeme
@@ -13638,7 +13630,7 @@
  stem: сӥзьылскын.
  gramm: ADV
  paradigm: connect_adverbs
- trans_ru: за [одну] осень
+ trans_ru: за одну осень
  trans_en: 
 
 -lexeme
@@ -19134,8 +19126,8 @@
  stem: алла.
  gramm: INTRJ
  paradigm: Empty
- trans_ru: господи!
- trans_en: my goodness!
+ trans_ru: господи
+ trans_en: my goodness
 
 -lexeme
  lex: алло
@@ -19494,7 +19486,7 @@
  stem: ма-ма-ма.
  gramm: INTRJ
  paradigm: Empty
- trans_ru: выражающее удивление: ну и ну!
+ trans_ru: ну и ну
  trans_en: 
 
 -lexeme
@@ -19678,7 +19670,7 @@
  stem: пиле-пиле.
  gramm: INTRJ
  paradigm: Comparative
- trans_ru: тыл. [тыловайский] возглас, которым подзывают ягнёнка
+ trans_ru: возглас, которым подзывают ягнёнка
  trans_en: 
 
 -lexeme
@@ -19710,7 +19702,7 @@
  stem: сябась.
  gramm: INTRJ
  paradigm: Comparative
- trans_ru: за здоровье! (возглас при произнесении тоста)
+ trans_ru: возглас при произнесении тоста
  trans_en: 
 
 -lexeme
@@ -19726,7 +19718,7 @@
  stem: тс.
  gramm: INTRJ
  paradigm: Comparative
- trans_ru: Тс!
+ trans_ru: тсс
  trans_en: 
 
 -lexeme
@@ -19742,7 +19734,7 @@
  stem: тылшунды.
  gramm: INTRJ
  paradigm: Comparative
- trans_ru: ей-богу!
+ trans_ru: ей-богу
  trans_en: 
 
 -lexeme
@@ -19814,7 +19806,7 @@
  stem: уаллахи.
  gramm: INTRJ
  paradigm: Empty
- trans_ru: ей-богу!, честное слово!
+ trans_ru: ей-богу, честное слово
  trans_en: 
 
 -lexeme
@@ -20518,7 +20510,7 @@
  stem: инмарвӧсь.
  gramm: PART
  paradigm: Empty
- trans_ru: Боже упаси!
+ trans_ru: Боже упаси
  trans_en: 
 
 -lexeme
@@ -21526,7 +21518,7 @@
  stem: оведь.
  gramm: PART
  paradigm: Comparative
- trans_ru: не так ли?
+ trans_ru: не так ли
  trans_en: 
 
 -lexeme
@@ -21772,17 +21764,9 @@
 -lexeme
  lex: спасибо
  stem: спасибо.
- gramm: PART,rus
+ gramm: INTRJ,rus
  paradigm: Comparative
  trans_ru: спасибо
- trans_en: 
-
--lexeme
- lex: сябась
- stem: сябась.
- gramm: PART
- paradigm: Empty
- trans_ru: за здоровье!
  trans_en: 
 
 -lexeme
@@ -21830,7 +21814,7 @@
  stem: тани.
  gramm: PART
  paradigm: connect_adverbs
- trans_ru: вот [здесь]
+ trans_ru: вот здесь
  trans_en: here
 
 -lexeme
@@ -21838,13 +21822,13 @@
  stem: тань.
  gramm: PART
  paradigm: connect_adverbs
- trans_ru: вот [здесь]
- trans_en: 
+ trans_ru: вот здесь
+ trans_en: here
 
 -lexeme
  lex: тау
  stem: тау.//таау.//тааау.//тауу.//таууу.//тауууу.
- gramm: PART
+ gramm: INTRJ
  paradigm: Comparative
  trans_ru: спасибо
  trans_en: thank you
@@ -21852,7 +21836,7 @@
 -lexeme
  lex: тауна
  stem: тауна.
- gramm: PART
+ gramm: INTRJ
  paradigm: Empty
  trans_ru: пожалуйста
  trans_en: 
@@ -21860,7 +21844,7 @@
 -lexeme
  lex: таушки
  stem: таушки.
- gramm: PART,rus_afx
+ gramm: INTRJ,rus_afx
  paradigm: Noun-num-consonant
  trans_ru: таушки
  trans_en: 
@@ -21868,7 +21852,7 @@
 -lexeme
  lex: тауэ
  stem: тауэ.
- gramm: PART,pl
+ gramm: INTRJ,pl
  paradigm: Comparative
  trans_ru: спасибо, благодарю
  trans_en: 
@@ -21876,7 +21860,15 @@
 -lexeme
  lex: тауэлэ
  stem: тауэлэ.
- gramm: PART
+ gramm: INTRJ,pl
+ paradigm: Comparative
+ trans_ru: спасибо всем
+ trans_en: 
+
+-lexeme
+ lex: таулэ
+ stem: таулэ.
+ gramm: INTRJ,pl
  paradigm: Comparative
  trans_ru: спасибо всем
  trans_en: 
@@ -23160,14 +23152,6 @@
  trans_en: 
 
 -lexeme
- lex: таулэ
- stem: таулэ.
- gramm: PREDIC
- paradigm: Comparative
- trans_ru: благодарю Вас!
- trans_en: 
-
--lexeme
  lex: тырмоз
  stem: тырмоз.
  gramm: PREDIC
@@ -23405,7 +23389,7 @@
  stem: ӧй.
  gramm: V,pst
  paradigm: Comparative
- trans_ru: не (прош. вр. глагола "быть")
+ trans_ru: не (прош. вр. глагола быть)
  trans_en: not
 
 -lexeme
