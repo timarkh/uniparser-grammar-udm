@@ -168882,3 +168882,67 @@
  paradigm: Noun-num-vowel-dial-iy
  trans_ru: старик, старец
  trans_en:
+
+-lexeme
+ lex: брод
+ gramm: N,rus
+ stem: брод.
+ paradigm: Noun-num-consonant
+ trans_ru: брод
+
+-lexeme
+ lex: ватсап
+ gramm: N
+ stem: ватсап.//вацап.
+ paradigm: Noun-num-consonant
+ trans_ru: ватсап (WhatsApp)
+
+-lexeme
+ lex: файда
+ gramm: N
+ stem: файда.
+ paradigm: Noun-num-vowel
+ trans_ru: польза
+
+-lexeme
+ lex: эмезьлык
+ gramm: N
+ stem: эмезьлык.
+ paradigm: Noun-num-consonant
+ trans_ru: малинник
+
+-lexeme
+ lex: ЛТШ
+ gramm: N,abbr
+ stem: лтш.//лтш-.
+ paradigm: Noun-num-consonant
+ trans_ru: ЛТШ (вид станка)
+
+-lexeme
+ lex: умась
+ gramm: N
+ stem: умас.
+ paradigm: Noun-num-soft
+ trans_ru: клёцки
+
+-lexeme
+ lex: жук
+ gramm: N,anim,rus
+ stem: жук.
+ paradigm: Noun-num-consonant
+ trans_ru: жук
+
+-lexeme
+ lex: там
+ gramm: N
+ stem: там.
+ paradigm: Noun-num-consonant
+ trans_ru: вкус
+
+-lexeme
+ lex: триммер
+ gramm: N,rus
+ stem: триммер.
+ paradigm: Noun-num-consonant
+ trans_ru: триммер
+

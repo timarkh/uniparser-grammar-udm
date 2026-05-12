@@ -793,6 +793,14 @@
  trans_en: for some time
 
 -lexeme
+ lex: соня
+ gramm: ADVPRO
+ stem: соня.
+ paradigm: connect_adverbs_px
+ trans_ru: столько
+ trans_en: that many, that much
+
+-lexeme
  lex: сомында
  stem: сомында.//содмында.
  gramm: ADV

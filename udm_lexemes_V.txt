@@ -66506,7 +66506,29 @@
 -lexeme
  lex: Кадырметь
  stem: кадырметь.
- gramm: V_inf,PN,famn
+ gramm: N,PN,famn
  paradigm: Comparative
  trans_ru: Кадырметь
  trans_en:
+
+-lexeme
+ lex: мускилляны
+ gramm: V,intr,II
+ stem: мускилля.
+ paradigm: connect_verbs-II
+ trans_ru: кататься
+
+-lexeme
+ lex: тыныльыны
+ gramm: V,I,intr
+ stem: тыныл.
+ paradigm: connect_verbs-I-soft
+ trans_ru: надоедать
+
+-lexeme
+ lex: ыльыштырыны
+ gramm: V,tr,I
+ stem: ыльыштыр.
+ paradigm: connect_verbs-I
+ trans_ru: замачивать
+

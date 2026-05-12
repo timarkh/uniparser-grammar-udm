@@ -124640,3 +124640,38 @@
  trans_ru: Маэ
  trans_en: 
 
+-lexeme
+ lex: Тевкелев
+ gramm: N,famn,PN
+ stem: тевкелев.
+ paradigm: Noun-num-consonant
+ trans_ru: Тевкелев
+
+-lexeme
+ lex: Сеянтус
+ gramm: N,topn,PN
+ stem: сеянтус.
+ paradigm: Noun-num-consonant
+ trans_ru: Сеянтус
+
+-lexeme
+ lex: Фатӥк
+ gramm: N,PN,persn
+ stem: фатӥк.
+ paradigm: Noun-num-consonant
+ trans_ru: Фатик (Фатихьян)
+
+-lexeme
+ lex: Факина
+ gramm: N,persn,PN
+ stem: факина.
+ paradigm: Noun-num-vowel
+ trans_ru: Факина
+
+-lexeme
+ lex: Аскын
+ gramm: N,topn,PN
+ stem: аскын.
+ paradigm: Noun-num-consonant
+ trans_ru: Аскино
+
