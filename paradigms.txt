@@ -6958,6 +6958,7 @@
   gramm: hort,pl
   gloss: HORT.PL
   regex-prev: ^.*[аеёиӥоӧуыэюяъь'‘][<>.]*$
+ paradigm: Comparative
 
 -paradigm: Verb-imp-I-soft
  -flex: .[ь]<.>

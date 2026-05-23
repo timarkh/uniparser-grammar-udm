@@ -11225,7 +11225,7 @@
  gramm: ADV,ill
  paradigm: connect_adverbs
  trans_ru: наружу, во двор, на улицу
- trans_en: 
+ trans_en: outside
 
 -lexeme
  lex: педлань
@@ -11233,7 +11233,7 @@
  gramm: ADV
  paradigm: connect_adverbs
  trans_ru: наружу, во двор, на улицу
- trans_en: 
+ trans_en: outside
 
 -lexeme
  lex: педлань
@@ -11241,7 +11241,7 @@
  gramm: ADV,loc
  paradigm: connect_adverbs
  trans_ru: снаружи, во дворе, на улице
- trans_en: 
+ trans_en: outside
 
 -lexeme
  lex: педлань
@@ -11250,7 +11250,7 @@
  paradigm: poss-pl
  paradigm: poss-sg
  trans_ru: наружу, во двор, на улицу
- trans_en: 
+ trans_en: outside
 
 -lexeme
  lex: педлань
@@ -11259,7 +11259,7 @@
  paradigm: poss-pl
  paradigm: poss-sg
  trans_ru: снаружи, во дворе, на улице
- trans_en: 
+ trans_en: outside
 
 -lexeme
  lex: педланьтӥ
@@ -11269,7 +11269,7 @@
  paradigm: poss-pl
  paradigm: poss-sg
  trans_ru: снаружи, с наружней стороны
- trans_en: 
+ trans_en: outside
 
 -lexeme
  lex: педласянь
@@ -11277,7 +11277,7 @@
  gramm: ADV
  paradigm: connect_adverbs
  trans_ru: извне, снаружи
- trans_en: 
+ trans_en: from outside
 
 -lexeme
  lex: педло
@@ -11285,7 +11285,7 @@
  gramm: ADV
  paradigm: connect_adverbs
  trans_ru: во двор, на улицу, наружу
- trans_en: 
+ trans_en: outside
 
 -lexeme
  lex: педлон
@@ -11293,7 +11293,7 @@
  gramm: ADV,loc
  paradigm: connect_adverbs
  trans_ru: во дворе, на улице
- trans_en: 
+ trans_en: outside
 
 -lexeme
  lex: педлосен
@@ -11301,15 +11301,15 @@
  gramm: ADV,egr
  paradigm: connect_adverbs
  trans_ru: со двора, с улицы
- trans_en: 
+ trans_en: from outside
 
 -lexeme
  lex: педлось
- stem: педлос.
+ stem: педлось.
  gramm: ADV,el
  paradigm: connect_adverbs
  trans_ru: со двора, с улицы
- trans_en: 
+ trans_en: from outside
 
 -lexeme
  lex: педлотӥ
@@ -11317,7 +11317,7 @@
  gramm: ADV,prol
  paradigm: connect_adverbs
  trans_ru: по двору, по улице
- trans_en: 
+ trans_en: outside
 
 -lexeme
  lex: педпалласянь
@@ -11325,7 +11325,7 @@
  gramm: ADV
  paradigm: connect_adverbs
  trans_ru: извне, снаружи
- trans_en: 
+ trans_en: from outside
 
 -lexeme
  lex: пезьгыт
@@ -14479,6 +14479,40 @@
  paradigm: connect_adverbs
  trans_ru: старательно
  trans_en: diligently
+
+-lexeme
+ lex: тырысен
+ stem: тырысен.
+ gramm: POST
+ paradigm: connect_adverbs
+ trans_ru: с каких-то пор
+ trans_en: since
+
+-lexeme
+ lex: тырысен
+ stem: тырысены.
+ gramm: POST
+ paradigm: poss-pl
+ paradigm: poss-sg
+ trans_ru: с каких-то пор
+ trans_en: since
+
+-lexeme
+ lex: тырысь
+ stem: тырысь.
+ gramm: POST
+ paradigm: connect_adverbs
+ trans_ru: с каких-то пор
+ trans_en: since
+
+-lexeme
+ lex: тырысь
+ stem: тырысьты.
+ gramm: POST
+ paradigm: poss-pl
+ paradigm: poss-sg
+ trans_ru: с каких-то пор
+ trans_en: since
 
 -lexeme
  lex: тыштэм-дуртэм

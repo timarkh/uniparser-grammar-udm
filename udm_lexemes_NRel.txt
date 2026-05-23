@@ -321,6 +321,15 @@
  trans_en: near, at
 
 -lexeme
+ lex: дӥнь
+ stem: дӥн.
+ gramm: N,rel_n
+ paradigm: Noun-num-soft
+ paradigm: Noun-num-soft-y
+ trans_ru: около
+ trans_en: near, at
+
+-lexeme
  lex: места
  stem: места.
  gramm: N,rel_n

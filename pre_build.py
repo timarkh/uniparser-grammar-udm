@@ -283,5 +283,5 @@ if __name__ == '__main__':
     parse_wordlists()
     # from uniparser_udmurt import UdmurtAnalyzer
     # a = UdmurtAnalyzer(mode='strict')
-    # for wf in a.analyze_words(['йӧнатскыны', 'лудтӥ', 'тӥялтоно', 'кизьыкуз', 'иськавынлэсь'], format='xml'):
+    # for wf in a.analyze_words(['иоаннзэ', 'тырысен', 'тырысь', 'тырысьтым', 'черетскыса'], format='xml'):
     #     print(wf)

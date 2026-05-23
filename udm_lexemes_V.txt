@@ -6312,14 +6312,6 @@
  trans_en: show
 
 -lexeme
- lex: возьматыны
- stem: возьмат.
- gramm: V,I,tr
- paradigm: connect_verbs-I
- trans_ru: показать, выразить, отобразить, изобразить
- trans_en: 
-
--lexeme
  lex: возьыны
  stem: воз.
  gramm: V,I,tr
@@ -10912,7 +10904,7 @@
  trans_en: 
 
 -lexeme
- lex: гыркйыны
+ lex: гырккыны
  stem: гыркк.
  gramm: V,I,tr
  paradigm: connect_verbs-I
@@ -21353,14 +21345,6 @@
 
 -lexeme
  lex: кошкыны
- stem: кош.
- gramm: V,I,intr,with_el,with_ill,neg
- paradigm: Comparative
- trans_ru: уйти
- trans_en: leave
-
--lexeme
- lex: кошкыны
  stem: кошк.
  gramm: V,I,intr,with_el,with_ill
  paradigm: connect_verbs-I
@@ -26981,15 +26965,7 @@
  gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: приблизиться, сблизиться
- trans_en: 
-
--lexeme
- lex: матэтскыны
- stem: матэтск.
- gramm: V,I,intr
- paradigm: connect_verbs-I
- trans_ru: приблизиться; сблизиться
- trans_en: 
+ trans_en: get closer
 
 -lexeme
  lex: матэяны
@@ -27612,16 +27588,8 @@
  stem: мозт.
  gramm: V,I,tr
  paradigm: connect_verbs-I
- trans_ru: диал. освободить; отпустить
- trans_en: 
-
--lexeme
- lex: мозтыны
- stem: мозт.
- gramm: V,I,tr
- paradigm: connect_verbs-I
  trans_ru: освободить, отцепить
- trans_en: 
+ trans_en: free, decouple
 
 -lexeme
  lex: молчать
@@ -52125,7 +52093,7 @@
  gramm: V,I,intr
  paradigm: connect_verbs-I
  trans_ru: зимовать
- trans_en: 
+ trans_en: spend winter
 
 -lexeme
  lex: толйыны
@@ -52133,7 +52101,7 @@
  gramm: V,I,intr
  paradigm: connect_verbs-I-soft
  trans_ru: зимовать
- trans_en: 
+ trans_en: spend winter
 
 -lexeme
  lex: толкать
@@ -58580,7 +58548,7 @@
  stem: чирект.
  gramm: V,I,intr
  paradigm: connect_verbs-I
- trans_ru: диал. позвать, окликнуть, окрикнуть; крикнуть
+ trans_ru: крикнуть
  trans_en: 
 
 -lexeme
@@ -58588,7 +58556,7 @@
  stem: чирект.
  gramm: V,I,tr
  paradigm: connect_verbs-I
- trans_ru: диал. позвать, окликнуть, окрикнуть; крикнуть, вскрикнуть
+ trans_ru: позвать, окликнуть
  trans_en: 
 
 -lexeme
